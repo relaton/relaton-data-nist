@@ -57,8 +57,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: LK
+      initial:
+      - content: L
+        language:
+        - en
+        script:
+        - Latn
+      - content: K
         language:
         - en
         script:
@@ -74,13 +79,7 @@ contributor:
 - person:
     name:
       forename:
-      - content: Arthur
-        language:
-        - en
-        script:
-        - Latn
-      initial:
-      - content: W
+      - content: Arthur W
         language:
         - en
         script:

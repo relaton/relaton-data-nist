@@ -1,0 +1,106 @@
+---
+id: NISTCSWP2
+title:
+- content: Summary of NIST SP 800-53 Revision 4, Security and Privacy Controls for
+    Federal Information Systems and Organizations
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.CSWP.2
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.02192014.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST CSWP 2
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.CSWP.2
+  type: DOI
+date:
+- type: published
+  value: '2014'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Kelley
+          script:
+          - Latn
+        formatted_initials: 
+      surname:
+        content: Dempsey
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - author
+- person:
+    name:
+      given:
+        forename:
+        - content: Greg
+          script:
+          - Latn
+        formatted_initials: 
+      surname:
+        content: Witte
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - author
+- person:
+    name:
+      given:
+        forename:
+        - content: Doug
+          script:
+          - Latn
+        formatted_initials: 
+      surname:
+        content: Rike
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - publisher
+revdate: '2014'
+script:
+- Latn
+abstract:
+- script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST Cybersecurity White Papers
+    format: text/plain
+  abbreviation:
+    content: CSWP
+  number: '2'
+fetched: '2022-08-24'
+doctype: standard

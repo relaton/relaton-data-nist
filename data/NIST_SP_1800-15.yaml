@@ -1,0 +1,538 @@
+---
+id: NISTSP1800-15
+title:
+- content: 'Securing Small-Business and Home Internet of Things (IoT) Devices: Mitigating
+    Network-Based Attacks Using Manufacturer Usage Description (MUD)'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.SP.1800-15
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-15.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST SP 1800-15
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.SP.1800-15
+  type: DOI
+date:
+- type: published
+  value: '2021-05-25'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Donna
+          script:
+          - Latn
+        formatted_initials: 
+      surname:
+        content: Dodson
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - author
+- person:
+    name:
+      given:
+        forename:
+        - content: Douglas
+          script:
+          - Latn
+        formatted_initials: 
+      surname:
+        content: Montgomery
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - author
+- person:
+    name:
+      given:
+        forename:
+        - content: Tim
+          script:
+          - Latn
+        formatted_initials: 
+      surname:
+        content: Polk
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - author
+- person:
+    name:
+      given:
+        forename:
+        - content: Mudumbai
+          script:
+          - Latn
+        formatted_initials: 
+      surname:
+        content: Ranganathan
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - author
+- person:
+    name:
+      given:
+        forename:
+        - content: Murugiah
+          script:
+          - Latn
+        formatted_initials: 
+      surname:
+        content: Souppaya
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - author
+- person:
+    name:
+      given:
+        forename:
+        - content: Steve
+          script:
+          - Latn
+        formatted_initials: 
+      surname:
+        content: Johnson
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - author
+- person:
+    name:
+      given:
+        forename:
+        - content: Ashwini
+          script:
+          - Latn
+        formatted_initials: 
+      surname:
+        content: Kadam
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - author
+- person:
+    name:
+      given:
+        forename:
+        - content: Craig
+          script:
+          - Latn
+        formatted_initials: 
+      surname:
+        content: Pratt
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - author
+- person:
+    name:
+      given:
+        forename:
+        - content: Darshak
+          script:
+          - Latn
+        formatted_initials: 
+      surname:
+        content: Thakore
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - author
+- person:
+    name:
+      given:
+        forename:
+        - content: Mark
+          script:
+          - Latn
+        formatted_initials: 
+      surname:
+        content: Walker
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - author
+- person:
+    name:
+      given:
+        forename:
+        - content: Eliot
+          script:
+          - Latn
+        formatted_initials: 
+      surname:
+        content: Lear
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - author
+- person:
+    name:
+      given:
+        forename:
+        - content: Brian
+          script:
+          - Latn
+        formatted_initials: 
+      surname:
+        content: Weis
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - author
+- person:
+    name:
+      given:
+        forename:
+        - content: William C.
+          script:
+          - Latn
+        formatted_initials: 
+      surname:
+        content: Barker
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - author
+- person:
+    name:
+      given:
+        forename:
+        - content: Dean
+          script:
+          - Latn
+        formatted_initials: 
+      surname:
+        content: Coclin
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - author
+- person:
+    name:
+      given:
+        forename:
+        - content: Avesta
+          script:
+          - Latn
+        formatted_initials: 
+      surname:
+        content: Hojjati
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - author
+- person:
+    name:
+      given:
+        forename:
+        - content: Clint
+          script:
+          - Latn
+        formatted_initials: 
+      surname:
+        content: Wilson
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - author
+- person:
+    name:
+      given:
+        forename:
+        - content: Tim
+          script:
+          - Latn
+        formatted_initials: 
+      surname:
+        content: Jones
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - author
+- person:
+    name:
+      given:
+        forename:
+        - content: Adnan
+          script:
+          - Latn
+        formatted_initials: 
+      surname:
+        content: Baykal
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - author
+- person:
+    name:
+      given:
+        forename:
+        - content: Drew
+          script:
+          - Latn
+        formatted_initials: 
+      surname:
+        content: Cohen
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - author
+- person:
+    name:
+      given:
+        forename:
+        - content: Kevin
+          script:
+          - Latn
+        formatted_initials: 
+      surname:
+        content: Yeich
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - author
+- person:
+    name:
+      given:
+        forename:
+        - content: Yemi
+          script:
+          - Latn
+        formatted_initials: 
+      surname:
+        content: Fashina
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - author
+- person:
+    name:
+      given:
+        forename:
+        - content: Parisa
+          script:
+          - Latn
+        formatted_initials: 
+      surname:
+        content: Grayeli
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - author
+- person:
+    name:
+      given:
+        forename:
+        - content: Joshua
+          script:
+          - Latn
+        formatted_initials: 
+      surname:
+        content: Harrington
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - author
+- person:
+    name:
+      given:
+        forename:
+        - content: Joshua
+          script:
+          - Latn
+        formatted_initials: 
+      surname:
+        content: Klosterman
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - author
+- person:
+    name:
+      given:
+        forename:
+        - content: Blaine
+          script:
+          - Latn
+        formatted_initials: 
+      surname:
+        content: Mulugeta
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - author
+- person:
+    name:
+      given:
+        forename:
+        - content: Susan
+          script:
+          - Latn
+        formatted_initials: 
+      surname:
+        content: Symington
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - author
+- person:
+    name:
+      given:
+        forename:
+        - content: Jaideep
+          script:
+          - Latn
+        formatted_initials: 
+      surname:
+        content: Singh
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    abbreviation:
+      content: NIST
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - publisher
+revdate: '2021-05-25'
+script:
+- Latn
+series:
+- title:
+    content: NIST Special Publications (General)
+    format: text/plain
+  abbreviation:
+    content: SP
+  number: 1800-15
+place:
+- Gaithersburg, MD
+fetched: '2022-08-24'
+doctype: standard

@@ -1,0 +1,122 @@
+---
+schema-version: v1.2.1
+id: NISTIR8393
+title:
+- content: Sensitivity to X-Ray Computed Tomography Instrument Geometry Errors as
+    a Function of Rotation Stage Position, Detector Position, and Detector Size
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.IR.8393
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8393.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST IR 8393
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.IR.8393
+  type: DOI
+date:
+- type: published
+  value: '2021-09-28'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Bala
+          script:
+          - Latn
+      surname:
+        content: Muralikrishnan
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Physical Measurement Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Prashanth
+          script:
+          - Latn
+      surname:
+        content: Jaganmoha
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Physical Measurement Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Meghan
+          script:
+          - Latn
+      surname:
+        content: Shilling
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Physical Measurement Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Ed
+          script:
+          - Latn
+      surname:
+        content: Morse
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Physical Measurement Laboratory
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    abbreviation:
+      content: NIST
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2021-09-28'
+script:
+- Latn
+series:
+- title:
+    content: NIST NISTIRs (Interagency/Internal Reports)
+    format: text/plain
+  abbreviation:
+    content: IR
+  number: '8393'
+place:
+- Gaithersburg, MD
+doctype: standard
+ext:
+  schema-version: v1.0.0

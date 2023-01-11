@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.1
+id: NISTTN2217
+title:
+- content: IEC 61850 Profile for Distributed Energy Resources Supporting IEEE 1547
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.TN.2217
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2217.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST TN 2217
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.TN.2217
+  type: DOI
+date:
+- type: published
+  value: '2022-05-04'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Oral
+          script:
+          - Latn
+      surname:
+        content: Hasan Giray
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Communications Technology Laboratory
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    abbreviation:
+      content: NIST
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2022-05-04'
+script:
+- Latn
+series:
+- title:
+    content: NIST Technical Notes
+    format: text/plain
+  abbreviation:
+    content: TN
+  number: '2217'
+place:
+- Gaithersburg, MD
+doctype: standard
+ext:
+  schema-version: v1.0.0

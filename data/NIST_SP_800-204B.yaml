@@ -1,0 +1,105 @@
+---
+schema-version: v1.2.1
+id: NISTSP800-204B
+title:
+- content: Attribute-based Access Control for Microservices-based Applications Using
+    a Service Mesh
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.SP.800-204B
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-204B.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST SP 800-204B
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.SP.800-204B
+  type: DOI
+date:
+- type: published
+  value: '2021-08-06'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Ramaswamy
+          script:
+          - Latn
+      surname:
+        content: Chandramouli
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Zack
+          script:
+          - Latn
+      surname:
+        content: Butcher
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Aradhna
+          script:
+          - Latn
+      surname:
+        content: Chetal
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    abbreviation:
+      content: NIST
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2021-08-06'
+script:
+- Latn
+series:
+- title:
+    content: NIST Special Publications (General)
+    format: text/plain
+  abbreviation:
+    content: SP
+  number: 800-204B
+place:
+- Gaithersburg, MD
+doctype: standard
+ext:
+  schema-version: v1.0.0

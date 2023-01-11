@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.1
+id: NISTIR8449
+title:
+- content: Cannabis Quality Assurance Program:Exercise 2 Moisture Final Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.IR.8449
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8449.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST IR 8449
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.IR.8449
+  type: DOI
+date:
+- type: published
+  value: '2022'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Chuck
+          script:
+          - Latn
+      surname:
+        content: Barber
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Material Measurement Laboratory
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2022'
+script:
+- Latn
+abstract:
+- script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST NISTIRs (Interagency/Internal Reports)
+    format: text/plain
+  abbreviation:
+    content: IR
+  number: '8449'
+doctype: standard
+ext:
+  schema-version: v1.0.0

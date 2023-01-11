@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.1
+id: NISTIR8428
+title:
+- content: Digital Forensics and Incident Response (DFIR) Framework for Operational
+    Technology (OT)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.IR.8428
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8428.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST IR 8428
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.IR.8428
+  type: DOI
+date:
+- type: published
+  value: '2022-06-22'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Eran
+          script:
+          - Latn
+      surname:
+        content: Salfati
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Communications Technology Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Michael
+          script:
+          - Latn
+      surname:
+        content: Pease
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Communications Technology Laboratory
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    abbreviation:
+      content: NIST
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2022-06-22'
+script:
+- Latn
+series:
+- title:
+    content: NIST NISTIRs (Interagency/Internal Reports)
+    format: text/plain
+  abbreviation:
+    content: IR
+  number: '8428'
+place:
+- Gaithersburg, MD
+doctype: standard
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,131 @@
+---
+schema-version: v1.2.1
+id: NISTIR5691v1
+title:
+- content: Unravel:a case tool to assist evaluation of high integrity software
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.IR.5691v1
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5691v1.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST IR 5691v1
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.IR.5691v1
+  type: DOI
+date:
+- type: published
+  value: '1995'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: James R
+          script:
+          - Latn
+      surname:
+        content: Lyle
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Dolores R
+          script:
+          - Latn
+      surname:
+        content: Wallace
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: James R
+          script:
+          - Latn
+      surname:
+        content: Graham
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Keith B
+          script:
+          - Latn
+      surname:
+        content: Gallagher
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Joseph P
+          script:
+          - Latn
+      surname:
+        content: Poole
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: David W
+          script:
+          - Latn
+      surname:
+        content: Binkley
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    abbreviation:
+      content: NIST
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '1995'
+script:
+- Latn
+series:
+- title:
+    content: NIST NISTIRs (Interagency/Internal Reports)
+    format: text/plain
+  abbreviation:
+    content: IR
+  number: 5691v1
+place:
+- Gaithersburg, MD
+doctype: standard
+ext:
+  schema-version: v1.0.0

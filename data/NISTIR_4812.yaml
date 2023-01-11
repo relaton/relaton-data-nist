@@ -1,0 +1,180 @@
+---
+schema-version: v1.2.1
+id: NISTIR4812
+title:
+- content: Mass energy-transfer and mass energy-absorption coefficients, including
+    in-flight positron annihilation for photon energies 1 keV to 100 MeV
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.IR.4812
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4812.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST IR 4812
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.IR.4812
+  type: DOI
+date:
+- type: published
+  value: '1992'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: P D
+          script:
+          - Latn
+          initial: P
+        - script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: P D
+          script:
+          - Latn
+      surname:
+        content: Higgens
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: F H
+          script:
+          - Latn
+          initial: F
+        - script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: F H
+          script:
+          - Latn
+      surname:
+        content: Attix
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: J H
+          script:
+          - Latn
+          initial: J
+        - script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: J H
+          script:
+          - Latn
+      surname:
+        content: Hubbell
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: S M
+          script:
+          - Latn
+          initial: S
+        - script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: S M
+          script:
+          - Latn
+      surname:
+        content: Seltzer
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: M J
+          script:
+          - Latn
+          initial: M
+        - script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: M J
+          script:
+          - Latn
+      surname:
+        content: Berger
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: C H
+          script:
+          - Latn
+          initial: C
+        - script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: C H
+          script:
+          - Latn
+      surname:
+        content: Sibata
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    abbreviation:
+      content: NIST
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '1992'
+script:
+- Latn
+series:
+- title:
+    content: NIST NISTIRs (Interagency/Internal Reports)
+    format: text/plain
+  abbreviation:
+    content: IR
+  number: '4812'
+place:
+- Gaithersburg, MD
+doctype: standard
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,142 @@
+---
+schema-version: v1.2.1
+id: NBSSP594
+title:
+- content: Nuclear cross sections for technology
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NBS.SP.594
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication594.pdf
+  type: pdf
+type: standard
+docid:
+- id: NBS SP 594
+  type: NIST
+  primary: true
+- id: 10.6028/NBS.SP.594
+  type: DOI
+date:
+- type: published
+  value: '1980'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: J L
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+        - language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: J L
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Fowler
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: C H
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        - language:
+          - en
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: C H
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Johnson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: C D
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        - language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: C D
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Bowman
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Bureau of Standards
+    abbreviation:
+      content: NBS
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '1980'
+language:
+- en
+script:
+- Latn
+series:
+- title:
+    content: NBS Special Publications (General)
+    format: text/plain
+  abbreviation:
+    content: SP
+  number: '594'
+place:
+- Gaithersburg, MD
+doctype: standard
+ext:
+  schema-version: v1.0.0

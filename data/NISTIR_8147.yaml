@@ -1,0 +1,105 @@
+---
+schema-version: v1.2.1
+id: NISTIR8147
+title:
+- content: 'Measuring Airborne Emissions from Cigarette Butts: Literature Review and
+    Experimental Plan'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.IR.8147
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8147.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST IR 8147
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.IR.8147
+  type: DOI
+date:
+- type: published
+  value: 2016-10
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Dustin G.
+          script:
+          - Latn
+      surname:
+        content: Poppendieck
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Engineering Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Shahana S.
+          script:
+          - Latn
+      surname:
+        content: Khurshid
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Engineering Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Steven J.
+          script:
+          - Latn
+      surname:
+        content: Emmerich
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Engineering Laboratory
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    abbreviation:
+      content: NIST
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: 2016-10
+script:
+- Latn
+series:
+- title:
+    content: NIST NISTIRs (Interagency/Internal Reports)
+    format: text/plain
+  abbreviation:
+    content: IR
+  number: '8147'
+place:
+- Gaithersburg, MD
+doctype: standard
+ext:
+  schema-version: v1.0.0

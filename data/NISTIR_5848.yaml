@@ -1,0 +1,96 @@
+---
+schema-version: v1.2.1
+id: NISTIR5848
+title:
+- content: On the notion of a *-vector and a stress tensor for a general class of
+    anisotropic diffuse interface models
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.IR.5848
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5848.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST IR 5848
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.IR.5848
+  type: DOI
+date:
+- type: published
+  value: '1996'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: A A
+          script:
+          - Latn
+          initial: A
+        - script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A A
+          script:
+          - Latn
+      surname:
+        content: Wheeler
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: G B
+          script:
+          - Latn
+          initial: G
+        - script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: G B
+          script:
+          - Latn
+      surname:
+        content: McFadden
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    abbreviation:
+      content: NIST
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '1996'
+script:
+- Latn
+series:
+- title:
+    content: NIST NISTIRs (Interagency/Internal Reports)
+    format: text/plain
+  abbreviation:
+    content: IR
+  number: '5848'
+place:
+- Gaithersburg, MD
+doctype: standard
+ext:
+  schema-version: v1.0.0

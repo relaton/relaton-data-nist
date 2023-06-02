@@ -2,4 +2,4 @@
 
 source 'https://rubygems.org'
 
-gem 'relaton-nist'
+gem 'relaton-nist', github: 'relaton/relaton-nist', branch: 'main'

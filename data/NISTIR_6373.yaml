@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6373
 title:
-- content: Economic impacts of flow-control machining technologies :early applications
-    in the automobile industry
+- content: |-
+    Economic impacts of flow-control machining technologies :
+    early applications in the automobile industry
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Mark A
+        - content: Mark
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:

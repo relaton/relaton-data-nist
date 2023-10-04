@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7174
 title:
-- content: Evaluation best practices and results :the advanced technology program
+- content: |-
+    Evaluation best practices and results :
+    the advanced technology program
   language:
   - en
   script:
@@ -45,7 +47,19 @@ contributor:
     name:
       given:
         forename:
-        - content: Connie K N
+        - content: Connie
+          language:
+          - en
+          script:
+          - Latn
+          initial: K
+        - language:
+          - en
+          script:
+          - Latn
+          initial: N
+        formatted_initials:
+          content: K N
           language:
           - en
           script:

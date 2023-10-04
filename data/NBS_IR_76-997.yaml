@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR76-997
 title:
-- content: Proceedings of Procurement Practices Symposium - Health Care :October 14-16,
-    1975
+- content: |-
+    Proceedings of Procurement Practices Symposium - Health Care :
+    October 14-16, 1975
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Joseph G
+        - content: Joseph
+          language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G
           language:
           - en
           script:

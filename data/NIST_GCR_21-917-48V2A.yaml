@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTGCR21-917-48v2A
 title:
-- content: Seismic design of archetype steel buildings in central and eastern United
-    States :volume 2A - 7-story healthcare building in Long Island, New York
+- content: |-
+    Seismic design of archetype steel buildings in central and eastern United States :
+    volume 2A - 7-story healthcare building in Long Island, New York
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: John L
+        - content: John
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:

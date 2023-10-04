@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR4688
 title:
-- content: Prototyping the IRDS:an airport application
+- content: |-
+    Prototyping the IRDS:
+    an airport application
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Anthony P
+        - content: Anthony
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P
           script:
           - Latn
       surname:

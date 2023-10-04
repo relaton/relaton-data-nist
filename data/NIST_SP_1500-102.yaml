@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP1500-102
 title:
-- content: Voter records interchange common data format specification :version 1.0
+- content: |-
+    Voter records interchange common data format specification :
+    version 1.0
   language:
   - en
   script:
@@ -62,7 +64,11 @@ contributor:
     name:
       given:
         forename:
-        - content: E John
+        - script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: 'E '
           script:
           - Latn
       surname:
@@ -96,7 +102,12 @@ contributor:
     name:
       given:
         forename:
-        - content: John P
+        - content: John
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P
           script:
           - Latn
       surname:

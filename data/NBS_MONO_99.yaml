@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSMONO99
 title:
-- content: Automatic typographic-quality typesetting techniques :a state-of-the-art
-    review
+- content: |-
+    Automatic typographic-quality typesetting techniques :
+    a state-of-the-art review
   language:
   - en
   script:
@@ -46,7 +47,14 @@ contributor:
     name:
       given:
         forename:
-        - content: John L
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           language:
           - en
           script:

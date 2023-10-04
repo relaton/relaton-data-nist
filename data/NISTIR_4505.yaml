@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR4505
 title:
-- content: Standard Reference Data Program:technical activities 1990
+- content: |-
+    Standard Reference Data Program:
+    technical activities 1990
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Malcolm W
+        - content: Malcolm
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           script:
           - Latn
       surname:

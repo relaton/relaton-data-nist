@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR4409
 title:
-- content: 1989 Computer Security and Privacy Plans (CSSP) review project:a first-year
-    Federal response to the Computer Security Act of 1987 (final report)
+- content: |-
+    1989 Computer Security and Privacy Plans (CSSP) review project:
+    a first-year Federal response to the Computer Security Act of 1987 (final report)
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Dennis M
+        - content: Dennis
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:

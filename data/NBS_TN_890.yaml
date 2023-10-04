@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN890
 title:
-- content: Productivity measurement in r&d :productivity measurement experiment (PROMEX)
-    in selected research and development programs at the National Bureau of Standards
+- content: |-
+    Productivity measurement in r&d :
+    productivity measurement experiment (PROMEX) in selected research and development programs at the National Bureau of Standards
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: John T
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           language:
           - en
           script:

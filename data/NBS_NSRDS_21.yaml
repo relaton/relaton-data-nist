@@ -28,7 +28,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Sidney W
+        - content: Sidney
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           language:
           - en
           script:
@@ -45,7 +52,13 @@ contributor:
     name:
       given:
         forename:
-        - content: H Edward
+        - language:
+          - en
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: 'H '
           language:
           - en
           script:

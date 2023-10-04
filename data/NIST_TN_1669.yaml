@@ -51,8 +51,7 @@ contributor:
     name:
       given:
         forename:
-        - content: H.S.
-          language:
+        - language:
           - en
           script:
           - Latn
@@ -85,7 +84,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Joseph A.
+        - content: Joseph
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
           language:
           - en
           script:
@@ -107,7 +113,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Stephen D.
+        - content: Stephen
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D.
           language:
           - en
           script:
@@ -129,7 +142,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Vincent P.
+        - content: Vincent
+          language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P.
           language:
           - en
           script:

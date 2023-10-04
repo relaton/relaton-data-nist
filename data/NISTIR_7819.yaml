@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7819
 title:
-- content: Interlaboratory analytical comparison study to support deepwater horizon
-    natural resource damage assessment:description and results for mussel tissue QA10TIS01
+- content: |-
+    Interlaboratory analytical comparison study to support deepwater horizon natural resource damage assessment:
+    description and results for mussel tissue QA10TIS01
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Michele M
+        - content: Michele
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:
@@ -42,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: John R
+        - content: John
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           script:
           - Latn
       surname:

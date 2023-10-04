@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR5720
 title:
-- content: User's guide to SuperFit:modeling software for CMM probe lobing
+- content: |-
+    User's guide to SuperFit:
+    modeling software for CMM probe lobing
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Theodore H
+        - content: Theodore
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           script:
           - Latn
       surname:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSMONO101
 title:
-- content: Low temperature mechanical properties of copper and selected copper alloys
-    :a compilation from the literature
+- content: |-
+    Low temperature mechanical properties of copper and selected copper alloys :
+    a compilation from the literature
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard P
+        - content: Richard
+          language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Ritchie P
+        - content: Ritchie
+          language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P
           language:
           - en
           script:

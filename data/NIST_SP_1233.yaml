@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP1233
 title:
-- content: NIST nanotechnology environmental, health, and safety research program:2009
-    2016
+- content: |-
+    NIST nanotechnology environmental, health, and safety research program:
+    2009 2016
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Debra L
+        - content: Debra
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:
@@ -46,7 +52,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Vincent A
+        - content: Vincent
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:

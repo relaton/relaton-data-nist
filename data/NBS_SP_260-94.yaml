@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP260-94
 title:
-- content: Standard Reference Materials :Methods and procedures used at the National
-    Bureau of Standards to certify sulfur in coal SRM's for sulfur content, calorific
-    value, ash content/
+- content: |-
+    Standard Reference Materials :
+    Methods and procedures used at the National Bureau of Standards to certify sulfur in coal SRM's for sulfur content, calorific value, ash content/
   language:
   - en
   script:
@@ -30,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Thomas E
+        - content: Thomas
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6089
 title:
-- content: NOANISTInsurance Industry Workshop on the Wind Peril, Chantilly, VA:June
-    4-5, 1996
+- content: |-
+    NOANISTInsurance Industry Workshop on the Wind Peril, Chantilly, VA:
+    June 4-5, 1996
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard D
+        - content: Richard
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           script:
           - Latn
       surname:
@@ -42,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Joseph H
+        - content: Joseph
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           script:
           - Latn
       surname:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT10624
 title:
-- content: Search and rescue simulation model:phase III report, calibration validation
-    investigation
+- content: |-
+    Search and rescue simulation model:
+    phase III report, calibration validation investigation
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Stephen S
+        - content: Stephen
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           script:
           - Latn
       surname:

@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP260-4
 title:
-- content: Standard Reference Materials :Sources of information/
+- content: |-
+    Standard Reference Materials :
+    Sources of information/
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Thomas W
+        - content: Thomas
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           language:
           - en
           script:

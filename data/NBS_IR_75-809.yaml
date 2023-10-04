@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR75-809
 title:
-- content: Non-planar near-field measurements :spherical scanning
+- content: |-
+    Non-planar near-field measurements :
+    spherical scanning
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Paul F
+        - content: Paul
+          language:
+          - en
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           language:
           - en
           script:

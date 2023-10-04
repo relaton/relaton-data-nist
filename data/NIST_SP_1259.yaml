@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP1259
 title:
-- content: Complex event resilience of small- and medium-sized enterprises:natural
-    disaster planning during the COVID-19 pandemic briefing document
+- content: |-
+    Complex event resilience of small- and medium-sized enterprises:
+    natural disaster planning during the COVID-19 pandemic briefing document
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Jennifer F
+        - content: Jennifer
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           script:
           - Latn
       surname:
@@ -46,7 +52,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Juan F
+        - content: Juan
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           script:
           - Latn
       surname:
@@ -63,7 +74,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Alfredo R
+        - content: Alfredo
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           script:
           - Latn
       surname:
@@ -131,7 +147,12 @@ contributor:
     name:
       given:
         forename:
-        - content: David T
+        - content: David
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           script:
           - Latn
       surname:

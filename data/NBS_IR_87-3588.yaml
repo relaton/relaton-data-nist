@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR87-3588
 title:
-- content: RADCNBS international workshop moisture measurement and control for microelectronics
-    (IV) :proceedings of the RADCNBS workshop held at the National Bureau of Standards
-    Gaithersburg, MD November 12-14, 1986
+- content: |-
+    RADCNBS international workshop moisture measurement and control for microelectronics (IV) :
+    proceedings of the RADCNBS workshop held at the National Bureau of Standards Gaithersburg, MD November 12-14, 1986
   language:
   - en
   script:
@@ -47,7 +47,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Benjamin A
+        - content: Benjamin
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:
@@ -64,7 +71,13 @@ contributor:
     name:
       given:
         forename:
-        - content: W Janes
+        - language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: 'W '
           language:
           - en
           script:

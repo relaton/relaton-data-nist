@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP800-24
 title:
-- content: PBX vulnerability analysis :finding holes in your PBX before someone else
-    does
+- content: |-
+    PBX vulnerability analysis :
+    finding holes in your PBX before someone else does
   language:
   - en
   script:
@@ -29,7 +30,13 @@ contributor:
     name:
       given:
         forename:
-        - content: D Richard
+        - language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: 'D '
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6926
 title:
-- content: The NIST design repository project :project overview and implementational
-    design
+- content: |-
+    The NIST design repository project :
+    project overview and implementational design
   language:
   - en
   script:
@@ -46,7 +47,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Ram D
+        - content: Ram
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           language:
           - en
           script:

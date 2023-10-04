@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT10065
 title:
-- content: Characterization of a composite resin-silica material developed for temporary
-    posterior restorations :progress report
+- content: |-
+    Characterization of a composite resin-silica material developed for temporary posterior restorations :
+    progress report
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Claire L
+        - content: Claire
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: John A
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:
@@ -63,19 +78,14 @@ contributor:
     name:
       given:
         forename:
-        - content: H H
+        - content: H
           language:
           - en
           script:
           - Latn
           initial: H
-        - language:
-          - en
-          script:
-          - Latn
-          initial: H
         formatted_initials:
-          content: H H
+          content: H
           language:
           - en
           script:

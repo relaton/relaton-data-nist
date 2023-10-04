@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR4337
 title:
-- content: The NIST SQL database loader:STEP working form to SQL
+- content: |-
+    The NIST SQL database loader:
+    STEP working form to SQL
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Deborah A
+        - content: Deborah
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:

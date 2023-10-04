@@ -55,7 +55,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Krishna P
+        - content: Krishna
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P
           script:
           - Latn
       surname:
@@ -68,7 +73,15 @@ contributor:
     name:
       given:
         forename:
-        - content: Stanley Y W
+        - content: Stanley
+          script:
+          - Latn
+          initial: Y
+        - script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: Y W
           script:
           - Latn
       surname:

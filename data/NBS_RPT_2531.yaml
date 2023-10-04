@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT2531
 title:
-- content: Grease filter test methods :progress report for December 1, 1952 to April
-    30, 1953
+- content: |-
+    Grease filter test methods :
+    progress report for December 1, 1952 to April 30, 1953
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Carl W
+        - content: Carl
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           language:
           - en
           script:
@@ -47,18 +55,6 @@ contributor:
       given:
         forename:
         - content: PR
-          language:
-          - en
-          script:
-          - Latn
-          initial: P
-        - language:
-          - en
-          script:
-          - Latn
-          initial: R
-        formatted_initials:
-          content: PR
           language:
           - en
           script:

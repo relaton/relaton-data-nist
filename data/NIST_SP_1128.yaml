@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP1128
 title:
-- content: Summary of workshop for urban and wildland-urban interface (WUI) fires
-    :a workshop to explore future JapanUSA research collaborations
+- content: |-
+    Summary of workshop for urban and wildland-urban interface (WUI) fires :
+    a workshop to explore future JapanUSA research collaborations
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Samuel L
+        - content: Samuel
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           language:
           - en
           script:

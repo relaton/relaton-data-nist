@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR4869
 title:
-- content: CORRIDOR:a routine for estimating the initial wave front resulting from
-    high temperature fire exposure to a corridor
+- content: |-
+    CORRIDOR:
+    a routine for estimating the initial wave front resulting from high temperature fire exposure to a corridor
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Harold E
+        - content: Harold
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           script:
           - Latn
       surname:

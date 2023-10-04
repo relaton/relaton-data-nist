@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT8903
 title:
-- content: Report on international travel to Colombia, S. A. to conduct a seminar
-    and assist in the development of standards for leather:May 29 to June 11, 1965
+- content: |-
+    Report on international travel to Colombia, S. A. to conduct a seminar and assist in the development of standards for leather:
+    May 29 to June 11, 1965
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Joseph R
+        - content: Joseph
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           script:
           - Latn
       surname:

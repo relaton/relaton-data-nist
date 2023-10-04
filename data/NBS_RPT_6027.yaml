@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT6027
 title:
-- content: Concerning a microwave refractometer :communication from the Heinrich Hertz
-    Institute of the German Academy of Science at Berlin; Berlin Adlershof
+- content: |-
+    Concerning a microwave refractometer :
+    communication from the Heinrich Hertz Institute of the German Academy of Science at Berlin; Berlin Adlershof
   language:
   - en
   script:
@@ -29,8 +30,7 @@ contributor:
     name:
       given:
         forename:
-        - content: R
-          script:
+        - script:
           - Latn
           initial: R
         formatted_initials:
@@ -47,8 +47,7 @@ contributor:
     name:
       given:
         forename:
-        - content: W
-          script:
+        - script:
           - Latn
           initial: W
         formatted_initials:
@@ -65,7 +64,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Albrecht P
+        - content: Albrecht
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P
           script:
           - Latn
       surname:
@@ -78,7 +82,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Moody C Jr
+        - content: Moody
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: 'C '
           script:
           - Latn
       surname:

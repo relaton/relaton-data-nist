@@ -42,7 +42,11 @@ contributor:
     name:
       given:
         forename:
-        - content: N Alan
+        - script:
+          - Latn
+          initial: N
+        formatted_initials:
+          content: 'N '
           script:
           - Latn
       surname:

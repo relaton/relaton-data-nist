@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC457
 title:
-- content: Circular of the Bureau of Standards no. 457:weights per United States gallon
-    and weights per cubic foot of sugar solutions
+- content: |-
+    Circular of the Bureau of Standards no. 457:
+    weights per United States gallon and weights per cubic foot of sugar solutions
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Carl F
+        - content: Carl
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           script:
           - Latn
       surname:
@@ -42,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Lester D
+        - content: Lester
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           script:
           - Latn
       surname:

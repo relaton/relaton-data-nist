@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTTN2135sup
 title:
-- content: A case study of the Camp Fire :fire progression timeline, appendix C.
+- content: |-
+    A case study of the Camp Fire :
+    fire progression timeline, appendix C.
   language:
   - en
   script:
@@ -147,7 +149,12 @@ contributor:
     name:
       given:
         forename:
-        - content: William D
+        - content: William
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           script:
           - Latn
       surname:

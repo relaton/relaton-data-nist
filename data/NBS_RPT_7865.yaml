@@ -29,7 +29,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Henry E
+        - content: Henry
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:
@@ -46,19 +53,14 @@ contributor:
     name:
       given:
         forename:
-        - content: T W
+        - content: T
           language:
-          - en
-          script:
-          - Latn
-          initial: T
-        - language:
           - en
           script:
           - Latn
           initial: W
         formatted_initials:
-          content: T W
+          content: W
           language:
           - en
           script:

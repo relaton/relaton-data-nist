@@ -29,7 +29,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Chester L
+        - content: Chester
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           language:
           - en
           script:
@@ -46,7 +53,13 @@ contributor:
     name:
       given:
         forename:
-        - content: M Katherine
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: 'M '
           language:
           - en
           script:

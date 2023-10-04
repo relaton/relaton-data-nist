@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTGCR99-779
 title:
-- content: Commercialization and business planning guide for the post-award period:designed
-    especially for the technology entrepreneur
+- content: |-
+    Commercialization and business planning guide for the post-award period:
+    designed especially for the technology entrepreneur
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Jenny C
+        - content: Jenny
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           script:
           - Latn
       surname:

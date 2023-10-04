@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT7800
 title:
-- content: Air delivery performance of a Rittling unit ventilator under isothermal
-    conditions :manufactured by the Rittling Corporation Hamburg, New York
+- content: |-
+    Air delivery performance of a Rittling unit ventilator under isothermal conditions :
+    manufactured by the Rittling Corporation Hamburg, New York
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Joseph C
+        - content: Joseph
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           language:
           - en
           script:

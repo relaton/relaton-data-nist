@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7501
 title:
-- content: NIST Intercomparison Program for Organic Contaminants in the Marine Environment:Description
-    and Results of 2007 Organic Intercomparison Exercises
+- content: |-
+    NIST Intercomparison Program for Organic Contaminants in the Marine Environment:
+    Description and Results of 2007 Organic Intercomparison Exercises
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Michele M.
+        - content: Michele
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
           language:
           - en
           script:
@@ -51,7 +59,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Reenie M.
+        - content: Reenie
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
           language:
           - en
           script:
@@ -73,7 +88,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Stephen A.
+        - content: Stephen
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
           language:
           - en
           script:

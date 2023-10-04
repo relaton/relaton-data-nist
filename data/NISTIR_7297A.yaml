@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7297a
 title:
-- content: FS-TST 2.0 :forensic software testing support tools test plan, test design
-    specifications, and test case specification
+- content: |-
+    FS-TST 2.0 :
+    forensic software testing support tools test plan, test design specifications, and test case specification
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Serban I
+        - content: Serban
+          language:
+          - en
+          script:
+          - Latn
+          initial: I
+        formatted_initials:
+          content: I
           language:
           - en
           script:

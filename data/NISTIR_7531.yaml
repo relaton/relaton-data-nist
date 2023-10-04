@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7531
 title:
-- content: BiCCL :the biometric client configuration language
+- content: |-
+    BiCCL :
+    the biometric client configuration language
   language:
   - en
   script:
@@ -45,7 +47,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Ross J
+        - content: Ross
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           language:
           - en
           script:

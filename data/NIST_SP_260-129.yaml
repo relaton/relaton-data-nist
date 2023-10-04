@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP260-129
 title:
-- content: Standard Reference Materials :Antireflecting-chromium linewidth standard,
-    SRM 473, for calibration of optical microscope linewidth measuring systems/
+- content: |-
+    Standard Reference Materials :
+    Antireflecting-chromium linewidth standard, SRM 473, for calibration of optical microscope linewidth measuring systems/
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: James E
+        - content: James
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

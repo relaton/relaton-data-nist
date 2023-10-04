@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSMONO61
 title:
-- content: The Solar spectrum 2935Å to 8770Å :second revision of Rowland's preliminary
-    table of solar spectrum wavelengths
+- content: |-
+    The Solar spectrum 2935Å to 8770Å :
+    second revision of Rowland's preliminary table of solar spectrum wavelengths
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Charlotte E
+        - content: Charlotte
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:
@@ -46,13 +54,8 @@ contributor:
     name:
       given:
         forename:
-        - content: M G J
+        - content: M
           language:
-          - en
-          script:
-          - Latn
-          initial: M
-        - language:
           - en
           script:
           - Latn
@@ -63,7 +66,7 @@ contributor:
           - Latn
           initial: J
         formatted_initials:
-          content: M G J
+          content: G J
           language:
           - en
           script:
@@ -80,8 +83,7 @@ contributor:
     name:
       given:
         forename:
-        - content: J
-          language:
+        - language:
           - en
           script:
           - Latn

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN79
 title:
-- content: VHF radio propagation data for the Cedar Rapids - Sterling, Anchorage -
-    Barrow, and Fargo - Churchill test paths :April 1951 through June 1958
+- content: |-
+    VHF radio propagation data for the Cedar Rapids - Sterling, Anchorage - Barrow, and Fargo - Churchill test paths :
+    April 1951 through June 1958
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: George R
+        - content: George
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           language:
           - en
           script:

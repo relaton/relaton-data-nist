@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR4946
 title:
-- content: First international conference on fire suppression research:summary
+- content: |-
+    First international conference on fire suppression research:
+    summary
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Nora H
+        - content: Nora
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           script:
           - Latn
       surname:

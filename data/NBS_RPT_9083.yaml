@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT9083
 title:
-- content: Application of diffraction gratings to measurement of strain of dental
-    materials:progress report
+- content: |-
+    Application of diffraction gratings to measurement of strain of dental materials:
+    progress report
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Thomas V, Jr
+        - content: Thomas
+          script:
+          - Latn
+          initial: V
+        formatted_initials:
+          content: V
           script:
           - Latn
       surname:
@@ -42,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: John W
+        - content: John
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           script:
           - Latn
       surname:

@@ -29,7 +29,13 @@ contributor:
     name:
       given:
         forename:
-        - content: C Denver
+        - language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: 'C '
           language:
           - en
           script:

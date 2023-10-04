@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR8258
 title:
-- content: The unit manufacturing process (UMP) builder:user's guide
+- content: |-
+    The unit manufacturing process (UMP) builder:
+    user's guide
   language:
   - en
   script:
@@ -45,7 +47,12 @@ contributor:
     name:
       given:
         forename:
-        - content: William Z
+        - content: William
+          script:
+          - Latn
+          initial: Z
+        formatted_initials:
+          content: Z
           script:
           - Latn
       surname:

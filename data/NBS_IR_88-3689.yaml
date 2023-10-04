@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR88-3689
 title:
-- content: A prototype expert system :an automated advisor to select data sources
-    from chemical information databases
+- content: |-
+    A prototype expert system :
+    an automated advisor to select data sources from chemical information databases
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Elizabeth N
+        - content: Elizabeth
+          language:
+          - en
+          script:
+          - Latn
+          initial: N
+        formatted_initials:
+          content: N
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Christopher E
+        - content: Christopher
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7236
 title:
-- content: A framework for standard modular simulation :application to semiconductor
-    wafer fabrication
+- content: |-
+    A framework for standard modular simulation :
+    application to semiconductor wafer fabrication
   language:
   - en
   script:
@@ -46,7 +47,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Jose A
+        - content: Jose
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:
@@ -80,7 +88,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Charles R
+        - content: Charles
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           language:
           - en
           script:

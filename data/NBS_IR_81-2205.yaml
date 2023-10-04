@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR81-2205
 title:
-- content: National Measurement Laboratory Office of Measurements for Nuclear Technology
-    :annual Report 1980
+- content: |-
+    National Measurement Laboratory Office of Measurements for Nuclear Technology :
+    annual Report 1980
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: John D
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           language:
           - en
           script:
@@ -46,7 +54,13 @@ contributor:
     name:
       given:
         forename:
-        - content: H Thomas
+        - language:
+          - en
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: 'H '
           language:
           - en
           script:

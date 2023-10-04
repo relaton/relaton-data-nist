@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTVTS400-5
 title:
-- content: Handbook for VVSG 2.0 Usability and Accessibility Test Strategies:A report
-    on guidance and resources for how to test voting systems
+- content: |-
+    Handbook for VVSG 2.0 Usability and Accessibility Test Strategies:
+    A report on guidance and resources for how to test voting systems
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Sharon J
+        - content: Sharon
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           script:
           - Latn
       surname:

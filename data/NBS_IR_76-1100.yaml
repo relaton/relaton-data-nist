@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR76-1100
 title:
-- content: Appraisal of federal government Cobol standards and software management
-    :survey results
+- content: |-
+    Appraisal of federal government Cobol standards and software management :
+    survey results
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Donald R
+        - content: Donald
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           language:
           - en
           script:

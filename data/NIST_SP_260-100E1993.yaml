@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP260-100e1993
 title:
-- content: Standard reference materials :handbook for SRM users 1993 edition
+- content: |-
+    Standard reference materials :
+    handbook for SRM users 1993 edition
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: John K
+        - content: John
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K
           script:
           - Latn
       surname:

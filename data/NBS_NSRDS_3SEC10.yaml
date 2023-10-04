@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSNSRDS3sec10
 title:
-- content: Selected tables of atomic spectra - A atomic energy levels-second edition,
-    B multiplet tables :O IV - data derived from the analyses of optical spectra
+- content: |-
+    Selected tables of atomic spectra - A atomic energy levels-second edition, B multiplet tables :
+    O IV - data derived from the analyses of optical spectra
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Charlotte E
+        - content: Charlotte
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

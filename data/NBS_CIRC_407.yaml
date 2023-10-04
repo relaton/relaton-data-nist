@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC407
 title:
-- content: Circular of the Bureau of Standards no. 407:standards for paper towels
+- content: |-
+    Circular of the Bureau of Standards no. 407:
+    standards for paper towels
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Bourdon W
+        - content: Bourdon
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           script:
           - Latn
       surname:
@@ -41,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Russell W
+        - content: Russell
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           script:
           - Latn
       surname:

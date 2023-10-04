@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7332
 title:
-- content: NCMC-9:combinatorial methods for nanostructure materials, NCMC workshop
-    report
+- content: |-
+    NCMC-9:
+    combinatorial methods for nanostructure materials, NCMC workshop report
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Michael J
+        - content: Michael
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           script:
           - Latn
       surname:
@@ -42,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Carol E
+        - content: Carol
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           script:
           - Latn
       surname:

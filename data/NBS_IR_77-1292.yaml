@@ -29,7 +29,13 @@ contributor:
     name:
       given:
         forename:
-        - content: T Robert
+        - language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: 'T '
           language:
           - en
           script:

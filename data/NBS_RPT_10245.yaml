@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT10245
 title:
-- content: Building economics study program:phase I--analysis and summary, final report
+- content: |-
+    Building economics study program:
+    phase I--analysis and summary, final report
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Phillip T
+        - content: Phillip
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           script:
           - Latn
       surname:
@@ -41,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Terry H
+        - content: Terry
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           script:
           - Latn
       surname:

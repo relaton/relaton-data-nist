@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN1104
 title:
-- content: The FCC public message services policy change :an ETIP evaluability assessment
-    report
+- content: |-
+    The FCC public message services policy change :
+    an ETIP evaluability assessment report
   language:
   - en
   script:
@@ -63,7 +64,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Roland G
+        - content: Roland
+          language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN965
 title:
-- content: Effects of moisture in built-up roofing :A state-of-the-art literature
-    survey
+- content: |-
+    Effects of moisture in built-up roofing :
+    A state-of-the-art literature survey
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Herbert W
+        - content: Herbert
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           language:
           - en
           script:

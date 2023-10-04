@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP800-70
 title:
-- content: Security configuration checklists program for IT products :guidance for
-    checklists users and developers
+- content: |-
+    Security configuration checklists program for IT products :
+    guidance for checklists users and developers
   language:
   - en
   script:
@@ -50,7 +51,14 @@ contributor:
     name:
       given:
         forename:
-        - content: John P
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P
           language:
           - en
           script:

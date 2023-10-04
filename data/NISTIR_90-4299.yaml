@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR90-4299
 title:
-- content: Evaluation of NVLAP personnel dosimetry testing laboratory:x-rays
+- content: |-
+    Evaluation of NVLAP personnel dosimetry testing laboratory:
+    x-rays
   language:
   - en
   script:
@@ -28,21 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: H T II
+        - content: H
           script:
           - Latn
-          initial: H
-        - script:
-          - Latn
           initial: T
-        - script:
-          - Latn
-          initial: I
-        - script:
-          - Latn
-          initial: I
         formatted_initials:
-          content: H T II
+          content: 'T '
           script:
           - Latn
       surname:

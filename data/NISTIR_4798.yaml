@@ -28,7 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Harry S
+        - content: Harry
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           script:
           - Latn
       surname:
@@ -41,7 +46,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Barry I
+        - content: Barry
+          script:
+          - Latn
+          initial: I
+        formatted_initials:
+          content: I
           script:
           - Latn
       surname:

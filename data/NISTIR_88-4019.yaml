@@ -28,7 +28,15 @@ contributor:
     name:
       given:
         forename:
-        - content: Jack C M
+        - content: Jack
+          script:
+          - Latn
+          initial: C
+        - script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: C M
           script:
           - Latn
       surname:
@@ -41,7 +49,12 @@ contributor:
     name:
       given:
         forename:
-        - content: John M
+        - content: John
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:
@@ -54,7 +67,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Hari K
+        - content: Hari
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K
           script:
           - Latn
       surname:

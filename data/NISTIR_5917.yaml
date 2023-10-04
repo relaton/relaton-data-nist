@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR5917
 title:
-- content: Device driver development for Microsoft Windows NT1:accessing motion control
-    hardware using a multimedia framework
+- content: |-
+    Device driver development for Microsoft Windows NT1:
+    accessing motion control hardware using a multimedia framework
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard D
+        - content: Richard
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           script:
           - Latn
       surname:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7671
 title:
-- content: Mathematical and Computational Sciences Division :summary of activities
-    for fiscal year 2009
+- content: |-
+    Mathematical and Computational Sciences Division :
+    summary of activities for fiscal year 2009
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Ronald F
+        - content: Ronald
+          language:
+          - en
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           language:
           - en
           script:

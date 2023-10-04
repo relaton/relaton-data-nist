@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP500-159
 title:
-- content: Data administration :management and practice
+- content: |-
+    Data administration :
+    management and practice
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Judith J
+        - content: Judith
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           language:
           - en
           script:
@@ -45,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Frankie E
+        - content: Frankie
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

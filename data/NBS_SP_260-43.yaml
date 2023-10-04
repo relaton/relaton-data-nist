@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP260-43
 title:
-- content: Standard Reference Materials :Preparation and homogeneity characterization
-    of an austenitic iron-chromium-nickel alloy/
+- content: |-
+    Standard Reference Materials :
+    Preparation and homogeneity characterization of an austenitic iron-chromium-nickel alloy/
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Arthur W
+        - content: Arthur
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           language:
           - en
           script:

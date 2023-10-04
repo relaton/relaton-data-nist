@@ -28,7 +28,14 @@ contributor:
     name:
       given:
         forename:
-        - content: David A
+        - content: David
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:
@@ -45,7 +52,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Amaldo T
+        - content: Amaldo
+          language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           language:
           - en
           script:
@@ -62,19 +76,14 @@ contributor:
     name:
       given:
         forename:
-        - content: S K
+        - content: S
           language:
-          - en
-          script:
-          - Latn
-          initial: S
-        - language:
           - en
           script:
           - Latn
           initial: K
         formatted_initials:
-          content: S K
+          content: K
           language:
           - en
           script:

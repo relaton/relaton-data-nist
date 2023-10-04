@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR86-3434
 title:
-- content: 'Institute of Materials Science and Engineering :Nondestructive Evaluation
-    : technical activities 1986'
+- content: |-
+    Institute of Materials Science and Engineering :
+    Nondestructive Evaluation : technical activities 1986
   language:
   - en
   script:
@@ -29,7 +30,13 @@ contributor:
     name:
       given:
         forename:
-        - content: H Thomas
+        - language:
+          - en
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: 'H '
           language:
           - en
           script:
@@ -46,8 +53,7 @@ contributor:
     name:
       given:
         forename:
-        - content: L
-          language:
+        - language:
           - en
           script:
           - Latn

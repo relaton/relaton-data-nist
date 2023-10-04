@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR73-231
 title:
-- content: Response characteristics of a portable x-ray fluorescence lead detector
-    :detection of lead in paint
+- content: |-
+    Response characteristics of a portable x-ray fluorescence lead detector :
+    detection of lead in paint
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Joe C
+        - content: Joe
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           language:
           - en
           script:

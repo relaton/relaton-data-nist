@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT6327
 title:
-- content: A method of evaluating the clinical effect of warping a denture:a case
-    report
+- content: |-
+    A method of evaluating the clinical effect of warping a denture:
+    a case report
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Julian B
+        - content: Julian
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           script:
           - Latn
       surname:

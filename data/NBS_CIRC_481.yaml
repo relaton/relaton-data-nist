@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC481
 title:
-- content: Circular of the Bureau of Standards no. 481:high-frequency voltage measurement
+- content: |-
+    Circular of the Bureau of Standards no. 481:
+    high-frequency voltage measurement
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Myron C
+        - content: Myron
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           script:
           - Latn
       surname:

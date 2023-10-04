@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6498
 title:
-- content: SEM Sentinel:SEM performance measurement system, part 1
+- content: |-
+    SEM Sentinel:
+    SEM performance measurement system, part 1
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Alice V
+        - content: Alice
+          script:
+          - Latn
+          initial: V
+        formatted_initials:
+          content: V
           script:
           - Latn
       surname:
@@ -54,7 +61,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Bradley N
+        - content: Bradley
+          script:
+          - Latn
+          initial: N
+        formatted_initials:
+          content: N
           script:
           - Latn
       surname:
@@ -67,7 +79,11 @@ contributor:
     name:
       given:
         forename:
-        - content: M Alkan
+        - script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: 'M '
           script:
           - Latn
       surname:
@@ -80,7 +96,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Michael T
+        - content: Michael
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           script:
           - Latn
       surname:

@@ -45,7 +45,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Brian J
+        - content: Brian
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           script:
           - Latn
       surname:

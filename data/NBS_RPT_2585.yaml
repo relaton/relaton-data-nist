@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT2585
 title:
-- content: Inspection of plaster work at Alaska native service hospital and tests
-    for quality and characteristics of plaster materials :report
+- content: |-
+    Inspection of plaster work at Alaska native service hospital and tests for quality and characteristics of plaster materials :
+    report
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Nolan D
+        - content: Nolan
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           language:
           - en
           script:

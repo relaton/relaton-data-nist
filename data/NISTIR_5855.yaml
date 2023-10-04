@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR5855
 title:
-- content: Specification for interoperability between ballistic imaging systems:part
-    1- cartridge cases
+- content: |-
+    Specification for interoperability between ballistic imaging systems:
+    part 1- cartridge cases
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Bruce F
+        - content: Bruce
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           script:
           - Latn
       surname:
@@ -42,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Edward F
+        - content: Edward
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           script:
           - Latn
       surname:
@@ -55,7 +66,11 @@ contributor:
     name:
       given:
         forename:
-        - content: R Michael
+        - script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: 'R '
           script:
           - Latn
       surname:

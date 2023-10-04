@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR87-3591
 title:
-- content: EXITT- a simulation model of occupant decisions and actions in residential
-    fires :users guide and program description
+- content: |-
+    EXITT- a simulation model of occupant decisions and actions in residential fires :
+    users guide and program description
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Bernard M
+        - content: Bernard
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           language:
           - en
           script:

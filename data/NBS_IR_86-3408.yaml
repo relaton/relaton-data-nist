@@ -28,7 +28,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Dolores R
+        - content: Dolores
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           language:
           - en
           script:
@@ -45,7 +52,13 @@ contributor:
     name:
       given:
         forename:
-        - content: D Richard
+        - language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: 'D '
           language:
           - en
           script:

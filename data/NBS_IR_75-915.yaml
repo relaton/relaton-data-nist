@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR75-915
 title:
-- content: A source of error in paper extract pH determinations :contact between paper
-    and reference electrodes
+- content: |-
+    A source of error in paper extract pH determinations :
+    contact between paper and reference electrodes
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Edwin J
+        - content: Edwin
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           language:
           - en
           script:
@@ -46,19 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: R L
+        - content: R
           language:
-          - en
-          script:
-          - Latn
-          initial: R
-        - language:
           - en
           script:
           - Latn
           initial: L
         formatted_initials:
-          content: R L
+          content: L
           language:
           - en
           script:

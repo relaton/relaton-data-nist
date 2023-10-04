@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR77-1234
 title:
-- content: Hazard characteristics of combustion products in fires :the state-of-the-art
-    review
+- content: |-
+    Hazard characteristics of combustion products in fires :
+    the state-of-the-art review
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Merrit M
+        - content: Merrit
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           language:
           - en
           script:

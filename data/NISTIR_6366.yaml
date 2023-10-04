@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6366
 title:
-- content: Next generation fire suppression technology program (NGP):1998 technical
-    highlights
+- content: |-
+    Next generation fire suppression technology program (NGP):
+    1998 technical highlights
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard G
+        - content: Richard
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G
           script:
           - Latn
       surname:

@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP307
 title:
-- content: Wolf-Rayet stars :proceedings of a symposium held at the Joint Institute
-    for Laboratory Astrophysics, University of Colorado, Boulder, Colorado, June 10-14,
-    1968
+- content: |-
+    Wolf-Rayet stars :
+    proceedings of a symposium held at the Joint Institute for Laboratory Astrophysics, University of Colorado, Boulder, Colorado, June 10-14, 1968
   language:
   - en
   script:
@@ -30,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Katharine B
+        - content: Katharine
+          language:
+          - en
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           language:
           - en
           script:
@@ -47,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard N
+        - content: Richard
+          language:
+          - en
+          script:
+          - Latn
+          initial: N
+        formatted_initials:
+          content: N
           language:
           - en
           script:

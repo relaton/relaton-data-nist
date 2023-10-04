@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP260-85
 title:
-- content: Standard Reference Materials :A look at techniques for the dimensional
-    calibration of standard microscopic particles/
+- content: |-
+    Standard Reference Materials :
+    A look at techniques for the dimensional calibration of standard microscopic particles/
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Dennis A
+        - content: Dennis
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:

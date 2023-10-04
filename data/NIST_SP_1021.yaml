@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP1021
 title:
-- content: Cook County Administration Building fire, 69 West Washington, Chicago,
-    Illinois, October 17, 2003 :heat release rate experiments and FDS simulations
+- content: |-
+    Cook County Administration Building fire, 69 West Washington, Chicago, Illinois, October 17, 2003 :
+    heat release rate experiments and FDS simulations
   language:
   - en
   script:
@@ -29,8 +30,7 @@ contributor:
     name:
       given:
         forename:
-        - content: D
-          language:
+        - language:
           - en
           script:
           - Latn
@@ -53,19 +53,14 @@ contributor:
     name:
       given:
         forename:
-        - content: W D
+        - content: W
           language:
-          - en
-          script:
-          - Latn
-          initial: W
-        - language:
           - en
           script:
           - Latn
           initial: D
         formatted_initials:
-          content: W D
+          content: D
           language:
           - en
           script:

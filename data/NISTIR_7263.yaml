@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7263
 title:
-- content: Healthcare strategic focus area :clinical informatics
+- content: |-
+    Healthcare strategic focus area :
+    clinical informatics
   language:
   - en
   script:
@@ -164,7 +166,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Ram D
+        - content: Ram
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           language:
           - en
           script:

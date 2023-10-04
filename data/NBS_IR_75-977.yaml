@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR75-977
 title:
-- content: Development of solid state samplers for work atmospheres :phosphine
+- content: |-
+    Development of solid state samplers for work atmospheres :
+    phosphine
   language:
   - en
   script:
@@ -45,7 +47,14 @@ contributor:
     name:
       given:
         forename:
-        - content: John K
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K
           language:
           - en
           script:

@@ -28,7 +28,13 @@ contributor:
     name:
       given:
         forename:
-        - content: E Dale
+        - language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: 'E '
           language:
           - en
           script:
@@ -45,7 +51,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Edward W
+        - content: Edward
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           language:
           - en
           script:

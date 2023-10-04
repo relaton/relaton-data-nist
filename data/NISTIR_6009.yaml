@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6009
 title:
-- content: Healthcare Standards needs for using the NII:an application of the IISP
-    Framework Method
+- content: |-
+    Healthcare Standards needs for using the NII:
+    an application of the IISP Framework Method
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Susan B
+        - content: Susan
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           script:
           - Latn
       surname:

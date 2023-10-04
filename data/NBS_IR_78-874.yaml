@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR78-874
 title:
-- content: Disseminating standards of time and frequency :issues in the evaluation
-    of alternative systems
+- content: |-
+    Disseminating standards of time and frequency :
+    issues in the evaluation of alternative systems
   language:
   - en
   script:
@@ -29,7 +30,19 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard H F
+        - content: Richard
+          language:
+          - en
+          script:
+          - Latn
+          initial: H
+        - language:
+          - en
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: H F
           language:
           - en
           script:

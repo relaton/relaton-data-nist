@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSBSS86
 title:
-- content: Engineering aspects of cyclone Tracy :Darwin Australia, 1974
+- content: |-
+    Engineering aspects of cyclone Tracy :
+    Darwin Australia, 1974
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard D
+        - content: Richard
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           language:
           - en
           script:

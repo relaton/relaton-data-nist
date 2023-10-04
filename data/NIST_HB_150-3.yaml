@@ -28,7 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Eric B
+        - content: Eric
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           script:
           - Latn
       surname:
@@ -54,7 +59,12 @@ contributor:
     name:
       given:
         forename:
-        - content: David F
+        - content: David
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           script:
           - Latn
       surname:

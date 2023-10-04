@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6470
 title:
-- content: Comparison of FPETool :fire simulator with data from full scale experiments
+- content: |-
+    Comparison of FPETool :
+    fire simulator with data from full scale experiments
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Robert L
+        - content: Robert
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC584
 title:
-- content: Circular of the Bureau of Standards no. 584:simulator for use in development
-    of jet engine controls
+- content: |-
+    Circular of the Bureau of Standards no. 584:
+    simulator for use in development of jet engine controls
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Emile S
+        - content: Emile
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           script:
           - Latn
       surname:

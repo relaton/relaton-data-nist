@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP250-100
 title:
-- content: Magnetic Resonance Imaging Biomarker Calibration Service:NMR Measurement
-    of Isotropic Water Diffusion Coefficient
+- content: |-
+    Magnetic Resonance Imaging Biomarker Calibration Service:
+    NMR Measurement of Isotropic Water Diffusion Coefficient
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Stephen E
+        - content: Stephen
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           script:
           - Latn
       surname:

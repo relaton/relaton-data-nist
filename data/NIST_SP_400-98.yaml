@@ -29,7 +29,13 @@ contributor:
     name:
       given:
         forename:
-        - content: W Murray
+        - language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: 'W '
           language:
           - en
           script:
@@ -46,8 +52,7 @@ contributor:
     name:
       given:
         forename:
-        - content: S
-          language:
+        - language:
           - en
           script:
           - Latn
@@ -70,19 +75,14 @@ contributor:
     name:
       given:
         forename:
-        - content: D G
+        - content: D
           language:
-          - en
-          script:
-          - Latn
-          initial: D
-        - language:
           - en
           script:
           - Latn
           initial: G
         formatted_initials:
-          content: D G
+          content: G
           language:
           - en
           script:

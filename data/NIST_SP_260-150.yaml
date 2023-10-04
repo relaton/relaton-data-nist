@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP260-150
 title:
-- content: Standard Reference Materials :the first century/
+- content: |-
+    Standard Reference Materials :
+    the first century/
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Stanley D
+        - content: Stanley
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC556
 title:
-- content: Circular of the Bureau of Standards no. 556:thermal conductivity of metals
-    ad alloys at low temperatures- a review of the literature
+- content: |-
+    Circular of the Bureau of Standards no. 556:
+    thermal conductivity of metals ad alloys at low temperatures- a review of the literature
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Robert L
+        - content: Robert
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:

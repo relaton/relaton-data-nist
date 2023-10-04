@@ -29,7 +29,15 @@ contributor:
     name:
       given:
         forename:
-        - content: Kurt F J
+        - content: Kurt
+          script:
+          - Latn
+          initial: F
+        - script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: F J
           script:
           - Latn
       surname:
@@ -42,7 +50,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Doris M
+        - content: Doris
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:

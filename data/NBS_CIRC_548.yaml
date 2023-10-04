@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC548
 title:
-- content: Circular of the Bureau of Standards no. 548:miniature intermediate-frequency
-    amplifiers
+- content: |-
+    Circular of the Bureau of Standards no. 548:
+    miniature intermediate-frequency amplifiers
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Robert K-F
+        - content: Robert
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K
           script:
           - Latn
       surname:

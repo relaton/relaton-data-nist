@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP361v2
 title:
-- content: Performance concept in buildings, volume 2 :opening addresses, rapporteur
-    reviews, and discussions
+- content: |-
+    Performance concept in buildings, volume 2 :
+    opening addresses, rapporteur reviews, and discussions
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Bruce E
+        - content: Bruce
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC449
 title:
-- content: Circular of the Bureau of Standards no. 449:hydrometer correction tables
-    and thermal-density coefficients for vegetable tanning extracts
+- content: |-
+    Circular of the Bureau of Standards no. 449:
+    hydrometer correction tables and thermal-density coefficients for vegetable tanning extracts
   language:
   - en
   script:
@@ -42,7 +43,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Elmer L
+        - content: Elmer
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:

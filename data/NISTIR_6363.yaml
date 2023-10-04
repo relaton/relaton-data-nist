@@ -29,7 +29,12 @@ contributor:
     name:
       given:
         forename:
-        - content: JoAnne R
+        - content: JoAnne
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           script:
           - Latn
       surname:
@@ -42,7 +47,11 @@ contributor:
     name:
       given:
         forename:
-        - content: A Diane
+        - script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: 'A '
           script:
           - Latn
       surname:

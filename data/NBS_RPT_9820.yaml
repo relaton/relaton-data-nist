@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT9820
 title:
-- content: The reactivity of the components of tooth structure :progress report
+- content: |-
+    The reactivity of the components of tooth structure :
+    progress report
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Eugene F
+        - content: Eugene
+          language:
+          - en
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           language:
           - en
           script:
@@ -45,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Gerhard M
+        - content: Gerhard
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           language:
           - en
           script:

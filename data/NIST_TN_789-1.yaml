@@ -2,10 +2,9 @@
 schema-version: v1.2.4
 id: NISTTN789-1
 title:
-- content: Emergency Workshop on Energy Conservation in Buildings :National Conference
-    of States on Buildings Codes and Standards and National Bureau of Standards Joint
-    Emergency Workshop on Energy Conservation in Buildings, held at the U.S. Dept.
-    of Commerce, Wash
+- content: |-
+    Emergency Workshop on Energy Conservation in Buildings :
+    National Conference of States on Buildings Codes and Standards and National Bureau of Standards Joint Emergency Workshop on Energy Conservation in Buildings, held at the U.S. Dept. of Commerce, Wash
   language:
   - en
   script:
@@ -31,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Sandra A
+        - content: Sandra
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:

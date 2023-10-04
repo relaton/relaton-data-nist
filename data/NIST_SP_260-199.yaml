@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP260-199
 title:
-- content: Certification of Standard Reference Material 2925:recombinant human serum
-    albumin solution (primary reference calibrator for urine albumin) (frozen)
+- content: |-
+    Certification of Standard Reference Material 2925:
+    recombinant human serum albumin solution (primary reference calibrator for urine albumin) (frozen)
   language:
   - en
   script:
@@ -46,7 +47,12 @@ contributor:
     name:
       given:
         forename:
-        - content: David M
+        - content: David
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:

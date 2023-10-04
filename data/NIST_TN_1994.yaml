@@ -75,7 +75,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Keith A
+        - content: Keith
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:
@@ -98,7 +103,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Florian A
+        - content: Florian
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:

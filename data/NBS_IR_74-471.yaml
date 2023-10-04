@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR74-471
 title:
-- content: Life cycle costing of police patrol cars :summary report
+- content: |-
+    Life cycle costing of police patrol cars :
+    summary report
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Rosalie T
+        - content: Rosalie
+          language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           language:
           - en
           script:

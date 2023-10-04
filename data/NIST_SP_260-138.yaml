@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP260-138
 title:
-- content: Standard Reference Materials :Tin freezing-point standard - SRM 741a/
+- content: |-
+    Standard Reference Materials :
+    Tin freezing-point standard - SRM 741a/
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Natalia P
+        - content: Natalia
+          language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P
           language:
           - en
           script:
@@ -45,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Gregory F
+        - content: Gregory
+          language:
+          - en
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           language:
           - en
           script:

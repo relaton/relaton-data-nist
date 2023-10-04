@@ -28,7 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Amanda J
+        - content: Amanda
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           script:
           - Latn
       surname:
@@ -45,7 +50,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Daniel A
+        - content: Daniel
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:

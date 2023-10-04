@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP295
 title:
-- content: Electronic composition in printing :proceedings of a symposium National
-    Bureau of Standards June 15-16, 1967
+- content: |-
+    Electronic composition in printing :
+    proceedings of a symposium National Bureau of Standards June 15-16, 1967
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard W
+        - content: Richard
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Roy W
+        - content: Roy
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           language:
           - en
           script:

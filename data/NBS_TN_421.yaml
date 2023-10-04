@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN421
 title:
-- content: Radiochemical analysis:nuclear instrumentation, radiation techniques, nuclear
-    chemistry radioisotope techniques. July 1966 through June 1967.
+- content: |-
+    Radiochemical analysis:
+    nuclear instrumentation, radiation techniques, nuclear chemistry radioisotope techniques. July 1966 through June 1967.
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: James R
+        - content: James
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           language:
           - en
           script:

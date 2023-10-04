@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6654
 title:
-- content: Thermodynamic data to support high-temperature syngas quench design:vapor
-    liquid equilibrium calculations
+- content: |-
+    Thermodynamic data to support high-temperature syngas quench design:
+    vapor liquid equilibrium calculations
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Allan H
+        - content: Allan
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           script:
           - Latn
       surname:

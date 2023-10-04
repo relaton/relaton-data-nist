@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTTN2172
 title:
-- content: A review of community resilience frameworks and assessment tools :an annotated
-    bibliography
+- content: |-
+    A review of community resilience frameworks and assessment tools :
+    an annotated bibliography
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Emily H
+        - content: Emily
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           script:
           - Latn
       surname:

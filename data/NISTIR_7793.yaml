@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7793
 title:
-- content: Interlaboratory analytical comparison study to support deepwater horizon
-    natural resource damage assessment :description and results for Crude oil QA10OIL01
+- content: |-
+    Interlaboratory analytical comparison study to support deepwater horizon natural resource damage assessment :
+    description and results for Crude oil QA10OIL01
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Michele M
+        - content: Michele
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: John R
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           language:
           - en
           script:

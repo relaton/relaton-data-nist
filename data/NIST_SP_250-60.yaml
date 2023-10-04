@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP250-60
 title:
-- content: NIST measurement services :measurement assurance program for wavelength
-    dependence of polarization dependent loss in fiber optic devices over the wavelength
-    range from 1535 nm to 1560 nm
+- content: |-
+    NIST measurement services :
+    measurement assurance program for wavelength dependence of polarization dependent loss in fiber optic devices over the wavelength range from 1535 nm to 1560 nm
   language:
   - en
   script:
@@ -30,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Rex M
+        - content: Rex
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           language:
           - en
           script:

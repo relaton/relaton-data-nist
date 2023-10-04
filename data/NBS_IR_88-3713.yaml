@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR88-3713
 title:
-- content: Center for Electronics and Electrical Engineering :technical progress bulletin
-    covering center programs, July to September 1987, with 1988 CEEE events calendar
+- content: |-
+    Center for Electronics and Electrical Engineering :
+    technical progress bulletin covering center programs, July to September 1987, with 1988 CEEE events calendar
   language:
   - en
   script:
@@ -29,7 +30,13 @@ contributor:
     name:
       given:
         forename:
-        - content: E Jane
+        - language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: 'E '
           language:
           - en
           script:

@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSLCIRC600
 title:
-- content: Letter Circular 600:timekeeping through the ages
+- content: |-
+    Letter Circular 600:
+    timekeeping through the ages
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Katharine S
+        - content: Katharine
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           script:
           - Latn
       surname:

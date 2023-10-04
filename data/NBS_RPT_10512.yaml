@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT10512
 title:
-- content: The calcium sulfate-water system:2. infrared spectroscopic, x-ray powder
-    diffraction and scanning electron microscopic studies
+- content: |-
+    The calcium sulfate-water system:
+    2. infrared spectroscopic, x-ray powder diffraction and scanning electron microscopic studies
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: James R
+        - content: James
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           script:
           - Latn
       surname:

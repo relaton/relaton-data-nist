@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7185
 title:
-- content: CPM 2:a revised core product model for representing design information
+- content: |-
+    CPM 2:
+    a revised core product model for representing design information
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Steven J
+        - content: Steven
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           script:
           - Latn
       surname:
@@ -93,7 +100,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Ram D
+        - content: Ram
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           script:
           - Latn
       surname:

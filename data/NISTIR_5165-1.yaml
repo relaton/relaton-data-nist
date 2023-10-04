@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR5165-1
 title:
-- content: Life-cycle costing workshop for energy conservation in buildings:student
-    manual
+- content: |-
+    Life-cycle costing workshop for energy conservation in buildings:
+    student manual
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Sieglinde K
+        - content: Sieglinde
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K
           script:
           - Latn
       surname:
@@ -42,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Stephen R
+        - content: Stephen
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           script:
           - Latn
       surname:

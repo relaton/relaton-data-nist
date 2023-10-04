@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6800
 title:
-- content: NIST special database 30:dual resolution images from paired fingerprint
-    cards
+- content: |-
+    NIST special database 30:
+    dual resolution images from paired fingerprint cards
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Craig I
+        - content: Craig
+          script:
+          - Latn
+          initial: I
+        formatted_initials:
+          content: I
           script:
           - Latn
       surname:

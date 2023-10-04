@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC603
 title:
-- content: Circular of the Bureau of Standards no. 603:stark broadening functions
-    for the hydrogen lines
+- content: |-
+    Circular of the Bureau of Standards no. 603:
+    stark broadening functions for the hydrogen lines
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Anne B
+        - content: Anne
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           script:
           - Latn
       surname:

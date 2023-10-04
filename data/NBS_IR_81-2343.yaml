@@ -28,7 +28,13 @@ contributor:
     name:
       given:
         forename:
-        - content: R, H
+        - language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           language:
           - en
           script:

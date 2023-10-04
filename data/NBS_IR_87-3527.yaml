@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR87-3527
 title:
-- content: Collection and analysis of organic compounds in air :an annotated bibliography
-    [1976 - 1986]
+- content: |-
+    Collection and analysis of organic compounds in air :
+    an annotated bibliography [1976 - 1986]
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Frank E
+        - content: Frank
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP250-42
 title:
-- content: Spectroradiometric detector measurements :part III- infrared detectors
+- content: |-
+    Spectroradiometric detector measurements :
+    part III- infrared detectors
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Alan L
+        - content: Alan
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           language:
           - en
           script:
@@ -45,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: George P
+        - content: George
+          language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P
           language:
           - en
           script:

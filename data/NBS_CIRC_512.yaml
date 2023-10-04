@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC512
 title:
-- content: Circular of the Bureau of Standards no. 512:methods of measuring humidity
-    and testing hygrometers
+- content: |-
+    Circular of the Bureau of Standards no. 512:
+    methods of measuring humidity and testing hygrometers
   language:
   - en
   script:
@@ -42,15 +43,12 @@ contributor:
     name:
       given:
         forename:
-        - content: W G
+        - content: W
           script:
-          - Latn
-          initial: W
-        - script:
           - Latn
           initial: G
         formatted_initials:
-          content: W G
+          content: G
           script:
           - Latn
       surname:

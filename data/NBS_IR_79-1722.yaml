@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR79-1722
 title:
-- content: Characterizing the interfiber bonding of paper pulps :rationale for bonding
-    parameters derived from tensile test data
+- content: |-
+    Characterizing the interfiber bonding of paper pulps :
+    rationale for bonding parameters derived from tensile test data
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Jack C
+        - content: Jack
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           language:
           - en
           script:

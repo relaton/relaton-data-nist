@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP300v7
 title:
-- content: Precision measurement and calibration :selected NBS papers on radiometry
-    and photometry
+- content: |-
+    Precision measurement and calibration :
+    selected NBS papers on radiometry and photometry
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: H K, III
+        - content: H
+          language:
+          - en
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K
           language:
           - en
           script:
@@ -46,19 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: H L
+        - content: H
           language:
-          - en
-          script:
-          - Latn
-          initial: H
-        - language:
           - en
           script:
           - Latn
           initial: L
         formatted_initials:
-          content: H L
+          content: L
           language:
           - en
           script:

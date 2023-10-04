@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR85-3240
 title:
-- content: Conference proceedings :a national prospectus on the future of the U. S.
-    advanced ceramics industry
+- content: |-
+    Conference proceedings :
+    a national prospectus on the future of the U. S. advanced ceramics industry
   language:
   - en
   script:
@@ -46,7 +47,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Lyle H
+        - content: Lyle
+          language:
+          - en
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           language:
           - en
           script:
@@ -63,7 +71,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Samuel J
+        - content: Samuel
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           language:
           - en
           script:

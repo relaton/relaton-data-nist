@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSMP276
 title:
-- content: Cooperation, convertibility, and compatibility among information systemsA
-    literature review
+- content: |-
+    Cooperation, convertibility, and compatibility among information systems
+    A literature review
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: John S
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Simon M
+        - content: Simon
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           language:
           - en
           script:
@@ -63,7 +78,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Madeline M
+        - content: Madeline
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSNSRDS12
 title:
-- content: Tables for the rigid asymmetric rotor :transformation coefficients from
-    symmetric to asymmetric bases and expectation values of P^2<-z, P4<-z, and P2<-z,
+- content: |-
+    Tables for the rigid asymmetric rotor :
+    transformation coefficients from symmetric to asymmetric bases and expectation values of P^2<-z, P4<-z, and P2<-z,
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard H
+        - content: Richard
+          language:
+          - en
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           language:
           - en
           script:

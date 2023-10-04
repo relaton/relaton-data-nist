@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP250-29e2004
 title:
-- content: Remote frequency calibrations :the NIST frequency measurement and analysis
-    service
+- content: |-
+    Remote frequency calibrations :
+    the NIST frequency measurement and analysis service
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Michael A
+        - content: Michael
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:

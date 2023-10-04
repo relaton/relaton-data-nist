@@ -29,7 +29,13 @@ contributor:
     name:
       given:
         forename:
-        - content: Y Tina
+        - language:
+          - en
+          script:
+          - Latn
+          initial: Y
+        formatted_initials:
+          content: 'Y '
           language:
           - en
           script:
@@ -46,7 +52,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Sanford P
+        - content: Sanford
+          language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P
           language:
           - en
           script:

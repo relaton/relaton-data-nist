@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN594-5
 title:
-- content: Optical radiation measurements:stability and temperature characteristics
-    of some silicon and selenium photodetectors
+- content: |-
+    Optical radiation measurements:
+    stability and temperature characteristics of some silicon and selenium photodetectors
   language:
   - en
   script:
@@ -46,7 +47,13 @@ contributor:
     name:
       given:
         forename:
-        - content: A Russell
+        - language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: 'A '
           language:
           - en
           script:
@@ -63,7 +70,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Edward F
+        - content: Edward
+          language:
+          - en
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           language:
           - en
           script:

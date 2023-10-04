@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT10487
 title:
-- content: Thermodynamic data for industrial incinerators :with guides to the use
-    of the tables
+- content: |-
+    Thermodynamic data for industrial incinerators :
+    with guides to the use of the tables
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: George T
+        - content: George
+          language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Eugene S
+        - content: Eugene
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           language:
           - en
           script:

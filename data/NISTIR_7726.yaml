@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7726
 title:
-- content: Graphical User Interface (GUI) for project 25 :inter-RF subsystem iterface
-    (ISSU) GUI version 0.9.6
+- content: |-
+    Graphical User Interface (GUI) for project 25 :
+    inter-RF subsystem iterface (ISSU) GUI version 0.9.6
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Alan B
+        - content: Alan
+          language:
+          - en
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard A
+        - content: Richard
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSLCIRC996
 title:
-- content: Letter Circular 996:publications on leather (supersedes Letter Circular
-    918)
+- content: |-
+    Letter Circular 996:
+    publications on leather (supersedes Letter Circular 918)
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Bernice B
+        - content: Bernice
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           script:
           - Latn
       surname:

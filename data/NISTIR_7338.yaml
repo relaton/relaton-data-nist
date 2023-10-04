@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7338
 title:
-- content: 'Evaluation of fire models for nuclear power plant applications :benchmark
-    exercise #3 : international panel report'
+- content: |-
+    Evaluation of fire models for nuclear power plant applications :
+    benchmark exercise #3 : international panel report
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Kevin B
+        - content: Kevin
+          language:
+          - en
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           language:
           - en
           script:

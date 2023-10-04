@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR80-1982
 title:
-- content: BFIRESVersion 2 :documentation of program modifications
+- content: |-
+    BFIRESVersion 2 :
+    documentation of program modifications
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Fred I
+        - content: Fred
+          language:
+          - en
+          script:
+          - Latn
+          initial: I
+        formatted_initials:
+          content: I
           language:
           - en
           script:

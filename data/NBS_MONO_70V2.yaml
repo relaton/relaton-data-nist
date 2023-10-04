@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSMONO70v2
 title:
-- content: Microwave spectral tables :line strengths of asymmetric rotors
+- content: |-
+    Microwave spectral tables :
+    line strengths of asymmetric rotors
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Paul F
+        - content: Paul
+          language:
+          - en
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           language:
           - en
           script:
@@ -45,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Marlene R
+        - content: Marlene
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           language:
           - en
           script:

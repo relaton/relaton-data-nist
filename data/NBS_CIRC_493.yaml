@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC493
 title:
-- content: Circular of the Bureau of Standards no. 493:development of the National
-    Bureau of Standards casting resin
+- content: |-
+    Circular of the Bureau of Standards no. 493:
+    development of the National Bureau of Standards casting resin
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Philip J
+        - content: Philip
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           script:
           - Latn
       surname:
@@ -42,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Wilbur C
+        - content: Wilbur
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           script:
           - Latn
       surname:

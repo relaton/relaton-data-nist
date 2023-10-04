@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR88-3696
 title:
-- content: Suppression of wood crib fires with sprinkler sprays :test results
+- content: |-
+    Suppression of wood crib fires with sprinkler sprays :
+    test results
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: William D
+        - content: William
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           language:
           - en
           script:

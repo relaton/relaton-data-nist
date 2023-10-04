@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN974
 title:
-- content: Corrosion of metallic pipes transporting potable water :Laboratory testing
-    methods
+- content: |-
+    Corrosion of metallic pipes transporting potable water :
+    Laboratory testing methods
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Jean N
+        - content: Jean
+          language:
+          - en
+          script:
+          - Latn
+          initial: N
+        formatted_initials:
+          content: N
           language:
           - en
           script:

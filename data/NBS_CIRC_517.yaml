@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC517
 title:
-- content: Circular of the Bureau of Standards no. 517:calibration of commercial radio
-    field-strength meters at the National Bureau of Standards
+- content: |-
+    Circular of the Bureau of Standards no. 517:
+    calibration of commercial radio field-strength meters at the National Bureau of Standards
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Frank M
+        - content: Frank
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:

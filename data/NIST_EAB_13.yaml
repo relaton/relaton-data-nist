@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTEAB13
 title:
-- content: The geographic footprint of NIST cooperative research and development agreements
-    and licenses :fiscal year 2019
+- content: |-
+    The geographic footprint of NIST cooperative research and development agreements and licenses :
+    fiscal year 2019
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Michael J
+        - content: Michael
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           script:
           - Latn
       surname:

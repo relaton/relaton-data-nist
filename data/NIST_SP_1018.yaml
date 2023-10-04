@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP1018
 title:
-- content: Fire dynamics simulator (version 4) :technical reference guide
+- content: |-
+    Fire dynamics simulator (version 4) :
+    technical reference guide
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Kevin B
+        - content: Kevin
+          language:
+          - en
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           language:
           - en
           script:

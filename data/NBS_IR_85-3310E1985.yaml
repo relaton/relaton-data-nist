@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR85-3310e1985
 title:
-- content: Measurement technology for automation in construction and large scale assembly
-    :proceedings of a workshop sponsored by National Bureau of Standards and Transitions
-    Research Corporation Feb. 5-6, 1985
+- content: |-
+    Measurement technology for automation in construction and large scale assembly :
+    proceedings of a workshop sponsored by National Bureau of Standards and Transitions Research Corporation Feb. 5-6, 1985
   language:
   - en
   script:
@@ -30,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: John M
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           language:
           - en
           script:

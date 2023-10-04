@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC484
 title:
-- content: Circular of the Bureau of Standards no. 484:spectrophotometry (200 to 1,000
-    millimicrons)
+- content: |-
+    Circular of the Bureau of Standards no. 484:
+    spectrophotometry (200 to 1,000 millimicrons)
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Kasson S
+        - content: Kasson
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           script:
           - Latn
       surname:

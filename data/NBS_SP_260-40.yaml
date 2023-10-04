@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP260-40
 title:
-- content: Standard Reference Materials :Selection of differential thermal analysis
-    temperature standards through a cooperative study (SRM 758, 759, 760)/
+- content: |-
+    Standard Reference Materials :
+    Selection of differential thermal analysis temperature standards through a cooperative study (SRM 758, 759, 760)/
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Paul D
+        - content: Paul
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           language:
           - en
           script:
@@ -46,19 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: H G
+        - content: H
           language:
-          - en
-          script:
-          - Latn
-          initial: H
-        - language:
           - en
           script:
           - Latn
           initial: G
         formatted_initials:
-          content: H G
+          content: G
           language:
           - en
           script:

@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR3955
 title:
-- content: Spherical near-field scanning :experimental and theoretical studies
+- content: |-
+    Spherical near-field scanning :
+    experimental and theoretical studies
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Ronald C
+        - content: Ronald
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           language:
           - en
           script:
@@ -45,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Carl F
+        - content: Carl
+          language:
+          - en
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           language:
           - en
           script:

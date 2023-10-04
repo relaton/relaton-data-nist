@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT10155
 title:
-- content: Preparation of hydroxyapatite by hydrolysis of alpha - tricalcium phosphate
-    :progress report
+- content: |-
+    Preparation of hydroxyapatite by hydrolysis of alpha - tricalcium phosphate :
+    progress report
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Elmer T
+        - content: Elmer
+          language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Edgard C
+        - content: Edgard
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           language:
           - en
           script:

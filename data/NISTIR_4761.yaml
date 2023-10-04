@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR4761
 title:
-- content: The Federal move to metric:Public Law, DOC, and NIST
+- content: |-
+    The Federal move to metric:
+    Public Law, DOC, and NIST
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Dennis A
+        - content: Dennis
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:

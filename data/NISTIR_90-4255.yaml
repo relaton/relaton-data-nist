@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR90-4255
 title:
-- content: Economic analysis for military construction design- concepts, techniques,
-    and applications for the analyst:student's manual
+- content: |-
+    Economic analysis for military construction design- concepts, techniques, and applications for the analyst:
+    student's manual
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Rosalie T
+        - content: Rosalie
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           script:
           - Latn
       surname:
@@ -42,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Sieglinde K
+        - content: Sieglinde
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K
           script:
           - Latn
       surname:

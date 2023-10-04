@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSBSS32
 title:
-- content: Precoordination :basis for industrialized building
+- content: |-
+    Precoordination :
+    basis for industrialized building
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Russell W, Jr
+        - content: Russell
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           language:
           - en
           script:

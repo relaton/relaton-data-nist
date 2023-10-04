@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN876
 title:
-- content: Exploring privacy and data security costs :a summary of a workshop
+- content: |-
+    Exploring privacy and data security costs :
+    a summary of a workshop
   language:
   - en
   script:
@@ -45,7 +47,14 @@ contributor:
     name:
       given:
         forename:
-        - content: John L
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           language:
           - en
           script:

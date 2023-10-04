@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSLCIRC375
 title:
-- content: Letter Circular 375:survey of zoning laws and ordinances adopted during
-    1932
+- content: |-
+    Letter Circular 375:
+    survey of zoning laws and ordinances adopted during 1932
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Normal L
+        - content: Normal
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:

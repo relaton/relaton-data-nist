@@ -28,7 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Bert W
+        - content: Bert
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           script:
           - Latn
       surname:
@@ -41,7 +46,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Dianne P
+        - content: Dianne
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P
           script:
           - Latn
       surname:

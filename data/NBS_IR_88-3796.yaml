@@ -28,7 +28,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Long T
+        - content: Long
+          language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           language:
           - en
           script:
@@ -45,19 +52,14 @@ contributor:
     name:
       given:
         forename:
-        - content: H S
+        - content: H
           language:
-          - en
-          script:
-          - Latn
-          initial: H
-        - language:
           - en
           script:
           - Latn
           initial: S
         formatted_initials:
-          content: H S
+          content: S
           language:
           - en
           script:
@@ -74,7 +76,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Mark K
+        - content: Mark
+          language:
+          - en
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K
           language:
           - en
           script:

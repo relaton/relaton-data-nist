@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR88-3734
 title:
-- content: Estimating the environment and the reponse of sprinkler links in compartment
-    fires with draft curtains and fusible link-actuated ceiling vents- part I :theory
+- content: |-
+    Estimating the environment and the reponse of sprinkler links in compartment fires with draft curtains and fusible link-actuated ceiling vents- part I :
+    theory
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Leonard Y
+        - content: Leonard
+          language:
+          - en
+          script:
+          - Latn
+          initial: Y
+        formatted_initials:
+          content: Y
           language:
           - en
           script:

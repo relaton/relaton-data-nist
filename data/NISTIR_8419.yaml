@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR8419
 title:
-- content: Blockchain and related technologies to support manufacturing supply chain
-    traceability :needs and industry perspectives
+- content: |-
+    Blockchain and related technologies to support manufacturing supply chain traceability :
+    needs and industry perspectives
   language:
   - en
   script:
@@ -114,7 +115,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Vivian L
+        - content: Vivian
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:

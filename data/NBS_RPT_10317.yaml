@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT10317
 title:
-- content: Evaluation criteria for floors under concentrated load:report on study
+- content: |-
+    Evaluation criteria for floors under concentrated load:
+    report on study
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Felix Y
+        - content: Felix
+          script:
+          - Latn
+          initial: Y
+        formatted_initials:
+          content: Y
           script:
           - Latn
       surname:

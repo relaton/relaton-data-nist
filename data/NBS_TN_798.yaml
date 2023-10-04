@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN798
 title:
-- content: Collaborative research program between NBS and Indian scientific institutions
-    :special foreign currency program 1973 status
+- content: |-
+    Collaborative research program between NBS and Indian scientific institutions :
+    special foreign currency program 1973 status
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Doris M
+        - content: Doris
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Michael B
+        - content: Michael
+          language:
+          - en
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           language:
           - en
           script:
@@ -63,7 +78,13 @@ contributor:
     name:
       given:
         forename:
-        - content: H Steffen
+        - language:
+          - en
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: 'H '
           language:
           - en
           script:

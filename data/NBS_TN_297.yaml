@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN297
 title:
-- content: Evaluation of information systems :a selected bibliography with informative
-    abstracts
+- content: |-
+    Evaluation of information systems :
+    a selected bibliography with informative abstracts
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Madeline M
+        - content: Madeline
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR81-2335
 title:
-- content: Effects of home weatherization on occupant comfort :first report ofa field
-    study
+- content: |-
+    Effects of home weatherization on occupant comfort :
+    first report ofa field study
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Roy E
+        - content: Roy
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

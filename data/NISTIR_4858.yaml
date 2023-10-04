@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR4858
 title:
-- content: A metric America:a decision whose time has come - for real
+- content: |-
+    A metric America:
+    a decision whose time has come - for real
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Gary P
+        - content: Gary
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P
           script:
           - Latn
       surname:

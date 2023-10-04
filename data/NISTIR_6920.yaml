@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6920
 title:
-- content: NIST intercomparison exercise program for organic contaminants in the marine
-    environment:description and results of the 2002 organic intercomparison exercise
+- content: |-
+    NIST intercomparison exercise program for organic contaminants in the marine environment:
+    description and results of the 2002 organic intercomparison exercise
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Michele M
+        - content: Michele
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:
@@ -42,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: John R
+        - content: John
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           script:
           - Latn
       surname:
@@ -55,7 +66,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Reenie M
+        - content: Reenie
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:
@@ -68,7 +84,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Dianne L
+        - content: Dianne
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:
@@ -81,7 +102,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Stephen A
+        - content: Stephen
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:

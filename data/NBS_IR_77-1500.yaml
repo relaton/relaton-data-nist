@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR77-1500
 title:
-- content: Application of life cycle costing to hand-held hair dryers :a field demonstration
-    for small appliances
+- content: |-
+    Application of life cycle costing to hand-held hair dryers :
+    a field demonstration for small appliances
   language:
   - en
   script:
@@ -29,7 +30,13 @@ contributor:
     name:
       given:
         forename:
-        - content: S Wayne
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: 'S '
           language:
           - en
           script:
@@ -46,7 +53,13 @@ contributor:
     name:
       given:
         forename:
-        - content: F Clare
+        - language:
+          - en
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: 'F '
           language:
           - en
           script:
@@ -63,7 +76,14 @@ contributor:
     name:
       given:
         forename:
-        - content: William B
+        - content: William
+          language:
+          - en
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           language:
           - en
           script:

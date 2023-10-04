@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT9046
 title:
-- content: Report on Latin American travel concerning Latin American standards for
-    pipe and tubing and technical assistant (Colombia):part I, November 5 - December
-    3, 1965; part II, November 28 - December 3, 1965
+- content: |-
+    Report on Latin American travel concerning Latin American standards for pipe and tubing and technical assistant (Colombia):
+    part I, November 5 - December 3, 1965; part II, November 28 - December 3, 1965
   language:
   - en
   script:
@@ -30,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: LeRoy L
+        - content: LeRoy
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:

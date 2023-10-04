@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTTN2188
 title:
-- content: Report on high energy arcing fault experiments :experimental results from
-    medium voltage electrical enclosures
+- content: |-
+    Report on high energy arcing fault experiments :
+    experimental results from medium voltage electrical enclosures
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Anthony D Jr
+        - content: Anthony
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: 'D '
           script:
           - Latn
       surname:

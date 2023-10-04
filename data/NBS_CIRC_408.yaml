@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC408
 title:
-- content: Circular of the Bureau of Standards no. 408:information for the amateur
-    designer of transformers for 25- to 60-cycle circuits
+- content: |-
+    Circular of the Bureau of Standards no. 408:
+    information for the amateur designer of transformers for 25- to 60-cycle circuits
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Herbert B
+        - content: Herbert
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           script:
           - Latn
       surname:

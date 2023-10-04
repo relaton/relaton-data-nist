@@ -28,15 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: C S
+        - content: C
           script:
-          - Latn
-          initial: C
-        - script:
           - Latn
           initial: S
         formatted_initials:
-          content: C S
+          content: S
           script:
           - Latn
       surname:
@@ -49,7 +46,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Joan A
+        - content: Joan
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:

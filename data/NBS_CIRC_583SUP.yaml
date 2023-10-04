@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC583sup
 title:
-- content: Supplement to National Bureau of Standards Circular no. 583:x-ray attenuation
-    coefficients from 10 kev to 100Mev
+- content: |-
+    Supplement to National Bureau of Standards Circular no. 583:
+    x-ray attenuation coefficients from 10 kev to 100Mev
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Rosemary T
+        - content: Rosemary
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           script:
           - Latn
       surname:

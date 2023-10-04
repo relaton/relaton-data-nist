@@ -42,7 +42,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Barry J
+        - content: Barry
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           script:
           - Latn
       surname:
@@ -55,7 +60,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Walter J
+        - content: Walter
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           script:
           - Latn
       surname:

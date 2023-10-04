@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7229
 title:
-- content: Intercomparison program for organic speciation in PM2.5 air particulate
-    matter:description and results for trials I and II
+- content: |-
+    Intercomparison program for organic speciation in PM2.5 air particulate matter:
+    description and results for trials I and II
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Michele M
+        - content: Michele
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:
@@ -42,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Stephen A
+        - content: Stephen
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:

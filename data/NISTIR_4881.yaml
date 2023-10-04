@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR4881
 title:
-- content: Polarization effects in coherent and incoherent photon scattering:survey
-    of measurements and theory relevant to radiation transport calculations
+- content: |-
+    Polarization effects in coherent and incoherent photon scattering:
+    survey of measurements and theory relevant to radiation transport calculations
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: John H
+        - content: John
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           script:
           - Latn
       surname:

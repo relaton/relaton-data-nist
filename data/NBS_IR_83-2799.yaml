@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR83-2799
 title:
-- content: 'An overview of artificial intelligence and robotics :volume 1 - artificial
-    intelligence : part A - the core ingredients'
+- content: |-
+    An overview of artificial intelligence and robotics :
+    volume 1 - artificial intelligence : part A - the core ingredients
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: William B
+        - content: William
+          language:
+          - en
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           language:
           - en
           script:

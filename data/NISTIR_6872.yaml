@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6872
 title:
-- content: Evaluation of fire models for nuclear fire plant applications:cable tray
-    fires - international panel report
+- content: |-
+    Evaluation of fire models for nuclear fire plant applications:
+    cable tray fires - international panel report
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Monideep K
+        - content: Monideep
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K
           script:
           - Latn
       surname:

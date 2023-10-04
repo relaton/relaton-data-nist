@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR4849
 title:
-- content: Workshop on characterizing diamond films:February 27, 28, 1992 Gaithersburg,
-    MD
+- content: |-
+    Workshop on characterizing diamond films:
+    February 27, 28, 1992 Gaithersburg, MD
   language:
   - en
   script:
@@ -42,7 +43,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Charles P
+        - content: Charles
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P
           script:
           - Latn
       surname:

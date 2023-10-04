@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7684
 title:
-- content: Modeling and simulation for emergency management and health care systems
-    :workshop summary
+- content: |-
+    Modeling and simulation for emergency management and health care systems :
+    workshop summary
   language:
   - en
   script:
@@ -46,7 +47,13 @@ contributor:
     name:
       given:
         forename:
-        - content: Y Tina
+        - language:
+          - en
+          script:
+          - Latn
+          initial: Y
+        formatted_initials:
+          content: 'Y '
           language:
           - en
           script:

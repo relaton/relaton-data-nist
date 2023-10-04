@@ -52,7 +52,13 @@ contributor:
     name:
       given:
         forename:
-        - content: Y. Tina
+        - language:
+          - en
+          script:
+          - Latn
+          initial: Y
+        formatted_initials:
+          content: 'Y. '
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSMONO12
 title:
-- content: Stabilization of free radicals at low temperatures :summary of the NBS
-    program
+- content: |-
+    Stabilization of free radicals at low temperatures :
+    summary of the NBS program
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Arnold M
+        - content: Arnold
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           language:
           - en
           script:
@@ -46,19 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: H P
+        - content: H
           language:
-          - en
-          script:
-          - Latn
-          initial: H
-        - language:
           - en
           script:
           - Latn
           initial: P
         formatted_initials:
-          content: H P
+          content: P
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT7301
 title:
-- content: Tests of civil defense materials after storage:I. plaster of Paris impregnated
-    cotton bandages
+- content: |-
+    Tests of civil defense materials after storage:
+    I. plaster of Paris impregnated cotton bandages
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: James F, Jr
+        - content: James
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           script:
           - Latn
       surname:
@@ -55,7 +61,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Russell J
+        - content: Russell
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           script:
           - Latn
       surname:
@@ -68,7 +79,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Mary N
+        - content: Mary
+          script:
+          - Latn
+          initial: N
+        formatted_initials:
+          content: N
           script:
           - Latn
       surname:

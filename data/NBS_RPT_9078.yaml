@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT9078
 title:
-- content: Surface studies of natural and synthetic bone mineral and teeth:progress
-    report
+- content: |-
+    Surface studies of natural and synthetic bone mineral and teeth:
+    progress report
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: William V
+        - content: William
+          script:
+          - Latn
+          initial: V
+        formatted_initials:
+          content: V
           script:
           - Latn
       surname:

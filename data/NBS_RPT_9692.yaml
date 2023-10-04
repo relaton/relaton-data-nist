@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT9692
 title:
-- content: Report on Latin America travel (X):concerning U.S. in Pan American Standards
-    Commission (Copant) Annual Meeting of Council and the General Assembly January
-    26 - February 4, 1968 Lima Peru
+- content: |-
+    Report on Latin America travel (X):
+    concerning U.S. in Pan American Standards Commission (Copant) Annual Meeting of Council and the General Assembly January 26 - February 4, 1968 Lima Peru
   language:
   - en
   script:
@@ -30,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Leroy L
+        - content: Leroy
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:

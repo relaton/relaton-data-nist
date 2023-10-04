@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR74-555
 title:
-- content: City Games :an executive's overview
+- content: |-
+    City Games :
+    an executive's overview
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: John E
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP440
 title:
-- content: Color :universal language and dictionary of names
+- content: |-
+    Color :
+    universal language and dictionary of names
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Kenneth L
+        - content: Kenneth
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           language:
           - en
           script:
@@ -45,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Deane B
+        - content: Deane
+          language:
+          - en
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7266
 title:
-- content: Proceedings of the 2nd NIST LADAR performance evaluation workshop :March
-    15-16, 2005
+- content: |-
+    Proceedings of the 2nd NIST LADAR performance evaluation workshop :
+    March 15-16, 2005
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Geraldine S
+        - content: Geraldine
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           language:
           - en
           script:

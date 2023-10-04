@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSMP265
 title:
-- content: Dimensional metrology :Subject-classified with abstracts through 1964/
+- content: |-
+    Dimensional metrology :
+    Subject-classified with abstracts through 1964/
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Irvin H
+        - content: Irvin
+          language:
+          - en
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           language:
           - en
           script:

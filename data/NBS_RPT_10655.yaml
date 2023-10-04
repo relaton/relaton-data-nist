@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT10655
 title:
-- content: Specifications for resinous flooring:requirements and test methods
+- content: |-
+    Specifications for resinous flooring:
+    requirements and test methods
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Winthrop C
+        - content: Winthrop
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           script:
           - Latn
       surname:

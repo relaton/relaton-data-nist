@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7040
 title:
-- content: Workshop summary report :scanning probe nanolithography workshop
+- content: |-
+    Workshop summary report :
+    scanning probe nanolithography workshop
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: John A
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:

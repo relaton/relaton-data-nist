@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP260-100
 title:
-- content: Standard Reference Materials :Handbook for SRM users/
+- content: |-
+    Standard Reference Materials :
+    Handbook for SRM users/
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: John K
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K
           language:
           - en
           script:

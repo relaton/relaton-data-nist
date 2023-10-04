@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6099
 title:
-- content: ATP eligibility criteria for U.S. subsidiaries of foreign-owned companies:legislation,
-    implementation, and results
+- content: |-
+    ATP eligibility criteria for U.S. subsidiaries of foreign-owned companies:
+    legislation, implementation, and results
   language:
   - en
   script:
@@ -29,7 +30,15 @@ contributor:
     name:
       given:
         forename:
-        - content: Connie K N
+        - content: Connie
+          script:
+          - Latn
+          initial: K
+        - script:
+          - Latn
+          initial: N
+        formatted_initials:
+          content: K N
           script:
           - Latn
       surname:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTTN1406
 title:
-- content: Fire safety of passenger trains :a review of current approaches and of
-    new concepts
+- content: |-
+    Fire safety of passenger trains :
+    a review of current approaches and of new concepts
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard D
+        - content: Richard
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC470
 title:
-- content: Circular of the Bureau of Standards no. 470:precision resistors and their
-    measurement
+- content: |-
+    Circular of the Bureau of Standards no. 470:
+    precision resistors and their measurement
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: James L
+        - content: James
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:

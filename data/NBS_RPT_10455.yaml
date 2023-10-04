@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT10455
 title:
-- content: Apatites :progress report
+- content: |-
+    Apatites :
+    progress report
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Walter E
+        - content: Walter
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

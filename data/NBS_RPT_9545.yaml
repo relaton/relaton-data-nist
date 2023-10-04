@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT9545
 title:
-- content: Review of information relating to corrosion of steel and wrought-iron pipe
-    in steam-condensate systems:report
+- content: |-
+    Review of information relating to corrosion of steel and wrought-iron pipe in steam-condensate systems:
+    report
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Robert S
+        - content: Robert
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           script:
           - Latn
       surname:

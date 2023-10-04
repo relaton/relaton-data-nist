@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP260-125
 title:
-- content: Standard Reference Materials :Statistical aspects of the certification
-    of chemical batch SRMs/
+- content: |-
+    Standard Reference Materials :
+    Statistical aspects of the certification of chemical batch SRMs/
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Susannah B
+        - content: Susannah
+          language:
+          - en
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC514
 title:
-- content: Circular of the Bureau of Standards no. 514:table of dielectric constants
-    of pure liquids
+- content: |-
+    Circular of the Bureau of Standards no. 514:
+    table of dielectric constants of pure liquids
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Arthur A
+        - content: Arthur
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:

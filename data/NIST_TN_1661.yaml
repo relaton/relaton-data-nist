@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTTN1661
 title:
-- content: Report on residential :fireground field experiments
+- content: |-
+    Report on residential :
+    fireground field experiments
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Jason D
+        - content: Jason
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           language:
           - en
           script:
@@ -79,7 +88,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Kathy A
+        - content: Kathy
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:
@@ -96,7 +112,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard D
+        - content: Richard
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           language:
           - en
           script:

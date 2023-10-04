@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC480
 title:
-- content: Circular of the Bureau of Standards no. 480:fundamental techniques in the
-    frequency adjustment of quartz crystals
+- content: |-
+    Circular of the Bureau of Standards no. 480:
+    fundamental techniques in the frequency adjustment of quartz crystals
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Leland T
+        - content: Leland
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           script:
           - Latn
       surname:

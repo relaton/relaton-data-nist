@@ -29,7 +29,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Joseph J.
+        - content: Joseph
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J.
           script:
           - Latn
       surname:
@@ -46,7 +51,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Josephine H.
+        - content: Josephine
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H.
           script:
           - Latn
       surname:
@@ -63,7 +73,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Jeffrey W.
+        - content: Jeffrey
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W.
           script:
           - Latn
       surname:
@@ -114,7 +129,11 @@ contributor:
     name:
       given:
         forename:
-        - content: R. Douglas
+        - script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: 'R. '
           script:
           - Latn
       surname:
@@ -131,7 +150,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard C.
+        - content: Richard
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C.
           script:
           - Latn
       surname:
@@ -165,7 +189,15 @@ contributor:
     name:
       given:
         forename:
-        - content: Maria C. G.
+        - content: Maria
+          script:
+          - Latn
+          initial: C
+        - script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: C. G.
           script:
           - Latn
       surname:
@@ -182,7 +214,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Jeffrey J.
+        - content: Jeffrey
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J.
           script:
           - Latn
       surname:

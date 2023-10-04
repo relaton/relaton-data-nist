@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP1230-3
 title:
-- content: The Lumberton, North Carolina flood of 2016, wave 3 :a community impact
-    and recovery-focused technical investigation following successive flood events
+- content: |-
+    The Lumberton, North Carolina flood of 2016, wave 3 :
+    a community impact and recovery-focused technical investigation following successive flood events
   language:
   - en
   script:
@@ -63,7 +64,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Elaina J
+        - content: Elaina
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           script:
           - Latn
       surname:

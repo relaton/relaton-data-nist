@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN1141
 title:
-- content: NBS*AIDS80 :a FORTRAN program for crystallographic data evaluation
+- content: |-
+    NBS*AIDS80 :
+    a FORTRAN program for crystallographic data evaluation
   language:
   - en
   script:
@@ -28,19 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: A D
+        - content: A
           language:
-          - en
-          script:
-          - Latn
-          initial: A
-        - language:
           - en
           script:
           - Latn
           initial: D
         formatted_initials:
-          content: A D
+          content: D
           language:
           - en
           script:

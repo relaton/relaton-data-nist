@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR76-1102
 title:
-- content: Computer programs for structural chemistry :status. A FORTRAN program for
-    statistical analysis of crystallographic quantities
+- content: |-
+    Computer programs for structural chemistry :
+    status. A FORTRAN program for statistical analysis of crystallographic quantities
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: LeRoy W
+        - content: LeRoy
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           language:
           - en
           script:

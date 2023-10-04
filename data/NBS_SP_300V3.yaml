@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP300v3
 title:
-- content: Precision measurement and calibration :selected NBS papers on electricity
-    - low frequency
+- content: |-
+    Precision measurement and calibration :
+    selected NBS papers on electricity - low frequency
   language:
   - en
   script:
@@ -29,19 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: F L
+        - content: F
           language:
-          - en
-          script:
-          - Latn
-          initial: F
-        - language:
           - en
           script:
           - Latn
           initial: L
         formatted_initials:
-          content: F L
+          content: L
           language:
           - en
           script:
@@ -58,19 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: R F
+        - content: R
           language:
-          - en
-          script:
-          - Latn
-          initial: R
-        - language:
           - en
           script:
           - Latn
           initial: F
         formatted_initials:
-          content: R F
+          content: F
           language:
           - en
           script:

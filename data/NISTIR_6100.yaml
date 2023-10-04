@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6100
 title:
-- content: Electronics and Electrical Engineering Laboratory:technical progress bulletin
-    covering laboratory programs, July to September 1997, with 1997-1998 EEEL events
-    calendar
+- content: |-
+    Electronics and Electrical Engineering Laboratory:
+    technical progress bulletin covering laboratory programs, July to September 1997, with 1997-1998 EEEL events calendar
   language:
   - en
   script:
@@ -30,15 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: J M
+        - content: J
           script:
-          - Latn
-          initial: J
-        - script:
           - Latn
           initial: M
         formatted_initials:
-          content: J M
+          content: M
           script:
           - Latn
       surname:

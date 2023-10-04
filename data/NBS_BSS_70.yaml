@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSBSS70
 title:
-- content: Windows and people :a literature survey
+- content: |-
+    Windows and people :
+    a literature survey
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Belinda L
+        - content: Belinda
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           language:
           - en
           script:

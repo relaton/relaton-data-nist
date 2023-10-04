@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6290
 title:
-- content: Toward a national standards strategy:conference report
+- content: |-
+    Toward a national standards strategy:
+    conference report
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Krista J Johnsen
+        - content: Krista
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: 'J '
           script:
           - Latn
       surname:
@@ -41,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Walter G
+        - content: Walter
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G
           script:
           - Latn
       surname:

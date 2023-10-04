@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP960-9
 title:
-- content: NIST recommended practice guide :surface engineering measurement for standards
-    for inorganic materials/
+- content: |-
+    NIST recommended practice guide :
+    surface engineering measurement for standards for inorganic materials/
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Stanley J
+        - content: Stanley
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           language:
           - en
           script:

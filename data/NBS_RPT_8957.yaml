@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT8957
 title:
-- content: Report on Latin America travel :concerning U.S. in the Pan American Standards
-    Commission (COPANT) meeting in Caracas, Venezuela
+- content: |-
+    Report on Latin America travel :
+    concerning U.S. in the Pan American Standards Commission (COPANT) meeting in Caracas, Venezuela
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Charles T
+        - content: Charles
+          language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           language:
           - en
           script:

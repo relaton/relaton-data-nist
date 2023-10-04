@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7331
 title:
-- content: Developing an analysis of threats to voting systems :workshop summary,
-    Hilton Washington DC North Hotel, Gaithersburg, Maryland, October 7, 2005
+- content: |-
+    Developing an analysis of threats to voting systems :
+    workshop summary, Hilton Washington DC North Hotel, Gaithersburg, Maryland, October 7, 2005
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Allan C
+        - content: Allan
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           language:
           - en
           script:

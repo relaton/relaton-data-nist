@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT8907
 title:
-- content: Pressures exerted on complete dentures during swallowing:progress report
+- content: |-
+    Pressures exerted on complete dentures during swallowing:
+    progress report
   language:
   - en
   script:
@@ -41,7 +43,12 @@ contributor:
     name:
       given:
         forename:
-        - content: George C
+        - content: George
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           script:
           - Latn
       surname:

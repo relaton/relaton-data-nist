@@ -30,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Blayne C
+        - content: Blayne
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           script:
           - Latn
       surname:

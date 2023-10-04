@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSMONO3v2
 title:
-- content: Table of wavenumbers :7000A-1000µ
+- content: |-
+    Table of wavenumbers :
+    7000A-1000µ
   language:
   - en
   script:
@@ -45,7 +47,14 @@ contributor:
     name:
       given:
         forename:
-        - content: William R
+        - content: William
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           language:
           - en
           script:
@@ -62,7 +71,14 @@ contributor:
     name:
       given:
         forename:
-        - content: William F
+        - content: William
+          language:
+          - en
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           language:
           - en
           script:

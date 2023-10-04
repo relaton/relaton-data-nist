@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP300v8
 title:
-- content: Precision measurement and calibration :selected NBS papers on mechanics
+- content: |-
+    Precision measurement and calibration :
+    selected NBS papers on mechanics
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Roscoe L
+        - content: Roscoe
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           language:
           - en
           script:
@@ -45,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Mary J
+        - content: Mary
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           language:
           - en
           script:

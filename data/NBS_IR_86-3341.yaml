@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR86-3341
 title:
-- content: A national forum on the future of automated materials processing in U.S.
-    industry :the role of sensors report of workshop
+- content: |-
+    A national forum on the future of automated materials processing in U.S. industry :
+    the role of sensors report of workshop
   language:
   - en
   script:
@@ -29,7 +30,13 @@ contributor:
     name:
       given:
         forename:
-        - content: H Thomas
+        - language:
+          - en
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: 'H '
           language:
           - en
           script:

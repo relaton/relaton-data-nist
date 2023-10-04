@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR8339
 title:
-- content: Workshop report :test methods and metrics for effective HRI in collaborative
-    human-robot teams, ACMIEEE Human-Robot Interaction Conference, 2019
+- content: |-
+    Workshop report :
+    test methods and metrics for effective HRI in collaborative human-robot teams, ACMIEEE Human-Robot Interaction Conference, 2019
   language:
   - en
   script:
@@ -80,7 +81,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Jeremy A
+        - content: Jeremy
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:

@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN264
 title:
-- content: HAYSTAQ:a mechanized system for searching chemical information
+- content: |-
+    HAYSTAQ:
+    a mechanized system for searching chemical information
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Ethel C
+        - content: Ethel
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           language:
           - en
           script:

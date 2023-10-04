@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7196
 title:
-- content: Chemicals in arctic seabirds:I. annotated bibliography
+- content: |-
+    Chemicals in arctic seabirds:
+    I. annotated bibliography
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Stacy S Vander
+        - content: Stacy
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: 'S '
           script:
           - Latn
       surname:
@@ -41,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Rebecca S
+        - content: Rebecca
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           script:
           - Latn
       surname:
@@ -54,7 +66,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Paul R
+        - content: Paul
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           script:
           - Latn
       surname:

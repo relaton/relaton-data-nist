@@ -30,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Jeanice M.
+        - content: Jeanice
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
           script:
           - Latn
       surname:
@@ -47,7 +52,12 @@ contributor:
     name:
       given:
         forename:
-        - content: David L.
+        - content: David
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L.
           script:
           - Latn
       surname:

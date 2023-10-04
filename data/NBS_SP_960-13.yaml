@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP960-13
 title:
-- content: NIST recommended practice guidepre characterization in low-k dielectric
-    films using x-ray reflectivitiy
+- content: |-
+    NIST recommended practice guide
+    pre characterization in low-k dielectric films using x-ray reflectivitiy
   language:
   - en
   script:
@@ -63,7 +64,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Christopher L
+        - content: Christopher
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           language:
           - en
           script:

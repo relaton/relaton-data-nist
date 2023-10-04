@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR73-313
 title:
-- content: 'Communication channel simulation and propagation effects :0.255 to 40.0
-    GHz : a bibliography'
+- content: |-
+    Communication channel simulation and propagation effects :
+    0.255 to 40.0 GHz : a bibliography
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Anne Y
+        - content: Anne
+          language:
+          - en
+          script:
+          - Latn
+          initial: Y
+        formatted_initials:
+          content: Y
           language:
           - en
           script:

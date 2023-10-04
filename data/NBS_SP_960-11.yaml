@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP960-11
 title:
-- content: NIST recommended practice guide :data evaluation theory and practice for
-    materials properties/
+- content: |-
+    NIST recommended practice guide :
+    data evaluation theory and practice for materials properties/
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Ronald G
+        - content: Ronald
+          language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G
           language:
           - en
           script:

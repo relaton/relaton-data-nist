@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN535
 title:
-- content: Compilation and use of criminal court data in relation to pre-trial release
-    of defendants:pilot study.
+- content: |-
+    Compilation and use of criminal court data in relation to pre-trial release of defendants:
+    pilot study.
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: John W
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           language:
           - en
           script:

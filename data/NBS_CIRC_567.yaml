@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC567
 title:
-- content: Circular of the Bureau of Standards no. 567:guide to instrumentation literature
+- content: |-
+    Circular of the Bureau of Standards no. 567:
+    guide to instrumentation literature
   language:
   - en
   script:
@@ -28,15 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: W G
+        - content: W
           script:
-          - Latn
-          initial: W
-        - script:
           - Latn
           initial: G
         formatted_initials:
-          content: W G
+          content: G
           script:
           - Latn
       surname:
@@ -49,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Lyman M
+        - content: Lyman
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:

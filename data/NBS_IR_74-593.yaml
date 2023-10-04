@@ -28,7 +28,14 @@ contributor:
     name:
       given:
         forename:
-        - content: William F
+        - content: William
+          language:
+          - en
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           language:
           - en
           script:
@@ -45,7 +52,13 @@ contributor:
     name:
       given:
         forename:
-        - content: C Warren
+        - language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: 'C '
           language:
           - en
           script:

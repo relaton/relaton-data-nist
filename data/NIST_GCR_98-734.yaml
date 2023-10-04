@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTGCR98-734
 title:
-- content: Hurricane Fran in North Carolina:September 5-6, 1996
+- content: |-
+    Hurricane Fran in North Carolina:
+    September 5-6, 1996
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard D
+        - content: Richard
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           script:
           - Latn
       surname:

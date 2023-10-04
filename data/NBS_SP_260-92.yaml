@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP260-92
 title:
-- content: Standard Reference Materials :Calibrated glass standards for fission track
-    use (supplement to NBS SP 260-49)/
+- content: |-
+    Standard Reference Materials :
+    Calibrated glass standards for fission track use (supplement to NBS SP 260-49)/
   language:
   - en
   script:
@@ -29,7 +30,13 @@ contributor:
     name:
       given:
         forename:
-        - content: B Stephen
+        - language:
+          - en
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: 'B '
           language:
           - en
           script:

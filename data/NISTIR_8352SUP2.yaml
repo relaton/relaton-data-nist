@@ -28,7 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Karen K
+        - content: Karen
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K
           script:
           - Latn
       surname:

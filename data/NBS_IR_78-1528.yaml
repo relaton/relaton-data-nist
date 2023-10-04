@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR78-1528
 title:
-- content: An economic analysis of building code impacts :a suggested approach
+- content: |-
+    An economic analysis of building code impacts :
+    a suggested approach
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: John S
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6196-1
 title:
-- content: Sprinkler, smoke & heat vent, draft curtain interaction :large scale experiments
-    and model development
+- content: |-
+    Sprinkler, smoke & heat vent, draft curtain interaction :
+    large scale experiments and model development
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Kevin B
+        - content: Kevin
+          language:
+          - en
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN429
 title:
-- content: Separation and purification section:summary of initial activities, February
-    1966 through June 1967.
+- content: |-
+    Separation and purification section:
+    summary of initial activities, February 1966 through June 1967.
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: David H
+        - content: David
+          language:
+          - en
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           language:
           - en
           script:

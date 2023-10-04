@@ -30,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Janet L
+        - content: Janet
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:
@@ -43,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Dennis A
+        - content: Dennis
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:

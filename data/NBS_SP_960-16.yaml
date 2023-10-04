@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP960-16
 title:
-- content: NIST recommended practice guide :fractography of ceramics and glasses/
+- content: |-
+    NIST recommended practice guide :
+    fractography of ceramics and glasses/
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: George D
+        - content: George
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           language:
           - en
           script:

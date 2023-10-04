@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP800-10
 title:
-- content: Keeping your site comfortably secure :an introduction to Internet firewalls
+- content: |-
+    Keeping your site comfortably secure :
+    an introduction to Internet firewalls
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: John P
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P
           language:
           - en
           script:
@@ -49,7 +58,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Lisa J
+        - content: Lisa
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           language:
           - en
           script:

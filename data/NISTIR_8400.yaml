@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR8400
 title:
-- content: 'Voices of first responders :nationwide public safety communication survey
-    findings:'
+- content: |-
+    Voices of first responders :
+    nationwide public safety communication survey findings:
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Shan e
+        - content: Shan
+          script:
+          - Latn
+          initial: e
+        formatted_initials:
+          content: e
           script:
           - Latn
       surname:

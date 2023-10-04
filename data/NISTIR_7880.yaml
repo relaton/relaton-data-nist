@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7880
 title:
-- content: NIST Micronutrients Measurement Quality Assurance Program Winter 2012 Comparability
-    Studies:Results for Round Robin LXXI Fat-Soluble Vitamins and Carotenoids in Human
-    Serum and Round Robin 36 Ascorbic Acid in Human Serum
+- content: |-
+    NIST Micronutrients Measurement Quality Assurance Program Winter 2012 Comparability Studies:
+    Results for Round Robin LXXI Fat-Soluble Vitamins and Carotenoids in Human Serum and Round Robin 36 Ascorbic Acid in Human Serum
   language:
   - en
   script:
@@ -30,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: David L.
+        - content: David
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L.
           language:
           - en
           script:
@@ -51,7 +58,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Jeanice B.
+        - content: Jeanice
+          language:
+          - en
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B.
           language:
           - en
           script:

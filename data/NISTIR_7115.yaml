@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7115
 title:
-- content: Delbrück scattering:a bibliography, and some numerical comparisons with
-    other photon interaction processes
+- content: |-
+    Delbrück scattering:
+    a bibliography, and some numerical comparisons with other photon interaction processes
   language:
   - en
   script:
@@ -29,15 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: J H
+        - content: J
           script:
-          - Latn
-          initial: J
-        - script:
           - Latn
           initial: H
         formatted_initials:
-          content: J H
+          content: H
           script:
           - Latn
       surname:
@@ -50,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: P M Jr
+        - content: P
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: 'M '
           script:
           - Latn
       surname:

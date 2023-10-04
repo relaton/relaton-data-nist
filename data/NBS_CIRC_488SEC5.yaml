@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC488sec5
 title:
-- content: Circular of the Bureau of Standards no. 488 section 5:an ultraviolet multiplet
-    table- finding list for spectra of the elements molybdenum to lanthanum (Z=42
-    to 57); hafnium to radium (Z=72 to 88)
+- content: |-
+    Circular of the Bureau of Standards no. 488 section 5:
+    an ultraviolet multiplet table- finding list for spectra of the elements molybdenum to lanthanum (Z=42 to 57); hafnium to radium (Z=72 to 88)
   language:
   - en
   script:
@@ -30,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Charlotte E
+        - content: Charlotte
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           script:
           - Latn
       surname:

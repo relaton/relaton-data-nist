@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR79-1595
 title:
-- content: CMOSSOS test patterns for process evaluation and control :annual report,
-    March 1 to November 1, 1978
+- content: |-
+    CMOSSOS test patterns for process evaluation and control :
+    annual report, March 1 to November 1, 1978
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Loren W
+        - content: Loren
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           language:
           - en
           script:

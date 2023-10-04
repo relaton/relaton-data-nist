@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT9983
 title:
-- content: A filled cold-curing acrylic resin as a splinting material :progress report
+- content: |-
+    A filled cold-curing acrylic resin as a splinting material :
+    progress report
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Eugene F
+        - content: Eugene
+          language:
+          - en
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           language:
           - en
           script:
@@ -45,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Gerhard M
+        - content: Gerhard
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           language:
           - en
           script:
@@ -62,8 +78,7 @@ contributor:
     name:
       given:
         forename:
-        - content: J
-          language:
+        - language:
           - en
           script:
           - Latn
@@ -86,19 +101,14 @@ contributor:
     name:
       given:
         forename:
-        - content: S W
+        - content: S
           language:
-          - en
-          script:
-          - Latn
-          initial: S
-        - language:
           - en
           script:
           - Latn
           initial: W
         formatted_initials:
-          content: S W
+          content: W
           language:
           - en
           script:

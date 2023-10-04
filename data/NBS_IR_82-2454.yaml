@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR82-2454
 title:
-- content: Polarized tagged photons :an analysis ofthe differential cross section
-    for polarized bremsstrahlung inthe range of interest fora tagged photon system
+- content: |-
+    Polarized tagged photons :
+    an analysis ofthe differential cross section for polarized bremsstrahlung inthe range of interest fora tagged photon system
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Leonard C
+        - content: Leonard
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP896
 title:
-- content: Conference proceedings :International Workshop on Instrumented Indentation
-    San Diego, CA April 22-23, 1995
+- content: |-
+    Conference proceedings :
+    International Workshop on Instrumented Indentation San Diego, CA April 22-23, 1995
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Douglas T
+        - content: Douglas
+          language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Douglas T
+        - content: Douglas
+          language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           language:
           - en
           script:

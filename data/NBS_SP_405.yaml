@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP405
 title:
-- content: Benchmarking and workload definition :a selected bibliography with abstracts
+- content: |-
+    Benchmarking and workload definition :
+    a selected bibliography with abstracts
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Josephine L
+        - content: Josephine
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           language:
           - en
           script:

@@ -47,7 +47,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Robert I
+        - content: Robert
+          language:
+          - en
+          script:
+          - Latn
+          initial: I
+        formatted_initials:
+          content: I
           language:
           - en
           script:
@@ -64,7 +71,13 @@ contributor:
     name:
       given:
         forename:
-        - content: E Jane
+        - language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: 'E '
           language:
           - en
           script:

@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR83-2803
 title:
-- content: Analysis of electrical fire investigations in ten cities :final report
+- content: |-
+    Analysis of electrical fire investigations in ten cities :
+    final report
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: John R
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           language:
           - en
           script:

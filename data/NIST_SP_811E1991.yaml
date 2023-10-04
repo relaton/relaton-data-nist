@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP811e1991
 title:
-- content: Guide for the use of the International System of Units :the modernized
-    metric system
+- content: |-
+    Guide for the use of the International System of Units :
+    the modernized metric system
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Arthur O
+        - content: Arthur
+          language:
+          - en
+          script:
+          - Latn
+          initial: O
+        formatted_initials:
+          content: O
           language:
           - en
           script:

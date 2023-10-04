@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR83-2777
 title:
-- content: Documentation and assessment of the GSAPBS Building Systems Program :final
-    report and recommendations
+- content: |-
+    Documentation and assessment of the GSAPBS Building Systems Program :
+    final report and recommendations
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Francis T
+        - content: Francis
+          language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           language:
           - en
           script:

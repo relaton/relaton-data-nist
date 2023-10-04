@@ -80,7 +80,11 @@ contributor:
     name:
       given:
         forename:
-        - content: M. Alkan
+        - script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: 'M. '
           script:
           - Latn
       surname:

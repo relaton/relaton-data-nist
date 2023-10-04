@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT7838
 title:
-- content: Specification for hydrocolloidal impression material-alginate type:progress
-    report
+- content: |-
+    Specification for hydrocolloidal impression material-alginate type:
+    progress report
   language:
   - en
   script:
@@ -42,7 +43,12 @@ contributor:
     name:
       given:
         forename:
-        - content: John W
+        - content: John
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           script:
           - Latn
       surname:

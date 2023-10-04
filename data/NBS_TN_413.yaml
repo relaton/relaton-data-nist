@@ -28,7 +28,19 @@ contributor:
     name:
       given:
         forename:
-        - content: Paul A D
+        - content: Paul
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        - language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: A D
           language:
           - en
           script:

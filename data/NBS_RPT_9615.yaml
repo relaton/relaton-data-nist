@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT9615
 title:
-- content: Investigation of the directional effects in the stress corrosion of aluminum
-    alloys:quarterly report for the period ending 63067
+- content: |-
+    Investigation of the directional effects in the stress corrosion of aluminum alloys:
+    quarterly report for the period ending 63067
   language:
   - en
   script:
@@ -42,7 +43,11 @@ contributor:
     name:
       given:
         forename:
-        - content: S Wayne
+        - script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: 'S '
           script:
           - Latn
       surname:
@@ -55,15 +60,12 @@ contributor:
     name:
       given:
         forename:
-        - content: J R
+        - content: J
           script:
-          - Latn
-          initial: J
-        - script:
           - Latn
           initial: R
         formatted_initials:
-          content: J R
+          content: R
           script:
           - Latn
       surname:

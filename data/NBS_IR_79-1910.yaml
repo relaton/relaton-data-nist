@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR79-1910
 title:
-- content: Purely buoyant diffusion flames :some experimental results
+- content: |-
+    Purely buoyant diffusion flames :
+    some experimental results
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Bernard J
+        - content: Bernard
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           language:
           - en
           script:

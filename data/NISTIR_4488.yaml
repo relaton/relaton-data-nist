@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR4488
 title:
-- content: Proceedings of the Object-Oriented Database Task Group workshop:Tuesday,
-    October 23, 1990 Chateau Laurier Hotel, Ottawa, Canada
+- content: |-
+    Proceedings of the Object-Oriented Database Task Group workshop:
+    Tuesday, October 23, 1990 Chateau Laurier Hotel, Ottawa, Canada
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Elizabeth N
+        - content: Elizabeth
+          script:
+          - Latn
+          initial: N
+        formatted_initials:
+          content: N
           script:
           - Latn
       surname:

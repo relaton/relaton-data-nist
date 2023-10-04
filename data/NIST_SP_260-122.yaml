@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP260-122
 title:
-- content: Standard Reference MaterialsPolystyrene films for calibrating the wavelength
-    scale of infrared spectrophotometers - SRM 1921
+- content: |-
+    Standard Reference Materials
+    Polystyrene films for calibrating the wavelength scale of infrared spectrophotometers - SRM 1921
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Raju U
+        - content: Raju
+          language:
+          - en
+          script:
+          - Latn
+          initial: U
+        formatted_initials:
+          content: U
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Jack J
+        - content: Jack
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           language:
           - en
           script:

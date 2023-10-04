@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR74-538
 title:
-- content: Magnetic tape operations on the sound laboratory data acquisition system
-    :a programmer's reference manual
+- content: |-
+    Magnetic tape operations on the sound laboratory data acquisition system :
+    a programmer's reference manual
   language:
   - en
   script:
@@ -29,7 +30,13 @@ contributor:
     name:
       given:
         forename:
-        - content: A James
+        - language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: 'A '
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN656
 title:
-- content: Standard time and frequency :Its generation, control, and dissemination
-    by the National Bureau of Standards
+- content: |-
+    Standard time and frequency :
+    Its generation, control, and dissemination by the National Bureau of Standards
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: John B
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           language:
           - en
           script:

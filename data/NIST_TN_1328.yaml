@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTTN1328
 title:
-- content: Vapor-liquid equilibrium of binary mixtures in the extended critical region
-    :I. Thermodynamic model
+- content: |-
+    Vapor-liquid equilibrium of binary mixtures in the extended critical region :
+    I. Thermodynamic model
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: James C
+        - content: James
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           language:
           - en
           script:

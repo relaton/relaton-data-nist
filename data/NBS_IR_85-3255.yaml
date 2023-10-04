@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR85-3255
 title:
-- content: Validation of models for predicting formaldehyde concentrations in residences
-    due to pressed wood products :phase I
+- content: |-
+    Validation of models for predicting formaldehyde concentrations in residences due to pressed wood products :
+    phase I
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard A
+        - content: Richard
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:

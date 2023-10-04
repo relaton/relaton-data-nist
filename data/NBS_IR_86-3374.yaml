@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR86-3374
 title:
-- content: Directory of associate membership 1986 :NCWM publication 9
+- content: |-
+    Directory of associate membership 1986 :
+    NCWM publication 9
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Ann P
+        - content: Ann
+          language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P
           language:
           - en
           script:

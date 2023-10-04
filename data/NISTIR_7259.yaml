@@ -28,7 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Kristine K
+        - content: Kristine
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K
           script:
           - Latn
       surname:
@@ -41,7 +46,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Mark E
+        - content: Mark
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           script:
           - Latn
       surname:

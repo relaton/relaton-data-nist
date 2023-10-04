@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC477
 title:
-- content: Circular of the Bureau of Standards no. 477:testing of hydrometers
+- content: |-
+    Circular of the Bureau of Standards no. 477:
+    testing of hydrometers
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Elmer L
+        - content: Elmer
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:
@@ -41,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Mary G
+        - content: Mary
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G
           script:
           - Latn
       surname:

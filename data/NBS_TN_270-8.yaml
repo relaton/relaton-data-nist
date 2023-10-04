@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN270-8
 title:
-- content: Selected values of chemical thermodynamic properties :Part 8 Compounds
-    of Uranium, Protactinium, Thorium, Actinium, and the Alkali Metals
+- content: |-
+    Selected values of chemical thermodynamic properties :
+    Part 8 Compounds of Uranium, Protactinium, Thorium, Actinium, and the Alkali Metals
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Frederick D
+        - content: Frederick
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Donald D
+        - content: Donald
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTTN2231
 title:
-- content: Stabilograms :testbed stability in a pilot experiment for cellular communication
-    anomaly detection
+- content: |-
+    Stabilograms :
+    testbed stability in a pilot experiment for cellular communication anomaly detection
   language:
   - en
   script:
@@ -63,7 +64,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Jacob D
+        - content: Jacob
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           script:
           - Latn
       surname:
@@ -80,7 +86,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Jason B
+        - content: Jason
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           script:
           - Latn
       surname:

@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP345
 title:
-- content: A Metric America :a decision whose time has come
+- content: |-
+    A Metric America :
+    a decision whose time has come
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Daniel V
+        - content: Daniel
+          language:
+          - en
+          script:
+          - Latn
+          initial: V
+        formatted_initials:
+          content: V
           language:
           - en
           script:

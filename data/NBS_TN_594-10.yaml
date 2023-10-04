@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN594-10
 title:
-- content: Optical radiation measurements :the NBS 20-, 60-, and 85- degree specular
-    gloss scales
+- content: |-
+    Optical radiation measurements :
+    the NBS 20-, 60-, and 85- degree specular gloss scales
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Jack J
+        - content: Jack
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP260-33
 title:
-- content: Standard Reference Materials :Comparison of original and supplemental SRM
-    705, narrow molecular weight distribution polystyrene/
+- content: |-
+    Standard Reference Materials :
+    Comparison of original and supplemental SRM 705, narrow molecular weight distribution polystyrene/
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Herman L
+        - content: Herman
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           language:
           - en
           script:

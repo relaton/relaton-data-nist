@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6096
 title:
-- content: Post-installed anchors:a literature review
+- content: |-
+    Post-installed anchors:
+    a literature review
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Geraldine S
+        - content: Geraldine
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           script:
           - Latn
       surname:
@@ -41,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Long T
+        - content: Long
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           script:
           - Latn
       surname:

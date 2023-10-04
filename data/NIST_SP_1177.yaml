@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP1177
 title:
-- content: NIST Center for Neutron Research :2014 accomplishments and opportunities
+- content: |-
+    NIST Center for Neutron Research :
+    2014 accomplishments and opportunities
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Robert M
+        - content: Robert
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           language:
           - en
           script:
@@ -45,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Steven R
+        - content: Steven
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           language:
           - en
           script:

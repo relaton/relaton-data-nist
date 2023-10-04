@@ -28,7 +28,11 @@ contributor:
     name:
       given:
         forename:
-        - content: C Cameron
+        - script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: 'C '
           script:
           - Latn
       surname:

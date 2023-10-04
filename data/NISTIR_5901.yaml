@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR5901
 title:
-- content: Proposed performance criteria for encapsulant coatings for lead-based paint:I.
-    abrasion resistance
+- content: |-
+    Proposed performance criteria for encapsulant coatings for lead-based paint:
+    I. abrasion resistance
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Walter J Jr
+        - content: Walter
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: 'J '
           script:
           - Latn
       surname:
@@ -42,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Mary E
+        - content: Mary
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           script:
           - Latn
       surname:
@@ -55,7 +66,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Willard E
+        - content: Willard
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           script:
           - Latn
       surname:
@@ -68,7 +84,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Kevin M
+        - content: Kevin
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:

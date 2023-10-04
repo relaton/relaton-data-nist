@@ -28,7 +28,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Elaine M
+        - content: Elaine
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           language:
           - en
           script:
@@ -45,7 +52,13 @@ contributor:
     name:
       given:
         forename:
-        - content: P Jonathon
+        - language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: 'P '
           language:
           - en
           script:

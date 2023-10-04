@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT3556
 title:
-- content: Propagation aspects of TACAN system coverage :for a NDB symposium on TACAN
-    at Washington, D.C. November 3-4, 1955
+- content: |-
+    Propagation aspects of TACAN system coverage :
+    for a NDB symposium on TACAN at Washington, D.C. November 3-4, 1955
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Martin T
+        - content: Martin
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           script:
           - Latn
       surname:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTTN1399
 title:
-- content: Report no.32 :Ultrasonic instrumentation to measure hoop steel in cast-steel
-    railroad wheel rims
+- content: |-
+    Report no.32 :
+    Ultrasonic instrumentation to measure hoop steel in cast-steel railroad wheel rims
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Raymond E
+        - content: Raymond
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

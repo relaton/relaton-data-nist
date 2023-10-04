@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN679
 title:
-- content: Frequency domain stability measurements :a tutorial introduction
+- content: |-
+    Frequency domain stability measurements :
+    a tutorial introduction
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: David A
+        - content: David
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:

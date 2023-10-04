@@ -29,7 +29,19 @@ contributor:
     name:
       given:
         forename:
-        - content: George R A
+        - content: George
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+        - language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: R A
           language:
           - en
           script:

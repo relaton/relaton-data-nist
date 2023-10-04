@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR8295
 title:
-- content: Voices of first responders-examining public safety communication from the
-    perspective of 9-1-1 call takers and dispatchers:findings from user-centered interviews
-    phase 1, volume 4
+- content: |-
+    Voices of first responders-examining public safety communication from the perspective of 9-1-1 call takers and dispatchers:
+    findings from user-centered interviews phase 1, volume 4
   language:
   - en
   script:
@@ -50,7 +50,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Mary F
+        - content: Mary
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           script:
           - Latn
       surname:
@@ -130,7 +135,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Kristen K
+        - content: Kristen
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K
           script:
           - Latn
       surname:

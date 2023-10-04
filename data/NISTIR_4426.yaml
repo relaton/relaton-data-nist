@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR4426
 title:
-- content: SPARCOL:a front end for MAIN2 program
+- content: |-
+    SPARCOL:
+    a front end for MAIN2 program
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard L
+        - content: Richard
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:

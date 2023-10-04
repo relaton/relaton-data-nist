@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP351
 title:
-- content: Analytical chemistry :key to progress on national problems
+- content: |-
+    Analytical chemistry :
+    key to progress on national problems
   language:
   - en
   script:
@@ -28,7 +30,13 @@ contributor:
     name:
       given:
         forename:
-        - content: W Wayne
+        - language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: 'W '
           language:
           - en
           script:
@@ -45,7 +53,14 @@ contributor:
     name:
       given:
         forename:
-        - content: John K
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K
           language:
           - en
           script:

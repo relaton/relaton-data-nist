@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT9921
 title:
-- content: The crystal structures of gaylussite, CaNa2(CO3) sub 2 . 5H2O and pirssonite,
-    CaNa sub 2(CO3) sub 2 . 2H2O :progress report
+- content: |-
+    The crystal structures of gaylussite, CaNa2(CO3) sub 2 . 5H2O and pirssonite, CaNa sub 2(CO3) sub 2 . 2H2O :
+    progress report
   language:
   - en
   script:
@@ -46,7 +47,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Walter E
+        - content: Walter
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

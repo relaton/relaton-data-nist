@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT7036
 title:
-- content: Changes in dentures during storage in water and in service:progress report
+- content: |-
+    Changes in dentures during storage in water and in service:
+    progress report
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Julian B
+        - content: Julian
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           script:
           - Latn
       surname:
@@ -41,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: William T
+        - content: William
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           script:
           - Latn
       surname:

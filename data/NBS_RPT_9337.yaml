@@ -28,7 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Warren D, Jr
+        - content: Warren
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           script:
           - Latn
       surname:
@@ -41,7 +46,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Joseph C
+        - content: Joseph
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           script:
           - Latn
       surname:

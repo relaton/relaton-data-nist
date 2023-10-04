@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR5745
 title:
-- content: Product realization process modeling:a study of requirements, methods and
-    research issues
+- content: |-
+    Product realization process modeling:
+    a study of requirements, methods and research issues
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Kevin W
+        - content: Kevin
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           script:
           - Latn
       surname:
@@ -42,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Michael R
+        - content: Michael
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           script:
           - Latn
       surname:
@@ -55,7 +66,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard C
+        - content: Richard
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           script:
           - Latn
       surname:

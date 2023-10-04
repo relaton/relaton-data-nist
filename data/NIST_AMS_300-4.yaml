@@ -62,7 +62,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Kang B
+        - content: Kang
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           script:
           - Latn
       surname:

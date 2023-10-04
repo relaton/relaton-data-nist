@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR87-3081
 title:
-- content: Development of near-field test procedures for communication satellite antennas
-    :phase I, part 2
+- content: |-
+    Development of near-field test procedures for communication satellite antennas :
+    phase I, part 2
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Allen C
+        - content: Allen
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           language:
           - en
           script:

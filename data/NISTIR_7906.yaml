@@ -45,7 +45,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Vishal M
+        - content: Vishal
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           language:
           - en
           script:
@@ -96,7 +103,13 @@ contributor:
     name:
       given:
         forename:
-        - content: P Jonathon
+        - language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: 'P '
           language:
           - en
           script:

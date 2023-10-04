@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR5826
 title:
-- content: Hygrothermal effects on the performance of polymers and polymeric composites:a
-    workshop report
+- content: |-
+    Hygrothermal effects on the performance of polymers and polymeric composites:
+    a workshop report
   language:
   - en
   script:
@@ -29,7 +30,15 @@ contributor:
     name:
       given:
         forename:
-        - content: Martin Y M
+        - content: Martin
+          script:
+          - Latn
+          initial: Y
+        - script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: Y M
           script:
           - Latn
       surname:
@@ -42,7 +51,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Gregory B
+        - content: Gregory
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           script:
           - Latn
       surname:

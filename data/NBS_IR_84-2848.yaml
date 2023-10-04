@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR84-2848
 title:
-- content: Technical activities 1983 :Center for Radiation Research
+- content: |-
+    Technical activities 1983 :
+    Center for Radiation Research
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Randall S
+        - content: Randall
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           language:
           - en
           script:

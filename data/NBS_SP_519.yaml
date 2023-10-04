@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP519
 title:
-- content: Trace organic analysis :a new frontier in analytical chemistry
+- content: |-
+    Trace organic analysis :
+    a new frontier in analytical chemistry
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Harry S
+        - content: Harry
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           language:
           - en
           script:
@@ -45,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Stephen N
+        - content: Stephen
+          language:
+          - en
+          script:
+          - Latn
+          initial: N
+        formatted_initials:
+          content: N
           language:
           - en
           script:

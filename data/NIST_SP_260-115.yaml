@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP260-115
 title:
-- content: Standard Reference Materials :Calibration of NIST standard reference material
-    3201 for 0.5 inch (12.65 mm) serial serpentine magnetic tape cartridge/
+- content: |-
+    Standard Reference Materials :
+    Calibration of NIST standard reference material 3201 for 0.5 inch (12.65 mm) serial serpentine magnetic tape cartridge/
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Natalie E
+        - content: Natalie
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Mark P
+        - content: Mark
+          language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT10482
 title:
-- content: Fire safety study of air ducts and fire dampers effect of hangar spacing,
-    hangar size, and wall thickness:first progress report
+- content: |-
+    Fire safety study of air ducts and fire dampers effect of hangar spacing, hangar size, and wall thickness:
+    first progress report
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Lionel A
+        - content: Lionel
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:

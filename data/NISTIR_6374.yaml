@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6374
 title:
-- content: Premixed carbon monoxide-nitrous oxide-hydrogen flames :measured and calculated
-    burning velocities with and without Fe(CO)5
+- content: |-
+    Premixed carbon monoxide-nitrous oxide-hydrogen flames :
+    measured and calculated burning velocities with and without Fe(CO)5
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Gregory T
+        - content: Gregory
+          language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Marc D
+        - content: Marc
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           language:
           - en
           script:

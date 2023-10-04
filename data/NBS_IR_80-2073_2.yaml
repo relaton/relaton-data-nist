@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR80-20732
 title:
-- content: Guidelines for exchangeable APT data packages :APT part programmer's manual
+- content: |-
+    Guidelines for exchangeable APT data packages :
+    APT part programmer's manual
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Bradford M
+        - content: Bradford
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           language:
           - en
           script:

@@ -28,7 +28,11 @@ contributor:
     name:
       given:
         forename:
-        - content: D Richard
+        - script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: 'D '
           script:
           - Latn
       surname:

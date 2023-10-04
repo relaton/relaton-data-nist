@@ -29,7 +29,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Francis M.
+        - content: Francis
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
           script:
           - Latn
       surname:
@@ -46,7 +51,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Liesel A.
+        - content: Liesel
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
           script:
           - Latn
       surname:

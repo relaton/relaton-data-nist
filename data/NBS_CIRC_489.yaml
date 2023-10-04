@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC489
 title:
-- content: Circular of the Bureau of Standards no. 489:care and repair of the house
+- content: |-
+    Circular of the Bureau of Standards no. 489:
+    care and repair of the house
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Vincent B
+        - content: Vincent
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           script:
           - Latn
       surname:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN1314
 title:
-- content: Electromagnetic fields radiated from electrostatic discharges :theory and
-    experiment
+- content: |-
+    Electromagnetic fields radiated from electrostatic discharges :
+    theory and experiment
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Perry F
+        - content: Perry
+          language:
+          - en
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           language:
           - en
           script:

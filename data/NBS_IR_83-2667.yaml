@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR83-2667
 title:
-- content: 'Planning Report :NBS and Industrial biotechnology : instrumentation and
-    associated measurement needs'
+- content: |-
+    Planning Report :
+    NBS and Industrial biotechnology : instrumentation and associated measurement needs
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Thomas C
+        - content: Thomas
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           language:
           - en
           script:

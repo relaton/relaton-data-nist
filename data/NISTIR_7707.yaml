@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7707
 title:
-- content: Virtual cement and concrete testing laboratory :educational version 2.0
-    user guide
+- content: |-
+    Virtual cement and concrete testing laboratory :
+    educational version 2.0 user guide
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Jeffrey W
+        - content: Jeffrey
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           language:
           - en
           script:

@@ -29,7 +29,12 @@ contributor:
     name:
       given:
         forename:
-        - content: David E
+        - content: David
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           script:
           - Latn
       surname:
@@ -42,7 +47,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Hans J
+        - content: Hans
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           script:
           - Latn
       surname:
@@ -68,7 +78,11 @@ contributor:
     name:
       given:
         forename:
-        - content: E Clayton
+        - script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: 'E '
           script:
           - Latn
       surname:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSMONO149
 title:
-- content: Measurement assurance program- a case study :lengths measurements. Part
-    1. long gage blocks (5 in to 20 in)
+- content: |-
+    Measurement assurance program- a case study :
+    lengths measurements. Part 1. long gage blocks (5 in to 20 in)
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Paul E
+        - content: Paul
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

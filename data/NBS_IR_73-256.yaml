@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR73-256
 title:
-- content: Development of reference materials for atmospheric analysis of the occupational
-    environment :filter samples containing toxic metals
+- content: |-
+    Development of reference materials for atmospheric analysis of the occupational environment :
+    filter samples containing toxic metals
   language:
   - en
   script:
@@ -46,7 +47,14 @@ contributor:
     name:
       given:
         forename:
-        - content: John R
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           language:
           - en
           script:
@@ -63,7 +71,14 @@ contributor:
     name:
       given:
         forename:
-        - content: John K
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K
           language:
           - en
           script:

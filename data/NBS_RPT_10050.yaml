@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT10050
 title:
-- content: The Adherence of porcelain enamel to aluminum:progress report February
-    1, 1969 through June 30, 1969
+- content: |-
+    The Adherence of porcelain enamel to aluminum:
+    progress report February 1, 1969 through June 30, 1969
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Albert L
+        - content: Albert
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:

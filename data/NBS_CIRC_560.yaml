@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC560
 title:
-- content: Circular of the Bureau of Standards no. 560:leather research and technology
-    at the National Bureau of Standards- a review and bibliography
+- content: |-
+    Circular of the Bureau of Standards no. 560:
+    leather research and technology at the National Bureau of Standards- a review and bibliography
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Everett L
+        - content: Everett
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:

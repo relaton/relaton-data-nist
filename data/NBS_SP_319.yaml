@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP319
 title:
-- content: Man, his job, and the environment :a review and annotated bibliography
-    of selected recent research on human performance
+- content: |-
+    Man, his job, and the environment :
+    a review and annotated bibliography of selected recent research on human performance
   language:
   - en
   script:
@@ -46,7 +47,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Boris V
+        - content: Boris
+          language:
+          - en
+          script:
+          - Latn
+          initial: V
+        formatted_initials:
+          content: V
           language:
           - en
           script:
@@ -63,7 +71,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Gail A
+        - content: Gail
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:
@@ -80,7 +95,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Martha F
+        - content: Martha
+          language:
+          - en
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           language:
           - en
           script:

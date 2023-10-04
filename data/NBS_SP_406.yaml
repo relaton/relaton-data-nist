@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP406
 title:
-- content: Computer performance evaluation :report of the 1973 NBSACM workshop
+- content: |-
+    Computer performance evaluation :
+    report of the 1973 NBSACM workshop
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Thomas E
+        - content: Thomas
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:
@@ -45,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Barry W
+        - content: Barry
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           language:
           - en
           script:
@@ -62,8 +78,7 @@ contributor:
     name:
       given:
         forename:
-        - content: S
-          language:
+        - language:
           - en
           script:
           - Latn

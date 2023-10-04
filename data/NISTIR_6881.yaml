@@ -55,7 +55,11 @@ contributor:
     name:
       given:
         forename:
-        - content: J Randall
+        - script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: 'J '
           script:
           - Latn
       surname:

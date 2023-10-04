@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC593
 title:
-- content: Circular of the Bureau of Standards no. 593:the federal basis for weights
-    and measures- a historical review of Federal legislative effort, statutes, and
-    administrative action in the field of weights and measures in the United States
+- content: |-
+    Circular of the Bureau of Standards no. 593:
+    the federal basis for weights and measures- a historical review of Federal legislative effort, statutes, and administrative action in the field of weights and measures in the United States
   language:
   - en
   script:
@@ -30,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Ralph W
+        - content: Ralph
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           script:
           - Latn
       surname:

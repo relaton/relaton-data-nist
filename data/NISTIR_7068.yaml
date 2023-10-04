@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7068
 title:
-- content: Deposition rates of fine and course particles in residential buildings:literature
-    review and measurements in an occupied townhouse
+- content: |-
+    Deposition rates of fine and course particles in residential buildings:
+    literature review and measurements in an occupied townhouse
   language:
   - en
   script:
@@ -55,7 +56,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Steven J
+        - content: Steven
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           script:
           - Latn
       surname:

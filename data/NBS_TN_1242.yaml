@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN1242
 title:
-- content: Improving the fire safety of cigarettes :an economic impact analysis
+- content: |-
+    Improving the fire safety of cigarettes :
+    an economic impact analysis
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Rosalie T
+        - content: Rosalie
+          language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           language:
           - en
           script:

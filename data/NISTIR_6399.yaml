@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6399
 title:
-- content: Deterioration of Iowa highway concrete pavements:a petrographic study
+- content: |-
+    Deterioration of Iowa highway concrete pavements:
+    a petrographic study
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Paul E
+        - content: Paul
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           script:
           - Latn
       surname:

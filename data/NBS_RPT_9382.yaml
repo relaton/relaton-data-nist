@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT9382
 title:
-- content: Solubility of CaHPO4 x 2H2O and formation of ion pairs in the system Ca(OH)2
-    -H3PO4 -H2O at 35 degrees C:progress report
+- content: |-
+    Solubility of CaHPO4 x 2H2O and formation of ion pairs in the system Ca(OH)2 -H3PO4 -H2O at 35 degrees C:
+    progress report
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Edgard C
+        - content: Edgard
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           script:
           - Latn
       surname:
@@ -42,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Walter E
+        - content: Walter
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           script:
           - Latn
       surname:

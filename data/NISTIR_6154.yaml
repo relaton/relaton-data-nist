@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6154
 title:
-- content: Production Systems Engineering:requirements analysis for discrete-event
-    simulation
+- content: |-
+    Production Systems Engineering:
+    requirements analysis for discrete-event simulation
   language:
   - en
   script:
@@ -55,7 +56,11 @@ contributor:
     name:
       given:
         forename:
-        - content: Y Tina
+        - script:
+          - Latn
+          initial: Y
+        formatted_initials:
+          content: 'Y '
           script:
           - Latn
       surname:

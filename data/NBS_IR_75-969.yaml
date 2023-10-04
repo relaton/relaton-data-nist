@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR75-969
 title:
-- content: Accidents involving several selected appliances :summary and descriptive
-    analysis
+- content: |-
+    Accidents involving several selected appliances :
+    summary and descriptive analysis
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Mary E
+        - content: Mary
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:
@@ -46,7 +54,13 @@ contributor:
     name:
       given:
         forename:
-        - content: P Clare
+        - language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: 'P '
           language:
           - en
           script:
@@ -63,7 +77,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Ann M
+        - content: Ann
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           language:
           - en
           script:
@@ -80,7 +101,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Fran D
+        - content: Fran
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           language:
           - en
           script:

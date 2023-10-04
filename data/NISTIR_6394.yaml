@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6394
 title:
-- content: Polymer composites for repairing of Portland cement concrete:compatibility
-    project
+- content: |-
+    Polymer composites for repairing of Portland cement concrete:
+    compatibility project
   language:
   - en
   script:
@@ -68,7 +69,12 @@ contributor:
     name:
       given:
         forename:
-        - content: James R
+        - content: James
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           script:
           - Latn
       surname:

@@ -28,7 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Harvey W
+        - content: Harvey
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           script:
           - Latn
       surname:

@@ -63,7 +63,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Stephen S.
+        - content: Stephen
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
           script:
           - Latn
       surname:
@@ -80,7 +85,12 @@ contributor:
     name:
       given:
         forename:
-        - content: John D.
+        - content: John
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D.
           script:
           - Latn
       surname:
@@ -97,7 +107,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Michael D.
+        - content: Michael
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D.
           script:
           - Latn
       surname:

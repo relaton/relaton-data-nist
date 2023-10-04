@@ -63,7 +63,13 @@ contributor:
     name:
       given:
         forename:
-        - content: W Vance
+        - language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: 'W '
           language:
           - en
           script:
@@ -80,7 +86,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Piotr A
+        - content: Piotr
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:

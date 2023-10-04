@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP1044
 title:
-- content: Advanced Coatings R and D for Pipelines and Related FacilitiesThe proceedings
-    of a workshop held June 9-10, 2005 at the National Institute of Standards and
-    Technology, Gaithersburg, MD 20899 USA
+- content: |-
+    Advanced Coatings R and D for Pipelines and Related Facilities
+    The proceedings of a workshop held June 9-10, 2005 at the National Institute of Standards and Technology, Gaithersburg, MD 20899 USA
   language:
   - en
   script:
@@ -30,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard E.
+        - content: Richard
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E.
           language:
           - en
           script:

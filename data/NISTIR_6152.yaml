@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6152
 title:
-- content: Features, limitations and uncertainties in enclosure fire hazard analyses:preliminary
-    review
+- content: |-
+    Features, limitations and uncertainties in enclosure fire hazard analyses:
+    preliminary review
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Frederick W
+        - content: Frederick
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           script:
           - Latn
       surname:
@@ -42,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: David W
+        - content: David
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           script:
           - Latn
       surname:

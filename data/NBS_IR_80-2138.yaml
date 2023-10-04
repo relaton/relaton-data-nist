@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR80-2138
 title:
-- content: Multiprecision computing at NBS :yesterday, today and tomorrow
+- content: |-
+    Multiprecision computing at NBS :
+    yesterday, today and tomorrow
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Daniel W
+        - content: Daniel
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           language:
           - en
           script:

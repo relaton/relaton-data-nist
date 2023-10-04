@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC446
 title:
-- content: Circular of the Bureau of Standards no. 446:dead-weight machines of 111,000-
-    and 10,100-pound capacities
+- content: |-
+    Circular of the Bureau of Standards no. 446:
+    dead-weight machines of 111,000- and 10,100-pound capacities
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Bruce L
+        - content: Bruce
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:
@@ -42,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Douglas R
+        - content: Douglas
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           script:
           - Latn
       surname:

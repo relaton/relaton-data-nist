@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC468
 title:
-- content: Circular of the Bureau of Standards no. 468:printed circuit techniques
+- content: |-
+    Circular of the Bureau of Standards no. 468:
+    printed circuit techniques
   language:
   - en
   script:
@@ -41,7 +43,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Roger W
+        - content: Roger
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           script:
           - Latn
       surname:

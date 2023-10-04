@@ -28,7 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Philip A
+        - content: Philip
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:
@@ -41,7 +46,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Belinda L
+        - content: Belinda
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:

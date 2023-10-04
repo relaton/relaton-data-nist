@@ -51,7 +51,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Kate A
+        - content: Kate
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:
@@ -74,7 +79,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Jeanne T
+        - content: Jeanne
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           script:
           - Latn
       surname:
@@ -143,7 +153,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Peter B
+        - content: Peter
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           script:
           - Latn
       surname:

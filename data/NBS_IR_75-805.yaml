@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR75-805
 title:
-- content: Calibration techniques for electromagnetic hazard meters :500 MHz to 20
-    GHz
+- content: |-
+    Calibration techniques for electromagnetic hazard meters :
+    500 MHz to 20 GHz
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Ronald R
+        - content: Ronald
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           language:
           - en
           script:

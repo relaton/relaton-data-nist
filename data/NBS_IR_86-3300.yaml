@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR86-3300
 title:
-- content: STOVE :a predictive model for heat transfer from solid-fuel appliances
+- content: |-
+    STOVE :
+    a predictive model for heat transfer from solid-fuel appliances
   language:
   - en
   script:
@@ -28,7 +30,19 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard D P
+        - content: Richard
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+        - language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: D P
           language:
           - en
           script:
@@ -45,7 +59,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard A
+        - content: Richard
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6194
 title:
-- content: Proceedings of the second NIST Workshop on the Development of Machine Tool
-    Performance Models and Data Repository:February 18-19, 1997, New Orleans, Louisiana
+- content: |-
+    Proceedings of the second NIST Workshop on the Development of Machine Tool Performance Models and Data Repository:
+    February 18-19, 1997, New Orleans, Louisiana
   language:
   - en
   script:
@@ -29,7 +30,11 @@ contributor:
     name:
       given:
         forename:
-        - content: M Alkan
+        - script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: 'M '
           script:
           - Latn
       surname:

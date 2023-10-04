@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP260-66
 title:
-- content: Standard Reference Materials :Didymium glass filters for calibrating the
-    wavelength scale of spectrophotometers - SRM 2009, 2010, 2013, and 2014/
+- content: |-
+    Standard Reference Materials :
+    Didymium glass filters for calibrating the wavelength scale of spectrophotometers - SRM 2009, 2010, 2013, and 2014/
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Kenneth L
+        - content: Kenneth
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           language:
           - en
           script:

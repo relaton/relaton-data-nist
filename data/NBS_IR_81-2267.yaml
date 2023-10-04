@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR81-2267
 title:
-- content: 1980 annual report :electric and magnetic field measurements
+- content: |-
+    1980 annual report :
+    electric and magnetic field measurements
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Ronald H
+        - content: Ronald
+          language:
+          - en
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           language:
           - en
           script:
@@ -45,19 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: F R
+        - content: F
           language:
-          - en
-          script:
-          - Latn
-          initial: F
-        - language:
           - en
           script:
           - Latn
           initial: R
         formatted_initials:
-          content: F R
+          content: R
           language:
           - en
           script:
@@ -74,8 +78,7 @@ contributor:
     name:
       given:
         forename:
-        - content: M
-          language:
+        - language:
           - en
           script:
           - Latn
@@ -98,8 +101,7 @@ contributor:
     name:
       given:
         forename:
-        - content: P
-          language:
+        - language:
           - en
           script:
           - Latn

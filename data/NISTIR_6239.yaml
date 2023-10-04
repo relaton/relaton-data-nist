@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6239
 title:
-- content: The NIST standards in trade program:a review of the current program and
-    analysis of alternative approaches
+- content: |-
+    The NIST standards in trade program:
+    a review of the current program and analysis of alternative approaches
   language:
   - en
   script:
@@ -29,7 +30,15 @@ contributor:
     name:
       given:
         forename:
-        - content: Peter L M
+        - content: Peter
+          script:
+          - Latn
+          initial: L
+        - script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: L M
           script:
           - Latn
       surname:

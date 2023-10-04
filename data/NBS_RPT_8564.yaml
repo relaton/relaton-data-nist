@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT8564
 title:
-- content: Report on Latin American travel (IV) concerning Latin American Standards
-    (Columbia):and Annual Meeting of the Latin American Iron & Steel Institute July
-    4 - 25, 1964
+- content: |-
+    Report on Latin American travel (IV) concerning Latin American Standards (Columbia):
+    and Annual Meeting of the Latin American Iron & Steel Institute July 4 - 25, 1964
   language:
   - en
   script:
@@ -30,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: LeRoy L
+        - content: LeRoy
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:

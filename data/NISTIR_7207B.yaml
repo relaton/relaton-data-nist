@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7207b
 title:
-- content: Software write block testing support tools validation :test and code review
-    report
+- content: |-
+    Software write block testing support tools validation :
+    test and code review report
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Paul E
+        - content: Paul
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

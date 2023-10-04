@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT9465
 title:
-- content: Induced accelerated deterioration of portland cement concrete :progress
-    report, semiannual report
+- content: |-
+    Induced accelerated deterioration of portland cement concrete :
+    progress report, semiannual report
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Raymond L
+        - content: Raymond
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           language:
           - en
           script:

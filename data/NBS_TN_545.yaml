@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN545
 title:
-- content: Microchemical analysis section:summary of activities July 1969 to June
-    1970.
+- content: |-
+    Microchemical analysis section:
+    summary of activities July 1969 to June 1970.
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: John K
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K
           language:
           - en
           script:

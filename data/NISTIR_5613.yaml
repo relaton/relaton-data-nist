@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR5613
 title:
-- content: Automated manufacturing research facility, 1994 annual report:a joint NISTNavy
-    Manufacturing Technology Program conducted in collaboration with industry and
-    academia
+- content: |-
+    Automated manufacturing research facility, 1994 annual report:
+    a joint NISTNavy Manufacturing Technology Program conducted in collaboration with industry and academia
   language:
   - en
   script:
@@ -30,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: David C
+        - content: David
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           script:
           - Latn
       surname:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN271
 title:
-- content: Electrochemical Analysis:Studies of acids, bases, and salts by EMF, conductance,
-    optical and kinetic methods, July 1964 to June 1965
+- content: |-
+    Electrochemical Analysis:
+    Studies of acids, bases, and salts by EMF, conductance, optical and kinetic methods, July 1964 to June 1965
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Roger G
+        - content: Roger
+          language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G
           language:
           - en
           script:

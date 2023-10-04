@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR5701
 title:
-- content: Proceedings:metrology issues in terahertz physic and technology:National
-    Institute of Standards and Technology, Gaithersburg, MD, December 13, 1994
+- content: |-
+    Proceedings:
+    metrology issues in terahertz physic and technology:National Institute of Standards and Technology, Gaithersburg, MD, December 13, 1994
   language:
   - en
   script:
@@ -55,7 +56,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Mitchell K
+        - content: Mitchell
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K
           script:
           - Latn
       surname:

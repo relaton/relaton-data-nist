@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT10806
 title:
-- content: Heat flux distributions on wall and floor mounted specimens:effect of angular
-    orientation in flame spread test for ISOTC 92 WG 4
+- content: |-
+    Heat flux distributions on wall and floor mounted specimens:
+    effect of angular orientation in flame spread test for ISOTC 92 WG 4
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Edward K, Jr
+        - content: Edward
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K
           script:
           - Latn
       surname:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT9049
 title:
-- content: Measurement of the surface area and the heats of wetting of dentin powders:progress
-    report
+- content: |-
+    Measurement of the surface area and the heats of wetting of dentin powders:
+    progress report
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Gerhard M
+        - content: Gerhard
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:

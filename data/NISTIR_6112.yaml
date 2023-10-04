@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6112
 title:
-- content: NIST Center for Neutron Research:annual report, October 1996 through September
-    1997
+- content: |-
+    NIST Center for Neutron Research:
+    annual report, October 1996 through September 1997
   language:
   - en
   script:
@@ -29,15 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: J M
+        - content: J
           script:
-          - Latn
-          initial: J
-        - script:
           - Latn
           initial: M
         formatted_initials:
-          content: J M
+          content: M
           script:
           - Latn
       surname:

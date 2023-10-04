@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR73-310
 title:
-- content: Electromagnetic scattering by a thin wire with continuous impedance loading--
-    part II :time domain analysis
+- content: |-
+    Electromagnetic scattering by a thin wire with continuous impedance loading-- part II :
+    time domain analysis
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Tommy C
+        - content: Tommy
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           language:
           - en
           script:

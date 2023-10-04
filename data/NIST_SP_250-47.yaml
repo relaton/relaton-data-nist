@@ -28,7 +28,13 @@ contributor:
     name:
       given:
         forename:
-        - content: Y May
+        - language:
+          - en
+          script:
+          - Latn
+          initial: Y
+        formatted_initials:
+          content: 'Y '
           language:
           - en
           script:
@@ -45,7 +51,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Summerfield B
+        - content: Summerfield
+          language:
+          - en
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           language:
           - en
           script:

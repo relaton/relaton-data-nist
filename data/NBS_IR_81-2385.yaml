@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR81-2385
 title:
-- content: Finite difference calculations of buoyant convection in an enclosure Part
-    I :the basic algorithm
+- content: |-
+    Finite difference calculations of buoyant convection in an enclosure Part I :
+    the basic algorithm
   language:
   - en
   script:
@@ -46,7 +47,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Ronald G
+        - content: Ronald
+          language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G
           language:
           - en
           script:
@@ -63,7 +71,13 @@ contributor:
     name:
       given:
         forename:
-        - content: P Darcy
+        - language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: 'P '
           language:
           - en
           script:
@@ -80,7 +94,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Daniel M
+        - content: Daniel
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           language:
           - en
           script:

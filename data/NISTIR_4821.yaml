@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR4821
 title:
-- content: Envelope design guidelines for Federal office buildings:thermal integrity
-    and airtightness
+- content: |-
+    Envelope design guidelines for Federal office buildings:
+    thermal integrity and airtightness
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Andrew K
+        - content: Andrew
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K
           script:
           - Latn
       surname:

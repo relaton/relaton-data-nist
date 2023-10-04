@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC516
 title:
-- content: Circular of the Bureau of Standards no. 516:selection of hearing aids
+- content: |-
+    Circular of the Bureau of Standards no. 516:
+    selection of hearing aids
   language:
   - en
   script:
@@ -28,7 +30,15 @@ contributor:
     name:
       given:
         forename:
-        - content: Edith L R
+        - content: Edith
+          script:
+          - Latn
+          initial: L
+        - script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: L R
           script:
           - Latn
       surname:

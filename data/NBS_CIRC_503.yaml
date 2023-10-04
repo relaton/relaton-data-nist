@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC503
 title:
-- content: Circular of the Bureau of Standards no. 503:statutory net-content marking
-    requirements for packages (undefined) and packages of foods, drugs, and cosmetics
+- content: |-
+    Circular of the Bureau of Standards no. 503:
+    statutory net-content marking requirements for packages (undefined) and packages of foods, drugs, and cosmetics
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Kathryn M
+        - content: Kathryn
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:

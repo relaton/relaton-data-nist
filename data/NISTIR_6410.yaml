@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6410
 title:
-- content: APEC 17th ISTWG special seminar on emerging infections in Asia Pacific:proceedings,
-    Monday, August 16, 1999, Seattle, Washington, USA
+- content: |-
+    APEC 17th ISTWG special seminar on emerging infections in Asia Pacific:
+    proceedings, Monday, August 16, 1999, Seattle, Washington, USA
   language:
   - en
   script:
@@ -42,7 +43,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Tiffany G
+        - content: Tiffany
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G
           script:
           - Latn
       surname:

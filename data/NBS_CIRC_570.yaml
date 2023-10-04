@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC570
 title:
-- content: Circular of the Bureau of Standards no. 570:units and systems of weights
-    and measures- their origin, development, and present status
+- content: |-
+    Circular of the Bureau of Standards no. 570:
+    units and systems of weights and measures- their origin, development, and present status
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Lewis V
+        - content: Lewis
+          script:
+          - Latn
+          initial: V
+        formatted_initials:
+          content: V
           script:
           - Latn
       surname:

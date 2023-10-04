@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC411
 title:
-- content: Circular of the Bureau of Standards no. 411:organic plastics
+- content: |-
+    Circular of the Bureau of Standards no. 411:
+    organic plastics
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Gordon M
+        - content: Gordon
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:

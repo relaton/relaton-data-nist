@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN503
 title:
-- content: Electrochemical analysis section:summary of activities July 1968 to June
-    1969.
+- content: |-
+    Electrochemical analysis section:
+    summary of activities July 1968 to June 1969.
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Roger G
+        - content: Roger
+          language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G
           language:
           - en
           script:

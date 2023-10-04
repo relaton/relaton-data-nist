@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTTN1365
 title:
-- content: Sub-doppler frequency measurements on OCS at 87 THz (3.4 *m) with the CO
-    overtone Laser:considerations and details
+- content: |-
+    Sub-doppler frequency measurements on OCS at 87 THz (3.4 *m) with the CO overtone Laser:
+    considerations and details
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Adrien M
+        - content: Adrien
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           language:
           - en
           script:

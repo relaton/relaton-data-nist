@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT7386a
 title:
-- content: Figures for black box maximization of circular coverage:final report (volume
-    Ia)
+- content: |-
+    Figures for black box maximization of circular coverage:
+    final report (volume Ia)
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: C T, Jr
+        - content: C
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           script:
           - Latn
       surname:

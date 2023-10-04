@@ -28,7 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Eric K
+        - content: Eric
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K
           script:
           - Latn
       surname:

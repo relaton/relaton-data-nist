@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR5899
 title:
-- content: Standards promote credibility and technology transfer:the need for greater
-    industry support of technical committees
+- content: |-
+    Standards promote credibility and technology transfer:
+    the need for greater industry support of technical committees
   language:
   - en
   script:
@@ -29,7 +30,11 @@ contributor:
     name:
       given:
         forename:
-        - content: C Denver
+        - script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: 'C '
           script:
           - Latn
       surname:

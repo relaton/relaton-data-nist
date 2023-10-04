@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSNSRDS22
 title:
-- content: Atomic transition probabilities, volume II. sodium through calcium :a critical
-    data compilation
+- content: |-
+    Atomic transition probabilities, volume II. sodium through calcium :
+    a critical data compilation
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Wolfgang L
+        - content: Wolfgang
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Melvin W
+        - content: Melvin
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           language:
           - en
           script:
@@ -63,19 +78,14 @@ contributor:
     name:
       given:
         forename:
-        - content: B M
+        - content: B
           language:
-          - en
-          script:
-          - Latn
-          initial: B
-        - language:
           - en
           script:
           - Latn
           initial: M
         formatted_initials:
-          content: B M
+          content: M
           language:
           - en
           script:

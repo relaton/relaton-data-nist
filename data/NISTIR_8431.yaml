@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR8431
 title:
-- content: Workshop summary report for Building on the NIST Foundations :Next Steps
-    in IoT Cybersecurity
+- content: |-
+    Workshop summary report for Building on the NIST Foundations :
+    Next Steps in IoT Cybersecurity
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Katerina N
+        - content: Katerina
+          script:
+          - Latn
+          initial: N
+        formatted_initials:
+          content: N
           script:
           - Latn
       surname:

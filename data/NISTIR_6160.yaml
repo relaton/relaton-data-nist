@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6160
 title:
-- content: Process specification language:an analysis of existing representations
+- content: |-
+    Process specification language:
+    an analysis of existing representations
   language:
   - en
   script:
@@ -67,7 +69,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Stephen T
+        - content: Stephen
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           script:
           - Latn
       surname:
@@ -106,7 +113,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard C
+        - content: Richard
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           script:
           - Latn
       surname:

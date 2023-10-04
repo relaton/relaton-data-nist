@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP960-3
 title:
-- content: NIST recommended practice guide :the use of nomenclature in dispersion
-    science and technology/
+- content: |-
+    NIST recommended practice guide :
+    the use of nomenclature in dispersion science and technology/
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Chiara F
+        - content: Chiara
+          language:
+          - en
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Vincent A
+        - content: Vincent
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:

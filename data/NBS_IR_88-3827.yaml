@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR88-3827
 title:
-- content: Evaluation of the working environment at selected US Army field stations
-    :suggestions for improvement
+- content: |-
+    Evaluation of the working environment at selected US Army field stations :
+    suggestions for improvement
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Arthur I
+        - content: Arthur
+          language:
+          - en
+          script:
+          - Latn
+          initial: I
+        formatted_initials:
+          content: I
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Belinda L
+        - content: Belinda
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           language:
           - en
           script:

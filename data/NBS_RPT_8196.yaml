@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT8196
 title:
-- content: Report on international travel to Latin America to discuss, promote, assist,
-    and participate in the development of Pan-American standards for textiles:August
-    21 - October 5, 1963
+- content: |-
+    Report on international travel to Latin America to discuss, promote, assist, and participate in the development of Pan-American standards for textiles:
+    August 21 - October 5, 1963
   language:
   - en
   script:
@@ -30,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Josephine M
+        - content: Josephine
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:

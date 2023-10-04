@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6761
 title:
-- content: User's guide for smokeview version 2.0 :a tool for visualizing fire dynamics
-    simulation data
+- content: |-
+    User's guide for smokeview version 2.0 :
+    a tool for visualizing fire dynamics simulation data
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Glenn P
+        - content: Glenn
+          language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Kevin B
+        - content: Kevin
+          language:
+          - en
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           language:
           - en
           script:

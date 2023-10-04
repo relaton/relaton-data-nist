@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT9362
 title:
-- content: Meeting of ISO92 on fire tests :report
+- content: |-
+    Meeting of ISO92 on fire tests :
+    report
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: James V
+        - content: James
+          language:
+          - en
+          script:
+          - Latn
+          initial: V
+        formatted_initials:
+          content: V
           language:
           - en
           script:

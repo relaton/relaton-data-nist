@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR5876
 title:
-- content: Protection of archival records from pollutants IV:absorption studies of
-    archival box boards and model papers exposed to uLL and nLL concentrations of
-    nitrogen dioxide
+- content: |-
+    Protection of archival records from pollutants IV:
+    absorption studies of archival box boards and model papers exposed to uLL and nLL concentrations of nitrogen dioxide
   language:
   - en
   script:
@@ -30,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Charles M
+        - content: Charles
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:
@@ -43,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: William R
+        - content: William
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           script:
           - Latn
       surname:

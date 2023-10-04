@@ -29,7 +29,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Gail K
+        - content: Gail
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K
           script:
           - Latn
       surname:

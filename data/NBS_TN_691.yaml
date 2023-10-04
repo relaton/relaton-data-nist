@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN691
 title:
-- content: Clock synchronization and comparison:problem, techniques and hardware
+- content: |-
+    Clock synchronization and comparison:
+    problem, techniques and hardware
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: James E
+        - content: James
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

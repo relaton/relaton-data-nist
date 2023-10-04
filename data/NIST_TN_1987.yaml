@@ -45,7 +45,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Joseph A
+        - content: Joseph
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:

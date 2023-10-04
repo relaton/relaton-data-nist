@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR81-2233
 title:
-- content: High security locking devices :a state-of-the-art report
+- content: |-
+    High security locking devices :
+    a state-of-the-art report
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: John S
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           language:
           - en
           script:

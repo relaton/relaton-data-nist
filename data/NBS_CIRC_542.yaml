@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC542
 title:
-- content: Circular of the Bureau of Standards no. 542:graphs of the Compton energy-angle
-    relationship and the Klein-Nishina formula from 10 Kev to 500 Mev
+- content: |-
+    Circular of the Bureau of Standards no. 542:
+    graphs of the Compton energy-angle relationship and the Klein-Nishina formula from 10 Kev to 500 Mev
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Ann T
+        - content: Ann
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           script:
           - Latn
       surname:

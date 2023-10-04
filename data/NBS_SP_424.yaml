@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP424
 title:
-- content: A contribution to computer typesetting techniques :tables of coordinates
-    for Hershey's repertory of occidental type fonts and graphic symbols
+- content: |-
+    A contribution to computer typesetting techniques :
+    tables of coordinates for Hershey's repertory of occidental type fonts and graphic symbols
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Norman M
+        - content: Norman
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           language:
           - en
           script:

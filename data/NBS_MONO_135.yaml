@@ -28,7 +28,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Given W
+        - content: Given
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           language:
           - en
           script:
@@ -45,19 +52,14 @@ contributor:
     name:
       given:
         forename:
-        - content: C L
+        - content: C
           language:
-          - en
-          script:
-          - Latn
-          initial: C
-        - language:
           - en
           script:
           - Latn
           initial: L
         formatted_initials:
-          content: C L
+          content: L
           language:
           - en
           script:

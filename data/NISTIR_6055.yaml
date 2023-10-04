@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6055
 title:
-- content: NIST construction automation program, report no. 3:electromagnetic signal
-    attenuation in construction materials
+- content: |-
+    NIST construction automation program, report no. 3:
+    electromagnetic signal attenuation in construction materials
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: William C
+        - content: William
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           script:
           - Latn
       surname:

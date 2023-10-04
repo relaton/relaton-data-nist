@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT10958
 title:
-- content: Lead paint survey sampling plan and preliminary screening:final report,
-    phase I
+- content: |-
+    Lead paint survey sampling plan and preliminary screening:
+    final report, phase I
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Harvey W
+        - content: Harvey
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           script:
           - Latn
       surname:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6302
 title:
-- content: The optimal pricing of publicly supplied private goods:a case study of
-    NIST standard reference materials
+- content: |-
+    The optimal pricing of publicly supplied private goods:
+    a case study of NIST standard reference materials
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Sieglinde K
+        - content: Sieglinde
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K
           script:
           - Latn
       surname:

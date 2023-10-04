@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN448
 title:
-- content: Status report:National Standard Reference Data System, April 1968. Edward
-    L. Brady, editor.
+- content: |-
+    Status report:
+    National Standard Reference Data System, April 1968. Edward L. Brady, editor.
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Edward L
+        - content: Edward
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           language:
           - en
           script:

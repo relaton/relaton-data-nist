@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTTN1427
 title:
-- content: An analysis of efficiency testing under the energy policy and conservation
-    act :a case study with application to distribution transformers
+- content: |-
+    An analysis of efficiency testing under the energy policy and conservation act :
+    a case study with application to distribution transformers
   language:
   - en
   script:
@@ -46,8 +47,7 @@ contributor:
     name:
       given:
         forename:
-        - content: M
-          language:
+        - language:
           - en
           script:
           - Latn
@@ -70,19 +70,14 @@ contributor:
     name:
       given:
         forename:
-        - content: K L
+        - content: K
           language:
-          - en
-          script:
-          - Latn
-          initial: K
-        - language:
           - en
           script:
           - Latn
           initial: L
         formatted_initials:
-          content: K L
+          content: L
           language:
           - en
           script:

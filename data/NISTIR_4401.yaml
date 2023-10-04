@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR4401
 title:
-- content: Fire Risk Assessment Method:guide to the risk methodology software
+- content: |-
+    Fire Risk Assessment Method:
+    guide to the risk methodology software
   language:
   - en
   script:
@@ -28,7 +30,11 @@ contributor:
     name:
       given:
         forename:
-        - content: C Lynn
+        - script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: 'C '
           script:
           - Latn
       surname:
@@ -41,7 +47,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Walter W
+        - content: Walter
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           script:
           - Latn
       surname:

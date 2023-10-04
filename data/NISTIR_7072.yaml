@@ -28,7 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Steven J
+        - content: Steven
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           script:
           - Latn
       surname:
@@ -41,7 +46,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Joshua E
+        - content: Joshua
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           script:
           - Latn
       surname:

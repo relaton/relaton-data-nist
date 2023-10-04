@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC451
 title:
-- content: Circular of the Bureau of Standards no. 451:factors affecting results obtained
-    with the Mooney viscometer
+- content: |-
+    Circular of the Bureau of Standards no. 451:
+    factors affecting results obtained with the Mooney viscometer
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Rolla H
+        - content: Rolla
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           script:
           - Latn
       surname:

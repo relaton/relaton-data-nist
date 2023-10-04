@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT3823
 title:
-- content: Motorboat fire extinguisher evaluation :first progress report
+- content: |-
+    Motorboat fire extinguisher evaluation :
+    first progress report
   language:
   - en
   script:
@@ -28,8 +30,7 @@ contributor:
     name:
       given:
         forename:
-        - content: M
-          language:
+        - language:
           - en
           script:
           - Latn
@@ -52,19 +53,14 @@ contributor:
     name:
       given:
         forename:
-        - content: T G
+        - content: T
           language:
-          - en
-          script:
-          - Latn
-          initial: T
-        - language:
           - en
           script:
           - Latn
           initial: G
         formatted_initials:
-          content: T G
+          content: G
           language:
           - en
           script:

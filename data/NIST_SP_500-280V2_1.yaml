@@ -28,7 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Kevin C.
+        - content: Kevin
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C.
           script:
           - Latn
       surname:

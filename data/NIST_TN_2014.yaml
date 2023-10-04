@@ -28,7 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Piotr A
+        - content: Piotr
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:
@@ -45,7 +50,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Mark O
+        - content: Mark
+          script:
+          - Latn
+          initial: O
+        formatted_initials:
+          content: O
           script:
           - Latn
       surname:
@@ -62,7 +72,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Ian H
+        - content: Ian
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           script:
           - Latn
       surname:
@@ -79,7 +94,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Gregory T
+        - content: Gregory
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           script:
           - Latn
       surname:

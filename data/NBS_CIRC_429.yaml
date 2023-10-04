@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC429
 title:
-- content: Circular of the Bureau of Standards no. 429:photoelectric tristimulus colorimetry
-    with three filters
+- content: |-
+    Circular of the Bureau of Standards no. 429:
+    photoelectric tristimulus colorimetry with three filters
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard S
+        - content: Richard
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           script:
           - Latn
       surname:

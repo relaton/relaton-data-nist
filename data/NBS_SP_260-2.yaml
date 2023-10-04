@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP260-2
 title:
-- content: Standard Reference Materials :Preparation of NBS copper-base spectrochemical
-    standards/
+- content: |-
+    Standard Reference Materials :
+    Preparation of NBS copper-base spectrochemical standards/
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: LeRoy L
+        - content: LeRoy
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Robert E
+        - content: Robert
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

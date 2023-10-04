@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTTN1324
 title:
-- content: Trapped ions and laser cooling II :selected publications of the Ion Storage
-    Group of the Time and Frequency Division, NIST, Boulder, Colorado
+- content: |-
+    Trapped ions and laser cooling II :
+    selected publications of the Ion Storage Group of the Time and Frequency Division, NIST, Boulder, Colorado
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: David J
+        - content: David
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           language:
           - en
           script:

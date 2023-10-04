@@ -45,7 +45,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Joshua M.
+        - content: Joshua
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
           script:
           - Latn
       surname:
@@ -62,7 +67,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Kristen K.
+        - content: Kristen
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K.
           script:
           - Latn
       surname:

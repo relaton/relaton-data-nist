@@ -28,7 +28,15 @@ contributor:
     name:
       given:
         forename:
-        - content: Francis C W
+        - content: Francis
+          script:
+          - Latn
+          initial: C
+        - script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: C W
           script:
           - Latn
       surname:

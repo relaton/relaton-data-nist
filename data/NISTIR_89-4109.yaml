@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR89-4109
 title:
-- content: Weights and Measures Week guide and year round public relations:1989 third
-    edition
+- content: |-
+    Weights and Measures Week guide and year round public relations:
+    1989 third edition
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Peggy H
+        - content: Peggy
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           script:
           - Latn
       surname:

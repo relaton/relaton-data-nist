@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6401
 title:
-- content: Computer-integrated knowledge system (CIKS) network:report of the 2nd workshop
+- content: |-
+    Computer-integrated knowledge system (CIKS) network:
+    report of the 2nd workshop
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Lawrence J
+        - content: Lawrence
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           script:
           - Latn
       surname:

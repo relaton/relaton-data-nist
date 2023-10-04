@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC587
 title:
-- content: Circular of the Bureau of Standards no. 587:electroforming of waveguide
-    components for the millimeter-wavelength range
+- content: |-
+    Circular of the Bureau of Standards no. 587:
+    electroforming of waveguide components for the millimeter-wavelength range
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Albert A
+        - content: Albert
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTTN2081
 title:
-- content: Investigations on SI-traceable dynamic calibration of instrumented charpy
-    strikers:activities performed at NIST in FY2019
+- content: |-
+    Investigations on SI-traceable dynamic calibration of instrumented charpy strikers:
+    activities performed at NIST in FY2019
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Nicholas A
+        - content: Nicholas
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:
@@ -46,7 +52,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Akobuije D
+        - content: Akobuije
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           script:
           - Latn
       surname:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP1230
 title:
-- content: Community resilience-focused technical investigation of the 2016 Lumberton,
-    North Carolina flood:multi-disciplinary approach
+- content: |-
+    Community resilience-focused technical investigation of the 2016 Lumberton, North Carolina flood:
+    multi-disciplinary approach
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: John W
+        - content: John
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           script:
           - Latn
       surname:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT7096
 title:
-- content: An investigation of the constitution of the mercury-tin system and portions
-    of the mercury-silver-tin system:progress report
+- content: |-
+    An investigation of the constitution of the mercury-tin system and portions of the mercury-silver-tin system:
+    progress report
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Duane F
+        - content: Duane
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           script:
           - Latn
       surname:

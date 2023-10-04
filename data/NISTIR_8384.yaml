@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR8384
 title:
-- content: Method assessment for non-targeted analyses (MANTA) program :interlaboratory
-    study 1 results
+- content: |-
+    Method assessment for non-targeted analyses (MANTA) program :
+    interlaboratory study 1 results
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Benjamin J
+        - content: Benjamin
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           script:
           - Latn
       surname:
@@ -46,7 +52,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Catherine A
+        - content: Catherine
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:

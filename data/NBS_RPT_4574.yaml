@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT4574
 title:
-- content: Landing gear loads resulting from taxying airplane over a projecting runway
-    light :progress report 1
+- content: |-
+    Landing gear loads resulting from taxying airplane over a projecting runway light :
+    progress report 1
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Wilhelmina D
+        - content: Wilhelmina
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           language:
           - en
           script:

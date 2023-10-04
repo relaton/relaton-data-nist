@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR8323
 title:
-- content: Foundational PNT Profile:Applying the Cybersecurity Framework for the Responsible
-    Use of Positioning, Navigation, and Timing (PNT) Services
+- content: |-
+    Foundational PNT Profile:
+    Applying the Cybersecurity Framework for the Responsible Use of Positioning, Navigation, and Timing (PNT) Services
   language:
   - en
   script:
@@ -114,7 +115,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Karen K.
+        - content: Karen
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K.
           script:
           - Latn
       surname:

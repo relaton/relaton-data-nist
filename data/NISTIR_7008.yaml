@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7008
 title:
-- content: NIST research library benchmark study :2001 summary report
+- content: |-
+    NIST research library benchmark study :
+    2001 summary report
   language:
   - en
   script:
@@ -62,7 +64,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Lisa A
+        - content: Lisa
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:
@@ -113,7 +122,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Susan A
+        - content: Susan
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:

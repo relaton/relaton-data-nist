@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC589
 title:
-- content: Circular of the Bureau of Standards no. 589:tables of dielectric dispersion
-    data for pure liquids and dilute solutions
+- content: |-
+    Circular of the Bureau of Standards no. 589:
+    tables of dielectric dispersion data for pure liquids and dilute solutions
   language:
   - en
   script:
@@ -42,7 +43,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Arthur A
+        - content: Arthur
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:

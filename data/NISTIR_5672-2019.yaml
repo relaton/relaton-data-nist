@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR5672-2019
 title:
-- content: Advanced mass calibration and measurement assurance program for state calibration
-    laboratories:2019 Edition
+- content: |-
+    Advanced mass calibration and measurement assurance program for state calibration laboratories:
+    2019 Edition
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Kenneth L
+        - content: Kenneth
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:
@@ -46,7 +52,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Georgia L
+        - content: Georgia
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6324
 title:
-- content: The zone fire model jet:a model for the prediction of detector activation
-    and gas temperature in the presence of a smoke layer
+- content: |-
+    The zone fire model jet:
+    a model for the prediction of detector activation and gas temperature in the presence of a smoke layer
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: William D
+        - content: William
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           script:
           - Latn
       surname:

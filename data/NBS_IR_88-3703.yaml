@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR88-3703
 title:
-- content: Wind and seismic effects :proceedings of the 19th joint meeting of the
-    U.S.-Japan Cooperative Program in Natural Resources Panel on Wind and Seismic
-    Effects
+- content: |-
+    Wind and seismic effects :
+    proceedings of the 19th joint meeting of the U.S.-Japan Cooperative Program in Natural Resources Panel on Wind and Seismic Effects
   language:
   - en
   script:
@@ -30,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Noel J
+        - content: Noel
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTBSS181
 title:
-- content: High-rise database-assisted design 1.1 (HR_DAD_1.1) :concepts, software,
-    and examples
+- content: |-
+    High-rise database-assisted design 1.1 (HR_DAD_1.1) :
+    concepts, software, and examples
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Seymour M
+        - content: Seymour
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           language:
           - en
           script:

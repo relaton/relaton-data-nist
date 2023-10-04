@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT8654
 title:
-- content: The definition of alginate impression materials by a specification:progress
-    report
+- content: |-
+    The definition of alginate impression materials by a specification:
+    progress report
   language:
   - en
   script:
@@ -42,7 +43,12 @@ contributor:
     name:
       given:
         forename:
-        - content: John W
+        - content: John
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           script:
           - Latn
       surname:

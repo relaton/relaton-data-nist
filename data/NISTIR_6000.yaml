@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6000
 title:
-- content: NIST reactor:summary of activities, October 1995 through September 1996
+- content: |-
+    NIST reactor:
+    summary of activities, October 1995 through September 1996
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Linda K
+        - content: Linda
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K
           script:
           - Latn
       surname:

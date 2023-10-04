@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC415
 title:
-- content: Circular of the Bureau of Standards no. 415:magnetic testing
+- content: |-
+    Circular of the Bureau of Standards no. 415:
+    magnetic testing
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Raymond L
+        - content: Raymond
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:

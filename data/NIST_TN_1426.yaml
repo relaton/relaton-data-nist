@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTTN1426
 title:
-- content: The Fujita Tornado Intensity scale :a critique based on observations of
-    the Jarrell tornado of may 27, 1997
+- content: |-
+    The Fujita Tornado Intensity scale :
+    a critique based on observations of the Jarrell tornado of may 27, 1997
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Long T
+        - content: Long
+          language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           language:
           - en
           script:

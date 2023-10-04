@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT7339
 title:
-- content: Effect of fiber composition on textile flammability :report of preliminary
-    work
+- content: |-
+    Effect of fiber composition on textile flammability :
+    report of preliminary work
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Marjorie W
+        - content: Marjorie
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN594-2
 title:
-- content: Optical radiation measurements:photometric instrumentation and research
-    (1970 to 1971)
+- content: |-
+    Optical radiation measurements:
+    photometric instrumentation and research (1970 to 1971)
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Donald A
+        - content: Donald
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:
@@ -63,7 +71,13 @@ contributor:
     name:
       given:
         forename:
-        - content: A Russell
+        - language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: 'A '
           language:
           - en
           script:
@@ -80,7 +94,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Edward F
+        - content: Edward
+          language:
+          - en
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           language:
           - en
           script:

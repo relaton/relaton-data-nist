@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN583
 title:
-- content: Electrochemical analysis section :summary of activities, July 1970 to June
-    1971.
+- content: |-
+    Electrochemical analysis section :
+    summary of activities, July 1970 to June 1971.
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard A
+        - content: Richard
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:

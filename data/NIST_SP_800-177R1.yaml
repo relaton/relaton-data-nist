@@ -45,7 +45,11 @@ contributor:
     name:
       given:
         forename:
-        - content: J Stephen
+        - script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: 'J '
           script:
           - Latn
       surname:

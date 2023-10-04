@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN941
 title:
-- content: Stone preservatives :methods of laboratory testing and preliminary performance
-    criteria
+- content: |-
+    Stone preservatives :
+    methods of laboratory testing and preliminary performance criteria
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Gerald A
+        - content: Gerald
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:

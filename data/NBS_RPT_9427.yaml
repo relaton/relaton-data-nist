@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT9427
 title:
-- content: Report on international travel to Latin America to participate in the development
-    of Pan-American standards for textiles:May 8 - May 21, 1966
+- content: |-
+    Report on international travel to Latin America to participate in the development of Pan-American standards for textiles:
+    May 8 - May 21, 1966
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Sidney H
+        - content: Sidney
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           script:
           - Latn
       surname:

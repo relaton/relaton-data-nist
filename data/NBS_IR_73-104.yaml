@@ -28,19 +28,14 @@ contributor:
     name:
       given:
         forename:
-        - content: A W
+        - content: A
           language:
-          - en
-          script:
-          - Latn
-          initial: A
-        - language:
           - en
           script:
           - Latn
           initial: W
         formatted_initials:
-          content: A W
+          content: W
           language:
           - en
           script:
@@ -57,19 +52,14 @@ contributor:
     name:
       given:
         forename:
-        - content: F W
+        - content: F
           language:
-          - en
-          script:
-          - Latn
-          initial: F
-        - language:
           - en
           script:
           - Latn
           initial: W
         formatted_initials:
-          content: F W
+          content: W
           language:
           - en
           script:
@@ -86,7 +76,13 @@ contributor:
     name:
       given:
         forename:
-        - content: J Arol
+        - language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: 'J '
           language:
           - en
           script:

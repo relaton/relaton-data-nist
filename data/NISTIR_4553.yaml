@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR4553
 title:
-- content: Technical activities 1990:electron and optical physics division
+- content: |-
+    Technical activities 1990:
+    electron and optical physics division
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Charles W
+        - content: Charles
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           script:
           - Latn
       surname:

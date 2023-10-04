@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP260-90
 title:
-- content: Standard Reference Materials :Update of thermal conductivity and electrical
-    resistivity of electrolytic iron, tungsten, and stainless steel/
+- content: |-
+    Standard Reference Materials :
+    Update of thermal conductivity and electrical resistivity of electrolytic iron, tungsten, and stainless steel/
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Alan B
+        - content: Alan
+          language:
+          - en
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Jerome G
+        - content: Jerome
+          language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G
           language:
           - en
           script:

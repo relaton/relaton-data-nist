@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6370
 title:
-- content: Benchmark experimental database for multiphase combustion model input and
-    validation:characterization of the inlet combustion air
+- content: |-
+    Benchmark experimental database for multiphase combustion model input and validation:
+    characterization of the inlet combustion air
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: John F
+        - content: John
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           script:
           - Latn
       surname:
@@ -42,7 +48,11 @@ contributor:
     name:
       given:
         forename:
-        - content: S Rao
+        - script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: 'S '
           script:
           - Latn
       surname:

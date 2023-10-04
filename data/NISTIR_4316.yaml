@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR4316
 title:
-- content: A collection of technical studies completed for the Computer-aided Acquisition
-    and Logistic Support (CALS) program:fiscal year 1988 volume 2 of 3, graphics,
-    CGM MIL SPEC
+- content: |-
+    A collection of technical studies completed for the Computer-aided Acquisition and Logistic Support (CALS) program:
+    fiscal year 1988 volume 2 of 3, graphics, CGM MIL SPEC
   language:
   - en
   script:
@@ -30,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Roy S
+        - content: Roy
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           script:
           - Latn
       surname:

@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN939
 title:
-- content: NBS reactor :summary of activities July 1975 to June 1976
+- content: |-
+    NBS reactor :
+    summary of activities July 1975 to June 1976
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Frederick J.
+        - content: Frederick
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J.
           language:
           - en
           script:

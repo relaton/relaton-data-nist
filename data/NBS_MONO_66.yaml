@@ -28,8 +28,7 @@ contributor:
     name:
       given:
         forename:
-        - content: L
-          language:
+        - language:
           - en
           script:
           - Latn
@@ -52,7 +51,14 @@ contributor:
     name:
       given:
         forename:
-        - content: David C
+        - content: David
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           language:
           - en
           script:
@@ -69,19 +75,14 @@ contributor:
     name:
       given:
         forename:
-        - content: S R
+        - content: S
           language:
-          - en
-          script:
-          - Latn
-          initial: S
-        - language:
           - en
           script:
           - Latn
           initial: R
         formatted_initials:
-          content: S R
+          content: R
           language:
           - en
           script:

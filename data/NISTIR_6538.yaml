@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6538
 title:
-- content: Fire service needs workshop proceedings :San Antonio, Texas, October 13-15,
-    1999
+- content: |-
+    Fire service needs workshop proceedings :
+    San Antonio, Texas, October 13-15, 1999
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: William D
+        - content: William
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           language:
           - en
           script:
@@ -80,7 +88,14 @@ contributor:
     name:
       given:
         forename:
-        - content: James R
+        - content: James
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           language:
           - en
           script:
@@ -97,7 +112,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Nora H
+        - content: Nora
+          language:
+          - en
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           language:
           - en
           script:

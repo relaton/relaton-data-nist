@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC472
 title:
-- content: Circular of the Bureau of Standards no. 472:table and Mollier chart for
-    ammonia below -60 [degrees] F
+- content: |-
+    Circular of the Bureau of Standards no. 472:
+    table and Mollier chart for ammonia below -60 [degrees] F
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Cyril H
+        - content: Cyril
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           script:
           - Latn
       surname:

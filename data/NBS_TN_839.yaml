@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN839
 title:
-- content: Fire detection :the state-of-the-art
+- content: |-
+    Fire detection :
+    the state-of-the-art
   language:
   - en
   script:
@@ -28,7 +30,19 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard L P
+        - content: Richard
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        - language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: L P
           language:
           - en
           script:

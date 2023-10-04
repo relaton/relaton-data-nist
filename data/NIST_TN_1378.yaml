@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTTN1378
 title:
-- content: Optical fiber, fiber coating, and connector ferrule geometry :results of
-    interlaboratory comparisons
+- content: |-
+    Optical fiber, fiber coating, and connector ferrule geometry :
+    results of interlaboratory comparisons
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Douglas L
+        - content: Douglas
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           language:
           - en
           script:
@@ -63,7 +71,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Timothy J
+        - content: Timothy
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           language:
           - en
           script:

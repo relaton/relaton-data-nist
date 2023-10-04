@@ -28,7 +28,11 @@ contributor:
     name:
       given:
         forename:
-        - content: R Austin
+        - script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: 'R '
           script:
           - Latn
       surname:

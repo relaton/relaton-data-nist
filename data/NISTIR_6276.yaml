@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6276
 title:
-- content: Operator's manual:balance automation software for the NIST mass calibration
-    laboratory
+- content: |-
+    Operator's manual:
+    balance automation software for the NIST mass calibration laboratory
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Vincent J
+        - content: Vincent
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           script:
           - Latn
       surname:

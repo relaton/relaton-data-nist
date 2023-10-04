@@ -28,7 +28,13 @@ contributor:
     name:
       given:
         forename:
-        - content: P Yvonne
+        - language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: 'P '
           language:
           - en
           script:
@@ -45,7 +51,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Edward A
+        - content: Edward
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:
@@ -62,7 +75,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Albert C
+        - content: Albert
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           language:
           - en
           script:

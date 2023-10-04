@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP500-241
 title:
-- content: Information technology :a quick-reference list of organizations and standards
-    for digital rights management
+- content: |-
+    Information technology :
+    a quick-reference list of organizations and standards for digital rights management
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Gordon E
+        - content: Gordon
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP250-30
 title:
-- content: GOES satellite time code dissemination :description and operation
+- content: |-
+    GOES satellite time code dissemination :
+    description and operation
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Roger E
+        - content: Roger
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:
@@ -62,7 +71,14 @@ contributor:
     name:
       given:
         forename:
-        - content: John B
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           language:
           - en
           script:

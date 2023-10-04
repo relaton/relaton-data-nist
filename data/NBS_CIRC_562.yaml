@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC562
 title:
-- content: Circular of the Bureau of Standards no. 562:bibliography of research on
-    deuterium and tritium compounds 1945 and 1952
+- content: |-
+    Circular of the Bureau of Standards no. 562:
+    bibliography of research on deuterium and tritium compounds 1945 and 1952
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Lawrence M
+        - content: Lawrence
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:
@@ -42,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Charles W
+        - content: Charles
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           script:
           - Latn
       surname:

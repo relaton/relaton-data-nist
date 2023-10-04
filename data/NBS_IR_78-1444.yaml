@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR78-1444
 title:
-- content: Semiconductor technology program :progress briefs
+- content: |-
+    Semiconductor technology program :
+    progress briefs
   language:
   - en
   script:
@@ -28,7 +30,13 @@ contributor:
     name:
       given:
         forename:
-        - content: W Murray
+        - language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: 'W '
           language:
           - en
           script:

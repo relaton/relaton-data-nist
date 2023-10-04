@@ -28,7 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Susan Q
+        - content: Susan
+          script:
+          - Latn
+          initial: Q
+        formatted_initials:
+          content: Q
           script:
           - Latn
       surname:

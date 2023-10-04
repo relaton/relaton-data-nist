@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7805
 title:
-- content: Interagency agreement report :exposure and fire hazard assessment of nanoparticles
-    in fire safe consumer products
+- content: |-
+    Interagency agreement report :
+    exposure and fire hazard assessment of nanoparticles in fire safe consumer products
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Rick D
+        - content: Rick
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           language:
           - en
           script:
@@ -63,7 +71,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard H
+        - content: Richard
+          language:
+          - en
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           language:
           - en
           script:

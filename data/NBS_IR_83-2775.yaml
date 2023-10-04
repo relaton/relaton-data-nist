@@ -2,10 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR83-2775
 title:
-- content: Conference on standards, measurements, quality control and production for
-    economic support and growth :a record of the U.S. papers to be presented at the
-    conference on standards, measurements, quality control and production for economic
-    support and growth to be held in Cairo, Egypt. October 29-31, 1983
+- content: |-
+    Conference on standards, measurements, quality control and production for economic support and growth :
+    a record of the U.S. papers to be presented at the conference on standards, measurements, quality control and production for economic support and growth to be held in Cairo, Egypt. October 29-31, 1983
   language:
   - en
   script:
@@ -65,7 +64,14 @@ contributor:
     name:
       given:
         forename:
-        - content: John L
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           language:
           - en
           script:
@@ -99,7 +105,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Jack E
+        - content: Jack
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:
@@ -116,19 +129,14 @@ contributor:
     name:
       given:
         forename:
-        - content: S D
+        - content: S
           language:
-          - en
-          script:
-          - Latn
-          initial: S
-        - language:
           - en
           script:
           - Latn
           initial: D
         formatted_initials:
-          content: S D
+          content: D
           language:
           - en
           script:
@@ -145,7 +153,19 @@ contributor:
     name:
       given:
         forename:
-        - content: Kurt F J
+        - content: Kurt
+          language:
+          - en
+          script:
+          - Latn
+          initial: F
+        - language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: F J
           language:
           - en
           script:

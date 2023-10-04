@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTTN1618
 title:
-- content: Fire fighting tactics under wind driven conditions :laboratory experiments
+- content: |-
+    Fire fighting tactics under wind driven conditions :
+    laboratory experiments
   language:
   - en
   script:
@@ -45,7 +47,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Stephen I
+        - content: Stephen
+          language:
+          - en
+          script:
+          - Latn
+          initial: I
+        formatted_initials:
+          content: I
           language:
           - en
           script:

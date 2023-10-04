@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTTN2145
 title:
-- content: Urban greenhouse gas measurements :urban testbed systems and international
-    cooperation workshop summary report
+- content: |-
+    Urban greenhouse gas measurements :
+    urban testbed systems and international cooperation workshop summary report
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Hratch G
+        - content: Hratch
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G
           script:
           - Latn
       surname:
@@ -46,7 +52,12 @@ contributor:
     name:
       given:
         forename:
-        - content: James R
+        - content: James
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           script:
           - Latn
       surname:

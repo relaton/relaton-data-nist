@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSNSRDS68
 title:
-- content: Wavelengths and transition probabilities for atoms and atomic ions :part
-    I. wavelengths - part II. transition probabilities
+- content: |-
+    Wavelengths and transition probabilities for atoms and atomic ions :
+    part I. wavelengths - part II. transition probabilities
   language:
   - en
   script:
@@ -46,7 +47,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Charles H
+        - content: Charles
+          language:
+          - en
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           language:
           - en
           script:
@@ -63,19 +71,14 @@ contributor:
     name:
       given:
         forename:
-        - content: W L
+        - content: W
           language:
-          - en
-          script:
-          - Latn
-          initial: W
-        - language:
           - en
           script:
           - Latn
           initial: L
         formatted_initials:
-          content: W L
+          content: L
           language:
           - en
           script:
@@ -92,19 +95,14 @@ contributor:
     name:
       given:
         forename:
-        - content: G A
+        - content: G
           language:
-          - en
-          script:
-          - Latn
-          initial: G
-        - language:
           - en
           script:
           - Latn
           initial: A
         formatted_initials:
-          content: G A
+          content: A
           language:
           - en
           script:

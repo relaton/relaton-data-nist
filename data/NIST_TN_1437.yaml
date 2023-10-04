@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTTN1437
 title:
-- content: FY2000 annual report :next generation fire suppression technology program
-    (NGP)
+- content: |-
+    FY2000 annual report :
+    next generation fire suppression technology program (NGP)
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard G
+        - content: Richard
+          language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G
           language:
           - en
           script:

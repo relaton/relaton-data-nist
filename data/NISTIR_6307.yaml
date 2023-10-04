@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6307
 title:
-- content: Initial Manufacturing Exchange Specification (IMES):information model for
-    the process plan - workstation level
+- content: |-
+    Initial Manufacturing Exchange Specification (IMES):
+    information model for the process plan - workstation level
   language:
   - en
   script:
@@ -29,7 +30,11 @@ contributor:
     name:
       given:
         forename:
-        - content: Y Tina
+        - script:
+          - Latn
+          initial: Y
+        formatted_initials:
+          content: 'Y '
           script:
           - Latn
       surname:

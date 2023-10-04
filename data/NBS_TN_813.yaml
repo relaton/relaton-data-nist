@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN813
 title:
-- content: NBS reactor :summary of activities July 1972 to June 1973
+- content: |-
+    NBS reactor :
+    summary of activities July 1972 to June 1973
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Robert S
+        - content: Robert
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           language:
           - en
           script:

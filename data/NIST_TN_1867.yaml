@@ -28,7 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Marc A.
+        - content: Marc
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
           script:
           - Latn
       surname:
@@ -113,7 +118,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Edward A.
+        - content: Edward
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
           script:
           - Latn
       surname:

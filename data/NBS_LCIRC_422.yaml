@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSLCIRC422
 title:
-- content: Letter Circular 422:the painting of structural metal (steel, galvanized
-    metal, tin plate and copper)
+- content: |-
+    Letter Circular 422:
+    the painting of structural metal (steel, galvanized metal, tin plate and copper)
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Percy H
+        - content: Percy
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           script:
           - Latn
       surname:
@@ -43,14 +49,6 @@ contributor:
       given:
         forename:
         - content: EF
-          script:
-          - Latn
-          initial: E
-        - script:
-          - Latn
-          initial: F
-        formatted_initials:
-          content: EF
           script:
           - Latn
       surname:

@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR4741
 title:
-- content: Physics Laboratory:technical activities 1991
+- content: |-
+    Physics Laboratory:
+    technical activities 1991
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Katharine B
+        - content: Katharine
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           script:
           - Latn
       surname:

@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR85-3232
 title:
-- content: Technical activities 1985 :Center for Radiation Research
+- content: |-
+    Technical activities 1985 :
+    Center for Radiation Research
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Chris E
+        - content: Chris
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

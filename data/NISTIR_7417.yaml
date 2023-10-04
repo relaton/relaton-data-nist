@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7417
 title:
-- content: General buildings information handover guide :principles, methodology and
-    case studies - an industry sector guide of the information handover guide series
+- content: |-
+    General buildings information handover guide :
+    principles, methodology and case studies - an industry sector guide of the information handover guide series
   language:
   - en
   script:
@@ -46,7 +47,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Mark E
+        - content: Mark
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

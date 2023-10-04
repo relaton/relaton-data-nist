@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT8938
 title:
-- content: Report on Latin America travel:Part I - U.S. Agency for International Development
-    (AID)-- Colombia Standards Institute Seminar Program, April 22, 1965 - June 12,
-    1965 Part II - Weights and measures activities, Colombia and Venezuela
+- content: |-
+    Report on Latin America travel:
+    Part I - U.S. Agency for International Development (AID)-- Colombia Standards Institute Seminar Program, April 22, 1965 - June 12, 1965 Part II - Weights and measures activities, Colombia and Venezuela
   language:
   - en
   script:
@@ -30,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: LeRoy L
+        - content: LeRoy
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:

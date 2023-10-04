@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP1015
 title:
-- content: Next generation fire suppression technology program :FY2004 progress
+- content: |-
+    Next generation fire suppression technology program :
+    FY2004 progress
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard G
+        - content: Richard
+          language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G
           language:
           - en
           script:

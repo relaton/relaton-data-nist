@@ -62,7 +62,12 @@ contributor:
     name:
       given:
         forename:
-        - content: John M
+        - content: John
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:
@@ -79,7 +84,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Gregory P
+        - content: Gregory
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P
           script:
           - Latn
       surname:
@@ -96,7 +106,12 @@ contributor:
     name:
       given:
         forename:
-        - content: John D
+        - content: John
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           script:
           - Latn
       surname:

@@ -29,7 +29,19 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard H F
+        - content: Richard
+          language:
+          - en
+          script:
+          - Latn
+          initial: H
+        - language:
+          - en
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: H F
           language:
           - en
           script:
@@ -46,7 +58,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Garth P
+        - content: Garth
+          language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P
           language:
           - en
           script:

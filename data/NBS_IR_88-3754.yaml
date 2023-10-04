@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR88-3754
 title:
-- content: A global model for building-project information :analysis of conceptual
-    structures
+- content: |-
+    A global model for building-project information :
+    analysis of conceptual structures
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: William F
+        - content: William
+          language:
+          - en
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT7792
 title:
-- content: Heats of formation of metallic borides by fluorine bomb calorimetry:progress
-    report for the period 1 October 1962 to 31 January 1963
+- content: |-
+    Heats of formation of metallic borides by fluorine bomb calorimetry:
+    progress report for the period 1 October 1962 to 31 January 1963
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Eugene S
+        - content: Eugene
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           script:
           - Latn
       surname:

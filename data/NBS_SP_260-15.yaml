@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP260-15
 title:
-- content: Standard Reference Materials :Recommended method of use of standard light-sensitive
-    paper for calibrating carbon arcs used in testing textiles for colorfastness to
-    light/
+- content: |-
+    Standard Reference Materials :
+    Recommended method of use of standard light-sensitive paper for calibrating carbon arcs used in testing textiles for colorfastness to light/
   language:
   - en
   script:
@@ -30,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Paul J
+        - content: Paul
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           language:
           - en
           script:

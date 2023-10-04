@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR89-4122
 title:
-- content: Estimating the environment and the response of sprinkler links in compartment
-    fires with draft curtains and fusible-link-actuated ceiling vents - part II:user
-    guide for the computer code LAVENT
+- content: |-
+    Estimating the environment and the response of sprinkler links in compartment fires with draft curtains and fusible-link-actuated ceiling vents - part II:
+    user guide for the computer code LAVENT
   language:
   - en
   script:
@@ -30,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: William D
+        - content: William
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           script:
           - Latn
       surname:
@@ -43,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Leonard Y
+        - content: Leonard
+          script:
+          - Latn
+          initial: Y
+        formatted_initials:
+          content: Y
           script:
           - Latn
       surname:

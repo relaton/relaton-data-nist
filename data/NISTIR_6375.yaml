@@ -29,7 +29,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Jeanne W
+        - content: Jeanne
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           script:
           - Latn
       surname:

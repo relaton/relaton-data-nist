@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP250-75
 title:
-- content: NIST measurement services :cw laser power and energy calibrations at NIST
+- content: |-
+    NIST measurement services :
+    cw laser power and energy calibrations at NIST
   language:
   - en
   script:
@@ -45,7 +47,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Christopher L
+        - content: Christopher
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           language:
           - en
           script:
@@ -62,7 +71,14 @@ contributor:
     name:
       given:
         forename:
-        - content: John H
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           language:
           - en
           script:

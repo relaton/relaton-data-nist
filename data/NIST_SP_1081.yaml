@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP1081
 title:
-- content: NIST measurement services :natural gas flow calibration service
+- content: |-
+    NIST measurement services :
+    natural gas flow calibration service
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Aaron N
+        - content: Aaron
+          language:
+          - en
+          script:
+          - Latn
+          initial: N
+        formatted_initials:
+          content: N
           language:
           - en
           script:

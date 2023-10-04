@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT10502
 title:
-- content: Progress report of research activity truck tire noise investigation:September
-    1, 1970 - October 31, 1970
+- content: |-
+    Progress report of research activity truck tire noise investigation:
+    September 1, 1970 - October 31, 1970
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: William A, Jr
+        - content: William
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:
@@ -42,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Daniel R
+        - content: Daniel
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           script:
           - Latn
       surname:

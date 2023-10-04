@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTAMS100-28
 title:
-- content: Annual manufacturing review:2019
+- content: |-
+    Annual manufacturing review:
+    2019
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Douglas S
+        - content: Douglas
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           script:
           - Latn
       surname:

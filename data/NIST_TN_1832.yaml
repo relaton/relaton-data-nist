@@ -28,7 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: David G.
+        - content: David
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G.
           script:
           - Latn
       surname:
@@ -45,7 +50,12 @@ contributor:
     name:
       given:
         forename:
-        - content: David B.
+        - content: David
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B.
           script:
           - Latn
       surname:
@@ -62,7 +72,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Steven T.
+        - content: Steven
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T.
           script:
           - Latn
       surname:

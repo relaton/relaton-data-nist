@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6189
 title:
-- content: An approach for measuring reductions in delivery time :baseline measures
-    of construction industry practices for the national construction goals
+- content: |-
+    An approach for measuring reductions in delivery time :
+    baseline measures of construction industry practices for the national construction goals
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Robert E
+        - content: Robert
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR4764
 title:
-- content: Computing depth from temporal cross-correlation:a comparison of two methods
-    of computation
+- content: |-
+    Computing depth from temporal cross-correlation:
+    a comparison of two methods of computation
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: John A
+        - content: John
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:

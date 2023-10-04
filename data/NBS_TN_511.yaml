@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN511
 title:
-- content: Measurement methods for the semiconductor device industry :a summary of
-    NBS activity
+- content: |-
+    Measurement methods for the semiconductor device industry :
+    a summary of NBS activity
   language:
   - en
   script:
@@ -29,7 +30,13 @@ contributor:
     name:
       given:
         forename:
-        - content: W Murray
+        - language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: 'W '
           language:
           - en
           script:

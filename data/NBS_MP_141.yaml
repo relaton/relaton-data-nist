@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSMP141
 title:
-- content: Report to the National Screw Thread Commission :fourth edition/
+- content: |-
+    Report to the National Screw Thread Commission :
+    fourth edition/
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Lyman J
+        - content: Lyman
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           language:
           - en
           script:

@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR4329
 title:
-- content: Graphics Standards in the Computer-aided Acquisition and Logistic Support
-    (CALS) Program, fiscal year 1989 volume 1:test requirements document, extended
-    CGM (CGEM)
+- content: |-
+    Graphics Standards in the Computer-aided Acquisition and Logistic Support (CALS) Program, fiscal year 1989 volume 1:
+    test requirements document, extended CGM (CGEM)
   language:
   - en
   script:
@@ -30,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Daniel R
+        - content: Daniel
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           script:
           - Latn
       surname:

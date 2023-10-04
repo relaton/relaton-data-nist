@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSNSRDS73p2
 title:
-- content: Compilation of chemical kinetic data for combustion chemistry :part 2.
-    non-aromatic C, H, O, N, and S containing compounds (1983)
+- content: |-
+    Compilation of chemical kinetic data for combustion chemistry :
+    part 2. non-aromatic C, H, O, N, and S containing compounds (1983)
   language:
   - en
   script:
@@ -46,7 +47,14 @@ contributor:
     name:
       given:
         forename:
-        - content: John T
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           language:
           - en
           script:
@@ -63,19 +71,14 @@ contributor:
     name:
       given:
         forename:
-        - content: R J
+        - content: R
           language:
-          - en
-          script:
-          - Latn
-          initial: R
-        - language:
           - en
           script:
           - Latn
           initial: J
         formatted_initials:
-          content: R J
+          content: J
           language:
           - en
           script:

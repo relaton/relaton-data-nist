@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN86
 title:
-- content: The NBS meteor-burst propagation project :a progress report
+- content: |-
+    The NBS meteor-burst propagation project :
+    a progress report
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Charles E
+        - content: Charles
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

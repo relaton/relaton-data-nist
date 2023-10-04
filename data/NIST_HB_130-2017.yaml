@@ -29,7 +29,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Linda D
+        - content: Linda
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           script:
           - Latn
       surname:
@@ -46,7 +51,12 @@ contributor:
     name:
       given:
         forename:
-        - content: David A
+        - content: David
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:

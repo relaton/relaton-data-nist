@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR81-2342
 title:
-- content: FEDSOL :program user's manual and economic optimization guide for solar
-    federal buildings projects
+- content: |-
+    FEDSOL :
+    program user's manual and economic optimization guide for solar federal buildings projects
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Jeanne W
+        - content: Jeanne
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard C
+        - content: Richard
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           language:
           - en
           script:

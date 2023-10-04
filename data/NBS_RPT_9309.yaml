@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT9309
 title:
-- content: Thermal insulation in buildings :preprint for the May 23, 1966 meeting
-    of the Society of American Military Engineers at the National Bureau of Standards,
-    Gaithersburg, Maryland
+- content: |-
+    Thermal insulation in buildings :
+    preprint for the May 23, 1966 meeting of the Society of American Military Engineers at the National Bureau of Standards, Gaithersburg, Maryland
   language:
   - en
   script:
@@ -30,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Frank J
+        - content: Frank
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           language:
           - en
           script:

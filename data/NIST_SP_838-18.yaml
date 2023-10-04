@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP838-18
 title:
-- content: Building & fire research laboratory :activities, accomplishments & recognitions
-    2003
+- content: |-
+    Building & fire research laboratory :
+    activities, accomplishments & recognitions 2003
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Kellie A
+        - content: Kellie
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: James E
+        - content: James
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

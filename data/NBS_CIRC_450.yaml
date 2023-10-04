@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC450
 title:
-- content: Circular of the Bureau of Standards no. 450:underground corrosion
+- content: |-
+    Circular of the Bureau of Standards no. 450:
+    underground corrosion
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Kirk H
+        - content: Kirk
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           script:
           - Latn
       surname:

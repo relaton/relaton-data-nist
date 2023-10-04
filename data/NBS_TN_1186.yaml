@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN1186
 title:
-- content: Interpolation formulas for viscosity of six gases :air, nitrogen, carbon
-    dioxide, helium, argon, and oxygen
+- content: |-
+    Interpolation formulas for viscosity of six gases :
+    air, nitrogen, carbon dioxide, helium, argon, and oxygen
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Frank E
+        - content: Frank
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

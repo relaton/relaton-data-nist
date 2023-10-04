@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR8411
 title:
-- content: The albatross about our neck :the state of our oceans revealed through
-    the family Diomedeidae
+- content: |-
+    The albatross about our neck :
+    the state of our oceans revealed through the family Diomedeidae
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Stacy S
+        - content: Stacy
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           script:
           - Latn
       surname:

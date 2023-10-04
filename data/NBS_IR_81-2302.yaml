@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR81-2302
 title:
-- content: The positional set processor :a tool for data modeling
+- content: |-
+    The positional set processor :
+    a tool for data modeling
   language:
   - en
   script:
@@ -28,7 +30,13 @@ contributor:
     name:
       given:
         forename:
-        - content: W Terry
+        - language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: 'W '
           language:
           - en
           script:
@@ -45,7 +53,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Sandra B
+        - content: Sandra
+          language:
+          - en
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           language:
           - en
           script:

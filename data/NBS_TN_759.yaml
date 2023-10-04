@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN759
 title:
-- content: The NBS lead paint poisoning project :Housing and other aspects
+- content: |-
+    The NBS lead paint poisoning project :
+    Housing and other aspects
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Harvey W
+        - content: Harvey
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           language:
           - en
           script:

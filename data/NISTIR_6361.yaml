@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6361
 title:
-- content: Optimization of polymer concrete composites:final report
+- content: |-
+    Optimization of polymer concrete composites:
+    final report
   language:
   - en
   script:
@@ -67,7 +69,12 @@ contributor:
     name:
       given:
         forename:
-        - content: James R
+        - content: James
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           script:
           - Latn
       surname:

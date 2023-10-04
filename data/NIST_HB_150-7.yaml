@@ -42,7 +42,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Martha M
+        - content: Martha
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:

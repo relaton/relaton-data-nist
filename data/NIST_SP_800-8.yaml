@@ -28,7 +28,13 @@ contributor:
     name:
       given:
         forename:
-        - content: W Timothy
+        - language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: 'W '
           language:
           - en
           script:
@@ -49,7 +55,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Lawrence E, III
+        - content: Lawrence
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT8987
 title:
-- content: A study of the feasibility of development of computer based systems for
-    semi-automated comparisons of building designs and regulatory code criteria :a
-    computer-based code checking system
+- content: |-
+    A study of the feasibility of development of computer based systems for semi-automated comparisons of building designs and regulatory code criteria :
+    a computer-based code checking system
   language:
   - en
   script:
@@ -30,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Gary K
+        - content: Gary
+          language:
+          - en
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K
           language:
           - en
           script:

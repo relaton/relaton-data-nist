@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP422v2
 title:
-- content: Accuracy in trace analysis :sampling, sample handling, analysis Volume
-    II
+- content: |-
+    Accuracy in trace analysis :
+    sampling, sample handling, analysis Volume II
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Philip D
+        - content: Philip
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           language:
           - en
           script:

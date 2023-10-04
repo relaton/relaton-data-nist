@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT6227
 title:
-- content: American Standards Association, Inc. :its functions, history, and relation
-    to the Department of Commerce and to the National Bureau of Standards
+- content: |-
+    American Standards Association, Inc. :
+    its functions, history, and relation to the Department of Commerce and to the National Bureau of Standards
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Hazel S
+        - content: Hazel
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           language:
           - en
           script:

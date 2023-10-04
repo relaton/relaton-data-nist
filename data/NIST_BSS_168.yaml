@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTBSS168
 title:
-- content: Periodic and chaotic motions of a modified stoker column :experimental
-    and numerical results
+- content: |-
+    Periodic and chaotic motions of a modified stoker column :
+    experimental and numerical results
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Graham R
+        - content: Graham
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           language:
           - en
           script:

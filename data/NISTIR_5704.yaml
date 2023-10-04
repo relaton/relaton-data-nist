@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR5704
 title:
-- content: EMISS:a program for estimating local air pollution emission factors related
-    to energy use in buildings, user's guide and reference manual
+- content: |-
+    EMISS:
+    a program for estimating local air pollution emission factors related to energy use in buildings, user's guide and reference manual
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Stephen R
+        - content: Stephen
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           script:
           - Latn
       surname:

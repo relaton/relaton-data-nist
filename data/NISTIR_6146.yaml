@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6146
 title:
-- content: Nuisance alarms in aircraft cargo areas and critical telecommunication
-    systems:proceedings of the Third NIST Fire Director Workshop
+- content: |-
+    Nuisance alarms in aircraft cargo areas and critical telecommunication systems:
+    proceedings of the Third NIST Fire Director Workshop
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: William L
+        - content: William
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:

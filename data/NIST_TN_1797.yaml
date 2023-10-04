@@ -28,7 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Jason D.
+        - content: Jason
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D.
           script:
           - Latn
       surname:
@@ -62,7 +67,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Raymond T. Jr.
+        - content: Raymond
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: 'T. '
           script:
           - Latn
       surname:
@@ -164,7 +174,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Kathy A.
+        - content: Kathy
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
           script:
           - Latn
       surname:
@@ -181,7 +196,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Kathryn M.
+        - content: Kathryn
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
           script:
           - Latn
       surname:

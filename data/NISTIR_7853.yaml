@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7853
 title:
-- content: 'IREX III :spuulement I : failure analysis'
+- content: |-
+    IREX III :
+    spuulement I : failure analysis
   language:
   - en
   script:
@@ -28,19 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: G W
+        - content: G
           language:
-          - en
-          script:
-          - Latn
-          initial: G
-        - language:
           - en
           script:
           - Latn
           initial: W
         formatted_initials:
-          content: G W
+          content: W
           language:
           - en
           script:
@@ -57,8 +54,7 @@ contributor:
     name:
       given:
         forename:
-        - content: P
-          language:
+        - language:
           - en
           script:
           - Latn

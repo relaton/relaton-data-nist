@@ -28,7 +28,13 @@ contributor:
     name:
       given:
         forename:
-        - content: C Michael
+        - language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: 'C '
           language:
           - en
           script:
@@ -79,7 +85,14 @@ contributor:
     name:
       given:
         forename:
-        - content: John W
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           language:
           - en
           script:

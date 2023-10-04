@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6986
 title:
-- content: International collaborative project to evaluate fire models for nuclear
-    power plant applications:summary of 5th meeting
+- content: |-
+    International collaborative project to evaluate fire models for nuclear power plant applications:
+    summary of 5th meeting
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Monideep K
+        - content: Monideep
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K
           script:
           - Latn
       surname:

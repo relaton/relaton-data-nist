@@ -54,7 +54,12 @@ contributor:
     name:
       given:
         forename:
-        - content: John H
+        - content: John
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           script:
           - Latn
       surname:
@@ -67,7 +72,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Barbara C
+        - content: Barbara
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           script:
           - Latn
       surname:

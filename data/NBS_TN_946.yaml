@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN946
 title:
-- content: Urea-formaldehyde based foam insulations :an assessment of their properties
-    and performance
+- content: |-
+    Urea-formaldehyde based foam insulations :
+    an assessment of their properties and performance
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Walter J
+        - content: Walter
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           language:
           - en
           script:

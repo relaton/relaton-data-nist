@@ -29,7 +29,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Svetlana Z.
+        - content: Svetlana
+          script:
+          - Latn
+          initial: Z
+        formatted_initials:
+          content: Z.
           script:
           - Latn
       surname:
@@ -63,7 +68,11 @@ contributor:
     name:
       given:
         forename:
-        - content: A. Ant
+        - script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: 'A. '
           script:
           - Latn
       surname:
@@ -80,7 +89,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Ayse P.
+        - content: Ayse
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P.
           script:
           - Latn
       surname:
@@ -97,7 +111,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Michael C.
+        - content: Michael
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C.
           script:
           - Latn
       surname:
@@ -131,7 +150,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Emily S.
+        - content: Emily
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
           script:
           - Latn
       surname:
@@ -148,7 +172,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Vicki R.
+        - content: Vicki
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R.
           script:
           - Latn
       surname:

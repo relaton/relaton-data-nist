@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6099a
 title:
-- content: ATP eligibility criteria for foreign-owned, U.S. incorporated or U.S. -organized
-    companies :legislation, implementation and results
+- content: |-
+    ATP eligibility criteria for foreign-owned, U.S. incorporated or U.S. -organized companies :
+    legislation, implementation and results
   language:
   - en
   script:
@@ -29,7 +30,19 @@ contributor:
     name:
       given:
         forename:
-        - content: Connie K N
+        - content: Connie
+          language:
+          - en
+          script:
+          - Latn
+          initial: K
+        - language:
+          - en
+          script:
+          - Latn
+          initial: N
+        formatted_initials:
+          content: K N
           language:
           - en
           script:

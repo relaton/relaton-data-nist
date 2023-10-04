@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR86-3345
 title:
-- content: 1986 meeting of the Americas Branch of the Electrophoresis Society :March
-    26 - 28, 1986 proceedings
+- content: |-
+    1986 meeting of the Americas Branch of the Electrophoresis Society :
+    March 26 - 28, 1986 proceedings
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Dennis J
+        - content: Dennis
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           language:
           - en
           script:

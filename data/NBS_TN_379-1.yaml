@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN379-1
 title:
-- content: Standard time and frequency :generation, control, and dissemination from
-    the National Bureau of Standards Time and Frequency Division
+- content: |-
+    Standard time and frequency :
+    generation, control, and dissemination from the National Bureau of Standards Time and Frequency Division
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: John B
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           language:
           - en
           script:

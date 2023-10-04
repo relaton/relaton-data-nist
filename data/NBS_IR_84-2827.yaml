@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR84-2827
 title:
-- content: Comparing software development methodologies for Ada :a study plan
+- content: |-
+    Comparing software development methodologies for Ada :
+    a study plan
   language:
   - en
   script:
@@ -45,7 +47,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Raymond C
+        - content: Raymond
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           language:
           - en
           script:

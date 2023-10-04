@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT9985
 title:
-- content: The crystal structure of CaCO sub 3 . 6H sub 2 O at -120 degrees C :progress
-    report
+- content: |-
+    The crystal structure of CaCO sub 3 . 6H sub 2 O at -120 degrees C :
+    progress report
   language:
   - en
   script:
@@ -46,7 +47,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Walter E
+        - content: Walter
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

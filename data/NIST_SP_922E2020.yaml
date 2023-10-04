@@ -28,7 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Lane C
+        - content: Lane
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           script:
           - Latn
       surname:
@@ -45,7 +50,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Stephen A
+        - content: Stephen
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:

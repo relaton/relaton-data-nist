@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN446
 title:
-- content: PRECISE :a multiple precision version of Omnitab
+- content: |-
+    PRECISE :
+    a multiple precision version of Omnitab
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Alfred E
+        - content: Alfred
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

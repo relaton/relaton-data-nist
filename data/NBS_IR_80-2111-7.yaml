@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR80-2111-7
 title:
-- content: 'Review and refinement of ATC 3-06 tentative seismic provisions :report
-    of Technical Committee 7 : wood'
+- content: |-
+    Review and refinement of ATC 3-06 tentative seismic provisions :
+    report of Technical Committee 7 : wood
   language:
   - en
   script:
@@ -29,7 +30,19 @@ contributor:
     name:
       given:
         forename:
-        - content: Charles W C
+        - content: Charles
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        - language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: W C
           language:
           - en
           script:

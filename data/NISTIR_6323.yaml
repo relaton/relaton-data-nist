@@ -29,7 +29,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Marc R
+        - content: Marc
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           script:
           - Latn
       surname:
@@ -42,7 +47,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Stephanie R
+        - content: Stephanie
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           script:
           - Latn
       surname:

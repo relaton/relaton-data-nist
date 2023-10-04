@@ -130,7 +130,11 @@ contributor:
     name:
       given:
         forename:
-        - content: L Max
+        - script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: 'L '
           script:
           - Latn
       surname:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7006
 title:
-- content: Flammability tests of full-scale mattresses:gas burners versus burning
-    bedclothes
+- content: |-
+    Flammability tests of full-scale mattresses:
+    gas burners versus burning bedclothes
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Thomas J
+        - content: Thomas
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           script:
           - Latn
       surname:

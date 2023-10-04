@@ -29,7 +29,13 @@ contributor:
     name:
       given:
         forename:
-        - content: L Dow
+        - language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: 'L '
           language:
           - en
           script:
@@ -46,7 +52,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Allan K
+        - content: Allan
+          language:
+          - en
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K
           language:
           - en
           script:

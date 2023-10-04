@@ -29,7 +29,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Walter J Jr
+        - content: Walter
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: 'J '
           script:
           - Latn
       surname:
@@ -55,7 +60,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Mary E
+        - content: Mary
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           script:
           - Latn
       surname:

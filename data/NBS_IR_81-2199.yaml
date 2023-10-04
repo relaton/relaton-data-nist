@@ -62,7 +62,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Timothy A
+        - content: Timothy
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:
@@ -96,7 +103,19 @@ contributor:
     name:
       given:
         forename:
-        - content: Charles W C
+        - content: Charles
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        - language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: W C
           language:
           - en
           script:

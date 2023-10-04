@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR4853
 title:
-- content: Conformity assessment workshop:mobile machinery
+- content: |-
+    Conformity assessment workshop:
+    mobile machinery
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Robert L
+        - content: Robert
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:

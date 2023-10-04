@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSMONO100
 title:
-- content: Trace characterization :chemical and physical
+- content: |-
+    Trace characterization :
+    chemical and physical
   language:
   - en
   script:
@@ -28,7 +30,13 @@ contributor:
     name:
       given:
         forename:
-        - content: W Wayne
+        - language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: 'W '
           language:
           - en
           script:
@@ -45,7 +53,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Bourdon F
+        - content: Bourdon
+          language:
+          - en
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN348
 title:
-- content: Infrared reflectances of metals at cryogenic temperatures :a compilation
-    from the literature
+- content: |-
+    Infrared reflectances of metals at cryogenic temperatures :
+    a compilation from the literature
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Philip F
+        - content: Philip
+          language:
+          - en
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           language:
           - en
           script:

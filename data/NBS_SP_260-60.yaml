@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP260-60
 title:
-- content: Standard Reference MaterialsA reference method for the determination of
-    sodium in serum
+- content: |-
+    Standard Reference Materials
+    A reference method for the determination of sodium in serum
   language:
   - en
   script:
@@ -46,7 +47,14 @@ contributor:
     name:
       given:
         forename:
-        - content: John R
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           language:
           - en
           script:
@@ -63,7 +71,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Robert C
+        - content: Robert
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           language:
           - en
           script:
@@ -80,7 +95,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Rance A
+        - content: Rance
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:

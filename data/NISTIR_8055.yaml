@@ -131,7 +131,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Scott Z.
+        - content: Scott
+          script:
+          - Latn
+          initial: Z
+        formatted_initials:
+          content: Z.
           script:
           - Latn
       surname:

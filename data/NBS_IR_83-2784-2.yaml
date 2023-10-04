@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR83-2784-2
 title:
-- content: The automated office - an environment for productive work, or an information
-    factory? :executive summary
+- content: |-
+    The automated office - an environment for productive work, or an information factory? :
+    executive summary
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Arthur I
+        - content: Arthur
+          language:
+          - en
+          script:
+          - Latn
+          initial: I
+        formatted_initials:
+          content: I
           language:
           - en
           script:

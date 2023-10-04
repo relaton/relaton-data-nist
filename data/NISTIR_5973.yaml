@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR5973
 title:
-- content: Summary report:symposium on computation thermochemistry
+- content: |-
+    Summary report:
+    symposium on computation thermochemistry
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Karl K
+        - content: Karl
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K
           script:
           - Latn
       surname:
@@ -41,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: David J
+        - content: David
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           script:
           - Latn
       surname:

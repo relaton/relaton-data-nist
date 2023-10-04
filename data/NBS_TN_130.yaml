@@ -28,8 +28,7 @@ contributor:
     name:
       given:
         forename:
-        - content: S
-          language:
+        - language:
           - en
           script:
           - Latn
@@ -52,7 +51,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Hans M
+        - content: Hans
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           language:
           - en
           script:

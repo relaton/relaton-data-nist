@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6186
 title:
-- content: Phase II final report:air transportable expeditionary crane (ATEC) project
+- content: |-
+    Phase II final report:
+    air transportable expeditionary crane (ATEC) project
   language:
   - en
   script:
@@ -54,7 +56,12 @@ contributor:
     name:
       given:
         forename:
-        - content: James S
+        - content: James
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           script:
           - Latn
       surname:

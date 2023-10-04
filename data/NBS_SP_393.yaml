@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP393
 title:
-- content: Colorimetry and spectrophotometry :a bibliography of NBS publications January
-    1906 through January 1973
+- content: |-
+    Colorimetry and spectrophotometry :
+    a bibliography of NBS publications January 1906 through January 1973
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Kenneth L
+        - content: Kenneth
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           language:
           - en
           script:

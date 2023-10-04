@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT3274
 title:
-- content: Fire detection in aircraft engine nacelles :covering period 25 January
-    to 25 April 1954
+- content: |-
+    Fire detection in aircraft engine nacelles :
+    covering period 25 January to 25 April 1954
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Henry E
+        - content: Henry
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:
@@ -46,19 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: C S
+        - content: C
           language:
-          - en
-          script:
-          - Latn
-          initial: C
-        - language:
           - en
           script:
           - Latn
           initial: S
         formatted_initials:
-          content: C S
+          content: S
           language:
           - en
           script:

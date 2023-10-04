@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR74-506
 title:
-- content: Development of a national anthropometric data base :a preliminary study
-    report
+- content: |-
+    Development of a national anthropometric data base :
+    a preliminary study report
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Harold L
+        - content: Harold
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           language:
           - en
           script:

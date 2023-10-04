@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT9937
 title:
-- content: Evaluation of the weathering characteristics of the type 2 aluminized steels:final
-    report
+- content: |-
+    Evaluation of the weathering characteristics of the type 2 aluminized steels:
+    final report
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Joseph W
+        - content: Joseph
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           script:
           - Latn
       surname:

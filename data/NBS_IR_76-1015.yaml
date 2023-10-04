@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR76-1015
 title:
-- content: Management of data elements in information processing :Proceedings of a
-    second symposium sponsored by the American National Standards Institute and by
-    the National Bureau of Standards
+- content: |-
+    Management of data elements in information processing :
+    Proceedings of a second symposium sponsored by the American National Standards Institute and by the National Bureau of Standards
   language:
   - en
   script:
@@ -30,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Hazel E
+        - content: Hazel
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

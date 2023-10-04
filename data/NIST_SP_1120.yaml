@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP1120
 title:
-- content: The NIST Center for Neutron Research :over 40 years serving NISTNBS and
-    the nation
+- content: |-
+    The NIST Center for Neutron Research :
+    over 40 years serving NISTNBS and the nation
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: John J
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Ronald L
+        - content: Ronald
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT10568
 title:
-- content: Test and evaluation of the prefabricated Lewis building and it's components:phase
-    II
+- content: |-
+    Test and evaluation of the prefabricated Lewis building and it's components:
+    phase II
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Edgar V
+        - content: Edgar
+          script:
+          - Latn
+          initial: V
+        formatted_initials:
+          content: V
           script:
           - Latn
       surname:

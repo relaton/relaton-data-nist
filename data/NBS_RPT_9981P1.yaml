@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT9981p1
 title:
-- content: Metallurgical examination and mechanical tests of material from the Point
-    Pleasant, W. Va. Bridge:part 1. examination of fractures and adjacent material
-    in C13 Eye of Eyebar C11-C13 NN
+- content: |-
+    Metallurgical examination and mechanical tests of material from the Point Pleasant, W. Va. Bridge:
+    part 1. examination of fractures and adjacent material in C13 Eye of Eyebar C11-C13 NN
   language:
   - en
   script:
@@ -30,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: John A
+        - content: John
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:

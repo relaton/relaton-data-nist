@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7712
 title:
-- content: Approaches and best practices :data collection of audio dialogues to support
-    the training of speech-to-speech translation systems
+- content: |-
+    Approaches and best practices :
+    data collection of audio dialogues to support the training of speech-to-speech translation systems
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Brian A
+        - content: Brian
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:

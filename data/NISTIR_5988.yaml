@@ -28,7 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Geoffrey J
+        - content: Geoffrey
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           script:
           - Latn
       surname:
@@ -41,7 +46,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Jonathan W
+        - content: Jonathan
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           script:
           - Latn
       surname:

@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP1019-5
 title:
-- content: Fire dynamics simulator (version 5) :user's guide
+- content: |-
+    Fire dynamics simulator (version 5) :
+    user's guide
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Kevin B
+        - content: Kevin
+          language:
+          - en
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           language:
           - en
           script:
@@ -79,7 +88,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Jason E
+        - content: Jason
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

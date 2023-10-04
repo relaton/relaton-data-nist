@@ -41,7 +41,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Walter S, Jr
+        - content: Walter
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           script:
           - Latn
       surname:

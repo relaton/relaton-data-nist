@@ -28,7 +28,13 @@ contributor:
     name:
       given:
         forename:
-        - content: S Rao
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: 'S '
           language:
           - en
           script:
@@ -45,7 +51,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Henry F
+        - content: Henry
+          language:
+          - en
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           language:
           - en
           script:
@@ -62,19 +75,14 @@ contributor:
     name:
       given:
         forename:
-        - content: S L
+        - content: S
           language:
-          - en
-          script:
-          - Latn
-          initial: S
-        - language:
           - en
           script:
           - Latn
           initial: L
         formatted_initials:
-          content: S L
+          content: L
           language:
           - en
           script:

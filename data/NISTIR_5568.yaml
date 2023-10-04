@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR5568
 title:
-- content: Carbon monoxide production in compartment fires:reduced-scale enclosure
-    test facility
+- content: |-
+    Carbon monoxide production in compartment fires:
+    reduced-scale enclosure test facility
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: William M
+        - content: William
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:

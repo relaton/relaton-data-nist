@@ -41,7 +41,11 @@ contributor:
     name:
       given:
         forename:
-        - content: P David
+        - script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: 'P '
           script:
           - Latn
       surname:

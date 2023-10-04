@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR86-3394
 title:
-- content: NBS Research Information Center :handbook for NBS staff
+- content: |-
+    NBS Research Information Center :
+    handbook for NBS staff
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Lenore S
+        - content: Lenore
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           language:
           - en
           script:

@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR5188
 title:
-- content: Elastic scattering of electrons and positrons by atoms:database ELAST
+- content: |-
+    Elastic scattering of electrons and positrons by atoms:
+    database ELAST
   language:
   - en
   script:
@@ -28,8 +30,7 @@ contributor:
     name:
       given:
         forename:
-        - content: R
-          script:
+        - script:
           - Latn
           initial: R
         formatted_initials:
@@ -46,8 +47,7 @@ contributor:
     name:
       given:
         forename:
-        - content: A
-          script:
+        - script:
           - Latn
           initial: A
         formatted_initials:

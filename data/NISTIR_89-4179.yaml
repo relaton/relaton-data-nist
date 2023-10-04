@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR89-4179
 title:
-- content: An automated maintenance management program part II:the integration of
-    databases and image processing results for the quantitative assessment of the
-    exterior condition of metal building
+- content: |-
+    An automated maintenance management program part II:
+    the integration of databases and image processing results for the quantitative assessment of the exterior condition of metal building
   language:
   - en
   script:
@@ -30,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Lawrence J
+        - content: Lawrence
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           script:
           - Latn
       surname:
@@ -43,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Jonathan W
+        - content: Jonathan
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           script:
           - Latn
       surname:
@@ -56,7 +66,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Michael M
+        - content: Michael
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:

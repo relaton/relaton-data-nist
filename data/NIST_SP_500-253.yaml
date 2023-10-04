@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP500-253
 title:
-- content: GLUTTk :OpenGL with TclTk
+- content: |-
+    GLUTTk :
+    OpenGL with TclTk
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Joseph C
+        - content: Joseph
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           language:
           - en
           script:

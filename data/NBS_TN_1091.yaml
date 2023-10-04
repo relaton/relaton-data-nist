@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN1091
 title:
-- content: Interelement interactions in phased arrays :theory, methods of data analysis,
-    and theoretical simulation
+- content: |-
+    Interelement interactions in phased arrays :
+    theory, methods of data analysis, and theoretical simulation
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Lorant A
+        - content: Lorant
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:

@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTTN1401
 title:
-- content: Exam:A two-state thermodynamic analysis Program
+- content: |-
+    Exam:
+    A two-state thermodynamic analysis Program
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: William H
+        - content: William
+          language:
+          - en
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           language:
           - en
           script:

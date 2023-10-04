@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC412
 title:
-- content: Circular of the Bureau of Standards no. 412:silver- its properties and
-    industrial uses
+- content: |-
+    Circular of the Bureau of Standards no. 412:
+    silver- its properties and industrial uses
   language:
   - en
   script:
@@ -29,15 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: B A
+        - content: B
           script:
-          - Latn
-          initial: B
-        - script:
           - Latn
           initial: A
         formatted_initials:
-          content: B A
+          content: A
           script:
           - Latn
       surname:
@@ -50,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Irl C
+        - content: Irl
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           script:
           - Latn
       surname:

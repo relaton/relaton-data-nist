@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP1800-34
 title:
-- content: Supply chain assurance :validating the integrity of computing devices
+- content: |-
+    Supply chain assurance :
+    validating the integrity of computing devices
   language:
   - en
   script:
@@ -96,7 +98,12 @@ contributor:
     name:
       given:
         forename:
-        - content: William T
+        - content: William
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           script:
           - Latn
       surname:

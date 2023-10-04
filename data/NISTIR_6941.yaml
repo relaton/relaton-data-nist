@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6941
 title:
-- content: Review of residential sprinkler systems:research and standards
+- content: |-
+    Review of residential sprinkler systems:
+    research and standards
   language:
   - en
   script:
@@ -41,7 +43,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Russell P
+        - content: Russell
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P
           script:
           - Latn
       surname:

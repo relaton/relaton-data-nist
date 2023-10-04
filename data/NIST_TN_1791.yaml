@@ -28,7 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Nathan D.
+        - content: Nathan
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D.
           script:
           - Latn
       surname:

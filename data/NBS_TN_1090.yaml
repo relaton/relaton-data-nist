@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN1090
 title:
-- content: Finline diode six-port :fundamentals and design information
+- content: |-
+    Finline diode six-port :
+    fundamentals and design information
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Manly P
+        - content: Manly
+          language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P
           language:
           - en
           script:

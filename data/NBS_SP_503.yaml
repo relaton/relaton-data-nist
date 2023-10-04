@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP503
 title:
-- content: Computer science and statistics :tenth annual symposium on the interface
+- content: |-
+    Computer science and statistics :
+    tenth annual symposium on the interface
   language:
   - en
   script:
@@ -45,7 +47,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Dennis W
+        - content: Dennis
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           language:
           - en
           script:

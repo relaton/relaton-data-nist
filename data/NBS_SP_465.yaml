@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP465
 title:
-- content: Science and technology in America :an assessment
+- content: |-
+    Science and technology in America :
+    an assessment
   language:
   - en
   script:
@@ -62,7 +64,14 @@ contributor:
     name:
       given:
         forename:
-        - content: William O
+        - content: William
+          language:
+          - en
+          script:
+          - Latn
+          initial: O
+        formatted_initials:
+          content: O
           language:
           - en
           script:
@@ -130,7 +139,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Robert C
+        - content: Robert
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           language:
           - en
           script:

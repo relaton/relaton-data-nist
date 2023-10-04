@@ -28,7 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Stephen A.
+        - content: Stephen
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
           script:
           - Latn
       surname:
@@ -62,7 +67,15 @@ contributor:
     name:
       given:
         forename:
-        - content: Andrew C.E.
+        - content: Andrew
+          script:
+          - Latn
+          initial: C
+        - script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: C.E.
           script:
           - Latn
       surname:
@@ -79,7 +92,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Rhonald C.
+        - content: Rhonald
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C.
           script:
           - Latn
       surname:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7724
 title:
-- content: A next generation electrodynamic shaker for the primary calibration of
-    accelerometers :the NIST and AFMETCAL super shaker project
+- content: |-
+    A next generation electrodynamic shaker for the primary calibration of accelerometers :
+    the NIST and AFMETCAL super shaker project
   language:
   - en
   script:
@@ -46,7 +47,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Kari K
+        - content: Kari
+          language:
+          - en
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K
           language:
           - en
           script:

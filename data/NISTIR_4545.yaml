@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR4545
 title:
-- content: Computer security:selected articles
+- content: |-
+    Computer security:
+    selected articles
   language:
   - en
   script:
@@ -41,7 +43,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Elizabeth B
+        - content: Elizabeth
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           script:
           - Latn
       surname:

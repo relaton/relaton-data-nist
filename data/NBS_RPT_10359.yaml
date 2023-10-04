@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT10359
 title:
-- content: Automobile tire sounds - acoustical grading system feasibility:2. Coastby
-    study
+- content: |-
+    Automobile tire sounds - acoustical grading system feasibility:
+    2. Coastby study
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Arthur I
+        - content: Arthur
+          script:
+          - Latn
+          initial: I
+        formatted_initials:
+          content: I
           script:
           - Latn
       surname:
@@ -42,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Ronald L
+        - content: Ronald
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:
@@ -55,7 +66,12 @@ contributor:
     name:
       given:
         forename:
-        - content: John S
+        - content: John
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           script:
           - Latn
       surname:

@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP260-127
 title:
-- content: Standard Reference Materials :Standard reference material 1747 /
+- content: |-
+    Standard Reference Materials :
+    Standard reference material 1747 /
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Ahmet T
+        - content: Ahmet
+          language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           language:
           - en
           script:
@@ -45,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Gregory F
+        - content: Gregory
+          language:
+          - en
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT9543
 title:
-- content: FHA wall system performance covering heat, air and moisture penetration
-    and resulting physical deflection caused by the environment:interim report
+- content: |-
+    FHA wall system performance covering heat, air and moisture penetration and resulting physical deflection caused by the environment:
+    interim report
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Thomas K
+        - content: Thomas
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K
           script:
           - Latn
       surname:

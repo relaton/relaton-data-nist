@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT9981p2
 title:
-- content: Metallurgical examination and mechanical tests of material from the Point
-    Pleasant, W. Va. Bridge:part 2
+- content: |-
+    Metallurgical examination and mechanical tests of material from the Point Pleasant, W. Va. Bridge:
+    part 2
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: John A
+        - content: John
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:

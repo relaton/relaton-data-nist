@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR5878
 title:
-- content: Fire safety engineering in the pursuit of performance-based codes:collected
-    papers
+- content: |-
+    Fire safety engineering in the pursuit of performance-based codes:
+    collected papers
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard W
+        - content: Richard
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           script:
           - Latn
       surname:

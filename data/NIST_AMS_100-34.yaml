@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTAMS100-34
 title:
-- content: Economics of manufacturing machinery maintenance:a survey and analysis
-    of U.S. costs and benefits
+- content: |-
+    Economics of manufacturing machinery maintenance:
+    a survey and analysis of U.S. costs and benefits
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Douglas S
+        - content: Douglas
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           script:
           - Latn
       surname:
@@ -46,7 +52,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Brian A
+        - content: Brian
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:

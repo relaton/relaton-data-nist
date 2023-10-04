@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC488sec4
 title:
-- content: Circular of the Bureau of Standards no. 488 section 4:an ultraviolet multiplet
-    table- finding list for spectra of the elements hydrogen to niobium (Z=1 to 41)
+- content: |-
+    Circular of the Bureau of Standards no. 488 section 4:
+    an ultraviolet multiplet table- finding list for spectra of the elements hydrogen to niobium (Z=1 to 41)
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Charlotte E
+        - content: Charlotte
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           script:
           - Latn
       surname:

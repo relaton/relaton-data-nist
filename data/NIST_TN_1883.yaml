@@ -80,7 +80,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Tracy A.
+        - content: Tracy
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
           script:
           - Latn
       surname:

@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6620
 title:
-- content: Halogenated hydrocarbons and their mixtures:a decade of progress in calorimetry
+- content: |-
+    Halogenated hydrocarbons and their mixtures:
+    a decade of progress in calorimetry
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Joseph W
+        - content: Joseph
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           script:
           - Latn
       surname:

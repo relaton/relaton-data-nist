@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSLCIRC921
 title:
-- content: 'Letter Circular 921:leather gloves: general information'
+- content: |-
+    Letter Circular 921:
+    leather gloves: general information
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Elizabeth R
+        - content: Elizabeth
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           script:
           - Latn
       surname:
@@ -41,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Robert B
+        - content: Robert
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           script:
           - Latn
       surname:

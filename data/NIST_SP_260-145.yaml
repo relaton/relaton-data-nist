@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP260-145
 title:
-- content: Standard Reference MaterialsStandard Reference Material 2538 for polarization-mode
-    dispersion (non-mode-coupled)
+- content: |-
+    Standard Reference Materials
+    Standard Reference Material 2538 for polarization-mode dispersion (non-mode-coupled)
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Shelley M
+        - content: Shelley
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           language:
           - en
           script:
@@ -63,7 +71,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Paul A
+        - content: Paul
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:

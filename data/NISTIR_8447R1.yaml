@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR8447r1
 title:
-- content: Food Nutrition and Safety Measurements Quality Assurance Program:Exercise
-    1 Final Report
+- content: |-
+    Food Nutrition and Safety Measurements Quality Assurance Program:
+    Exercise 1 Final Report
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Melissa M
+        - content: Melissa
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:

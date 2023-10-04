@@ -29,7 +29,13 @@ contributor:
     name:
       given:
         forename:
-        - content: A Emre
+        - language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: 'A '
           language:
           - en
           script:
@@ -46,7 +52,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Harry A
+        - content: Harry
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:
@@ -63,7 +76,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard A
+        - content: Richard
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:
@@ -80,7 +100,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Mona E Zaghloul
+        - content: Mona
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: 'E '
           language:
           - en
           script:
@@ -97,7 +124,14 @@ contributor:
     name:
       given:
         forename:
-        - content: David L
+        - content: David
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           language:
           - en
           script:

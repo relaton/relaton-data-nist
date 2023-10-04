@@ -28,7 +28,19 @@ contributor:
     name:
       given:
         forename:
-        - content: Francis C W
+        - content: Francis
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        - language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: C W
           language:
           - en
           script:
@@ -45,7 +57,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard H
+        - content: Richard
+          language:
+          - en
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           language:
           - en
           script:

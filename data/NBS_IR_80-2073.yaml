@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR80-2073
 title:
-- content: Guidelines for exchangeable APT data packages :final report
+- content: |-
+    Guidelines for exchangeable APT data packages :
+    final report
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Bradford M
+        - content: Bradford
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           language:
           - en
           script:

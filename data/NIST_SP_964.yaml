@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP964
 title:
-- content: Index to the reports of the National Conference on Weights and Measures
-    :from the first to the eighty-fifth (1905 to 2000)
+- content: |-
+    Index to the reports of the National Conference on Weights and Measures :
+    from the first to the eighty-fifth (1905 to 2000)
   language:
   - en
   script:
@@ -80,7 +81,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Henry V
+        - content: Henry
+          language:
+          - en
+          script:
+          - Latn
+          initial: V
+        formatted_initials:
+          content: V
           language:
           - en
           script:

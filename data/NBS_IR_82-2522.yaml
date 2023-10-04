@@ -29,7 +29,14 @@ contributor:
     name:
       given:
         forename:
-        - content: John P
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P
           language:
           - en
           script:
@@ -46,7 +53,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Kent A
+        - content: Kent
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:

@@ -41,7 +41,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Fraces E
+        - content: Fraces
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           script:
           - Latn
       surname:
@@ -54,8 +59,7 @@ contributor:
     name:
       given:
         forename:
-        - content: J
-          script:
+        - script:
           - Latn
           initial: J
         formatted_initials:
@@ -72,15 +76,12 @@ contributor:
     name:
       given:
         forename:
-        - content: M D
+        - content: M
           script:
-          - Latn
-          initial: M
-        - script:
           - Latn
           initial: D
         formatted_initials:
-          content: M D
+          content: D
           script:
           - Latn
       surname:

@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT4037
 title:
-- content: Shrinkage stresses in masonry walls :progress report no. 2
+- content: |-
+    Shrinkage stresses in masonry walls :
+    progress report no. 2
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Sven D
+        - content: Sven
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           language:
           - en
           script:
@@ -45,8 +54,7 @@ contributor:
     name:
       given:
         forename:
-        - content: D
-          language:
+        - language:
           - en
           script:
           - Latn
@@ -69,8 +77,7 @@ contributor:
     name:
       given:
         forename:
-        - content: S
-          language:
+        - language:
           - en
           script:
           - Latn

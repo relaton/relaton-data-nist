@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR74-500
 title:
-- content: The CODASYL data base approach :a COBOL example of design and use of a
-    personnel file
+- content: |-
+    The CODASYL data base approach :
+    a COBOL example of design and use of a personnel file
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Edgar H
+        - content: Edgar
+          language:
+          - en
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           language:
           - en
           script:

@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSLCIRC371
 title:
-- content: Letter Circular 371:city planning commissions in the United States
+- content: |-
+    Letter Circular 371:
+    city planning commissions in the United States
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Lester G
+        - content: Lester
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G
           script:
           - Latn
       surname:

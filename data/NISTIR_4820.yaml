@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR4820
 title:
-- content: Validated products list 1992 no.2:programming languages, database language
-    SQL, graphics, GOSIP, POSIX, security
+- content: |-
+    Validated products list 1992 no.2:
+    programming languages, database language SQL, graphics, GOSIP, POSIX, security
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Judy B
+        - content: Judy
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           script:
           - Latn
       surname:

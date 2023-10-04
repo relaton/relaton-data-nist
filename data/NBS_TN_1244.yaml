@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN1244
 title:
-- content: Thermodynamic properties of halides, hydrides, and deuterides of cobalt,
-    iron, and nickel :I. literature citations
+- content: |-
+    Thermodynamic properties of halides, hydrides, and deuterides of cobalt, iron, and nickel :
+    I. literature citations
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Cynthia R
+        - content: Cynthia
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           language:
           - en
           script:

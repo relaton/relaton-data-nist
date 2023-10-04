@@ -28,7 +28,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Fred F
+        - content: Fred
+          language:
+          - en
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           language:
           - en
           script:
@@ -45,7 +52,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Simone L
+        - content: Simone
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6874
 title:
-- content: User preferences for life-cycle decision support tools:evaluation of a
-    survey of BEES users
+- content: |-
+    User preferences for life-cycle decision support tools:
+    evaluation of a survey of BEES users
   language:
   - en
   script:
@@ -42,7 +43,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Barbara C
+        - content: Barbara
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           script:
           - Latn
       surname:
@@ -55,7 +61,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Jane C
+        - content: Jane
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           script:
           - Latn
       surname:
@@ -68,7 +79,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Amy S
+        - content: Amy
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           script:
           - Latn
       surname:

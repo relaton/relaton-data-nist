@@ -29,7 +29,13 @@ contributor:
     name:
       given:
         forename:
-        - content: S Wayne
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: 'S '
           language:
           - en
           script:
@@ -46,7 +52,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Clark W
+        - content: Clark
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           language:
           - en
           script:
@@ -63,7 +76,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Donald W
+        - content: Donald
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           language:
           - en
           script:

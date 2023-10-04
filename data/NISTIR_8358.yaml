@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR8358
 title:
-- content: Deconstructing UML, part 1 :modeling classes with categories
+- content: |-
+    Deconstructing UML, part 1 :
+    modeling classes with categories
   language:
   - en
   script:
@@ -79,7 +81,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Ram D
+        - content: Ram
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           script:
           - Latn
       surname:

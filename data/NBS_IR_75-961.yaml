@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR75-961
 title:
-- content: The police patrol car :economic efficiency in acquisition, operation, and
-    disposition
+- content: |-
+    The police patrol car :
+    economic efficiency in acquisition, operation, and disposition
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Rosalie T
+        - content: Rosalie
+          language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           language:
           - en
           script:

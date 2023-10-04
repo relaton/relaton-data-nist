@@ -62,7 +62,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Steven P
+        - content: Steven
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P
           script:
           - Latn
       surname:
@@ -79,7 +84,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Mary F
+        - content: Mary
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           script:
           - Latn
       surname:

@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR75-747
 title:
-- content: Building energy authority and regulations survey :state activity
+- content: |-
+    Building energy authority and regulations survey :
+    state activity
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Robert M
+        - content: Robert
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           language:
           - en
           script:

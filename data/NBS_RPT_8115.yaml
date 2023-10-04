@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT8115
 title:
-- content: Performance test of a "Dustfoe" deep-bedisposable air filter, model B-2000
-    :manufactured by Mine Safety Appliances Company Pittsburgh, Pennsylvania
+- content: |-
+    Performance test of a "Dustfoe" deep-bedisposable air filter, model B-2000 :
+    manufactured by Mine Safety Appliances Company Pittsburgh, Pennsylvania
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Joseph C
+        - content: Joseph
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Paul R
+        - content: Paul
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           language:
           - en
           script:

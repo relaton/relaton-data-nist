@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR5987
 title:
-- content: Hurricane Marilyn in the Caribbean:measured wind speeds and design wind
-    speeds compared
+- content: |-
+    Hurricane Marilyn in the Caribbean:
+    measured wind speeds and design wind speeds compared
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard D
+        - content: Richard
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           script:
           - Latn
       surname:
@@ -42,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: John L
+        - content: John
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:

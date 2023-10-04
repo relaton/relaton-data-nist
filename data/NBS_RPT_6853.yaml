@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT6853
 title:
-- content: Analysis of pyrolyzates of polymers by gas chromatography:I. Pyrolysis
-    of polystyrene and poly(methyl methacrylate) at 400 to 1100 degrees C, progress
-    report
+- content: |-
+    Analysis of pyrolyzates of polymers by gas chromatography:
+    I. Pyrolysis of polystyrene and poly(methyl methacrylate) at 400 to 1100 degrees C, progress report
   language:
   - en
   script:
@@ -30,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Frank A
+        - content: Frank
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:
@@ -43,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Gerhard M
+        - content: Gerhard
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:

@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT10218
 title:
-- content: Performance requirements and guide criteria for finish floors:proposed
-    changes in NBS guide criteria for the design and evaluation of Operation Breakthrough
-    housing systems
+- content: |-
+    Performance requirements and guide criteria for finish floors:
+    proposed changes in NBS guide criteria for the design and evaluation of Operation Breakthrough housing systems
   language:
   - en
   script:
@@ -30,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Winthrop C
+        - content: Winthrop
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           script:
           - Latn
       surname:

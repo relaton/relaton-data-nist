@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NBSNSRDS28
 title:
-- content: Molten salts :volume 2. section 1. electrochemistry of molten salts, gibbs
-    free energies and excess free energies from equilibrium-type cells, section 2.
-    surface tension data
+- content: |-
+    Molten salts :
+    volume 2. section 1. electrochemistry of molten salts, gibbs free energies and excess free energies from equilibrium-type cells, section 2. surface tension data
   language:
   - en
   script:
@@ -30,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: George J
+        - content: George
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           language:
           - en
           script:
@@ -47,19 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: G M
+        - content: G
           language:
-          - en
-          script:
-          - Latn
-          initial: G
-        - language:
           - en
           script:
           - Latn
           initial: M
         formatted_initials:
-          content: G M
+          content: M
           language:
           - en
           script:
@@ -76,19 +78,14 @@ contributor:
     name:
       given:
         forename:
-        - content: G R
+        - content: G
           language:
-          - en
-          script:
-          - Latn
-          initial: G
-        - language:
           - en
           script:
           - Latn
           initial: R
         formatted_initials:
-          content: G R
+          content: R
           language:
           - en
           script:
@@ -105,13 +102,8 @@ contributor:
     name:
       given:
         forename:
-        - content: R P T
+        - content: R
           language:
-          - en
-          script:
-          - Latn
-          initial: R
-        - language:
           - en
           script:
           - Latn
@@ -122,7 +114,7 @@ contributor:
           - Latn
           initial: T
         formatted_initials:
-          content: R P T
+          content: P T
           language:
           - en
           script:
@@ -139,8 +131,7 @@ contributor:
     name:
       given:
         forename:
-        - content: J
-          language:
+        - language:
           - en
           script:
           - Latn

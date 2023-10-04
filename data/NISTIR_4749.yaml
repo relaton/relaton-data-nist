@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR4749
 title:
-- content: Sample statements of work for Federal computer security services:for use
-    in-house or contracting out
+- content: |-
+    Sample statements of work for Federal computer security services:
+    for use in-house or contracting out
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Dennis M
+        - content: Dennis
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:

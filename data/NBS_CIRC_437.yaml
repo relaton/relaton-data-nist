@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC437
 title:
-- content: Circular of the Bureau of Standards no. 437:optical and mechanical characteristics
-    of 16-millimeter motion-picture projectors
+- content: |-
+    Circular of the Bureau of Standards no. 437:
+    optical and mechanical characteristics of 16-millimeter motion-picture projectors
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Robert E
+        - content: Robert
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           script:
           - Latn
       surname:

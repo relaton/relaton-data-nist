@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR8417
 title:
-- content: Workshop report :novel and emerging test methods and metrics for effective
-    HRI, ACMIEEE Conference on Human-Robot Interaction, 2021
+- content: |-
+    Workshop report :
+    novel and emerging test methods and metrics for effective HRI, ACMIEEE Conference on Human-Robot Interaction, 2021
   language:
   - en
   script:
@@ -46,7 +47,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Jeremy A
+        - content: Jeremy
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:

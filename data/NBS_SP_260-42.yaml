@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP260-42
 title:
-- content: Standard Reference Materials :The characterization of linear polyethylene
-    SRM 1475/
+- content: |-
+    Standard Reference Materials :
+    The characterization of linear polyethylene SRM 1475/
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Peter H
+        - content: Peter
+          language:
+          - en
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Herman L
+        - content: Herman
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           language:
           - en
           script:

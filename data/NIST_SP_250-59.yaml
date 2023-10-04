@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP250-59
 title:
-- content: NIST computer time services :Internet Time Service (ITS), Automated Computer
-    Time Service (ACTS), and time.gov web sites
+- content: |-
+    NIST computer time services :
+    Internet Time Service (ITS), Automated Computer Time Service (ACTS), and time.gov web sites
   language:
   - en
   script:
@@ -46,7 +47,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Michael A
+        - content: Michael
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:
@@ -63,7 +71,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Andrew N
+        - content: Andrew
+          language:
+          - en
+          script:
+          - Latn
+          initial: N
+        formatted_initials:
+          content: N
           language:
           - en
           script:

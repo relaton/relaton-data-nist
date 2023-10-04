@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6539
 title:
-- content: Fire research needs workshop proceedings:Emmitsburg, Maryland, October
-    20, 1999
+- content: |-
+    Fire research needs workshop proceedings:
+    Emmitsburg, Maryland, October 20, 1999
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: William D
+        - content: William
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           script:
           - Latn
       surname:
@@ -55,7 +61,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Nora H
+        - content: Nora
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           script:
           - Latn
       surname:

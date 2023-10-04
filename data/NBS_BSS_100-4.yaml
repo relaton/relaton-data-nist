@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSBSS100-4
 title:
-- content: Building to resist the effect of wind in five volumes volume 4. forecasting
-    the economics of housing needs :a methodological guide
+- content: |-
+    Building to resist the effect of wind in five volumes volume 4. forecasting the economics of housing needs :
+    a methodological guide
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Joseph G
+        - content: Joseph
+          language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G
           language:
           - en
           script:

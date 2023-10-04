@@ -29,7 +29,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Stephen R
+        - content: Stephen
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           language:
           - en
           script:
@@ -46,7 +53,13 @@ contributor:
     name:
       given:
         forename:
-        - content: A Hunter
+        - language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: 'A '
           language:
           - en
           script:

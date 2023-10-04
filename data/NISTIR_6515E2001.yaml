@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6515e2001
 title:
-- content: Annual listing:North American Quality System Registration Organizations
-    (NAQSRO)
+- content: |-
+    Annual listing:
+    North American Quality System Registration Organizations (NAQSRO)
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Michael E
+        - content: Michael
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           script:
           - Latn
       surname:

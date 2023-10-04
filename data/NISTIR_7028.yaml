@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7028
 title:
-- content: Quality manual template:type evaluation laboratory, developed for U.S.
-    type evaluation laboratories
+- content: |-
+    Quality manual template:
+    type evaluation laboratory, developed for U.S. type evaluation laboratories
   language:
   - en
   script:
@@ -29,7 +30,11 @@ contributor:
     name:
       given:
         forename:
-        - content: G Diane
+        - script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: 'G '
           script:
           - Latn
       surname:

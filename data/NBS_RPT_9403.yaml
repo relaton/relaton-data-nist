@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT9403
 title:
-- content: Performance test of an M-104 glass fiber renewable filter media :manufactured
-    by American Air Filter Company Louisville, Kentucky
+- content: |-
+    Performance test of an M-104 glass fiber renewable filter media :
+    manufactured by American Air Filter Company Louisville, Kentucky
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Charles M
+        - content: Charles
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           language:
           - en
           script:

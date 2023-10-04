@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR74-395
 title:
-- content: Bibliography of the electromagnetics division :June 30, 1973 to June 30,
-    1974
+- content: |-
+    Bibliography of the electromagnetics division :
+    June 30, 1973 to June 30, 1974
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Margaret L
+        - content: Margaret
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           language:
           - en
           script:

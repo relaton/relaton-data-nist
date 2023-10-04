@@ -80,7 +80,13 @@ contributor:
     name:
       given:
         forename:
-        - content: S Paul
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: 'S '
           language:
           - en
           script:

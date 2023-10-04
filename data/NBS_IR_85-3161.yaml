@@ -29,7 +29,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Edgar V
+        - content: Edgar
+          language:
+          - en
+          script:
+          - Latn
+          initial: V
+        formatted_initials:
+          content: V
           language:
           - en
           script:
@@ -46,7 +53,14 @@ contributor:
     name:
       given:
         forename:
-        - content: George E
+        - content: George
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:
@@ -63,7 +77,13 @@ contributor:
     name:
       given:
         forename:
-        - content: S George
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: 'S '
           language:
           - en
           script:

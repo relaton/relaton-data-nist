@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP260-197
 title:
-- content: Certification of standard reference material 2193b:calcium carbonate [used
-    as saturated Ca(OH)2 solution]
+- content: |-
+    Certification of standard reference material 2193b:
+    calcium carbonate [used as saturated Ca(OH)2 solution]
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Regina A
+        - content: Regina
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:
@@ -46,7 +52,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Jason F
+        - content: Jason
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           script:
           - Latn
       surname:
@@ -63,7 +74,12 @@ contributor:
     name:
       given:
         forename:
-        - content: William F
+        - content: William
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           script:
           - Latn
       surname:

@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7297c
 title:
-- content: FS-TST 2.0 :forensic software testing support tools code review report
+- content: |-
+    FS-TST 2.0 :
+    forensic software testing support tools code review report
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Paul E
+        - content: Paul
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

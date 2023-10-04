@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6139
 title:
-- content: Initial manufacturing Exchange Specification (IMES):requirements analysis
-    for the plant layout application
+- content: |-
+    Initial manufacturing Exchange Specification (IMES):
+    requirements analysis for the plant layout application
   language:
   - en
   script:
@@ -29,7 +30,11 @@ contributor:
     name:
       given:
         forename:
-        - content: Y Tina
+        - script:
+          - Latn
+          initial: Y
+        formatted_initials:
+          content: 'Y '
           script:
           - Latn
       surname:

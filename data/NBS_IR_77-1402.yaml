@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR77-1402
 title:
-- content: The National Cancer Institute's emergency virus isolation facility :a case
-    study for use in developing a methodology of post-occupancy evaluation
+- content: |-
+    The National Cancer Institute's emergency virus isolation facility :
+    a case study for use in developing a methodology of post-occupancy evaluation
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: George E
+        - content: George
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:
@@ -63,7 +71,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Arthur I
+        - content: Arthur
+          language:
+          - en
+          script:
+          - Latn
+          initial: I
+        formatted_initials:
+          content: I
           language:
           - en
           script:

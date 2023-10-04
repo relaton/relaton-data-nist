@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP250-73
 title:
-- content: NIST measurement services :NIST calibration services for water flowmeters
-    water flow calibration facility
+- content: |-
+    NIST measurement services :
+    NIST calibration services for water flowmeters water flow calibration facility
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Iosif I
+        - content: Iosif
+          language:
+          - en
+          script:
+          - Latn
+          initial: I
+        formatted_initials:
+          content: I
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Iryna V
+        - content: Iryna
+          language:
+          - en
+          script:
+          - Latn
+          initial: V
+        formatted_initials:
+          content: V
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR85-3273-37
 title:
-- content: Energy price indices and discount factors for life-cycle cost analysis
-    2022 :annual supplement to NIST Handbook 135
+- content: |-
+    Energy price indices and discount factors for life-cycle cost analysis 2022 :
+    annual supplement to NIST Handbook 135
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Joshua D
+        - content: Joshua
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           script:
           - Latn
       surname:
@@ -46,7 +52,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Priya D
+        - content: Priya
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           script:
           - Latn
       surname:

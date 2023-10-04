@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT5791
 title:
-- content: Refinement of the hydroxypatite structure:progress report
+- content: |-
+    Refinement of the hydroxypatite structure:
+    progress report
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Aaron S
+        - content: Aaron
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           script:
           - Latn
       surname:
@@ -41,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Alfred F
+        - content: Alfred
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           script:
           - Latn
       surname:

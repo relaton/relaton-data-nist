@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR86-3360
 title:
-- content: Workshop on fire protection technology :a record of the U. S. papers prepared
-    for the Workshop on Fire Protection Technology held in Cairo, Egypt, April 27-28,
-    1986
+- content: |-
+    Workshop on fire protection technology :
+    a record of the U. S. papers prepared for the Workshop on Fire Protection Technology held in Cairo, Egypt, April 27-28, 1986
   language:
   - en
   script:
@@ -30,7 +30,19 @@ contributor:
     name:
       given:
         forename:
-        - content: Kurt F J
+        - content: Kurt
+          language:
+          - en
+          script:
+          - Latn
+          initial: F
+        - language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: F J
           language:
           - en
           script:
@@ -47,7 +59,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Andrew J
+        - content: Andrew
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           language:
           - en
           script:
@@ -64,7 +83,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Doris M
+        - content: Doris
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           language:
           - en
           script:

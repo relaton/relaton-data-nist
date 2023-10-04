@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT5937
 title:
-- content: Dimensional changes occurring in artificial dentures during and subsequent
-    to processing:progress report
+- content: |-
+    Dimensional changes occurring in artificial dentures during and subsequent to processing:
+    progress report
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Julian B
+        - content: Julian
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           script:
           - Latn
       surname:
@@ -42,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: William T
+        - content: William
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           script:
           - Latn
       surname:

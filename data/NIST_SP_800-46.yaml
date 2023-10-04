@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP800-46
 title:
-- content: Security for telecommuting and broadband communications :recommendations
-    of the National Institute of Standards and Technology
+- content: |-
+    Security for telecommuting and broadband communications :
+    recommendations of the National Institute of Standards and Technology
   language:
   - en
   script:
@@ -29,7 +30,13 @@ contributor:
     name:
       given:
         forename:
-        - content: D Richard
+        - language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: 'D '
           language:
           - en
           script:
@@ -50,7 +57,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Miles C
+        - content: Miles
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           language:
           - en
           script:
@@ -71,7 +85,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Sheila E
+        - content: Sheila
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

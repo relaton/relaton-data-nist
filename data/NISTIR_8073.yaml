@@ -47,7 +47,11 @@ contributor:
     name:
       given:
         forename:
-        - content: M. Yaqub
+        - script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: 'M. '
           script:
           - Latn
       surname:

@@ -46,7 +46,13 @@ contributor:
     name:
       given:
         forename:
-        - content: D Richard
+        - language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: 'D '
           language:
           - en
           script:
@@ -80,7 +86,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard M
+        - content: Richard
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           language:
           - en
           script:
@@ -114,7 +127,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Michael K
+        - content: Michael
+          language:
+          - en
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K
           language:
           - en
           script:

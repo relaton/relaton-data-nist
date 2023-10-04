@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6071
 title:
-- content: Computer integrated knowledge system (CIKS) for construction materials,
-    components, and systems:proposed framework
+- content: |-
+    Computer integrated knowledge system (CIKS) for construction materials, components, and systems:
+    proposed framework
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Thomas Y
+        - content: Thomas
+          script:
+          - Latn
+          initial: Y
+        formatted_initials:
+          content: Y
           script:
           - Latn
       surname:
@@ -42,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Lawrence J
+        - content: Lawrence
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           script:
           - Latn
       surname:

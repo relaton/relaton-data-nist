@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP260-110
 title:
-- content: Standard Reference Materials :Portland cement chemical composition standards
-    (blending, packaging, and testing)/
+- content: |-
+    Standard Reference Materials :
+    Portland cement chemical composition standards (blending, packaging, and testing)/
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Howard M
+        - content: Howard
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           language:
           - en
           script:
@@ -46,7 +54,13 @@ contributor:
     name:
       given:
         forename:
-        - content: R Keith
+        - language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: 'R '
           language:
           - en
           script:

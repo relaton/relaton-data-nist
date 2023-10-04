@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7783
 title:
-- content: Reconstructing the past from imprecise knowledge of the present :some examples
-    of non uniqueness in solving parabolic equations backward in time
+- content: |-
+    Reconstructing the past from imprecise knowledge of the present :
+    some examples of non uniqueness in solving parabolic equations backward in time
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Alfred S
+        - content: Alfred
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           language:
           - en
           script:

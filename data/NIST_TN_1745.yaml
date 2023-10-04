@@ -42,7 +42,11 @@ contributor:
     name:
       given:
         forename:
-        - content: Y. Tina
+        - script:
+          - Latn
+          initial: Y
+        formatted_initials:
+          content: 'Y. '
           script:
           - Latn
       surname:

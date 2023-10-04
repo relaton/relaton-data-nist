@@ -29,7 +29,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Ronald S.
+        - content: Ronald
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
           script:
           - Latn
       surname:
@@ -46,7 +51,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Kelley L.
+        - content: Kelley
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L.
           script:
           - Latn
       surname:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN75
 title:
-- content: Soviet research in field electron and ion emission, 1955-1959 :an annotated
-    bibliography
+- content: |-
+    Soviet research in field electron and ion emission, 1955-1959 :
+    an annotated bibliography
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Tibor W
+        - content: Tibor
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           language:
           - en
           script:

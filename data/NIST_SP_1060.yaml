@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP1060
 title:
-- content: 2006 NIST Center for Neutron Research :accomplishments and opportunities
+- content: |-
+    2006 NIST Center for Neutron Research :
+    accomplishments and opportunities
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Ronald L
+        - content: Ronald
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           language:
           - en
           script:

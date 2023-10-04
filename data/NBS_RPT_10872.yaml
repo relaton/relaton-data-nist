@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT10872
 title:
-- content: Integrated safeguards experiment :Campaign 2 report
+- content: |-
+    Integrated safeguards experiment :
+    Campaign 2 report
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Frederick J
+        - content: Frederick
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           language:
           - en
           script:
@@ -45,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Charles N
+        - content: Charles
+          language:
+          - en
+          script:
+          - Latn
+          initial: N
+        formatted_initials:
+          content: N
           language:
           - en
           script:

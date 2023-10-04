@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR85-3273-21
 title:
-- content: Energy price indices and discount factors for life-cycle cost analysis
-    - April 2006 :annual supplement to NIST Handbook 135 and NBS Special Publication
-    709
+- content: |-
+    Energy price indices and discount factors for life-cycle cost analysis - April 2006 :
+    annual supplement to NIST Handbook 135 and NBS Special Publication 709
   language:
   - en
   script:
@@ -30,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Amy S
+        - content: Amy
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           language:
           - en
           script:
@@ -47,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Sieglinde K
+        - content: Sieglinde
+          language:
+          - en
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K
           language:
           - en
           script:

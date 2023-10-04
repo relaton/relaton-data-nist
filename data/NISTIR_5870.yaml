@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR5870
 title:
-- content: Shear design of high-strength concrete beams:a review of the state-of-the-art
+- content: |-
+    Shear design of high-strength concrete beams:
+    a review of the state-of-the-art
   language:
   - en
   script:
@@ -41,7 +43,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Nicholas J
+        - content: Nicholas
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           script:
           - Latn
       surname:

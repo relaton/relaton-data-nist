@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7978
 title:
-- content: IREX IV :part 2 - compression profiles for iris image compression
+- content: |-
+    IREX IV :
+    part 2 - compression profiles for iris image compression
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: George W
+        - content: George
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           language:
           - en
           script:
@@ -45,8 +54,7 @@ contributor:
     name:
       given:
         forename:
-        - content: P
-          language:
+        - language:
           - en
           script:
           - Latn
@@ -69,8 +77,7 @@ contributor:
     name:
       given:
         forename:
-        - content: M
-          language:
+        - language:
           - en
           script:
           - Latn

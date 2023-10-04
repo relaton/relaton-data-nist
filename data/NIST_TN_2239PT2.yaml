@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTTN2239pt2
 title:
-- content: NIST Alternatives for Resilient Communities (NIST ARC) Software ToolUse
-    and Demonstration
+- content: |-
+    NIST Alternatives for Resilient Communities (NIST ARC) Software Tool
+    Use and Demonstration
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Kenneth W
+        - content: Kenneth
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           script:
           - Latn
       surname:

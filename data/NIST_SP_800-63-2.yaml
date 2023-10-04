@@ -28,7 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: William E.
+        - content: William
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E.
           script:
           - Latn
       surname:
@@ -45,7 +50,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Donna F.
+        - content: Donna
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F.
           script:
           - Latn
       surname:
@@ -62,7 +72,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Elaine M.
+        - content: Elaine
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
           script:
           - Latn
       surname:
@@ -79,7 +94,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Ray A.
+        - content: Ray
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
           script:
           - Latn
       surname:
@@ -96,7 +116,11 @@ contributor:
     name:
       given:
         forename:
-        - content: W. Timothy
+        - script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: 'W. '
           script:
           - Latn
       surname:
@@ -130,7 +154,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Ebad A.
+        - content: Ebad
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
           script:
           - Latn
       surname:

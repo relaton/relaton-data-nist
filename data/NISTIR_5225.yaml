@@ -28,7 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Howard M
+        - content: Howard
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:
@@ -41,7 +46,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Larry W
+        - content: Larry
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           script:
           - Latn
       surname:

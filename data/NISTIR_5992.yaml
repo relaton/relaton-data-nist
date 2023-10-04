@@ -28,7 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Michael J
+        - content: Michael
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           script:
           - Latn
       surname:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSMONO49
 title:
-- content: Tables of Einstein functions :vibrational contributions to the thermodynamic
-    functions
+- content: |-
+    Tables of Einstein functions :
+    vibrational contributions to the thermodynamic functions
   language:
   - en
   script:
@@ -46,7 +47,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Guy G
+        - content: Guy
+          language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G
           language:
           - en
           script:

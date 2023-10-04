@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7695
 title:
-- content: Common platform enumeration :naming specification version 2.3
+- content: |-
+    Common platform enumeration :
+    naming specification version 2.3
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Brant A
+        - content: Brant
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:

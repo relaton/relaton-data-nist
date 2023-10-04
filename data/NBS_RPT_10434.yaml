@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT10434
 title:
-- content: A search and rescue simulation model for the United States Coast Guard
-    :volume V - programmer level documentation for "postprocessor
+- content: |-
+    A search and rescue simulation model for the United States Coast Guard :
+    volume V - programmer level documentation for "postprocessor
   language:
   - en
   script:
@@ -29,8 +30,7 @@ contributor:
     name:
       given:
         forename:
-        - content: W
-          language:
+        - language:
           - en
           script:
           - Latn
@@ -53,19 +53,14 @@ contributor:
     name:
       given:
         forename:
-        - content: S S
+        - content: S
           language:
           - en
           script:
           - Latn
           initial: S
-        - language:
-          - en
-          script:
-          - Latn
-          initial: S
         formatted_initials:
-          content: S S
+          content: S
           language:
           - en
           script:

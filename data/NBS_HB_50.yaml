@@ -28,7 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Harold O
+        - content: Harold
+          script:
+          - Latn
+          initial: O
+        formatted_initials:
+          content: O
           script:
           - Latn
       surname:
@@ -41,7 +46,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Lauriston S
+        - content: Lauriston
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           script:
           - Latn
       surname:

@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR87-3672
 title:
-- content: AMRF database report format :part model
+- content: |-
+    AMRF database report format :
+    part model
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Theodore H
+        - content: Theodore
+          language:
+          - en
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR81-2361
 title:
-- content: Crowd ingress to places of assembly :summary and proceedings of an experts'
-    workshop
+- content: |-
+    Crowd ingress to places of assembly :
+    summary and proceedings of an experts' workshop
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Francis T
+        - content: Francis
+          language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Fred I
+        - content: Fred
+          language:
+          - en
+          script:
+          - Latn
+          initial: I
+        formatted_initials:
+          content: I
           language:
           - en
           script:
@@ -63,7 +78,14 @@ contributor:
     name:
       given:
         forename:
-        - content: George E
+        - content: George
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

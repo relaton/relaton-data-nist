@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT6308
 title:
-- content: Analysis of methyl methacrylate copolymers by gas chromatography:progress
-    report
+- content: |-
+    Analysis of methyl methacrylate copolymers by gas chromatography:
+    progress report
   language:
   - en
   script:
@@ -42,7 +43,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Alphonse F
+        - content: Alphonse
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           script:
           - Latn
       surname:
@@ -55,7 +61,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Claire L
+        - content: Claire
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:

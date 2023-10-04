@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR4367
 title:
-- content: Government's role in standards-related activities:analysis of comments
+- content: |-
+    Government's role in standards-related activities:
+    analysis of comments
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Walter G
+        - content: Walter
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G
           script:
           - Latn
       surname:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6943
 title:
-- content: Program design and firm success in the advanced technology program:project
-    structure and innovation outcomes
+- content: |-
+    Program design and firm success in the advanced technology program:
+    project structure and innovation outcomes
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Michael R
+        - content: Michael
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           script:
           - Latn
       surname:
@@ -42,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Lynne G
+        - content: Lynne
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G
           script:
           - Latn
       surname:
@@ -55,7 +66,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Andrew J
+        - content: Andrew
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           script:
           - Latn
       surname:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6408
 title:
-- content: Standards road map project:criteria analysis, a task of the Manufacturing-Enterprise-Integration
-    Project
+- content: |-
+    Standards road map project:
+    criteria analysis, a task of the Manufacturing-Enterprise-Integration Project
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: James G
+        - content: James
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G
           script:
           - Latn
       surname:
@@ -42,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Neil B
+        - content: Neil
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           script:
           - Latn
       surname:

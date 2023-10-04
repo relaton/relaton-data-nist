@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN7
 title:
-- content: Low- and very low-radiofrequency tables of ground wave parameters for the
-    spherical earth theory :the roots of Riccati's differential equation
+- content: |-
+    Low- and very low-radiofrequency tables of ground wave parameters for the spherical earth theory :
+    the roots of Riccati's differential equation
   language:
   - en
   script:
@@ -29,7 +30,13 @@ contributor:
     name:
       given:
         forename:
-        - content: J Ralph
+        - language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: 'J '
           language:
           - en
           script:

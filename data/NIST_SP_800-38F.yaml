@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP800-38F
 title:
-- content: Recommendation for Block Cipher Modes of Operation:Methods for Key Wrapping
-    (SP 800-38F)
+- content: |-
+    Recommendation for Block Cipher Modes of Operation:
+    Methods for Key Wrapping (SP 800-38F)
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Morris J.
+        - content: Morris
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J.
           language:
           - en
           script:

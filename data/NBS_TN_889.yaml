@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN889
 title:
-- content: Trace hydrocarbon analysis :the National Bureau of Standards Prince William
-    Sound
+- content: |-
+    Trace hydrocarbon analysis :
+    the National Bureau of Standards Prince William Sound
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Stephen N
+        - content: Stephen
+          language:
+          - en
+          script:
+          - Latn
+          initial: N
+        formatted_initials:
+          content: N
           language:
           - en
           script:

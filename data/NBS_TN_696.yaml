@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN696
 title:
-- content: Near-field antenna measurements on a cylindrical surface :a source scattering-matrix
-    foundation
+- content: |-
+    Near-field antenna measurements on a cylindrical surface :
+    a source scattering-matrix foundation
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Arthur D
+        - content: Arthur
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           language:
           - en
           script:

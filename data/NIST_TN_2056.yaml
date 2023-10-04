@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTTN2056
 title:
-- content: LTE handset emissions:radiation pattern measurements final test report
+- content: |-
+    LTE handset emissions:
+    radiation pattern measurements final test report
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Robert D
+        - content: Robert
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           script:
           - Latn
       surname:
@@ -45,7 +52,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Jason B
+        - content: Jason
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           script:
           - Latn
       surname:
@@ -62,7 +74,12 @@ contributor:
     name:
       given:
         forename:
-        - content: John M
+        - content: John
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:

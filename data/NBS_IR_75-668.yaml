@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR75-668
 title:
-- content: Quieting :a home owner's practical guide to noise control
+- content: |-
+    Quieting :
+    a home owner's practical guide to noise control
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Raymond D
+        - content: Raymond
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           language:
           - en
           script:
@@ -45,7 +54,19 @@ contributor:
     name:
       given:
         forename:
-        - content: Edith L R
+        - content: Edith
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        - language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: L R
           language:
           - en
           script:
@@ -62,7 +83,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Morris S
+        - content: Morris
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           language:
           - en
           script:

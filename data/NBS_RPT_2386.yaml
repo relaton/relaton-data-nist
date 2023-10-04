@@ -28,7 +28,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Carl W
+        - content: Carl
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           language:
           - en
           script:
@@ -45,19 +52,14 @@ contributor:
     name:
       given:
         forename:
-        - content: M A
+        - content: M
           language:
-          - en
-          script:
-          - Latn
-          initial: M
-        - language:
           - en
           script:
           - Latn
           initial: A
         formatted_initials:
-          content: M A
+          content: A
           language:
           - en
           script:
@@ -75,18 +77,6 @@ contributor:
       given:
         forename:
         - content: PR
-          language:
-          - en
-          script:
-          - Latn
-          initial: P
-        - language:
-          - en
-          script:
-          - Latn
-          initial: R
-        formatted_initials:
-          content: PR
           language:
           - en
           script:

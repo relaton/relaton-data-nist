@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP500-288v1
 title:
-- content: Specification for WS-Biometric Devices (WS-BD) :version 1
+- content: |-
+    Specification for WS-Biometric Devices (WS-BD) :
+    version 1
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Ross J
+        - content: Ross
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           language:
           - en
           script:

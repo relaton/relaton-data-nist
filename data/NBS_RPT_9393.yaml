@@ -28,7 +28,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Marjorie W
+        - content: Marjorie
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           language:
           - en
           script:
@@ -45,19 +52,14 @@ contributor:
     name:
       given:
         forename:
-        - content: M P
+        - content: M
           language:
-          - en
-          script:
-          - Latn
-          initial: M
-        - language:
           - en
           script:
           - Latn
           initial: P
         formatted_initials:
-          content: M P
+          content: P
           language:
           - en
           script:

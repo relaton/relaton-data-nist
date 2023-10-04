@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTTN1290
 title:
-- content: NIST*Lattice :a program to analyze lattice relationships
+- content: |-
+    NIST*Lattice :
+    a program to analyze lattice relationships
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Alan D
+        - content: Alan
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           language:
           - en
           script:

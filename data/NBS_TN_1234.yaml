@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN1234
 title:
-- content: Thermodynamic properties of a geothermal working fluid :90% isobutane-10%
-    isopentane
+- content: |-
+    Thermodynamic properties of a geothermal working fluid :
+    90% isobutane-10% isopentane
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: John S
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           language:
           - en
           script:

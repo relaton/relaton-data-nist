@@ -28,8 +28,7 @@ contributor:
     name:
       given:
         forename:
-        - content: R
-          language:
+        - language:
           - en
           script:
           - Latn
@@ -52,7 +51,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Preston E
+        - content: Preston
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

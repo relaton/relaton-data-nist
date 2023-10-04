@@ -28,7 +28,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Martin G
+        - content: Martin
+          language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G
           language:
           - en
           script:
@@ -45,19 +52,14 @@ contributor:
     name:
       given:
         forename:
-        - content: C K
+        - content: C
           language:
-          - en
-          script:
-          - Latn
-          initial: C
-        - language:
           - en
           script:
           - Latn
           initial: K
         formatted_initials:
-          content: C K
+          content: K
           language:
           - en
           script:
@@ -74,7 +76,13 @@ contributor:
     name:
       given:
         forename:
-        - content: G Thomas
+        - language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: 'G '
           language:
           - en
           script:

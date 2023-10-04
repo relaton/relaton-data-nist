@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6321
 title:
-- content: The NIST LEIDIR prototype - inserting hypertext links into the POMS using
-    information retrieval:installation guide, user guide and software documentation
+- content: |-
+    The NIST LEIDIR prototype - inserting hypertext links into the POMS using information retrieval:
+    installation guide, user guide and software documentation
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: John M
+        - content: John
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:

@@ -29,8 +29,7 @@ contributor:
     name:
       given:
         forename:
-        - content: L
-          script:
+        - script:
           - Latn
           initial: L
         formatted_initials:
@@ -47,18 +46,15 @@ contributor:
     name:
       given:
         forename:
-        - content: H H K
+        - content: H
           script:
-          - Latn
-          initial: H
-        - script:
           - Latn
           initial: H
         - script:
           - Latn
           initial: K
         formatted_initials:
-          content: H H K
+          content: H K
           script:
           - Latn
       surname:
@@ -71,8 +67,7 @@ contributor:
     name:
       given:
         forename:
-        - content: S
-          script:
+        - script:
           - Latn
           initial: S
         formatted_initials:

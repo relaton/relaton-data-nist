@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN456
 title:
-- content: Analytical mass spectrometry section:summary of activities July 1967 to
-    June 1968.
+- content: |-
+    Analytical mass spectrometry section:
+    summary of activities July 1967 to June 1968.
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: William R
+        - content: William
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           language:
           - en
           script:

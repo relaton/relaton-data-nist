@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT5224
 title:
-- content: Stain indices of twenty-one asphalts :first supplement to NBS Report no.
-    4732 report on the evaluation of twenty-one coating-grade roofing asphalts
+- content: |-
+    Stain indices of twenty-one asphalts :
+    first supplement to NBS Report no. 4732 report on the evaluation of twenty-one coating-grade roofing asphalts
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Sidney H
+        - content: Sidney
+          language:
+          - en
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           language:
           - en
           script:

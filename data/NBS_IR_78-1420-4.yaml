@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR78-1420-4
 title:
-- content: NBS minimal BASIC test programs - Version 1 user's manual :Volume 4 - mathematical
-    and user defined functions, compound expressions
+- content: |-
+    NBS minimal BASIC test programs - Version 1 user's manual :
+    Volume 4 - mathematical and user defined functions, compound expressions
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: David E
+        - content: David
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Charles L
+        - content: Charles
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7071
 title:
-- content: Modeling and simulation for emergency response:workshop report, standards
-    and tools
+- content: |-
+    Modeling and simulation for emergency response:
+    workshop report, standards and tools
   language:
   - en
   script:
@@ -42,7 +43,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Charles R
+        - content: Charles
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           script:
           - Latn
       surname:

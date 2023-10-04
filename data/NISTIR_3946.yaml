@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR3946
 title:
-- content: Metrology for electromagnetic technology :a bibliography of NIST publications
+- content: |-
+    Metrology for electromagnetic technology :
+    a bibliography of NIST publications
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Mary E
+        - content: Mary
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

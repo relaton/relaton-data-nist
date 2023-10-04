@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC474
 title:
-- content: Circular of the Bureau of Standards no. 474:automotive antifreezes
+- content: |-
+    Circular of the Bureau of Standards no. 474:
+    automotive antifreezes
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Donald B
+        - content: Donald
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           script:
           - Latn
       surname:
@@ -41,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Ronald E
+        - content: Ronald
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           script:
           - Latn
       surname:

@@ -28,7 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: William J
+        - content: William
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           script:
           - Latn
       surname:
@@ -67,7 +72,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Gordon H
+        - content: Gordon
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           script:
           - Latn
       surname:

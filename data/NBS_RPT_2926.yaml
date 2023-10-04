@@ -28,7 +28,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Leopold F
+        - content: Leopold
+          language:
+          - en
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           language:
           - en
           script:
@@ -45,8 +52,7 @@ contributor:
     name:
       given:
         forename:
-        - content: D
-          language:
+        - language:
           - en
           script:
           - Latn

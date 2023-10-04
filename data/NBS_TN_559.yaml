@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN559
 title:
-- content: Spectroradiometry and conventional photometry:an interlaboratory comparison
+- content: |-
+    Spectroradiometry and conventional photometry:
+    an interlaboratory comparison
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Donald A
+        - content: Donald
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:

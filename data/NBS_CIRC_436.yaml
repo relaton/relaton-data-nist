@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC436
 title:
-- content: Circular of the Bureau of Standards no. 436:low-cost glazes for structural
-    clay products
+- content: |-
+    Circular of the Bureau of Standards no. 436:
+    low-cost glazes for structural clay products
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Ray T
+        - content: Ray
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           script:
           - Latn
       surname:
@@ -42,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Paul V
+        - content: Paul
+          script:
+          - Latn
+          initial: V
+        formatted_initials:
+          content: V
           script:
           - Latn
       surname:

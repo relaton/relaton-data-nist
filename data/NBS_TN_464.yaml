@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN464
 title:
-- content: The NBS Alloy Data Center:function, bibliographic system, related data
-    centers, and reference books
+- content: |-
+    The NBS Alloy Data Center:
+    function, bibliographic system, related data centers, and reference books
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Gesina C
+        - content: Gesina
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           language:
           - en
           script:

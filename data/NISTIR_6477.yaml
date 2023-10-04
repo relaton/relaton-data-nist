@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6477
 title:
-- content: Advanced technology program information infrastructure for healthcare focused
-    program:a brief history
+- content: |-
+    Advanced technology program information infrastructure for healthcare focused program:
+    a brief history
   language:
   - en
   script:
@@ -42,7 +43,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard N
+        - content: Richard
+          script:
+          - Latn
+          initial: N
+        formatted_initials:
+          content: N
           script:
           - Latn
       surname:

@@ -28,7 +28,14 @@ contributor:
     name:
       given:
         forename:
-        - content: John M
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           language:
           - en
           script:
@@ -45,7 +52,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Mark T
+        - content: Mark
+          language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           language:
           - en
           script:
@@ -62,7 +76,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Bill F
+        - content: Bill
+          language:
+          - en
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           language:
           - en
           script:
@@ -79,19 +100,14 @@ contributor:
     name:
       given:
         forename:
-        - content: M L
+        - content: M
           language:
-          - en
-          script:
-          - Latn
-          initial: M
-        - language:
           - en
           script:
           - Latn
           initial: L
         formatted_initials:
-          content: M L
+          content: L
           language:
           - en
           script:

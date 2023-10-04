@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN236
 title:
-- content: Research on crystal growth and characterization at the National Bureau
-    of Standards :July to December 1963
+- content: |-
+    Research on crystal growth and characterization at the National Bureau of Standards :
+    July to December 1963
   language:
   - en
   script:
@@ -29,7 +30,13 @@ contributor:
     name:
       given:
         forename:
-        - content: H Steffen
+        - language:
+          - en
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: 'H '
           language:
           - en
           script:

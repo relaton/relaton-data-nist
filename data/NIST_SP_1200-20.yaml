@@ -29,7 +29,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Bryant C.
+        - content: Bryant
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C.
           script:
           - Latn
       surname:
@@ -46,7 +51,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Elijah J.
+        - content: Elijah
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J.
           script:
           - Latn
       surname:

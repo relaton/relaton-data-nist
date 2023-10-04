@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTAMS100-25
 title:
-- content: Flow time innovations:the effect on productivity and production in US manufacturing
+- content: |-
+    Flow time innovations:
+    the effect on productivity and production in US manufacturing
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Douglas S
+        - content: Douglas
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           script:
           - Latn
       surname:

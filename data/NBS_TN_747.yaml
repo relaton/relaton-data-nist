@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN747
 title:
-- content: Critical evaluation of data in the physical sciences :A status report on
-    the National Standard Reference Data System June 1972
+- content: |-
+    Critical evaluation of data in the physical sciences :
+    A status report on the National Standard Reference Data System June 1972
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Stephen A
+        - content: Stephen
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:

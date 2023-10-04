@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR85-3286
 title:
-- content: Toxicity of the pyrolysis and combustion of poly(vinyl chlorides) :a literature
-    assessment
+- content: |-
+    Toxicity of the pyrolysis and combustion of poly(vinyl chlorides) :
+    a literature assessment
   language:
   - en
   script:
@@ -46,7 +47,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Barbara C
+        - content: Barbara
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           language:
           - en
           script:

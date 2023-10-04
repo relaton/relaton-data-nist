@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT10656
 title:
-- content: A study of court reporting systems :executive summary
+- content: |-
+    A study of court reporting systems :
+    executive summary
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Ernest H
+        - content: Ernest
+          language:
+          - en
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           language:
           - en
           script:
@@ -45,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Walter G
+        - content: Walter
+          language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G
           language:
           - en
           script:

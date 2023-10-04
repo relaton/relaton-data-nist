@@ -28,7 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Dennis D
+        - content: Dennis
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           script:
           - Latn
       surname:
@@ -68,7 +73,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Alexander L
+        - content: Alexander
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:

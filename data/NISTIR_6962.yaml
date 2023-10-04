@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6962
 title:
-- content: The virtual cement and concrete testing laboratory consortium:annual report
-    2002
+- content: |-
+    The virtual cement and concrete testing laboratory consortium:
+    annual report 2002
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Jeffrey W
+        - content: Jeffrey
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           script:
           - Latn
       surname:

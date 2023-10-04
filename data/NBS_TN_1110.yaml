@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN1110
 title:
-- content: NBS interagency transducer project, 1951-1979 :an overview
+- content: |-
+    NBS interagency transducer project, 1951-1979 :
+    an overview
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Paul S
+        - content: Paul
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           language:
           - en
           script:

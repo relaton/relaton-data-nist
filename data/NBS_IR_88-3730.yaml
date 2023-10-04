@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR88-3730
 title:
-- content: Certification of NBS SRM 1691 :0.3-[mu]m-diameter polystyrene spheres
+- content: |-
+    Certification of NBS SRM 1691 :
+    0.3-[mu]m-diameter polystyrene spheres
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Thomas R
+        - content: Thomas
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           language:
           - en
           script:
@@ -45,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Gary G
+        - content: Gary
+          language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G
           language:
           - en
           script:

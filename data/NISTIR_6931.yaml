@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6931
 title:
-- content: Analysis of the ASTM round-robin test on particle size distribution of
-    Portland cement:phase II
+- content: |-
+    Analysis of the ASTM round-robin test on particle size distribution of Portland cement:
+    phase II
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Chiara F
+        - content: Chiara
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           script:
           - Latn
       surname:
@@ -42,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Vincent A
+        - content: Vincent
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:
@@ -68,7 +79,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Charles E Jr
+        - content: Charles
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: 'E '
           script:
           - Latn
       surname:

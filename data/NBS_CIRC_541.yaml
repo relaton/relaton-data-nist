@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC541
 title:
-- content: Circular of the Bureau of Standards no. 541:a spectrophotometric atlas
-    of the ²Σ-²II transition of OH
+- content: |-
+    Circular of the Bureau of Standards no. 541:
+    a spectrophotometric atlas of the ²Σ-²II transition of OH
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Arnold M
+        - content: Arnold
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:

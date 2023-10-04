@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR5418
 title:
-- content: Workshop on characterizing diamond films III:February 23-24, 1994, Gaithersburg,
-    MD
+- content: |-
+    Workshop on characterizing diamond films III:
+    February 23-24, 1994, Gaithersburg, MD
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Claude A
+        - content: Claude
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:

@@ -29,7 +29,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Tina M
+        - content: Tina
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:

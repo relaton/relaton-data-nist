@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR85-3172
 title:
-- content: package checking field manual to accompany NBS Handbook 133 :checking the
-    net contents of packaged goods
+- content: |-
+    package checking field manual to accompany NBS Handbook 133 :
+    checking the net contents of packaged goods
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Carroll S
+        - content: Carroll
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           language:
           - en
           script:
@@ -63,7 +71,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Mary G
+        - content: Mary
+          language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G
           language:
           - en
           script:

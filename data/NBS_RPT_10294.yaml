@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT10294
 title:
-- content: Mechanical properties - viscoelastic methods :progress report
+- content: |-
+    Mechanical properties - viscoelastic methods :
+    progress report
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Philip L
+        - content: Philip
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           language:
           - en
           script:

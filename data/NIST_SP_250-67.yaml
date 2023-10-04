@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP250-67
 title:
-- content: NIST time and frequency radio stations :WWV, WWVH, and WWVB
+- content: |-
+    NIST time and frequency radio stations :
+    WWV, WWVH, and WWVB
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Glenn K
+        - content: Glenn
+          language:
+          - en
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K
           language:
           - en
           script:
@@ -45,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Michael A
+        - content: Michael
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:
@@ -62,7 +78,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Dean T
+        - content: Dean
+          language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           language:
           - en
           script:

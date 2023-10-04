@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR87-3526
 title:
-- content: Technical activities 1986 :Office of Standard Reference Data
+- content: |-
+    Technical activities 1986 :
+    Office of Standard Reference Data
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: David R
+        - content: David
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           language:
           - en
           script:

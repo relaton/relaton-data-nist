@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6144
 title:
-- content: BEES 1.0:Building for Environmental and Economic Sustainability - technical
-    manual and user guide
+- content: |-
+    BEES 1.0:
+    Building for Environmental and Economic Sustainability - technical manual and user guide
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Barbara C
+        - content: Barbara
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           script:
           - Latn
       surname:

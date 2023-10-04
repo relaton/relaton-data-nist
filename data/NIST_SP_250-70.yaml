@@ -28,7 +28,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Maria E
+        - content: Maria
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:
@@ -45,7 +52,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Edward A
+        - content: Edward
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:
@@ -62,7 +76,13 @@ contributor:
     name:
       given:
         forename:
-        - content: E Ambler
+        - language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: 'E '
           language:
           - en
           script:

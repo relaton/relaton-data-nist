@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP260-89
 title:
-- content: Standard Reference Materials :A fine-grained, isotropic graphite for use
-    as NBS thermophysical property RM's from 5 to 2500 K/
+- content: |-
+    Standard Reference Materials :
+    A fine-grained, isotropic graphite for use as NBS thermophysical property RM's from 5 to 2500 K/
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Jerome G
+        - content: Jerome
+          language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G
           language:
           - en
           script:

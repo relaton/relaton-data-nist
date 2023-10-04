@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR82-2547
 title:
-- content: Electromagnetic nuclear interactions :I. introduction, operators, and sum
-    rules
+- content: |-
+    Electromagnetic nuclear interactions :
+    I. introduction, operators, and sum rules
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: James S
+        - content: James
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           language:
           - en
           script:

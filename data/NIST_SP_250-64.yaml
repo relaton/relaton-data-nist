@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP250-64
 title:
-- content: Calibration service for low-level pulsed-laser radiometers at 1.06 µm :pulse
-    energy and peak power
+- content: |-
+    Calibration service for low-level pulsed-laser radiometers at 1.06 µm :
+    pulse energy and peak power
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Rodney W
+        - content: Rodney
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           language:
           - en
           script:

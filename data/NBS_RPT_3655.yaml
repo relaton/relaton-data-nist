@@ -29,7 +29,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Ruth M
+        - content: Ruth
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:

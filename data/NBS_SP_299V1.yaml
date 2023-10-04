@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP299v1
 title:
-- content: Neutron cross sections and technology :proceedings of a conference, Washington,
-    D.C., March 4-7, 1968, volume I, sessions A-D
+- content: |-
+    Neutron cross sections and technology :
+    proceedings of a conference, Washington, D.C., March 4-7, 1968, volume I, sessions A-D
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: David T
+        - content: David
+          language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT7504
 title:
-- content: Performance tests of Farr replaceable cartridge filters types HP 100 and
-    HP 200 :manufactured by Farr Company Los Angeles, California
+- content: |-
+    Performance tests of Farr replaceable cartridge filters types HP 100 and HP 200 :
+    manufactured by Farr Company Los Angeles, California
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Carl W
+        - content: Carl
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Paul R
+        - content: Paul
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           language:
           - en
           script:

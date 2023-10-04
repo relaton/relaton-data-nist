@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6211
 title:
-- content: Alaska Harbor Seal (Phoca vitulina) contaminants:a review with annotated
-    bibliography
+- content: |-
+    Alaska Harbor Seal (Phoca vitulina) contaminants:
+    a review with annotated bibliography
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Rebecca S
+        - content: Rebecca
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           script:
           - Latn
       surname:
@@ -42,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Paul R
+        - content: Paul
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           script:
           - Latn
       surname:

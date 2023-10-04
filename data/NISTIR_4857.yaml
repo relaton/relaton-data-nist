@@ -28,7 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: John L
+        - content: John
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:
@@ -41,7 +46,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Sashi K
+        - content: Sashi
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K
           script:
           - Latn
       surname:

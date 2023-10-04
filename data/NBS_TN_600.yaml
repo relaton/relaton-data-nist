@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN600
 title:
-- content: Corrections and calculations on an X-ray diffraction line profile :A computer
-    program
+- content: |-
+    Corrections and calculations on an X-ray diffraction line profile :
+    A computer program
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Raymond E
+        - content: Raymond
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

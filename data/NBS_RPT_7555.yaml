@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT7555
 title:
-- content: Performance test of the Blue Balance type automatic renewable filter media
-    :supplied by Electro-Air Cleaner Company McKees Rocks, Pennsylvania
+- content: |-
+    Performance test of the Blue Balance type automatic renewable filter media :
+    supplied by Electro-Air Cleaner Company McKees Rocks, Pennsylvania
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Carl W
+        - content: Carl
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           language:
           - en
           script:

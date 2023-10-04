@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT9699
 title:
-- content: NBS facilities required for future programs in climatic exposure, architectural
-    acoustics, and fire research:special study
+- content: |-
+    NBS facilities required for future programs in climatic exposure, architectural acoustics, and fire research:
+    special study
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Paul R
+        - content: Paul
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           script:
           - Latn
       surname:

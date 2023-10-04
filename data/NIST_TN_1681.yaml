@@ -29,7 +29,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Long T.
+        - content: Long
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T.
           script:
           - Latn
       surname:
@@ -46,7 +51,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Therese P.
+        - content: Therese
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P.
           script:
           - Latn
       surname:
@@ -63,7 +73,12 @@ contributor:
     name:
       given:
         forename:
-        - content: John L.
+        - content: John
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L.
           script:
           - Latn
       surname:
@@ -80,7 +95,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Morgan J.
+        - content: Morgan
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J.
           script:
           - Latn
       surname:

@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP708-1
 title:
-- content: Standard Reference Data Publications:1985-1986
+- content: |-
+    Standard Reference Data Publications:
+    1985-1986
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Joan C
+        - content: Joan
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           script:
           - Latn
       surname:

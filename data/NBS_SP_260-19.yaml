@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP260-19
 title:
-- content: Standard Reference Materials :Analysis of interlaboratory measurements
-    on the vapor pressure of gold (certification of Standard Reference Material 745)/
+- content: |-
+    Standard Reference Materials :
+    Analysis of interlaboratory measurements on the vapor pressure of gold (certification of Standard Reference Material 745)/
   language:
   - en
   script:
@@ -46,7 +47,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Robert C
+        - content: Robert
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           language:
           - en
           script:

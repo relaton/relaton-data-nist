@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT9848
 title:
-- content: Review of information on performance of two types of single-stack, sanitary
-    DWV systems for buildings:supplemental report
+- content: |-
+    Review of information on performance of two types of single-stack, sanitary DWV systems for buildings:
+    supplemental report
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Robert S
+        - content: Robert
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           script:
           - Latn
       surname:

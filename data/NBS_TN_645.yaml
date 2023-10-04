@@ -28,7 +28,13 @@ contributor:
     name:
       given:
         forename:
-        - content: D Wayne
+        - language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: 'D '
           language:
           - en
           script:

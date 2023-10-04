@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSBSS7
 title:
-- content: Organic coatings :properties, selection, and use
+- content: |-
+    Organic coatings :
+    properties, selection, and use
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Aaron G
+        - content: Aaron
+          language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G
           language:
           - en
           script:

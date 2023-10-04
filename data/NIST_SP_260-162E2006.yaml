@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP260-162e2006
 title:
-- content: Standard Reference Materials :Compilation of NIST higher-order methods
-    for the determination of electrolytes in clinical materials/
+- content: |-
+    Standard Reference Materials :
+    Compilation of NIST higher-order methods for the determination of electrolytes in clinical materials/
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Karen E
+        - content: Karen
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Stephen E
+        - content: Stephen
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

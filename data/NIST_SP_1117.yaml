@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP1117
 title:
-- content: Disaster resilience :a guide to the literature
+- content: |-
+    Disaster resilience :
+    a guide to the literature
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Stanley W
+        - content: Stanley
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           language:
           - en
           script:

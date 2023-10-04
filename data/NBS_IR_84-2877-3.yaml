@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR84-2877-3
 title:
-- content: Center for electronics and electrical engineering :technical progress bulletin
-    covering center programs, July - September 1984 with 1985 CEEE events calendar
+- content: |-
+    Center for electronics and electrical engineering :
+    technical progress bulletin covering center programs, July - September 1984 with 1985 CEEE events calendar
   language:
   - en
   script:
@@ -29,7 +30,13 @@ contributor:
     name:
       given:
         forename:
-        - content: J Franklin
+        - language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: 'J '
           language:
           - en
           script:

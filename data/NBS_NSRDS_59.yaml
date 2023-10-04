@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSNSRDS59
 title:
-- content: Selected specific rates of reactions of transients from water in aqueous
-    solution. :III. hydroxyl radical and perhydroxyl radical and their radical ions
+- content: |-
+    Selected specific rates of reactions of transients from water in aqueous solution. :
+    III. hydroxyl radical and perhydroxyl radical and their radical ions
   language:
   - en
   script:
@@ -46,7 +47,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Alberta B
+        - content: Alberta
+          language:
+          - en
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           language:
           - en
           script:

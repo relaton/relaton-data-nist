@@ -29,7 +29,11 @@ contributor:
     name:
       given:
         forename:
-        - content: Y May
+        - script:
+          - Latn
+          initial: Y
+        formatted_initials:
+          content: 'Y '
           script:
           - Latn
       surname:
@@ -42,7 +46,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Summerfield B
+        - content: Summerfield
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           script:
           - Latn
       surname:

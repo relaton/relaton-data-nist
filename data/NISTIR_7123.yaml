@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7123
 title:
-- content: Fingerprint vendor technology evaluation 2003 :summary of results and analysis
-    report
+- content: |-
+    Fingerprint vendor technology evaluation 2003 :
+    summary of results and analysis report
   language:
   - en
   script:
@@ -46,7 +47,13 @@ contributor:
     name:
       given:
         forename:
-        - content: R Austin
+        - language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: 'R '
           language:
           - en
           script:

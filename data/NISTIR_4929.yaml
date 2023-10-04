@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR4929
 title:
-- content: Electronics and Electrical Engineering Laboratory:technical publications
-    announcements covering laboratory programs, October to December 1991, with 19921993
-    EEEL events calendar
+- content: |-
+    Electronics and Electrical Engineering Laboratory:
+    technical publications announcements covering laboratory programs, October to December 1991, with 19921993 EEEL events calendar
   language:
   - en
   script:
@@ -30,15 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: J A
+        - content: J
           script:
-          - Latn
-          initial: J
-        - script:
           - Latn
           initial: A
         formatted_initials:
-          content: J A
+          content: A
           script:
           - Latn
       surname:

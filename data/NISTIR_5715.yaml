@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR5715
 title:
-- content: Optoelectronics and optomechanics manufacturing:an ATP focused program
-    development workshop proceedings, February 15, 1995
+- content: |-
+    Optoelectronics and optomechanics manufacturing:
+    an ATP focused program development workshop proceedings, February 15, 1995
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Thomas R
+        - content: Thomas
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           script:
           - Latn
       surname:
@@ -42,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Victor R
+        - content: Victor
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           script:
           - Latn
       surname:
@@ -55,7 +66,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Jack C
+        - content: Jack
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           script:
           - Latn
       surname:

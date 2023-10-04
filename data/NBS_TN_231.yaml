@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN231
 title:
-- content: Solar heating, radiative cooling and thermal movement:their effects on
-    built-up roofing.
+- content: |-
+    Solar heating, radiative cooling and thermal movement:
+    their effects on built-up roofing.
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: William C
+        - content: William
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           language:
           - en
           script:

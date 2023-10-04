@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR90-4295
 title:
-- content: A proposed integration framework for STEP:standard for the exchange of
-    product model data
+- content: |-
+    A proposed integration framework for STEP:
+    standard for the exchange of product model data
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: William F
+        - content: William
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           script:
           - Latn
       surname:

@@ -28,7 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Robert F.
+        - content: Robert
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F.
           script:
           - Latn
       surname:
@@ -45,7 +50,12 @@ contributor:
     name:
       given:
         forename:
-        - content: James A.
+        - content: James
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
           script:
           - Latn
       surname:

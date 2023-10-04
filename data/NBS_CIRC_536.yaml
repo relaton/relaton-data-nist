@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC536
 title:
-- content: Circular of the Bureau of Standards no. 536:radio frequency power measurements
+- content: |-
+    Circular of the Bureau of Standards no. 536:
+    radio frequency power measurements
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Roald A
+        - content: Roald
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:

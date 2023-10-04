@@ -28,7 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Jacqueline T
+        - content: Jacqueline
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           script:
           - Latn
       surname:
@@ -62,7 +67,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Michael B
+        - content: Michael
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           script:
           - Latn
       surname:
@@ -79,7 +89,11 @@ contributor:
     name:
       given:
         forename:
-        - content: N Alan
+        - script:
+          - Latn
+          initial: N
+        formatted_initials:
+          content: 'N '
           script:
           - Latn
       surname:
@@ -147,7 +161,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Jessica L
+        - content: Jessica
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:

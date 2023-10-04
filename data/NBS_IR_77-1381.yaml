@@ -63,7 +63,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Fred L
+        - content: Fred
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           language:
           - en
           script:

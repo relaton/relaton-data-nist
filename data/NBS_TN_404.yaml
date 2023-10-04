@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN404
 title:
-- content: Radiochemical analysis :activation analysis, instrumentation, radiation
-    techniques, July 1965 through June 1966
+- content: |-
+    Radiochemical analysis :
+    activation analysis, instrumentation, radiation techniques, July 1965 through June 1966
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: James R
+        - content: James
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC572
 title:
-- content: Circular of the Bureau of Standards no. 572:calibration of line standards
-    of length and measuring tapes at the National Bureau of Standards
+- content: |-
+    Circular of the Bureau of Standards no. 572:
+    calibration of line standards of length and measuring tapes at the National Bureau of Standards
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Lewis V
+        - content: Lewis
+          script:
+          - Latn
+          initial: V
+        formatted_initials:
+          content: V
           script:
           - Latn
       surname:

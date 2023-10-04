@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSLCIRC588
 title:
-- content: Letter Circular 588:the National Association of Hosiery Manufactures NAHM
-    snag resistance tester
+- content: |-
+    Letter Circular 588:
+    the National Association of Hosiery Manufactures NAHM snag resistance tester
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Howard E
+        - content: Howard
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           script:
           - Latn
       surname:

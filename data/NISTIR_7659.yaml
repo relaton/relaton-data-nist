@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7659
 title:
-- content: Phase III :evaluation of an acceptance sampling method for 2D3D building
-    plans
+- content: |-
+    Phase III :
+    evaluation of an acceptance sampling method for 2D3D building plans
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Geralding S
+        - content: Geralding
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           language:
           - en
           script:

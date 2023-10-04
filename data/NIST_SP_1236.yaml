@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP1236
 title:
-- content: Large outdoor fires and the built environment:summary of kick-off workshop
+- content: |-
+    Large outdoor fires and the built environment:
+    summary of kick-off workshop
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Samuel L
+        - content: Samuel
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:

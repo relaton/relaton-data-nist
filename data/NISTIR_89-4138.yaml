@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR89-4138
 title:
-- content: Development of a multiple layer test procedure for inclusion in NFPA 701:initial
-    experiments
+- content: |-
+    Development of a multiple layer test procedure for inclusion in NFPA 701:
+    initial experiments
   language:
   - en
   script:
@@ -42,7 +43,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Kay M
+        - content: Kay
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:

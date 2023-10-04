@@ -28,7 +28,13 @@ contributor:
     name:
       given:
         forename:
-        - content: E Richard
+        - language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: 'E '
           language:
           - en
           script:

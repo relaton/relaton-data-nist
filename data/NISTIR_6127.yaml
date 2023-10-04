@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6127
 title:
-- content: Spatial Data Transfer Standard (SDTS) Topological Vector Profile (TVP)
-    validation procedures:part of United States Geological Survey recognition of Spatial
-    Data Transfer Standard (SDTS) Topological Vector Profile (TVP) certification system
+- content: |-
+    Spatial Data Transfer Standard (SDTS) Topological Vector Profile (TVP) validation procedures:
+    part of United States Geological Survey recognition of Spatial Data Transfer Standard (SDTS) Topological Vector Profile (TVP) certification system
   language:
   - en
   script:
@@ -30,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: William H
+        - content: William
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           script:
           - Latn
       surname:
@@ -43,7 +48,11 @@ contributor:
     name:
       given:
         forename:
-        - content: L Arnold
+        - script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: 'L '
           script:
           - Latn
       surname:
@@ -56,7 +65,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Lynne S
+        - content: Lynne
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           script:
           - Latn
       surname:

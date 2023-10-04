@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTTN1476
 title:
-- content: Performance of physical structures in Hurricane Katrina and Hurricane Rita
-    :a reconnaissance report
+- content: |-
+    Performance of physical structures in Hurricane Katrina and Hurricane Rita :
+    a reconnaissance report
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Stephen A
+        - content: Stephen
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:

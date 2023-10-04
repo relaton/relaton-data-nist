@@ -29,7 +29,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Harry I
+        - content: Harry
+          language:
+          - en
+          script:
+          - Latn
+          initial: I
+        formatted_initials:
+          content: I
           language:
           - en
           script:
@@ -46,7 +53,13 @@ contributor:
     name:
       given:
         forename:
-        - content: T Robert
+        - language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: 'T '
           language:
           - en
           script:
@@ -63,7 +76,14 @@ contributor:
     name:
       given:
         forename:
-        - content: David T
+        - content: David
+          language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           language:
           - en
           script:
@@ -80,7 +100,13 @@ contributor:
     name:
       given:
         forename:
-        - content: J David
+        - language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: 'J '
           language:
           - en
           script:
@@ -97,7 +123,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Charles H
+        - content: Charles
+          language:
+          - en
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           language:
           - en
           script:
@@ -114,7 +147,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Patrick T
+        - content: Patrick
+          language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           language:
           - en
           script:

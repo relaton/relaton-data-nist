@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC550
 title:
-- content: Circular of the Bureau of Standards no. 550:mechanical failures of metals
-    in service
+- content: |-
+    Circular of the Bureau of Standards no. 550:
+    mechanical failures of metals in service
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: John A
+        - content: John
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:

@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7250
 title:
-- content: Cell phone forensic tools :an overview and analysis
+- content: |-
+    Cell phone forensic tools :
+    an overview and analysis
   language:
   - en
   script:
@@ -45,7 +47,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Wayne A
+        - content: Wayne
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:

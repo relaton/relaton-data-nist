@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR4719
 title:
-- content: Protection of archival record from pollutants:the measurement of the diffusion
-    of SO2 through and absorption of SO2 by archival boxboard
+- content: |-
+    Protection of archival record from pollutants:
+    the measurement of the diffusion of SO2 through and absorption of SO2 by archival boxboard
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Charles M
+        - content: Charles
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:
@@ -42,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Kenneth L
+        - content: Kenneth
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:

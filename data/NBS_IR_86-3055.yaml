@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR86-3055
 title:
-- content: Cycle-counting methods for fatigue analysis with random load histories
-    :a Fortran user's guide
+- content: |-
+    Cycle-counting methods for fatigue analysis with random load histories :
+    a Fortran user's guide
   language:
   - en
   script:
@@ -46,7 +47,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Jerry J
+        - content: Jerry
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP250-29
 title:
-- content: Traceable frequency calibrations :how to use the NBS Frequency Measurement
-    System in the calibration lab
+- content: |-
+    Traceable frequency calibrations :
+    how to use the NBS Frequency Measurement System in the calibration lab
   language:
   - en
   script:
@@ -46,7 +47,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Michael A
+        - content: Michael
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP1800-15
 title:
-- content: Securing small-business and home internet of things (IoT) devices :mitigating
-    network-based attacks using manufacturer usage description (MUD)
+- content: |-
+    Securing small-business and home internet of things (IoT) devices :
+    mitigating network-based attacks using manufacturer usage description (MUD)
   language:
   - en
   script:
@@ -233,7 +234,12 @@ contributor:
     name:
       given:
         forename:
-        - content: William C
+        - content: William
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           script:
           - Latn
       surname:

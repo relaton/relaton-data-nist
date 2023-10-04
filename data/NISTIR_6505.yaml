@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6505
 title:
-- content: Curing of high-performance concrete:phase I study
+- content: |-
+    Curing of high-performance concrete:
+    phase I study
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Nicholas J
+        - content: Nicholas
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           script:
           - Latn
       surname:
@@ -41,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Kenneth W
+        - content: Kenneth
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           script:
           - Latn
       surname:

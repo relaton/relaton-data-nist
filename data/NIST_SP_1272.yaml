@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP1272
 title:
-- content: Report from the NIST workshop :launch of the Rapid Microbial Testing Methods
-    Consortium
+- content: |-
+    Report from the NIST workshop :
+    launch of the Rapid Microbial Testing Methods Consortium
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Nancy J
+        - content: Nancy
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           script:
           - Latn
       surname:
@@ -46,7 +52,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Scott A
+        - content: Scott
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:

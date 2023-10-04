@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP250-89
 title:
-- content: NIST measurement services :spectral irradiance calibrations
+- content: |-
+    NIST measurement services :
+    spectral irradiance calibrations
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Howard W
+        - content: Howard
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           language:
           - en
           script:
@@ -45,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Charles E
+        - content: Charles
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

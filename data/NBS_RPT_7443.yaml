@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT7443
 title:
-- content: Dental radiographic film:standards and specification, progress report
+- content: |-
+    Dental radiographic film:
+    standards and specification, progress report
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Alfonso F
+        - content: Alfonso
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           script:
           - Latn
       surname:

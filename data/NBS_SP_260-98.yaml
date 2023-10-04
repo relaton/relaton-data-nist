@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP260-98
 title:
-- content: Standard Reference Materials :Glass fiberboard SRM for thermal resistance/
+- content: |-
+    Standard Reference Materials :
+    Glass fiberboard SRM for thermal resistance/
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Jerome G
+        - content: Jerome
+          language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G
           language:
           - en
           script:

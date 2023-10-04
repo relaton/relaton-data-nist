@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTHB150-22-2005
 title:
-- content: National Voluntary Laboratory Accreditation Program:voting system testing
+- content: |-
+    National Voluntary Laboratory Accreditation Program:
+    voting system testing
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Jon M
+        - content: Jon
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:

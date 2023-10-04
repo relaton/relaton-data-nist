@@ -29,7 +29,14 @@ contributor:
     name:
       given:
         forename:
-        - content: John M
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           language:
           - en
           script:
@@ -46,7 +53,13 @@ contributor:
     name:
       given:
         forename:
-        - content: M Carroll
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: 'M '
           language:
           - en
           script:
@@ -63,7 +76,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Ruth N
+        - content: Ruth
+          language:
+          - en
+          script:
+          - Latn
+          initial: N
+        formatted_initials:
+          content: N
           language:
           - en
           script:

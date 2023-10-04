@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR4485
 title:
-- content: Annotated bibliography:diagnostic methods and measurement approaches to
-    detect incipient defects due to aging of cables
+- content: |-
+    Annotated bibliography:
+    diagnostic methods and measurement approaches to detect incipient defects due to aging of cables
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Francois D
+        - content: Francois
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           script:
           - Latn
       surname:
@@ -42,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Arnold G
+        - content: Arnold
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G
           script:
           - Latn
       surname:

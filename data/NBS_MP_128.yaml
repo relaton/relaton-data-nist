@@ -29,7 +29,19 @@ contributor:
     name:
       given:
         forename:
-        - content: J F G Jr
+        - content: J
+          language:
+          - en
+          script:
+          - Latn
+          initial: F
+        - language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: 'F G '
           language:
           - en
           script:
@@ -46,7 +58,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Arthur E
+        - content: Arthur
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

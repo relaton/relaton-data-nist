@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP1241
 title:
-- content: Large Outdoor Fires and the Built Environment (LOF&BE):summary of workshop
-    at Interflam 2019
+- content: |-
+    Large Outdoor Fires and the Built Environment (LOF&BE):
+    summary of workshop at Interflam 2019
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Samuel L
+        - content: Samuel
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:

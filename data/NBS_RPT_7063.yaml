@@ -28,7 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Velma I
+        - content: Velma
+          script:
+          - Latn
+          initial: I
+        formatted_initials:
+          content: I
           script:
           - Latn
       surname:

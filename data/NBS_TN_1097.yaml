@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN1097
 title:
-- content: Interactive FORTRAN programs for micro computers to calculate the thermophysical
-    properties of twelve fluids :MIPROPS
+- content: |-
+    Interactive FORTRAN programs for micro computers to calculate the thermophysical properties of twelve fluids :
+    MIPROPS
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Robert D
+        - content: Robert
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           language:
           - en
           script:

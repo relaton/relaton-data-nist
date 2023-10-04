@@ -2,10 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN405
 title:
-- content: Organic chemistry :air pollution studies, kinetic behavior of sugars in
-    solution, carbon-14- and tritium-labeled carbohydrates, characterization of chemical
-    structures, phenylhydrazono-phenylazo tautomerism, synthesis of research materials,
-    cyclopentitol
+- content: |-
+    Organic chemistry :
+    air pollution studies, kinetic behavior of sugars in solution, carbon-14- and tritium-labeled carbohydrates, characterization of chemical structures, phenylhydrazono-phenylazo tautomerism, synthesis of research materials, cyclopentitol
   language:
   - en
   script:
@@ -31,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Horace S
+        - content: Horace
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           language:
           - en
           script:

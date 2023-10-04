@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR5693v2
 title:
-- content: Validated products list, 1995 no. 3:OSI
+- content: |-
+    Validated products list, 1995 no. 3:
+    OSI
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Judy B
+        - content: Judy
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           script:
           - Latn
       surname:

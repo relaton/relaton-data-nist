@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN836
 title:
-- content: Detector actuated automatic sprinkler systems :a preliminary evaluation
+- content: |-
+    Detector actuated automatic sprinkler systems :
+    a preliminary evaluation
   language:
   - en
   script:
@@ -28,7 +30,19 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard L P
+        - content: Richard
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        - language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: L P
           language:
           - en
           script:

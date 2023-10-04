@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6231
 title:
-- content: Document image recognition and retrieval:where are we?
+- content: |-
+    Document image recognition and retrieval:
+    where are we?
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Michael D
+        - content: Michael
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           script:
           - Latn
       surname:

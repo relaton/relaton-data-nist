@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR82-2617
 title:
-- content: Mechanical activities 1982 :Office of Nondestructive Evaluation
+- content: |-
+    Mechanical activities 1982 :
+    Office of Nondestructive Evaluation
   language:
   - en
   script:
@@ -28,7 +30,13 @@ contributor:
     name:
       given:
         forename:
-        - content: H Thomas
+        - language:
+          - en
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: 'H '
           language:
           - en
           script:

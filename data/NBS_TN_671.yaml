@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN671
 title:
-- content: Upper bound errors in far-field antenna parameters determined from planar
-    near-field measurements part 2:analysis and computer simulation
+- content: |-
+    Upper bound errors in far-field antenna parameters determined from planar near-field measurements part 2:
+    analysis and computer simulation
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Allen C.
+        - content: Allen
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C.
           script:
           - Latn
       surname:

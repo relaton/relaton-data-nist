@@ -28,7 +28,13 @@ contributor:
     name:
       given:
         forename:
-        - content: W Richards
+        - language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: 'W '
           language:
           - en
           script:
@@ -45,7 +51,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Martha A
+        - content: Martha
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:
@@ -62,7 +75,14 @@ contributor:
     name:
       given:
         forename:
-        - content: John C
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           language:
           - en
           script:

@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP260-166
 title:
-- content: Certification of SRM 114q :part II (particle size distribution)
+- content: |-
+    Certification of SRM 114q :
+    part II (particle size distribution)
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Chiara F
+        - content: Chiara
+          language:
+          - en
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           language:
           - en
           script:
@@ -113,7 +122,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Bruce S
+        - content: Bruce
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           language:
           - en
           script:

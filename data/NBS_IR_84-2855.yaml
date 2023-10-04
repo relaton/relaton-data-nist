@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR84-2855
 title:
-- content: Proceedings of the fifth LAN-transport workshop :report of the fifth workshop
-    for Local Area Network implementers of the NBS specifications of the international
-    standards organization transport class 4 protocol March 8-9, 1984
+- content: |-
+    Proceedings of the fifth LAN-transport workshop :
+    report of the fifth workshop for Local Area Network implementers of the NBS specifications of the international standards organization transport class 4 protocol March 8-9, 1984
   language:
   - en
   script:
@@ -30,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Michael A
+        - content: Michael
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:

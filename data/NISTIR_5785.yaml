@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR5785
 title:
-- content: Summary and results of the NIST Workshop on Proposed Guidelines for Testing
-    and Evaluation of Seismic Isolation Systems:July 25, 1994, San Francisco, California
+- content: |-
+    Summary and results of the NIST Workshop on Proposed Guidelines for Testing and Evaluation of Seismic Isolation Systems:
+    July 25, 1994, San Francisco, California
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Harry W III
+        - content: Harry
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: 'W '
           script:
           - Latn
       surname:

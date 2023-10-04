@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT8182
 title:
-- content: Report on Latin America travel concerning Latin American standards and
-    standards for tubular steel products:September 14 - November 27, 1963
+- content: |-
+    Report on Latin America travel concerning Latin American standards and standards for tubular steel products:
+    September 14 - November 27, 1963
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: LeRoy L
+        - content: LeRoy
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:

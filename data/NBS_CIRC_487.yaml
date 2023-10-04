@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC487
 title:
-- content: Circular of the Bureau of Standards no. 487:density of solids and liquids
+- content: |-
+    Circular of the Bureau of Standards no. 487:
+    density of solids and liquids
   language:
   - en
   script:
@@ -41,7 +43,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Elmer L
+        - content: Elmer
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:

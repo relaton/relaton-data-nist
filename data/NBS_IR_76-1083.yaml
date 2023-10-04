@@ -29,7 +29,13 @@ contributor:
     name:
       given:
         forename:
-        - content: H Steffen
+        - language:
+          - en
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: 'H '
           language:
           - en
           script:
@@ -46,7 +52,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Robert S
+        - content: Robert
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           language:
           - en
           script:

@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR84-2852
 title:
-- content: RADCNBS workshop moisture measurement and control for semiconductor devices,
-    III :proceedings of the RADC NBS workshop held at the National Bureau of Standards
-    Gaithersburg, MD November 2-4, 1983
+- content: |-
+    RADCNBS workshop moisture measurement and control for semiconductor devices, III :
+    proceedings of the RADC NBS workshop held at the National Bureau of Standards Gaithersburg, MD November 2-4, 1983
   language:
   - en
   script:
@@ -30,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Benjamin A
+        - content: Benjamin
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:

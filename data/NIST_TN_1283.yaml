@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTTN1283
 title:
-- content: A programmer's reference manual for CFAST :the unified model of fire growth
-    and smoke transport
+- content: |-
+    A programmer's reference manual for CFAST :
+    the unified model of fire growth and smoke transport
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Glenn P
+        - content: Glenn
+          language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Walter W
+        - content: Walter
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           language:
           - en
           script:

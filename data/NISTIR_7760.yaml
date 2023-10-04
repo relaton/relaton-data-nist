@@ -49,7 +49,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Kirk D.
+        - content: Kirk
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D.
           script:
           - Latn
       surname:
@@ -69,7 +74,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Michael A.
+        - content: Michael
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
           script:
           - Latn
       surname:
@@ -129,7 +139,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Amanda L.
+        - content: Amanda
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L.
           script:
           - Latn
       surname:

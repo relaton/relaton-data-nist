@@ -67,18 +67,6 @@ contributor:
           - en
           script:
           - Latn
-          initial: L
-        - language:
-          - en
-          script:
-          - Latn
-          initial: K
-        formatted_initials:
-          content: LK
-          language:
-          - en
-          script:
-          - Latn
       surname:
         content: Ives
         language:
@@ -91,7 +79,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Arthur W
+        - content: Arthur
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           language:
           - en
           script:
@@ -108,19 +103,14 @@ contributor:
     name:
       given:
         forename:
-        - content: M B
+        - content: M
           language:
-          - en
-          script:
-          - Latn
-          initial: M
-        - language:
           - en
           script:
           - Latn
           initial: B
         formatted_initials:
-          content: M B
+          content: B
           language:
           - en
           script:

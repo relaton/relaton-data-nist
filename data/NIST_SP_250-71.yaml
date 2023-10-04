@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP250-71
 title:
-- content: 0 :45 surface color
+- content: |-
+    0 :
+    45 surface color
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Maria E
+        - content: Maria
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:
@@ -45,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Edward A
+        - content: Edward
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:
@@ -62,7 +78,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Robert R
+        - content: Robert
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           language:
           - en
           script:

@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR8252
 title:
-- content: IREX IX part two:multispectral iris recognition
+- content: |-
+    IREX IX part two:
+    multispectral iris recognition
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: George W
+        - content: George
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           script:
           - Latn
       surname:

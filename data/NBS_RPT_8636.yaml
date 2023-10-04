@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT8636
 title:
-- content: Pertinent data on some physical properties of different investments used
-    in the casing of gold alloys:progress report
+- content: |-
+    Pertinent data on some physical properties of different investments used in the casing of gold alloys:
+    progress report
   language:
   - en
   script:
@@ -42,7 +43,12 @@ contributor:
     name:
       given:
         forename:
-        - content: George C
+        - content: George
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           script:
           - Latn
       surname:

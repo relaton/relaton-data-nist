@@ -28,7 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Debra L
+        - content: Debra
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:

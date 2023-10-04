@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6787
 title:
-- content: The NIST manufacturing engineering laboratory:assisting U.S. aerospace
-    manufacturing through measurements and standards
+- content: |-
+    The NIST manufacturing engineering laboratory:
+    assisting U.S. aerospace manufacturing through measurements and standards
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: David C
+        - content: David
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           script:
           - Latn
       surname:

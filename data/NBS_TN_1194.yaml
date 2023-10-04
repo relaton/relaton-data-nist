@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN1194
 title:
-- content: Economic evaluation of building design, construction, operation and maintenance
-    :Instructor's manual.
+- content: |-
+    Economic evaluation of building design, construction, operation and maintenance :
+    Instructor's manual.
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Rosalie T
+        - content: Rosalie
+          language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           language:
           - en
           script:

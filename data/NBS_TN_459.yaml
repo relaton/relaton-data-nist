@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN459
 title:
-- content: Separation and Purification Section :summary of activities July 1967 to
-    June 1968
+- content: |-
+    Separation and Purification Section :
+    summary of activities July 1967 to June 1968
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: David H
+        - content: David
+          language:
+          - en
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           language:
           - en
           script:

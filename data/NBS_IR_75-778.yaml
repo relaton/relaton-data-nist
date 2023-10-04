@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR75-778
 title:
-- content: ETIP :the first 18 months
+- content: |-
+    ETIP :
+    the first 18 months
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Jordan D
+        - content: Jordan
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           language:
           - en
           script:

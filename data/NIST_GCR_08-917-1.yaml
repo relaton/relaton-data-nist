@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTGCR08-917-1
 title:
-- content: Seismic design of reinforced concrete special moment frames :a guide for
-    practicing engineers
+- content: |-
+    Seismic design of reinforced concrete special moment frames :
+    a guide for practicing engineers
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Jack P
+        - content: Jack
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P
           script:
           - Latn
       surname:
@@ -46,7 +52,12 @@ contributor:
     name:
       given:
         forename:
-        - content: John D
+        - content: John
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           script:
           - Latn
       surname:
@@ -63,7 +74,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Christopher D
+        - content: Christopher
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           script:
           - Latn
       surname:

@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP457-3
 title:
-- content: Building technology publications, supplement 3 :1978
+- content: |-
+    Building technology publications, supplement 3 :
+    1978
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: JoAnne R
+        - content: JoAnne
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           language:
           - en
           script:

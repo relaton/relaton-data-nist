@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN1156
 title:
-- content: The CSA Weatherization demonstration data base :contents and descriptions
+- content: |-
+    The CSA Weatherization demonstration data base :
+    contents and descriptions
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Roy E
+        - content: Roy
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

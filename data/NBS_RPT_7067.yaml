@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT7067
 title:
-- content: Alloys of gallium having possible dental use:progress report
+- content: |-
+    Alloys of gallium having possible dental use:
+    progress report
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Clarence W, Jr
+        - content: Clarence
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           script:
           - Latn
       surname:

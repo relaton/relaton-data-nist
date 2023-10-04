@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR5822
 title:
-- content: Proceedings of NIST workshop:industry needs in welding research and standards
-    development
+- content: |-
+    Proceedings of NIST workshop:
+    industry needs in welding research and standards development
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: William G
+        - content: William
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G
           script:
           - Latn
       surname:

@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT4495
 title:
-- content: Preliminary study, tropical storage of dental materials :progress report
+- content: |-
+    Preliminary study, tropical storage of dental materials :
+    progress report
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Henry E
+        - content: Henry
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:
@@ -45,19 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: W T
+        - content: W
           language:
-          - en
-          script:
-          - Latn
-          initial: W
-        - language:
           - en
           script:
           - Latn
           initial: T
         formatted_initials:
-          content: W T
+          content: T
           language:
           - en
           script:

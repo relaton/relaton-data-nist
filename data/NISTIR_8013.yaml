@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR8013
 title:
-- content: IREX V :guidance for iris image collection
+- content: |-
+    IREX V :
+    guidance for iris image collection
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: George W
+        - content: George
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           language:
           - en
           script:

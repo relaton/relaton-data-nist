@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NISTGCR21-917-48v3B
 title:
-- content: Seismic design of archetype steel buildings in central and eastern United
-    States :volume 3B - 3-story education building in St. Louis, Missouri supplementary
-    documentation
+- content: |-
+    Seismic design of archetype steel buildings in central and eastern United States :
+    volume 3B - 3-story education building in St. Louis, Missouri supplementary documentation
   language:
   - en
   script:
@@ -30,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: John L
+        - content: John
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR80-2179
 title:
-- content: Type approval criteria and test procedures :prepared for the Task Force
-    on National Type Approval of the National Conference on Weights and Measures
+- content: |-
+    Type approval criteria and test procedures :
+    prepared for the Task Force on National Type Approval of the National Conference on Weights and Measures
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Henry V
+        - content: Henry
+          language:
+          - en
+          script:
+          - Latn
+          initial: V
+        formatted_initials:
+          content: V
           language:
           - en
           script:

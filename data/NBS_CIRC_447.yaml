@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC447
 title:
-- content: Circular of the Bureau of Standards no. 447:mechanical properties of metals
-    and alloys
+- content: |-
+    Circular of the Bureau of Standards no. 447:
+    mechanical properties of metals and alloys
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: John L
+        - content: John
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:
@@ -42,7 +48,11 @@ contributor:
     name:
       given:
         forename:
-        - content: W Earl
+        - script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: 'W '
           script:
           - Latn
       surname:
@@ -68,7 +78,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Pearl G
+        - content: Pearl
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G
           script:
           - Latn
       surname:

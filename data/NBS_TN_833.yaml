@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN833
 title:
-- content: Fire department ground ladders :results of a preliminary study
+- content: |-
+    Fire department ground ladders :
+    results of a preliminary study
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Harvey P
+        - content: Harvey
+          language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P
           language:
           - en
           script:

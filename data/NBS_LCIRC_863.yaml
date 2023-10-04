@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSLCIRC863
 title:
-- content: Letter Circular 863:condensation in buildings
+- content: |-
+    Letter Circular 863:
+    condensation in buildings
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard S
+        - content: Richard
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           script:
           - Latn
       surname:

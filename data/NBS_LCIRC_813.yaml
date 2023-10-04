@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSLCIRC813
 title:
-- content: Letter Circular 813:dampness in basements and ground floors
+- content: |-
+    Letter Circular 813:
+    dampness in basements and ground floors
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard S
+        - content: Richard
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           script:
           - Latn
       surname:
@@ -41,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Douglas E
+        - content: Douglas
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           script:
           - Latn
       surname:

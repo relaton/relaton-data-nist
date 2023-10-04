@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6529
 title:
-- content: CBEFF:Common Biometric Exchange File Format
+- content: |-
+    CBEFF:
+    Common Biometric Exchange File Format
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Fernando L
+        - content: Fernando
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:
@@ -41,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Jeffrey S
+        - content: Jeffrey
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           script:
           - Latn
       surname:
@@ -67,7 +79,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Catherine J
+        - content: Catherine
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           script:
           - Latn
       surname:
@@ -93,7 +110,11 @@ contributor:
     name:
       given:
         forename:
-        - content: M Paul
+        - script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: 'M '
           script:
           - Latn
       surname:

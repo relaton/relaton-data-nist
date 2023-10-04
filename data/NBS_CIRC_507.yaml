@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC507
 title:
-- content: Circular of the Bureau of Standards no. 507:x-ray calibration of radiation
-    survey meters, pocket chambers, and dosimeters
+- content: |-
+    Circular of the Bureau of Standards no. 507:
+    x-ray calibration of radiation survey meters, pocket chambers, and dosimeters
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Frank H
+        - content: Frank
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           script:
           - Latn
       surname:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSBSS109
 title:
-- content: Simplified analysis of thermal and lighting characteristics of windows
-    :two case studies
+- content: |-
+    Simplified analysis of thermal and lighting characteristics of windows :
+    two case studies
   language:
   - en
   script:
@@ -46,7 +47,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Belinda L
+        - content: Belinda
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           language:
           - en
           script:

@@ -28,7 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Charles K
+        - content: Charles
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K
           script:
           - Latn
       surname:
@@ -41,7 +46,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Lawrence A
+        - content: Lawrence
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:

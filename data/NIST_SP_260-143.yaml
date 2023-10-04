@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP260-143
 title:
-- content: Standard Reference Materials :Certification of the rheological behavior
-    of SRM 2490, polyisobutylene dissolved in 2, 6, 10, 14-tetramethylpentadecane/
+- content: |-
+    Standard Reference Materials :
+    Certification of the rheological behavior of SRM 2490, polyisobutylene dissolved in 2, 6, 10, 14-tetramethylpentadecane/
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Stefan D
+        - content: Stefan
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Carl R
+        - content: Carl
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           language:
           - en
           script:

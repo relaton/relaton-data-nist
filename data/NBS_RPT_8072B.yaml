@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT8072b
 title:
-- content: Department of Commerce participation in Pan-American standards activities:a
-    digest, based on nearly four months travel concerned with standards for iron and
-    steel (NBS reports 7793, 7793A, 8072, 8072A
+- content: |-
+    Department of Commerce participation in Pan-American standards activities:
+    a digest, based on nearly four months travel concerned with standards for iron and steel (NBS reports 7793, 7793A, 8072, 8072A
   language:
   - en
   script:
@@ -30,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: LeRoy L
+        - content: LeRoy
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:

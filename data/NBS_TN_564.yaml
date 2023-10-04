@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN564
 title:
-- content: Glass limit standards deposited at NBS for railway, highway and airways
-    traffic signal colors :history, permanence and colorimetric properties
+- content: |-
+    Glass limit standards deposited at NBS for railway, highway and airways traffic signal colors :
+    history, permanence and colorimetric properties
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Geraldine W
+        - content: Geraldine
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           language:
           - en
           script:

@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN289
 title:
-- content: Status report:National Standard Reference Data System, April 1966.
+- content: |-
+    Status report:
+    National Standard Reference Data System, April 1966.
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Edward L
+        - content: Edward
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           language:
           - en
           script:

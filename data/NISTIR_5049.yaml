@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR5049
 title:
-- content: Electromagnetic compatibility:results of a limited survey
+- content: |-
+    Electromagnetic compatibility:
+    results of a limited survey
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Ramon C
+        - content: Ramon
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           script:
           - Latn
       surname:

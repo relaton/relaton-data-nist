@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR79-1709
 title:
-- content: HUD utilities demonstration series :description of the data acquisition
-    and instrumentation systems
+- content: |-
+    HUD utilities demonstration series :
+    description of the data acquisition and instrumentation systems
   language:
   - en
   script:
@@ -46,7 +47,14 @@ contributor:
     name:
       given:
         forename:
-        - content: William G
+        - content: William
+          language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G
           language:
           - en
           script:
@@ -63,7 +71,13 @@ contributor:
     name:
       given:
         forename:
-        - content: C Warren
+        - language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: 'C '
           language:
           - en
           script:
@@ -80,7 +94,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Daniel E
+        - content: Daniel
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

@@ -28,7 +28,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Robert N
+        - content: Robert
+          language:
+          - en
+          script:
+          - Latn
+          initial: N
+        formatted_initials:
+          content: N
           language:
           - en
           script:
@@ -45,19 +52,14 @@ contributor:
     name:
       given:
         forename:
-        - content: D K
+        - content: D
           language:
-          - en
-          script:
-          - Latn
-          initial: D
-        - language:
           - en
           script:
           - Latn
           initial: K
         formatted_initials:
-          content: D K
+          content: K
           language:
           - en
           script:

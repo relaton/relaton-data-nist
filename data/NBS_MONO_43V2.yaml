@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSMONO43v2
 title:
-- content: Chemistry of cement; Proceedings of the fourth international symposium
-    :Washington 1960
+- content: |-
+    Chemistry of cement; Proceedings of the fourth international symposium :
+    Washington 1960
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Allen V
+        - content: Allen
+          language:
+          - en
+          script:
+          - Latn
+          initial: V
+        formatted_initials:
+          content: V
           language:
           - en
           script:
@@ -46,7 +54,13 @@ contributor:
     name:
       given:
         forename:
-        - content: G Donald
+        - language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: 'G '
           language:
           - en
           script:

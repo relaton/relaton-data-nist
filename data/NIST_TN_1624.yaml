@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTTN1624
 title:
-- content: Stairwell evacuation from buildings :what we know we don't know
+- content: |-
+    Stairwell evacuation from buildings :
+    what we know we don't know
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard D
+        - content: Richard
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           language:
           - en
           script:

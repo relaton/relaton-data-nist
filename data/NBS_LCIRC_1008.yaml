@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSLCIRC1008
 title:
-- content: Letter Circular 1008:textile testing equipment (superseding Letter Circular
-    907)
+- content: |-
+    Letter Circular 1008:
+    textile testing equipment (superseding Letter Circular 907)
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Josephine M
+        - content: Josephine
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:

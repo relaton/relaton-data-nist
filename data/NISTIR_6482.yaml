@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6482
 title:
-- content: A prototype model for simulating barrier fire performance:CFAST.GYPST -
-    for evaluating the thermal response of gypsum-panelsteel-stud wall systems
+- content: |-
+    A prototype model for simulating barrier fire performance:
+    CFAST.GYPST - for evaluating the thermal response of gypsum-panelsteel-stud wall systems
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Leonard Y
+        - content: Leonard
+          script:
+          - Latn
+          initial: Y
+        formatted_initials:
+          content: Y
           script:
           - Latn
       surname:
@@ -42,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Paul A
+        - content: Paul
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:

@@ -79,7 +79,11 @@ contributor:
     name:
       given:
         forename:
-        - content: W Stuart
+        - script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: 'W '
           script:
           - Latn
       surname:

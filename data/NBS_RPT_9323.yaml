@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT9323
 title:
-- content: Problems in development of performance standards :presented at the Annual
-    Meeting of the Society of American Military Engineers
+- content: |-
+    Problems in development of performance standards :
+    presented at the Annual Meeting of the Society of American Military Engineers
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Bruce E
+        - content: Bruce
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

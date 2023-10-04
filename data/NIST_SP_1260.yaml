@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP1260
 title:
-- content: Economic Decision Guide Software (EDGeWildfire Urban Interface (WUI) case
-    study
+- content: |-
+    Economic Decision Guide Software (EDGe
+    Wildfire Urban Interface (WUI) case study
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Jennifer F
+        - content: Jennifer
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           script:
           - Latn
       surname:
@@ -46,7 +52,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Peter J
+        - content: Peter
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           script:
           - Latn
       surname:

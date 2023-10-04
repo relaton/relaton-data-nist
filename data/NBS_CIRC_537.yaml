@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC537
 title:
-- content: Circular of the Bureau of Standards no. 537:table of dielectric constants
-    and electric dipole moments of substances in the gaseous state
+- content: |-
+    Circular of the Bureau of Standards no. 537:
+    table of dielectric constants and electric dipole moments of substances in the gaseous state
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Arthur A
+        - content: Arthur
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:

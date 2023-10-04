@@ -28,7 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: John P
+        - content: John
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P
           script:
           - Latn
       surname:

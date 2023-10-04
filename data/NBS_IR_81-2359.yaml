@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR81-2359
 title:
-- content: Survey :materials life cycle research and development inthe federal government
-    fiscal year 1980
+- content: |-
+    Survey :
+    materials life cycle research and development inthe federal government fiscal year 1980
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: John B
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           language:
           - en
           script:

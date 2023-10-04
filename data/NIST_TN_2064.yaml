@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTTN2064
 title:
-- content: OpenSC :an open-source calculation tool for combustion mixture emissivityabsorptivity
+- content: |-
+    OpenSC :
+    an open-source calculation tool for combustion mixture emissivityabsorptivity
   language:
   - en
   script:
@@ -45,7 +47,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Walter W
+        - content: Walter
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           script:
           - Latn
       surname:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT9462
 title:
-- content: 1964 Exposure test of porcelain enamels on aluminum :progress report, one-year
-    report
+- content: |-
+    1964 Exposure test of porcelain enamels on aluminum :
+    progress report, one-year report
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Margaret A
+        - content: Margaret
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:

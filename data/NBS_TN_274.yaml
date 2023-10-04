@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN274
 title:
-- content: Organic chemistry:radioactive carbohydrates, sugars in solution, aldol
-    condensations, molecular structure, synthesis of selected compounds, air pollution
-    studies, reference materials (organic) July 1964 to June 1965.
+- content: |-
+    Organic chemistry:
+    radioactive carbohydrates, sugars in solution, aldol condensations, molecular structure, synthesis of selected compounds, air pollution studies, reference materials (organic) July 1964 to June 1965.
   language:
   - en
   script:
@@ -30,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Horace S
+        - content: Horace
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           language:
           - en
           script:

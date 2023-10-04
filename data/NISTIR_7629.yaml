@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7629
 title:
-- content: IREX I :performance of iris recognition algorithms on standard images
+- content: |-
+    IREX I :
+    performance of iris recognition algorithms on standard images
   language:
   - en
   script:
@@ -28,8 +30,7 @@ contributor:
     name:
       given:
         forename:
-        - content: P
-          language:
+        - language:
           - en
           script:
           - Latn
@@ -52,8 +53,7 @@ contributor:
     name:
       given:
         forename:
-        - content: E
-          language:
+        - language:
           - en
           script:
           - Latn
@@ -76,19 +76,14 @@ contributor:
     name:
       given:
         forename:
-        - content: G W
+        - content: G
           language:
-          - en
-          script:
-          - Latn
-          initial: G
-        - language:
           - en
           script:
           - Latn
           initial: W
         formatted_initials:
-          content: G W
+          content: W
           language:
           - en
           script:
@@ -105,8 +100,7 @@ contributor:
     name:
       given:
         forename:
-        - content: W
-          language:
+        - language:
           - en
           script:
           - Latn

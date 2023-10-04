@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSMONO13
 title:
-- content: Mechanical properties of structural materials at low temperatures :a compilation
-    from the literature
+- content: |-
+    Mechanical properties of structural materials at low temperatures :
+    a compilation from the literature
   language:
   - en
   script:
@@ -29,7 +30,13 @@ contributor:
     name:
       given:
         forename:
-        - content: R Michael
+        - language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: 'R '
           language:
           - en
           script:
@@ -46,7 +53,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Hugh P
+        - content: Hugh
+          language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P
           language:
           - en
           script:

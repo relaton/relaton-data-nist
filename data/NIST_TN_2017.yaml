@@ -46,7 +46,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Steven T
+        - content: Steven
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           script:
           - Latn
       surname:
@@ -63,7 +68,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Ronald D
+        - content: Ronald
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           script:
           - Latn
       surname:

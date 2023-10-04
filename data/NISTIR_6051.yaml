@@ -41,7 +41,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Joon Y
+        - content: Joon
+          script:
+          - Latn
+          initial: Y
+        formatted_initials:
+          content: Y
           script:
           - Latn
       surname:
@@ -54,7 +59,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Tae K
+        - content: Tae
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K
           script:
           - Latn
       surname:

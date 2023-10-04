@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN1068-1
 title:
-- content: Introduction to STARPAC :the standards time series and regression package
+- content: |-
+    Introduction to STARPAC :
+    the standards time series and regression package
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Janet R
+        - content: Janet
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           language:
           - en
           script:

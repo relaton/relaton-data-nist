@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6256
 title:
-- content: The OOF Manual:version 1.0
+- content: |-
+    The OOF Manual:
+    version 1.0
   language:
   - en
   script:
@@ -28,7 +30,11 @@ contributor:
     name:
       given:
         forename:
-        - content: W Craig
+        - script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: 'W '
           script:
           - Latn
       surname:
@@ -41,7 +47,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Stephen A
+        - content: Stephen
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:
@@ -54,7 +65,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Edwin R Jr
+        - content: Edwin
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: 'R '
           script:
           - Latn
       surname:

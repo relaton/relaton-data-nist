@@ -28,7 +28,18 @@ contributor:
     name:
       given:
         forename:
-        - content: Luis T A N
+        - content: Luis
+          script:
+          - Latn
+          initial: T
+        - script:
+          - Latn
+          initial: A
+        - script:
+          - Latn
+          initial: N
+        formatted_initials:
+          content: T A N
           script:
           - Latn
       surname:

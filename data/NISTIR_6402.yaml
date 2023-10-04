@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6402
 title:
-- content: Predicting the performance of concrete repair materials:summary of workshop
-    April 26 and 27, 1999, Durham, New Hampshire
+- content: |-
+    Predicting the performance of concrete repair materials:
+    summary of workshop April 26 and 27, 1999, Durham, New Hampshire
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Alexander M
+        - content: Alexander
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:
@@ -42,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Nicholas J
+        - content: Nicholas
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           script:
           - Latn
       surname:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC597
 title:
-- content: Circular of the Bureau of Standards no. 597:energy spectrum resulting from
-    electron slowing down
+- content: |-
+    Circular of the Bureau of Standards no. 597:
+    energy spectrum resulting from electron slowing down
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Rosemary T
+        - content: Rosemary
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           script:
           - Latn
       surname:

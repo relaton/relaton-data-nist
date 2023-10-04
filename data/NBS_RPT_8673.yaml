@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT8673
 title:
-- content: Performance tests of two deep-bed high efficiency air filters :manufactured
-    by Continental Air Filters, Inc. Louisville, Kentucky
+- content: |-
+    Performance tests of two deep-bed high efficiency air filters :
+    manufactured by Continental Air Filters, Inc. Louisville, Kentucky
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Joseph C
+        - content: Joseph
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Charles M
+        - content: Charles
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           language:
           - en
           script:

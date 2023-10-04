@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR3987
 title:
-- content: Heat transfer in an aluminum heat exchanger using normal hydrogen gas:final
-    report
+- content: |-
+    Heat transfer in an aluminum heat exchanger using normal hydrogen gas:
+    final report
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Douglas A
+        - content: Douglas
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:

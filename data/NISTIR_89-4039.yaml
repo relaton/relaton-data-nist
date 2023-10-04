@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR89-4039
 title:
-- content: NVLAP program handbook:Construction testing services- requirements for
-    accreditation
+- content: |-
+    NVLAP program handbook:
+    Construction testing services- requirements for accreditation
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Robert L
+        - content: Robert
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:

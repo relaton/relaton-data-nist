@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN744
 title:
-- content: Disclosures on :New syntheses of perfluorostyrene and other highly fluorinated
-    derivatives ..
+- content: |-
+    Disclosures on :
+    New syntheses of perfluorostyrene and other highly fluorinated derivatives ..
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Alvin J
+        - content: Alvin
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           language:
           - en
           script:

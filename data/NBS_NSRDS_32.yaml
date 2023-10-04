@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSNSRDS32
 title:
-- content: Phase behavior in binary and multicomponent systems at elevated pressures
-    :n-pentane and methane-n-pentane
+- content: |-
+    Phase behavior in binary and multicomponent systems at elevated pressures :
+    n-pentane and methane-n-pentane
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Virginia M
+        - content: Virginia
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           language:
           - en
           script:
@@ -46,19 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: B H
+        - content: B
           language:
-          - en
-          script:
-          - Latn
-          initial: B
-        - language:
           - en
           script:
           - Latn
           initial: H
         formatted_initials:
-          content: B H
+          content: H
           language:
           - en
           script:

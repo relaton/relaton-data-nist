@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP260-216
 title:
-- content: Certification of Standard Reference Material 2367 :JC Virus DNA Quantitative
-    Standard
+- content: |-
+    Certification of Standard Reference Material 2367 :
+    JC Virus DNA Quantitative Standard
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Megan H
+        - content: Megan
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           script:
           - Latn
       surname:
@@ -80,7 +86,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Peter M
+        - content: Peter
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:

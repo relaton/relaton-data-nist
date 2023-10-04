@@ -46,7 +46,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Steven C
+        - content: Steven
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           language:
           - en
           script:
@@ -63,7 +70,13 @@ contributor:
     name:
       given:
         forename:
-        - content: J Franklin
+        - language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: 'J '
           language:
           - en
           script:

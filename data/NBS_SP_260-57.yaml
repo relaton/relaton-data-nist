@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP260-57
 title:
-- content: Standard Reference Materials :Guide to United States reference materials/
+- content: |-
+    Standard Reference Materials :
+    Guide to United States reference materials/
   language:
   - en
   script:
@@ -45,7 +47,13 @@ contributor:
     name:
       given:
         forename:
-        - content: J Paul
+        - language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: 'J '
           language:
           - en
           script:

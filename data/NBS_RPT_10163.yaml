@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT10163
 title:
-- content: Test and evaluation of the prefabricated Lewis Building and its components:phase
-    I part I evaluation of sandwich panel components
+- content: |-
+    Test and evaluation of the prefabricated Lewis Building and its components:
+    phase I part I evaluation of sandwich panel components
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Thomas W
+        - content: Thomas
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           script:
           - Latn
       surname:

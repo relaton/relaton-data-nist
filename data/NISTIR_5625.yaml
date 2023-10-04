@@ -29,7 +29,15 @@ contributor:
     name:
       given:
         forename:
-        - content: Nabih F G
+        - content: Nabih
+          script:
+          - Latn
+          initial: F
+        - script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: F G
           script:
           - Latn
       surname:
@@ -55,7 +63,12 @@ contributor:
     name:
       given:
         forename:
-        - content: John L
+        - content: John
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC501
 title:
-- content: Circular of the Bureau of Standards no. 501:federal and state weights an
-    measures laws through 1949 enactments
+- content: |-
+    Circular of the Bureau of Standards no. 501:
+    federal and state weights an measures laws through 1949 enactments
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Kathryn M
+        - content: Kathryn
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:
@@ -42,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Ralph W
+        - content: Ralph
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           script:
           - Latn
       surname:

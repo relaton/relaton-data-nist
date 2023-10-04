@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP260-7
 title:
-- content: Standard Reference Materials :Methods for the chemical analysis of NBS
-    copper-base spectrochemical standards/
+- content: |-
+    Standard Reference Materials :
+    Methods for the chemical analysis of NBS copper-base spectrochemical standards/
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Rosemond K
+        - content: Rosemond
+          language:
+          - en
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K
           language:
           - en
           script:

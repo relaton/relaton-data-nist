@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR85-3273-5
 title:
-- content: Energy prices and discount factors for life-cycle cost analysis 1991 :annual
-    supplement to NBS Handbook 135 and NBS Special Publication 709
+- content: |-
+    Energy prices and discount factors for life-cycle cost analysis 1991 :
+    annual supplement to NBS Handbook 135 and NBS Special Publication 709
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Barbara C
+        - content: Barbara
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Rosalie T
+        - content: Rosalie
+          language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           language:
           - en
           script:

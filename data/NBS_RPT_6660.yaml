@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT6660
 title:
-- content: Revision of American Dental Association specification no. 4 for dental
-    inlay casting wax:progress report
+- content: |-
+    Revision of American Dental Association specification no. 4 for dental inlay casting wax:
+    progress report
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: John W
+        - content: John
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           script:
           - Latn
       surname:
@@ -42,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: George C
+        - content: George
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           script:
           - Latn
       surname:

@@ -28,7 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Kenneth S
+        - content: Kenneth
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           script:
           - Latn
       surname:

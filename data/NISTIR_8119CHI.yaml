@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR8119chi
 title:
-- content: A guide to United States furniture compliance requirements:Chinese translation
+- content: |-
+    A guide to United States furniture compliance requirements:
+    Chinese translation
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Lisa M
+        - content: Lisa
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:
@@ -41,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Karen K.
+        - content: Karen
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K.
           script:
           - Latn
       surname:

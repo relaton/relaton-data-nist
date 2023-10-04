@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR86-3310e1986
 title:
-- content: Center for Electronics and Electrical Engineering :technical publication
-    announcements covering center programs, April - June 1985 with 1986 CEEE events
-    calendar
+- content: |-
+    Center for Electronics and Electrical Engineering :
+    technical publication announcements covering center programs, April - June 1985 with 1986 CEEE events calendar
   language:
   - en
   script:
@@ -30,7 +30,13 @@ contributor:
     name:
       given:
         forename:
-        - content: E Jane
+        - language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: 'E '
           language:
           - en
           script:

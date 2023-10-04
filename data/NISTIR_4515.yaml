@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR4515
 title:
-- content: Proceedings of a workshop on evaluation, repair, and retrofit of structures:U.S.
-    - Japan panel on wind and seismic effects, UJNR, Gaithersburg, MD, USA, May 12-14,
-    1990
+- content: |-
+    Proceedings of a workshop on evaluation, repair, and retrofit of structures:
+    U.S. - Japan panel on wind and seismic effects, UJNR, Gaithersburg, MD, USA, May 12-14, 1990
   language:
   - en
   script:
@@ -30,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: James O
+        - content: James
+          script:
+          - Latn
+          initial: O
+        formatted_initials:
+          content: O
           script:
           - Latn
       surname:
@@ -43,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Janet S
+        - content: Janet
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           script:
           - Latn
       surname:

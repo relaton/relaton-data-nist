@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT4125
 title:
-- content: Underground pipe insulation :progress report August 1, 1954 to May 31,
-    1955
+- content: |-
+    Underground pipe insulation :
+    progress report August 1, 1954 to May 31, 1955
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Selden D
+        - content: Selden
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Paul R
+        - content: Paul
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           language:
           - en
           script:

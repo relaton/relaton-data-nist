@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6649
 title:
-- content: NIST Workshop on Materials Test Procedures for Hydrogen PipelinesThe proceedings
-    of a workshop held August 21-22, 2007 at the National Institute of Standards and
-    Technology, Boulder, CO 80305
+- content: |-
+    NIST Workshop on Materials Test Procedures for Hydrogen Pipelines
+    The proceedings of a workshop held August 21-22, 2007 at the National Institute of Standards and Technology, Boulder, CO 80305
   language:
   - en
   script:
@@ -30,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Thomas A.
+        - content: Thomas
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
           language:
           - en
           script:
@@ -51,7 +58,13 @@ contributor:
     name:
       given:
         forename:
-        - content: J. David
+        - language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: 'J. '
           language:
           - en
           script:
@@ -72,7 +85,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard E.
+        - content: Richard
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E.
           language:
           - en
           script:

@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSBMS80
 title:
-- content: Performance test of floor coverings for use in low-cost housing :part 4
+- content: |-
+    Performance test of floor coverings for use in low-cost housing :
+    part 4
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Percy A
+        - content: Percy
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:
@@ -45,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Elmer A
+        - content: Elmer
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:

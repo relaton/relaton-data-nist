@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR81-2258
 title:
-- content: A methodology for evaluating housing in use :a case study approach
+- content: |-
+    A methodology for evaluating housing in use :
+    a case study approach
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Stephen T
+        - content: Stephen
+          language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           language:
           - en
           script:

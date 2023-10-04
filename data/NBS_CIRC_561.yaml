@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC561
 title:
-- content: Circular of the Bureau of Standards no. 561:reference tables for thermocouples
+- content: |-
+    Circular of the Bureau of Standards no. 561:
+    reference tables for thermocouples
   language:
   - en
   script:
@@ -41,7 +43,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Robert J
+        - content: Robert
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           script:
           - Latn
       surname:
@@ -54,15 +61,12 @@ contributor:
     name:
       given:
         forename:
-        - content: S T
+        - content: S
           script:
-          - Latn
-          initial: S
-        - script:
           - Latn
           initial: T
         formatted_initials:
-          content: S T
+          content: T
           script:
           - Latn
       surname:

@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT5340
 title:
-- content: Physical properties of chromium-cobalt dental alloys:progress report
+- content: |-
+    Physical properties of chromium-cobalt dental alloys:
+    progress report
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Duane F
+        - content: Duane
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           script:
           - Latn
       surname:
@@ -41,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Alfred G
+        - content: Alfred
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G
           script:
           - Latn
       surname:

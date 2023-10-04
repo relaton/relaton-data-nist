@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR80-2140
 title:
-- content: Fire safety of wood-burning appliances, Part 1 :state of the art review
-    and fire tests, volume 1
+- content: |-
+    Fire safety of wood-burning appliances, Part 1 :
+    state of the art review and fire tests, volume 1
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard D
+        - content: Richard
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR4843
 title:
-- content: Managing data:from vision to reality proceedings of the fourth annual DAMA
-    symposium
+- content: |-
+    Managing data:
+    from vision to reality proceedings of the fourth annual DAMA symposium
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Judith J
+        - content: Judith
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           script:
           - Latn
       surname:

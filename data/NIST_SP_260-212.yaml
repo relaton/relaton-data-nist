@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP260-212
 title:
-- content: Certification of Standard Reference Material 916b :bilirubin
+- content: |-
+    Certification of Standard Reference Material 916b :
+    bilirubin
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Michael A
+        - content: Michael
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:
@@ -62,7 +69,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Brian E
+        - content: Brian
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           script:
           - Latn
       surname:
@@ -96,7 +108,12 @@ contributor:
     name:
       given:
         forename:
-        - content: John R
+        - content: John
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           script:
           - Latn
       surname:
@@ -130,7 +147,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Lee L
+        - content: Lee
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:

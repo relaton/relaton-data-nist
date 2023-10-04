@@ -28,7 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Josephine M
+        - content: Josephine
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:
@@ -41,7 +46,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Lois M
+        - content: Lois
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:

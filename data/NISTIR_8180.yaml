@@ -45,7 +45,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Geraldine S
+        - content: Geraldine
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           script:
           - Latn
       surname:

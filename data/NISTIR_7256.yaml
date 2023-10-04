@@ -29,7 +29,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Charles R
+        - content: Charles
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           language:
           - en
           script:
@@ -63,7 +70,13 @@ contributor:
     name:
       given:
         forename:
-        - content: Y Tina
+        - language:
+          - en
+          script:
+          - Latn
+          initial: Y
+        formatted_initials:
+          content: 'Y '
           language:
           - en
           script:
@@ -80,7 +93,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Frank H
+        - content: Frank
+          language:
+          - en
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           language:
           - en
           script:

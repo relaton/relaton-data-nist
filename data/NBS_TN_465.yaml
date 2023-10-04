@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN465
 title:
-- content: Measurement of carrier lifetime in semiconductors:an annotated bibliography
-    covering the period 1949-1967
+- content: |-
+    Measurement of carrier lifetime in semiconductors:
+    an annotated bibliography covering the period 1949-1967
   language:
   - en
   script:
@@ -29,7 +30,13 @@ contributor:
     name:
       given:
         forename:
-        - content: W Murray
+        - language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: 'W '
           language:
           - en
           script:

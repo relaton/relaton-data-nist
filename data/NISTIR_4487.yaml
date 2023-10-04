@@ -28,15 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: F D
+        - content: F
           script:
-          - Latn
-          initial: F
-        - script:
           - Latn
           initial: D
         formatted_initials:
-          content: F D
+          content: D
           script:
           - Latn
       surname:
@@ -49,8 +46,7 @@ contributor:
     name:
       given:
         forename:
-        - content: E
-          script:
+        - script:
           - Latn
           initial: E
         formatted_initials:
@@ -67,15 +63,12 @@ contributor:
     name:
       given:
         forename:
-        - content: J P
+        - content: J
           script:
-          - Latn
-          initial: J
-        - script:
           - Latn
           initial: P
         formatted_initials:
-          content: J P
+          content: P
           script:
           - Latn
       surname:
@@ -88,7 +81,12 @@ contributor:
     name:
       given:
         forename:
-        - content: R J Van
+        - content: R
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: 'J '
           script:
           - Latn
       surname:

@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR79-1780
 title:
-- content: Post-occupancy evaluation :a case study of the evaluation process
+- content: |-
+    Post-occupancy evaluation :
+    a case study of the evaluation process
   language:
   - en
   script:
@@ -45,7 +47,14 @@ contributor:
     name:
       given:
         forename:
-        - content: George E
+        - content: George
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:
@@ -62,7 +71,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Arthur I
+        - content: Arthur
+          language:
+          - en
+          script:
+          - Latn
+          initial: I
+        formatted_initials:
+          content: I
           language:
           - en
           script:

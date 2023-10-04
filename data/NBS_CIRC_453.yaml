@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC453
 title:
-- content: Circular of the Bureau of Standards no. 453:apparatus for determining water-vapor
-    permeability of moisture barriers
+- content: |-
+    Circular of the Bureau of Standards no. 453:
+    apparatus for determining water-vapor permeability of moisture barriers
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Frederick T
+        - content: Frederick
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           script:
           - Latn
       surname:

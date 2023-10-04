@@ -28,7 +28,13 @@ contributor:
     name:
       given:
         forename:
-        - content: W Robert
+        - language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: 'W '
           language:
           - en
           script:

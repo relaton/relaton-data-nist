@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSLCIRC869
 title:
-- content: 'Letter Circular 869:rubber: list of NBS publications (supersedes Letter
-    Circular 707)'
+- content: |-
+    Letter Circular 869:
+    rubber: list of NBS publications (supersedes Letter Circular 707)
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Lawrence A
+        - content: Lawrence
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:

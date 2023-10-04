@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP260-234
 title:
-- content: Characterization of Reference Materials 8690 to 8693:Per- and Polyfluoroalkyl
-    Substances (PFAS) in Four Formulations of Aqueous Film-Forming Foams (AFFFs)
+- content: |-
+    Characterization of Reference Materials 8690 to 8693:
+    Per- and Polyfluoroalkyl Substances (PFAS) in Four Formulations of Aqueous Film-Forming Foams (AFFFs)
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Jessica L
+        - content: Jessica
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:

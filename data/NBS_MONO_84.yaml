@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSMONO84
 title:
-- content: Standard cells :their construction, maintenance, and characteristics
+- content: |-
+    Standard cells :
+    their construction, maintenance, and characteristics
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Walter J
+        - content: Walter
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           language:
           - en
           script:

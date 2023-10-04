@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7103a
 title:
-- content: Forensic software testing support tools :test plan, test design specification,
-    test case specification
+- content: |-
+    Forensic software testing support tools :
+    test plan, test design specification, test case specification
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Serban I
+        - content: Serban
+          language:
+          - en
+          script:
+          - Latn
+          initial: I
+        formatted_initials:
+          content: I
           language:
           - en
           script:

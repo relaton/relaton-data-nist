@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR8288
 title:
-- content: Voices of first responders-nationwide public safety communication survey
-    methodology:development, dissemination, and demographics phase 2, volume 1
+- content: |-
+    Voices of first responders-nationwide public safety communication survey methodology:
+    development, dissemination, and demographics phase 2, volume 1
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Kristen K
+        - content: Kristen
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K
           script:
           - Latn
       surname:
@@ -97,7 +103,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Mary F
+        - content: Mary
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           script:
           - Latn
       surname:
@@ -165,7 +176,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Michelle P
+        - content: Michelle
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P
           script:
           - Latn
       surname:

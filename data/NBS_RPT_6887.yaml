@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT6887
 title:
-- content: Field studies of year-round air conditioning systems :interim report on
-    task I
+- content: |-
+    Field studies of year-round air conditioning systems :
+    interim report on task I
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Paul R
+        - content: Paul
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           language:
           - en
           script:

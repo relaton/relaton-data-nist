@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP260-118
 title:
-- content: Standard Reference Materials :Calibration of NIST standard reference material
-    3202 for 18-track, parallel, and 36-track, parallel serpentine, 12.65 mm (0.5
-    in), 1491 cpmm (37871 cpi), magnetic tape cartridge/
+- content: |-
+    Standard Reference Materials :
+    Calibration of NIST standard reference material 3202 for 18-track, parallel, and 36-track, parallel serpentine, 12.65 mm (0.5 in), 1491 cpmm (37871 cpi), magnetic tape cartridge/
   language:
   - en
   script:
@@ -30,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Mark P
+        - content: Mark
+          language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P
           language:
           - en
           script:

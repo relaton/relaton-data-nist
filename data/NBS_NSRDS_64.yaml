@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSNSRDS64
 title:
-- content: Rate coefficients for ion-molecule reactions :organic ions other than those
-    containing only c and h
+- content: |-
+    Rate coefficients for ion-molecule reactions :
+    organic ions other than those containing only c and h
   language:
   - en
   script:
@@ -29,7 +30,13 @@ contributor:
     name:
       given:
         forename:
-        - content: L Wayne
+        - language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: 'L '
           language:
           - en
           script:

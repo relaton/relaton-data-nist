@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTTN1518
 title:
-- content: Design and Testing of NFRad- :a new noise measurement system
+- content: |-
+    Design and Testing of NFRad- :
+    a new noise measurement system
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Chriss A
+        - content: Chriss
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:

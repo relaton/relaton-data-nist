@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR8396
 title:
-- content: Open Media Forensics Challenge (OpenMFC) 2020-2021 :past, present, and
-    future
+- content: |-
+    Open Media Forensics Challenge (OpenMFC) 2020-2021 :
+    past, present, and future
   language:
   - en
   script:
@@ -80,7 +81,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Jesse G
+        - content: Jesse
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G
           script:
           - Latn
       surname:
@@ -131,7 +137,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Peter C
+        - content: Peter
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           script:
           - Latn
       surname:

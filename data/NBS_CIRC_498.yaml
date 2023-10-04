@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC498
 title:
-- content: Circular of the Bureau of Standards no. 498:bibliography of recent research
-    in the field of high polymers
+- content: |-
+    Circular of the Bureau of Standards no. 498:
+    bibliography of recent research in the field of high polymers
   language:
   - en
   script:
@@ -55,7 +56,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Helen H
+        - content: Helen
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           script:
           - Latn
       surname:

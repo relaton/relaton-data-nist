@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR80-1986
 title:
-- content: A summary of oil shale activities at the National Bureau of Standards 1975-1979
-    :interagency energyenvironment R&D program report
+- content: |-
+    A summary of oil shale activities at the National Bureau of Standards 1975-1979 :
+    interagency energyenvironment R&D program report
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Lottie T
+        - content: Lottie
+          language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
           language:
           - en
           script:

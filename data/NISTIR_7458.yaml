@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7458
 title:
-- content: Standard guide to fluorescence :instrument calibration and validation
+- content: |-
+    Standard guide to fluorescence :
+    instrument calibration and validation
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Paul C
+        - content: Paul
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           language:
           - en
           script:

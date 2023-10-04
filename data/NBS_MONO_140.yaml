@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSMONO140
 title:
-- content: Time and frequency :theory and fundamentals
+- content: |-
+    Time and frequency :
+    theory and fundamentals
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Byron E
+        - content: Byron
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

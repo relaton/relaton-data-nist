@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR5911
 title:
-- content: A standardized approach for transducer interfacing:implementing IEEE-P1451
-    smart transducer interface draft standards
+- content: |-
+    A standardized approach for transducer interfacing:
+    implementing IEEE-P1451 smart transducer interface draft standards
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Kang B
+        - content: Kang
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           script:
           - Latn
       surname:
@@ -42,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Richard D
+        - content: Richard
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           script:
           - Latn
       surname:

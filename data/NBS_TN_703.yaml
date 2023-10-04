@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN703
 title:
-- content: ARPA-NBS Program of research on high temperature materials and laser materials
-    :reporting period January 1 to June 30, 1971
+- content: |-
+    ARPA-NBS Program of research on high temperature materials and laser materials :
+    reporting period January 1 to June 30, 1971
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Herbert S.
+        - content: Herbert
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
           language:
           - en
           script:
@@ -46,19 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: A D
+        - content: A
           language:
-          - en
-          script:
-          - Latn
-          initial: A
-        - language:
           - en
           script:
           - Latn
           initial: D
         formatted_initials:
-          content: A D
+          content: D
           language:
           - en
           script:

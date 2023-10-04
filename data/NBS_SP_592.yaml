@@ -45,7 +45,13 @@ contributor:
     name:
       given:
         forename:
-        - content: A Gerald
+        - language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: 'A '
           language:
           - en
           script:

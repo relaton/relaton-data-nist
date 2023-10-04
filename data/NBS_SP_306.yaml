@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP306
 title:
-- content: Bibliography on the analyses of optical atomic spectra :section 1, 1H -
-    23V
+- content: |-
+    Bibliography on the analyses of optical atomic spectra :
+    section 1, 1H - 23V
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Charlotte E
+        - content: Charlotte
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:

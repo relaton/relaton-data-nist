@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR8422
 title:
-- content: Augmented reality (AR) usability evaluation framework :the case of public
-    safety communications research
+- content: |-
+    Augmented reality (AR) usability evaluation framework :
+    the case of public safety communications research
   language:
   - en
   script:
@@ -63,7 +64,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Kevin C
+        - content: Kevin
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           script:
           - Latn
       surname:

@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN963
 title:
-- content: Air and water pollution :annual report, fy 74-76
+- content: |-
+    Air and water pollution :
+    annual report, fy 74-76
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: William H
+        - content: William
+          language:
+          - en
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H
           language:
           - en
           script:

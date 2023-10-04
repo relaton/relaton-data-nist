@@ -29,7 +29,11 @@ contributor:
     name:
       given:
         forename:
-        - content: E Jane
+        - script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: 'E '
           script:
           - Latn
       surname:

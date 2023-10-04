@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR6577
 title:
-- content: Winning an award from the advanced technology program :pursuing R&D strategies
-    in the public interest and benefiting from a halo effect
+- content: |-
+    Winning an award from the advanced technology program :
+    pursuing R&D strategies in the public interest and benefiting from a halo effect
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Maryann P
+        - content: Maryann
+          language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P
           language:
           - en
           script:

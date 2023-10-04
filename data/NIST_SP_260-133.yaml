@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP260-133
 title:
-- content: Standard Reference Materials :Acetylene 12C2H2 absorption reference for
-    1510-1540 nm wavelength calibration - SRM 2517/
+- content: |-
+    Standard Reference Materials :
+    Acetylene 12C2H2 absorption reference for 1510-1540 nm wavelength calibration - SRM 2517/
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: William C
+        - content: William
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Sarah L
+        - content: Sarah
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           language:
           - en
           script:

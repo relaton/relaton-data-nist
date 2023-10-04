@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP1061
 title:
-- content: Forum workshop on establishing the scientific foundation for performance-based
-    fire codes :proceedings
+- content: |-
+    Forum workshop on establishing the scientific foundation for performance-based fire codes :
+    proceedings
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: William L
+        - content: William
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           language:
           - en
           script:

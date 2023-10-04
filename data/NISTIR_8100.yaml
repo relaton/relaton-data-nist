@@ -29,7 +29,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Christopher U.
+        - content: Christopher
+          script:
+          - Latn
+          initial: U
+        formatted_initials:
+          content: U.
           script:
           - Latn
       surname:
@@ -63,7 +68,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Mark R.
+        - content: Mark
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R.
           script:
           - Latn
       surname:
@@ -80,7 +90,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Antonio M.
+        - content: Antonio
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
           script:
           - Latn
       surname:
@@ -97,7 +112,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Shawn P.
+        - content: Shawn
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P.
           script:
           - Latn
       surname:
@@ -114,7 +134,11 @@ contributor:
     name:
       given:
         forename:
-        - content: M. Alkan A.
+        - script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: 'M. '
           script:
           - Latn
       surname:

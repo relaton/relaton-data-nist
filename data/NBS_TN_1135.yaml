@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN1135
 title:
-- content: Cooling of bitumen during construction of built-up roofing systems :a mathematical
-    model
+- content: |-
+    Cooling of bitumen during construction of built-up roofing systems :
+    a mathematical model
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Walter J
+        - content: Walter
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTTN2220
 title:
-- content: The NIST 20 MW Calorimetry Measurement System :exhaust flow calibration
-    using tracer gas dilution
+- content: |-
+    The NIST 20 MW Calorimetry Measurement System :
+    exhaust flow calibration using tracer gas dilution
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Rodney A
+        - content: Rodney
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:

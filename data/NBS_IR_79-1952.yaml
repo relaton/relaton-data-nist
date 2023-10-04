@@ -28,7 +28,13 @@ contributor:
     name:
       given:
         forename:
-        - content: C Denver
+        - language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: 'C '
           language:
           - en
           script:
@@ -45,19 +51,14 @@ contributor:
     name:
       given:
         forename:
-        - content: R A
+        - content: R
           language:
-          - en
-          script:
-          - Latn
-          initial: R
-        - language:
           - en
           script:
           - Latn
           initial: A
         formatted_initials:
-          content: R A
+          content: A
           language:
           - en
           script:
@@ -74,19 +75,14 @@ contributor:
     name:
       given:
         forename:
-        - content: C C
+        - content: C
           language:
           - en
           script:
           - Latn
           initial: C
-        - language:
-          - en
-          script:
-          - Latn
-          initial: C
         formatted_initials:
-          content: C C
+          content: C
           language:
           - en
           script:
@@ -103,8 +99,7 @@ contributor:
     name:
       given:
         forename:
-        - content: K
-          language:
+        - language:
           - en
           script:
           - Latn

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT10129
 title:
-- content: An evaluation of two Farr Dyna Vane systems at the Omaha Main Post Office:final
-    report
+- content: |-
+    An evaluation of two Farr Dyna Vane systems at the Omaha Main Post Office:
+    final report
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Charles M
+        - content: Charles
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:

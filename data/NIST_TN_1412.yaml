@@ -28,7 +28,19 @@ contributor:
     name:
       given:
         forename:
-        - content: Donald R F
+        - content: Donald
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+        - language:
+          - en
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: R F
           language:
           - en
           script:

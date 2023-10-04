@@ -28,7 +28,13 @@ contributor:
     name:
       given:
         forename:
-        - content: A James
+        - language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: 'A '
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP250-41e2008
 title:
-- content: Spectroradiometric detector measurements :ultraviolet, visible, and near-infrared
-    detectors for spectral power
+- content: |-
+    Spectroradiometric detector measurements :
+    ultraviolet, visible, and near-infrared detectors for spectral power
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Thomas C
+        - content: Thomas
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Jeanne M
+        - content: Jeanne
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSMP258
 title:
-- content: Foreign-language and English dictionaries in the physical sciences and
-    engineering :A selected bibiography 1952 to 1963/
+- content: |-
+    Foreign-language and English dictionaries in the physical sciences and engineering :
+    A selected bibiography 1952 to 1963/
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Tibor W
+        - content: Tibor
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           language:
           - en
           script:

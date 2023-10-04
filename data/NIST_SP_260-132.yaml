@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP260-132
 title:
-- content: Standard Reference Materials :Indium freezing-point standard - SRM 1745,
-    Indium DCS melting-point standard - SRM 2232/
+- content: |-
+    Standard Reference Materials :
+    Indium freezing-point standard - SRM 1745, Indium DCS melting-point standard - SRM 2232/
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Gregory F
+        - content: Gregory
+          language:
+          - en
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           language:
           - en
           script:

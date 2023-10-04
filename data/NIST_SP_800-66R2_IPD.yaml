@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP800-66r2ipd
 title:
-- content: Implementing the Health Insurance Portability and Accountability Act (HIPAA)
-    Security Rule:A Cybersecurity Resource Guide
+- content: |-
+    Implementing the Health Insurance Portability and Accountability Act (HIPAA) Security Rule:
+    A Cybersecurity Resource Guide
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Jeffrey A
+        - content: Jeffrey
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           script:
           - Latn
       surname:

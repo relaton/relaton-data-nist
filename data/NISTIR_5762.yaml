@@ -28,7 +28,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Craig S
+        - content: Craig
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           script:
           - Latn
       surname:

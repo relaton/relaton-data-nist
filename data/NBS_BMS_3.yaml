@@ -28,7 +28,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Lansing S
+        - content: Lansing
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
           language:
           - en
           script:
@@ -45,19 +52,14 @@ contributor:
     name:
       given:
         forename:
-        - content: D C
+        - content: D
           language:
-          - en
-          script:
-          - Latn
-          initial: D
-        - language:
           - en
           script:
           - Latn
           initial: C
         formatted_initials:
-          content: D C
+          content: C
           language:
           - en
           script:

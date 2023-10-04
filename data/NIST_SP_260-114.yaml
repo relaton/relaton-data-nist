@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP260-114
 title:
-- content: Standard Reference Materials :Bright-chromium linewidth standard, SRM 476,
-    for calibration of optical microscope linewidth measuring systems/
+- content: |-
+    Standard Reference Materials :
+    Bright-chromium linewidth standard, SRM 476, for calibration of optical microscope linewidth measuring systems/
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Ruth N
+        - content: Ruth
+          language:
+          - en
+          script:
+          - Latn
+          initial: N
+        formatted_initials:
+          content: N
           language:
           - en
           script:
@@ -46,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Carol F
+        - content: Carol
+          language:
+          - en
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           language:
           - en
           script:

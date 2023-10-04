@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR89-3913
 title:
-- content: Interlaboratory comparison of the guarded horizontal pipe-test apparatus
-    :precision of ASTM standard test method C-335 applied to mineral-fiber pipe insulation
+- content: |-
+    Interlaboratory comparison of the guarded horizontal pipe-test apparatus :
+    precision of ASTM standard test method C-335 applied to mineral-fiber pipe insulation
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: David R
+        - content: David
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R
           language:
           - en
           script:

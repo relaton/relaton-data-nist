@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP399v2
 title:
-- content: NBS FORTRAN test programs :volume 2 - listings for version 1
+- content: |-
+    NBS FORTRAN test programs :
+    volume 2 - listings for version 1
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Frances E
+        - content: Frances
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
           language:
           - en
           script:
@@ -45,7 +54,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Elizabeth G
+        - content: Elizabeth
+          language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G
           language:
           - en
           script:

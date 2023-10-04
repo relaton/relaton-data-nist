@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7696
 title:
-- content: Common planform enumeration :name matching specification version 2.3
+- content: |-
+    Common planform enumeration :
+    name matching specification version 2.3
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Mary C
+        - content: Mary
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           language:
           - en
           script:

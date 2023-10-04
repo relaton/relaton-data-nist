@@ -28,7 +28,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Harry A
+        - content: Harry
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
           language:
           - en
           script:
@@ -62,7 +69,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Elaine C
+        - content: Elaine
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           language:
           - en
           script:

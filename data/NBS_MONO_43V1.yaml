@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSMONO43v1
 title:
-- content: Chemistry of cement :proceedings of the fourth international symposium
+- content: |-
+    Chemistry of cement :
+    proceedings of the fourth international symposium
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Allen V
+        - content: Allen
+          language:
+          - en
+          script:
+          - Latn
+          initial: V
+        formatted_initials:
+          content: V
           language:
           - en
           script:
@@ -45,7 +54,13 @@ contributor:
     name:
       given:
         forename:
-        - content: G Donald
+        - language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: 'G '
           language:
           - en
           script:

@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR4781
 title:
-- content: Privacy protection in the United States:a 1991 survey of laws and regulations
-    affecting privacy in the public and private sector including a list of all relevant
-    officials
+- content: |-
+    Privacy protection in the United States:
+    a 1991 survey of laws and regulations affecting privacy in the public and private sector including a list of all relevant officials
   language:
   - en
   script:
@@ -30,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Ronald L
+        - content: Ronald
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:
@@ -43,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Emilio W
+        - content: Emilio
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W
           script:
           - Latn
       surname:

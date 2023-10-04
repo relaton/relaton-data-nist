@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSSP345-2
 title:
-- content: U.S. metric study interim report - federal government :civilian agencies
+- content: |-
+    U.S. metric study interim report - federal government :
+    civilian agencies
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Daniel V
+        - content: Daniel
+          language:
+          - en
+          script:
+          - Latn
+          initial: V
+        formatted_initials:
+          content: V
           language:
           - en
           script:

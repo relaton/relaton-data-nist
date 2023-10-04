@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP800-68
 title:
-- content: 'Guidance for securing Microsoft Windows XP for IT Professionals :a NIST
-    security configuration checklist : recommendations of the National Institute of
-    Standards and Technology'
+- content: |-
+    Guidance for securing Microsoft Windows XP for IT Professionals :
+    a NIST security configuration checklist : recommendations of the National Institute of Standards and Technology
   language:
   - en
   script:
@@ -72,7 +72,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Paul M
+        - content: Paul
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           language:
           - en
           script:

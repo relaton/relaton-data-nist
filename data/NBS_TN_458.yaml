@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSTN458
 title:
-- content: Activation analysis section:summary of activities July 1967 to June 1968.
+- content: |-
+    Activation analysis section:
+    summary of activities July 1967 to June 1968.
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Philip D
+        - content: Philip
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           language:
           - en
           script:

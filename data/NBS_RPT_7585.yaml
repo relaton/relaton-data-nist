@@ -2,9 +2,9 @@
 schema-version: v1.2.4
 id: NBSRPT7585
 title:
-- content: Report on international travel to Latin America to discuss, promote, assist,
-    and participate in the development of Pan American standards for textiles:May
-    17, 1962 to June 30, 1962
+- content: |-
+    Report on international travel to Latin America to discuss, promote, assist, and participate in the development of Pan American standards for textiles:
+    May 17, 1962 to June 30, 1962
   language:
   - en
   script:
@@ -30,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Herbert F, Dr
+        - content: Herbert
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
           script:
           - Latn
       surname:

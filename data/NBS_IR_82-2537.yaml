@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR82-2537
 title:
-- content: An assessment of correlations between laboratory and full-scale experiments
-    for the FAA Aircraft Fire Safety Program, Part 5 :some analyses ofthe post crash
+- content: |-
+    An assessment of correlations between laboratory and full-scale experiments for the FAA Aircraft Fire Safety Program, Part 5 :
+    some analyses ofthe post crash
   language:
   - en
   script:
@@ -29,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: James G
+        - content: James
+          language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G
           language:
           - en
           script:

@@ -29,7 +29,13 @@ contributor:
     name:
       given:
         forename:
-        - content: P Michael
+        - language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: 'P '
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTTN1450
 title:
-- content: CCT-K3 :key comparison of realizations of the ITS-90 over the range 83.8058
-    K to 933.473 K
+- content: |-
+    CCT-K3 :
+    key comparison of realizations of the ITS-90 over the range 83.8058 K to 933.473 K
   language:
   - en
   script:
@@ -29,19 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: B W
+        - content: B
           language:
-          - en
-          script:
-          - Latn
-          initial: B
-        - language:
           - en
           script:
           - Latn
           initial: W
         formatted_initials:
-          content: B W
+          content: W
           language:
           - en
           script:

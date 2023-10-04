@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR85-3254
 title:
-- content: Technical activities 1985 :Center for Basic Standards
+- content: |-
+    Technical activities 1985 :
+    Center for Basic Standards
   language:
   - en
   script:
@@ -28,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Karl G
+        - content: Karl
+          language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G
           language:
           - en
           script:

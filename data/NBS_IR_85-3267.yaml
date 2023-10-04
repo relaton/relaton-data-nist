@@ -2,10 +2,9 @@
 schema-version: v1.2.4
 id: NBSIR85-3267
 title:
-- content: A summary of the NBS literature reviews on the chemical nature and toxicity
-    of the pyrolysis and combustion products from seven plastics :acrylonitrile-butadiene-styrenes
-    (ABS), nylons, polyesters, polyethylenes, polystyrenes, poly(vinyl chlorides)
-    and rigid polyurethane foams
+- content: |-
+    A summary of the NBS literature reviews on the chemical nature and toxicity of the pyrolysis and combustion products from seven plastics :
+    acrylonitrile-butadiene-styrenes (ABS), nylons, polyesters, polyethylenes, polystyrenes, poly(vinyl chlorides) and rigid polyurethane foams
   language:
   - en
   script:
@@ -31,7 +30,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Barbara C
+        - content: Barbara
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           language:
           - en
           script:

@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR7211
 title:
-- content: Product lifecycle management support :a challenge in supporting product
-    design and manufacturing in a networked economy
+- content: |-
+    Product lifecycle management support :
+    a challenge in supporting product design and manufacturing in a networked economy
   language:
   - en
   script:
@@ -97,7 +98,14 @@ contributor:
     name:
       given:
         forename:
-        - content: Ram D
+        - content: Ram
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
           language:
           - en
           script:

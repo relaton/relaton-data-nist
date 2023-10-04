@@ -46,7 +46,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Nancy J
+        - content: Nancy
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
           script:
           - Latn
       surname:

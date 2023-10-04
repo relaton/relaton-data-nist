@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC434
 title:
-- content: Circular of the Bureau of Standards no. 434:testing of glass volumetric
-    apparatus
+- content: |-
+    Circular of the Bureau of Standards no. 434:
+    testing of glass volumetric apparatus
   language:
   - en
   script:
@@ -29,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Elmer L
+        - content: Elmer
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
           script:
           - Latn
       surname:
@@ -42,7 +48,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Grace C
+        - content: Grace
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           script:
           - Latn
       surname:

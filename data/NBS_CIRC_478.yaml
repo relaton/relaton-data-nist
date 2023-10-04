@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NBSCIRC478
 title:
-- content: Circular of the Bureau of Standards no. 478:colorimetry
+- content: |-
+    Circular of the Bureau of Standards no. 478:
+    colorimetry
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Deane B
+        - content: Deane
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B
           script:
           - Latn
       surname:

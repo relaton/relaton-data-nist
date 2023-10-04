@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTSP800-60v1r1
 title:
-- content: Volume I :guide for mapping types of information and information systems
-    to security categories
+- content: |-
+    Volume I :
+    guide for mapping types of information and information systems to security categories
   language:
   - en
   script:
@@ -63,7 +64,14 @@ contributor:
     name:
       given:
         forename:
-        - content: William C
+        - content: William
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
           language:
           - en
           script:

@@ -2,7 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR4440
 title:
-- content: Summaries of Center for Fire Research:in-house projects and grants - 1990
+- content: |-
+    Summaries of Center for Fire Research:
+    in-house projects and grants - 1990
   language:
   - en
   script:
@@ -28,7 +30,12 @@ contributor:
     name:
       given:
         forename:
-        - content: Sonya M
+        - content: Sonya
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
           script:
           - Latn
       surname:

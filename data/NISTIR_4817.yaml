@@ -2,8 +2,9 @@
 schema-version: v1.2.4
 id: NISTIR4817
 title:
-- content: National Voluntary Laboratory Accreditation Program:workshop on fastener
-    test methods part I
+- content: |-
+    National Voluntary Laboratory Accreditation Program:
+    workshop on fastener test methods part I
   language:
   - en
   script:
@@ -29,7 +30,11 @@ contributor:
     name:
       given:
         forename:
-        - content: S Wayne
+        - script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: 'S '
           script:
           - Latn
       surname:

@@ -1,0 +1,69 @@
+---
+id: NISTResearchLibrary2022
+title:
+- content: NIST Technical Series Publication Metadata.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://data.nist.gov/od/id/mds2-2192
+  type: src
+- content: https://doi.org/10.18434/M32192
+  type: doi
+type: standard
+docid:
+- id: NIST Research Library (2022)
+  type: NIST
+  primary: true
+- id: 10.18434/M32192
+  type: DOI
+date:
+- type: published
+  value: "2020-03-06"
+abstract:
+  - content: Metadata for all final NIST Technical Series publications available online, created and maintained by the NIST Research Library.
+    language: en
+    script: Latn
+    format: text/plain
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Kathryn
+          script:
+          - Latn
+      surname:
+        content: Miller
+        script:
+        - Latn
+    contact:
+    - email: kathryn.miller@nist.gov
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    abbreviation:
+      content: NIST
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: "2020-03-06"
+script:
+- Latn
+series:
+- title:
+    content: Information Technology:Data and informatics
+    format: text/plain
+doctype: techreport
+keyword:
+  - open access
+  - NIST technical reports
+  - NIST publications

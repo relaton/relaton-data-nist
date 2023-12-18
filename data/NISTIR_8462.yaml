@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.7
+id: NISTIR8462
+title:
+- content: |-
+    Static analysis tool exposition (SATE) VI :
+    mobile track report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.IR.8462
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/ir/2023/NIST.IR.8462.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST IR 8462
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.IR.8462
+  type: DOI
+date:
+- type: published
+  value: '2023-03-29'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Michael
+          script:
+          - Latn
+      surname:
+        content: Ogata
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2023-03-29'
+script:
+- Latn
+abstract:
+- content: Mobile applications are pervasive in the public and private sectors. Enterprises
+    in these sectors should evaluate the mobile applications used within their infrastructures
+    for vulnerabilities to minimize potential risk. The SATE VI Mobile track seeks
+    to improve the tools and services used in these evaluations by extending the Static
+    Analysis Tool Exposition (SATE) to include mobile application tool evaluations.
+    This document describes NIST s first attempt to carry out that goal and the results
+    that stemmed from the first Mobile SATE track.
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST IR (Interagency/Internal Reports)
+    format: text/plain
+  abbreviation:
+    content: IR
+  number: '8462'
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

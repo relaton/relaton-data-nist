@@ -1,0 +1,67 @@
+---
+schema-version: v1.2.7
+id: NISTAMS500-1
+title:
+- content: Enabling FAIR Data in Additive Manufacturing to Accelerate Industrialization
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.AMS.500-1
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.500-1.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST AMS 500-1
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.AMS.500-1
+  type: DOI
+date:
+- type: published
+  value: '2023'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Shengyen
+          script:
+          - Latn
+      surname:
+        content: Li
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Engineering Laboratory
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2023'
+script:
+- Latn
+series:
+- title:
+    content: NIST Advanced Manufacturing Series
+    format: text/plain
+  abbreviation:
+    content: AMS
+  number: 500-1
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

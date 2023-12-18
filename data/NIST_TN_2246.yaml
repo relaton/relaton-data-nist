@@ -1,0 +1,102 @@
+---
+schema-version: v1.2.7
+id: NISTTN2246
+title:
+- content: Generator fleet characteristics model
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.TN.2246
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2246.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST TN 2246
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.TN.2246
+  type: DOI
+date:
+- type: published
+  value: '2023-02-01'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Cheyney
+          script:
+          - Latn
+      surname:
+        content: O Fallon
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Communications Technology Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Avi
+          script:
+          - Latn
+      surname:
+        content: Gopstein
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Communications Technology Laboratory
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2023-02-01'
+script:
+- Latn
+abstract:
+- content: This manuscript presents the Generator Fleet Characteristics Model (GFCM),
+    a general purpose tool for the analysis of power system operations, economics,
+    and resilience. The GFCM is a collection of MATLAB functions that use publicly
+    available data with national coverage to produce year-long (8760 hour) analyses
+    of the electric grid at the balancing authority level. As the name implies, the
+    GFCM builds up a series of snapshots of electric grid conditions and outcomes
+    using the economics of the generator feet as a starting point for understanding
+    system complexity and dynamics. While the synchronous inertia application we present
+    here uses the GFCM to build a detailed picture of the present state of electric
+    grid operations and market outcomes, the model is designed to facilitate counterfactual
+    study through the comparison of model outputs by an analyst that systematically
+    varies inputs. The GFCM forms a modeling framework intended to aide in the formulation
+    of what if questions regarding how the grid might operate under changing ambient
+    conditions while harnessing evolving technologies.
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST Technical Notes
+    format: text/plain
+  abbreviation:
+    content: TN
+  number: '2246'
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

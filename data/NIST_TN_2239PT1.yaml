@@ -1,0 +1,158 @@
+---
+schema-version: v1.2.7
+id: NISTTN2239pt1
+title:
+- content: |-
+    NIST Alternatives for Resilient Communities (NIST ARC) software tool:
+    mathematical programming model
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.TN.2239pt1
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2239pt1.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST TN 2239pt1
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.TN.2239pt1
+  type: DOI
+date:
+- type: published
+  value: '2023-01-25'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Kenneth
+          script:
+          - Latn
+      surname:
+        content: Harrison
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Engineering Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Tasnim Ibn
+          script:
+          - Latn
+      surname:
+        content: Faiz
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Engineering Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Zeinab
+          script:
+          - Latn
+      surname:
+        content: Farahmandfar
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Engineering Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Shane
+          script:
+          - Latn
+      surname:
+        content: Crawford
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Engineering Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Jarrod
+          script:
+          - Latn
+      surname:
+        content: Loerzel
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Engineering Laboratory
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2023-01-25'
+script:
+- Latn
+abstract:
+- content: The National Institute of Standards and Technology (NIST) Alternatives
+    for Resilient Communities (NIST ARC) software is an interactive tool for developing
+    alternative sets of actions that meet community resilience and cost goals, given
+    hazard and interdependency information and socio-economic data. Community resilience
+    planning is challenging as it involves several large-scale systems and public
+    sector decision-making with numerous stakeholders. The goal of NIST ARC is to
+    decrease a community s burden in developing viable alternatives for stakeholder
+    consideration. This technical note details NIST ARC s mathematical programming
+    model, which is the leading technical contribution of NIST ARC. The model variables,
+    parameters (data), and equations of the two-stage stochastic mixed integer linear
+    programming model are described, with the full model given in the Appendix. Results
+    for a realistic example designed to test the suitability of the mathematical programming
+    model for supporting interactive community resilience planning are presented.
+    Finally, the NIST ARC decision support application that enables the use and application
+    of the model, the plans for its further development and testing, and its role
+    within the broader set of NIST-funded tools and guidance for the Community Resilience
+    Program are briefly described.
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST Technical Notes
+    format: text/plain
+  abbreviation:
+    content: TN
+  number: 2239pt1
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

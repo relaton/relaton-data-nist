@@ -1,0 +1,68 @@
+---
+schema-version: v1.2.7
+id: NISTSP800-140Dr2
+title:
+- content: CMVP Approved Sensitive Security Parameter Generation and Establishment
+    Methods
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.SP.800-140Dr2
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-140Dr2.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST SP 800-140Dr2
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.SP.800-140Dr2
+  type: DOI
+date:
+- type: published
+  value: '2023'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Alexander
+          script:
+          - Latn
+      surname:
+        content: Calis
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2023'
+script:
+- Latn
+series:
+- title:
+    content: NIST Special Publications (General)
+    format: text/plain
+  abbreviation:
+    content: SP
+  number: 800-140Dr2
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

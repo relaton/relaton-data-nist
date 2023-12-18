@@ -1,0 +1,67 @@
+---
+schema-version: v1.2.7
+id: NISTTN2258
+title:
+- content: Design and Implementation of a Closed-Loop Mobile Manipulator Control System
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.TN.2258
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2258.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST TN 2258
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.TN.2258
+  type: DOI
+date:
+- type: published
+  value: '2023'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Omar
+          script:
+          - Latn
+      surname:
+        content: Aboul-Enein
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Engineering Laboratory
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2023'
+script:
+- Latn
+series:
+- title:
+    content: NIST Technical Notes
+    format: text/plain
+  abbreviation:
+    content: TN
+  number: '2258'
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

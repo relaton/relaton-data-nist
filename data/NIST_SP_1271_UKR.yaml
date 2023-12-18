@@ -1,0 +1,129 @@
+---
+schema-version: v1.2.7
+id: NISTSP1271ukr
+title:
+- content: |-
+    Getting started with the NIST cybersecuity framework :
+    a quick start guide (Ukranian translation)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.SP.1271.ukr
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1271.ukr.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST SP 1271 ukr
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.SP.1271.ukr
+  type: DOI
+date:
+- type: published
+  value: '2023-03-14'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Amy
+          script:
+          - Latn
+      surname:
+        content: Mahn
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Jeffrey
+          script:
+          - Latn
+      surname:
+        content: Marron
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Stephen
+          script:
+          - Latn
+      surname:
+        content: Quinn
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Daniel
+          script:
+          - Latn
+      surname:
+        content: Topper
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2023-03-14'
+script:
+- Latn
+abstract:
+- content: Document translated courtesy of Danylo Mialkovskyi, Oleksandr Bakalynskyi,
+    Illia Vysotskyi, Maryna Vosmeryk, Anastasiia Korostelkina, Illia Zuzin and Viktoria
+    Shmalenuk. Reviewed by Diplomatic Language Services. Official U.S. Government
+    translation. The official English language version of this publication is available
+    free of charge from NIST at https://doi.org/10.6028/NIST.SP.1271.
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST Special Publications (General)
+    format: text/plain
+  abbreviation:
+    content: SP
+  number: '1271'
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

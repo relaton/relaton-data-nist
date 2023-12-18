@@ -1,0 +1,255 @@
+---
+schema-version: v1.2.7
+id: NISTSP250-100
+title:
+- content: |-
+    Magnetic resonance imaging biomarker calibration service :
+    NMR measurement of isotropic water diffusion coefficient
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.SP.250-100
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.250-100.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST SP 250-100
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.SP.250-100
+  type: DOI
+date:
+- type: published
+  value: '2022-10-03'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Michael
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
+          script:
+          - Latn
+      surname:
+        content: Boss
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Physical Measurement Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Kathryn
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
+          script:
+          - Latn
+      surname:
+        content: Keenan
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Physical Measurement Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Karl
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F
+          script:
+          - Latn
+      surname:
+        content: Stupic
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Physical Measurement Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Nikki
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
+          script:
+          - Latn
+      surname:
+        content: Rentz
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Physical Measurement Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Cassandra
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
+          script:
+          - Latn
+      surname:
+        content: Stoffer
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Physical Measurement Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Stephen
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E
+          script:
+          - Latn
+      surname:
+        content: Russek
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Physical Measurement Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Amanda
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
+          script:
+          - Latn
+      surname:
+        content: Koepke
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Physical Measurement Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Kevin
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
+          script:
+          - Latn
+      surname:
+        content: Coakley
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Physical Measurement Laboratory
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2022-10-03'
+script:
+- Latn
+abstract:
+- content: This document describes a calibration service to measure the water diffusion
+    coefficient, or diffusivity, in reference materials and tissue mimics using nuclear
+    magnetic resonance (NMR) techniques. This calibration is restricted to materials
+    which exhibit isotropic Gaussian water diffusion. The measurement uses the water
+    proton spin as a tag and standard NMR gradient techniques to measure diffusion
+    of the proton magnetization, which, in low viscosity fluids, is largely determined
+    by the physical diffusion of water molecules. The calibrated materials are meant
+    to be used in phantoms (calibration devices) to verify the accuracy of magnetic
+    resonance imaging (MRI)-based water diffusion measurements. The local diffusion
+    coefficient (often referred to as the apparent diffusion coefficient in complex
+    materials) and other associated parameters, are used as image-based biomarkers
+    to assess the state of tissue cellular density, detect tissue anomalies, characterize
+    tumor type, evaluate treatment efficacy, and assess neural connectivity and neural
+    tissue degeneration. A biomarker, as defined by the U.S. Food and Drug Administration,
+    is a characteristic that is objectively measured and evaluated as an indicator
+    of normal biological processes, pathogenic processes, or biological responses
+    to a therapeutic intervention. [1] Diffusion coefficients, which describe the
+    rate that water protons move due to random thermal motion, are phenomenological
+    parameters that must be carefully defined and measured to enable rigorous quantification
+    and their use as biomarkers for clinical decision making. Diffusion parameters,
+    in addition to being dependent on local material properties, are dependent on
+    environmental parameters such as temperature, which must be controlled and precisely
+    and accurately measured.
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST Special Publications (General)
+    format: text/plain
+  abbreviation:
+    content: SP
+  number: 250-100
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

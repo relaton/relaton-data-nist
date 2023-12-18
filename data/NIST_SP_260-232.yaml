@@ -1,0 +1,138 @@
+---
+schema-version: v1.2.7
+id: NISTSP260-232
+title:
+- content: Certification of Standard Reference Material 917d D-Glucose (Dextrose)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.SP.260-232
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.260-232.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST SP 260-232
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.SP.260-232
+  type: DOI
+date:
+- type: published
+  value: '2023-03-01'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Michael
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: 'A '
+          script:
+          - Latn
+      surname:
+        content: Nelson
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Material Measurement Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Jerome
+          script:
+          - Latn
+      surname:
+        content: Mulloor
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Material Measurement Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Brian
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: 'E '
+          script:
+          - Latn
+      surname:
+        content: Lang
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Material Measurement Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Blaza
+          script:
+          - Latn
+      surname:
+        content: Toman
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Material Measurement Laboratory
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2023-03-01'
+script:
+- Latn
+abstract:
+- content: Standard Reference Material (SRM) 917d D-Glucose (Dextrose) is certified
+    as a chemical substance of known high purity. It is intended for use in calibrating
+    measuring systems for glucose determinations employed in clinical analysis. A
+    unit of SRM 917d consists of one bottle containing 50 g of crystalline D-glucose.
+    This publication documents the production, analytical methods, and computations
+    involved in characterizing this product.
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST Special Publications (General)
+    format: text/plain
+  abbreviation:
+    content: SP
+  number: 260-232
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

@@ -23,7 +23,7 @@ docid:
   type: DOI
 date:
 - type: published
-  value: '2021'
+  value: 2021-04
 contributor:
 - person:
     name:
@@ -42,6 +42,45 @@ contributor:
         - content: Information Technology Laboratory
   role:
   - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: 
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W.
+          script:
+          - Latn
+      surname:
+        content: Polk
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Murugiah
+          script:
+          - Latn
+      surname:
+        content: Souppaya
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - type: author
 - organization:
     name:
     - content: National Institute of Standards and Technology
@@ -52,7 +91,7 @@ contributor:
         country: US
   role:
   - type: publisher
-revdate: '2021'
+revdate: 2021-04
 script:
 - Latn
 series:

@@ -23,7 +23,7 @@ docid:
   type: DOI
 date:
 - type: published
-  value: '2020'
+  value: '2020-01-14'
 contributor:
 - person:
     name:
@@ -52,9 +52,27 @@ contributor:
         country: US
   role:
   - type: publisher
-revdate: '2020'
+revdate: '2020-01-14'
 script:
 - Latn
+abstract:
+- content: 'Identity management systems (IDMSs) are widely used to provision user
+    identities while managing authentication, authorization, and data sharing within
+    organizations and on the web. Traditional identity systems typically suffer from
+    single points of failure, lack of interoperability, and privacy issues, such as
+    enabling mass data collection and user tracking. Blockchain technology has the
+    potential to alleviate these concerns: it can support the ability for users to
+    control the custody of their own identifiers and credentials, enabling novel data
+    ownership and governance models with built-in control and consent mechanisms.
+    Hence, blockchain-based IDMSs, which could benefit both users and businesses,
+    are beginning to proliferate. This work categorizes these systems into a taxonomy
+    based on differences in blockchain architectures, governance models, and other
+    salient features. Context is provided for the taxonomy through the description
+    of related terms, emerging standards, and use cases while highlighting relevant
+    security and privacy considerations.'
+  script:
+  - Latn
+  format: text/plain
 series:
 - title:
     content: NIST Cybersecurity White Papers

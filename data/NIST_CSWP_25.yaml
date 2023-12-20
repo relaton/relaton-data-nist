@@ -22,7 +22,7 @@ docid:
   type: DOI
 date:
 - type: published
-  value: '2022'
+  value: '2022-05-20'
 contributor:
 - person:
     name:
@@ -56,9 +56,23 @@ contributor:
         country: US
   role:
   - type: publisher
-revdate: '2022'
+revdate: '2022-05-20'
 script:
 - Latn
+abstract:
+- content: This document describes a data structure, referred to as a data block matrix,
+    that supports the ongoing addition of hash-linked records while also allowing
+    for the deletion of arbitrary records, thereby preserving hash-based integrity
+    assurance that other blocks are unchanged. The block matrix data structure may
+    have utility for incorporation into applications requiring integrity protection
+    that currently use permissioned blockchains. This capability could for example
+    be useful in meeting privacy requirements such as the European Union General Data
+    Protection Regulation (GDPR), which requires that organizations make it possible
+    to delete all information related to a particular individual, at that person’s
+    request.
+  script:
+  - Latn
+  format: text/plain
 series:
 - title:
     content: NIST Cybersecurity White Papers

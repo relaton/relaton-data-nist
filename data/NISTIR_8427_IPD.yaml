@@ -65,11 +65,11 @@ abstract:
     of generating and testing full-entropy bitstrings, SP 800-90 series assume that
     a bitstring has full entropy if the amount of entropy per bit is at least 1 -
     ε, where ε is at most 2-32. This report provides a justification for the selection
-    of ε. This is accomplished as follows.  The report begins by defining full entropy
-    in terms of a hypothetical distinguishing game.  The report then derives two results
-    following from this definition.  First, it is shown how output satisfying this
+    of ε. This is accomplished as follows. The report begins by defining full entropy
+    in terms of a hypothetical distinguishing game. The report then derives two results
+    following from this definition. First, it is shown how output satisfying this
     definition can be generated using a conditioning function acting on data having
-    a known entropy level.  Second, the actual entropy level of output produced by
+    a known entropy level. Second, the actual entropy level of output produced by
     such a process is computed, thereby providing support for the selected value of
     ε.
   script:

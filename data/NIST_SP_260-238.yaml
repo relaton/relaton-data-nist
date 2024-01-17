@@ -1,0 +1,126 @@
+---
+schema-version: v1.2.8
+id: NISTSP260-238
+title:
+- content: |-
+    Certification of standard reference material® 3666 :
+    albumin and creatinine in frozen human urine
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.SP.260-238
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.260-238.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST SP 260-238
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.SP.260-238
+  type: DOI
+date:
+- type: published
+  value: '2023-06-22'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Ashley Beasley
+          script:
+          - Latn
+      surname:
+        content: Green
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Material Measurement Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Johanna
+          script:
+          - Latn
+      surname:
+        content: Camara
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Material Measurement Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: 
+          script:
+          - Latn
+          initial: N
+        formatted_initials:
+          content: 'N '
+          script:
+          - Latn
+      surname:
+        content: Heckert
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Material Measurement Laboratory
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2023-06-22'
+script:
+- Latn
+abstract:
+- content: The National Institute of Standards and Technology (NIST) Standard Reference
+    Material® (SRM®) 3666 Albumin and Creatinine in Frozen Human Urine (Level 1 to
+    Level 4) delivers certified values for albumin and creatinine in human urine.
+    The material is intended for 1) use in validating measurement procedures and 2)
+    use in qualifying control materials produced in-house and analyzed using measurement
+    methods for the determination of albumin, creatinine, or the albumin-to-creatinine
+    ratio (ACR) in human urine. A unit of SRM 3666 consists of four (4) vials of frozen
+    pooled human urine with endogenous levels of albumin determined using the NIST
+    candidate reference measurement procedure (RMP) for albumin in urine [1]; and
+    creatinine determined using the NIST RMP for creatinine in serum [2]. The certified
+    values and associated uncertainties for albumin and creatinine were used to calculate
+    the ACR for each level (Level 1 to Level 4). This publication documents the production,
+    measurement processes, results, and statistical evaluations involved in the production
+    and certification of SRM 3666.
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST Special Publications (General)
+    format: text/plain
+  abbreviation:
+    content: SP
+  number: 260-238
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

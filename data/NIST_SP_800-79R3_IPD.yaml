@@ -1,0 +1,135 @@
+---
+schema-version: v1.2.8
+id: NISTSP800-79r3ipd
+title:
+- content: Guidelines for the Authorization of PIV Card and Derived PIV Credential
+    Issuers
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.SP.800-79r3.ipd
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-79r3.ipd.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST SP 800-79r3 ipd
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.SP.800-79r3.ipd
+  type: DOI
+date:
+- type: published
+  value: '2023-12-13'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Hildegard
+          script:
+          - Latn
+      surname:
+        content: Ferraiolo
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Andrew
+          script:
+          - Latn
+      surname:
+        content: Regenscheid
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+    identifier:
+    - type: orcid
+      id: https://orcid.org/0000-0002-3930-527X
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Sarbari
+          script:
+          - Latn
+      surname:
+        content: Gupta
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Nabil
+          script:
+          - Latn
+      surname:
+        content: Ghadiali
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2023-12-13'
+script:
+- Latn
+abstract:
+- content: The document provides appropriate and useful guidelines for assessing the
+    reliability of issuers of PIV Cards and derived PIV credentials. These issuers
+    store personal information and issue credentials based on OMB policies and the
+    standards published in response to HSPD-12. The reliability of an issuer is of
+    utmost importance when an organization (e.g., a federal agency) is required to
+    trust identity credentials that were created and issued by another organization.
+    This trust relies on having the necessary level of assurance that the reliability
+    of the issuing organization has been established through a formal authorization
+    process.
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST Special Publications (General)
+    format: text/plain
+  abbreviation:
+    content: SP
+  number: 800-79r3
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

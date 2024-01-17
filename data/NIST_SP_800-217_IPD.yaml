@@ -1,0 +1,115 @@
+---
+schema-version: v1.2.8
+id: NISTSP800-217ipd
+title:
+- content: Guidelines for Personal Identity Verification (PIV) Federation
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.SP.800-217.ipd
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-217.ipd.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST SP 800-217 ipd
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.SP.800-217.ipd
+  type: DOI
+date:
+- type: published
+  value: '2023-01-10'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Hildegard
+          script:
+          - Latn
+      surname:
+        content: Ferraiolo
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Andrew
+          script:
+          - Latn
+      surname:
+        content: Regenscheid
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Justin
+          script:
+          - Latn
+      surname:
+        content: Richer
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2023-01-10'
+script:
+- Latn
+abstract:
+- content: FIPS 201 defines the requirements and characteristics of government-wide
+    interoperable identity credentials used by federal employees and contractors.
+    It also calls for the federated use of those credentials. These guidelines provide
+    technical requirements for federal agencies implementing digital identity services
+    for federal employees and contractors and are not intended to constrain the development
+    or use of standards outside of this purpose. This document focuses on the use
+    of federated PIV identity and the use of assertions to implement PIV federations
+    backed by PIV identity accounts and PIV credentials. Federation allows a PIV identity
+    account to be used by relying parties outside the PIV identity account's home
+    agency.
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST Special Publications (General)
+    format: text/plain
+  abbreviation:
+    content: SP
+  number: 800-217
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

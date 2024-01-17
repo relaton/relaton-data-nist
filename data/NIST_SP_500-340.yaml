@@ -1,0 +1,187 @@
+---
+schema-version: v1.2.8
+id: NISTSP500-340
+title:
+- content: Guidance on contactless friction ridge image compression
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.SP.500-340
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.500-340.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST SP 500-340
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.SP.500-340
+  type: DOI
+date:
+- type: published
+  value: '2023-05-03'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: John
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
+          script:
+          - Latn
+      surname:
+        content: Libert
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Shahram
+          script:
+          - Latn
+      surname:
+        content: Orandi
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Kenneth
+          script:
+          - Latn
+      surname:
+        content: Ko
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Bruce
+          script:
+          - Latn
+      surname:
+        content: Bandini
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: John
+          script:
+          - Latn
+      surname:
+        content: Grantham
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Craig
+          script:
+          - Latn
+          initial: I
+        formatted_initials:
+          content: I
+          script:
+          - Latn
+      surname:
+        content: Watson
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2023-05-03'
+script:
+- Latn
+abstract:
+- content: 'Nascent technologies show promise in collecting 500 ppi fingerprints in
+    a contactless fashion while yielding various improvements in the collection process
+    over legacy contact collection methods currently in use throughout the world.
+    While it has been shown that these new devices show promise in producing imagery
+    that may be interoperable with legacy contact collected images [25][31], the contactless
+    devices may be prone to capturing superfluous data (e.g., fingernail, finger background,
+    or other imaging artifacts) pushing existing friction ridge algorithms meant for
+    contact collection beyond those images for which they were originally designed.
+    Image compression algorithms are highly sensitive to information content and complexity
+    of the image being processed [32]. Currently there are two compression algorithms
+    specified for fingerprints: WSQ for 500 ppi and JPEG 2000 for the more information-rich
+    1000 ppi fingerprint imagery [27].It was hypothesized that the more information-rich
+    contactless-collected imagery, while being captured at the same sampling rate
+    as legacy 500 ppi contact collected fingerprint imagery, may be better suited
+    for the JPEG 2000 specification meant for the more information rich 1000 ppi imagery.Analysis
+    of automated comparison scores as well as signal quality metrics showed that there
+    was no significant difference found between the two algorithms when processing
+    contactless imagery. Further examination of signal level metrics showed that WSQ
+    remains better able to preserve spectral power of the image in regions of the
+    frequency spectrum typically associated with level 2 and level 3 fingerprint features
+    and therefore WSQ appears to be better suited for contactless fingerprint imagery.'
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST Special Publications (General)
+    format: text/plain
+  abbreviation:
+    content: SP
+  number: 500-340
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

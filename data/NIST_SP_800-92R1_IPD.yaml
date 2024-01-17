@@ -1,0 +1,96 @@
+---
+schema-version: v1.2.8
+id: NISTSP800-92r1ipd
+title:
+- content: Cybersecurity Log Management Planning Guide
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.SP.800-92r1.ipd
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-92r1.ipd.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST SP 800-92r1 ipd
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.SP.800-92r1.ipd
+  type: DOI
+date:
+- type: published
+  value: '2023-10-11'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Karen
+          script:
+          - Latn
+      surname:
+        content: Scarfone
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Murugiah
+          script:
+          - Latn
+      surname:
+        content: Souppaya
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2023-10-11'
+script:
+- Latn
+abstract:
+- content: A log is a record of events that occur within an organization’s computing
+    assets, including physical and virtual platforms, networks, services, and cloud
+    environments. Log management is the process for generating, transmitting, storing,
+    accessing, and disposing of log data. It facilitates log usage and analysis for
+    many purposes, including identifying and investigating cybersecurity incidents,
+    finding operational issues, and ensuring that records are stored for the required
+    period of time. This document defines a playbook intended to help any organization
+    plan improvements to its cybersecurity log management.
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST Special Publications (General)
+    format: text/plain
+  abbreviation:
+    content: SP
+  number: 800-92r1
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

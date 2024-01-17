@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.8
+id: NISTVTS100-2sup1
+title:
+- content: Assisting Voters with Disabilities as They Mark, Verify, and Cast Their
+    Ballot Sample Slide Presentation
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.VTS.100-2sup1
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/vts/NIST.VTS.100-2sup1.zip
+  type: pdf
+type: standard
+docid:
+- id: NIST VTS 100-2sup1
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.VTS.100-2sup1
+  type: DOI
+date:
+- type: published
+  value: 2023-11
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Sharon
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
+          script:
+          - Latn
+      surname:
+        content: Laskowski
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+    identifier:
+    - type: orcid
+      id: https://orcid.org/0000-0003-2024-868X
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: 2023-11
+script:
+- Latn
+series:
+- title:
+    content: NIST VTS
+    format: text/plain
+  abbreviation:
+    content: VTS
+  number: 100-2sup1
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

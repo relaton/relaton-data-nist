@@ -1,0 +1,113 @@
+---
+schema-version: v1.2.8
+id: NISTSP260-239
+title:
+- content: Certification of Standard Reference Material® 967b Creatinine in Frozen
+    Human Serum
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.SP.260-239
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.260-239.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST SP 260-239
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.SP.260-239
+  type: DOI
+date:
+- type: published
+  value: '2023-09-22'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Johanna
+          script:
+          - Latn
+      surname:
+        content: Camara
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Material Measurement Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Elena
+          script:
+          - Latn
+      surname:
+        content: Wood
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Material Measurement Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Blaza
+          script:
+          - Latn
+      surname:
+        content: Toman
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Material Measurement Laboratory
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2023-09-22'
+script:
+- Latn
+abstract:
+- content: Standard Reference Material (SRM) 967b Creatinine in Frozen Human Serum
+    is intended for use in validating creatinine measurement procedures used by in
+    vitro diagnostics manufacturers, reference laboratories, and clinical laboratories
+    in the United States and globally. A unit of SRM 967b consists of two 1 mL vials
+    each of two levels of creatinine for a total of four vials per unit. This publication
+    documents the production, analytical methods, and computations involved in characterizing
+    this product.
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST Special Publications (General)
+    format: text/plain
+  abbreviation:
+    content: SP
+  number: 260-239
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

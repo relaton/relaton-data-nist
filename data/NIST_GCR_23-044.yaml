@@ -1,0 +1,77 @@
+---
+schema-version: v1.2.8
+id: NISTGCR23-044
+title:
+- content: |-
+    PSCR Impact Assessment:
+    2016-2022
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.GCR.23-044
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/gcr/2023/NIST.GCR.23-044.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST GCR 23-044
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.GCR.23-044
+  type: DOI
+date:
+- type: published
+  value: '2023-12-18'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Monika
+          script:
+          - Latn
+      surname:
+        content: Bochert
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2023-12-18'
+script:
+- Latn
+abstract:
+- content: This publication was produced as part of contract GS10F0283W with the National
+    Institute of Standards and Technology. The contents of this publication do not
+    necessarily reflect the views or policies of the National Institute of Standards
+    and Technology or the US Government.
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST Grant/Contractor Reports
+    format: text/plain
+  abbreviation:
+    content: GCR
+  number: 23-044
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

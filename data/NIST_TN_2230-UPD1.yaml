@@ -1,0 +1,140 @@
+---
+schema-version: v1.2.8
+id: NISTTN2230-upd1
+title:
+- content: Fracture toughness tests at 77 K and 4 K on 316L stainless steel welded
+    plates
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.TN.2230-upd1
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2230-upd1.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST TN 2230-upd1
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.TN.2230-upd1
+  type: DOI
+date:
+- type: published
+  value: '2023-06-06'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Jake
+          script:
+          - Latn
+      surname:
+        content: Benzing
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Material Measurement Laboratory
+    identifier:
+    - type: orcid
+      id: https://orcid.org/0000-0002-7266-870X
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Nick
+          script:
+          - Latn
+      surname:
+        content: Derimow
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Material Measurement Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Enrico
+          script:
+          - Latn
+      surname:
+        content: Lucon
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Material Measurement Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Timothy
+          script:
+          - Latn
+      surname:
+        content: Weeks
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Material Measurement Laboratory
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2023-06-06'
+script:
+- Latn
+abstract:
+- content: In the framework of a collaborative project between ASME, NASA, and NIST,
+    quasi-static fracture toughness tests have been performed at liquid nitrogen temperature
+    (77 K, or -196 °C) and liquid helium temperature (4 K, or -269 °C) on weld specimens
+    extracted from the centers of four 316L welded stainless steel plates, each produced
+    by a different vendor. Although the plates were produced in accordance with the
+    same specifications from the same material (316L), large differences in fracture
+    toughness have been observed, with the best weld (W2) exhibiting almost twice
+    the critical toughness of the worst (W1) at 77 K (219 kJ/m2 vs. 113 kJ/m2), and
+    about seven times the critical toughness of W1 at 4 K (146 kJ/m2 as compared to
+    21 kJ/m2). The Charpy absorbed energies recorded at 77 K for three of the welds
+    within the same project were found to be strongly linearly correlated with fracture
+    toughness at both test temperatures. The exception was weld W4, which provided
+    the highest impact toughness and the second lowest quasi-static fracture toughness
+    (stable crack initiation and resistance to crack propagation).
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST Technical Notes
+    format: text/plain
+  abbreviation:
+    content: TN
+  number: 2230-upd1
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

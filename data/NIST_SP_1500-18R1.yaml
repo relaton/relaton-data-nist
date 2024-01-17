@@ -1,0 +1,215 @@
+---
+schema-version: v1.2.8
+id: NISTSP1500-18r1
+title:
+- content: |-
+    NIST Research Data Framework (RDaF)
+    version 1.5
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.SP.1500-18r1
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1500-18r1.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST SP 1500-18r1
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.SP.1500-18r1
+  type: DOI
+date:
+- type: published
+  value: '2023-05-18'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Robert
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J
+          script:
+          - Latn
+      surname:
+        content: Hanisch
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Material Measurement Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Debra
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L
+          script:
+          - Latn
+      surname:
+        content: Kaiser
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Material Measurement Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Alda
+          script:
+          - Latn
+      surname:
+        content: Yuan
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Material Measurement Laboratory
+    identifier:
+    - type: orcid
+      id: https://orcid.org/0000-0001-9619-306X
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Andrea
+          script:
+          - Latn
+      surname:
+        content: Medina-Smith
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Material Measurement Laboratory
+    identifier:
+    - type: orcid
+      id: https://orcid.org/0000-0002-1217-701X
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Bonnie
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C
+          script:
+          - Latn
+      surname:
+        content: Carroll
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Material Measurement Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Eva
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
+          script:
+          - Latn
+      surname:
+        content: Campo
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Material Measurement Laboratory
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2023-05-18'
+script:
+- Latn
+abstract:
+- content: The NIST Research Data Framework (RDaF) is a multifaceted and customizable
+    tool that aims to help shape the future of open data access and research data
+    management (RDM). The RDaF will allow organizations and individual researchers
+    to customize an RDM strategy. Although NIST is leading the RDaF, most of the content
+    in the current v.1.5 was obtained via engagement with national and international
+    leaders in the research data community. NIST held a series of three plenary and
+    15 stakeholder workshops. Workshop attendees represented all stakeholder sectors,
+    from government and academia to industry and non-profits. The audience for the
+    RDaF is the entire research data community in all disciplines-the biological,
+    chemical, medical, social, and physical sciences. The RDaF is applicable from
+    the organization to the project level, encompassing a wide array of job roles
+    engaged in activities concerned with research data management, from Executives
+    and Chief Data Officers to publishers, funders, and researchers. The RDaF is a
+    map of the research data space that uses a lifecycle approach with six high-level
+    lifecycle stages to organize key information concerning RDM and research data
+    dissemination. Through a community-driven and in-depth process, NIST identified
+    specific, high-priority topics and subtopics for each lifecycle stage. The topics
+    and subtopics are programmatic and operational activities, concepts, and other
+    important factors relevant to RDM. All elements of the RDaF Framework Core-lifecycle
+    stages and their associated topics and subtopics-are defined and explained. Further,
+    the RDaF team identified Overarching Themes which are pervasive throughout the
+    framework core. The core enables organizations and individual researchers to use
+    the RDaF for self-assessment of their RDM status. In addition, each subtopic has
+    several Informative References-resources such as guidelines standards, and policies.
+    As such, the RDaF may be considered a "best practices" document. The RDaF includes
+    sample "Profiles," for various job functions or roles. Each of these profiles
+    contains topics and subtopics that an individual in the given job function or
+    role needs to consider in fulfilling their RDM responsibilities. Individual researchers
+    and organizations involved in the research data lifecycle will be able to tailor
+    these profiles for their specific job function. The methodologies used to generate
+    the content of this publication are described in detail.
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST Special Publications (General)
+    format: text/plain
+  abbreviation:
+    content: SP
+  number: 1500-18r1
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

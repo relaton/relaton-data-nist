@@ -1,0 +1,125 @@
+---
+schema-version: v1.2.8
+id: NISTSP2200-03
+title:
+- content: An evolving regulatory landscape for commercial electric vehicle fueling
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.SP.2200-03
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.2200-03.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST SP 2200-03
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.SP.2200-03
+  type: DOI
+date:
+- type: published
+  value: '2023-08-22'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Michael
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
+          script:
+          - Latn
+      surname:
+        content: Nelson
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Physical Measurement Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Tina
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G
+          script:
+          - Latn
+      surname:
+        content: Butcher
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Physical Measurement Laboratory
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2023-08-22'
+script:
+- Latn
+abstract:
+- content: Plug-in electric vehicles (PEV), which include "all-electric" battery EV
+    (BEV) and plug-in hybrid EV (PHEV), comprise a rapidly growing proportion of the
+    U.S. automobile market - nearly 8% of all light-duty vehicles sold in Oct. 2022,
+    a 41.4% rise over October 2021 sales. In response to projected demands for PEV
+    charging, private companies, utilities, and state and local governments have strived
+    to develop policies and infrastructure that promote broad access to electric vehicle
+    supply equipment (EVSE) used to fuel electric vehicles. However, long-standing
+    regulatory oversight of retail electricity distribution and sales through utilities
+    has presented ambiguities and constraints regarding the sales of electricity for
+    motor vehicle fueling, particularly via public charging stations. As these matters
+    are addressed separately by the responsible authorities in each state, a patchwork
+    of policies and rules has evolved across the U.S. concerning regulation of public
+    EVSE sites and charging-related transactions. These policies, or lack thereof,
+    have influenced permissible EVSE site ownership models, methods of sale and pricing
+    for charging sessions, and requirements for metrological control of EVSE. Nonuniformity
+    in EVSE operations across the U.S. can stimy expansion of interstate charging
+    networks, hinder equity in the charging market, frustrate price comparison, and
+    diminish consumer confidence. Thus, it is advantageous that many states in recent
+    years have begun to adopt some consistent regulatory measures, including changes
+    in most states to utility regulations to allow owners of EVSEs to make a profit
+    from the sale of electrical energy used as a vehicle fuel. However, significant
+    gaps and variation in oversight remain as charging networks expand. Considering
+    these developments, this publication summarizes the current, albeit evolving,
+    EVSE regulatory landscape in the U.S. and explores the increasingly relevant role
+    of legal metrology in PEV charging. The implications of these topics and their
+    relation to other currently evolving issues, including submetering for utility
+    PEV time of use rates and for PEV fuel excise taxes, are also discussed.
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST Special Publications (General)
+    format: text/plain
+  abbreviation:
+    content: SP
+  number: 2200-03
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

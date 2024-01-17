@@ -1,0 +1,118 @@
+---
+schema-version: v1.2.8
+id: NISTTN2212
+title:
+- content: Using Monte Carlo Methods to Compute the Uncertainty of Fracture Toughness
+    and Fracture Resistance Curves
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.TN.2212
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2212.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST TN 2212
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.TN.2212
+  type: DOI
+date:
+- type: published
+  value: '2023-02-03'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Lucas
+          script:
+          - Latn
+      surname:
+        content: Koepke
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Dash
+          script:
+          - Latn
+      surname:
+        content: Weeks
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Jolene
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D.
+          script:
+          - Latn
+      surname:
+        content: Splett
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2023-02-03'
+script:
+- Latn
+abstract:
+- content: The uncertainty of fracture toughness and associated fracture resistance
+    curves for single edge-notched tension (SE(T) or SENT) specimens is a key component
+    missing from widely accepted testing protocols. Complicating matters, these uncertainties
+    are not easily calculated using traditional propagation-of-error techniques. Uncertainty
+    estimates using Monte Carlo techniques for two test methods are presented and
+    the effect of changing the distribution and tolerance specified for the measurement
+    and input quantities on the results is investigated.
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST Technical Notes
+    format: text/plain
+  abbreviation:
+    content: TN
+  number: '2212'
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

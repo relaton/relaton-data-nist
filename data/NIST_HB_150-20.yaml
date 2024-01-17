@@ -1,0 +1,95 @@
+---
+schema-version: v1.2.8
+id: NISTHB150-20
+title:
+- content: National Voluntary Laboratory Accreditation Program (NVLAP) Common Criteria
+    Testing
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.HB.150-20
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/hb/2014/NIST.HB.150-20.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST HB 150-20
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.HB.150-20
+  type: DOI
+date:
+- type: published
+  value: '2014'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Dana
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
+          script:
+          - Latn
+      surname:
+        content: Leaman
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2014'
+script:
+- Latn
+abstract:
+- content: 'NIST Handbook 150-20 represents the technical requirements and guidance
+    for the accreditation of laboratories under the National Voluntary Laboratory
+    Accreditation Program (NVLAP) Information Technology Security Testing: Common
+    Criteria Testing. It is intended for information and use by accredited laboratories,
+    laboratories seeking accreditation, laboratory accreditation systems, users of
+    laboratory services, and others needing information on the requirements for accreditation
+    under this program. The 2014 edition of NIST Handbook 150-20 supersedes and replaces
+    the 2005 edition. The handbook was revised with the participation of technical
+    experts in applicable fields of testing concerning information technology security
+    and the Common Criteria, and was approved by NVLAP. The following main changes
+    have been made to this handbook with respect to the previous edition: - all references
+    to applicable guides and standards have been updated; - the sequence of NVLAP
+    assessment activities and the proficiency testing program have been changed; -
+    all requirements have been updated to reflect the relevant changes within the
+    National Information Assurance Partnership (NIAP); and - the number of annexes
+    has been reduced from four to two. Annexes A and B show the sequence of events
+    and the responsible parties for initial accreditation and development of written
+    procedures. This handbook is also available on the NVLAP website (http://www.nist.gov/nvlap)'
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST Handbooks
+    format: text/plain
+  abbreviation:
+    content: HB
+  number: 150-20
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

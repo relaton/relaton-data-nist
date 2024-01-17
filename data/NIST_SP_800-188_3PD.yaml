@@ -1,0 +1,108 @@
+---
+schema-version: v1.2.8
+id: NISTSP800-1883pd
+title:
+- content: De-Identifying Government Data Sets
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.SP.800-188.3pd
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-188.3pd.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST SP 800-188 3pd
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.SP.800-188.3pd
+  type: DOI
+date:
+- type: published
+  value: '2022-11-15'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Simson
+          script:
+          - Latn
+      surname:
+        content: Garfnkel
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Phyllis Singer
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - {}
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2022-11-15'
+script:
+- Latn
+abstract:
+- content: De-identification is a process that is applied to a dataset with the goal
+    of preventing or limiting informational risks to individuals, protected groups,
+    and establishments while still allowing for meaningful statistical analysis. Government
+    agencies can use de-identification to reduce the privacy risk associated with
+    collecting, processing, archiving, distributing, or publishing government data.
+    Previously, NISTIR 8053, De-Identification of Personal Information, provided a
+    survey of de-identification and re-identification techniques. This document provides
+    specific guidance to government agencies that wish to use de-identification. Before
+    using de-identification, agencies should evaluate their goals for using de-identification
+    and the potential risks that de-identification might create. Agencies should decide
+    upon a de-identification release model, such as publishing de-identified data,
+    publishing synthetic data based on identified data, or providing a query interface
+    that incorporates de-identification. Agencies can create a Disclosure Review Board
+    to oversee the process of de-identification. They can also adopt a de-identification
+    standard with measurable performance levels and perform re-identification studies
+    to gauge the risk associated with de-identification. Several specific techniques
+    for de-identification are available, including de-identification by removing identifiers
+    and transforming quasi-identifiers and the use of formal privacy models. People
+    performing de-identification generally use special-purpose software tools to perform
+    the data manipulation and calculate the likely risk of re-identification. However,
+    not all tools that merely mask personal information provide sufficient functionality
+    for performing de-identification. This document also includes an extensive list
+    of references, a glossary, and a list of specific de-identification tools, which
+    is only included to convey the range of tools currently available and is not intended
+    to imply a recommendation or endorsement by NIST.
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST Special Publications (General)
+    format: text/plain
+  abbreviation:
+    content: SP
+  number: 800-188
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

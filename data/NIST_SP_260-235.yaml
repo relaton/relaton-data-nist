@@ -1,0 +1,117 @@
+---
+schema-version: v1.2.8
+id: NISTSP260-235
+title:
+- content: Preparation and Standardization of 229Th SRM 4328d
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.SP.260-235
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.260-235.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST SP 260-235
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.SP.260-235
+  type: DOI
+date:
+- type: published
+  value: '2023-02-24'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Ronald
+          script:
+          - Latn
+      surname:
+        content: Colle
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Physical Measurement Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Lizbeth
+          script:
+          - Latn
+      surname:
+        content: Laureano-Perez
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Physical Measurement Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Morgan
+          script:
+          - Latn
+      surname:
+        content: DiGiorgio
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Physical Measurement Laboratory
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2023-02-24'
+script:
+- Latn
+abstract:
+- content: The certified massic activity for 229Th in SRM 4328d was obtained by 4παβ
+    liquid scintillation (LS) counting by comparative measurements in 2022 against
+    SRM 4328c. Both SRMs were prepared from the identical 2007 229Th stock solution.
+    SRM 4328c was standardized in 2007 by live-timed anticoincidence counting (a primary
+    standardization method) with confirmatory measurements by four other methods.
+    The comparative measurements were performed using two different commercial LS
+    counters and with LS counting sources prepared with two different cocktail compositions.
+    Homogeneity of SRM 4328d was confirmed by photonic emission spectrometry of the
+    SRM ampoules with a NaI(Tl) well counter. The certified massic activity of 229Th
+    in SRM 4328d, based on the decay-corrected certified value for SRM 4328c, is (41.19
+    ± 0.41) Bq·g-1 at k = 2 as of 1200 EST, 14 July 2022. This report documents the
+    preparation, standardization, and certification of SRM 4328d.
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST Special Publications (General)
+    format: text/plain
+  abbreviation:
+    content: SP
+  number: 260-235
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,155 @@
+---
+schema-version: v1.2.8
+id: NISTTN2247
+title:
+- content: An automated system for flow characterization at exhaust ducts and smokestacks
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.TN.2247
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2247.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST TN 2247
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.TN.2247
+  type: DOI
+date:
+- type: published
+  value: '2023-02-10'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Rodney
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
+          script:
+          - Latn
+      surname:
+        content: Bryant
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Physical Measurement Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Artur
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
+          script:
+          - Latn
+      surname:
+        content: Chernovsky
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Physical Measurement Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Joseph
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
+          script:
+          - Latn
+      surname:
+        content: Falco
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Physical Measurement Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Iosif
+          script:
+          - Latn
+          initial: I
+        formatted_initials:
+          content: I
+          script:
+          - Latn
+      surname:
+        content: Shinder
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Physical Measurement Laboratory
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2023-02-10'
+script:
+- Latn
+abstract:
+- content: This report summarizes the design and description for an automated system
+    of velocity traverse probes. Performance of key components of the system are also
+    described. The system is designed for conducting detailed characterizations of
+    flow distributions in exhaust ducts and smokestacks. Accurate flow measurements
+    in large exhaust systems for flue gases are critical for quantifying greenhouse
+    gas and pollutant emissions due to fossil fuel combustion. Field deployment of
+    the system has been demonstrated. It will be utilized to conduct in-line calibrations
+    of the flow monitoring devices installed at the exhaust ducts of the National
+    Fire Research Laboratory. The system is a prototype for future designs which can
+    be applied to characterize flow conditions for similarly-sized exhaust ducts and
+    smokestacks. Other potential uses of the system are for precise positioning of
+    probes and instruments in and around adverse environments such as enclosure fires
+    or open burns.
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST Technical Notes
+    format: text/plain
+  abbreviation:
+    content: TN
+  number: '2247'
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

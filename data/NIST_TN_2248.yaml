@@ -1,0 +1,100 @@
+---
+schema-version: v1.2.8
+id: NISTTN2248
+title:
+- content: Per- and Polyfluoroalkyl Substances in New Firefighter Turnout Gear Textiles
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.TN.2248
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2248.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST TN 2248
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.TN.2248
+  type: DOI
+date:
+- type: published
+  value: '2023-05-01'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Rick
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D
+          script:
+          - Latn
+      surname:
+        content: Davis
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Engineering Laboratory
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2023-05-01'
+script:
+- Latn
+abstract:
+- content: Turnout gear is increasingly recognized as a potential source of per- and
+    polyfluoroalkyl substance (PFAS) exposure to firefighters. To determine the type,
+    concentration, and prevalence of PFAS potentially present in new firefighter turnout
+    gear, fifty-three nonvolatile, semivolatile, and volatile PFAS were quantified
+    in twenty textiles used in the construction of firefighter turnout gear. Between
+    one and seventeen PFAS were observed and quantified in each textile, with higher
+    numbers of detections and higher concentrations of PFAS present in moisture barrier
+    and outer shell textiles compared with thermal liner textiles. Three fluorotelomerization-derived
+    PFAS with six perfluorinated carbons, 6:2 fluorotelomer methacrylate, 6:2 fluorotelomer
+    alcohol, and 6:2 fluorotelomer sulfonic acid, were quantified at the highest concentrations
+    of any individual PFAS, up to 1,570 µg/kg ± 140 µg/kg (mean ± standard deviation
+    of triplicate measurements), 613 µg/kg ± 15 µg/kg and 393 µg/kg ± 98 µg/kg, respectively.
+    These three PFAS were not detected in outer shells that had not received fluoropolymer
+    treatments which could indicate they were remnant raw materials from side-chain
+    fluorinated polymer manufacturing. Also widely identified were two compounds with
+    four perfluorinated carbons; perfluorobutane sulfonic acid and perfluorobutane
+    sulfonamide. Perfluorocarboxylic acids, especially those with fewer than six perfluorinated
+    carbons, were nearly universally identified, but entirely at concentrations below
+    40 µg/kg. In contrast, PFAS with eight or more perfluorinated carbons, such as
+    perfluorooctanoic acid and perfluorooctane sulfonic acid, were present at summed
+    concentrations below 2 µg/kg in all textiles. The wide variation in summed PFAS
+    concentrations among each textile type suggests that the amount of PFAS present
+    in new turnout gear could vary widely based on the specific textiles used in gear
+    manufacturing.
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST Technical Notes
+    format: text/plain
+  abbreviation:
+    content: TN
+  number: '2248'
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

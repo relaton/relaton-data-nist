@@ -1,0 +1,86 @@
+---
+schema-version: v1.2.8
+id: NISTIR8501
+title:
+- content: |-
+    Semiconductors and Microelectronics Standards:
+    Report to the Interagency Committee on Standards Policy by the Semiconductor and Microelectronics Working Group
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.IR.8501
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/ir/2023/NIST.IR.8501.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST IR 8501
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.IR.8501
+  type: DOI
+date:
+- type: published
+  value: 2023-12
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Jason
+          script:
+          - Latn
+      surname:
+        content: Kahn
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Communications Technology Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Chris
+          script:
+          - Latn
+      surname:
+        content: Greer
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Communications Technology Laboratory
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: 2023-12
+script:
+- Latn
+series:
+- title:
+    content: NIST IR (Interagency/Internal Reports)
+    format: text/plain
+  abbreviation:
+    content: IR
+  number: '8501'
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

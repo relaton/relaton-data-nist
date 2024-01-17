@@ -1,0 +1,114 @@
+---
+schema-version: v1.2.8
+id: NISTTN2259
+title:
+- content: Mission critical voice quality of experience probability of successful
+    delivery measurement methods
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.TN.2259
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2259.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST TN 2259
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.TN.2259
+  type: DOI
+date:
+- type: published
+  value: '2023-08-01'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Jaden
+          script:
+          - Latn
+      surname:
+        content: Pieper
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Communications Technology Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Jesse
+          script:
+          - Latn
+      surname:
+        content: Frey
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Communications Technology Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Gary
+          script:
+          - Latn
+      surname:
+        content: Howarth
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Communications Technology Laboratory
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2023-08-01'
+script:
+- Latn
+abstract:
+- content: This paper describes the probability of successful delivery (PSuD) measurement
+    method for every word critical (EWC) and average message intelligibility (AMI)
+    mission-critical voice (MCV) communications contexts. The PSuD measurement is
+    a component of the MCV quality of experience (QoE) system developed by National
+    Institute of Standards and Technology (NIST) Public Safety Communications Research
+    Division (PSCR). In this paper, we present the probabilityiser (PBI), a tool that
+    simulates an unreliable audio channel. Using the PBI we validate the PSuD measurement
+    and demonstrate the measurement's utility on audio encoded with various codecs.
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST Technical Notes
+    format: text/plain
+  abbreviation:
+    content: TN
+  number: '2259'
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

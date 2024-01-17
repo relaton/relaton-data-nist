@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.8
+id: NISTFIPS203ipd
+title:
+- content: Module-Lattice-Based Key-Encapsulation Mechanism Standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.FIPS.203.ipd
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.203.ipd.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST FIPS 203 ipd
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.FIPS.203.ipd
+  type: DOI
+date:
+- type: published
+  value: '2023-08-24'
+contributor:
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2023-08-24'
+script:
+- Latn
+abstract:
+- content: A key-encapsulation mechanism (or KEM) is a set of algorithms that, under
+    certain conditions, can be used by two parties to establish a shared secret key
+    over a public channel. A shared secret key that is securely established using
+    a KEM can then be used with symmetric-key cryptographic algorithms to perform
+    basic tasks in secure communications, such as encryption and authentication. This
+    standard specifes a key-encapsulation mechanism called ML-KEM. The security of
+    ML-KEM is related to the computational diffculty of the so-called Module Learning
+    with Errors problem. At present, ML-KEM is believed to be secure even against
+    adversaries who possess a quantum computer. This standard specifes three parameter
+    sets for ML-KEM. In order of increasing security strength (and decreasing performance),
+    these parameter sets are ML-KEM-512, ML-KEM-768, and ML-KEM-1024.
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST Federal Information Processing Standards Publications
+    format: text/plain
+  abbreviation:
+    content: FIPS
+  number: '203'
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

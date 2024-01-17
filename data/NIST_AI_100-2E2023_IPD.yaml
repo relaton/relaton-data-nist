@@ -1,0 +1,104 @@
+---
+schema-version: v1.2.8
+id: NISTAI100-2e2023ipd
+title:
+- content: |-
+    Adversarial Machine Learning:
+    A Taxonomy and Terminology of Attacks and Mitigations
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.AI.100-2e2023.ipd
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.ipd.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST AI 100-2e2023 ipd
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.AI.100-2e2023.ipd
+  type: DOI
+date:
+- type: published
+  value: '2023-03-08'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Alina
+          script:
+          - Latn
+      surname:
+        content: Oprea
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Apostol
+          script:
+          - Latn
+      surname:
+        content: Vassilev
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2023-03-08'
+script:
+- Latn
+abstract:
+- content: This NIST AI report develops a taxonomy of concepts and defines terminology
+    in the field of adversarial machine learning (AML). The taxonomy is built on survey
+    of the AML literature and is arranged in a conceptual hierarchy that includes
+    key types of ML methods and lifecycle stage of attack, attacker goals and objectives,
+    and attacker capabilities and knowledge of the learning process. The report also
+    provides corresponding methods for mitigating and managing the consequences of
+    attacks and points out relevant open challenges to take into account in the lifecycle
+    of AI systems. The terminology used in the report is consistent with the literature
+    on AML and is complemented by a glossary that defines key terms associated with
+    the security of AI systems and is intended to assist non-expert readers. Taken
+    together, the taxonomy and terminology are meant to inform other standards and
+    future practice guides for assessing and managing the security of AI systems,
+    by establishing a common language and understanding of the rapidly developing
+    AML landscape.
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST AI
+    format: text/plain
+  abbreviation:
+    content: AI
+  number: 100-2e2023
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

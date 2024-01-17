@@ -1,0 +1,63 @@
+---
+schema-version: v1.2.8
+id: NISTCSWP29ipd
+title:
+- content: The NIST Cybersecurity Framework 2.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.CSWP.29.ipd
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.ipd.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST CSWP 29 ipd
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.CSWP.29.ipd
+  type: DOI
+date:
+- type: published
+  value: '2023-08-08'
+contributor:
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2023-08-08'
+script:
+- Latn
+abstract:
+- content: The NIST Cybersecurity Framework 2.0 provides guidance to industry, government
+    agencies, and other organizations to reduce cybersecurity risks. It offers a taxonomy
+    of high-level cybersecurity outcomes that can be used by any organization — regardless
+    of its size, sector, or maturity — to better understand, assess, prioritize, and
+    communicate its cybersecurity efforts. The Framework does not prescribe how outcomes
+    should be achieved. Rather, it maps to resources that provide additional guidance
+    on practices and controls that could be used to achieve those outcomes. This document
+    explains Cybersecurity Framework 2.0 and its components and describes some of
+    the many ways that it can be used.
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST Cybersecurity White Papers
+    format: text/plain
+  abbreviation:
+    content: CSWP
+  number: '29'
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

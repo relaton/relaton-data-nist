@@ -1,0 +1,253 @@
+---
+schema-version: v1.2.8
+id: NISTTN2256
+title:
+- content: |-
+    November 2022 NIST Premise Plumbing Research Workshop:
+    summary and findings
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.TN.2256
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2256.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST TN 2256
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.TN.2256
+  type: DOI
+date:
+- type: published
+  value: '2023-07-28'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Andrew
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K
+          script:
+          - Latn
+      surname:
+        content: Persily
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Engineering Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Marylia Duarte
+          script:
+          - Latn
+      surname:
+        content: Batista
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Engineering Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: William
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M
+          script:
+          - Latn
+      surname:
+        content: Healy
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Engineering Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Mark
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
+          script:
+          - Latn
+      surname:
+        content: Kedzierski
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Engineering Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Lingnan
+          script:
+          - Latn
+      surname:
+        content: Lin
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Engineering Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Natascha
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S
+          script:
+          - Latn
+      surname:
+        content: Milesi-Ferretti
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Engineering Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Tania
+          script:
+          - Latn
+      surname:
+        content: Ullah
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Engineering Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: David
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
+          script:
+          - Latn
+      surname:
+        content: Yashar
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Engineering Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Stephen
+          script:
+          - Latn
+      surname:
+        content: Zimmerman
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Engineering Laboratory
+    identifier:
+    - type: orcid
+      id: https://orcid.org/0000-0002-5254-278X
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2023-07-28'
+script:
+- Latn
+abstract:
+- content: 'Premise plumbing systems need to meet a range of performance goals including
+    occupant health and comfort, energy and water efficiency, and reduced environmental
+    impacts. Pressures to improve water efficiency and building water quality, combined
+    with the use of new plumbing technologies and designs, have led to the recognition
+    that significant knowledge gaps exist in plumbing system design, installation,
+    operation, and maintenance. The research needed to address these gaps was summarized
+    in a 2020 NIST report Measurement Science Research Needs for Premise Plumbing
+    Systems. NIST also initiated an effort in 2020 to study several key research topics
+    identified in that report including: the pressure versus flow relationships of
+    plumbing fittings, the factors contributing to pathogen growth in residential
+    hot water systems, the development of standard plumbing systems for comparing
+    different design and operational approaches, and the improvement of existing premise
+    plumbing system simulation software. To obtain feedback from industry and others
+    in the premise plumbing community, NIST held a one-day workshop in November 2022
+    to discuss these research efforts, strengthen ongoing dialogues among the plumbing
+    community, and develop a shared understanding of the research needs.'
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST Technical Notes
+    format: text/plain
+  abbreviation:
+    content: TN
+  number: '2256'
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,117 @@
+---
+schema-version: v1.2.8
+id: NISTSP800-157r1ipd
+title:
+- content: Guidelines for Derived Personal Identity Verification (PIV) Credentials
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.SP.800-157r1.ipd
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-157r1.ipd.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST SP 800-157r1 ipd
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.SP.800-157r1.ipd
+  type: DOI
+date:
+- type: published
+  value: '2023-01-10'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Hildegard
+          script:
+          - Latn
+      surname:
+        content: Ferraiolo
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Andrew
+          script:
+          - Latn
+      surname:
+        content: Regenscheid
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+    identifier:
+    - type: orcid
+      id: https://orcid.org/0000-0002-3930-527X
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: James
+          script:
+          - Latn
+      surname:
+        content: Fenton
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2023-01-10'
+script:
+- Latn
+abstract:
+- content: This recommendation provides technical guidelines for the implementation
+    of standards-based, secure, reliable credentials that are issued by federal departments
+    and agencies to individuals who possess and prove control of their valid PIV Card.
+    These credentials can be either public key infrastructure (PKI)-based like the
+    PIV Card or non PKI-based but verified by the individual's home agency. The scope
+    of this document includes requirements for the initial issuance and maintenance
+    of these credentials, certificate policies as applicable, cryptographic specifications,
+    technical specifications for permitted authenticator types, and the command interfaces
+    for removable implementations of such PKI-based credentials.
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST Special Publications (General)
+    format: text/plain
+  abbreviation:
+    content: SP
+  number: 800-157r1
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

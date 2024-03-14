@@ -1,0 +1,75 @@
+---
+schema-version: v1.2.8
+id: NISTHB130-2024
+title:
+- content: Uniform Laws and Regulations in the Areas of Legal Metrology and Fuel Quality
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.HB.130-2024
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/hb/2024/NIST.HB.130-2024.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST HB 130-2024
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.HB.130-2024
+  type: DOI
+date:
+- type: published
+  value: '2023'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: John
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T
+          script:
+          - Latn
+      surname:
+        content: McGuire
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Physical Measurement Laboratory
+    identifier:
+    - type: orcid
+      id: https://orcid.org/0009-0006-7396-155X
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2023'
+script:
+- Latn
+series:
+- title:
+    content: NIST Handbooks
+    format: text/plain
+  abbreviation:
+    content: HB
+  number: 130-2024
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

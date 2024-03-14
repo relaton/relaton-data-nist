@@ -1,0 +1,79 @@
+---
+schema-version: v1.2.8
+id: NISTCSWP6kor
+title:
+- content: Korean Translation of the Framework for Improving Critical Infrastructure
+    Cybersecurity Version 1.1
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.CSWP.6.kor
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.6.kor.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST CSWP 6 kor
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.CSWP.6.kor
+  type: DOI
+date:
+- type: published
+  value: '2024'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Kevin
+          script:
+          - Latn
+      surname:
+        content: Stine
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2024'
+script:
+- Latn
+relation:
+- type: translatedFrom
+  bibitem:
+    id: NISTCSWP6
+    docid:
+    - id: NIST CSWP 6
+      type: NIST
+      primary: true
+    formattedref:
+      content: NIST CSWP 6
+      format: text/plain
+series:
+- title:
+    content: NIST Cybersecurity White Papers
+    format: text/plain
+  abbreviation:
+    content: CSWP
+  number: '6'
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

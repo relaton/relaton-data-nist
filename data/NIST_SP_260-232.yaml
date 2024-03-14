@@ -33,7 +33,7 @@ contributor:
           - Latn
           initial: A
         formatted_initials:
-          content: 'A '
+          content: A
           script:
           - Latn
       surname:
@@ -44,6 +44,9 @@ contributor:
     - organization:
         name:
         - content: Material Measurement Laboratory
+    identifier:
+    - type: orcid
+      id: https://orcid.org/0000-0003-0503-4501
   role:
   - type: author
 - person:
@@ -72,7 +75,7 @@ contributor:
           - Latn
           initial: E
         formatted_initials:
-          content: 'E '
+          content: E
           script:
           - Latn
       surname:
@@ -83,6 +86,9 @@ contributor:
     - organization:
         name:
         - content: Material Measurement Laboratory
+    identifier:
+    - type: orcid
+      id: https://orcid.org/0000-0002-0772-1420
   role:
   - type: author
 - person:
@@ -100,6 +106,9 @@ contributor:
     - organization:
         name:
         - content: Material Measurement Laboratory
+    identifier:
+    - type: orcid
+      id: https://orcid.org/0000-0002-0999-9565
   role:
   - type: author
 - organization:

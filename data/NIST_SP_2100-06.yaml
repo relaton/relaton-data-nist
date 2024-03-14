@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.8
+id: NISTSP2100-06
+title:
+- content: 'Long-Term Vision and Strategic Priorities for Forensic Science in the
+    United States: Summary Report of a Roundtable Discussion with Thought Leaders'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.SP.2100-06
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.2100-06.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST SP 2100-06
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.SP.2100-06
+  type: DOI
+date:
+- type: published
+  value: '2024'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Henry
+          script:
+          - Latn
+      surname:
+        content: Swofford
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+    identifier:
+    - type: orcid
+      id: https://orcid.org/0009-0003-3114-5958
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2024'
+script:
+- Latn
+series:
+- title:
+    content: NIST Special Publications (General)
+    format: text/plain
+  abbreviation:
+    content: SP
+  number: 2100-06
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

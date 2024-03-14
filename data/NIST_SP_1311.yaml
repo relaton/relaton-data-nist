@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.8
+id: NISTSP1311
+title:
+- content: |-
+    Initial Framework to Design Lifeline Infrastructure for Post-Earthquake Functional Recovery
+    Volume 2
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.SP.1311
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1311.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST SP 1311
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.SP.1311
+  type: DOI
+date:
+- type: published
+  value: '2024'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Katherine
+          script:
+          - Latn
+      surname:
+        content: Johnson
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Engineering Laboratory
+    identifier:
+    - type: orcid
+      id: https://orcid.org/0000-0001-7199-8750
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2024'
+script:
+- Latn
+series:
+- title:
+    content: NIST Special Publications (General)
+    format: text/plain
+  abbreviation:
+    content: SP
+  number: '1311'
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

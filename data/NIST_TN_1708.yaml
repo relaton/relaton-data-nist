@@ -1,0 +1,100 @@
+---
+schema-version: v1.2.8
+id: NISTTN1708
+title:
+- content: Initial Reconnaissance of the 2011 Wildland-Urban Interfaces Fires in Amarillo,
+    Texas
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.TN.1708
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1708.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST TN 1708
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.TN.1708
+  type: DOI
+date:
+- type: published
+  value: '2011'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: 
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A
+          script:
+          - Latn
+      surname:
+        content: Maranghides
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Engineering Laboratory
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2011'
+script:
+- Latn
+abstract:
+- content: The National Institute of Standards and Technology (NIST) is working to
+    reduce the risk of fire spread in Wildland-Urban Interface (WUI) communities.
+    An objective of this work is to develop first generation tools for improved risk
+    assessment and risk mitigation in WUI communities at risk from wildfires. These
+    tools will be developed and tested through a coordinated effort that includes
+    laboratory and field measurements, physics-based fire behavior models, and economic
+    cost analysis models. NIST and Texas Forest Service (TFS) worked together in October
+    2010 to train TFS personnel in the NIST-developed WUI data collection methodology.
+    While the fires that started on February 27, 2011 were still burning around Amarillo,
+    NIST and TFS decided to deploy the joint Team and document the WUI fire event
+    loses and fire behavior. The Tanglewood WUI fire in the outskirts of Amarillo
+    was responsible for the destruction of approximately 101 structures including
+    35 residences. Field measurements included structure particulars, specifically
+    building construction materials, proximity and type of combustibles to the structure,
+    and damage to wildland and residential vegetation. Documentation included over
+    29 000 photographs. The data collection and analysis will be documented in two
+    phases, an initial reconnaissance/overview report and a technical report. This
+    summary report will address the particulars of the joint NIST/TFS deployment and
+    the data collection methodology used. Additionally, this report provides a summary
+    of the primary structures lost. A second more detailed technical report will provide
+    the event timeline reconstruction and general fire behavior observations as well
+    as investigate the impacts of structure attributes, landscaping characteristics,
+    topographical features and wildland fire exposure on structure survivability
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST Technical Notes
+    format: text/plain
+  abbreviation:
+    content: TN
+  number: '1708'
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

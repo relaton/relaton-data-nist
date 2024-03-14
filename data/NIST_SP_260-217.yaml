@@ -1,0 +1,166 @@
+---
+schema-version: v1.2.8
+id: NISTSP260-217
+title:
+- content: 'Certification of Standard Reference Material® 17g: Sucrose Optical Rotation'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.SP.260-217
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.260-217.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST SP 260-217
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.SP.260-217
+  type: DOI
+date:
+- type: published
+  value: '2022-01-12'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Michael
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
+          script:
+          - Latn
+      surname:
+        content: Nelson
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Material Measurement Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Brian
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E.
+          script:
+          - Latn
+      surname:
+        content: Lang
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Material Measurement Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Jerome
+          script:
+          - Latn
+      surname:
+        content: Mulloor
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Material Measurement Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Blaza
+          script:
+          - Latn
+      surname:
+        content: Toman
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Material Measurement Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Masaaki
+          script:
+          - Latn
+      surname:
+        content: Ishikawa
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Material Measurement Laboratory
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Yoshiro
+          script:
+          - Latn
+      surname:
+        content: Kondo
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Material Measurement Laboratory
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    abbreviation:
+      content: NIST
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2022-01-12'
+script:
+- Latn
+series:
+- title:
+    content: NIST Special Publications (General)
+    format: text/plain
+  abbreviation:
+    content: SP
+  number: 260-217
+place:
+- Gaithersburg, MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

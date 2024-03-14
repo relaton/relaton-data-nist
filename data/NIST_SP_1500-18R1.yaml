@@ -4,7 +4,7 @@ id: NISTSP1500-18r1
 title:
 - content: |-
     NIST Research Data Framework (RDaF)
-    version 1.5
+    Version 1.5
   language:
   - en
   script:
@@ -46,6 +46,9 @@ contributor:
     - organization:
         name:
         - content: Material Measurement Laboratory
+    identifier:
+    - type: orcid
+      id: https://orcid.org/0000-0002-6853-4602
   role:
   - type: author
 - person:
@@ -68,6 +71,9 @@ contributor:
     - organization:
         name:
         - content: Material Measurement Laboratory
+    identifier:
+    - type: orcid
+      id: https://orcid.org/0000-0001-5114-7588
   role:
   - type: author
 - person:
@@ -130,6 +136,9 @@ contributor:
     - organization:
         name:
         - content: Material Measurement Laboratory
+    identifier:
+    - type: orcid
+      id: https://orcid.org/0000-0001-8924-1000
   role:
   - type: author
 - person:
@@ -152,11 +161,14 @@ contributor:
     - organization:
         name:
         - content: Material Measurement Laboratory
+    identifier:
+    - type: orcid
+      id: https://orcid.org/0000-0002-9808-4112
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
+    - content: National Institute of Standards and Technology (U.S.)
     contact:
     - address:
         city: Gaithersburg
@@ -202,6 +214,17 @@ abstract:
   script:
   - Latn
   format: text/plain
+relation:
+- type: obsoletes
+  bibitem:
+    id: NISTSP1500-18
+    docid:
+    - id: NIST SP 1500-18
+      type: NIST
+      primary: true
+    formattedref:
+      content: NIST SP 1500-18
+      format: text/plain
 series:
 - title:
     content: NIST Special Publications (General)

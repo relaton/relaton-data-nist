@@ -1,0 +1,200 @@
+---
+schema-version: v1.2.8
+id: NISTIR8278Ar1
+title:
+- content: |-
+    National Online Informative References (OLIR) Program:
+    Submission Guidance for OLIR Developers
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.IR.8278Ar1
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/ir/2024/NIST.IR.8278Ar1.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST IR 8278Ar1
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.IR.8278Ar1
+  type: DOI
+date:
+- type: published
+  value: '2024-02-26'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Matthew
+          script:
+          - Latn
+      surname:
+        content: Barrett
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+    identifier:
+    - type: orcid
+      id: https://orcid.org/0000-0002-7689-427X
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Nicole
+          script:
+          - Latn
+      surname:
+        content: Keller
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+    identifier:
+    - type: orcid
+      id: https://orcid.org/0000-0003-4761-6817
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Stephen
+          script:
+          - Latn
+      surname:
+        content: Quinn
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+    identifier:
+    - type: orcid
+      id: https://orcid.org/0000-0003-1436-684X
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Matthew
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C.
+          script:
+          - Latn
+      surname:
+        content: Smith
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+    identifier:
+    - type: orcid
+      id: https://orcid.org/0000-0001-6334-9486
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Karen
+          script:
+          - Latn
+      surname:
+        content: Scarfone
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+    identifier:
+    - type: orcid
+      id: https://orcid.org/0000-0003-1004-7171
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Vincent
+          script:
+          - Latn
+      surname:
+        content: Johnson
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+    identifier:
+    - type: orcid
+      id: https://orcid.org/0000-0002-7363-996X
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2024-02-26'
+script:
+- Latn
+abstract:
+- content: The National Online Informative References (OLIR) Program is a NIST effort
+    to facilitate subject matter experts in defining standardized Online Informative
+    References (OLIRs), which are relationships between elements of documents from
+    cybersecurity, privacy, and other information and communications technology domains.
+    This document assists OLIR Developers in understanding the processes and requirements
+    for participating in the Program. The primary focus of the document is to instruct
+    Developers on how to complete an OLIR Template when submitting an OLIR to NIST
+    for inclusion in the OLIR Catalog.
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: obsoletes
+  bibitem:
+    id: NISTIR8278A
+    docid:
+    - id: NIST IR 8278A
+      type: NIST
+      primary: true
+    formattedref:
+      content: NIST IR 8278A
+      format: text/plain
+series:
+- title:
+    content: NIST IR (Interagency/Internal Reports)
+    format: text/plain
+  abbreviation:
+    content: IR
+  number: 8278Ar1
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

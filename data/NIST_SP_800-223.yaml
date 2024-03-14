@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.8
+id: NISTSP800-223
+title:
+- content: |-
+    High-Performance Computing Security:
+    Architecture, Threat Analysis, and Security Posture
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://doi.org/10.6028/NIST.SP.800-223
+  type: doi
+- content: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-223.pdf
+  type: pdf
+type: standard
+docid:
+- id: NIST SP 800-223
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.SP.800-223
+  type: DOI
+date:
+- type: published
+  value: '2024'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Yang
+          script:
+          - Latn
+      surname:
+        content: Guo
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Information Technology Laboratory
+    identifier:
+    - type: orcid
+      id: https://orcid.org/0000-0002-3245-3069
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology
+    contact:
+    - address:
+        city: Gaithersburg
+        state: MD
+        country: US
+  role:
+  - type: publisher
+revdate: '2024'
+script:
+- Latn
+series:
+- title:
+    content: NIST Special Publications (General)
+    format: text/plain
+  abbreviation:
+    content: SP
+  number: 800-223
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

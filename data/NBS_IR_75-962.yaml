@@ -1,20 +1,18 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NBSIR75-962
 title:
-- content: An outdoor noise monitoring system with automatic calibration and remote
-    digital display
+- content: outdoor noise monitoring system with automatic calibration and remote digital
+    display
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NBS.IR.75-962
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-962.pdf
-  type: pdf
-type: standard
 docid:
 - id: NBS IR 75-962
   type: NIST
@@ -22,107 +20,58 @@ docid:
 - id: 10.6028/NBS.IR.75-962
   type: DOI
 date:
-- type: published
+- type: issued
   value: '1975'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: D
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
-        formatted_initials:
-          content: S
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Blomquist
+      completename:
+        content: Blomquist, Donald S.
         language:
         - en
-        script:
-        - Latn
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/no2021001605
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: J
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
-        formatted_initials:
-          content: S
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Forrer
+      completename:
+        content: Forrer, J. S.
         language:
         - en
-        script:
-        - Latn
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: D
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
-        formatted_initials:
-          content: M
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Corley
+      completename:
+        content: Corley, Daniel M.
         language:
         - en
-        script:
-        - Latn
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/no2021030521
   role:
   - type: author
 - organization:
     name:
-    - content: National Bureau of Standards
-    abbreviation:
-      content: NBS
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n79021148
   role:
   - type: publisher
-revdate: '1975'
-language:
-- en
-script:
-- Latn
 series:
 - title:
-    content: NBS IR (Interagency/Internal Reports)
+    content: NBSIR; NBS IR; NBS interagency report; NBS internal report
     format: text/plain
-  abbreviation:
-    content: IR
-  number: 75-962
+  partnumber: 75-962
 place:
-- Gaithersburg, MD
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

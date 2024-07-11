@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NBSIR73-401
 title:
 - content: Performance of coated steel reinforcement in concrete. part 1. investigation
@@ -9,12 +9,10 @@ title:
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NBS.IR.73-401
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-401.pdf
-  type: pdf
-type: standard
 docid:
 - id: NBS IR 73-401
   type: NIST
@@ -22,131 +20,72 @@ docid:
 - id: 10.6028/NBS.IR.73-401
   type: DOI
 date:
-- type: published
+- type: issued
   value: '1973'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Robert
-          language:
-          - en
-          script:
-          - Latn
-          initial: G
-        formatted_initials:
-          content: G
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Mathey
+      completename:
+        content: Mathey, Robert G.
         language:
         - en
-        script:
-        - Latn
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n80113759
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: James
-          language:
-          - en
-          script:
-          - Latn
-          initial: R
-        formatted_initials:
-          content: R
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Clifton
+      completename:
+        content: Clifton, James R.
         language:
         - en
-        script:
-        - Latn
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n79099186
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Erik
-          language:
-          - en
-          script:
-          - Latn
-          initial: D
-        formatted_initials:
-          content: D
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Anderson
+      completename:
+        content: Anderson, Erik D.
         language:
         - en
-        script:
-        - Latn
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/no2003083238
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Hugh
-          language:
-          - en
-          script:
-          - Latn
-          initial: F
-        formatted_initials:
-          content: F
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Beeghly
+      completename:
+        content: Beeghly, Hugh F.,
         language:
         - en
-        script:
-        - Latn
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/no2021088187
   role:
   - type: author
 - organization:
     name:
-    - content: National Bureau of Standards
-    abbreviation:
-      content: NBS
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n79021148
   role:
   - type: publisher
-revdate: '1973'
-language:
-- en
-script:
-- Latn
 series:
 - title:
-    content: NBS IR (Interagency/Internal Reports)
+    content: NBSIR; NBS IR; NBS interagency report; NBS internal report
     format: text/plain
-  abbreviation:
-    content: IR
-  number: 73-401
+  partnumber: 73-401
 place:
-- Gaithersburg, MD
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

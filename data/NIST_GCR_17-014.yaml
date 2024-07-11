@@ -1,20 +1,18 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTGCR17-014
 title:
-- content: A study on the effect of repeat moderate intensity radiant exposures on
-    SCBA facepiece properties
+- content: study on the effect of repeat moderate intensity radiant exposures on SCBA
+    facepiece properties
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NIST.GCR.17-014
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/gcr/2017/NIST.GCR.17-014.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST GCR 17-014
   type: NIST
@@ -22,116 +20,68 @@ docid:
 - id: 10.6028/NIST.GCR.17-014
   type: DOI
 date:
-- type: published
-  value: 2017-07
+- type: issued
+  value: '2017'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Gavin
-          script:
-          - Latn
-          initial: P
-        formatted_initials:
-          content: P
-          script:
-          - Latn
-      surname:
-        content: Horn
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: National Institute of Standards and Technology
+      completename:
+        content: Horn, Gavin P.,
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/no2020101082
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Richard
-          script:
-          - Latn
-          initial: M
-        formatted_initials:
-          content: M
-          script:
-          - Latn
-      surname:
-        content: Kesler
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: National Institute of Standards and Technology
+      completename:
+        content: Kesler, Richard M.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: John
-          script:
-          - Latn
-          initial: W
-        formatted_initials:
-          content: W
-          script:
-          - Latn
-      surname:
-        content: Regan
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: National Institute of Standards and Technology
+      completename:
+        content: Regan, John W.,
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/nr96008088
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Daniel
-          script:
-          - Latn
-      surname:
-        content: Madrzykowski
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: National Institute of Standards and Technology
+      completename:
+        content: Madrzykowski, Daniel.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/no2018047049
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    abbreviation:
-      content: NIST
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n88112126
   role:
   - type: publisher
-revdate: 2017-07
-script:
-- Latn
 series:
 - title:
-    content: NIST Grant/Contractor Reports
+    content: NIST GCR; NIST grant-contract report; NIST grant contract report
     format: text/plain
-  abbreviation:
-    content: GCR
-  number: 17-014
+  partnumber: 17-014
 place:
-- Gaithersburg, MD
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

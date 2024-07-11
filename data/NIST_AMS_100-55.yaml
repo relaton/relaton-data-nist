@@ -1,20 +1,18 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTAMS100-55
 title:
-- content: A Method for Capturing Thin Multi-Layer Regions of Powder from Powder Bed
-    Fusion Machines
+- content: A method for capturing thin multi-layer regions of powder from powder bed
+    fusion machines
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NIST.AMS.100-55
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.100-55.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST AMS 100-55
   type: NIST
@@ -22,46 +20,86 @@ docid:
 - id: 10.6028/NIST.AMS.100-55
   type: DOI
 date:
-- type: published
-  value: 2023-07
+- type: issued
+  value: '2023'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Aniruddha
-          script:
-          - Latn
-      surname:
-        content: Das
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Das, Aniruddha.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-6451-1657"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Weaver, Jordan,
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0003-4857-5164"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Tarr, Jared
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0001-8527-7380"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Moylan, Shawn P.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0003-3927-1118"
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
   role:
   - type: publisher
-revdate: 2023-07
-script:
-- Latn
+abstract:
+- content: A powder capture capsule has been designed to capture thin regions of powder
+    at multiple heights within a powder bed of laser powder bed fusion (LPBF) equipment.
+    This design is stackable, support free, and allows powder capture from a targeted
+    region (stacked layers) of the powder bed. Extraction is ergonomic, quick, and
+    does not require any special tools; it also ensures sufficient powder for post
+    analyses. An approximate apparent density of the powder bed pertaining to the
+    region under investigation has also been evaluated in this test case.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 series:
 - title:
-    content: NIST Advanced Manufacturing Series
+    content: NIST advanced manufacturing series
     format: text/plain
-  abbreviation:
-    content: AMS
-  number: 100-55
+  partnumber: 100-55
+- title:
+    content: NIST advanced manufacturing series; NIST AMS
+    format: text/plain
+  partnumber: 100-55
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

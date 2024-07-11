@@ -1,20 +1,18 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTSP260-239
 title:
-- content: Certification of Standard Reference Material® 967b Creatinine in Frozen
-    Human Serum
+- content: Certification of Standard Reference Material® 967b creatinine in frozen
+    human serum
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NIST.SP.260-239
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.260-239.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST SP 260-239
   type: NIST
@@ -22,73 +20,48 @@ docid:
 - id: 10.6028/NIST.SP.260-239
   type: DOI
 date:
-- type: published
-  value: '2023-09-22'
+- type: issued
+  value: '2023'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Johanna
-          script:
-          - Latn
-      surname:
-        content: Camara
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Material Measurement Laboratory
+      completename:
+        content: Camara, Johanna.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-9415-8452"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Elena
-          script:
-          - Latn
-      surname:
-        content: Wood
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Material Measurement Laboratory
+      completename:
+        content: Wood, Elena Shiao Ching.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0009-0000-8537-3006"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Blaza
-          script:
-          - Latn
-      surname:
-        content: Toman
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Material Measurement Laboratory
+      completename:
+        content: Toman, Blaza.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-0999-9565"
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
   role:
   - type: publisher
-revdate: '2023-09-22'
-script:
-- Latn
 abstract:
 - content: Standard Reference Material (SRM) 967b Creatinine in Frozen Human Serum
     is intended for use in validating creatinine measurement procedures used by in
@@ -97,16 +70,25 @@ abstract:
     each of two levels of creatinine for a total of four vials per unit. This publication
     documents the production, analytical methods, and computations involved in characterizing
     this product.
+  language:
+  - en
   script:
   - Latn
   format: text/plain
 series:
 - title:
-    content: NIST Special Publications (General)
+    content: NIST special publication
     format: text/plain
-  abbreviation:
-    content: SP
-  number: 260-239
+  partnumber: 260-239
+- title:
+    content: NIST special publication; NIST special pub; NIST SP
+    format: text/plain
+  partnumber: 260-239
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

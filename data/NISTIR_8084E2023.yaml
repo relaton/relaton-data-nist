@@ -1,21 +1,25 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTIR8084e2023
 title:
-- content: |-
-    The NIST Plan for Providing Public Access to Results of Federally Funded Research:
-    2023 edition
+- content: The NIST plan for providing public access to results of federally funded
+    research
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: title-main
+- content: 2023 edition
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
 link:
 - content: https://doi.org/10.6028/NIST.IR.8084e2023
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/ir/2023/NIST.IR.8084e2023.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST IR 8084e2023
   type: NIST
@@ -23,336 +27,235 @@ docid:
 - id: 10.6028/NIST.IR.8084e2023
   type: DOI
 date:
-- type: published
-  value: '2023-10-02'
+- type: issued
+  value: '2023'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Katherine
-          script:
-          - Latn
-          initial: E
-        formatted_initials:
-          content: E
-          script:
-          - Latn
-      surname:
-        content: Sharpless
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: National Institute of Standards and Technology
+      completename:
+        content: Sharpless, Katherine E.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0001-6569-198X"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Regina
-          script:
-          - Latn
-          initial: L
-        formatted_initials:
-          content: L.
-          script:
-          - Latn
-      surname:
-        content: Avila
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: National Institute of Standards and Technology
+      completename:
+        content: Avila, Regina.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-4340-2558"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Ronald
-          script:
-          - Latn
-          initial: F
-        formatted_initials:
-          content: F.
-          script:
-          - Latn
-      surname:
-        content: Boisvert
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: National Institute of Standards and Technology
+      completename:
+        content: Boisvert, Ronald.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-4445-1044"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: 
-          script:
-          - Latn
-          initial: A
-        formatted_initials:
-          content: 'A '
-          script:
-          - Latn
-      surname:
-        content: Dohne
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: National Institute of Standards and Technology
+      completename:
+        content: Dohne, A. Kirk.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0009-0008-4529-2955"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: James
-          script:
-          - Latn
-      surname:
-        content: Fowler
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: National Institute of Standards and Technology
+      completename:
+        content: Fowler, James.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0009-0002-3708-719X"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Rachel
-          script:
-          - Latn
-          initial: B
-        formatted_initials:
-          content: B.
-          script:
-          - Latn
-      surname:
-        content: Glenn
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: National Institute of Standards and Technology
+      completename:
+        content: Glenn, Rachel B.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0003-4813-9071"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Gretchen
-          script:
-          - Latn
-      surname:
-        content: Greene
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: National Institute of Standards and Technology
+      completename:
+        content: Greene, Gretchen R.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-2302-9442"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Robert
-          script:
-          - Latn
-      surname:
-        content: Hanisch
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: National Institute of Standards and Technology
+      completename:
+        content: Hanisch, Robert.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-6853-4602"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Andrea
-          script:
-          - Latn
-      surname:
-        content: Medina-Smith
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: National Institute of Standards and Technology
+      completename:
+        content: Medina-Smith, Andrea.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-1217-701X"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Alan
-          script:
-          - Latn
-      surname:
-        content: Munter
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: National Institute of Standards and Technology
+      completename:
+        content: Munter, Alan E.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0003-1941-1021"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Julie
-          script:
-          - Latn
-      surname:
-        content: Petrousky
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: National Institute of Standards and Technology
+      completename:
+        content: Petrousky, Julie.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0009-0009-9366-4124"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Yuri
-          script:
-          - Latn
-      surname:
-        content: Ralchenko
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: National Institute of Standards and Technology
+      completename:
+        content: Ralchenko, Yuri.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0003-0083-9554"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Carolyn
-          script:
-          - Latn
-          initial: D
-        formatted_initials:
-          content: D.
-          script:
-          - Latn
-      surname:
-        content: Rowland
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: National Institute of Standards and Technology
+      completename:
+        content: Rowland, Carolyn D.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0009-0007-8244-0382"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: James
-          script:
-          - Latn
-          initial: A
-        formatted_initials:
-          content: A.
-          script:
-          - Latn
-      surname:
-        content: St Pierre
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: National Institute of Standards and Technology
+      completename:
+        content: St. Pierre, James A.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0009-0008-8627-4999"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Adam
-          script:
-          - Latn
-      surname:
-        content: Wunderlich
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: National Institute of Standards and Technology
+      completename:
+        content: Wunderlich, Adam.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-8463-9156"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Jon
-          script:
-          - Latn
-      surname:
-        content: Zhang
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: National Institute of Standards and Technology
+      completename:
+        content: Zhang, Jon.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0009-0002-8321-1366"
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Special Programs Office.
   role:
   - type: publisher
-revdate: '2023-10-02'
-script:
-- Latn
+abstract:
+- content: In 2013 White House Office of Science and Technology Policy (OSTP) issued
+    a memo, “Increasing Access to the Results of Federally Funded Scientific Research.”
+    In response, the National Institute of Standards and Technology (NIST) developed
+    a public access plan and published a compilation of input received when the plan
+    was posted for comment. NIST policy and associated directives were developed from
+    the plan, and NIST has been operating under that policy since 2015.In 2022, OSTP
+    issued another memo, “Ensuring Immediate, Free, and Equitable Access to Federally
+    Funded Research.” NIST has expanded the original plan to include requirements
+    of this new memo. The plan was posted for public comment, with the comment period
+    ending on August 14, 2023. This document is a collection of the plan, the Federal
+    Register Notice, and comments received. Comments will inform the policy and associated
+    directives that are being developed from the revised plan.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: NISTIR8084
+    docid:
+    - id: NIST IR 8084
+      type: NIST
+    formattedref:
+      content: NIST IR 8084
+      format: text/plain
 series:
 - title:
-    content: NIST IR (Interagency/Internal Reports)
+    content: NISTIR
     format: text/plain
-  abbreviation:
-    content: IR
-  number: 8084e2023
+  partnumber: 8084e2023
+- title:
+    content: |-
+      NISTIR; NIST IR; NIST interagency report; NIST internal
+                      report
+    format: text/plain
+  partnumber: 8084e2023
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

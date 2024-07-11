@@ -1,19 +1,17 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTTN1553
 title:
-- content: An intra-volume ad hoc array concept for improved public-safety communications
+- content: intra-volume ad hoc array concept for improved public-safety communications
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NIST.TN.1553
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1553.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST TN 1553
   type: NIST
@@ -21,59 +19,36 @@ docid:
 - id: 10.6028/NIST.TN.1553
   type: DOI
 date:
-- type: published
+- type: issued
   value: '2010'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: William
-          language:
-          - en
-          script:
-          - Latn
-          initial: F
-        formatted_initials:
-          content: F
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Young
+      completename:
+        content: Young, William F..
         language:
         - en
-        script:
-        - Latn
   role:
   - type: author
 - organization:
     name:
-    - content: National Bureau of Standards
-    abbreviation:
-      content: NBS
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n79021148
   role:
   - type: publisher
-revdate: '2010'
-language:
-- en
-script:
-- Latn
 series:
 - title:
-    content: NIST Technical Notes
+    content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  abbreviation:
-    content: TN
-  number: '1553'
+  partnumber: '1553'
 place:
-- Gaithersburg, MD
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

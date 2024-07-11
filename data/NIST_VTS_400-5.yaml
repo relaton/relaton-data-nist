@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTVTS400-5
 title:
 - content: Handbook for VVSG 2.0 usability and accessibility test strategies
@@ -8,12 +8,10 @@ title:
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NIST.VTS.400-5
   type: doi
-- content: http://nvlpubs.nist.gov/nistpubs/vts/NIST.VTS.400-5.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST VTS 400-5
   type: NIST
@@ -21,61 +19,34 @@ docid:
 - id: 10.6028/NIST.VTS.400-5
   type: DOI
 date:
-- type: published
-  value: '2023-01-25'
+- type: issued
+  value: '2023'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Sharon
-          script:
-          - Latn
-          initial: J
-        formatted_initials:
-          content: J
-          script:
-          - Latn
-      surname:
-        content: Laskowski
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Laskowski, Sharon J.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0003-2024-868X"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Whitney
-          script:
-          - Latn
-      surname:
-        content: Quesenbery
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Quesenbery, Whitney.
+        language:
+        - en
   role:
   - type: author
 - organization:
     name:
     - content: National Institute of Standards and Technology (U.S.)
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: Information Technology Laboratory.
   role:
   - type: publisher
-revdate: '2023-01-25'
-script:
-- Latn
 abstract:
 - content: This document provides guidance and resources for how to test voting systems
     against the usability and accessibility requirements in the Voluntary Voting System
@@ -88,16 +59,21 @@ abstract:
     to help them understand some of the specialized tests required, and organizations
     in the design and development process as they build and prepare a voting system
     for certification testing.
+  language:
+  - en
   script:
   - Latn
   format: text/plain
 series:
 - title:
-    content: NIST VTS
+    content: NIST voting technology standard; NIST VTS
     format: text/plain
-  abbreviation:
-    content: VTS
-  number: 400-5
+  partnumber: 400-5
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

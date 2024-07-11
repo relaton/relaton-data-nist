@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NBSSP493
 title:
 - content: Neutron standards and applications
@@ -8,12 +8,10 @@ title:
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NBS.SP.493
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication493.pdf
-  type: pdf
-type: standard
 docid:
 - id: NBS SP 493
   type: NIST
@@ -21,131 +19,63 @@ docid:
 - id: 10.6028/NBS.SP.493
   type: DOI
 date:
-- type: published
+- type: issued
   value: '1977'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: C
-          language:
-          - en
-          script:
-          - Latn
-          initial: D
-        formatted_initials:
-          content: D
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Bowman
+      completename:
+        content: Bowman, C. D. (Charles D.),
         language:
         - en
-        script:
-        - Latn
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n80163572
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: A
-          language:
-          - en
-          script:
-          - Latn
-          initial: D
-        formatted_initials:
-          content: D
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Carlson
+      completename:
+        content: Carlson, A. D.
         language:
         - en
-        script:
-        - Latn
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: H
-          language:
-          - en
-          script:
-          - Latn
-          initial: O
-        formatted_initials:
-          content: O
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Liskien
+      completename:
+        content: Liskien, H. O.
         language:
         - en
-        script:
-        - Latn
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: 
-          language:
-          - en
-          script:
-          - Latn
-          initial: L
-        formatted_initials:
-          content: L
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Stewart
+      completename:
+        content: Stewart, L.
         language:
         - en
-        script:
-        - Latn
   role:
   - type: author
 - organization:
     name:
-    - content: National Bureau of Standards
-    abbreviation:
-      content: NBS
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n79021148
   role:
   - type: publisher
-revdate: '1977'
-language:
-- en
-script:
-- Latn
 series:
 - title:
-    content: NBS Special Publications (General)
+    content: NBS special publication; NBS special pub; NBS SP
     format: text/plain
-  abbreviation:
-    content: SP
-  number: '493'
+  partnumber: '493'
 place:
-- Gaithersburg, MD
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

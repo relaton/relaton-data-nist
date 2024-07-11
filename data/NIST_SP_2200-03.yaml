@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTSP2200-03
 title:
 - content: An evolving regulatory landscape for commercial electric vehicle fueling
@@ -8,12 +8,10 @@ title:
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NIST.SP.2200-03
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.2200-03.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST SP 2200-03
   type: NIST
@@ -21,70 +19,43 @@ docid:
 - id: 10.6028/NIST.SP.2200-03
   type: DOI
 date:
-- type: published
-  value: '2023-08-22'
+- type: issued
+  value: '2023'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Michael
-          script:
-          - Latn
-          initial: A
-        formatted_initials:
-          content: A
-          script:
-          - Latn
-      surname:
-        content: Nelson
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Physical Measurement Laboratory
+      completename:
+        content: Nelson, Michael A.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0003-0503-4501"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Tina
-          script:
-          - Latn
-          initial: G
-        formatted_initials:
-          content: G
-          script:
-          - Latn
-      surname:
-        content: Butcher
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Physical Measurement Laboratory
+      completename:
+        content: Butcher, Tina G.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0003-2711-9442"
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: |-
+        Physical Measurement Laboratory; Material Measurement
+                        Laboratory.
   role:
   - type: publisher
-revdate: '2023-08-22'
-script:
-- Latn
 abstract:
-- content: Plug-in electric vehicles (PEV), which include "all-electric" battery EV
+- content: Plug-in electric vehicles (PEV), which include “all-electric” battery EV
     (BEV) and plug-in hybrid EV (PHEV), comprise a rapidly growing proportion of the
-    U.S. automobile market - nearly 8% of all light-duty vehicles sold in Oct. 2022,
+    U.S. automobile market – nearly 8% of all light-duty vehicles sold in Oct. 2022,
     a 41.4% rise over October 2021 sales. In response to projected demands for PEV
     charging, private companies, utilities, and state and local governments have strived
     to develop policies and infrastructure that promote broad access to electric vehicle
@@ -109,16 +80,25 @@ abstract:
     of legal metrology in PEV charging. The implications of these topics and their
     relation to other currently evolving issues, including submetering for utility
     PEV time of use rates and for PEV fuel excise taxes, are also discussed.
+  language:
+  - en
   script:
   - Latn
   format: text/plain
 series:
 - title:
-    content: NIST Special Publications (General)
+    content: NIST special publication
     format: text/plain
-  abbreviation:
-    content: SP
-  number: 2200-03
+  partnumber: 2200-03
+- title:
+    content: NIST special publication; NIST special pub; NIST SP
+    format: text/plain
+  partnumber: 2200-03
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

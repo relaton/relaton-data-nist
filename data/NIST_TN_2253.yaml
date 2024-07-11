@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTTN2253
 title:
 - content: NIST Outdoor Structure Separation Experiments (NOSSE) with wind
@@ -8,12 +8,10 @@ title:
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NIST.TN.2253
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2253.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST TN 2253
   type: NIST
@@ -21,287 +19,153 @@ docid:
 - id: 10.6028/NIST.TN.2253
   type: DOI
 date:
-- type: published
-  value: '2023-05-31'
+- type: issued
+  value: '2023'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Alexander
-          script:
-          - Latn
-      surname:
-        content: Maranghides
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Maranghides, Alexander.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Shonali
-          script:
-          - Latn
-      surname:
-        content: Nazare
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Nazare, Shonali.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-0407-584"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Eric
-          script:
-          - Latn
-      surname:
-        content: Link
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Link, Eric.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-7784-5023"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Kathryn
-          script:
-          - Latn
-      surname:
-        content: Butler
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Butler, Kathryn.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0001-7163-4623"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Erik
-          script:
-          - Latn
-          initial: L
-        formatted_initials:
-          content: L
-          script:
-          - Latn
-      surname:
-        content: Johnsson
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Johnsson. Erik L.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0003-1170-7370"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Matthew
-          script:
-          - Latn
-      surname:
-        content: Bundy
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Bundy, Matthew.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-1138-0307"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Artur
-          script:
-          - Latn
-          initial: A
-        formatted_initials:
-          content: A
-          script:
-          - Latn
-      surname:
-        content: Chernovsky
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Chernovsky, Artur A.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-1215-7350"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Frank
-          script:
-          - Latn
-      surname:
-        content: Bigelow
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Bigelow, Frank.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Steven
-          script:
-          - Latn
-      surname:
-        content: Hawks
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Hawks, Steven.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: William (Ruddy)
-          script:
-          - Latn
-      surname:
-        content: Mell
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Mell, William (Ruddy).
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Anthony
-          script:
-          - Latn
-      surname:
-        content: Bova
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Bova, Anthony.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Thomas
-          script:
-          - Latn
-      surname:
-        content: Milac
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Milac, Thomas.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: William
-          script:
-          - Latn
-      surname:
-        content: Walton
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Walton, William.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Bob
-          script:
-          - Latn
-      surname:
-        content: Raymer
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Raymer, Bob.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Frank
-          script:
-          - Latn
-      surname:
-        content: Frievalt
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Frievalt, Frank.
+        language:
+        - en
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Lab Name.
   role:
   - type: publisher
-revdate: '2023-05-31'
-script:
-- Latn
 abstract:
 - content: The NIST Outdoor Structure Separation Experiments are part of the NIST
     Structure Separation Experiments project, which is designed to assess structure-to-structure
@@ -335,7 +199,7 @@ abstract:
     door opening facing downwind or upwind). In the case of steel sheds with the door
     opening facing the target structure, the applied wind had minimal or no effect
     on thermal exposure to the target structure. The steel sheds contained the fire
-    effectively - thus reducing, but not eliminating, the thermal exposure to the
+    effectively – thus reducing, but not eliminating, the thermal exposure to the
     target structure. For the scenarios evaluated, peak heat flux at the target structure
     could be reduced by half by changing the orientation of the door opening for noncombustible
     sheds. The SSDmin was identified as 10 ft for combustible and noncombustible sheds
@@ -352,16 +216,21 @@ abstract:
     the limitations of the experimental series, implementation of the minimum separation
     distance identified from the experimental measurements in this study is expected
     to improve community resilience to WUI.
+  language:
+  - en
   script:
   - Latn
   format: text/plain
 series:
 - title:
-    content: NIST Technical Notes
+    content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  abbreviation:
-    content: TN
-  number: '2253'
+  partnumber: '2253'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

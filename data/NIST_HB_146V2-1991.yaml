@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTHB146v2-1991
 title:
 - content: 'Software user''s guide for the HAZARD I fire hazard assessment method:
@@ -9,12 +9,10 @@ title:
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NIST.HB.146v2-1991
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nisthandbook146v2-1991.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST HB 146v2-1991
   type: NIST
@@ -22,105 +20,71 @@ docid:
 - id: 10.6028/NIST.HB.146v2-1991
   type: DOI
 date:
-- type: published
+- type: issued
   value: '1991'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Richard
-          script:
-          - Latn
-          initial: D
-        formatted_initials:
-          content: D
-          script:
-          - Latn
-      surname:
-        content: Peacock
-        script:
-        - Latn
+      completename:
+        content: Peacock, Richard D.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n79111603
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Walter
-          script:
-          - Latn
-          initial: W
-        formatted_initials:
-          content: W
-          script:
-          - Latn
-      surname:
-        content: Jones
-        script:
-        - Latn
+      completename:
+        content: Jones, Walter W.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n86105945
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Richard
-          script:
-          - Latn
-          initial: W
-        formatted_initials:
-          content: W
-          script:
-          - Latn
-      surname:
-        content: Bukowski
-        script:
-        - Latn
+      completename:
+        content: Bukowski, Richard.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n84003199
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: 
-          script:
-          - Latn
-          initial: C
-        formatted_initials:
-          content: 'C '
-          script:
-          - Latn
-      surname:
-        content: Forney
-        script:
-        - Latn
+      completename:
+        content: Forney, C. Lynn.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/no2022010871
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    abbreviation:
-      content: NIST
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n88112126
   role:
   - type: publisher
-revdate: '1991'
-script:
-- Latn
 series:
 - title:
-    content: NIST Handbooks
+    content: NIST handbook; NIST HB
     format: text/plain
-  abbreviation:
-    content: HB
-  number: 146v2-1991
+  partnumber: 146v2-1991
 place:
-- Gaithersburg, MD
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

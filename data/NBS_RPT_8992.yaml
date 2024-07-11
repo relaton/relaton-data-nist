@@ -1,21 +1,25 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NBSRPT8992
 title:
-- content: |-
-    A survey of thermodynamic properties of the compounds of the elements CHNOPS :
-    progress report for the period 1 July to 30 September 1965 to National Aeronautics and Space Administration
+- content: survey of thermodynamic properties of the compounds of the elements CHNOPS
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: title-main
+- content: progress report for the period 1 July to 30 September 1965 to National
+    Aeronautics and Space Administration
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
 link:
 - content: https://doi.org/10.6028/NBS.RPT.8992
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport8992.pdf
-  type: pdf
-type: standard
 docid:
 - id: NBS RPT 8992
   type: NIST
@@ -23,105 +27,77 @@ docid:
 - id: 10.6028/NBS.RPT.8992
   type: DOI
 date:
-- type: published
-  value: '1965'
+- type: issued
+  value: '2019'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Mary
-          script:
-          - Latn
-          initial: K
-        formatted_initials:
-          content: K
-          script:
-          - Latn
-      surname:
-        content: Buresh
-        script:
-        - Latn
+      completename:
+        content: Buresh, Mary K.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Martin
-          script:
-          - Latn
-          initial: L
-        formatted_initials:
-          content: L
-          script:
-          - Latn
-      surname:
-        content: Reilly
-        script:
-        - Latn
+      completename:
+        content: Reilly, Martin L.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/no2003023199
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: George
-          script:
-          - Latn
-          initial: T
-        formatted_initials:
-          content: T
-          script:
-          - Latn
-      surname:
-        content: Furukawa
-        script:
-        - Latn
+      completename:
+        content: Furukawa, George T.,
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n83001400
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: George
-          script:
-          - Latn
-          initial: T
-        formatted_initials:
-          content: T
-          script:
-          - Latn
-      surname:
-        content: Armstrong
-        script:
-        - Latn
+      completename:
+        content: Armstrong, George Thomson,
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n81040759
   role:
   - type: author
 - organization:
     name:
-    - content: National Bureau of Standards
-    abbreviation:
-      content: NBS
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n79021148
   role:
   - type: publisher
-revdate: '1965'
-script:
-- Latn
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n88112126
+  role:
+  - type: publisher
 series:
 - title:
-    content: NBS NBS Reports
+    content: NBS report
     format: text/plain
-  abbreviation:
-    content: RPT
-  number: '8992'
+  partnumber: '8992'
 place:
-- Gaithersburg, MD
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

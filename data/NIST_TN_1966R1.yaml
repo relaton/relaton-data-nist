@@ -1,21 +1,25 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTTN1966r1
 title:
-- content: |-
-    Horizontal convective boiling of R1234yf, R134a, and R450A within a micro-fin tube :
-    extensive measurement and analysis
+- content: Horizontal convective boiling of R1234yf, R134a, and R450A within a micro-fin
+    tube
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: title-main
+- content: extensive measurement and analysis
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
 link:
 - content: https://doi.org/10.6028/NIST.TN.1966r1
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1966r1.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST TN 1966r1
   type: NIST
@@ -23,61 +27,31 @@ docid:
 - id: 10.6028/NIST.TN.1966r1
   type: DOI
 date:
-- type: published
-  value: '2022-04-21'
+- type: issued
+  value: '2022'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Mark
-          script:
-          - Latn
-          initial: A
-        formatted_initials:
-          content: A
-          script:
-          - Latn
-      surname:
-        content: Kedzierski
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Kedzierski, Mark A.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Donggyu
-          script:
-          - Latn
-      surname:
-        content: Kang
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Kang, Donggyu.
+        language:
+        - en
   role:
   - type: author
 - organization:
     name:
     - content: National Institute of Standards and Technology (U.S.)
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: Engineering Laboratory
   role:
   - type: publisher
-revdate: '2022-04-21'
-script:
-- Latn
 abstract:
 - content: 'This report presents local convective boiling heat transfer and Fanning
     friction factor measurements in a micro-fin tube for R134a and two possible low
@@ -99,27 +73,31 @@ abstract:
     A new correlation for the friction factor was developed to provide a more accurate
     prediction. The measurements and the new models are important for the evaluation
     of potential low-GWP refrigerants replacements for R134a.'
+  language:
+  - en
   script:
   - Latn
   format: text/plain
 relation:
-- type: obsoletes
+- type: updates
   bibitem:
-    id: ''
+    id: NISTTN1966r1
     docid:
-    - id: ''
+    - id: NIST TN 1966r1
       type: NIST
-      primary: true
     formattedref:
-      content: ''
+      content: NIST TN 1966r1
       format: text/plain
 series:
 - title:
-    content: NIST Technical Notes
+    content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  abbreviation:
-    content: TN
-  number: 1966r1
+  partnumber: 1966r1
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

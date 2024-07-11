@@ -1,19 +1,17 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTIR5162
 title:
-- content: A programmer's reference guide to FDMS file formats
+- content: programmer's reference guide to FDMS file formats
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NIST.IR.5162
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5162.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST IR 5162
   type: NIST
@@ -21,33 +19,34 @@ docid:
 - id: 10.6028/NIST.IR.5162
   type: DOI
 date:
-- type: published
+- type: issued
   value: '1993'
 contributor:
+- person:
+    name:
+      completename:
+        content: Portier, Rebecca W.
+        language:
+        - en
+  role:
+  - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    abbreviation:
-      content: NIST
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
   role:
   - type: publisher
-revdate: '1993'
-script:
-- Latn
 series:
 - title:
-    content: NIST IR (Interagency/Internal Reports)
+    content: |-
+      NISTIR; NIST IR; NIST interagency report; NIST internal
+                      report
     format: text/plain
-  abbreviation:
-    content: IR
-  number: '5162'
+  partnumber: '5162'
 place:
-- Gaithersburg, MD
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

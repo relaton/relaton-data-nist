@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTTN2170
 title:
 - content: Modeling of combustion of fluorine-containing refrigerants
@@ -8,12 +8,10 @@ title:
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NIST.TN.2170
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2170.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST TN 2170
   type: NIST
@@ -21,132 +19,55 @@ docid:
 - id: 10.6028/NIST.TN.2170
   type: DOI
 date:
-- type: published
-  value: '2021-11-17'
+- type: issued
+  value: '2021'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Valeri
-          script:
-          - Latn
-          initial: I
-        formatted_initials:
-          content: I
-          script:
-          - Latn
-      surname:
-        content: Babushok
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Babushok, Valeri I.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Donald
-          script:
-          - Latn
-          initial: R
-        formatted_initials:
-          content: 'R '
-          script:
-          - Latn
-      surname:
-        content: Burgess
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Burgess, Donald R. Jr.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Dennis
-          script:
-          - Latn
-          initial: K
-        formatted_initials:
-          content: K
-          script:
-          - Latn
-      surname:
-        content: Kim
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Kim, Dennis K.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Michael
-          script:
-          - Latn
-          initial: J
-        formatted_initials:
-          content: J
-          script:
-          - Latn
-      surname:
-        content: Hegetschweiler
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Hegetschweiler, Michael J.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Gregory
-          script:
-          - Latn
-          initial: T
-        formatted_initials:
-          content: T
-          script:
-          - Latn
-      surname:
-        content: Linteris
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Linteris, Gregory T.
+        language:
+        - en
   role:
   - type: author
 - organization:
     name:
     - content: National Institute of Standards and Technology (U.S.)
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: Engineering Laboratory.
   role:
   - type: publisher
-revdate: '2021-11-17'
-script:
-- Latn
 abstract:
 - content: 'A gas-phase chemical kinetic model for the combustion of C1-C3 fluorine-containing
     refrigerants is presented, including a list of relevant species, their thermodynamic
@@ -159,16 +80,21 @@ abstract:
     R-1243zf and their mixtures. Agreement between predicted and measured burning
     velocity is very good for most of the refrigerant mixtures, and reasonably good
     agreement for a few.'
+  language:
+  - en
   script:
   - Latn
   format: text/plain
 series:
 - title:
-    content: NIST Technical Notes
+    content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  abbreviation:
-    content: TN
-  number: '2170'
+  partnumber: '2170'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTSP2200-02
 title:
 - content: 2022 NIST summary of U.S. legal metrology activities
@@ -8,12 +8,10 @@ title:
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NIST.SP.2200-02
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.2200-02.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST SP 2200-02
   type: NIST
@@ -21,188 +19,103 @@ docid:
 - id: 10.6028/NIST.SP.2200-02
   type: DOI
 date:
-- type: published
-  value: '2023-06-20'
+- type: issued
+  value: '2023'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Lisa
-          script:
-          - Latn
-      surname:
-        content: Warfield
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Physical Measurement Laboratory
+      completename:
+        content: Warfield, Lisa
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0003-0576-8572"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Tina
-          script:
-          - Latn
-          initial: G
-        formatted_initials:
-          content: G
-          script:
-          - Latn
-      surname:
-        content: Butcher
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Physical Measurement Laboratory
+      completename:
+        content: Butcher, Tina G.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0003-2711-9442"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Richard
-          script:
-          - Latn
-          initial: A
-        formatted_initials:
-          content: A
-          script:
-          - Latn
-      surname:
-        content: Harshman
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Physical Measurement Laboratory
+      completename:
+        content: Harshman, Richard A.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0001-9171-5906"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Jan
-          script:
-          - Latn
-      surname:
-        content: Konijnenburg
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Physical Measurement Laboratory
+      completename:
+        content: Konijnenburg, Jan
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0003-2592-873X"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: 
-          script:
-          - Latn
-          initial: G
-        formatted_initials:
-          content: 'G '
-          script:
-          - Latn
-      surname:
-        content: Lee
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Physical Measurement Laboratory
+      completename:
+        content: Lee, G. Diane
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-8005-0758"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: David
-          script:
-          - Latn
-          initial: A
-        formatted_initials:
-          content: A
-          script:
-          - Latn
-      surname:
-        content: Sefcik
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Physical Measurement Laboratory
+      completename:
+        content: Sefcik, David A.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)000-0001-7407-1950"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Juana
-          script:
-          - Latn
-          initial: S
-        formatted_initials:
-          content: S
-          script:
-          - Latn
-      surname:
-        content: Williams
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Physical Measurement Laboratory
+      completename:
+        content: Williams, Juana S.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0003-4807-9005"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Katrice
-          script:
-          - Latn
-          initial: A
-        formatted_initials:
-          content: A
-          script:
-          - Latn
-      surname:
-        content: Lippa
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Physical Measurement Laboratory
+      completename:
+        content: Lippa, Katrice A.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0001-8651-8326"
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Physical Measurement Laboratory.
   role:
   - type: publisher
-revdate: '2023-06-20'
-script:
-- Latn
 abstract:
 - content: The NIST Office of Weights and Measures (OWM) presents its first report
     2022 NIST Annual Summary of U.S. Legal Metrology Activities report. This report
@@ -216,16 +129,25 @@ abstract:
     44, 130, and133. Included within each item in this report is an NIST OWM technical
     analysis, background information, and a summary of any actions taken on proposed
     changes to these NIST Handbooks considered in 2022
+  language:
+  - en
   script:
   - Latn
   format: text/plain
 series:
 - title:
-    content: NIST Special Publications (General)
+    content: NIST special publication
     format: text/plain
-  abbreviation:
-    content: SP
-  number: 2200-02
+  partnumber: 2200-02
+- title:
+    content: NIST special publication; NIST special pub; NIST SP
+    format: text/plain
+  partnumber: 2200-02
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

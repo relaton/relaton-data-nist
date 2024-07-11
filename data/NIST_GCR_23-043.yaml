@@ -1,21 +1,24 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTGCR23-043
 title:
-- content: |-
-    Demystifying accreditation :
-    a framework for accreditation of forensic units
+- content: Demystifying accreditation
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: title-main
+- content: a framework for accreditation of forensic units
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
 link:
 - content: https://doi.org/10.6028/NIST.GCR.23-043
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/gcr/2023/NIST.GCR.23-043.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST GCR 23-043
   type: NIST
@@ -23,66 +26,31 @@ docid:
 - id: 10.6028/NIST.GCR.23-043
   type: DOI
 date:
-- type: published
-  value: '2023-07-20'
+- type: issued
+  value: '2023'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Nicole
-          script:
-          - Latn
-          initial: S
-        formatted_initials:
-          content: S
-          script:
-          - Latn
-      surname:
-        content: Jones
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: National Institute of Standards and Technology
+      completename:
+        content: Jones, Nicole S.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Erin
-          script:
-          - Latn
-          initial: P
-        formatted_initials:
-          content: P
-          script:
-          - Latn
-      surname:
-        content: Forry
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: National Institute of Standards and Technology
+      completename:
+        content: Forry, Erin P.
+        language:
+        - en
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Special Programs Office.
   role:
   - type: publisher
-revdate: '2023-07-20'
-script:
-- Latn
 abstract:
 - content: 'Accreditation is a formal recognition by an independent third party/accreditation
     body that a forensic service provider such as a laboratory, unit, or agency,a
@@ -99,14 +67,14 @@ abstract:
     and quality assurance programs for all units or laboratories that conduct forensic
     science activities, including those in which police agencies and identification
     units engage. Accreditation of CSI Units is important because it provides assurances
-    that quality standards are met during scene investigations-the main gateway for
+    that quality standards are met during scene investigations—the main gateway for
     recognizing, recording, collecting, transporting, and storing forensic evidence,
     which can have a lasting impact on the analysis, interpretation, reporting of
     results, and ultimately, the outcome of the investigation. Accreditation gives
-    the criminal justice system and the public confidence in a unit''s competence
-    and results and ensures that the unit has policies and procedures in place and
-    can demonstrate the unit maintains impartiality. This is particularly important
-    in the practice of crime scene investigation and forensic science because unlike
+    the criminal justice system and the public confidence in a unit’s competence and
+    results and ensures that the unit has policies and procedures in place and can
+    demonstrate the unit maintains impartiality. This is particularly important in
+    the practice of crime scene investigation and forensic science because unlike
     other industries, there is no nationally mandatory regulatory approach to ensuring
     quality. Therefore, a voluntary standardization approach through accreditation
     is important for maintaining public trust, transparency, and quality of work.
@@ -114,16 +82,27 @@ abstract:
     the documentation framework that comprises a quality management system, and provides
     guidance to meet the requirements in ISO/IEC 17020 and ISO/IEC 17025 and any additional
     requirements included in amplification documents.'
+  language:
+  - en
   script:
   - Latn
   format: text/plain
 series:
 - title:
-    content: NIST Grant/Contractor Reports
+    content: NIST GCR
     format: text/plain
-  abbreviation:
-    content: GCR
-  number: 23-043
+  partnumber: 23-043
+- title:
+    content: |-
+      NIST GCR; NIST grant-contract report; NIST grant contract
+                      report
+    format: text/plain
+  partnumber: 23-043
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

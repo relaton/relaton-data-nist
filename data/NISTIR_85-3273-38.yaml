@@ -1,21 +1,18 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTIR85-3273-38
 title:
-- content: |-
-    Energy Price Indices and Discount Factors for Life-Cycle Cost Analysis – 2023:
-    Annual Supplement to NIST Handbook 135
+- content: 'Energy price indices and discount factors for life-cycle cost analysis–
+    2023: annual supplement to NIST handbook 135'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NIST.IR.85-3273-38
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/ir/2023/NIST.IR.85-3273-38.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST IR 85-3273-38
   type: NIST
@@ -23,68 +20,64 @@ docid:
 - id: 10.6028/NIST.IR.85-3273-38
   type: DOI
 date:
-- type: published
-  value: '2023-09-18'
+- type: issued
+  value: '2023'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Joshua
-          script:
-          - Latn
-          initial: D
-        formatted_initials:
-          content: D
-          script:
-          - Latn
-      surname:
-        content: Kneifel
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Kneifel, Joshua D.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-3114-5531"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Priya
-          script:
-          - Latn
-      surname:
-        content: Lavappa
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Lavappa, Priya,
+        language:
+        - en
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory
   role:
   - type: publisher
-revdate: '2023-09-18'
-script:
-- Latn
+abstract:
+- content: This is the 2023 edition of energy price indices and discount factors for
+    performing life-cycle cost analyses of energy and water conservation and renewable
+    energy projects in federal facilities. It will be effective from the publication
+    date to the publication of the 2024 edition. This publication supports the federal
+    life cycle costing methodology described in 10 CFR 436A and OMB Circular A-94
+    by updating the energy price projections and discount factors that are described,
+    explained, and illustrated in NIST Handbook 135 (HB 135, Life-Cycle Costing Manual
+    for the Federal Energy Management Program.)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 series:
 - title:
-    content: NIST IR (Interagency/Internal Reports)
+    content: NISTIR
     format: text/plain
-  abbreviation:
-    content: IR
-  number: 85-3273-38
+  partnumber: 85-3273-38
+- title:
+    content: |-
+      NISTIR; NIST IR; NIST interagency report; NIST internal
+                      report
+    format: text/plain
+  partnumber: 85-3273-38
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

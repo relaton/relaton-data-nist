@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTTN2259
 title:
 - content: Mission critical voice quality of experience probability of successful
@@ -9,12 +9,10 @@ title:
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NIST.TN.2259
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2259.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST TN 2259
   type: NIST
@@ -22,73 +20,48 @@ docid:
 - id: 10.6028/NIST.TN.2259
   type: DOI
 date:
-- type: published
-  value: '2023-08-01'
+- type: issued
+  value: '2023'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Jaden
-          script:
-          - Latn
-      surname:
-        content: Pieper
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Communications Technology Laboratory
+      completename:
+        content: Pieper, Jaden.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0001-8061-6216"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Jesse
-          script:
-          - Latn
-      surname:
-        content: Frey
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Communications Technology Laboratory
+      completename:
+        content: Frey, Jesse.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-0354-1377"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Gary
-          script:
-          - Latn
-      surname:
-        content: Howarth
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Communications Technology Laboratory
+      completename:
+        content: Howarth, Gary.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-3587-0546"
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Communications Technology Laboratory.
   role:
   - type: publisher
-revdate: '2023-08-01'
-script:
-- Latn
 abstract:
 - content: This paper describes the probability of successful delivery (PSuD) measurement
     method for every word critical (EWC) and average message intelligibility (AMI)
@@ -97,17 +70,22 @@ abstract:
     Institute of Standards and Technology (NIST) Public Safety Communications Research
     Division (PSCR). In this paper, we present the probabilityiser (PBI), a tool that
     simulates an unreliable audio channel. Using the PBI we validate the PSuD measurement
-    and demonstrate the measurement's utility on audio encoded with various codecs.
+    and demonstrate the measurement’s utility on audio encoded with various codecs.
+  language:
+  - en
   script:
   - Latn
   format: text/plain
 series:
 - title:
-    content: NIST Technical Notes
+    content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  abbreviation:
-    content: TN
-  number: '2259'
+  partnumber: '2259'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

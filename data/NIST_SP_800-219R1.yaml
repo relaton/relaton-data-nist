@@ -1,21 +1,25 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTSP800-219r1
 title:
-- content: |-
-    Automated secure configuration guidance from the macOS security compliance project:
-    (mSCP)
+- content: Automated secure configuration guidance from the macOS security compliance
+    project
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: title-main
+- content: "(mSCP)"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
 link:
 - content: https://doi.org/10.6028/NIST.SP.800-219r1
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-219r1.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST SP 800-219r1
   type: NIST
@@ -23,180 +27,135 @@ docid:
 - id: 10.6028/NIST.SP.800-219r1
   type: DOI
 date:
-- type: published
-  value: '2023-07-20'
+- type: issued
+  value: '2023'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Mark
-          script:
-          - Latn
-      surname:
-        content: Trapnell
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Trapnell, Mark.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-5266-3610"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Eric
-          script:
-          - Latn
-      surname:
-        content: Trapnell
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Trapnell, Eric.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0001-9315-3732"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Murugiah
-          script:
-          - Latn
-      surname:
-        content: Souppaya
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Souppaya, Murugiah.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-8055-8527"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Bob
-          script:
-          - Latn
-      surname:
-        content: Gendler
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Gendler, Bob.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-8928-6492"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Dan
-          script:
-          - Latn
-      surname:
-        content: Brodjieski
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Brodjieski, Dan.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Allen
-          script:
-          - Latn
-      surname:
-        content: Golbig
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Golbig, Allen.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Karen
-          script:
-          - Latn
-      surname:
-        content: Scarfone
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Scarfone, Karen.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0001-6334-9486"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Blair
-          script:
-          - Latn
-      surname:
-        content: Heiserman
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Heiserman, Blair.
+        language:
+        - en
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Office of Information Systems Management
   role:
   - type: publisher
-revdate: '2023-07-20'
-script:
-- Latn
 abstract:
 - content: The macOS Security Compliance Project (mSCP) provides resources that system
     administrators, security professionals, security policy authors, information security
     officers, and auditors can leverage to secure and assess macOS desktop and laptop
     system security in an automated way. This publication introduces the mSCP and
-    gives an overview of the resources available from the project's GitHub site, which
+    gives an overview of the resources available from the project’s GitHub site, which
     is continuously curated and updated to support each new release of macOS. The
     GitHub site provides practical, actionable recommendations in the form of secure
     baselines and associated rules. This publication also describes use cases for
     leveraging the mSCP content. Updates from the previous version of this publication
     mainly involve the new mSCP capability to create a custom benchmark by tailoring
     a baseline.
+  language:
+  - en
   script:
   - Latn
   format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: NISTSP800-219r1
+    docid:
+    - id: NIST SP 800-219r1
+      type: NIST
+    formattedref:
+      content: NIST SP 800-219r1
+      format: text/plain
 series:
 - title:
-    content: NIST Special Publications (General)
+    content: NIST special publication
     format: text/plain
-  abbreviation:
-    content: SP
-  number: 800-219r1
+  partnumber: 800-219r1
+- title:
+    content: NIST special publication; NIST special pub; NIST SP
+    format: text/plain
+  partnumber: 800-219r1
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

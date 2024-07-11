@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTIR7193
 title:
 - content: Workshop to define information needed by emergency responders during building
@@ -9,12 +9,10 @@ title:
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NIST.IR.7193
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7193.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST IR 7193
   type: NIST
@@ -22,141 +20,64 @@ docid:
 - id: 10.6028/NIST.IR.7193
   type: DOI
 date:
-- type: published
+- type: issued
   value: '2005'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Walter
-          script:
-          - Latn
-          initial: W
-        formatted_initials:
-          content: W
-          script:
-          - Latn
-      surname:
-        content: Jones
-        script:
-        - Latn
+      completename:
+        content: Jones, Walter W.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: David
-          script:
-          - Latn
-          initial: G
-        formatted_initials:
-          content: G
-          script:
-          - Latn
-      surname:
-        content: Holmberg
-        script:
-        - Latn
+      completename:
+        content: Davis, William D.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: William
-          script:
-          - Latn
-          initial: D
-        formatted_initials:
-          content: D
-          script:
-          - Latn
-      surname:
-        content: Davis
-        script:
-        - Latn
+      completename:
+        content: Evans, David D.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: David
-          script:
-          - Latn
-          initial: D
-        formatted_initials:
-          content: D
-          script:
-          - Latn
-      surname:
-        content: Evans
-        script:
-        - Latn
+      completename:
+        content: Bushby, Steven T.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Steven
-          script:
-          - Latn
-          initial: T
-        formatted_initials:
-          content: T
-          script:
-          - Latn
-      surname:
-        content: Bushby
-        script:
-        - Latn
-  role:
-  - type: author
-- person:
-    name:
-      given:
-        forename:
-        - content: Kent
-          script:
-          - Latn
-          initial: A
-        formatted_initials:
-          content: A
-          script:
-          - Latn
-      surname:
-        content: Reed
-        script:
-        - Latn
+      completename:
+        content: Reed, Kent A.
+        language:
+        - en
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    abbreviation:
-      content: NIST
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
   role:
   - type: publisher
-revdate: '2005'
-script:
-- Latn
 series:
 - title:
-    content: NIST IR (Interagency/Internal Reports)
+    content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  abbreviation:
-    content: IR
-  number: '7193'
+  partnumber: '7193'
 place:
-- Gaithersburg, MD
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

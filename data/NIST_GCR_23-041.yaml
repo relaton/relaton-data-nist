@@ -1,20 +1,18 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTGCR23-041
 title:
-- content: Seismic Practice Needs for Buildings and Lifeline Infrastructure Located
-    in the Central and Eastern United States
+- content: Seismic practice needs for buildings and lifeline infrastructure located
+    in the central and eastern United States
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NIST.GCR.23-041
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/gcr/2023/NIST.GCR.23-041.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST GCR 23-041
   type: NIST
@@ -22,29 +20,44 @@ docid:
 - id: 10.6028/NIST.GCR.23-041
   type: DOI
 date:
-- type: published
-  value: 2023-05
+- type: issued
+  value: '2023'
 contributor:
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology.
   role:
   - type: publisher
-revdate: 2023-05
-script:
-- Latn
+- person:
+    name:
+      completename:
+        content: National Institute of Standards and Technology.
+        language:
+        - en
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+  role:
+  - type: publisher
 series:
 - title:
-    content: NIST Grant/Contractor Reports
+    content: NIST GCR
     format: text/plain
-  abbreviation:
-    content: GCR
-  number: 23-041
+  partnumber: 23-041
+- title:
+    content: |-
+      NIST GCR; NIST grant-contract report; NIST grant contract
+                      report
+    format: text/plain
+  partnumber: 23-041
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

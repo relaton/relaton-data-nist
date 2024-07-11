@@ -1,19 +1,17 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NBSRPT6407
 title:
-- content: A modification of the metering-bridge circuits of transmissometer indicators
+- content: modification of the metering-bridge circuits of transmissometer indicators
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.6407
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport6407.pdf
-  type: pdf
-type: standard
 docid:
 - id: NBS RPT 6407
   type: NIST
@@ -21,51 +19,32 @@ docid:
 - id: 10.6028/NBS.RPT.6407
   type: DOI
 date:
-- type: published
+- type: issued
   value: '1959'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: J
-          script:
-          - Latn
-          initial: E
-        formatted_initials:
-          content: E
-          script:
-          - Latn
-      surname:
-        content: Freiheit
-        script:
-        - Latn
+      completename:
+        content: Freiheit, J. E.
+        language:
+        - en
   role:
   - type: author
 - organization:
     name:
-    - content: National Bureau of Standards
-    abbreviation:
-      content: NBS
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
   role:
   - type: publisher
-revdate: '1959'
-script:
-- Latn
 series:
 - title:
-    content: NBS NBS Reports
+    content: NBS report
     format: text/plain
-  abbreviation:
-    content: RPT
-  number: '6407'
+  partnumber: '6407'
 place:
-- Gaithersburg, MD
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

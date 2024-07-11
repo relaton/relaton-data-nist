@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTTN2261
 title:
 - content: Impact of dynamic prices on distribution grid power quality
@@ -8,12 +8,10 @@ title:
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NIST.TN.2261
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2261.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST TN 2261
   type: NIST
@@ -21,73 +19,50 @@ docid:
 - id: 10.6028/NIST.TN.2261
   type: DOI
 date:
-- type: published
-  value: '2023-08-16'
+- type: issued
+  value: '2023'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: David
-          script:
-          - Latn
-      surname:
-        content: Holmberg
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Holmberg, David.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-1738-8190"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Farhad
-          script:
-          - Latn
-      surname:
-        content: Omar
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Omar, Farhad.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-0618-0060"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Thomas
-          script:
-          - Latn
-      surname:
-        content: Roth
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Roth, Thomas.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-9986-7784"
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: |-
+        Engineering Laboratory; Communications Technology
+                        Laboratory.
   role:
   - type: publisher
-revdate: '2023-08-16'
-script:
-- Latn
 abstract:
 - content: Dynamic price signals may provide a way to support integration of customer
     distributed energy resources (DER) into the electric grid and to help manage DER
@@ -112,16 +87,21 @@ abstract:
     goal of reducing cost without considering voltage. Care must be taken to reduce
     the volatility of the price signal and boost hosting capacity to support synchronized
     price response by a large percentage of load.
+  language:
+  - en
   script:
   - Latn
   format: text/plain
 series:
 - title:
-    content: NIST Technical Notes
+    content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  abbreviation:
-    content: TN
-  number: '2261'
+  partnumber: '2261'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

@@ -1,19 +1,24 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTIR7964
 title:
-- content: 'Benefits and Costs of Commissioning: A Case Study Analysis'
+- content: Benefits and costs of commissioning
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: title-main
+- content: a case study analysis
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
 link:
 - content: https://doi.org/10.6028/NIST.IR.7964
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/ir/2013/NIST.IR.7964.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST IR 7964
   type: NIST
@@ -21,99 +26,34 @@ docid:
 - id: 10.6028/NIST.IR.7964
   type: DOI
 date:
-- type: published
-  value: 2013-10
+- type: issued
+  value: '2013'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Stanley
-          script:
-          - Latn
-          initial: W
-        formatted_initials:
-          content: W.
-          script:
-          - Latn
-      surname:
-        content: Gilbert
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
-  role:
-  - type: author
-- person:
-    name:
-      given:
-        forename:
-        - content: Lindsay
-          script:
-          - Latn
-          initial: M
-        formatted_initials:
-          content: M.
-          script:
-          - Latn
-      surname:
-        content: Petersen
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
-  role:
-  - type: author
-- person:
-    name:
-      given:
-        forename:
-        - content: Michael
-          script:
-          - Latn
-          initial: D
-        formatted_initials:
-          content: D.
-          script:
-          - Latn
-      surname:
-        content: Garris
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Gilbert, Stanley W.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/no2022013709
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    abbreviation:
-      content: NIST
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/no2015040956
   role:
   - type: publisher
-revdate: 2013-10
-script:
-- Latn
 series:
 - title:
-    content: NIST IR (Interagency/Internal Reports)
+    content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  abbreviation:
-    content: IR
-  number: '7964'
-place:
-- Gaithersburg, MD
+  partnumber: '7964'
 doctype:
   type: standard
 ext:

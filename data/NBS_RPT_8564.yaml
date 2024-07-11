@@ -1,21 +1,26 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NBSRPT8564
 title:
-- content: |-
-    Report on Latin American travel (IV) concerning Latin American Standards (Columbia):
-    and Annual Meeting of the Latin American Iron & Steel Institute July 4 - 25, 1964
+- content: Report on Latin American travel (IV) concerning Latin American Standards
+    (Columbia)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: title-main
+- content: and Annual Meeting of the Latin American Iron & Steel Institute July 4-25,
+    1964
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
 link:
 - content: https://doi.org/10.6028/NBS.RPT.8564
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport8564.pdf
-  type: pdf
-type: standard
 docid:
 - id: NBS RPT 8564
   type: NIST
@@ -23,51 +28,32 @@ docid:
 - id: 10.6028/NBS.RPT.8564
   type: DOI
 date:
-- type: published
+- type: issued
   value: '1964'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: LeRoy
-          script:
-          - Latn
-          initial: L
-        formatted_initials:
-          content: L
-          script:
-          - Latn
-      surname:
-        content: Wyman
-        script:
-        - Latn
+      completename:
+        content: Wyman, LeRoy L.
+        language:
+        - en
   role:
   - type: author
 - organization:
     name:
-    - content: National Bureau of Standards
-    abbreviation:
-      content: NBS
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
   role:
   - type: publisher
-revdate: '1964'
-script:
-- Latn
 series:
 - title:
-    content: NBS NBS Reports
+    content: NBS report
     format: text/plain
-  abbreviation:
-    content: RPT
-  number: '8564'
+  partnumber: '8564'
 place:
-- Gaithersburg, MD
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

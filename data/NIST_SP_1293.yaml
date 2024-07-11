@@ -1,19 +1,17 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTSP1293
 title:
-- content: NextG Communications Research and Development Gaps Report
+- content: NextG communications research and development gaps report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NIST.SP.1293
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1293.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST SP 1293
   type: NIST
@@ -21,85 +19,78 @@ docid:
 - id: 10.6028/NIST.SP.1293
   type: DOI
 date:
-- type: published
-  value: '2023-11-15'
+- type: issued
+  value: '2023'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Nada
-          script:
-          - Latn
-          initial: T
-        formatted_initials:
-          content: T
-          script:
-          - Latn
-      surname:
-        content: Golmie
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Communications Technology Laboratory
+      completename:
+        content: Golmie, Nada T.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-2898-1651"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Marc
-          script:
-          - Latn
-      surname:
-        content: Leh
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Communications Technology Laboratory
+      completename:
+        content: Leh, Marc.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-4674-2347"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Miller
-          script:
-          - Latn
-      surname:
-        content: Higgins
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Communications Technology Laboratory
+      completename:
+        content: Higgins, Miller.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-4514-4716"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Abouzeid, Alhussein A.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Nandagopal, Thyagarajan.
+        language:
+        - en
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Communications Technology Laboratory.
   role:
   - type: publisher
-revdate: '2023-11-15'
-script:
-- Latn
 series:
 - title:
-    content: NIST Special Publications (General)
+    content: NIST special publication
     format: text/plain
-  abbreviation:
-    content: SP
-  number: '1293'
+  partnumber: '1293'
+- title:
+    content: NIST special publication; NIST special pub; NIST SP
+    format: text/plain
+  partnumber: '1293'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

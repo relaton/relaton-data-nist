@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTSP260-232
 title:
 - content: Certification of Standard Reference Material 917d D-Glucose (Dextrose)
@@ -8,12 +8,10 @@ title:
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NIST.SP.260-232
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.260-232.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST SP 260-232
   type: NIST
@@ -21,109 +19,56 @@ docid:
 - id: 10.6028/NIST.SP.260-232
   type: DOI
 date:
-- type: published
-  value: '2023-03-01'
+- type: issued
+  value: '2023'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Michael
-          script:
-          - Latn
-          initial: A
-        formatted_initials:
-          content: A
-          script:
-          - Latn
-      surname:
-        content: Nelson
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Material Measurement Laboratory
+      completename:
+        content: Nelson, Michael A.
+        language:
+        - en
     identifier:
-    - type: orcid
-      id: https://orcid.org/0000-0003-0503-4501
+    - type: uri
+      id: "(orcid)0000-0003-0503-4501"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Jerome
-          script:
-          - Latn
-      surname:
-        content: Mulloor
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Material Measurement Laboratory
+      completename:
+        content: Mulloor, Jerome.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Brian
-          script:
-          - Latn
-          initial: E
-        formatted_initials:
-          content: E
-          script:
-          - Latn
-      surname:
-        content: Lang
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Material Measurement Laboratory
+      completename:
+        content: Lang, Brian E.
+        language:
+        - en
     identifier:
-    - type: orcid
-      id: https://orcid.org/0000-0002-0772-1420
+    - type: uri
+      id: "(orcid)0000-0002-0772-1420"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Blaza
-          script:
-          - Latn
-      surname:
-        content: Toman
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Material Measurement Laboratory
+      completename:
+        content: Toman, Blaza.
+        language:
+        - en
     identifier:
-    - type: orcid
-      id: https://orcid.org/0000-0002-0999-9565
+    - type: uri
+      id: "(orcid)0000-0002-0999-9565"
   role:
   - type: author
 - organization:
     name:
     - content: National Institute of Standards and Technology (U.S.)
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: Material Measurement Laboratory.
   role:
   - type: publisher
-revdate: '2023-03-01'
-script:
-- Latn
 abstract:
 - content: Standard Reference Material (SRM) 917d D-Glucose (Dextrose) is certified
     as a chemical substance of known high purity. It is intended for use in calibrating
@@ -131,16 +76,21 @@ abstract:
     unit of SRM 917d consists of one bottle containing 50 g of crystalline D-glucose.
     This publication documents the production, analytical methods, and computations
     involved in characterizing this product.
+  language:
+  - en
   script:
   - Latn
   format: text/plain
 series:
 - title:
-    content: NIST Special Publications (General)
+    content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  abbreviation:
-    content: SP
-  number: 260-232
+  partnumber: 260-232
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

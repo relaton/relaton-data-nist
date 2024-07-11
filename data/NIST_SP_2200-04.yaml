@@ -1,19 +1,17 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTSP2200-04
 title:
-- content: 2023 NIST Summary of U.S. Legal Metrology Activities
+- content: 2023 NIST summary of U.S. legal metrology activities
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NIST.SP.2200-04
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.2200-04.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST SP 2200-04
   type: NIST
@@ -21,39 +19,83 @@ docid:
 - id: 10.6028/NIST.SP.2200-04
   type: DOI
 date:
-- type: published
+- type: issued
   value: '2023'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Lisa
-          script:
-          - Latn
-      surname:
-        content: Warfield
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Physical Measurement Laboratory
+      completename:
+        content: Warfield, Lisa.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0003-0576-8572"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Lippa, Katrice.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0001-8651-8326"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Konijnenburg, Jan.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Minnich, Loren.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0009-0006-8082-2726"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Lee, Gloria Diane.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Williams, Juana.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: McGuire, John.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0009-0006-7396-155X"
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Physical Measurement Laboratory.
   role:
   - type: publisher
-revdate: '2023'
-script:
-- Latn
 abstract:
 - content: The NIST Office of Weights and Measures (OWM) presents its second issue
     of the 2023 NIST Annual Summary of U.S. Legal Metrology Activities report. This
@@ -67,16 +109,25 @@ abstract:
     item in this report includes a NIST OWM technical analysis, background information,
     and a summary of any actions taken on proposed changes to these NIST Handbooks
     considered in 2023.
+  language:
+  - en
   script:
   - Latn
   format: text/plain
 series:
 - title:
-    content: NIST Special Publications (General)
+    content: NIST special publication
     format: text/plain
-  abbreviation:
-    content: SP
-  number: 2200-04
+  partnumber: 2200-04
+- title:
+    content: NIST special publication; NIST special pub; NIST SP
+    format: text/plain
+  partnumber: 2200-04
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

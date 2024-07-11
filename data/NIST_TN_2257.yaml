@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTTN2257
 title:
 - content: A deep learning framework for industrial wireless networks
@@ -8,12 +8,10 @@ title:
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NIST.TN.2257
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2257.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST TN 2257
   type: NIST
@@ -21,56 +19,37 @@ docid:
 - id: 10.6028/NIST.TN.2257
   type: DOI
 date:
-- type: published
-  value: '2023-07-25'
+- type: issued
+  value: '2023'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Mohamed
-          script:
-          - Latn
-      surname:
-        content: Hany
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Communications Technology Laboratory
+      completename:
+        content: Hany, Mohamed.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-6619-3509"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Richard
-          script:
-          - Latn
-      surname:
-        content: Candell
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Communications Technology Laboratory
+      completename:
+        content: Candell, Richard.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-6679-8823"
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Communications Technology Laboratory.
   role:
   - type: publisher
-revdate: '2023-07-25'
-script:
-- Latn
 abstract:
 - content: In this report, we introduce a framework to analyze, monitor, and identify
     the state of industrial wireless networks and their impact on industrial use cases.
@@ -81,16 +60,21 @@ abstract:
     metrics in order to study the industrial wireless network behavior. The output
     of the framework can be generally used to improve system management and optimization
     functions.
+  language:
+  - en
   script:
   - Latn
   format: text/plain
 series:
 - title:
-    content: NIST Technical Notes
+    content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  abbreviation:
-    content: TN
-  number: '2257'
+  partnumber: '2257'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

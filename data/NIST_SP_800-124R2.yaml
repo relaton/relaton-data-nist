@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTSP800-124r2
 title:
 - content: Guidelines for managing the security of 34 mobile devices in the enterprise
@@ -8,12 +8,10 @@ title:
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NIST.SP.800-124r2
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-124r2.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST SP 800-124r2
   type: NIST
@@ -21,112 +19,64 @@ docid:
 - id: 10.6028/NIST.SP.800-124r2
   type: DOI
 date:
-- type: published
-  value: '2023-05-17'
+- type: issued
+  value: '2023'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Gema
-          script:
-          - Latn
-      surname:
-        content: Howell
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Howell, Gema.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-0428-5045"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Joshua
-          script:
-          - Latn
-          initial: M
-        formatted_initials:
-          content: M
-          script:
-          - Latn
-      surname:
-        content: Franklin
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Franklin, Joshua M.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Vincent
-          script:
-          - Latn
-      surname:
-        content: Sritapan
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Sritapan, Vincent.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Murugiah
-          script:
-          - Latn
-      surname:
-        content: Souppaya
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Souppaya, Murugiah.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-8055-8527"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Karen
-          script:
-          - Latn
-      surname:
-        content: Scarfone
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Scarfone, Karen.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0001-6334-9486"
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
   role:
   - type: publisher
-revdate: '2023-05-17'
-script:
-- Latn
 abstract:
 - content: Mobile devices were initially personal consumer communication devices,
     but they are now permanent fixtures in enterprises and are used to access modern
@@ -138,16 +88,35 @@ abstract:
     The scope of this publication includes mobile devices, centralized device management,
     and endpoint protection technologies, as well as both organization-provided and
     personally owned deployment scenarios.
+  language:
+  - en
   script:
   - Latn
   format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: NISTSP800-124r1
+    docid:
+    - id: NIST SP 800-124r1
+      type: NIST
+    formattedref:
+      content: NIST SP 800-124r1
+      format: text/plain
 series:
 - title:
-    content: NIST Special Publications (General)
+    content: NIST special publication
     format: text/plain
-  abbreviation:
-    content: SP
-  number: 800-124r2
+  partnumber: 800-124r2
+- title:
+    content: NIST special publication; NIST special pub; NIST SP
+    format: text/plain
+  partnumber: 800-124r2
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

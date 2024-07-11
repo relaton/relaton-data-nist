@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTVTS100-1
 title:
 - content: Administering accessible vote by mail systems
@@ -8,12 +8,10 @@ title:
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NIST.VTS.100-1
   type: doi
-- content: http://nvlpubs.nist.gov/nistpubs/vts/NIST.VTS.100-1.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST VTS 100-1
   type: NIST
@@ -21,78 +19,42 @@ docid:
 - id: 10.6028/NIST.VTS.100-1
   type: DOI
 date:
-- type: published
-  value: '2023-01-25'
+- type: issued
+  value: '2023'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Sharon
-          script:
-          - Latn
-          initial: J
-        formatted_initials:
-          content: J
-          script:
-          - Latn
-      surname:
-        content: Laskowski
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Laskowski, Sharon J.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0003-2024-868X"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Whitney
-          script:
-          - Latn
-      surname:
-        content: Quesenbery
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Quesenbery, Whitney.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Lynn
-          script:
-          - Latn
-      surname:
-        content: Baumeister
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Baumeister, Lynn.
+        language:
+        - en
   role:
   - type: author
 - organization:
     name:
     - content: National Institute of Standards and Technology (U.S.)
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: Information Technology Laboratory.
   role:
   - type: publisher
-revdate: '2023-01-25'
-script:
-- Latn
 abstract:
 - content: Accessible vote by mail (AVBM) provides options for voters with disabilities
     to complete their absentee or vote by mail ballots independently and privately.
@@ -109,16 +71,21 @@ abstract:
     practices, assessing the risks and benefits for different methods of electronic
     return, and investigating methods for directly counting an AVBM ballot without
     replication, including best practices for how voter selections are encoded.\
+  language:
+  - en
   script:
   - Latn
   format: text/plain
 series:
 - title:
-    content: NIST VTS
+    content: NIST voting technology standard; NIST VTS
     format: text/plain
-  abbreviation:
-    content: VTS
-  number: 100-1
+  partnumber: 100-1
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

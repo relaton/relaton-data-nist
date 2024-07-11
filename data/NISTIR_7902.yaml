@@ -1,19 +1,24 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTIR7902
 title:
-- content: Fatigue Flaw NDE Reference Standard Development Phase I— Feasibility Study
+- content: Fatigue flaw NDE reference standard development phase I
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: title-main
+- content: feasibility study
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
 link:
 - content: https://doi.org/10.6028/NIST.IR.7902
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/ir/2012/NIST.IR.7902.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST IR 7902
   type: NIST
@@ -21,122 +26,54 @@ docid:
 - id: 10.6028/NIST.IR.7902
   type: DOI
 date:
-- type: published
-  value: 2012-11
+- type: issued
+  value: '2012'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Mark
-          language:
-          - en
-          script:
-          - Latn
-          initial: D
-        formatted_initials:
-          content: D.
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Richards
+      completename:
+        content: Richards, Mark D.
         language:
         - en
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Applied Chemicals and Materials Division, Material Measurement
-            Laboratory
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: 
-          language:
-          - en
-          script:
-          - Latn
-          initial: J
-        formatted_initials:
-          content: 'J. '
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: McColskey
+      completename:
+        content: McColskey, J. D.
         language:
         - en
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Applied Chemicals and Materials Division, Material Measurement
-            Laboratory
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/no2008138585
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Timothy
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
-        formatted_initials:
-          content: S.
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Weeks
+      completename:
+        content: Weeks, Timothy S.
         language:
         - en
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Applied Chemicals and Materials Division, Material Measurement
-            Laboratory
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    abbreviation:
-      content: NIST
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n88112126
   role:
   - type: publisher
-revdate: 2012-11
-language:
-- en
-script:
-- Latn
 series:
 - title:
-    content: NIST IR (Interagency/Internal Reports)
+    content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  abbreviation:
-    content: IR
-  number: '7902'
+  partnumber: '7902'
 place:
-- Gaithersburg, MD
+- city: Boulder
+  region:
+  - name: Colorado
+    iso: CO
 doctype:
   type: standard
 ext:

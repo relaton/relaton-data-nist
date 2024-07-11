@@ -1,21 +1,24 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTGCR23-045
 title:
-- content: |-
-    Advancement in Performance-Based Wind Design:
-    Workshop Report
+- content: Advancement in performance-based wind design
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: title-main
+- content: workshop report, February 23-24, 2023, Reston, Va
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
 link:
 - content: https://doi.org/10.6028/NIST.GCR.23-045
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/gcr/2023/NIST.GCR.23-045.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST GCR 23-045
   type: NIST
@@ -23,46 +26,54 @@ docid:
 - id: 10.6028/NIST.GCR.23-045
   type: DOI
 date:
-- type: published
-  value: 2023-09
+- type: issued
+  value: '2023'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Donald
-          script:
-          - Latn
-      surname:
-        content: Scott
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: National Institute of Standards and Technology
+      completename:
+        content: Scott, Donald.
+        language:
+        - en
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: |-
+        National Institute of Standards and Technology (U.S.), Gaithersburg,
+                        MD.
   role:
   - type: publisher
-revdate: 2023-09
-script:
-- Latn
+abstract:
+- content: In September 2022, the Structural Engineering Institute of the American
+    Society of Engineers commenced a project under National Institute of Standards
+    and Technology Contract No.1333ND22PNB730391 to develop workshops on Advancement
+    in Computational Wind Engineering and Advancement in Performance-Based Wind Design.
+    This report documents the results of the workshop on Advancement in Performance-Based
+    Wind Design. The workshop and subsequent roadmap for the standardization and application
+    of performance-based wind design is to be developed by wind engineering practitioners
+    and researchers for buildings.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 series:
 - title:
-    content: NIST Grant/Contractor Reports
+    content: NIST GCR
     format: text/plain
-  abbreviation:
-    content: GCR
-  number: 23-045
+  partnumber: 23-045
+- title:
+    content: |-
+      NIST GCR; NIST grant-contract report; NIST grant contract
+                      report
+    format: text/plain
+  partnumber: 23-045
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

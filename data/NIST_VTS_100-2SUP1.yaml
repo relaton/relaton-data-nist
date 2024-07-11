@@ -1,20 +1,18 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTVTS100-2sup1
 title:
-- content: Assisting Voters with Disabilities as They Mark, Verify, and Cast Their
-    Ballot Sample Slide Presentation
+- content: Assisting voters with disabilities as they mark, verify, and cast their
+    ballot sample slide presentation
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NIST.VTS.100-2sup1
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/vts/NIST.VTS.100-2sup1.zip
-  type: pdf
-type: standard
 docid:
 - id: NIST VTS 100-2sup1
   type: NIST
@@ -22,51 +20,33 @@ docid:
 - id: 10.6028/NIST.VTS.100-2sup1
   type: DOI
 date:
-- type: published
-  value: 2023-11
+- type: issued
+  value: '2023'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Sharon
-          script:
-          - Latn
-          initial: J
-        formatted_initials:
-          content: J
-          script:
-          - Latn
-      surname:
-        content: Laskowski
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Laskowski, Sharon J.
+        language:
+        - en
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
   role:
   - type: publisher
-revdate: 2023-11
-script:
-- Latn
 series:
 - title:
-    content: NIST VTS
+    content: NIST voting technology standard; NIST VTS
     format: text/plain
-  abbreviation:
-    content: VTS
-  number: 100-2sup1
+  partnumber: 100-2sup1
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

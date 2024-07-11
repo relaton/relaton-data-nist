@@ -1,21 +1,25 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTSP260-234
 title:
-- content: |-
-    Characterization of Reference Materials 8690 to 8693:
-    Per- and Polyfluoroalkyl Substances (PFAS) in Four Formulations of Aqueous Film-Forming Foams (AFFFs)
+- content: Characterization of Reference Materials 8690 to 8693
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: title-main
+- content: per- and polyfluoroalkyl substances (PFAS) in four formulations of aqueous
+    film-forming foams (AFFFs)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
 link:
 - content: https://doi.org/10.6028/NIST.SP.260-234
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.260-234.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST SP 260-234
   type: NIST
@@ -23,144 +27,65 @@ docid:
 - id: 10.6028/NIST.SP.260-234
   type: DOI
 date:
-- type: published
-  value: '2023-02-13'
+- type: issued
+  value: '2023'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Jessica
-          script:
-          - Latn
-          initial: L
-        formatted_initials:
-          content: L
-          script:
-          - Latn
-      surname:
-        content: Reiner
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Material Measurement Laboratory
+      completename:
+        content: Reiner, Jessica L.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Benjamin
-          script:
-          - Latn
-      surname:
-        content: Place
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Material Measurement Laboratory
+      completename:
+        content: Place, Benjamin.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: 
-          script:
-          - Latn
-          initial: N
-        formatted_initials:
-          content: 'N. '
-          script:
-          - Latn
-      surname:
-        content: Heckert
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Material Measurement Laboratory
+      completename:
+        content: Heckert, N. Alan.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Katherine
-          script:
-          - Latn
-      surname:
-        content: Peter
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Material Measurement Laboratory
+      completename:
+        content: Peter, Katherine.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Alix
-          script:
-          - Latn
-      surname:
-        content: Rodowa
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Material Measurement Laboratory
+      completename:
+        content: Rodowa, Alix.
+        language:
+        - en
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
   role:
   - type: publisher
-revdate: '2023-02-13'
-script:
-- Latn
-abstract:
-- content: The National Institute of Standards and Technology (NIST) Reference Materials
-    (RMs) 8690 Per- and Polyfluoroalkyl Substances (PFAS) in Aqueous Film-Forming
-    Foams (AFFF) Formulation I, RM 8691 Per- and Polyfluoroalkyl Substances (PFAS)
-    in Aqueous Film-Forming Foams (AFFF) Formulation II, RM 8692 Per- and Polyfluoroalkyl
-    Substances (PFAS) in Aqueous Film-Forming Foams (AFFF) Formulation III, and RM
-    8693 Per- and Polyfluoroalkyl Substances (PFAS) in Aqueous Film-Forming Foams
-    (AFFF) Formulation IV deliver non-certified values of the identity and quantity
-    of per- and polyfluoroalkyl substances (PFAS) in four formulations prepared from
-    commercial aqueous film-forming foam (AFFF) products. These RMs are intended for
-    use as quality control materials for PFAS measurements; they are not meant for
-    use in establishing the metrological traceability of measurement results to the
-    International System of Units (SI). Each unit of these RMs consists of one ampoule
-    containing approximately 1.2 mL of an AFFF solution diluted 10:1 (vol:vol) in
-    methanol and modified by addition of PFAS analytical standards. This publication
-    documents the production, analytical methods, and computations involved in characterizing
-    these products.
-  script:
-  - Latn
-  format: text/plain
 series:
 - title:
-    content: NIST Special Publications (General)
+    content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  abbreviation:
-    content: SP
-  number: 260-234
+  partnumber: 260-234
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

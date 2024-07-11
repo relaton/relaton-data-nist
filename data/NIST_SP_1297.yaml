@@ -1,19 +1,17 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTSP1297
 title:
-- content: NIST SI Units Card Deck
+- content: NIST SI units card deck
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NIST.SP.1297
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1297.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST SP 1297
   type: NIST
@@ -21,63 +19,68 @@ docid:
 - id: 10.6028/NIST.SP.1297
   type: DOI
 date:
-- type: published
-  value: '2023-11-01'
+- type: issued
+  value: '2023'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Elizabeth
-          script:
-          - Latn
-      surname:
-        content: Benham
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Physical Measurement Laboratory
+      completename:
+        content: Jagoda, Dinelka
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0003-3458-9418"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Dinelka
-          script:
-          - Latn
-      surname:
-        content: Jagoda
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Physical Measurement Laboratory
+      completename:
+        content: Benham, Elizabeth
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-2751-7881"
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Physical Measurement Laboratory
   role:
   - type: publisher
-revdate: '2023-11-01'
-script:
-- Latn
+abstract:
+- content: Welcome to the SI Units Card Deck! This interactive educational activity
+    offers a fun way for students to enhance their understanding of the International
+    System of Units (SI), including the Defining Constants, Base Units, Derived Units
+    with Special Names, and Prefixes. Play activities like those in this activity,
+    are an easy way to motivate students to learn, build self-confidence and transfer
+    SI measurement skills to other situations. Familiarity with the elements and structure
+    the SI prepare students to successfully make measurements in science, technology,
+    engineering, and mathematics (STEM) applications. With multiple game variations,
+    games may be differentiated for multiple instructional and skill levels. The deck
+    consists of 9 sets (142 cards), game instructions, game template, and supplemental
+    resources.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 series:
 - title:
-    content: NIST Special Publications (General)
+    content: NIST special publication
     format: text/plain
-  abbreviation:
-    content: SP
-  number: '1297'
+  partnumber: '1297'
+- title:
+    content: NIST special publication; NIST special pub; NIST SP
+    format: text/plain
+  partnumber: '1297'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

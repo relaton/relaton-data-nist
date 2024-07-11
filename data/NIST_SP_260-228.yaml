@@ -1,20 +1,24 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTSP260-228
 title:
-- content: Certification of Standard Reference Material® 2196 Axial Resolution Standard
-    for Optical Medical Imaging
+- content: Certification of Standard Reference Material 2196
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: title-main
+- content: axial resolution standard for optical medical imaging
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
 link:
 - content: https://doi.org/10.6028/NIST.SP.260-228
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.260-228.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST SP 260-228
   type: NIST
@@ -22,206 +26,89 @@ docid:
 - id: 10.6028/NIST.SP.260-228
   type: DOI
 date:
-- type: published
-  value: '2023-02-07'
+- type: issued
+  value: '2023'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Jeeseong
-          script:
-          - Latn
-      surname:
-        content: Hwang
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Physical Measurement Laboratory
+      completename:
+        content: Hwang, Jeeseong.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Kimberly
-          script:
-          - Latn
-      surname:
-        content: Briggman
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Physical Measurement Laboratory
+      completename:
+        content: Briggman, Kimberly.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Nikki
-          script:
-          - Latn
-      surname:
-        content: Rentz
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Physical Measurement Laboratory
+      completename:
+        content: Rentz, Nikki.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Hyun-Jin
-          script:
-          - Latn
-      surname:
-        content: Kim
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Physical Measurement Laboratory
+      completename:
+        content: Kim, Hyun-Jin.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: David
-          script:
-          - Latn
-          initial: W
-        formatted_initials:
-          content: W.
-          script:
-          - Latn
-      surname:
-        content: Allen
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Physical Measurement Laboratory
+      completename:
+        content: Allen, David W.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Lee
-          script:
-          - Latn
-      surname:
-        content: Richter
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Physical Measurement Laboratory
+      completename:
+        content: Richter, Lee.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Sowon
-          script:
-          - Latn
-      surname:
-        content: Yoon
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Physical Measurement Laboratory
+      completename:
+        content: Yoon, Sowon.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: John
-          script:
-          - Latn
-      surname:
-        content: Lu
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Physical Measurement Laboratory
+      completename:
+        content: Lu, John.
+        language:
+        - en
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Physical Measurement Laboratory.
   role:
   - type: publisher
-revdate: '2023-02-07'
-script:
-- Latn
-abstract:
-- content: Medical imaging devices and systems must be calibrated to ensure uniformity
-    and reliability of test results. A standard reference material (SRM) or "phantom",
-    as it is known in the medical imaging community, is used to replicate fundamental
-    characteristics of tissue and/or the material for which the imaging device is
-    intended for use. SRMs can be readily deployed to sites where devices are being
-    used, negating the need to physically relocate instruments for calibration or
-    performance testing. The SRM produced in this work is appropriate for calibrating
-    depth-resolving 3D optical systems such as optical coherent tomography (OCT).
-    The SRM consists of three layers of polydimethylsiloxane (PDMS) films on a gridded
-    glass slide. A thin, clear layer of PDMS is sandwiched between two thicker scattering
-    layers of PDMS. The scattering layers contain titanium dioxide (TiO2) as scattering
-    particles to allow easy identification of the thicknesses of the three layers
-    as a dimensional calibration of the axial resolution of an optical coherence tomographic
-    imaging device. The concentration of TiO2 scattering particles in PDMS can be
-    adjusted to control its scattering coefficient to mimic that of biological tissue
-    which was independently measured by a broadband integrating sphere system at NIST
-    for these concentrations. The thickness of each layer was measured by NIST's spectral
-    domain optical coherence tomography (SD-OCT) instrument to produce data similar
-    to that obtained using clinical devices. The axial dimensions of each region of
-    interest of the SRM was determined from the pixelated, 3D tomographs acquired
-    with an index of refraction (n) = 1, then converted from pixels to µm using a
-    NIST-traceable height standard to calibrate the NIST SD-OCT and then corrected
-    by the index of refraction of PDMS as measured by spectroscopic ellipsometry at
-    the appropriate OCT wavelength. For the users of the SRMs, we have developed an
-    algorithm which can be applied to a 3D tomograph obtained from any OCT to detect
-    the interfacial planes between the three layers of the SRM. The algorithm reports
-    the local layer thicknesses for each pixel across the entire lateral dimension
-    of the tomographic data cube. The user can then compare the output of the algorithm
-    generated by their OCT tomograph to the values from NIST to determine the calibration
-    of their instrument. For each SRM, we report a mean thickness and standard deviation
-    for each of the three-layer thicknesses across 9 regions of interest as defined
-    by a target grid registered in the SRM.
-  script:
-  - Latn
-  format: text/plain
 series:
 - title:
-    content: NIST Special Publications (General)
+    content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  abbreviation:
-    content: SP
-  number: 260-228
+  partnumber: 260-228
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

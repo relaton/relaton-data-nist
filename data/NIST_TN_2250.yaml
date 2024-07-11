@@ -1,21 +1,24 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTTN2250
 title:
-- content: |-
-    A Way of Estimating the Standard Errors of Bayes Factor and Weight of Evidence
-    A Case Study (Theoretical Framework)
+- content: A way of estimating the standard errors of Bayes factor and Weight of Evidence
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: title-main
+- content: a case study (theoretical framework)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
 link:
 - content: https://doi.org/10.6028/NIST.TN.2250
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2250.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST TN 2250
   type: NIST
@@ -23,61 +26,37 @@ docid:
 - id: 10.6028/NIST.TN.2250
   type: DOI
 date:
-- type: published
-  value: '2023-03-27'
+- type: issued
+  value: '2023'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Jin Chu
-          script:
-          - Latn
-      surname:
-        content: Wu
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Wu, Jin Chu.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-6340-2467"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: John
-          script:
-          - Latn
-          initial: M
-        formatted_initials:
-          content: M
-          script:
-          - Latn
-      surname:
-        content: Libert
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Libert, John M.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0003-0796-6871"
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
   role:
   - type: publisher
-revdate: '2023-03-27'
-script:
-- Latn
 abstract:
 - content: 'The Weight of Evidence (WoE) is defined to be the logarithm of the Bayes
     factor (BF) with base 10, which is generally with single point hypothesis rather
@@ -97,16 +76,21 @@ abstract:
     function-call method, whereas the nonparametric two-sample bootstrap algorithm
     is carried out on observed binomial variates created using the deterministic partition
     method. In this article, a case study is carried out.'
+  language:
+  - en
   script:
   - Latn
   format: text/plain
 series:
 - title:
-    content: NIST Technical Notes
+    content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  abbreviation:
-    content: TN
-  number: '2250'
+  partnumber: '2250'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

@@ -1,19 +1,17 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTSP800-53r4
 title:
-- content: Security and Privacy Controls for Federal Information Systems and Organizations
+- content: Security and privacy controls for federal information systems and organizations
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NIST.SP.800-53r4
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST SP 800-53r4
   type: NIST
@@ -21,33 +19,40 @@ docid:
 - id: 10.6028/NIST.SP.800-53r4
   type: DOI
 date:
-- type: published
-  value: 2013-04
+- type: issued
+  value: '2013'
 contributor:
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    abbreviation:
-      content: NIST
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: Joint Task Force Transformation Initiative.
   role:
   - type: publisher
-revdate: 2013-04
-script:
-- Latn
+- organization:
+    name:
+    - content: Joint Task Force Transformation Initiative.
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: |-
+        Computer Security Division, Information Technology
+                        Laboratory.
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n88112126
+  role:
+  - type: publisher
 series:
 - title:
-    content: NIST Special Publications (General)
+    content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  abbreviation:
-    content: SP
-  number: 800-53r4
+  partnumber: 800-53r4
 place:
-- Gaithersburg, MD
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

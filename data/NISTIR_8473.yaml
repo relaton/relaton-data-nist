@@ -1,20 +1,18 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTIR8473
 title:
-- content: Cybersecurity Framework Profile for Electric Vehicle Extreme Fast Charging
-    Infrastructure
+- content: Cybersecurity framework profile for electric vehicle extreme fast charging
+    infrastructure
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NIST.IR.8473
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/ir/2023/NIST.IR.8473.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST IR 8473
   type: NIST
@@ -22,233 +20,132 @@ docid:
 - id: 10.6028/NIST.IR.8473
   type: DOI
 date:
-- type: published
-  value: 2023-10
+- type: issued
+  value: '2023'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Jim
-          script:
-          - Latn
-      surname:
-        content: McCarthy
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: McCarthy, Jim.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-5559-733X"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Nakia
-          script:
-          - Latn
-      surname:
-        content: Grayson
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Grayson, Nakia R..
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Joseph
-          script:
-          - Latn
-      surname:
-        content: Brule
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Brule, Joseph.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-7987-6050"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Tom
-          script:
-          - Latn
-      surname:
-        content: Cottle
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Dinerman, alan.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-4867-0498"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Alan
-          script:
-          - Latn
-      surname:
-        content: Dinerman
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Dombrowski, John.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-9408-1838"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: John
-          script:
-          - Latn
-      surname:
-        content: Dombrowski
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Thompson, Michael.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-0836-244X"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Josie
-          script:
-          - Latn
-      surname:
-        content: Long
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Tran, Hillary.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-0873-1807"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Karen
-          script:
-          - Latn
-      surname:
-        content: Quigg
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
-  role:
-  - type: author
-- person:
-    name:
-      given:
-        forename:
-        - content: Michael
-          script:
-          - Latn
-      surname:
-        content: Thompson
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
-  role:
-  - type: author
-- person:
-    name:
-      given:
-        forename:
-        - content: Anne
-          script:
-          - Latn
-      surname:
-        content: Townsend
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
-  role:
-  - type: author
-- person:
-    name:
-      given:
-        forename:
-        - content: Hillary
-          script:
-          - Latn
-      surname:
-        content: Tran
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
-  role:
-  - type: author
-- person:
-    name:
-      given:
-        forename:
-        - content: Nikolas
-          script:
-          - Latn
-      surname:
-        content: Urlaub
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Townsend, Anne.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-8271-110X"
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory .
   role:
   - type: publisher
-revdate: 2023-10
-script:
-- Latn
+abstract:
+- content: 'This document is the Cybersecurity Framework Profile (Profile) developed
+    for the Electric Vehicle Extreme Fast Charging (EV/XFC) ecosystem and the subsidiary
+    functions that support each of the four domains: (i) Electric Vehicles (EV); (ii)
+    Extreme Fast Charging (XFC); (iii) XFC Cloud or Third-Party Operations; and (iv)
+    Utility and Building Networks. This Profile provides a foundational profile that
+    relevant parties may use to develop profiles specific to their organization to
+    assess their cybersecurity posture as a part of their risk management process.
+    The profile is intended to supplement, not replace, an existing risk management
+    program or the current cybersecurity standards, regulations, and industry guidelines
+    that are in current use by the EV/XFC industry.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 series:
 - title:
-    content: NIST IR (Interagency/Internal Reports)
+    content: NISTIR
     format: text/plain
-  abbreviation:
-    content: IR
-  number: '8473'
+  partnumber: '8473'
+- title:
+    content: |-
+      NISTIR; NIST IR; NIST interagency report; NIST internal
+                      report
+    format: text/plain
+  partnumber: '8473'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

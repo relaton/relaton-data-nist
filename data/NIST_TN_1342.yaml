@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTTN1342
 title:
 - content: Measurement and evaluation of a TEM
@@ -8,12 +8,10 @@ title:
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NIST.TN.1342
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1342.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST TN 1342
   type: NIST
@@ -21,131 +19,72 @@ docid:
 - id: 10.6028/NIST.TN.1342
   type: DOI
 date:
-- type: published
+- type: issued
   value: '1990'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: John
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
-        formatted_initials:
-          content: M
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Ladbury
+      completename:
+        content: Crawford, M. L.
         language:
         - en
-        script:
-        - Latn
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n79080193
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Mark
-          language:
-          - en
-          script:
-          - Latn
-          initial: T
-        formatted_initials:
-          content: T
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Ma
+      completename:
+        content: Ladbury, John M.
         language:
         - en
-        script:
-        - Latn
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/no2007055627
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Bill
-          language:
-          - en
-          script:
-          - Latn
-          initial: F
-        formatted_initials:
-          content: F
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Riddle
+      completename:
+        content: Ma, Mark T.
         language:
         - en
-        script:
-        - Latn
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n81114955
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: M
-          language:
-          - en
-          script:
-          - Latn
-          initial: L
-        formatted_initials:
-          content: L
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Crawford
+      completename:
+        content: Riddle, Bill.
         language:
         - en
-        script:
-        - Latn
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/no2007049977
   role:
   - type: author
 - organization:
     name:
-    - content: National Bureau of Standards
-    abbreviation:
-      content: NBS
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n79021148
   role:
   - type: publisher
-revdate: '1990'
-language:
-- en
-script:
-- Latn
 series:
 - title:
-    content: NIST Technical Notes
+    content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  abbreviation:
-    content: TN
-  number: '1342'
+  partnumber: '1342'
 place:
-- Gaithersburg, MD
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

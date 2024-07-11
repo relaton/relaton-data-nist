@@ -1,19 +1,17 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTTN2251
 title:
-- content: Wind-driven Fire Spread to a Structure from Firewood Piles
+- content: Wind-driven fire spread to a structure from firewood piles
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NIST.TN.2251
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2251.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST TN 2251
   type: NIST
@@ -21,117 +19,70 @@ docid:
 - id: 10.6028/NIST.TN.2251
   type: DOI
 date:
-- type: published
-  value: '2023-03-30'
+- type: issued
+  value: '2023'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Erik
-          script:
-          - Latn
-          initial: L
-        formatted_initials:
-          content: L
-          script:
-          - Latn
-      surname:
-        content: Johnsson
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Johnsson, Erik L.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0003-1170-7370"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Kathryn
-          script:
-          - Latn
-      surname:
-        content: Butler
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Butler, Kathryn.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0001-7163-4623"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Marco
-          script:
-          - Latn
-          initial: G
-        formatted_initials:
-          content: G.
-          script:
-          - Latn
-      surname:
-        content: Fernandez
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Fernandez, Marco G.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-4227-8866"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Shonali
-          script:
-          - Latn
-      surname:
-        content: Nazare
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Nazare, Shonali.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-0407-5849"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Alexander
-          script:
-          - Latn
-      surname:
-        content: Maranghides
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Maranghides, Alexander.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-3545-2475"
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
   role:
   - type: publisher
-revdate: '2023-03-30'
-script:
-- Latn
 abstract:
 - content: A series of field experiments was conducted to examine the effects on fire
     spread toward a structure for firewood piles under conditions that may be encountered
@@ -158,16 +109,21 @@ abstract:
     fire hazard of woodpiles is part of a series designed to better inform standards
     and codes regarding placement of landscape features around homes that are at risk
     of exposure to wildland-urban interface fires.
+  language:
+  - en
   script:
   - Latn
   format: text/plain
 series:
 - title:
-    content: NIST Technical Notes
+    content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  abbreviation:
-    content: TN
-  number: '2251'
+  partnumber: '2251'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

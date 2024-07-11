@@ -1,21 +1,24 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTIR8476
 title:
-- content: |-
-    3rd High-Performance Computing Security Workshop:
-    Joint NIST-NSF Workshop Report
+- content: 3rd High-Performance Computing Security Workshop
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: title-main
+- content: joint NIST-NSF workshop report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
 link:
 - content: https://doi.org/10.6028/NIST.IR.8476
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/ir/2023/NIST.IR.8476.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST IR 8476
   type: NIST
@@ -23,301 +26,188 @@ docid:
 - id: 10.6028/NIST.IR.8476
   type: DOI
 date:
-- type: published
-  value: '2023-09-26'
+- type: issued
+  value: '2023'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Yang
-          script:
-          - Latn
-      surname:
-        content: Guo
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Guo, Yang.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-3245-3069"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Jeremy
-          script:
-          - Latn
-      surname:
-        content: Licata
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Licata, Jeremy.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0001-8793-5471"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Victoria Yan
-          script:
-          - Latn
-      surname:
-        content: Pillitteri
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Pillitteri, Victoria.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-7446-7506"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Sanjay (Jay)
-          script:
-          - Latn
-      surname:
-        content: Rekhi
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Rekhi, Sanjay.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0009-0008-8711-4030"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Robert
-          script:
-          - Latn
-      surname:
-        content: Beverly
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Beverly, Robert.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Xin
-          script:
-          - Latn
-      surname:
-        content: Yuan
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Yuan, Xin.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Gary
-          script:
-          - Latn
-      surname:
-        content: Key
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Key, Gary.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Rickey
-          script:
-          - Latn
-      surname:
-        content: Gregg
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Gregg, Rickey.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Stephen
-          script:
-          - Latn
-      surname:
-        content: Bowman
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Bowman, Stephen.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Catherine
-          script:
-          - Latn
-      surname:
-        content: Hinton
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Hinton, Catherine.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Albert
-          script:
-          - Latn
-      surname:
-        content: Reuther
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Reuther, Albert.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Ryan
-          script:
-          - Latn
-      surname:
-        content: Adamson
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Adamson, Ryan.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Aron
-          script:
-          - Latn
-      surname:
-        content: Warren
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Warren, Aron.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Purushotham
-          script:
-          - Latn
-      surname:
-        content: Bangalore
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Bangalore, Purushotham.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Erik
-          script:
-          - Latn
-      surname:
-        content: Deumens
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Deumens, Erik.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Csilla
-          script:
-          - Latn
-      surname:
-        content: Farkas
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Farkas, Csilla.
+        language:
+        - en
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
   role:
   - type: publisher
-revdate: '2023-09-26'
-script:
-- Latn
+abstract:
+- content: High-performance computing (HPC) is a vital computational infrastructure
+    for processing large data volumes, performing complex simulations, and conducting
+    advanced machine learning model training. As such, HPC is a critical component
+    of scientific discovery, innovation, and economic competitiveness. Cybersecurity
+    thus plays an important role in HPC by safeguarding against abuse and misuse and
+    ensuring data and research integrity. However, HPC systems often have unique hardware,
+    software, and user environments that pose distinct cybersecurity challenges. This
+    collaborative workshop gathered stakeholders from government, academia, and industry
+    to discuss community needs, ongoing activities, and future directions in HPC security.
+    This public workshop report provides detailed summaries of technical sessions,
+    key takeaways from breakout sessions, and a summary of the keynote presentations.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 series:
 - title:
-    content: NIST IR (Interagency/Internal Reports)
+    content: NISTIR
     format: text/plain
-  abbreviation:
-    content: IR
-  number: '8476'
+  partnumber: '8476'
+- title:
+    content: |-
+      NISTIR; NIST IR; NIST interagency report; NIST internal
+                      report
+    format: text/plain
+  partnumber: '8476'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

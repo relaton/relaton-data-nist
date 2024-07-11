@@ -1,20 +1,25 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTSP800-140Dr2
 title:
-- content: CMVP Approved Sensitive Security Parameter Generation and Establishment
-    Methods
+- content: Cryptographic Module Validation Program (CMVP)-approved sensitive security
+    parameter generation and establishment methods
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: title-main
+- content: CMVP validation authority updates to ISO/IEC 24759
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
 link:
 - content: https://doi.org/10.6028/NIST.SP.800-140Dr2
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-140Dr2.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST SP 800-140Dr2
   type: NIST
@@ -22,56 +27,62 @@ docid:
 - id: 10.6028/NIST.SP.800-140Dr2
   type: DOI
 date:
-- type: published
-  value: 2023-07
+- type: issued
+  value: '2023'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Alexander
-          script:
-          - Latn
-      surname:
-        content: Calis
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Calis, Alexander.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0003-1937-8129"
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
   role:
   - type: publisher
-revdate: 2023-07
-script:
-- Latn
 abstract:
 - content: The approved sensitive security parameter generation and establishment
     methods listed in this publication replace the ones listed in International Organization
     for Standardization/International Electrotechnical Commission (ISO/IEC) 19790
     Annex D and ISO/IEC 24759 paragraph 6.16, within the context of the Cryptographic
     Module Validation Program (CMVP). As a validation authority, the CMVP may supersede
-    Annex D in its entirety. This document also supersedes SP 800-140Dr1.
+    Annex D in its entirety.
+  language:
+  - en
   script:
   - Latn
   format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: NISTSP800-140Dr1
+    docid:
+    - id: NIST SP 800-140Dr1
+      type: NIST
+    formattedref:
+      content: NIST SP 800-140Dr1
+      format: text/plain
 series:
 - title:
-    content: NIST Special Publications (General)
+    content: NIST special publication
     format: text/plain
-  abbreviation:
-    content: SP
-  number: 800-140Dr2
+  partnumber: 800-140Dr2
+- title:
+    content: NIST special publication; NIST special pub; NIST SP
+    format: text/plain
+  partnumber: 800-140Dr2
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

@@ -1,21 +1,24 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NBSIR74-538
 title:
-- content: |-
-    Magnetic tape operations on the sound laboratory data acquisition system :
-    a programmer's reference manual
+- content: Magnetic tape operations on the sound laboratory data acquisition system
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: title-main
+- content: a programmer's reference manual
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
 link:
 - content: https://doi.org/10.6028/NBS.IR.74-538
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-538.pdf
-  type: pdf
-type: standard
 docid:
 - id: NBS IR 74-538
   type: NIST
@@ -23,59 +26,38 @@ docid:
 - id: 10.6028/NBS.IR.74-538
   type: DOI
 date:
-- type: published
+- type: issued
   value: '1974'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: 
-          language:
-          - en
-          script:
-          - Latn
-          initial: A
-        formatted_initials:
-          content: 'A '
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Baroody
+      completename:
+        content: Baroody, A. James,
         language:
         - en
-        script:
-        - Latn
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/no2021001596
   role:
   - type: author
 - organization:
     name:
-    - content: National Bureau of Standards
-    abbreviation:
-      content: NBS
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n88112126
   role:
   - type: publisher
-revdate: '1974'
-language:
-- en
-script:
-- Latn
 series:
 - title:
-    content: NBS IR (Interagency/Internal Reports)
+    content: NBSIR; NBS IR; NBS interagency report; NBS internal report
     format: text/plain
-  abbreviation:
-    content: IR
-  number: 74-538
+  partnumber: 74-538
 place:
-- Gaithersburg, MD
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTIR8457
 title:
 - content: Calibration stability of data loggers used for vaccine temperature monitoring
@@ -8,12 +8,10 @@ title:
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NIST.IR.8457
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/ir/2023/NIST.IR.8457.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST IR 8457
   type: NIST
@@ -21,100 +19,59 @@ docid:
 - id: 10.6028/NIST.IR.8457
   type: DOI
 date:
-- type: published
-  value: '2023-03-06'
+- type: issued
+  value: '2023'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Michal
-          script:
-          - Latn
-      surname:
-        content: Chojnacky
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Physical Measurement Laboratory
+      completename:
+        content: Chojnacky, Michal.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-7872-6413"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Sam
-          script:
-          - Latn
-          initial: W
-        formatted_initials:
-          content: W
-          script:
-          - Latn
-      surname:
-        content: Smith
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Physical Measurement Laboratory
+      completename:
+        content: Smith, Sam W.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0003-3445-1697"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Bethany
-          script:
-          - Latn
-          initial: A
-        formatted_initials:
-          content: A
-          script:
-          - Latn
-      surname:
-        content: Rodman
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Physical Measurement Laboratory
+      completename:
+        content: Rodman, Bethany A.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-6713-1369"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Tobias
-          script:
-          - Latn
-      surname:
-        content: Herman
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Physical Measurement Laboratory
+      completename:
+        content: Herman, Tobias.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0003-4296-6957"
   role:
   - type: author
 - organization:
     name:
     - content: National Institute of Standards and Technology (U.S.)
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: Physical Measurement Laboratory.
   role:
   - type: publisher
-revdate: '2023-03-06'
-script:
-- Latn
 abstract:
 - content: Continuous temperature monitoring of vaccines during distribution and storage
     is critical to ensuring vaccination efficacy. Exposure to inappropriate storage
@@ -136,16 +93,23 @@ abstract:
     period. These findings support extending data logger recalibration intervals when
     paired with concurrent manufacturer-supplied device stability data and/or intermediate
     data logger verification checks performed in the field.
+  language:
+  - en
   script:
   - Latn
   format: text/plain
 series:
 - title:
-    content: NIST IR (Interagency/Internal Reports)
+    content: |-
+      NISTIR; NIST IR; NIST interagency report; NIST internal
+                      report
     format: text/plain
-  abbreviation:
-    content: IR
-  number: '8457'
+  partnumber: '8457'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

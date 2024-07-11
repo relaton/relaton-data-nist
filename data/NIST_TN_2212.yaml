@@ -1,20 +1,18 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTTN2212
 title:
-- content: Using Monte Carlo Methods to Compute the Uncertainty of Fracture Toughness
-    and Fracture Resistance Curves
+- content: Using Monte Carlo methods to compute the uncertainty of fracture toughness
+    and fracture resistance curves
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NIST.TN.2212
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2212.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST TN 2212
   type: NIST
@@ -22,96 +20,49 @@ docid:
 - id: 10.6028/NIST.TN.2212
   type: DOI
 date:
-- type: published
-  value: '2023-02-03'
+- type: issued
+  value: '2021'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Lucas
-          script:
-          - Latn
-      surname:
-        content: Koepke
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Koepke, Lucas.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Dash
-          script:
-          - Latn
-      surname:
-        content: Weeks
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Weeks, Dash.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Jolene
-          script:
-          - Latn
-          initial: D
-        formatted_initials:
-          content: D.
-          script:
-          - Latn
-      surname:
-        content: Splett
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Splett, Jolene D.
+        language:
+        - en
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
   role:
   - type: publisher
-revdate: '2023-02-03'
-script:
-- Latn
-abstract:
-- content: The uncertainty of fracture toughness and associated fracture resistance
-    curves for single edge-notched tension (SE(T) or SENT) specimens is a key component
-    missing from widely accepted testing protocols. Complicating matters, these uncertainties
-    are not easily calculated using traditional propagation-of-error techniques. Uncertainty
-    estimates using Monte Carlo techniques for two test methods are presented and
-    the effect of changing the distribution and tolerance specified for the measurement
-    and input quantities on the results is investigated.
-  script:
-  - Latn
-  format: text/plain
 series:
 - title:
-    content: NIST Technical Notes
+    content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  abbreviation:
-    content: TN
-  number: '2212'
+  partnumber: '2212'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

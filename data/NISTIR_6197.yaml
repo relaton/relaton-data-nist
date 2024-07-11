@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTIR6197
 title:
 - content: Report on the first-generation NIST convective heat flux calibration facility
@@ -8,12 +8,10 @@ title:
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NIST.IR.6197
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6197.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST IR 6197
   type: NIST
@@ -21,69 +19,46 @@ docid:
 - id: 10.6028/NIST.IR.6197
   type: DOI
 date:
-- type: published
+- type: issued
   value: '1998'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: David
-          script:
-          - Latn
-          initial: G
-        formatted_initials:
-          content: G
-          script:
-          - Latn
-      surname:
-        content: Holmberg
-        script:
-        - Latn
+      completename:
+        content: Holmberg, David G.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/no2021110737
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Carole
-          script:
-          - Latn
-          initial: A
-        formatted_initials:
-          content: A
-          script:
-          - Latn
-      surname:
-        content: Womeldorf
-        script:
-        - Latn
+      completename:
+        content: Womeldorf, Carole A.
+        language:
+        - en
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    abbreviation:
-      content: NIST
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n88112126
   role:
   - type: publisher
-revdate: '1998'
-script:
-- Latn
 series:
 - title:
-    content: NIST IR (Interagency/Internal Reports)
+    content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  abbreviation:
-    content: IR
-  number: '6197'
+  partnumber: '6197'
 place:
-- Gaithersburg, MD
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

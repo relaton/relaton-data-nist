@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTAMS500-1
 title:
 - content: Enabling FAIR data in additive manufacturing to accelerate industrialization
@@ -8,12 +8,10 @@ title:
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NIST.AMS.500-1
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.500-1.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST AMS 500-1
   type: NIST
@@ -21,197 +19,95 @@ docid:
 - id: 10.6028/NIST.AMS.500-1
   type: DOI
 date:
-- type: published
-  value: '2023-07-24'
+- type: issued
+  value: '2023'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Shengyen
-          script:
-          - Latn
-      surname:
-        content: Li
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Li, Shengyen.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Kareem
-          script:
-          - Latn
-          initial: S
-        formatted_initials:
-          content: S
-          script:
-          - Latn
-      surname:
-        content: Aggour
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Aggour, Kareem S.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Yan
-          script:
-          - Latn
-      surname:
-        content: Lu
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Lu, Yan.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Peter
-          script:
-          - Latn
-      surname:
-        content: Coutts
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Coutts, Peter.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Brennan
-          script:
-          - Latn
-      surname:
-        content: Harris
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Harris, Brennan.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Alex
-          script:
-          - Latn
-      surname:
-        content: Kitt
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Kitt, Alex.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Afina
-          script:
-          - Latn
-      surname:
-        content: Lupulescu
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Lupulescu, Afina.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Michael
-          script:
-          - Latn
-      surname:
-        content: McNair
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: McNair, Michael.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Luke
-          script:
-          - Latn
-      surname:
-        content: Mohr
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Mohr, Luke.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Mike
-          script:
-          - Latn
-      surname:
-        content: Vasquez
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Vasquez, Mike.
+        language:
+        - en
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
   role:
   - type: publisher
-revdate: '2023-07-24'
-script:
-- Latn
 abstract:
 - content: Additive manufacturing (AM) is an important enabler of Industry 4.0 but
     there are several hurdles that need to be overcome to realize the full potential
@@ -230,16 +126,25 @@ abstract:
     the CDM into targeted data packages. The design philosophy of the CDD, CDM, and
     CDEF are described to accelerate the development and adoption of AM technologies
     across alliances.
+  language:
+  - en
   script:
   - Latn
   format: text/plain
 series:
 - title:
-    content: NIST Advanced Manufacturing Series
+    content: NIST advanced manufacturing series
     format: text/plain
-  abbreviation:
-    content: AMS
-  number: 500-1
+  partnumber: 500-1
+- title:
+    content: NIST advanced manufacturing series; NIST AMS
+    format: text/plain
+  partnumber: 500-1
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

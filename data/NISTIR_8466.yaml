@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTIR8466
 title:
 - content: 'Applied and Computational Mathematics Division: summary of activities
@@ -9,12 +9,10 @@ title:
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NIST.IR.8466
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/ir/2023/NIST.IR.8466.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST IR 8466
   type: NIST
@@ -22,65 +20,58 @@ docid:
 - id: 10.6028/NIST.IR.8466
   type: DOI
 date:
-- type: published
-  value: '2013-05-16'
+- type: issued
+  value: '2023'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Ronald
-          script:
-          - Latn
-          initial: F
-        formatted_initials:
-          content: F
-          script:
-          - Latn
-      surname:
-        content: Boisvert
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Information Technology Laboratory
+      completename:
+        content: Boisvert , Ronald F.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-4445-1044"
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Lab Name.
   role:
   - type: publisher
-revdate: '2013-05-16'
-script:
-- Latn
 abstract:
 - content: This report summarizes recent technical work of the Applied and Computational
     Mathematics Division of the Information Technology Laboratory at the National
     Institute of Standards and Technology (NIST). Part I (Overview) provides a high-level
-    overview of the Division's activities, including highlights of technical accomplishments
+    overview of the Division’s activities, including highlights of technical accomplishments
     during the previous year. Part II (Features) provides further details on projects
     of particular note this year. This is followed in Part III (Project Summaries)
     by brief synopses of all technical projects active during the past year. Part
     IV (Activity Data) provides listings of publications, technical talks, and other
     professional activities in which Division staff members have participated. The
     reporting period covered by this document is October 2021 through December 2022.
+  language:
+  - en
   script:
   - Latn
   format: text/plain
 series:
 - title:
-    content: NIST IR (Interagency/Internal Reports)
+    content: NISTIR
     format: text/plain
-  abbreviation:
-    content: IR
-  number: '8466'
+  partnumber: '8466'
+- title:
+    content: |-
+      NISTIR; NIST IR; NIST interagency report; NIST internal
+                      report
+    format: text/plain
+  partnumber: '8466'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

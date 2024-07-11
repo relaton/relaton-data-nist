@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTTN2258
 title:
 - content: Design and implementation of a closed-loop mobile manipulator control system
@@ -8,12 +8,10 @@ title:
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NIST.TN.2258
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2258.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST TN 2258
   type: NIST
@@ -21,92 +19,61 @@ docid:
 - id: 10.6028/NIST.TN.2258
   type: DOI
 date:
-- type: published
-  value: '2023-07-28'
+- type: issued
+  value: '2023'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Omar
-          script:
-          - Latn
-      surname:
-        content: Aboul-Enein
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Aboul-Enein, Omar.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-5361-4589"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Ya-Shian
-          script:
-          - Latn
-      surname:
-        content: Li-Baboud
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Li-Baboud, Ya-Shian.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0003-3234-4345"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Roger
-          script:
-          - Latn
-      surname:
-        content: Bostelman
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Bostelman, Roger.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-8605-7758"
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Ann
-          script:
-          - Latn
-      surname:
-        content: Virts
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Virts, Ann.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0009-0003-3420-4888"
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
   role:
   - type: publisher
-revdate: '2023-07-28'
-script:
-- Latn
 abstract:
-- content: Mobile manipulators, which integrate a robotic manipulator with an automatic-autonomous
+- content: Mobile manipulators, which integrate a robotic manipulator with an automatic–autonomous
     mobile base, have the potential to augment automation by combining the capability
     of navigation with complex manipulation to support unstructured and dynamic environments.
     Targeted applications include manufacturing large-scale parts commonly encountered
@@ -127,16 +94,21 @@ abstract:
     locations along the same work-piece is required. This work will promote advances
     in control scheme development by providing a standardized, reproducible test method
     for evaluation in a variety of simulated application spaces.
+  language:
+  - en
   script:
   - Latn
   format: text/plain
 series:
 - title:
-    content: NIST Technical Notes
+    content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  abbreviation:
-    content: TN
-  number: '2258'
+  partnumber: '2258'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

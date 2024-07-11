@@ -1,21 +1,24 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NBSLCIRC815r1946
 title:
-- content: |-
-    Letter Circular 815:
-    list of commercial standards (supersedes Letter Circular 803)
+- content: Letter Circular 815
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: title-main
+- content: list of commercial standards (supersedes Letter Circular 803)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
 link:
 - content: https://doi.org/10.6028/NBS.LCIRC.815r1946
   type: doi
-- content: http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular815r1946.pdf
-  type: pdf
-type: standard
 docid:
 - id: NBS LCIRC 815r1946
   type: NIST
@@ -23,33 +26,32 @@ docid:
 - id: 10.6028/NBS.LCIRC.815r1946
   type: DOI
 date:
-- type: published
+- type: issued
   value: '1946'
 contributor:
+- person:
+    name:
+      completename:
+        content: National Bureau of Standards.
+        language:
+        - en
+  role:
+  - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    abbreviation:
-      content: NBS
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
   role:
   - type: publisher
-revdate: '1946'
-script:
-- Latn
 series:
 - title:
-    content: NBS Letter Circular
+    content: NBSLCIRC; NBS LCIRC; NBS letter circular
     format: text/plain
-  abbreviation:
-    content: LCIRC
-  number: 815r1946
+  partnumber: 815r1946
 place:
-- Gaithersburg, MD
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

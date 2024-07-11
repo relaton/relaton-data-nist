@@ -1,21 +1,25 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NBSRPT9654
 title:
-- content: |-
-    Calculations of diffusion coefficients in ternary systems from diaphragm cell experiments:
-    progress report
+- content: Calculations of diffusion coefficients in ternary systems from diaphragm
+    cell experiments
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: title-main
+- content: progress report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
 link:
 - content: https://doi.org/10.6028/NBS.RPT.9654
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9654.pdf
-  type: pdf
-type: standard
 docid:
 - id: NBS RPT 9654
   type: NIST
@@ -23,69 +27,40 @@ docid:
 - id: 10.6028/NBS.RPT.9654
   type: DOI
 date:
-- type: published
+- type: issued
   value: '1967'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: P
-          script:
-          - Latn
-          initial: R
-        formatted_initials:
-          content: R
-          script:
-          - Latn
-      surname:
-        content: Patel
-        script:
-        - Latn
+      completename:
+        content: Patel, P. R.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: T
-          script:
-          - Latn
-          initial: M
-        formatted_initials:
-          content: M
-          script:
-          - Latn
-      surname:
-        content: Gregory
-        script:
-        - Latn
+      completename:
+        content: Gregory, T. M.
+        language:
+        - en
   role:
   - type: author
 - organization:
     name:
-    - content: National Bureau of Standards
-    abbreviation:
-      content: NBS
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
   role:
   - type: publisher
-revdate: '1967'
-script:
-- Latn
 series:
 - title:
-    content: NBS NBS Reports
+    content: NBS report
     format: text/plain
-  abbreviation:
-    content: RPT
-  number: '9654'
+  partnumber: '9654'
 place:
-- Gaithersburg, MD
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

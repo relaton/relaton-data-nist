@@ -1,20 +1,18 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NBSIR75-726
 title:
-- content: The evaluation of the Shirley Highway Express-Bus-on-Freeway Demonstration
+- content: evaluation of the Shirley Highway Express-Bus-on-Freeway Demonstration
     Project- final report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NBS.IR.75-726
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-726.pdf
-  type: pdf
-type: standard
 docid:
 - id: NBS IR 75-726
   type: NIST
@@ -22,124 +20,69 @@ docid:
 - id: 10.6028/NBS.IR.75-726
   type: DOI
 date:
-- type: published
+- type: issued
   value: '1975'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: James
-          language:
-          - en
-          script:
-          - Latn
-          initial: T
-        formatted_initials:
-          content: T
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: McQueen
+      completename:
+        content: McQueen, James T.
         language:
         - en
-        script:
-        - Latn
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: David
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
-        formatted_initials:
-          content: M
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Levinsohn
+      completename:
+        content: Levinsohn, David M.
         language:
         - en
-        script:
-        - Latn
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n85277487
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Robert
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Waksman
+      completename:
+        content: Waksman, Robert.
         language:
         - en
-        script:
-        - Latn
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n89631454
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Gerald
-          language:
-          - en
-          script:
-          - Latn
-          initial: K
-        formatted_initials:
-          content: K
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Miller
+      completename:
+        content: Miller, Gerald K.
         language:
         - en
-        script:
-        - Latn
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n80140658
   role:
   - type: author
 - organization:
     name:
-    - content: National Bureau of Standards
-    abbreviation:
-      content: NBS
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n79021148
   role:
   - type: publisher
-revdate: '1975'
-language:
-- en
-script:
-- Latn
 series:
 - title:
-    content: NBS IR (Interagency/Internal Reports)
+    content: NBSIR; NBS IR; NBS interagency report; NBS internal report
     format: text/plain
-  abbreviation:
-    content: IR
-  number: 75-726
+  partnumber: 75-726
 place:
-- Gaithersburg, MD
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

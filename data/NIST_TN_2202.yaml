@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTTN2202
 title:
 - content: Simulation of residential CO exposures from portable generators with and
@@ -9,12 +9,10 @@ title:
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NIST.TN.2202
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2202.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST TN 2202
   type: NIST
@@ -22,117 +20,55 @@ docid:
 - id: 10.6028/NIST.TN.2202
   type: DOI
 date:
-- type: published
-  value: '2022-02-16'
+- type: issued
+  value: '2022'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Steven
-          script:
-          - Latn
-          initial: J
-        formatted_initials:
-          content: J
-          script:
-          - Latn
-      surname:
-        content: Emmerich
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Emmerich, Steven J.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Brian
-          script:
-          - Latn
-      surname:
-        content: Polidoro
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Polidoro, Brian.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Matthew
-          script:
-          - Latn
-      surname:
-        content: Hnatov
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Hnatov, Matthew.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Janet
-          script:
-          - Latn
-      surname:
-        content: Buyer
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Buyer, Janet.
+        language:
+        - en
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Matthew
-          script:
-          - Latn
-          initial: J
-        formatted_initials:
-          content: J
-          script:
-          - Latn
-      surname:
-        content: Brookman
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
+      completename:
+        content: Brookman, Matthew J.
+        language:
+        - en
   role:
   - type: author
 - organization:
     name:
     - content: National Institute of Standards and Technology (U.S.)
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: Engineering Laboratory
   role:
   - type: publisher
-revdate: '2022-02-16'
-script:
-- Latn
 abstract:
 - content: This report documents work performed by the U.S. National Institute of
     Standards and Technology (NIST) and the U.S. Consumer Product Safety Commission
@@ -161,16 +97,21 @@ abstract:
     quality modeling program CONTAM. This report presents the simulation plan and
     detailed CO and COHb simulation results for sample scenarios from two of the houses
     and one of the detached garages.
+  language:
+  - en
   script:
   - Latn
   format: text/plain
 series:
 - title:
-    content: NIST Technical Notes
+    content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  abbreviation:
-    content: TN
-  number: '2202'
+  partnumber: '2202'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

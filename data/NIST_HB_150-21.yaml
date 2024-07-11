@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: NISTHB150-21
 title:
 - content: 'National voluntary laboratory accreditation program: chemical calibration
@@ -9,12 +9,10 @@ title:
   script:
   - Latn
   format: text/plain
+  type: title-main
 link:
 - content: https://doi.org/10.6028/NIST.HB.150-21
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nisthandbook150-21.pdf
-  type: pdf
-type: standard
 docid:
 - id: NIST HB 150-21
   type: NIST
@@ -22,105 +20,71 @@ docid:
 - id: 10.6028/NIST.HB.150-21
   type: DOI
 date:
-- type: published
+- type: issued
   value: '2000'
 contributor:
 - person:
     name:
-      given:
-        forename:
-        - content: Gary
-          script:
-          - Latn
-          initial: W
-        formatted_initials:
-          content: W
-          script:
-          - Latn
-      surname:
-        content: Kramer
-        script:
-        - Latn
+      completename:
+        content: Kramer, Gary W.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n81057465
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: John
-          script:
-          - Latn
-          initial: C
-        formatted_initials:
-          content: C
-          script:
-          - Latn
-      surname:
-        content: Travis
-        script:
-        - Latn
+      completename:
+        content: Travis, John C.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n81011447
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: 
-          script:
-          - Latn
-          initial: C
-        formatted_initials:
-          content: 'C '
-          script:
-          - Latn
-      surname:
-        content: Faison
-        script:
-        - Latn
+      completename:
+        content: Faison, C. Douglas.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/no2002089019
   role:
   - type: author
 - person:
     name:
-      given:
-        forename:
-        - content: Stanley
-          script:
-          - Latn
-          initial: D
-        formatted_initials:
-          content: D
-          script:
-          - Latn
-      surname:
-        content: Rasberry
-        script:
-        - Latn
+      completename:
+        content: Rasberry, S. D. (Stanley D.)
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n85352117
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    abbreviation:
-      content: NIST
-    contact:
-    - address:
-        city: Gaithersburg
-        state: MD
-        country: US
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n88112126
   role:
   - type: publisher
-revdate: '2000'
-script:
-- Latn
 series:
 - title:
-    content: NIST Handbooks
+    content: NIST handbook; NIST HB
     format: text/plain
-  abbreviation:
-    content: HB
-  number: 150-21
+  partnumber: 150-21
 place:
-- Gaithersburg, MD
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
 doctype:
   type: standard
 ext:

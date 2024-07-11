@@ -5,4 +5,4 @@ require 'relaton_nist'
 # FileUtils.rm_rf('data')
 # FileUtils.rm Dir.glob('index*')
 
-# RelatonNist::DataFetcher.fetch
+RelatonNist::DataFetcher.fetch # output:'dir'

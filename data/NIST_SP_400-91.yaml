@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NISTSP400-91
 title:
-- content: collection of computer programs for two-probe resistance (spreading resistance)
+- content: A collection of computer programs for two-probe resistance (spreading resistance)
     and four-probe resistance calculations, RESPAC
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.400-91
   type: doi
+type: standard
 docid:
 - id: NIST SP 400-91
   type: NIST
@@ -57,7 +58,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 400-91
+  number: 400-91
 place:
 - city: Gaithersburg
   region:

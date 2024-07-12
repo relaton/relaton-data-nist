@@ -17,9 +17,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: 'Establishing wireless robust security networks - a guide to IEEE 802.11i
+    : recommendations of the National Institute of Standards and Technology'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.800-97
   type: doi
+type: standard
 docid:
 - id: NIST SP 800-97
   type: NIST
@@ -70,9 +79,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology).
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
     - content: Computer Security Division.
     identifier:
     - type: uri
@@ -83,7 +91,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 800-97
+  number: 800-97
 place:
 - city: Gaithersburg
   region:

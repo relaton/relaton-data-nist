@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR7271
 title:
-- content: myth of goats
+- content: The myth of goats
   language:
   - en
   script:
@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The myth of goats - how many people have fingerprints that are hard to
+    match?
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.7271
   type: doi
+type: standard
 docid:
 - id: NIST IR 7271
   type: NIST
@@ -64,7 +73,7 @@ series:
       NISTIR; NIST IR; NIST interagency report; NIST internal
                       report
     format: text/plain
-  partnumber: '7271'
+  number: '7271'
 place:
 - city: Gaithersburg
   region:

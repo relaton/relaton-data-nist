@@ -9,10 +9,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.CSM.36
   type: doi
+type: standard
 docid:
 - id: NBS CSM 36
   type: NIST
@@ -25,9 +26,8 @@ date:
 contributor:
 - organization:
     name:
-    - content: |-
-        Division of Simplified Practice, Division of Specifications,
-                        Commercial Standards Unit, American Marine Standard Committee.
+    - content: Division of Simplified Practice, Division of Specifications, Commercial
+        Standards Unit, American Marine Standard Committee.
   role:
   - type: publisher
 - organization:
@@ -43,7 +43,7 @@ series:
 - title:
     content: NBS commercial standards; NBS CS
     format: text/plain
-  partnumber: '36'
+  number: '36'
 place:
 - city: Gaithersburg
   region:

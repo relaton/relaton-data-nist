@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSSP500-139
 title:
-- content: data base directions information resource management
+- content: A data base directions information resource management
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.SP.500-139
   type: doi
+type: standard
 docid:
 - id: NBS SP 500-139
   type: NIST
@@ -57,7 +58,7 @@ series:
 - title:
     content: NBS special publication; NBS special pub; NBS SP
     format: text/plain
-  partnumber: 500-139
+  number: 500-139
 place:
 - city: Gaithersburg
   region:

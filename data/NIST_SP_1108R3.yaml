@@ -9,10 +9,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.1108r3
   type: doi
+type: standard
 docid:
 - id: NIST SP 1108r3
   type: NIST
@@ -36,9 +37,8 @@ contributor:
   - type: publisher
 - organization:
     name:
-    - content: |-
-        Physical Measurement Laboratory (National Institute of Standards and
-                        Technology (U.S.)).
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.)).
     - content: Quantum Measurement Division.
     - content: Semiconductor and Dimensional Metrology Division.
     - content: Electromagnetics Division.
@@ -49,9 +49,8 @@ contributor:
   - type: publisher
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology).
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
     - content: Advanced Network Technologies Division.
     - content: Computer Security Division.
     identifier:
@@ -63,7 +62,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 1108r3
+  number: 1108r3
 place:
 - city: Gaithersburg
   region:

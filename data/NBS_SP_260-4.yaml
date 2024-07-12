@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: Standard reference materials - sources of information
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.SP.260-4
   type: doi
+type: standard
 docid:
 - id: NBS SP 260-4
   type: NIST
@@ -58,7 +66,7 @@ series:
 - title:
     content: NBS miscellaneous publication; NBS miscellaneous pub; NBS MP
     format: text/plain
-  partnumber: 260-4
+  number: 260-4
 place:
 - city: Gaithersburg
   region:

@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR7864
 title:
-- content: common misuse scoring system (CMSS)
+- content: The common misuse scoring system (CMSS)
   language:
   - en
   script:
@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The common misuse scoring system (CMSS) - metrics for software feature
+    misuse vulnerabilities
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.7864
   type: doi
+type: standard
 docid:
 - id: NIST IR 7864
   type: NIST
@@ -61,9 +70,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology).
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
     - content: Computer Security Division.
     identifier:
     - type: uri
@@ -74,7 +82,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '7864'
+  number: '7864'
 place:
 - city: Gaithersburg
   region:

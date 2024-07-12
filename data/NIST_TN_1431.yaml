@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTTN1431
 title:
-- content: technical reference for CFAST
+- content: A technical reference for CFAST
   language:
   - en
   script:
@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: A technical reference for CFAST - an engineering tool for estimating fire
+    and smoke transport
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.TN.1431
   type: doi
+type: standard
 docid:
 - id: NIST TN 1431
   type: NIST
@@ -85,7 +94,7 @@ series:
 - title:
     content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  partnumber: '1431'
+  number: '1431'
 place:
 - city: Gaithersburg
   region:

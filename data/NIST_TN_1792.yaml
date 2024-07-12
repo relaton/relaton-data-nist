@@ -9,10 +9,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.TN.1792
   type: doi
+type: standard
 docid:
 - id: NIST TN 1792
   type: NIST
@@ -72,9 +73,7 @@ contributor:
 - organization:
     name:
     - content: National Institute of Standards and Technology (U.S.).
-    - content: |-
-        Physical Measurement Laboratory, Electromagnetics
-                        Division.
+    - content: Physical Measurement Laboratory, Electromagnetics Division.
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/n88112126
@@ -84,7 +83,7 @@ series:
 - title:
     content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  partnumber: '1792'
+  number: '1792'
 place:
 - city: Gaithersburg
   region:

@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NISTTN1275
 title:
-- content: study of meteorological processes important in the degradation of materials
+- content: A study of meteorological processes important in the degradation of materials
     through surface temperature
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.TN.1275
   type: doi
+type: standard
 docid:
 - id: NIST TN 1275
   type: NIST
@@ -47,7 +48,7 @@ series:
 - title:
     content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  partnumber: '1275'
+  number: '1275'
 place:
 - city: Gaithersburg
   region:

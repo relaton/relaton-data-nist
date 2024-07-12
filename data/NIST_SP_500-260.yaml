@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTSP500-260
 title:
-- content: Model-based analysis of first-generation service discovery systems
+- content: A Model-based analysis of first-generation service discovery systems
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.500-260
   type: doi
+type: standard
 docid:
 - id: NIST SP 500-260
   type: NIST
@@ -57,9 +58,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology)
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/no97056762
@@ -69,7 +69,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 500-260
+  number: 500-260
 place:
 - city: Gaithersburg
   region:

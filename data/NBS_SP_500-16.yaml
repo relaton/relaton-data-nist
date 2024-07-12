@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NBSSP500-16
 title:
-- content: survey of eleven government-developed data element dictionary/directory
+- content: A survey of eleven government-developed data element dictionary/directory
     systems
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.SP.500-16
   type: doi
+type: standard
 docid:
 - id: NBS SP 500-16
   type: NIST
@@ -36,7 +37,7 @@ series:
 - title:
     content: NBS special publication; NBS special pub; NBS SP
     format: text/plain
-  partnumber: 500-16
+  number: 500-16
 place:
 - city: Gaithersburg
   region:

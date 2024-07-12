@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSRPT7006
 title:
-- content: high vacuum protective circuit
+- content: A high vacuum protective circuit
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.7006
   type: doi
+type: standard
 docid:
 - id: NBS RPT 7006
   type: NIST
@@ -39,7 +40,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '7006'
+  number: '7006'
 place:
 - city: Gaithersburg
   region:

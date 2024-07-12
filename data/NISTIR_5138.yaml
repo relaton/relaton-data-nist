@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR5138
 title:
-- content: program for conformity assessment system evaluation
+- content: A program for conformity assessment system evaluation
   language:
   - en
   script:
@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: A program for conformity assessment system evaluation - analysis of comments
+    on the NIST proposal
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.5138
   type: doi
+type: standard
 docid:
 - id: NIST IR 5138
   type: NIST
@@ -56,7 +65,7 @@ series:
       NISTIR; NIST IR; NIST interagency report; NIST internal
                       report
     format: text/plain
-  partnumber: '5138'
+  number: '5138'
 place:
 - city: Gaithersburg
   region:

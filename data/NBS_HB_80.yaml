@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSHB80
 title:
-- content: manual of radioactivity procedures
+- content: A manual of radioactivity procedures
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.HB.80
   type: doi
+type: standard
 docid:
 - id: NBS HB 80
   type: NIST
@@ -24,9 +25,7 @@ date:
 contributor:
 - organization:
     name:
-    - content: |-
-        National Committee on Radiation Protection and Measurements
-                        (U.S.)
+    - content: National Committee on Radiation Protection and Measurements (U.S.)
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/n79125208
@@ -34,9 +33,7 @@ contributor:
   - type: publisher
 - organization:
     name:
-    - content: |-
-        National Committee on Radiation Protection and Measurements
-                        (U.S.)
+    - content: National Committee on Radiation Protection and Measurements (U.S.)
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/n79125208
@@ -63,7 +60,7 @@ series:
 - title:
     content: NBS handbook; NBS HB
     format: text/plain
-  partnumber: '80'
+  number: '80'
 place:
 - city: Gaithersburg
   region:

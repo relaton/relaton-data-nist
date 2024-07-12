@@ -8,10 +8,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.IR.75-728
   type: doi
+type: standard
 docid:
 - id: NBS IR 75-728
   type: NIST
@@ -30,7 +31,7 @@ contributor:
   - type: publisher
 - organization:
     name:
-    - content: 'Air Force Systems Command Wright-Patterson Air Force Base. '
+    - content: Air Force Systems Command Wright-Patterson Air Force Base.
     - content: Air Force Aero-Propulsion Laboratory.
   role:
   - type: publisher
@@ -47,7 +48,7 @@ series:
 - title:
     content: NBSIR; NBS IR; NBS interagency report; NBS internal report
     format: text/plain
-  partnumber: 75-728
+  number: 75-728
 place:
 - city: Gaithersburg
   region:

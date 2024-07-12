@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NBSRPT10430
 title:
-- content: search and rescue simulation model for the United States Coast Guard
+- content: A search and rescue simulation model for the United States Coast Guard
   language:
   - en
   script:
@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: A search and rescue simulation model for the United States Coast Guard
+    - volume I - executive level documentation
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.10430
   type: doi
+type: standard
 docid:
 - id: NBS RPT 10430
   type: NIST
@@ -46,7 +55,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '10430'
+  number: '10430'
 place:
 - city: Gaithersburg
   region:

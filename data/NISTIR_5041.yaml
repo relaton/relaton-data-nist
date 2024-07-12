@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR5041
 title:
-- content: bibliography of the NIST Optoelectronics Division
+- content: A bibliography of the NIST Optoelectronics Division
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.5041
   type: doi
+type: standard
 docid:
 - id: NIST IR 5041
   type: NIST
@@ -49,7 +50,7 @@ series:
       NISTIR; NIST IR; NIST interagency report; NIST internal
                       report
     format: text/plain
-  partnumber: '5041'
+  number: '5041'
 place:
 - city: Gaithersburg
   region:

@@ -2,16 +2,18 @@
 schema-version: v1.2.9
 id: NISTSP1038
 title:
-- content: international system of units (SI) - conversion factors for general use
+- content: The international system of units (SI) - conversion factors for general
+    use
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.1038
   type: doi
+type: standard
 docid:
 - id: NIST SP 1038
   type: NIST
@@ -64,7 +66,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: '1038'
+  number: '1038'
 place:
 - city: Gaithersburg
   region:

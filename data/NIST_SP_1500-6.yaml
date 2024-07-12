@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: NIST big data interoperability framework - volume 6, reference architecture
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.1500-6
   type: doi
+type: standard
 docid:
 - id: NIST SP 1500-6
   type: NIST
@@ -31,9 +39,8 @@ date:
 contributor:
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology).
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
     - content: NIST Big Data Public Working Group (NBD-PWG)
     identifier:
     - type: uri
@@ -42,9 +49,8 @@ contributor:
   - type: publisher
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology).
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
     - content: Definitions and Taxonomies Subgroup.
     - content: NIST Big Data Public Working Group (NBD-PWG)
     identifier:
@@ -56,7 +62,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 1500-6
+  number: 1500-6
 place:
 - city: Gaithersburg
   region:

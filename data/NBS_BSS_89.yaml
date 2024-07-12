@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSBSS89
 title:
-- content: Incidence of abnormal loading in residential buildings
+- content: The Incidence of abnormal loading in residential buildings
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.BSS.89
   type: doi
+type: standard
 docid:
 - id: NBS BSS 89
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS building science series; NBS building science; NBS BSS
     format: text/plain
-  partnumber: '89'
+  number: '89'
 place:
 - city: Gaithersburg
   region:

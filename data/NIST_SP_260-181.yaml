@@ -2,8 +2,8 @@
 schema-version: v1.2.9
 id: NISTSP260-181
 title:
-- content: ABCs of using standard reference materials in the analysis of foods and
-    dietary supplements
+- content: The ABCs of using standard reference materials in the analysis of foods
+    and dietary supplements
   language:
   - en
   script:
@@ -17,9 +17,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The ABCs of using standard reference materials in the analysis of foods
+    and dietary supplements - a practical guide
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.260-181
   type: doi
+type: standard
 docid:
 - id: NIST SP 260-181
   type: NIST
@@ -74,9 +83,7 @@ contributor:
 - organization:
     name:
     - content: National Institute of Standards and Technology (U.S.).
-    - content: |-
-        Materials Measurement Laboratory, Information Technology
-                        Laboratory.
+    - content: Materials Measurement Laboratory, Information Technology Laboratory.
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/n88112126
@@ -86,7 +93,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 260-181
+  number: 260-181
 place:
 - city: Gaithersburg
   region:

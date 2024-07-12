@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR7868
 title:
-- content: restricted English for constructing ontologies (RECON)
+- content: A restricted English for constructing ontologies (RECON)
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.7868
   type: doi
+type: standard
 docid:
 - id: NIST IR 7868
   type: NIST
@@ -55,7 +56,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '7868'
+  number: '7868'
 place:
 - city: Gaithersburg
   region:

@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NBSTN653
 title:
-- content: thermophysical properties of methane, from 90 to 500 K at pressures to
-    700 bar
+- content: The thermophysical properties of methane, from 90 to 500 K at pressures
+    to 700 bar
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.653
   type: doi
+type: standard
 docid:
 - id: NBS TN 653
   type: NIST
@@ -47,7 +48,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '653'
+  number: '653'
 place:
 - city: Gaithersburg
   region:

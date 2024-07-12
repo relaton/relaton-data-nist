@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR7372
 title:
-- content: national marine mammal tissue bank
+- content: The national marine mammal tissue bank
   language:
   - en
   script:
@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The national marine mammal tissue bank - specimen inventory
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.7372
   type: doi
+type: standard
 docid:
 - id: NIST IR 7372
   type: NIST
@@ -134,7 +142,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '7372'
+  number: '7372'
 place:
 - city: Gaithersburg
   region:

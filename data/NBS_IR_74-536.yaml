@@ -8,10 +8,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.IR.74-536
   type: doi
+type: standard
 docid:
 - id: NBS IR 74-536
   type: NIST
@@ -24,9 +25,7 @@ date:
 contributor:
 - organization:
     name:
-    - content: |-
-        National Institute of Law Enforcement and Criminal
-                        Justice.
+    - content: National Institute of Law Enforcement and Criminal Justice.
     - content: Law Enforcement Standards Laboratory.
     identifier:
     - type: uri
@@ -46,7 +45,7 @@ series:
 - title:
     content: NBSIR; NBS IR; NBS interagency report; NBS internal report
     format: text/plain
-  partnumber: 74-536
+  number: 74-536
 place:
 - city: Gaithersburg
   region:

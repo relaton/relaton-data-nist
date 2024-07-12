@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NISTIR8248
 title:
-- content: NIST testbed for examining the accuracy of smart meters under high harmonic
+- content: A NIST testbed for examining the accuracy of smart meters under high harmonic
     waveform loads
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.8248
   type: doi
+type: standard
 docid:
 - id: NIST IR 8248
   type: NIST
@@ -82,9 +83,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Physical Measurement Laboratory (National Institute of Standards and
-                        Technology (U.S.))
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.))
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/no2019028800
@@ -111,7 +111,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '8248'
+  number: '8248'
 place:
 - city: Gaithersburg
   region:

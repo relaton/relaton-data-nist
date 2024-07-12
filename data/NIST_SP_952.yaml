@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTSP952
 title:
-- content: economic evaluation of technological change
+- content: The economic evaluation of technological change
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.952
   type: doi
+type: standard
 docid:
 - id: NIST SP 952
   type: NIST
@@ -45,7 +46,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: '952'
+  number: '952'
 place:
 - city: Gaithersburg
   region:

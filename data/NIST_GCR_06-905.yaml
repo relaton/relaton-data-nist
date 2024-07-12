@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTGCR06-905
 title:
-- content: model for directional hurricane wind speeds
+- content: A model for directional hurricane wind speeds
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.GCR.06-905
   type: doi
+type: standard
 docid:
 - id: NIST GCR 06-905
   type: NIST
@@ -45,7 +46,7 @@ series:
 - title:
     content: NIST GCR; NIST grant-contract report; NIST grant contract report
     format: text/plain
-  partnumber: 06-905
+  number: 06-905
 place:
 - city: Gaithersburg
   region:

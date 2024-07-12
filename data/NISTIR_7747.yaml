@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: SlapSagII analysis - matching segmented fingerprint images
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.7747
   type: doi
+type: standard
 docid:
 - id: NIST IR 7747
   type: NIST
@@ -53,9 +61,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology).
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
     - content: Information Access Division.
     identifier:
     - type: uri
@@ -66,7 +73,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '7747'
+  number: '7747'
 place:
 - city: Gaithersburg
   region:

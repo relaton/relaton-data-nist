@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: NIST time and frequency bulletin - November 2020
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.8296-11
   type: doi
+type: standard
 docid:
 - id: NIST IR 8296-11
   type: NIST
@@ -54,13 +62,13 @@ series:
 - title:
     content: NISTIR
     format: text/plain
-  partnumber: 8296-11
+  number: 8296-11
 - title:
     content: |-
       NISTIR; NIST IR; NIST interagency report; NIST internal
                       report
     format: text/plain
-  partnumber: 8296-11
+  number: 8296-11
 place:
 - city: Boulder
   region:

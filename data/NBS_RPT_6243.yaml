@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSRPT6243
 title:
-- content: rapid selector development program at the National Bureau of Standards
+- content: The rapid selector development program at the National Bureau of Standards
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.6243
   type: doi
+type: standard
 docid:
 - id: NBS RPT 6243
   type: NIST
@@ -39,7 +40,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '6243'
+  number: '6243'
 place:
 - city: Gaithersburg
   region:

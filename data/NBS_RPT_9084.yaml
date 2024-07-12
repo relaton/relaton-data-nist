@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSRPT9084
 title:
-- content: new tungsten-filament lamp standards of total irradiance
+- content: The new tungsten-filament lamp standards of total irradiance
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.9084
   type: doi
+type: standard
 docid:
 - id: NBS RPT 9084
   type: NIST
@@ -47,7 +48,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '9084'
+  number: '9084'
 place:
 - city: Gaithersburg
   region:

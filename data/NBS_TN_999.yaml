@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NBSTN999
 title:
-- content: study of the dynamic flue-gas temperature and off-period mass flow rate
+- content: A study of the dynamic flue-gas temperature and off-period mass flow rate
     of a residential gas-fired furnace
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.999
   type: doi
+type: standard
 docid:
 - id: NBS TN 999
   type: NIST
@@ -47,7 +48,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '999'
+  number: '999'
 place:
 - city: Gaithersburg
   region:

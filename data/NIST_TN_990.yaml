@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTTN990
 title:
-- content: selection of preferred metric values for design and construction
+- content: The selection of preferred metric values for design and construction
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.TN.990
   type: doi
+type: standard
 docid:
 - id: NIST TN 990
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  partnumber: '990'
+  number: '990'
 place:
 - city: Gaithersburg
   region:

@@ -8,10 +8,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.SP.480-29
   type: doi
+type: standard
 docid:
 - id: NBS SP 480-29
   type: NIST
@@ -29,7 +30,7 @@ contributor:
   - type: publisher
 - organization:
     name:
-    - content: 'Welson and Co., Inc. '
+    - content: Welson and Co., Inc.
     - content: Law Enforcement Standards Laboratory.
   role:
   - type: publisher
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS special publication; NBS special pub; NBS SP
     format: text/plain
-  partnumber: 480-29
+  number: 480-29
 place:
 - city: Gaithersburg
   region:

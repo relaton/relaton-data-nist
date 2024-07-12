@@ -17,9 +17,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: Standard reference materials - a standard reference material containing
+    nominally five percent austenite (SRM 485a)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.SP.260-76
   type: doi
+type: standard
 docid:
 - id: NBS SP 260-76
   type: NIST
@@ -65,7 +74,7 @@ series:
 - title:
     content: NBS special publication; NBS special pub; NBS SP
     format: text/plain
-  partnumber: 260-76
+  number: 260-76
 place:
 - city: Gaithersburg
   region:

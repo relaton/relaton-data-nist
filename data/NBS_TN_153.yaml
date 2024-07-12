@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSTN153
 title:
-- content: general survey of the semiconductor field
+- content: A general survey of the semiconductor field
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.153
   type: doi
+type: standard
 docid:
 - id: NBS TN 153
   type: NIST
@@ -43,7 +44,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '153'
+  number: '153'
 place:
 - city: Gaithersburg
   region:

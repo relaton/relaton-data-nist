@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTSP500-242
 title:
-- content: seventh text REtrieval conference (TREC-7)
+- content: The seventh text REtrieval conference (TREC-7)
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.500-242
   type: doi
+type: standard
 docid:
 - id: NIST SP 500-242
   type: NIST
@@ -56,7 +57,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 500-242
+  number: 500-242
 place:
 - city: Gaithersburg
   region:

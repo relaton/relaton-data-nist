@@ -9,10 +9,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.GCR.15-990
   type: doi
+type: standard
 docid:
 - id: NIST GCR 15-990
   type: NIST
@@ -57,9 +58,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology)
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/no97056762
@@ -89,7 +89,7 @@ series:
 - title:
     content: NIST GCR; NIST grant-contract report; NIST grant contract report
     format: text/plain
-  partnumber: 15-990
+  number: 15-990
 place:
 - city: Gaithersburg
   region:

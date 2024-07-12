@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTSP1256
 title:
-- content: NIST-hosted virtual workshop on measuring SARS-CoV-2 in wastewater and
+- content: A NIST-hosted virtual workshop on measuring SARS-CoV-2 in wastewater and
     fecal Material
   language:
   - en
@@ -17,9 +17,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: A NIST-hosted virtual workshop on measuring SARS-CoV-2 in wastewater and
+    fecal Material - a call for standards
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.1256
   type: doi
+type: standard
 docid:
 - id: NIST SP 1256
   type: NIST
@@ -119,7 +128,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: '1256'
+  number: '1256'
 place:
 - city: Gaithersburg
   region:

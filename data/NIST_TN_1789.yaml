@@ -9,10 +9,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.TN.1789
   type: doi
+type: standard
 docid:
 - id: NIST TN 1789
   type: NIST
@@ -48,9 +49,8 @@ contributor:
 - organization:
     name:
     - content: National Institute of Standards and Technology (U.S.).
-    - content: |-
-        Physical Measurement Laboratory, Radiation and Biomolecular Physics
-                        Division.
+    - content: Physical Measurement Laboratory, Radiation and Biomolecular Physics
+        Division.
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/n88112126
@@ -60,7 +60,7 @@ series:
 - title:
     content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  partnumber: '1789'
+  number: '1789'
 place:
 - city: Gaithersburg
   region:

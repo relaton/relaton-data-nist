@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSTN781
 title:
-- content: study of six university-based information systems
+- content: A study of six university-based information systems
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.781
   type: doi
+type: standard
 docid:
 - id: NBS TN 781
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '781'
+  number: '781'
 place:
 - city: Gaithersburg
   region:

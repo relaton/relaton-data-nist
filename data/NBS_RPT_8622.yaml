@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSRPT8622
 title:
-- content: flammability test for walk-off mats
+- content: A flammability test for walk-off mats
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.8622
   type: doi
+type: standard
 docid:
 - id: NBS RPT 8622
   type: NIST
@@ -43,7 +44,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '8622'
+  number: '8622'
 place:
 - city: Gaithersburg
   region:

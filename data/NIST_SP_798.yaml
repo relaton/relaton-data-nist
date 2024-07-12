@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTSP798
 title:
-- content: users guide for RAPID, version 2.3
+- content: A users guide for RAPID, version 2.3
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.798
   type: doi
+type: standard
 docid:
 - id: NIST SP 798
   type: NIST
@@ -64,7 +65,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: '798'
+  number: '798'
 place:
 - city: Gaithersburg
   region:

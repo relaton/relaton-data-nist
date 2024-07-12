@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR4831
 title:
-- content: Boussinesq algorithm for buoyant convection in polygonal domains
+- content: A Boussinesq algorithm for buoyant convection in polygonal domains
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.4831
   type: doi
+type: standard
 docid:
 - id: NIST IR 4831
   type: NIST
@@ -72,7 +73,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '4831'
+  number: '4831'
 place:
 - city: Gaithersburg
   region:

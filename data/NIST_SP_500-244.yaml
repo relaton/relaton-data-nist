@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTSP500-244
 title:
-- content: interpretation of the guide to the expression of uncertainty in measurement
+- content: An interpretation of the guide to the expression of uncertainty in measurement
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.500-244
   type: doi
+type: standard
 docid:
 - id: NIST SP 500-244
   type: NIST
@@ -42,7 +43,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 500-244
+  number: 500-244
 place:
 - city: Gaithersburg
   region:

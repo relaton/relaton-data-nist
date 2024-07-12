@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: Recommendation for block cipher modes of operation - the CCM mode for authentication
+    and confidentiality
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.800-38c
   type: doi
+type: standard
 docid:
 - id: NIST SP 800-38c
   type: NIST
@@ -61,7 +70,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 800-38c
+  number: 800-38c
 place:
 - city: Gaithersburg
   region:

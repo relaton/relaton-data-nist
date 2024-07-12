@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NBSRPT9411
 title:
-- content: comparison of Brinell and Bickers hardness tests on dental gold casting
+- content: A comparison of Brinell and Bickers hardness tests on dental gold casting
     alloys
   language:
   - en
@@ -17,9 +17,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: A comparison of Brinell and Bickers hardness tests on dental gold casting
+    alloys - progress report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.9411
   type: doi
+type: standard
 docid:
 - id: NBS RPT 9411
   type: NIST
@@ -55,7 +64,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '9411'
+  number: '9411'
 place:
 - city: Gaithersburg
   region:

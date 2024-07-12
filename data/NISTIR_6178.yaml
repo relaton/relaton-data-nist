@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NISTIR6178
 title:
-- content: algorithm for estimating the plume centerline temperature and ceiling jet
-    temperature in the presence of a hot upper layer
+- content: An algorithm for estimating the plume centerline temperature and ceiling
+    jet temperature in the presence of a hot upper layer
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.6178
   type: doi
+type: standard
 docid:
 - id: NIST IR 6178
   type: NIST
@@ -65,7 +66,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '6178'
+  number: '6178'
 place:
 - city: Gaithersburg
   region:

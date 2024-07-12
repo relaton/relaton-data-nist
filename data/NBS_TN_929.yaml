@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NBSTN929
 title:
-- content: survey of current literature on sampling, sample handling, and long term
+- content: A survey of current literature on sampling, sample handling, and long term
     storage for environmental materials
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.929
   type: doi
+type: standard
 docid:
 - id: NBS TN 929
   type: NIST
@@ -47,7 +48,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '929'
+  number: '929'
 place:
 - city: Gaithersburg
   region:

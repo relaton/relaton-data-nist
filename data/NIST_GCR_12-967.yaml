@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTGCR12-967
 title:
-- content: economic benefits of NIST's role in security standards development
+- content: The economic benefits of NIST's role in security standards development
   language:
   - en
   script:
@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The economic benefits of NIST's role in security standards development
+    - x-ray standards for bulk-explosives detection
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.GCR.12-967
   type: doi
+type: standard
 docid:
 - id: NIST GCR 12-967
   type: NIST
@@ -52,7 +61,7 @@ series:
 - title:
     content: NIST GCR; NIST grant-contract report; NIST grant contract report
     format: text/plain
-  partnumber: 12-967
+  number: 12-967
 place:
 - city: Gaithersburg
   region:

@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTTN1281
 title:
-- content: NIST digitally synthesized power calibration source
+- content: The NIST digitally synthesized power calibration source
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.TN.1281
   type: doi
+type: standard
 docid:
 - id: NIST TN 1281
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  partnumber: '1281'
+  number: '1281'
 place:
 - city: Gaithersburg
   region:

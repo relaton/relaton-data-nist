@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NISTIR8243
 title:
-- content: test method for measuring response robot performance under attenuated radio
-    conditions
+- content: A test method for measuring response robot performance under attenuated
+    radio conditions
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.8243
   type: doi
+type: standard
 docid:
 - id: NIST IR 8243
   type: NIST
@@ -82,7 +83,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '8243'
+  number: '8243'
 place:
 - city: Gaithersburg
   region:

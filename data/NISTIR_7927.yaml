@@ -2,8 +2,8 @@
 schema-version: v1.2.9
 id: NISTIR7927
 title:
-- content: interlaboratory investigation of the effect of material granularity and
-    sample processing on measurement variability
+- content: An interlaboratory investigation of the effect of material granularity
+    and sample processing on measurement variability
   language:
   - en
   script:
@@ -17,9 +17,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: An interlaboratory investigation of the effect of material granularity
+    and sample processing on measurement variability - nutritional elements in cereals
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.7927
   type: doi
+type: standard
 docid:
 - id: NIST IR 7927
   type: NIST
@@ -71,9 +80,7 @@ contributor:
 - organization:
     name:
     - content: National Institute of Standards and Technology (U.S.).
-    - content: |-
-        Material Measurement Laboratory, Information Technology
-                        Laboratory.
+    - content: Material Measurement Laboratory, Information Technology Laboratory.
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/n88112126
@@ -83,7 +90,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '7927'
+  number: '7927'
 place:
 - city: Gaithersburg
   region:

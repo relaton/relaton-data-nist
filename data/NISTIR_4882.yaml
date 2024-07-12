@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NISTIR4882
 title:
-- content: assessment of the NASA flammability screening test and related aspects
+- content: An assessment of the NASA flammability screening test and related aspects
     of material flammability
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.4882
   type: doi
+type: standard
 docid:
 - id: NIST IR 4882
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '4882'
+  number: '4882'
 place:
 - city: Gaithersburg
   region:

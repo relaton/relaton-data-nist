@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NBSTN590
 title:
-- content: preliminary design of a data retrieval language to handle a generalized
+- content: A preliminary design of a data retrieval language to handle a generalized
     data base
   language:
   - en
@@ -17,9 +17,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: A preliminary design of a data retrieval language to handle a generalized
+    data base - DRL
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.590
   type: doi
+type: standard
 docid:
 - id: NBS TN 590
   type: NIST
@@ -54,7 +63,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '590'
+  number: '590'
 place:
 - city: Gaithersburg
   region:

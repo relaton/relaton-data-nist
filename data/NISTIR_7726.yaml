@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: Graphical User Interface (GUI) for project 25 - inter-RF subsystem iterface
+    (ISSU) GUI version 0.9.6
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.7726
   type: doi
+type: standard
 docid:
 - id: NIST IR 7726
   type: NIST
@@ -63,9 +72,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology).
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
     - content: Advanced Network Technologies Division.
     identifier:
     - type: uri
@@ -76,7 +84,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '7726'
+  number: '7726'
 place:
 - city: Gaithersburg
   region:

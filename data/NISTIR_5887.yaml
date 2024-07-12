@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR5887
 title:
-- content: diffuse-interface description of fluid systems
+- content: A diffuse-interface description of fluid systems
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.5887
   type: doi
+type: standard
 docid:
 - id: NIST IR 5887
   type: NIST
@@ -50,7 +51,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '5887'
+  number: '5887'
 place:
 - city: Gaithersburg
   region:

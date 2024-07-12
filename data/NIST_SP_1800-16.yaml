@@ -18,9 +18,19 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: 'Securing web transactions - TLS server certificate management: includes
+    executive summary (a); security risks and recommended best practices (b); approach,
+    architecture, and security characteristics (c); how-to guides (d)'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.1800-16
   type: doi
+type: standard
 docid:
 - id: NIST SP 1800-16
   type: NIST
@@ -182,9 +192,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology)
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/no97056762
@@ -212,7 +221,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 1800-16
+  number: 1800-16
 place:
 - city: Gaithersburg
   region:

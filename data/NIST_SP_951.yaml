@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTSP951
 title:
-- content: guide to EU standards and conformity assessment
+- content: A guide to EU standards and conformity assessment
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.951
   type: doi
+type: standard
 docid:
 - id: NIST SP 951
   type: NIST
@@ -56,7 +57,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: '951'
+  number: '951'
 place:
 - city: Gaithersburg
   region:

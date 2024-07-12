@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSSP699
 title:
-- content: bibliography of sources of thermodynamic data for the systems
+- content: A bibliography of sources of thermodynamic data for the systems
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.SP.699
   type: doi
+type: standard
 docid:
 - id: NBS SP 699
   type: NIST
@@ -66,7 +67,7 @@ series:
 - title:
     content: NBS special publication; NBS special pub; NBS SP
     format: text/plain
-  partnumber: '699'
+  number: '699'
 place:
 - city: Gaithersburg
   region:

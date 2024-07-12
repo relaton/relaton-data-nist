@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR8337
 title:
-- content: integrated set of XML tools
+- content: An integrated set of XML tools
   language:
   - en
   script:
@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: An integrated set of XML tools - user guide
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.8337
   type: doi
+type: standard
 docid:
 - id: NIST IR 8337
   type: NIST
@@ -84,7 +92,7 @@ series:
       NISTIR; NIST IR; NIST interagency report; NIST internal
                       report
     format: text/plain
-  partnumber: '8337'
+  number: '8337'
 place:
 - city: Gaithersburg
   region:

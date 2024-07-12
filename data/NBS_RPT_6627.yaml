@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NBSRPT6627
 title:
-- content: survey of recently activated or expanded standards and calibration programs
+- content: A survey of recently activated or expanded standards and calibration programs
     in the Armed Services
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.6627
   type: doi
+type: standard
 docid:
 - id: NBS RPT 6627
   type: NIST
@@ -44,7 +45,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '6627'
+  number: '6627'
 place:
 - city: Gaithersburg
   region:

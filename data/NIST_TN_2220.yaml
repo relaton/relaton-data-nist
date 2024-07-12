@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTTN2220
 title:
-- content: NIST 20 MW Calorimetry Measurement System
+- content: The NIST 20 MW Calorimetry Measurement System
   language:
   - en
   script:
@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The NIST 20 MW Calorimetry Measurement System - exhaust flow calibration
+    using tracer gas dilution
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.TN.2220
   type: doi
+type: standard
 docid:
 - id: NIST TN 2220
   type: NIST
@@ -80,7 +89,7 @@ series:
 - title:
     content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  partnumber: '2220'
+  number: '2220'
 place:
 - city: Gaithersburg
   region:

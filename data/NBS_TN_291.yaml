@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NBSTN291
 title:
-- content: bibliography on ion-molecule reactions, January 1900 to March 1966. Compiled
+- content: A bibliography on ion-molecule reactions, January 1900 to March 1966. Compiled
     by the Mass Spectrometric Data Center
   language:
   - en
@@ -17,9 +17,19 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: A bibliography on ion-molecule reactions, January 1900 to March 1966. Compiled
+    by the Mass Spectrometric Data Center - F. N. Harllee, H. M. Rosenstock, and J.
+    T. Herron
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.291
   type: doi
+type: standard
 docid:
 - id: NBS TN 291
   type: NIST
@@ -51,7 +61,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '291'
+  number: '291'
 place:
 - city: Gaithersburg
   region:

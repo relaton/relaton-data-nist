@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NBSRPT3804
 title:
-- content: study of print reading systems leading to a proposed reader for typewritten
+- content: A study of print reading systems leading to a proposed reader for typewritten
     material
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.3804
   type: doi
+type: standard
 docid:
 - id: NBS RPT 3804
   type: NIST
@@ -44,7 +45,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '3804'
+  number: '3804'
 place:
 - city: Gaithersburg
   region:

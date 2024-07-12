@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTTN2111
 title:
-- content: empirical study on flow-based botnet attacks prediction
+- content: An empirical study on flow-based botnet attacks prediction
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.TN.2111
   type: doi
+type: standard
 docid:
 - id: NIST TN 2111
   type: NIST
@@ -48,7 +49,7 @@ series:
 - title:
     content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  partnumber: '2111'
+  number: '2111'
 place:
 - city: Gaithersburg
   region:

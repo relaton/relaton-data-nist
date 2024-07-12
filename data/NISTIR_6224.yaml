@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR6224
 title:
-- content: summary of the structural performance of single-family, wood-frame housing
+- content: A summary of the structural performance of single-family, wood-frame housing
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.6224
   type: doi
+type: standard
 docid:
 - id: NIST IR 6224
   type: NIST
@@ -75,7 +76,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '6224'
+  number: '6224'
 place:
 - city: Gaithersburg
   region:

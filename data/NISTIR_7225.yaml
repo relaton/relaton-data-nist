@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR7225
 title:
-- content: curve-based mixed system rating method for unitary air conditioners
+- content: A curve-based mixed system rating method for unitary air conditioners
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.7225
   type: doi
+type: standard
 docid:
 - id: NIST IR 7225
   type: NIST
@@ -56,7 +57,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '7225'
+  number: '7225'
 place:
 - city: Gaithersburg
   region:

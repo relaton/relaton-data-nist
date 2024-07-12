@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: National Bureau of Standards Report - Mineral Products Division
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.div9
   type: doi
+type: standard
 docid:
 - id: NBS RPT div9
   type: NIST
@@ -47,7 +55,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: div9
+  number: div9
 place:
 - city: Gaithersburg
   region:

@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR7484
 title:
-- content: study of users with visual disabilities and a fingerprint process
+- content: A study of users with visual disabilities and a fingerprint process
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.7484
   type: doi
+type: standard
 docid:
 - id: NIST IR 7484
   type: NIST
@@ -64,7 +65,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '7484'
+  number: '7484'
 place:
 - city: Gaithersburg
   region:

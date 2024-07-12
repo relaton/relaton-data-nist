@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSRPT8014
 title:
-- content: new standard of spectral irradiance
+- content: A new standard of spectral irradiance
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.8014
   type: doi
+type: standard
 docid:
 - id: NBS RPT 8014
   type: NIST
@@ -39,7 +40,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '8014'
+  number: '8014'
 place:
 - city: Gaithersburg
   region:

@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTSP800-130
 title:
-- content: framework for designing cryptographic key management systems
+- content: A framework for designing cryptographic key management systems
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.800-130
   type: doi
+type: standard
 docid:
 - id: NIST SP 800-130
   type: NIST
@@ -60,9 +61,7 @@ contributor:
 - organization:
     name:
     - content: National Institute of Standards and Technology (U.S.).
-    - content: |-
-        Computer Security Division, Information Technology
-                        Laboratory.
+    - content: Computer Security Division, Information Technology Laboratory.
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/n88112126
@@ -72,7 +71,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 800-130
+  number: 800-130
 place:
 - city: Gaithersburg
   region:

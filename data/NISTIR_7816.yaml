@@ -8,10 +8,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.7816
   type: doi
+type: standard
 docid:
 - id: NIST IR 7816
   type: NIST
@@ -32,9 +33,8 @@ contributor:
   - type: publisher
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology).
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
     - content: Computer Security Division.
     identifier:
     - type: uri
@@ -45,7 +45,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '7816'
+  number: '7816'
 place:
 - city: Gaithersburg
   region:

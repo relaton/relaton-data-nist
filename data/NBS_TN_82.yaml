@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSTN82
 title:
-- content: survey of spread-F
+- content: A survey of spread-F
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.82
   type: doi
+type: standard
 docid:
 - id: NBS TN 82
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '82'
+  number: '82'
 place:
 - city: Gaithersburg
   region:

@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR90-4295
 title:
-- content: proposed integration framework for STEP
+- content: A proposed integration framework for STEP
   language:
   - en
   script:
@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: A proposed integration framework for STEP - standard for the exchange of
+    product model data
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.90-4295
   type: doi
+type: standard
 docid:
 - id: NIST IR 90-4295
   type: NIST
@@ -52,7 +61,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: 90-4295
+  number: 90-4295
 place:
 - city: Gaithersburg
   region:

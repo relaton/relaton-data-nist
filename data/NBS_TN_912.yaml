@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NBSTN912
 title:
-- content: network measurement machine
+- content: The network measurement machine
   language:
   - en
   script:
@@ -17,9 +17,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The network measurement machine - a data collection device for measuring
+    the peformance and utilization of computer networks
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.912
   type: doi
+type: standard
 docid:
 - id: NBS TN 912
   type: NIST
@@ -76,7 +85,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '912'
+  number: '912'
 place:
 - city: Gaithersburg
   region:

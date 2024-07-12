@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NISTSP800-22r1a
 title:
-- content: statistical test suite for random and pseudorandom number generators for
-    cryptographic applications
+- content: A statistical test suite for random and pseudorandom number generators
+    for cryptographic applications
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.800-22r1a
   type: doi
+type: standard
 docid:
 - id: NIST SP 800-22r1a
   type: NIST
@@ -181,7 +182,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 800-22r1a
+  number: 800-22r1a
 place:
 - city: Gaithersburg
   region:

@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR7725
 title:
-- content: NIST 66 m ball range
+- content: The NIST 66 m ball range
   language:
   - en
   script:
@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The NIST 66 m ball range - a one dimensional artifact to test three dimensional
+    imaging systems
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.7725
   type: doi
+type: standard
 docid:
 - id: NIST IR 7725
   type: NIST
@@ -63,7 +72,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '7725'
+  number: '7725'
 place:
 - city: Gaithersburg
   region:

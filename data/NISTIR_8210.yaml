@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: Nail to nail fingerprint challenge - prize analysis
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.8210
   type: doi
+type: standard
 docid:
 - id: NIST IR 8210
   type: NIST
@@ -124,9 +132,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology)
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/no97056762
@@ -150,7 +157,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '8210'
+  number: '8210'
 place:
 - city: Gaithersburg
   region:

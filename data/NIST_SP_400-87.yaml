@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTSP400-87
 title:
-- content: programmable reverse-bias safe operating area transistor testor
+- content: A programmable reverse-bias safe operating area transistor testor
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.400-87
   type: doi
+type: standard
 docid:
 - id: NIST SP 400-87
   type: NIST
@@ -45,7 +46,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 400-87
+  number: 400-87
 place:
 - city: Gaithersburg
   region:

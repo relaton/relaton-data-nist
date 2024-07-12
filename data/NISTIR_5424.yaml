@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR5424
 title:
-- content: study of federal agency needs for information technology security
+- content: A study of federal agency needs for information technology security
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.5424
   type: doi
+type: standard
 docid:
 - id: NIST IR 5424
   type: NIST
@@ -41,7 +42,7 @@ series:
       NISTIR; NIST IR; NIST interagency report; NIST internal
                       report
     format: text/plain
-  partnumber: '5424'
+  number: '5424'
 place:
 - city: Gaithersburg
   region:

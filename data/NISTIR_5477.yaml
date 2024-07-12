@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: Updated calculations for routine space-shielding radiation dose estimates
+    - SHIELDOSE-2
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.5477
   type: doi
+type: standard
 docid:
 - id: NIST IR 5477
   type: NIST
@@ -48,7 +57,7 @@ series:
       NISTIR; NIST IR; NIST interagency report; NIST internal
                       report
     format: text/plain
-  partnumber: '5477'
+  number: '5477'
 place:
 - city: Gaithersburg
   region:

@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: Recommendation for block cipher modes of operation - methods for key wrapping
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.800-38F
   type: doi
+type: standard
 docid:
 - id: NIST SP 800-38F
   type: NIST
@@ -52,7 +60,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 800-38F
+  number: 800-38F
 place:
 - city: Gaithersburg
   region:

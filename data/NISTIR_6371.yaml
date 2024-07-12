@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR6371
 title:
-- content: efficient large eddy simulation algorithm for computational wind engineering
+- content: An efficient large eddy simulation algorithm for computational wind engineering
   language:
   - en
   script:
@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: An efficient large eddy simulation algorithm for computational wind engineering
+    - application to surface pressure computations on a single building
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.6371
   type: doi
+type: standard
 docid:
 - id: NIST IR 6371
   type: NIST
@@ -85,7 +94,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '6371'
+  number: '6371'
 place:
 - city: Gaithersburg
   region:

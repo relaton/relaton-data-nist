@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSSP400-24
 title:
-- content: laser scanner for semiconductor devices
+- content: A laser scanner for semiconductor devices
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.SP.400-24
   type: doi
+type: standard
 docid:
 - id: NBS SP 400-24
   type: NIST
@@ -57,7 +58,7 @@ series:
 - title:
     content: NBS special publication; NBS special pub; NBS SP
     format: text/plain
-  partnumber: 400-24
+  number: 400-24
 place:
 - city: Gaithersburg
   region:

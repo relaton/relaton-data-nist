@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: Standard reference materials certification report for SRM 2216, 2218, 2219
+    - KLST (miniaturized) Charpy v-notch impact specimens
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.260-180
   type: doi
+type: standard
 docid:
 - id: NIST SP 260-180
   type: NIST
@@ -70,9 +79,7 @@ contributor:
 - organization:
     name:
     - content: National Institute of Standards and Technology (U.S.).
-    - content: |-
-        Materials Measurement Laboratory, Information Technology
-                        Laboratory.
+    - content: Materials Measurement Laboratory, Information Technology Laboratory.
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/n88112126
@@ -82,7 +89,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 260-180
+  number: 260-180
 place:
 - city: Gaithersburg
   region:

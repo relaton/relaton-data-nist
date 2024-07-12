@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: State weights and measures laboratories program handbook - 6th edition
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.HB.143-2019
   type: doi
+type: standard
 docid:
 - id: NIST HB 143-2019
   type: NIST
@@ -42,9 +50,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Physical Measurement Laboratory (National Institute of Standards and
-                        Technology (U.S.))
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.))
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/no2019028800
@@ -64,7 +71,7 @@ series:
 - title:
     content: NIST handbook; NIST HB
     format: text/plain
-  partnumber: 143-2019
+  number: 143-2019
 place:
 - city: Gaithersburg
   region:

@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR4777
 title:
-- content: formal analysis of the BACnet MS/TP medium access control protocol
+- content: A formal analysis of the BACnet MS/TP medium access control protocol
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.4777
   type: doi
+type: standard
 docid:
 - id: NIST IR 4777
   type: NIST
@@ -45,7 +46,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '4777'
+  number: '4777'
 place:
 - city: Gaithersburg
   region:

@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTEAB13
 title:
-- content: geographic footprint of NIST cooperative research and development agreements
+- content: The geographic footprint of NIST cooperative research and development agreements
     and licenses
   language:
   - en
@@ -17,9 +17,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The geographic footprint of NIST cooperative research and development agreements
+    and licenses - fiscal year 2019
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.EAB.13
   type: doi
+type: standard
 docid:
 - id: NIST EAB 13
   type: NIST
@@ -56,7 +65,7 @@ series:
 - title:
     content: NIST economic analysis brief; NIST EAB
     format: text/plain
-  partnumber: '13'
+  number: '13'
 place:
 - city: Gaithersburg
   region:

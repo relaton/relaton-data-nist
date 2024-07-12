@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR6299
 title:
-- content: heat transfer model for fire fighter's protective clothing
+- content: A heat transfer model for fire fighter's protective clothing
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.6299
   type: doi
+type: standard
 docid:
 - id: NIST IR 6299
   type: NIST
@@ -56,7 +57,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '6299'
+  number: '6299'
 place:
 - city: Gaithersburg
   region:

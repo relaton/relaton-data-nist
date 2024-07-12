@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR5028
 title:
-- content: bibliography of the NIST Electromagnetic Fields Division publications
+- content: A bibliography of the NIST Electromagnetic Fields Division publications
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.5028
   type: doi
+type: standard
 docid:
 - id: NIST IR 5028
   type: NIST
@@ -49,7 +50,7 @@ series:
       NISTIR; NIST IR; NIST interagency report; NIST internal
                       report
     format: text/plain
-  partnumber: '5028'
+  number: '5028'
 place:
 - city: Gaithersburg
   region:

@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTSP500-267
 title:
-- content: profile for IPv6 in the U.S. Government - version 1.0
+- content: A profile for IPv6 in the U.S. Government - version 1.0
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.500-267
   type: doi
+type: standard
 docid:
 - id: NIST SP 500-267
   type: NIST
@@ -78,7 +79,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 500-267
+  number: 500-267
 place:
 - city: Gaithersburg
   region:

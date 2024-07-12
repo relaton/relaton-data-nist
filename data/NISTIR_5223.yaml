@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR5223
 title:
-- content: bibliography of screw thread measurement
+- content: A bibliography of screw thread measurement
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.5223
   type: doi
+type: standard
 docid:
 - id: NIST IR 5223
   type: NIST
@@ -57,7 +58,7 @@ series:
       NISTIR; NIST IR; NIST interagency report; NIST internal
                       report
     format: text/plain
-  partnumber: '5223'
+  number: '5223'
 place:
 - city: Gaithersburg
   region:

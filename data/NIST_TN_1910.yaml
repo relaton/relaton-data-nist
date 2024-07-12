@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTTN1910
 title:
-- content: case study of a community affected by the Waldo fire
+- content: A case study of a community affected by the Waldo fire
   language:
   - en
   script:
@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: A case study of a community affected by the Waldo fire - event timeline
+    and defensive actions
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.TN.1910
   type: doi
+type: standard
 docid:
 - id: NIST TN 1910
   type: NIST
@@ -98,7 +107,7 @@ series:
 - title:
     content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  partnumber: '1910'
+  number: '1910'
 place:
 - city: Gaithersburg
   region:

@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: gtklogger - a tool for systematically testing graphical user interfaces
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.TN.1862
   type: doi
+type: standard
 docid:
 - id: NIST TN 1862
   type: NIST
@@ -86,9 +94,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology).
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
     - content: Applied and Computational Mathematics Division.
     - content: Mathematical and Computational Sciences Division.
     identifier:
@@ -110,7 +117,7 @@ series:
 - title:
     content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  partnumber: '1862'
+  number: '1862'
 place:
 - city: Gaithersburg
   region:

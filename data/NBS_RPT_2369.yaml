@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSRPT2369
 title:
-- content: numerical analyst's fifteen-foot shelf
+- content: A numerical analyst's fifteen-foot shelf
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.2369
   type: doi
+type: standard
 docid:
 - id: NBS RPT 2369
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '2369'
+  number: '2369'
 place:
 - city: Gaithersburg
   region:

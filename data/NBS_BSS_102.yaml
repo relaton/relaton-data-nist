@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSBSS102
 title:
-- content: Thermal performance of a two-bedroom mobile home
+- content: The Thermal performance of a two-bedroom mobile home
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.BSS.102
   type: doi
+type: standard
 docid:
 - id: NBS BSS 102
   type: NIST
@@ -54,7 +55,7 @@ series:
 - title:
     content: NBS building science series; NBS building science; NBS BSS
     format: text/plain
-  partnumber: '102'
+  number: '102'
 place:
 - city: Gaithersburg
   region:

@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTGCR16-009
 title:
-- content: analysis of references from US patents to NIST-supported technical outputs
+- content: An analysis of references from US patents to NIST-supported technical outputs
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.GCR.16-009
   type: doi
+type: standard
 docid:
 - id: NIST GCR 16-009
   type: NIST
@@ -54,7 +55,7 @@ series:
 - title:
     content: NIST GCR; NIST grant-contract report
     format: text/plain
-  partnumber: 16-009
+  number: 16-009
 place:
 - city: Gaithersburg
   region:

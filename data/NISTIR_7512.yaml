@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR7512
 title:
-- content: report on the certification of an absolute molecular mass distribution
+- content: A report on the certification of an absolute molecular mass distribution
     polymer standard
   language:
   - en
@@ -17,9 +17,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: A report on the certification of an absolute molecular mass distribution
+    polymer standard - Standard Reference Material 2881
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.7512
   type: doi
+type: standard
 docid:
 - id: NIST IR 7512
   type: NIST
@@ -83,7 +92,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '7512'
+  number: '7512'
 place:
 - city: Gaithersburg
   region:

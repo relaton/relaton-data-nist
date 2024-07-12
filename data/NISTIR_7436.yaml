@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR7436
 title:
-- content: ontology for assembly representation
+- content: An ontology for assembly representation
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.7436
   type: doi
+type: standard
 docid:
 - id: NIST IR 7436
   type: NIST
@@ -91,7 +92,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '7436'
+  number: '7436'
 place:
 - city: Gaithersburg
   region:

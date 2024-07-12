@@ -8,10 +8,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.430e2004
   type: doi
+type: standard
 docid:
 - id: NIST SP 430e2004
   type: NIST
@@ -24,9 +25,8 @@ date:
 contributor:
 - organization:
     name:
-    - content: |-
-        National Institute of Standards and Technology (U.S.). Weights and
-                        Measures Division.
+    - content: National Institute of Standards and Technology (U.S.). Weights and
+        Measures Division.
   role:
   - type: publisher
 - person:
@@ -49,7 +49,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 430e2004
+  number: 430e2004
 place:
 - city: Gaithersburg
   region:

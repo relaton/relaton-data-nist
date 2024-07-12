@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR7308
 title:
-- content: algorithm for generating very large covering arrays
+- content: An algorithm for generating very large covering arrays
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.7308
   type: doi
+type: standard
 docid:
 - id: NIST IR 7308
   type: NIST
@@ -41,7 +42,7 @@ series:
       NISTIR; NIST IR; NIST interagency report; NIST internal
                       report
     format: text/plain
-  partnumber: '7308'
+  number: '7308'
 place:
 - city: Gaithersburg
   region:

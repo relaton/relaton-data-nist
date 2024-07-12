@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSRPT10673
 title:
-- content: method for evaluating and testing the sharpness of points
+- content: A method for evaluating and testing the sharpness of points
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.10673
   type: doi
+type: standard
 docid:
 - id: NBS RPT 10673
   type: NIST
@@ -39,7 +40,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '10673'
+  number: '10673'
 place:
 - city: Gaithersburg
   region:

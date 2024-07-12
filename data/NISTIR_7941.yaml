@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: Forensic science laboratories - handbook for facility planning, design,
+    construction, and relocation
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.7941
   type: doi
+type: standard
 docid:
 - id: NIST IR 7941
   type: NIST
@@ -226,9 +235,7 @@ contributor:
 - organization:
     name:
     - content: National Institute of Standards and Technology (U.S.).
-    - content: |-
-        Law Enforcement Standards Office, Office of Special
-                        Programs.
+    - content: Law Enforcement Standards Office, Office of Special Programs.
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/n88112126
@@ -238,7 +245,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '7941'
+  number: '7941'
 place:
 - city: Gaithersburg
   region:

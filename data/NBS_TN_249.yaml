@@ -2,16 +2,18 @@
 schema-version: v1.2.9
 id: NBSTN249
 title:
-- content: program for plotting circles of constant overpressure around targeted points
+- content: A program for plotting circles of constant overpressure around targeted
+    points
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.249
   type: doi
+type: standard
 docid:
 - id: NBS TN 249
   type: NIST
@@ -43,7 +45,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '249'
+  number: '249'
 place:
 - city: Gaithersburg
   region:

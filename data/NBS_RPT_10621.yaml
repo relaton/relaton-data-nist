@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NBSRPT10621
 title:
-- content: enthalpies of neutralization and of hydrolysis of NBS Standard Reference
+- content: The enthalpies of neutralization and of hydrolysis of NBS Standard Reference
     material no. 724a [tris(hydroxymethyl)aminomethane]
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.10621
   type: doi
+type: standard
 docid:
 - id: NBS RPT 10621
   type: NIST
@@ -55,7 +56,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '10621'
+  number: '10621'
 place:
 - city: Gaithersburg
   region:

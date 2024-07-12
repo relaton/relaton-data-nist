@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTSP800-12
 title:
-- content: introduction to computer security
+- content: An introduction to computer security
   language:
   - en
   script:
@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: An introduction to computer security - the NIST handbook
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.800-12
   type: doi
+type: standard
 docid:
 - id: NIST SP 800-12
   type: NIST
@@ -80,7 +88,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 800-12
+  number: 800-12
 place:
 - city: Gaithersburg
   region:

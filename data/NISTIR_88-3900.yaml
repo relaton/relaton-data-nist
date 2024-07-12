@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR88-3900
 title:
-- content: bibliography of the NIST electromagnetic fields division publications
+- content: A bibliography of the NIST electromagnetic fields division publications
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.88-3900
   type: doi
+type: standard
 docid:
 - id: NIST IR 88-3900
   type: NIST
@@ -56,7 +57,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: 88-3900
+  number: 88-3900
 place:
 - city: Gaithersburg
   region:

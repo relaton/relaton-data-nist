@@ -8,10 +8,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.500-262
   type: doi
+type: standard
 docid:
 - id: NIST SP 500-262
   type: NIST
@@ -68,9 +69,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology).
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
     - content: Software Diagnostics and Conformance Testing Division.
     identifier:
     - type: uri
@@ -89,7 +89,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 500-262
+  number: 500-262
 place:
 - city: Gaithersburg
   region:

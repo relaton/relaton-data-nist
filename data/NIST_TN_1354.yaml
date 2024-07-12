@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTTN1354
 title:
-- content: NIST 60-millimeter diameter cylindrical cavity resonator
+- content: The NIST 60-millimeter diameter cylindrical cavity resonator
   language:
   - en
   script:
@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The NIST 60-millimeter diameter cylindrical cavity resonator - performance
+    evaluation for permittivity measurements
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.TN.1354
   type: doi
+type: standard
 docid:
 - id: NIST TN 1354
   type: NIST
@@ -75,7 +84,7 @@ series:
 - title:
     content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  partnumber: '1354'
+  number: '1354'
 place:
 - city: Gaithersburg
   region:

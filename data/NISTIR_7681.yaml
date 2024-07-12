@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR7681
 title:
-- content: semantic product modeling framework and language for behavior evaluation
+- content: A semantic product modeling framework and language for behavior evaluation
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.7681
   type: doi
+type: standard
 docid:
 - id: NIST IR 7681
   type: NIST
@@ -102,7 +103,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '7681'
+  number: '7681'
 place:
 - city: Gaithersburg
   region:

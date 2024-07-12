@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSBSS122
 title:
-- content: Study of lumber used for bracing trenches in the United States
+- content: A Study of lumber used for bracing trenches in the United States
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.BSS.122
   type: doi
+type: standard
 docid:
 - id: NBS BSS 122
   type: NIST
@@ -76,7 +77,7 @@ series:
 - title:
     content: NBS building science series; NBS building science; NBS BSS
     format: text/plain
-  partnumber: '122'
+  number: '122'
 place:
 - city: Gaithersburg
   region:

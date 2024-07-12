@@ -18,9 +18,19 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: Guidelines for smart grid cybersecurity - volume 1 - smart grid cybersecurity
+    strategy, architecture, and high-level requirements, volume 2 - privacy and the
+    smart grid, volume 3 - supportive analyses and references
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.7628r1
   type: doi
+type: standard
 docid:
 - id: NIST IR 7628r1
   type: NIST
@@ -33,16 +43,13 @@ date:
 contributor:
 - organization:
     name:
-    - content: |-
-        The Smart Grid Interoperability Panel-Smart Grid Cybersecurity
-                        Committee.
+    - content: The Smart Grid Interoperability Panel-Smart Grid Cybersecurity Committee.
   role:
   - type: publisher
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology).
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
     - content: Computer Security Division.
     identifier:
     - type: uri
@@ -53,7 +60,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: 7628r1
+  number: 7628r1
 place:
 - city: Gaithersburg
   region:

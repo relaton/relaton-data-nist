@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NISTIR5290
 title:
-- content: mass unit disseminated to surrogate laboratories using the NIST portable
+- content: The mass unit disseminated to surrogate laboratories using the NIST portable
     mass calibration package
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.5290
   type: doi
+type: standard
 docid:
 - id: NIST IR 5290
   type: NIST
@@ -58,7 +59,7 @@ series:
       NISTIR; NIST IR; NIST interagency report; NIST internal
                       report
     format: text/plain
-  partnumber: '5290'
+  number: '5290'
 place:
 - city: Gaithersburg
   region:

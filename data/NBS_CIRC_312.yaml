@@ -17,9 +17,19 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: Circular of the Bureau of Standards no. 312 - United States government
+    master specification for matting, rubber, for use around electrical apparatus
+    or circuits not exceeding 3,000 volts to ground
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.CIRC.312
   type: doi
+type: standard
 docid:
 - id: NBS CIRC 312
   type: NIST
@@ -60,7 +70,7 @@ series:
 - title:
     content: National Bureau of Standards circular
     format: text/plain
-  partnumber: '312'
+  number: '312'
 place:
 - city: Gaithersburg
   region:

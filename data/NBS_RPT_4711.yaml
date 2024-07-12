@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSRPT4711
 title:
-- content: survey of the hazards of handling liquid oxygen
+- content: A survey of the hazards of handling liquid oxygen
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.4711
   type: doi
+type: standard
 docid:
 - id: NBS RPT 4711
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '4711'
+  number: '4711'
 place:
 - city: Gaithersburg
   region:

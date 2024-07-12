@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSIR75-938
 title:
-- content: national measurement system for acoustics
+- content: The national measurement system for acoustics
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.IR.75-938
   type: doi
+type: standard
 docid:
 - id: NBS IR 75-938
   type: NIST
@@ -57,7 +58,7 @@ series:
 - title:
     content: NBSIR; NBS IR; NBS interagency report; NBS internal report
     format: text/plain
-  partnumber: 75-938
+  number: 75-938
 place:
 - city: Gaithersburg
   region:

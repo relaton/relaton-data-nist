@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NISTIR7435
 title:
-- content: common vulnerability scoring system (CVSS) and its applicability to federal
-    agency systems
+- content: The common vulnerability scoring system (CVSS) and its applicability to
+    federal agency systems
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.7435
   type: doi
+type: standard
 docid:
 - id: NIST IR 7435
   type: NIST
@@ -68,7 +69,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '7435'
+  number: '7435'
 place:
 - city: Gaithersburg
   region:

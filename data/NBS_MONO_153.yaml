@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSMONO153
 title:
-- content: First spectrum of hafnium (Hf?)
+- content: The First spectrum of hafnium (Hf?)
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.MONO.153
   type: doi
+type: standard
 docid:
 - id: NBS MONO 153
   type: NIST
@@ -57,7 +58,7 @@ series:
 - title:
     content: NBS monograph; NBS MONO
     format: text/plain
-  partnumber: '153'
+  number: '153'
 place:
 - city: Gaithersburg
   region:

@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR7404
 title:
-- content: ontology for the e-kanban business process
+- content: An ontology for the e-kanban business process
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.7404
   type: doi
+type: standard
 docid:
 - id: NIST IR 7404
   type: NIST
@@ -50,7 +51,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '7404'
+  number: '7404'
 place:
 - city: Gaithersburg
   region:

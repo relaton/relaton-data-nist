@@ -17,9 +17,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: Electronic health record design considerations in responding to incidences
+    of highly infectious diseases - clinical workflows and exception handling
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.8095
   type: doi
+type: standard
 docid:
 - id: NIST IR 8095
   type: NIST
@@ -100,9 +109,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology).
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
     - content: Information Access Division.
     identifier:
     - type: uri
@@ -113,7 +121,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '8095'
+  number: '8095'
 place:
 - city: Gaithersburg
   region:

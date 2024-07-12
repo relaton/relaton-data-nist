@@ -8,10 +8,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.8352sup1
   type: doi
+type: standard
 docid:
 - id: NIST IR 8352sup1
   type: NIST
@@ -24,9 +25,7 @@ date:
 contributor:
 - organization:
     name:
-    - content: |-
-        Center for Statistics and Applications in Forensic Evidence
-                        (CSAFE)
+    - content: Center for Statistics and Applications in Forensic Evidence (CSAFE)
   role:
   - type: publisher
 - person:
@@ -51,7 +50,7 @@ series:
       NISTIR; NIST IR; NIST interagency report; NIST internal
                       report
     format: text/plain
-  partnumber: 8352sup1
+  number: 8352sup1
 place:
 - city: Gaithersburg
   region:

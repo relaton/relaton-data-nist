@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: NIST Big Data Interoperability Framework - volume 2, big data taxonomies
+    version 3
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.1500-2r2
   type: doi
+type: standard
 docid:
 - id: NIST SP 1500-2r2
   type: NIST
@@ -51,9 +60,8 @@ contributor:
   - type: publisher
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology)
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/no97056762
@@ -80,7 +88,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 1500-2r2
+  number: 1500-2r2
 place:
 - city: Gaithersburg
   region:

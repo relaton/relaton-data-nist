@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSRPT9958
 title:
-- content: summary of low visibility conditions at the Arcata airport
+- content: A summary of low visibility conditions at the Arcata airport
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.9958
   type: doi
+type: standard
 docid:
 - id: NBS RPT 9958
   type: NIST
@@ -59,7 +60,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '9958'
+  number: '9958'
 place:
 - city: Gaithersburg
   region:

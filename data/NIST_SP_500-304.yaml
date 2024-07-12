@@ -17,9 +17,19 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: Conformance testing methodology framework for ANSI/NIST-ITL 1-2011 update
+    - 2013, data format for the interchange of fingerprint, facial & other biometric
+    information
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.500-304
   type: doi
+type: standard
 docid:
 - id: NIST SP 500-304
   type: NIST
@@ -62,9 +72,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology).
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
     - content: Computer Security Division.
     identifier:
     - type: uri
@@ -75,7 +84,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 500-304
+  number: 500-304
 place:
 - city: Gaithersburg
   region:

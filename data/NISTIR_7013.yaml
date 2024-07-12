@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NISTIR7013
 title:
-- content: global combustion behavior of 1 MW to 3 MW hydrocarbon spray fires burning
-    in an open environment
+- content: The global combustion behavior of 1 MW to 3 MW hydrocarbon spray fires
+    burning in an open environment
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.7013
   type: doi
+type: standard
 docid:
 - id: NIST IR 7013
   type: NIST
@@ -58,7 +59,7 @@ series:
       NISTIR; NIST IR; NIST interagency report; NIST internal
                       report
     format: text/plain
-  partnumber: '7013'
+  number: '7013'
 place:
 - city: Gaithersburg
   region:

@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR6387
 title:
-- content: NIST gage block calibration software system user's manual
+- content: The NIST gage block calibration software system user's manual
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.6387
   type: doi
+type: standard
 docid:
 - id: NIST IR 6387
   type: NIST
@@ -42,7 +43,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '6387'
+  number: '6387'
 place:
 - city: Gaithersburg
   region:

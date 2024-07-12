@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTSP1215
 title:
-- content: costs and losses of wildfires
+- content: The costs and losses of wildfires
   language:
   - en
   script:
@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The costs and losses of wildfires - a literature survey
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.1215
   type: doi
+type: standard
 docid:
 - id: NIST SP 1215
   type: NIST
@@ -106,7 +114,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: '1215'
+  number: '1215'
 place:
 - city: Gaithersburg
   region:

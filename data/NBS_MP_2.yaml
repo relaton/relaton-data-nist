@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSMP2
 title:
-- content: international metric system of weights and measures
+- content: The international metric system of weights and measures
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.MP.2
   type: doi
+type: standard
 docid:
 - id: NBS MP 2
   type: NIST
@@ -44,7 +45,7 @@ series:
 - title:
     content: NBS miscellaneous publication; NBS miscellaneous pub; NBS MP
     format: text/plain
-  partnumber: '2'
+  number: '2'
 place:
 - city: Gaithersburg
   region:

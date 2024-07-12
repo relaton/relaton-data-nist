@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTTN1276
 title:
-- content: survey of selected topics relevant to bioprocess engineering
+- content: A survey of selected topics relevant to bioprocess engineering
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.TN.1276
   type: doi
+type: standard
 docid:
 - id: NIST TN 1276
   type: NIST
@@ -68,7 +69,7 @@ series:
 - title:
     content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  partnumber: '1276'
+  number: '1276'
 place:
 - city: Gaithersburg
   region:

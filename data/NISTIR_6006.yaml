@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR6006
 title:
-- content: context for Interoperability standards for the footwear industry
+- content: A context for Interoperability standards for the footwear industry
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.6006
   type: doi
+type: standard
 docid:
 - id: NIST IR 6006
   type: NIST
@@ -42,7 +43,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '6006'
+  number: '6006'
 place:
 - city: Gaithersburg
   region:

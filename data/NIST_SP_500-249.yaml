@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTSP500-249
 title:
-- content: ninth text REtrieval conference (TREC-9)
+- content: The ninth text REtrieval conference (TREC-9)
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.500-249
   type: doi
+type: standard
 docid:
 - id: NIST SP 500-249
   type: NIST
@@ -56,7 +57,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 500-249
+  number: 500-249
 place:
 - city: Gaithersburg
   region:

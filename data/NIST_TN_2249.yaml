@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NISTTN2249
 title:
-- content: gray-box model of a two-stage heat pump for electrical load forecasting
+- content: A gray-box model of a two-stage heat pump for electrical load forecasting
     in a single-family residence
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.TN.2249
   type: doi
+type: standard
 docid:
 - id: NIST TN 2249
   type: NIST
@@ -77,7 +78,7 @@ series:
 - title:
     content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  partnumber: '2249'
+  number: '2249'
 place:
 - city: Gaithersburg
   region:

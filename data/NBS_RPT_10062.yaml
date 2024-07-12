@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NBSRPT10062
 title:
-- content: crystallography of other biologically significant inorganic compounds
+- content: The crystallography of other biologically significant inorganic compounds
   language:
   - en
   script:
@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The crystallography of other biologically significant inorganic compounds
+    - progress report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.10062
   type: doi
+type: standard
 docid:
 - id: NBS RPT 10062
   type: NIST
@@ -53,7 +62,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '10062'
+  number: '10062'
 place:
 - city: Gaithersburg
   region:

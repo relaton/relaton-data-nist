@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSSP550
 title:
-- content: bibliography on the corrosion and protection of steel in concrete
+- content: A bibliography on the corrosion and protection of steel in concrete
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.SP.550
   type: doi
+type: standard
 docid:
 - id: NBS SP 550
   type: NIST
@@ -57,7 +58,7 @@ series:
 - title:
     content: NBS special publication; NBS special pub; NBS SP
     format: text/plain
-  partnumber: '550'
+  number: '550'
 place:
 - city: Gaithersburg
   region:

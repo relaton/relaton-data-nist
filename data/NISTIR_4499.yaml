@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR4499
 title:
-- content: experimental study of top vented compartment fires
+- content: An experimental study of top vented compartment fires
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.4499
   type: doi
+type: standard
 docid:
 - id: NIST IR 4499
   type: NIST
@@ -42,7 +43,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '4499'
+  number: '4499'
 place:
 - city: Gaithersburg
   region:

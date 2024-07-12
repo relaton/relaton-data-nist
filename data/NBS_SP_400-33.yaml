@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NBSSP400-33
 title:
-- content: dopant density and temperature dependence of electron mobility and resistivity
-    in N-type silicon
+- content: The dopant density and temperature dependence of electron mobility and
+    resistivity in N-type silicon
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.SP.400-33
   type: doi
+type: standard
 docid:
 - id: NBS SP 400-33
   type: NIST
@@ -47,7 +48,7 @@ series:
 - title:
     content: NBS special publication; NBS special pub; NBS SP
     format: text/plain
-  partnumber: 400-33
+  number: 400-33
 place:
 - city: Gaithersburg
   region:

@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NBSRPT8992
 title:
-- content: survey of thermodynamic properties of the compounds of the elements CHNOPS
+- content: A survey of thermodynamic properties of the compounds of the elements CHNOPS
   language:
   - en
   script:
@@ -17,9 +17,19 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: A survey of thermodynamic properties of the compounds of the elements CHNOPS
+    - progress report for the period 1 July to 30 September 1965 to National Aeronautics
+    and Space Administration
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.8992
   type: doi
+type: standard
 docid:
 - id: NBS RPT 8992
   type: NIST
@@ -92,7 +102,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '8992'
+  number: '8992'
 place:
 - city: Gaithersburg
   region:

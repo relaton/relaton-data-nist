@@ -9,10 +9,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.TN.1991
   type: doi
+type: standard
 docid:
 - id: NIST TN 1991
   type: NIST
@@ -60,9 +61,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Physical Measurement Laboratory (National Institute of Standards and
-                        Technology (U.S.)).
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.)).
     - content: Material Measurement Laboratory.
     identifier:
     - type: uri
@@ -92,7 +92,7 @@ series:
 - title:
     content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  partnumber: '1991'
+  number: '1991'
 place:
 - city: Gaithersburg
   region:

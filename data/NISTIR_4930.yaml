@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: DARPA TIMIT - acoustic-phonetic continuous speech corpus CD-ROM, NIST speech
+    disc 1-1.1
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.4930
   type: doi
+type: standard
 docid:
 - id: NIST IR 4930
   type: NIST
@@ -101,7 +110,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '4930'
+  number: '4930'
 place:
 - city: Gaithersburg
   region:

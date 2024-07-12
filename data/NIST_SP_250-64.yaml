@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: Calibration service for low-level pulsed-laser radiometers at 1.06 [mu]m
+    - pulse energy and peak power
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.250-64
   type: doi
+type: standard
 docid:
 - id: NIST SP 250-64
   type: NIST
@@ -52,7 +61,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 250-64
+  number: 250-64
 place:
 - city: Gaithersburg
   region:

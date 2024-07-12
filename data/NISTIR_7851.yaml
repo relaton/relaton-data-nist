@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NISTIR7851
 title:
-- content: testbed for evaluation of speed and separation monitoring in a human robot
-    collaborative environment
+- content: A testbed for evaluation of speed and separation monitoring in a human
+    robot collaborative environment
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.7851
   type: doi
+type: standard
 docid:
 - id: NIST IR 7851
   type: NIST
@@ -75,7 +76,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '7851'
+  number: '7851'
 place:
 - city: Gaithersburg
   region:

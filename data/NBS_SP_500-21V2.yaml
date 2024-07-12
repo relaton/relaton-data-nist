@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSSP500-21v2
 title:
-- content: network security center
+- content: The network security center
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.SP.500-21v2
   type: doi
+type: standard
 docid:
 - id: NBS SP 500-21v2
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS special publication; NBS special pub; NBS SP
     format: text/plain
-  partnumber: 500-21v2
+  number: 500-21v2
 place:
 - city: Gaithersburg
   region:

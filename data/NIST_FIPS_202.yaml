@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: SHA-3 standard - permutation-based hash and extendable-output functions
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.FIPS.202
   type: doi
+type: standard
 docid:
 - id: NIST FIPS 202
   type: NIST
@@ -31,9 +39,8 @@ date:
 contributor:
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology).
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
     - content: Computer Security Division.
     identifier:
     - type: uri
@@ -42,9 +49,8 @@ contributor:
   - type: publisher
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology).
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
     - content: Computer Security Division.
     identifier:
     - type: uri
@@ -55,7 +61,7 @@ series:
 - title:
     content: Federal information processing standards publication; FIPS
     format: text/plain
-  partnumber: '202'
+  number: '202'
 place:
 - city: Gaithersburg
   region:

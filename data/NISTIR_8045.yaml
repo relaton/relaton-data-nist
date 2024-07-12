@@ -9,10 +9,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.8045
   type: doi
+type: standard
 docid:
 - id: NIST IR 8045
   type: NIST
@@ -65,9 +66,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Physical Measurement Laboratory (National Institute of Standards and
-                        Technology (U.S.)).
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.)).
     - content: Sensor Science Division.
     identifier:
     - type: uri
@@ -78,7 +78,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '8045'
+  number: '8045'
 place:
 - city: Gaithersburg
   region:

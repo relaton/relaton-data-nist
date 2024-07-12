@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTTN2155
 title:
-- content: NIST IrisDaily dataset
+- content: The NIST IrisDaily dataset
   language:
   - en
   script:
@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The NIST IrisDaily dataset - description and initial analysis
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.TN.2155
   type: doi
+type: standard
 docid:
 - id: NIST TN 2155
   type: NIST
@@ -59,7 +67,7 @@ series:
 - title:
     content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  partnumber: '2155'
+  number: '2155'
 place:
 - city: Gaithersburg
   region:

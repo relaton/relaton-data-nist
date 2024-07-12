@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR6222
 title:
-- content: molecular dynamics study of a reversed-phase liquid chromatography model
+- content: A molecular dynamics study of a reversed-phase liquid chromatography model
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.6222
   type: doi
+type: standard
 docid:
 - id: NIST IR 6222
   type: NIST
@@ -56,7 +57,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '6222'
+  number: '6222'
 place:
 - city: Gaithersburg
   region:

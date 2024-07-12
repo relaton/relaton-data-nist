@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NISTSP800-29
 title:
-- content: comparison of the security requirements for cryptographic modules in FIPS
-    140-1 and FIPS 140-2
+- content: A comparison of the security requirements for cryptographic modules in
+    FIPS 140-1 and FIPS 140-2
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.800-29
   type: doi
+type: standard
 docid:
 - id: NIST SP 800-29
   type: NIST
@@ -87,7 +88,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 800-29
+  number: 800-29
 place:
 - city: Gaithersburg
   region:

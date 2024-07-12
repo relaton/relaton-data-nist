@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NBSTN154
 title:
-- content: thermodynamic properties of helium from 3 to 300* K between 0.5 and 100
-    atmospheres
+- content: The thermodynamic properties of helium from 3 to 300* K between 0.5 and
+    100 atmospheres
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.154
   type: doi
+type: standard
 docid:
 - id: NBS TN 154
   type: NIST
@@ -47,7 +48,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '154'
+  number: '154'
 place:
 - city: Gaithersburg
   region:

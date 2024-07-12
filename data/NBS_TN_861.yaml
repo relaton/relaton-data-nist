@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NBSTN861
 title:
-- content: survey for the collection of professional opinion on selected fire protection
+- content: A survey for the collection of professional opinion on selected fire protection
     engineering topics
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.861
   type: doi
+type: standard
 docid:
 - id: NBS TN 861
   type: NIST
@@ -44,7 +45,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '861'
+  number: '861'
 place:
 - city: Gaithersburg
   region:

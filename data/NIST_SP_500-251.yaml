@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTSP500-251
 title:
-- content: eleventh text REtrieval conference, TREC 2002
+- content: The eleventh text REtrieval conference, TREC 2002
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.500-251
   type: doi
+type: standard
 docid:
 - id: NIST SP 500-251
   type: NIST
@@ -53,7 +54,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 500-251
+  number: 500-251
 place:
 - city: Gaithersburg
   region:

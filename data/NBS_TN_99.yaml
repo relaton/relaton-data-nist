@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSTN99
 title:
-- content: survey of the techniques for measuring the radio refractive index
+- content: A survey of the techniques for measuring the radio refractive index
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.99
   type: doi
+type: standard
 docid:
 - id: NBS TN 99
   type: NIST
@@ -57,7 +58,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '99'
+  number: '99'
 place:
 - city: Gaithersburg
   region:

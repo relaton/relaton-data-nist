@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NBSTN329
 title:
-- content: seasonal variation of nightglow NaI 5890-96 A, (OI) 5577 A and (OI) 6300
-    A in the tropics
+- content: The seasonal variation of nightglow NaI 5890-96 A, (OI) 5577 A and (OI)
+    6300 A in the tropics
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.329
   type: doi
+type: standard
 docid:
 - id: NBS TN 329
   type: NIST
@@ -47,7 +48,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '329'
+  number: '329'
 place:
 - city: Gaithersburg
   region:

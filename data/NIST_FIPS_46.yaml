@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: NCSL bulletin - advising users on computer systems technology
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.FIPS.46
   type: doi
+type: standard
 docid:
 - id: NIST FIPS 46
   type: NIST
@@ -49,7 +57,7 @@ series:
 - title:
     content: Federal information processing standards publication; FIPS
     format: text/plain
-  partnumber: '46'
+  number: '46'
 place:
 - city: Gaithersburg
   region:

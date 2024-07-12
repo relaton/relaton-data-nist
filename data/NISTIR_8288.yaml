@@ -17,9 +17,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: Voices of first responders-nationwide public safety communication survey
+    methodology - development, dissemination, and demographics phase 2, volume 1
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.8288
   type: doi
+type: standard
 docid:
 - id: NIST IR 8288
   type: NIST
@@ -125,9 +134,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology)
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/no97056762
@@ -168,7 +176,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '8288'
+  number: '8288'
 place:
 - city: Gaithersburg
   region:

@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR8115chi
 title:
-- content: guide to United States apparel and household textiles compliance requirements
+- content: A guide to United States apparel and household textiles compliance requirements
   language:
   - en
   script:
@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: A guide to United States apparel and household textiles compliance requirements
+    - Chinese translation
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.8115chi
   type: doi
+type: standard
 docid:
 - id: NIST IR 8115chi
   type: NIST
@@ -58,7 +67,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: 8115chi
+  number: 8115chi
 place:
 - city: Gaithersburg
   region:

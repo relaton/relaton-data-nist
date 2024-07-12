@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSTN210
 title:
-- content: atlas of solar flare effects observed on long VLF paths during 1961
+- content: An atlas of solar flare effects observed on long VLF paths during 1961
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.210
   type: doi
+type: standard
 docid:
 - id: NBS TN 210
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '210'
+  number: '210'
 place:
 - city: Gaithersburg
   region:

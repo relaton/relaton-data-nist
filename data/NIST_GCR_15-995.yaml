@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTGCR15-995
 title:
-- content: measure of domestic security
+- content: A measure of domestic security
   language:
   - en
   script:
@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: A measure of domestic security - economic benefits of NIST's support of
+    public safety and security
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.GCR.15-995
   type: doi
+type: standard
 docid:
 - id: NIST GCR 15-995
   type: NIST
@@ -69,7 +78,7 @@ series:
 - title:
     content: NIST GCR; NIST grant-contract report; NIST grant contract report
     format: text/plain
-  partnumber: 15-995
+  number: 15-995
 place:
 - city: Gaithersburg
   region:

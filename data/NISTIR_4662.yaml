@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR4662
 title:
-- content: phase-field model for isothermal phase transitions in binary alloys
+- content: A phase-field model for isothermal phase transitions in binary alloys
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.4662
   type: doi
+type: standard
 docid:
 - id: NIST IR 4662
   type: NIST
@@ -58,7 +59,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '4662'
+  number: '4662'
 place:
 - city: Gaithersburg
   region:

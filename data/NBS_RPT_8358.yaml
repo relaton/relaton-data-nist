@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSRPT8358
 title:
-- content: effective intensity of flashing 399PAR lamps
+- content: The effective intensity of flashing 399PAR lamps
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.8358
   type: doi
+type: standard
 docid:
 - id: NBS RPT 8358
   type: NIST
@@ -39,7 +40,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '8358'
+  number: '8358'
 place:
 - city: Gaithersburg
   region:

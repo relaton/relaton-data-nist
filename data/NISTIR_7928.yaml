@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR7928
 title:
-- content: biological evidence preservation handbook
+- content: The biological evidence preservation handbook
   language:
   - en
   script:
@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The biological evidence preservation handbook - best practices for evidence
+    handlers
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.7928
   type: doi
+type: standard
 docid:
 - id: NIST IR 7928
   type: NIST
@@ -229,9 +238,7 @@ contributor:
 - organization:
     name:
     - content: National Institute of Standards and Technology (U.S.).
-    - content: |-
-        Office of Special Programs, Material Measurements
-                        Laboratory.
+    - content: Office of Special Programs, Material Measurements Laboratory.
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/n88112126
@@ -241,7 +248,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '7928'
+  number: '7928'
 place:
 - city: Gaithersburg
   region:

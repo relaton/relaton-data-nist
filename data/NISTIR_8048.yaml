@@ -8,10 +8,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.8048
   type: doi
+type: standard
 docid:
 - id: NIST IR 8048
   type: NIST
@@ -24,16 +25,12 @@ date:
 contributor:
 - organization:
     name:
-    - content: |-
-        Technical Working Group on Biological Evidence
-                        Preservation.
+    - content: Technical Working Group on Biological Evidence Preservation.
   role:
   - type: publisher
 - organization:
     name:
-    - content: |-
-        Technical Working Group on Biological Evidence
-                        Preservation.
+    - content: Technical Working Group on Biological Evidence Preservation.
   role:
   - type: publisher
 - organization:
@@ -50,7 +47,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '8048'
+  number: '8048'
 place:
 - city: Gaithersburg
   region:

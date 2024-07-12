@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NBSTN159
 title:
-- content: FORTRAN code for calculation of eigenvalues and eigenfunctions in real
+- content: A FORTRAN code for calculation of eigenvalues and eigenfunctions in real
     potential wells
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.159
   type: doi
+type: standard
 docid:
 - id: NBS TN 159
   type: NIST
@@ -47,7 +48,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '159'
+  number: '159'
 place:
 - city: Gaithersburg
   region:

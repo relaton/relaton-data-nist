@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NBSNSRDS40
 title:
-- content: multiplet table of astrophysical interest, revised edition
+- content: A multiplet table of astrophysical interest, revised edition
   language:
   - en
   script:
@@ -17,9 +17,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: A multiplet table of astrophysical interest, revised edition - part I -
+    table of multiplets, part II - finding list of all lines in the table of multiplets
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.NSRDS.40
   type: doi
+type: standard
 docid:
 - id: NBS NSRDS 40
   type: NIST
@@ -54,7 +63,7 @@ series:
 - title:
     content: NIST NSRDS; NSRDS-NIST; National standard reference data series
     format: text/plain
-  partnumber: '40'
+  number: '40'
 place:
 - city: Gaithersburg
   region:

@@ -8,10 +8,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.HB.74
   type: doi
+type: standard
 docid:
 - id: NBS HB 74
   type: NIST
@@ -25,9 +26,8 @@ contributor:
 - organization:
     name:
     - content: American Standards Association.
-    - content: |-
-        Sectional Committee on Building Code Requirements and Good Practice
-                        Recommendations for Masonry, A41.
+    - content: Sectional Committee on Building Code Requirements and Good Practice
+        Recommendations for Masonry, A41.
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/n79053042
@@ -64,7 +64,7 @@ series:
 - title:
     content: NBS handbook; NBS HB
     format: text/plain
-  partnumber: '74'
+  number: '74'
 place:
 - city: Gaithersburg
   region:

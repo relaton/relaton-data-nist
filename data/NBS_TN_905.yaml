@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NBSTN905
 title:
-- content: test method for determining the effect of thermal transients on pressure-transducer
+- content: A test method for determining the effect of thermal transients on pressure-transducer
     reponse
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.905
   type: doi
+type: standard
 docid:
 - id: NBS TN 905
   type: NIST
@@ -47,7 +48,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '905'
+  number: '905'
 place:
 - city: Gaithersburg
   region:

@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSSP375
 title:
-- content: index of state specifications and standards
+- content: An index of state specifications and standards
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.SP.375
   type: doi
+type: standard
 docid:
 - id: NBS SP 375
   type: NIST
@@ -43,7 +44,7 @@ series:
 - title:
     content: NBS special publication; NBS special pub; NBS SP
     format: text/plain
-  partnumber: '375'
+  number: '375'
 place:
 - city: Gaithersburg
   region:

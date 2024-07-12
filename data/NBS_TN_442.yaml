@@ -2,16 +2,18 @@
 schema-version: v1.2.9
 id: NBSTN442
 title:
-- content: empirical formula of the coherent scattering cross section of gamma rays
+- content: An empirical formula of the coherent scattering cross section of gamma
+    rays
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.442
   type: doi
+type: standard
 docid:
 - id: NBS TN 442
   type: NIST
@@ -43,7 +45,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '442'
+  number: '442'
 place:
 - city: Gaithersburg
   region:

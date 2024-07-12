@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR4481
 title:
-- content: NIST Building Life-Cycle Cost (BLCC) program (Version 3.0)
+- content: The NIST Building Life-Cycle Cost (BLCC) program (Version 3.0)
   language:
   - en
   script:
@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The NIST Building Life-Cycle Cost (BLCC) program (Version 3.0) - user's
+    guide and reference manual
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.4481
   type: doi
+type: standard
 docid:
 - id: NIST IR 4481
   type: NIST
@@ -52,7 +61,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '4481'
+  number: '4481'
 place:
 - city: Gaithersburg
   region:

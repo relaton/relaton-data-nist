@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSRPT10695
 title:
-- content: National Bureau of Standards' linear and quadratic programming subroutines
+- content: The National Bureau of Standards' linear and quadratic programming subroutines
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.10695
   type: doi
+type: standard
 docid:
 - id: NBS RPT 10695
   type: NIST
@@ -65,7 +66,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '10695'
+  number: '10695'
 place:
 - city: Gaithersburg
   region:

@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: Recommendation for block cipher modes of operation - the XTS-AES mode for
+    confidentiality on storage devices
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.800-38e
   type: doi
+type: standard
 docid:
 - id: NIST SP 800-38e
   type: NIST
@@ -60,7 +69,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 800-38e
+  number: 800-38e
 place:
 - city: Gaithersburg
   region:

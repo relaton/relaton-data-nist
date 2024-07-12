@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSTN665
 title:
-- content: pyroelectric power meter for the measurement of low level laser radiation
+- content: A pyroelectric power meter for the measurement of low level laser radiation
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.665
   type: doi
+type: standard
 docid:
 - id: NBS TN 665
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '665'
+  number: '665'
 place:
 - city: Gaithersburg
   region:

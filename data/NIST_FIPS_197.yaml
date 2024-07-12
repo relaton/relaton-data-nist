@@ -8,10 +8,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.FIPS.197
   type: doi
+type: standard
 docid:
 - id: NIST FIPS 197
   type: NIST
@@ -40,9 +41,8 @@ contributor:
   - type: publisher
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology)
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/no97056762
@@ -65,7 +65,7 @@ series:
 - title:
     content: Federal information processing standards publication; FIPS
     format: text/plain
-  partnumber: '197'
+  number: '197'
 place:
 - city: Gaithersburg
   region:

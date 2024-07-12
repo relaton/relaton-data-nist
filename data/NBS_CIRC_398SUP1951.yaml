@@ -17,9 +17,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: Supplement to National Bureau of Standards Circular no. 398 - standard
+    samples and reference standards issued by the National Bureau of Standards
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.CIRC.398sup1951
   type: doi
+type: standard
 docid:
 - id: NBS CIRC 398sup1951
   type: NIST
@@ -60,7 +69,7 @@ series:
 - title:
     content: National Bureau of Standards circular
     format: text/plain
-  partnumber: 398sup1951
+  number: 398sup1951
 place:
 - city: Gaithersburg
   region:

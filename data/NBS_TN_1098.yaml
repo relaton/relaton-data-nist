@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: Linear gain - standard antennas below 1000 MHz
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.1098
   type: doi
+type: standard
 docid:
 - id: NBS TN 1098
   type: NIST
@@ -53,7 +61,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '1098'
+  number: '1098'
 place:
 - city: Gaithersburg
   region:

@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NISTIR4760
 title:
-- content: computer program POWNOR for fitting the power-normal and -lognormal models
+- content: A computer program POWNOR for fitting the power-normal and -lognormal models
     to life or strength data from specimens of various sizes
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.4760
   type: doi
+type: standard
 docid:
 - id: NIST IR 4760
   type: NIST
@@ -54,7 +55,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '4760'
+  number: '4760'
 place:
 - city: Gaithersburg
   region:

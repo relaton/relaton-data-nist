@@ -17,9 +17,19 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: Methods of evaluating radiological equipment and materials - recommendations
+    of the International Commission on Radiological units and measurements (ICRU)
+    report 10f 1962
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.HB.89
   type: doi
+type: standard
 docid:
 - id: NBS HB 89
   type: NIST
@@ -32,9 +42,7 @@ date:
 contributor:
 - organization:
     name:
-    - content: |-
-        International Commission on Radiological Units and
-                        Measurements.
+    - content: International Commission on Radiological Units and Measurements.
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/n80050741
@@ -42,9 +50,7 @@ contributor:
   - type: publisher
 - organization:
     name:
-    - content: |-
-        International Commission on Radiological Units and
-                        Measurements.
+    - content: International Commission on Radiological Units and Measurements.
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/n80050741
@@ -71,7 +77,7 @@ series:
 - title:
     content: NBS handbook; NBS HB
     format: text/plain
-  partnumber: '89'
+  number: '89'
 place:
 - city: Gaithersburg
   region:

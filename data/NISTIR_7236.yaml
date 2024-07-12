@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR7236
 title:
-- content: framework for standard modular simulation
+- content: A framework for standard modular simulation
   language:
   - en
   script:
@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: A framework for standard modular simulation - application to semiconductor
+    wafer fabrication
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.7236
   type: doi
+type: standard
 docid:
 - id: NIST IR 7236
   type: NIST
@@ -80,7 +89,7 @@ series:
       NISTIR; NIST IR; NIST interagency report; NIST internal
                       report
     format: text/plain
-  partnumber: '7236'
+  number: '7236'
 place:
 - city: Gaithersburg
   region:

@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR8007
 title:
-- content: review of U.S.A. participation in ISO and IEC
+- content: A review of U.S.A. participation in ISO and IEC
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.8007
   type: doi
+type: standard
 docid:
 - id: NIST IR 8007
   type: NIST
@@ -51,7 +52,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '8007'
+  number: '8007'
 place:
 - city: Gaithersburg
   region:

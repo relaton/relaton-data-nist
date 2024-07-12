@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSTN849
 title:
-- content: FORTRAN analyzer
+- content: A FORTRAN analyzer
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.849
   type: doi
+type: standard
 docid:
 - id: NBS TN 849
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '849'
+  number: '849'
 place:
 - city: Gaithersburg
   region:

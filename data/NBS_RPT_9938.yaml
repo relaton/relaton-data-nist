@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSRPT9938
 title:
-- content: simulation of a highway maintenance operational unit
+- content: A simulation of a highway maintenance operational unit
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.9938
   type: doi
+type: standard
 docid:
 - id: NBS RPT 9938
   type: NIST
@@ -73,7 +74,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '9938'
+  number: '9938'
 place:
 - city: Gaithersburg
   region:

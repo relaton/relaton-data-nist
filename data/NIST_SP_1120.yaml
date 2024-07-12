@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTSP1120
 title:
-- content: NIST Center for Neutron Research
+- content: The NIST Center for Neutron Research
   language:
   - en
   script:
@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The NIST Center for Neutron Research - over 40 years serving NIST/NBS and
+    the nation
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.1120
   type: doi
+type: standard
 docid:
 - id: NIST SP 1120
   type: NIST
@@ -63,7 +72,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: '1120'
+  number: '1120'
 place:
 - city: Gaithersburg
   region:

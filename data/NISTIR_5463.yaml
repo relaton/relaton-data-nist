@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR5463
 title:
-- content: metric path to global markets and new jobs
+- content: The metric path to global markets and new jobs
   language:
   - en
   script:
@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The metric path to global markets and new jobs - a question-and-answer
+    and thematic discussion
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.5463
   type: doi
+type: standard
 docid:
 - id: NIST IR 5463
   type: NIST
@@ -48,7 +57,7 @@ series:
       NISTIR; NIST IR; NIST interagency report; NIST internal
                       report
     format: text/plain
-  partnumber: '5463'
+  number: '5463'
 place:
 - city: Gaithersburg
   region:

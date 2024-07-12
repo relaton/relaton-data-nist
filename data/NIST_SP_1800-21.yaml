@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: Mobile device security - corporate-owned personally-enabled (COPE)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.1800-21
   type: doi
+type: standard
 docid:
 - id: NIST SP 1800-21
   type: NIST
@@ -133,9 +141,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology)
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
   role:
   - type: publisher
 abstract:
@@ -163,7 +170,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 1800-21
+  number: 1800-21
 place:
 - city: Gaithersburg
   region:

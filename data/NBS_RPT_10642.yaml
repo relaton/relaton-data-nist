@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NBSRPT10642
 title:
-- content: study of court reporting systems
+- content: A study of court reporting systems
   language:
   - en
   script:
@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: A study of court reporting systems - volume II - experimental phase
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.10642
   type: doi
+type: standard
 docid:
 - id: NBS RPT 10642
   type: NIST
@@ -61,7 +69,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '10642'
+  number: '10642'
 place:
 - city: Gaithersburg
   region:

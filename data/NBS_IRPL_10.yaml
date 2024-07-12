@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSIRPL10
 title:
-- content: proposal for the use of rockets for the study of the ionosphere
+- content: A proposal for the use of rockets for the study of the ionosphere
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.IRPL.10
   type: doi
+type: standard
 docid:
 - id: NBS IRPL 10
   type: NIST
@@ -45,7 +46,7 @@ series:
       NBS Inter-Service Radio Propogation Laboratory Report; NBS IRPL
                       Report
     format: text/plain
-  partnumber: '10'
+  number: '10'
 place:
 - city: Gaithersburg
   region:

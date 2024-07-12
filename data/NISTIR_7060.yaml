@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR7060
 title:
-- content: review and implementation of algorithms for fast and reliable fire detection
+- content: A review and implementation of algorithms for fast and reliable fire detection
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.7060
   type: doi
+type: standard
 docid:
 - id: NIST IR 7060
   type: NIST
@@ -45,7 +46,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '7060'
+  number: '7060'
 place:
 - city: Gaithersburg
   region:

@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR4351
 title:
-- content: NIST working form for STEP
+- content: The NIST working form for STEP
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.4351
   type: doi
+type: standard
 docid:
 - id: NIST IR 4351
   type: NIST
@@ -42,7 +43,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '4351'
+  number: '4351'
 place:
 - city: Gaithersburg
   region:

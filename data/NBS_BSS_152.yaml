@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSBSS152
 title:
-- content: Daylighting model for building energy simulation
+- content: A Daylighting model for building energy simulation
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.BSS.152
   type: doi
+type: standard
 docid:
 - id: NBS BSS 152
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS building science series; NBS building science; NBS BSS
     format: text/plain
-  partnumber: '152'
+  number: '152'
 place:
 - city: Gaithersburg
   region:

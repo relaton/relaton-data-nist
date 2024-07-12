@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR8411
 title:
-- content: albatross about our neck
+- content: The albatross about our neck
   language:
   - en
   script:
@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The albatross about our neck - the state of our oceans revealed through
+    the family Diomedeidae
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.8411
   type: doi
+type: standard
 docid:
 - id: NIST IR 8411
   type: NIST
@@ -62,7 +71,7 @@ series:
       NISTIR; NIST IR; NIST interagency report; NIST internal
                       report
     format: text/plain
-  partnumber: '8411'
+  number: '8411'
 place:
 - city: Gaithersburg
   region:

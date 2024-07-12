@@ -8,10 +8,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.CSM.23
   type: doi
+type: standard
 docid:
 - id: NBS CSM 23
   type: NIST
@@ -24,9 +25,8 @@ date:
 contributor:
 - organization:
     name:
-    - content: |-
-        Division of Simplified Practice, National Committee on Metals
-                        Utilization, national Committee on Wood Utilization.
+    - content: Division of Simplified Practice, National Committee on Metals Utilization,
+        national Committee on Wood Utilization.
   role:
   - type: publisher
 - organization:
@@ -42,7 +42,7 @@ series:
 - title:
     content: NBS commercial standards; NBS CS
     format: text/plain
-  partnumber: '23'
+  number: '23'
 place:
 - city: Gaithersburg
   region:

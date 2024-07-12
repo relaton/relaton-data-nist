@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: Automatic character recognition - a state-of-the-art report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.112
   type: doi
+type: standard
 docid:
 - id: NBS TN 112
   type: NIST
@@ -53,7 +61,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '112'
+  number: '112'
 place:
 - city: Gaithersburg
   region:

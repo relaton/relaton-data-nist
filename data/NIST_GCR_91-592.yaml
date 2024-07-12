@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTGCR91-592
 title:
-- content: first pass at computing the cost of fire safety in a modern society
+- content: A first pass at computing the cost of fire safety in a modern society
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.GCR.91-592
   type: doi
+type: standard
 docid:
 - id: NIST GCR 91-592
   type: NIST
@@ -39,7 +40,7 @@ series:
 - title:
     content: NIST GCR; NIST grant-contract report; NIST grant contract report
     format: text/plain
-  partnumber: 91-592
+  number: 91-592
 place:
 - city: Gaithersburg
   region:

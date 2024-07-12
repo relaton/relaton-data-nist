@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR6300
 title:
-- content: AUTONAV/DOT project
+- content: The AUTONAV/DOT project
   language:
   - en
   script:
@@ -17,9 +17,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The AUTONAV/DOT project - baseline measurement system for evaluation of
+    roadway departure warning system
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.6300
   type: doi
+type: standard
 docid:
 - id: NIST IR 6300
   type: NIST
@@ -69,7 +78,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '6300'
+  number: '6300'
 place:
 - city: Gaithersburg
   region:

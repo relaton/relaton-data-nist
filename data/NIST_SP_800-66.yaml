@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NISTSP800-66
 title:
-- content: introductory resource guide for implememting the health insurance portability
+- content: An introductory resource guide for implememting the health insurance portability
     and accountability act (HIPPA) security rule
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.800-66
   type: doi
+type: standard
 docid:
 - id: NIST SP 800-66
   type: NIST
@@ -74,9 +75,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology).
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
     - content: Computer Security Division.
     identifier:
     - type: uri
@@ -87,7 +87,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 800-66
+  number: 800-66
 place:
 - city: Gaithersburg
   region:

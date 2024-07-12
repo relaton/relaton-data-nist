@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NISTIR7779
 title:
-- content: exploration of the operational ramifications of lossless compression of
-    1000 ppi fingerprint imagery
+- content: An exploration of the operational ramifications of lossless compression
+    of 1000 ppi fingerprint imagery
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.7779
   type: doi
+type: standard
 docid:
 - id: NIST IR 7779
   type: NIST
@@ -63,7 +64,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '7779'
+  number: '7779'
 place:
 - city: Gaithersburg
   region:

@@ -2,8 +2,8 @@
 schema-version: v1.2.9
 id: NISTIR6321
 title:
-- content: NIST LEIDIR prototype - inserting hypertext links into the POMS using information
-    retrieval
+- content: The NIST LEIDIR prototype - inserting hypertext links into the POMS using
+    information retrieval
   language:
   - en
   script:
@@ -17,9 +17,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The NIST LEIDIR prototype - inserting hypertext links into the POMS using
+    information retrieval - installation guide, user guide and software documentation
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.6321
   type: doi
+type: standard
 docid:
 - id: NIST IR 6321
   type: NIST
@@ -50,7 +59,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '6321'
+  number: '6321'
 place:
 - city: Gaithersburg
   region:

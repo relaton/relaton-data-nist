@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR5823
 title:
-- content: survey of standards for the U.S. Fiber/Textile/Apparel Industry
+- content: A survey of standards for the U.S. Fiber/Textile/Apparel Industry
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.5823
   type: doi
+type: standard
 docid:
 - id: NIST IR 5823
   type: NIST
@@ -42,7 +43,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '5823'
+  number: '5823'
 place:
 - city: Gaithersburg
   region:

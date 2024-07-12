@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSTN226
 title:
-- content: atlas of VLF emission spectra observed with the Hiss recorder
+- content: An atlas of VLF emission spectra observed with the Hiss recorder
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.226
   type: doi
+type: standard
 docid:
 - id: NBS TN 226
   type: NIST
@@ -43,7 +44,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '226'
+  number: '226'
 place:
 - city: Gaithersburg
   region:

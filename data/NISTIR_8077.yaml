@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: Investigation of PMU response to leap second - 2015
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.8077
   type: doi
+type: standard
 docid:
 - id: NIST IR 8077
   type: NIST
@@ -58,9 +66,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Physical Measurement Laboratory (National Institute of Standards and
-                        Technology (U.S.)).
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.)).
     - content: Quantum Measurement Division.
     identifier:
     - type: uri
@@ -71,7 +78,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '8077'
+  number: '8077'
 place:
 - city: Gaithersburg
   region:

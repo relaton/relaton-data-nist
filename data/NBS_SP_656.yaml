@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSSP656
 title:
-- content: pilot national environmental specimen bank
+- content: The pilot national environmental specimen bank
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.SP.656
   type: doi
+type: standard
 docid:
 - id: NBS SP 656
   type: NIST
@@ -68,7 +69,7 @@ series:
 - title:
     content: NBS special publication; NBS special pub; NBS SP
     format: text/plain
-  partnumber: '656'
+  number: '656'
 place:
 - city: Gaithersburg
   region:

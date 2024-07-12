@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR6455
 title:
-- content: modeling study of ventilation in manufactured houses
+- content: A modeling study of ventilation in manufactured houses
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.6455
   type: doi
+type: standard
 docid:
 - id: NIST IR 6455
   type: NIST
@@ -56,7 +57,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '6455'
+  number: '6455'
 place:
 - city: Gaithersburg
   region:

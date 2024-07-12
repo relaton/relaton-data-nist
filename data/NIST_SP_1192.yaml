@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: NIST-TAPPI workshop on measurement needs for cellulose nanomaterials -
+    Fairmont Hotel, Vancouver, Canada 23 June 2014
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.1192
   type: doi
+type: standard
 docid:
 - id: NIST SP 1192
   type: NIST
@@ -156,9 +165,8 @@ contributor:
   - type: publisher
 - organization:
     name:
-    - content: |-
-        Physical Measurement Laboratory (National Institute of Standards and
-                        Technology (U.S.)).
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.)).
     - content: Semiconductor and Dimensional Metrology Division.
     identifier:
     - type: uri
@@ -169,7 +177,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: '1192'
+  number: '1192'
 place:
 - city: Gaithersburg
   region:

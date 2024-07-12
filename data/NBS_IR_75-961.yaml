@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NBSIR75-961
 title:
-- content: police patrol car
+- content: The police patrol car
   language:
   - en
   script:
@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The police patrol car - economic efficiency in acquisition, operation,
+    and disposition
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.IR.75-961
   type: doi
+type: standard
 docid:
 - id: NBS IR 75-961
   type: NIST
@@ -53,7 +62,7 @@ series:
 - title:
     content: NBSIR; NBS IR; NBS interagency report; NBS internal report
     format: text/plain
-  partnumber: 75-961
+  number: 75-961
 place:
 - city: Gaithersburg
   region:

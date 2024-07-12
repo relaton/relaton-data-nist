@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTTN1632
 title:
-- content: process of human behavior in fires
+- content: The process of human behavior in fires
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.TN.1632
   type: doi
+type: standard
 docid:
 - id: NIST TN 1632
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  partnumber: '1632'
+  number: '1632'
 place:
 - city: Gaithersburg
   region:

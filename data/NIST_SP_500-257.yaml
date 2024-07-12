@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTSP500-257
 title:
-- content: rich transcription 2004 spring meeting recognition evaluation
+- content: The rich transcription 2004 spring meeting recognition evaluation
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.500-257
   type: doi
+type: standard
 docid:
 - id: NIST SP 500-257
   type: NIST
@@ -57,9 +58,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology).
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
     - content: Information Access Division.
     identifier:
     - type: uri
@@ -70,7 +70,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 500-257
+  number: 500-257
 place:
 - city: Gaithersburg
   region:

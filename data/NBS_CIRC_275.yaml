@@ -17,9 +17,19 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: Circular of the Bureau of Standards no. 275 - United States government
+    master specification for builders hardware (except for marine use or for hollow
+    metal doors)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.CIRC.275
   type: doi
+type: standard
 docid:
 - id: NBS CIRC 275
   type: NIST
@@ -60,7 +70,7 @@ series:
 - title:
     content: National Bureau of Standards circular
     format: text/plain
-  partnumber: '275'
+  number: '275'
 place:
 - city: Gaithersburg
   region:

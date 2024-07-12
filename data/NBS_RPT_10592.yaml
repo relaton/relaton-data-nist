@@ -2,16 +2,18 @@
 schema-version: v1.2.9
 id: NBSRPT10592
 title:
-- content: simulation model for estimating airport terminal area throughputs and delays
+- content: A simulation model for estimating airport terminal area throughputs and
+    delays
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.10592
   type: doi
+type: standard
 docid:
 - id: NBS RPT 10592
   type: NIST
@@ -67,7 +69,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '10592'
+  number: '10592'
 place:
 - city: Gaithersburg
   region:

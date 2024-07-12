@@ -8,10 +8,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.1151
   type: doi
+type: standard
 docid:
 - id: NIST SP 1151
   type: NIST
@@ -102,9 +103,7 @@ contributor:
 - organization:
     name:
     - content: National Institute of Standards and Technology (U.S.).
-    - content: |-
-        Office of Special Programs, Law Enforcement Standards
-                        Office.
+    - content: Office of Special Programs, Law Enforcement Standards Office.
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/n88112126
@@ -114,7 +113,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: '1151'
+  number: '1151'
 place:
 - city: Gaithersburg
   region:

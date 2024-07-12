@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NBSSP371
 title:
-- content: supplementary bibliography of kinetic data on gas phase reactions of nitrogen,
-    oxygen, and nitrogen oxides
+- content: A supplementary bibliography of kinetic data on gas phase reactions of
+    nitrogen, oxygen, and nitrogen oxides
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.SP.371
   type: doi
+type: standard
 docid:
 - id: NBS SP 371
   type: NIST
@@ -47,7 +48,7 @@ series:
 - title:
     content: NBS special publication; NBS special pub; NBS SP
     format: text/plain
-  partnumber: '371'
+  number: '371'
 place:
 - city: Gaithersburg
   region:

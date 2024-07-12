@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSSP400-75
 title:
-- content: FORTRAN program for analysis of data from microelectronic test structures
+- content: A FORTRAN program for analysis of data from microelectronic test structures
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.SP.400-75
   type: doi
+type: standard
 docid:
 - id: NBS SP 400-75
   type: NIST
@@ -57,7 +58,7 @@ series:
 - title:
     content: NBS special publication; NBS special pub; NBS SP
     format: text/plain
-  partnumber: 400-75
+  number: 400-75
 place:
 - city: Gaithersburg
   region:

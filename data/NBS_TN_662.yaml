@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSTN662
 title:
-- content: review of precision oscillators
+- content: A review of precision oscillators
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.662
   type: doi
+type: standard
 docid:
 - id: NBS TN 662
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '662'
+  number: '662'
 place:
 - city: Gaithersburg
   region:

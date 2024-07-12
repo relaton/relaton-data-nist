@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: NIST special database 32 multiple encounter dataset II (MEDS-II) - data
+    description document
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.7807
   type: doi
+type: standard
 docid:
 - id: NIST IR 7807
   type: NIST
@@ -66,9 +75,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology).
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
     - content: Information Access Division.
     identifier:
     - type: uri
@@ -79,7 +87,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '7807'
+  number: '7807'
 place:
 - city: Gaithersburg
   region:

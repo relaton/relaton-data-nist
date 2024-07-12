@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSTN298
 title:
-- content: survey of ionization vacuum gages and their performance characteristics
+- content: A survey of ionization vacuum gages and their performance characteristics
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.298
   type: doi
+type: standard
 docid:
 - id: NBS TN 298
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '298'
+  number: '298'
 place:
 - city: Gaithersburg
   region:

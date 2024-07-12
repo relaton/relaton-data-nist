@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR5512
 title:
-- content: new method to calculate looming for autonomous obstacle avoidance
+- content: A new method to calculate looming for autonomous obstacle avoidance
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.5512
   type: doi
+type: standard
 docid:
 - id: NIST IR 5512
   type: NIST
@@ -49,7 +50,7 @@ series:
       NISTIR; NIST IR; NIST interagency report; NIST internal
                       report
     format: text/plain
-  partnumber: '5512'
+  number: '5512'
 place:
 - city: Gaithersburg
   region:

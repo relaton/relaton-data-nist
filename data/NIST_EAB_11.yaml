@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: NIST customer demographics - calibrations
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.EAB.11
   type: doi
+type: standard
 docid:
 - id: NIST EAB 11
   type: NIST
@@ -72,7 +80,7 @@ series:
 - title:
     content: NIST economic analysis brief; NIST EAB
     format: text/plain
-  partnumber: '11'
+  number: '11'
 place:
 - city: Gaithersburg
   region:

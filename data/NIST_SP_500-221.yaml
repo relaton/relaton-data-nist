@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTSP500-221
 title:
-- content: user study
+- content: A user study
   language:
   - en
   script:
@@ -17,9 +17,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: A user study - information needs of remote National Archives and Records
+    Administration customers
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.500-221
   type: doi
+type: standard
 docid:
 - id: NIST SP 500-221
   type: NIST
@@ -64,7 +73,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 500-221
+  number: 500-221
 place:
 - city: Gaithersburg
   region:

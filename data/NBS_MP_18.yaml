@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSMP18
 title:
-- content: National Bureau of Standards
+- content: The National Bureau of Standards
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.MP.18
   type: doi
+type: standard
 docid:
 - id: NBS MP 18
   type: NIST
@@ -44,7 +45,7 @@ series:
 - title:
     content: NBS miscellaneous publication; NBS miscellaneous pub; NBS MP
     format: text/plain
-  partnumber: '18'
+  number: '18'
 place:
 - city: Gaithersburg
   region:

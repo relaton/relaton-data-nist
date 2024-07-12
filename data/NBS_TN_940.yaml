@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSTN940
 title:
-- content: representation and use of design specifications
+- content: The representation and use of design specifications
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.940
   type: doi
+type: standard
 docid:
 - id: NBS TN 940
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '940'
+  number: '940'
 place:
 - city: Gaithersburg
   region:

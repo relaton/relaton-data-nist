@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSSP580
 title:
-- content: State-of-the-art of thermal analysis
+- content: The State-of-the-art of thermal analysis
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.SP.580
   type: doi
+type: standard
 docid:
 - id: NBS SP 580
   type: NIST
@@ -68,7 +69,7 @@ series:
 - title:
     content: NBS special publication; NBS special pub; NBS SP
     format: text/plain
-  partnumber: '580'
+  number: '580'
 place:
 - city: Gaithersburg
   region:

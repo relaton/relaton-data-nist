@@ -9,10 +9,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.8241
   type: doi
+type: standard
 docid:
 - id: NIST IR 8241
   type: NIST
@@ -60,9 +61,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology).
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
     - content: Material Measurement Laboratory.
     identifier:
     - type: uri
@@ -97,7 +97,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '8241'
+  number: '8241'
 place:
 - city: Gaithersburg
   region:

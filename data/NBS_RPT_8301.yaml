@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NBSRPT8301
 title:
-- content: National Bureau of Standards high temperature absolute cut-bar apparatus
+- content: The National Bureau of Standards high temperature absolute cut-bar apparatus
     for determination of the thermal conductivity of small solids
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.8301
   type: doi
+type: standard
 docid:
 - id: NBS RPT 8301
   type: NIST
@@ -58,7 +59,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '8301'
+  number: '8301'
 place:
 - city: Gaithersburg
   region:

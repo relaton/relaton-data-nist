@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSRPT9066
 title:
-- content: computer simulation model of railroad freight transportation systems
+- content: A computer simulation model of railroad freight transportation systems
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.9066
   type: doi
+type: standard
 docid:
 - id: NBS RPT 9066
   type: NIST
@@ -39,7 +40,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '9066'
+  number: '9066'
 place:
 - city: Gaithersburg
   region:

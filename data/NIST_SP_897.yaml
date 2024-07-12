@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTSP897
 title:
-- content: working conference on global growth of technology
+- content: A working conference on global growth of technology
   language:
   - en
   script:
@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: A working conference on global growth of technology - is America prepared?
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.897
   type: doi
+type: standard
 docid:
 - id: NIST SP 897
   type: NIST
@@ -68,7 +76,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: '897'
+  number: '897'
 place:
 - city: Gaithersburg
   region:

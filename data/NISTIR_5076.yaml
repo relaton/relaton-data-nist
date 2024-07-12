@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR5076
 title:
-- content: bibliography of publications of the NIST Electromagnetic Technology Division
+- content: A bibliography of publications of the NIST Electromagnetic Technology Division
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.5076
   type: doi
+type: standard
 docid:
 - id: NIST IR 5076
   type: NIST
@@ -41,7 +42,7 @@ series:
       NISTIR; NIST IR; NIST interagency report; NIST internal
                       report
     format: text/plain
-  partnumber: '5076'
+  number: '5076'
 place:
 - city: Gaithersburg
   region:

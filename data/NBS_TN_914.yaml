@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSTN914
 title:
-- content: new dynamic pressure source for the calibration of pressure transducers
+- content: A new dynamic pressure source for the calibration of pressure transducers
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.914
   type: doi
+type: standard
 docid:
 - id: NBS TN 914
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '914'
+  number: '914'
 place:
 - city: Gaithersburg
   region:

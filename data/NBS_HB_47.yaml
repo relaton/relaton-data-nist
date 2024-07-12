@@ -9,10 +9,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.HB.47
   type: doi
+type: standard
 docid:
 - id: NBS HB 47
   type: NIST
@@ -41,9 +42,7 @@ contributor:
   - type: publisher
 - organization:
     name:
-    - content: |-
-        International Commission on Radiological Units and
-                        Measurements.
+    - content: International Commission on Radiological Units and Measurements.
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/n80050741
@@ -70,7 +69,7 @@ series:
 - title:
     content: NBS handbook; NBS HB
     format: text/plain
-  partnumber: '47'
+  number: '47'
 place:
 - city: Gaithersburg
   region:

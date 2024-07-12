@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR4556
 title:
-- content: interior-point method for linear and quadratic programming problems
+- content: An interior-point method for linear and quadratic programming problems
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.4556
   type: doi
+type: standard
 docid:
 - id: NIST IR 4556
   type: NIST
@@ -69,7 +70,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '4556'
+  number: '4556'
 place:
 - city: Gaithersburg
   region:

@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR5703
 title:
-- content: NIST ATM Network Simulator
+- content: The NIST ATM Network Simulator
   language:
   - en
   script:
@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The NIST ATM Network Simulator - operation and programming, version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.5703
   type: doi
+type: standard
 docid:
 - id: NIST IR 5703
   type: NIST
@@ -71,7 +79,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '5703'
+  number: '5703'
 place:
 - city: Gaithersburg
   region:

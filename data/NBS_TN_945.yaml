@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSTN945
 title:
-- content: investigation of the fire environment in the ASTM E 84 tunnel test
+- content: An investigation of the fire environment in the ASTM E 84 tunnel test
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.945
   type: doi
+type: standard
 docid:
 - id: NBS TN 945
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '945'
+  number: '945'
 place:
 - city: Gaithersburg
   region:

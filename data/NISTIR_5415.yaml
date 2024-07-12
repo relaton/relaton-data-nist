@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR5415
 title:
-- content: user profile for researchers studying objects
+- content: A user profile for researchers studying objects
   language:
   - en
   script:
@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: A user profile for researchers studying objects - implications for computer
+    systems
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.5415
   type: doi
+type: standard
 docid:
 - id: NIST IR 5415
   type: NIST
@@ -48,7 +57,7 @@ series:
       NISTIR; NIST IR; NIST interagency report; NIST internal
                       report
     format: text/plain
-  partnumber: '5415'
+  number: '5415'
 place:
 - city: Gaithersburg
   region:

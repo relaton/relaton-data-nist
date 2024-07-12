@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR6446
 title:
-- content: comparison of CFAST predictions to USCG real-scale fire tests
+- content: A comparison of CFAST predictions to USCG real-scale fire tests
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.6446
   type: doi
+type: standard
 docid:
 - id: NIST IR 6446
   type: NIST
@@ -83,7 +84,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '6446'
+  number: '6446'
 place:
 - city: Gaithersburg
   region:

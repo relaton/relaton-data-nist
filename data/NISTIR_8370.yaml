@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR8370
 title:
-- content: San Francisco Estuary Institute Collection at the NIST Biorepository
+- content: The San Francisco Estuary Institute Collection at the NIST Biorepository
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.8370
   type: doi
+type: standard
 docid:
 - id: NIST IR 8370
   type: NIST
@@ -91,7 +92,7 @@ series:
       NISTIR; NIST IR; NIST interagency report; NIST internal
                       report
     format: text/plain
-  partnumber: '8370'
+  number: '8370'
 place:
 - city: Gaithersburg
   region:

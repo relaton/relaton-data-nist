@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NBSNSRDS54
 title:
-- content: radiolysis of methanol
+- content: The radiolysis of methanol
   language:
   - en
   script:
@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The radiolysis of methanol - product yields, rate constants, and spectroscopic
+    parameters of intermediates
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.NSRDS.54
   type: doi
+type: standard
 docid:
 - id: NBS NSRDS 54
   type: NIST
@@ -64,7 +73,7 @@ series:
 - title:
     content: NIST NSRDS; NSRDS-NIST; National standard reference data series
     format: text/plain
-  partnumber: '54'
+  number: '54'
 place:
 - city: Gaithersburg
   region:

@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR4563
 title:
-- content: draft abstract test suite for determining conformance to the BACnet protocol
+- content: A draft abstract test suite for determining conformance to the BACnet protocol
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.4563
   type: doi
+type: standard
 docid:
 - id: NIST IR 4563
   type: NIST
@@ -42,7 +43,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '4563'
+  number: '4563'
 place:
 - city: Gaithersburg
   region:

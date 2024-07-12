@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR6134
 title:
-- content: FORTRAN 90 interface for OpenGl
+- content: A FORTRAN 90 interface for OpenGl
   language:
   - en
   script:
@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: A FORTRAN 90 interface for OpenGl - revised January 1998
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.6134
   type: doi
+type: standard
 docid:
 - id: NIST IR 6134
   type: NIST
@@ -52,7 +60,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '6134'
+  number: '6134'
 place:
 - city: Gaithersburg
   region:

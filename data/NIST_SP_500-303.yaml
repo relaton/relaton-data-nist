@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTSP500-303
 title:
-- content: structure of optimal and near optimal target sets in consensus models
+- content: The structure of optimal and near optimal target sets in consensus models
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.500-303
   type: doi
+type: standard
 docid:
 - id: NIST SP 500-303
   type: NIST
@@ -35,9 +36,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology).
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
     - content: Applied and Computational Mathematics Division.
     identifier:
     - type: uri
@@ -48,7 +48,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 500-303
+  number: 500-303
 place:
 - city: Gaithersburg
   region:

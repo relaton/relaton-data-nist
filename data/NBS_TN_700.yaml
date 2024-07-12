@@ -17,9 +17,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: COMBO - A general-purpose program for searching, annotating, encoding-decoding,
+    and reformatting data files
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.700
   type: doi
+type: standard
 docid:
 - id: NBS TN 700
   type: NIST
@@ -51,7 +60,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '700'
+  number: '700'
 place:
 - city: Gaithersburg
   region:

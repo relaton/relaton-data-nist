@@ -8,10 +8,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.1149-03
   type: doi
+type: standard
 docid:
 - id: NIST IR 1149-03
   type: NIST
@@ -35,9 +36,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Physical Measurement Laboratory (National Institute of Standards and
-                        Technology (U.S.))
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.))
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/no2019028800
@@ -47,7 +47,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: 1149-03
+  number: 1149-03
 place:
 - city: Gaithersburg
   region:

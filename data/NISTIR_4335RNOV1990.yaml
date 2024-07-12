@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR4335rNov1990
 title:
-- content: NIST PDES toolkit
+- content: The NIST PDES toolkit
   language:
   - en
   script:
@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The NIST PDES toolkit - technical fundamentals
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.4335rNov1990
   type: doi
+type: standard
 docid:
 - id: NIST IR 4335rNov1990
   type: NIST
@@ -49,7 +57,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: 4335rNov1990
+  number: 4335rNov1990
 place:
 - city: Gaithersburg
   region:

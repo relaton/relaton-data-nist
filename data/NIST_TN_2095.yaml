@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NISTTN2095
 title:
-- content: tool to model the Fate and Transport of Indoor Microbiological Aerosols
+- content: A tool to model the Fate and Transport of Indoor Microbiological Aerosols
     (FaTIMA)
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.TN.2095
   type: doi
+type: standard
 docid:
 - id: NIST TN 2095
   type: NIST
@@ -97,7 +98,7 @@ series:
 - title:
     content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  partnumber: '2095'
+  number: '2095'
 place:
 - city: Gaithersburg
   region:

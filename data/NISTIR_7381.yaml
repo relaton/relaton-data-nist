@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR7381
 title:
-- content: roadmap for metrology interoperability
+- content: A roadmap for metrology interoperability
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.7381
   type: doi
+type: standard
 docid:
 - id: NIST IR 7381
   type: NIST
@@ -24,9 +25,7 @@ date:
 contributor:
 - organization:
     name:
-    - content: |-
-        The Integrated Manufacturing Technology Initiative (IMIT,
-                        Inc.).
+    - content: The Integrated Manufacturing Technology Initiative (IMIT, Inc.).
   role:
   - type: publisher
 - organization:
@@ -39,16 +38,14 @@ contributor:
   - type: publisher
 - organization:
     name:
-    - content: |-
-        The Integrated Manufacturing Technology Initiative (IMIT,
-                        Inc.)
+    - content: The Integrated Manufacturing Technology Initiative (IMIT, Inc.)
   role:
   - type: publisher
 series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '7381'
+  number: '7381'
 place:
 - city: Gaithersburg
   region:

@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTAMS100-26
 title:
-- content: model based enterprise
+- content: The model based enterprise
   language:
   - en
   script:
@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The model based enterprise - a literature review of costs and benefits
+    for discrete manufacturing
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.AMS.100-26
   type: doi
+type: standard
 docid:
 - id: NIST AMS 100-26
   type: NIST
@@ -66,7 +75,7 @@ series:
 - title:
     content: NIST advanced manufacturing series; NIST AMS
     format: text/plain
-  partnumber: 100-26
+  number: 100-26
 place:
 - city: Gaithersburg
   region:

@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSRPT10485
 title:
-- content: proposed method of generating building regulatory standards
+- content: A proposed method of generating building regulatory standards
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.10485
   type: doi
+type: standard
 docid:
 - id: NBS RPT 10485
   type: NIST
@@ -39,7 +40,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '10485'
+  number: '10485'
 place:
 - city: Gaithersburg
   region:

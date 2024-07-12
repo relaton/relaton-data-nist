@@ -9,10 +9,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.HB.44-1989
   type: doi
+type: standard
 docid:
 - id: NBS HB 44-1989
   type: NIST
@@ -34,9 +35,7 @@ contributor:
   - type: publisher
 - organization:
     name:
-    - content: |-
-        National Bureau of Standards. National Conference on Weights and
-                        Measures.
+    - content: National Bureau of Standards. National Conference on Weights and Measures.
   role:
   - type: publisher
 - organization:
@@ -60,7 +59,7 @@ series:
 - title:
     content: NBS handbook; NBS HB
     format: text/plain
-  partnumber: 44-1989
+  number: 44-1989
 place:
 - city: Gaithersburg
   region:

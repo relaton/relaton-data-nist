@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTTN2211
 title:
-- content: tool to model Virus Particle Exposure in Residences (ViPER)
+- content: A tool to model Virus Particle Exposure in Residences (ViPER)
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.TN.2211
   type: doi
+type: standard
 docid:
 - id: NIST TN 2211
   type: NIST
@@ -96,7 +97,7 @@ series:
 - title:
     content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  partnumber: '2211'
+  number: '2211'
 place:
 - city: Gaithersburg
   region:

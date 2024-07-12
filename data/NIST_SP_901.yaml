@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTSP901
 title:
-- content: January 17, 1995 Hyogoken-Nanbu (Kobe) earthquake
+- content: The January 17, 1995 Hyogoken-Nanbu (Kobe) earthquake
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.901
   type: doi
+type: standard
 docid:
 - id: NIST SP 901
   type: NIST
@@ -42,7 +43,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: '901'
+  number: '901'
 place:
 - city: Gaithersburg
   region:

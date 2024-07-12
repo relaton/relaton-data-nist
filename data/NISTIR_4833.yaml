@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NISTIR4833
 title:
-- content: sprinkler fire suppression algorithm for the GSA engineering fire assessment
+- content: A sprinkler fire suppression algorithm for the GSA engineering fire assessment
     system
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.4833
   type: doi
+type: standard
 docid:
 - id: NIST IR 4833
   type: NIST
@@ -57,7 +58,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '4833'
+  number: '4833'
 place:
 - city: Gaithersburg
   region:

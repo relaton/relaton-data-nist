@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSRPT9816
 title:
-- content: strain standard for use to 3000 [degrees] F (1650 [degrees] C)
+- content: A strain standard for use to 3000 [degrees] F (1650 [degrees] C)
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.9816
   type: doi
+type: standard
 docid:
 - id: NBS RPT 9816
   type: NIST
@@ -97,7 +98,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '9816'
+  number: '9816'
 place:
 - city: Gaithersburg
   region:

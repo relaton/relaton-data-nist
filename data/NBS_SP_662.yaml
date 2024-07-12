@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSSP662
 title:
-- content: National Bureau of Standards Office of Recycled Materials, 1976-1982
+- content: The National Bureau of Standards Office of Recycled Materials, 1976-1982
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.SP.662
   type: doi
+type: standard
 docid:
 - id: NBS SP 662
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS special publication; NBS special pub; NBS SP
     format: text/plain
-  partnumber: '662'
+  number: '662'
 place:
 - city: Gaithersburg
   region:

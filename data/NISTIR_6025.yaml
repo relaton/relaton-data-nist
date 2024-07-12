@@ -8,10 +8,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.6025
   type: doi
+type: standard
 docid:
 - id: NIST IR 6025
   type: NIST
@@ -24,9 +25,7 @@ date:
 contributor:
 - organization:
     name:
-    - content: |-
-        MEL/ITL Task Group on Metrology for Information Technology
-                        (IT)
+    - content: MEL/ITL Task Group on Metrology for Information Technology (IT)
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/no98028959
@@ -42,9 +41,7 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        MEL/ITL Task Group on Metrology for Information Technology
-                        (IT)
+    - content: MEL/ITL Task Group on Metrology for Information Technology (IT)
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/no98028959
@@ -62,7 +59,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '6025'
+  number: '6025'
 place:
 - city: Gaithersburg
   region:

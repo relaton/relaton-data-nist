@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTSP500-236
 title:
-- content: fourth text REtrieval conference
+- content: The fourth text REtrieval conference
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.500-236
   type: doi
+type: standard
 docid:
 - id: NIST SP 500-236
   type: NIST
@@ -45,7 +46,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 500-236
+  number: 500-236
 place:
 - city: Gaithersburg
   region:

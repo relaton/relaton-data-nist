@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTSP250-36
 title:
-- content: calibration service for current transformers
+- content: A calibration service for current transformers
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.250-36
   type: doi
+type: standard
 docid:
 - id: NIST SP 250-36
   type: NIST
@@ -56,7 +57,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 250-36
+  number: 250-36
 place:
 - city: Gaithersburg
   region:

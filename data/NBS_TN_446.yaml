@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: PRECISE - a multiple precision version of Omnitab
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.446
   type: doi
+type: standard
 docid:
 - id: NBS TN 446
   type: NIST
@@ -50,7 +58,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '446'
+  number: '446'
 place:
 - city: Gaithersburg
   region:

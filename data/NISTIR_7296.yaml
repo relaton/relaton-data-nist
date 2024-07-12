@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: MINEX - performance and interoperability of the INCITS 378 fingerprint
+    template
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.7296
   type: doi
+type: standard
 docid:
 - id: NIST IR 7296
   type: NIST
@@ -112,7 +121,7 @@ series:
       NISTIR; NIST IR; NIST interagency report; NIST internal
                       report
     format: text/plain
-  partnumber: '7296'
+  number: '7296'
 place:
 - city: Gaithersburg
   region:

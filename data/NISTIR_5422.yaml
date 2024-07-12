@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR5422
 title:
-- content: application of the electronic balance in high precision pycnometry
+- content: The application of the electronic balance in high precision pycnometry
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.5422
   type: doi
+type: standard
 docid:
 - id: NIST IR 5422
   type: NIST
@@ -57,7 +58,7 @@ series:
       NISTIR; NIST IR; NIST interagency report; NIST internal
                       report
     format: text/plain
-  partnumber: '5422'
+  number: '5422'
 place:
 - city: Gaithersburg
   region:

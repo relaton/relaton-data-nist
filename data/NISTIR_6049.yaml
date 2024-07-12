@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR6049
 title:
-- content: standardization strategy that matches enterprise operation
+- content: A standardization strategy that matches enterprise operation
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.6049
   type: doi
+type: standard
 docid:
 - id: NIST IR 6049
   type: NIST
@@ -45,7 +46,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '6049'
+  number: '6049'
 place:
 - city: Gaithersburg
   region:

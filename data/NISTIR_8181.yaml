@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: Incident scenarios collection for public safety communications research
+    - framing the context of use
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.8181
   type: doi
+type: standard
 docid:
 - id: NIST IR 8181
   type: NIST
@@ -66,9 +75,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology).
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
     - content: Material Measurement Laboratory.
     identifier:
     - type: uri
@@ -79,7 +87,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '8181'
+  number: '8181'
 place:
 - city: Gaithersburg
   region:

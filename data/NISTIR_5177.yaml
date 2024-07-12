@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR5177
 title:
-- content: ENDF / B-VI neutron cross section measurement standards
+- content: The ENDF / B-VI neutron cross section measurement standards
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.5177
   type: doi
+type: standard
 docid:
 - id: NIST IR 5177
   type: NIST
@@ -89,7 +90,7 @@ series:
       NISTIR; NIST IR; NIST interagency report; NIST internal
                       report
     format: text/plain
-  partnumber: '5177'
+  number: '5177'
 place:
 - city: Gaithersburg
   region:

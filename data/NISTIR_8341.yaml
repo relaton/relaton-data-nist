@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NISTIR8341
 title:
-- content: self-audit of the NIST Public Data Repository using the CoreTrustSeal trustworthy
-    data repositories requirements
+- content: A self-audit of the NIST Public Data Repository using the CoreTrustSeal
+    trustworthy data repositories requirements
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.8341
   type: doi
+type: standard
 docid:
 - id: NIST IR 8341
   type: NIST
@@ -60,7 +61,7 @@ series:
       NISTIR; NIST IR; NIST interagency report; NIST internal
                       report
     format: text/plain
-  partnumber: '8341'
+  number: '8341'
 place:
 - city: Gaithersburg
   region:

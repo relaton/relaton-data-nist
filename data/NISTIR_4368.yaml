@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR4368
 title:
-- content: need for research in electronics assembly technology
+- content: The need for research in electronics assembly technology
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.4368
   type: doi
+type: standard
 docid:
 - id: NIST IR 4368
   type: NIST
@@ -45,7 +46,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '4368'
+  number: '4368'
 place:
 - city: Gaithersburg
   region:

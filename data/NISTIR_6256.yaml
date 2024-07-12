@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR6256
 title:
-- content: OOF Manual
+- content: The OOF Manual
   language:
   - en
   script:
@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The OOF Manual - version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.6256
   type: doi
+type: standard
 docid:
 - id: NIST IR 6256
   type: NIST
@@ -71,7 +79,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '6256'
+  number: '6256'
 place:
 - city: Gaithersburg
   region:

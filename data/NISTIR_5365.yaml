@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR5365
 title:
-- content: bibliography on apparel sizing and related issues
+- content: A bibliography on apparel sizing and related issues
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.5365
   type: doi
+type: standard
 docid:
 - id: NIST IR 5365
   type: NIST
@@ -41,7 +42,7 @@ series:
       NISTIR; NIST IR; NIST interagency report; NIST internal
                       report
     format: text/plain
-  partnumber: '5365'
+  number: '5365'
 place:
 - city: Gaithersburg
   region:

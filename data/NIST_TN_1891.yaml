@@ -2,16 +2,18 @@
 schema-version: v1.2.9
 id: NISTTN1891
 title:
-- content: self-learning algorithm for temperature prediciton in a single family residence
+- content: A self-learning algorithm for temperature prediciton in a single family
+    residence
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.TN.1891
   type: doi
+type: standard
 docid:
 - id: NIST TN 1891
   type: NIST
@@ -58,7 +60,7 @@ series:
 - title:
     content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  partnumber: '1891'
+  number: '1891'
 place:
 - city: Gaithersburg
   region:

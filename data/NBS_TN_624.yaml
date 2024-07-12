@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSTN624
 title:
-- content: evaluation of several cryogenic turbine flowmeters
+- content: An evaluation of several cryogenic turbine flowmeters
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.624
   type: doi
+type: standard
 docid:
 - id: NBS TN 624
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '624'
+  number: '624'
 place:
 - city: Gaithersburg
   region:

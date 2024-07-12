@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR5472
 title:
-- content: head start on assurance
+- content: A head start on assurance
   language:
   - en
   script:
@@ -18,9 +18,19 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: A head start on assurance - proceedings of an invitational workshop on
+    Information Technology (IT) Assurance and Trustworthiness, March 21-23, 1994,
+    George Washington Inn, Williamsburg, Virginia
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.5472
   type: doi
+type: standard
 docid:
 - id: NIST IR 5472
   type: NIST
@@ -58,7 +68,7 @@ series:
       NISTIR; NIST IR; NIST interagency report; NIST internal
                       report
     format: text/plain
-  partnumber: '5472'
+  number: '5472'
 place:
 - city: Gaithersburg
   region:

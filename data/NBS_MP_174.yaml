@@ -8,10 +8,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.MP.174
   type: doi
+type: standard
 docid:
 - id: NBS MP 174
   type: NIST
@@ -24,16 +25,14 @@ date:
 contributor:
 - organization:
     name:
-    - content: |-
-        Sectional Committee on Building Code Requirements and Good Practice
-                        Recommendations for Masonry-A41.
+    - content: Sectional Committee on Building Code Requirements and Good Practice
+        Recommendations for Masonry-A41.
   role:
   - type: publisher
 - organization:
     name:
-    - content: |-
-        Sectional Committee on Building Code Requirements and Good Practice
-                        Recommendations for Masonry-A41.
+    - content: Sectional Committee on Building Code Requirements and Good Practice
+        Recommendations for Masonry-A41.
   role:
   - type: publisher
 - organization:
@@ -49,7 +48,7 @@ series:
 - title:
     content: NBS miscellaneous publication; NBS miscellaneous pub; NBS MP
     format: text/plain
-  partnumber: '174'
+  number: '174'
 place:
 - city: Gaithersburg
   region:

@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTSP1214
 title:
-- content: Economic Decision Guide Software (EDGeS) tool
+- content: The Economic Decision Guide Software (EDGeS) tool
   language:
   - en
   script:
@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The Economic Decision Guide Software (EDGeS) tool - user guidance
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.1214
   type: doi
+type: standard
 docid:
 - id: NIST SP 1214
   type: NIST
@@ -46,7 +54,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: '1214'
+  number: '1214'
 place:
 - city: Gaithersburg
   region:

@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSTN347
 title:
-- content: standard for accurate phase-angle measurements at audio frequencies
+- content: A standard for accurate phase-angle measurements at audio frequencies
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.347
   type: doi
+type: standard
 docid:
 - id: NBS TN 347
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '347'
+  number: '347'
 place:
 - city: Gaithersburg
   region:

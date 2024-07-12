@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR4910
 title:
-- content: measurement of the dielectric constant of polymeric films at high fields
+- content: The measurement of the dielectric constant of polymeric films at high fields
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.4910
   type: doi
+type: standard
 docid:
 - id: NIST IR 4910
   type: NIST
@@ -56,7 +57,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '4910'
+  number: '4910'
 place:
 - city: Gaithersburg
   region:

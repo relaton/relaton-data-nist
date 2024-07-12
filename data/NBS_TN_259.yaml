@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NBSTN259
 title:
-- content: FORTRAN program for determining an empirical expression or a quantity measured
-    at combinations of several levels of each of two variables
+- content: A FORTRAN program for determining an empirical expression or a quantity
+    measured at combinations of several levels of each of two variables
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.259
   type: doi
+type: standard
 docid:
 - id: NBS TN 259
   type: NIST
@@ -47,7 +48,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '259'
+  number: '259'
 place:
 - city: Gaithersburg
   region:

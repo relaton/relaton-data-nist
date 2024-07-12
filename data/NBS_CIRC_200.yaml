@@ -17,9 +17,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: Circular of the Bureau of Standards no. 200 - United States government
+    master specification for heavy rust-preventative compound
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.CIRC.200
   type: doi
+type: standard
 docid:
 - id: NBS CIRC 200
   type: NIST
@@ -60,7 +69,7 @@ series:
 - title:
     content: National Bureau of Standards circular
     format: text/plain
-  partnumber: '200'
+  number: '200'
 place:
 - city: Gaithersburg
   region:

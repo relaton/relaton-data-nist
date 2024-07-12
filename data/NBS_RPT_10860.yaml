@@ -2,8 +2,8 @@
 schema-version: v1.2.9
 id: NBSRPT10860
 title:
-- content: enthalpies of hydrolysis of arsenious oxide and arsenic trichloride in
-    1N-sodium hydroxide
+- content: The enthalpies of hydrolysis of arsenious oxide and arsenic trichloride
+    in 1N-sodium hydroxide
   language:
   - en
   script:
@@ -17,9 +17,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The enthalpies of hydrolysis of arsenious oxide and arsenic trichloride
+    in 1N-sodium hydroxide - the enthalpy of formation of arsenic trichloride
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.10860
   type: doi
+type: standard
 docid:
 - id: NBS RPT 10860
   type: NIST
@@ -70,7 +79,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '10860'
+  number: '10860'
 place:
 - city: Gaithersburg
   region:

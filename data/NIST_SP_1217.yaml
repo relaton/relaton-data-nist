@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTSP1217
 title:
-- content: 'workshop report on "electron microscopy frontiers: challenges and opportunities"'
+- content: 'A workshop report on "electron microscopy frontiers: challenges and opportunities"'
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.1217
   type: doi
+type: standard
 docid:
 - id: NIST SP 1217
   type: NIST
@@ -97,7 +98,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: '1217'
+  number: '1217'
 place:
 - city: Gaithersburg
   region:

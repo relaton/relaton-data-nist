@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSTN858
 title:
-- content: program for the survey of fire loads and live loads in office buildings
+- content: A program for the survey of fire loads and live loads in office buildings
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.858
   type: doi
+type: standard
 docid:
 - id: NBS TN 858
   type: NIST
@@ -57,7 +58,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '858'
+  number: '858'
 place:
 - city: Gaithersburg
   region:

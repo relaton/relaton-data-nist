@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR7968
 title:
-- content: spectral analytic method for fingerprint image sample rate estimation
+- content: A spectral analytic method for fingerprint image sample rate estimation
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.7968
   type: doi
+type: standard
 docid:
 - id: NIST IR 7968
   type: NIST
@@ -68,9 +69,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology)
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/no97056762
@@ -80,7 +80,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '7968'
+  number: '7968'
 place:
 - city: Gaithersburg
   region:

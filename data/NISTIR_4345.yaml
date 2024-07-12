@@ -2,8 +2,8 @@
 schema-version: v1.2.9
 id: NISTIR4345
 title:
-- content: Consolidated Compartment Fire Model (CCFM) computer code application CCFM.
-    VENTS - part IV
+- content: The Consolidated Compartment Fire Model (CCFM) computer code application
+    CCFM. VENTS - part IV
   language:
   - en
   script:
@@ -17,9 +17,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The Consolidated Compartment Fire Model (CCFM) computer code application
+    CCFM. VENTS - part IV - user reference guide
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.4345
   type: doi
+type: standard
 docid:
 - id: NIST IR 4345
   type: NIST
@@ -75,7 +84,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '4345'
+  number: '4345'
 place:
 - city: Gaithersburg
   region:

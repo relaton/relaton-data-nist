@@ -8,10 +8,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.1226
   type: doi
+type: standard
 docid:
 - id: NIST SP 1226
   type: NIST
@@ -79,9 +80,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Physical Measurement Laboratory (National Institute of Standards and
-                        Technology (U.S.))
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.))
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/no2019028800
@@ -107,7 +107,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: '1226'
+  number: '1226'
 place:
 - city: Gaithersburg
   region:

@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTSP980
 title:
-- content: Partnership for advanced measurement standards
+- content: A Partnership for advanced measurement standards
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.980
   type: doi
+type: standard
 docid:
 - id: NIST SP 980
   type: NIST
@@ -56,7 +57,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: '980'
+  number: '980'
 place:
 - city: Gaithersburg
   region:

@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR6482
 title:
-- content: prototype model for simulating barrier fire performance
+- content: A prototype model for simulating barrier fire performance
   language:
   - en
   script:
@@ -17,9 +17,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: A prototype model for simulating barrier fire performance - CFAST.GYPST
+    - for evaluating the thermal response of gypsum-panel/steel-stud wall systems
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.6482
   type: doi
+type: standard
 docid:
 - id: NIST IR 6482
   type: NIST
@@ -64,7 +73,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '6482'
+  number: '6482'
 place:
 - city: Gaithersburg
   region:

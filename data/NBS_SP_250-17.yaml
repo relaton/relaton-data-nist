@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSSP250-17
 title:
-- content: NBS photodetector spectral response calibration transfer program
+- content: The NBS photodetector spectral response calibration transfer program
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.SP.250-17
   type: doi
+type: standard
 docid:
 - id: NBS SP 250-17
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS special publication; NBS special pub; NBS SP
     format: text/plain
-  partnumber: 250-17
+  number: 250-17
 place:
 - city: Gaithersburg
   region:

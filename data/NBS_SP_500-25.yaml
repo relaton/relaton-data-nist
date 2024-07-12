@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NBSSP500-25
 title:
-- content: analysis of computer security safeguards for detecting and preventing intentional
-    computer misuse
+- content: An analysis of computer security safeguards for detecting and preventing
+    intentional computer misuse
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.SP.500-25
   type: doi
+type: standard
 docid:
 - id: NBS SP 500-25
   type: NIST
@@ -69,7 +70,7 @@ series:
 - title:
     content: NBS special publication; NBS special pub; NBS SP
     format: text/plain
-  partnumber: 500-25
+  number: 500-25
 place:
 - city: Gaithersburg
   region:

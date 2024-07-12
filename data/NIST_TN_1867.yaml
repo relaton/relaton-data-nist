@@ -8,10 +8,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.TN.1867
   type: doi
+type: standard
 docid:
 - id: NIST TN 1867
   type: NIST
@@ -109,9 +110,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Physical Measurement Laboratory (National Institute of Standards and
-                        Technology (U.S.)).
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.)).
     - content: Time and Frequency Division.
     identifier:
     - type: uri
@@ -122,7 +122,7 @@ series:
 - title:
     content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  partnumber: '1867'
+  number: '1867'
 place:
 - city: Gaithersburg
   region:

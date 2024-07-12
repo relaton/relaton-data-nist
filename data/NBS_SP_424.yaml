@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NBSSP424
 title:
-- content: contribution to computer typesetting techniques
+- content: A contribution to computer typesetting techniques
   language:
   - en
   script:
@@ -17,9 +17,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: A contribution to computer typesetting techniques - tables of coordinates
+    for Hershey's repertory of occidental type fonts and graphic symbols
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.SP.424
   type: doi
+type: standard
 docid:
 - id: NBS SP 424
   type: NIST
@@ -62,7 +71,7 @@ series:
 - title:
     content: NBS special publication; NBS special pub; NBS SP
     format: text/plain
-  partnumber: '424'
+  number: '424'
 place:
 - city: Gaithersburg
   region:

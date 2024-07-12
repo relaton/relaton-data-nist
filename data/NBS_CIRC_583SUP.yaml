@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: Supplement to National Bureau of Standards Circular no. 583 - x-ray attenuation
+    coefficients from 10 kev to 100Mev
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.CIRC.583sup
   type: doi
+type: standard
 docid:
 - id: NBS CIRC 583sup
   type: NIST
@@ -61,7 +70,7 @@ series:
 - title:
     content: National Bureau of Standards circular
     format: text/plain
-  partnumber: 583sup
+  number: 583sup
 place:
 - city: Gaithersburg
   region:

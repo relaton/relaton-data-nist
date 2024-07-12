@@ -8,10 +8,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.FIPS.201-2
   type: doi
+type: standard
 docid:
 - id: NIST FIPS 201-2
   type: NIST
@@ -30,9 +31,7 @@ contributor:
 - organization:
     name:
     - content: National Institute of Standards and Technology (U.S.).
-    - content: |-
-        Computer Security Division, Information Technology
-                        Laboratory.
+    - content: Computer Security Division, Information Technology Laboratory.
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/n88112126
@@ -42,7 +41,7 @@ series:
 - title:
     content: Federal information processing standards publication; FIPS
     format: text/plain
-  partnumber: 201-2
+  number: 201-2
 place:
 - city: Gaithersburg
   region:

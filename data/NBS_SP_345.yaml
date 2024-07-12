@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NBSSP345
 title:
-- content: Metric America
+- content: A Metric America
   language:
   - en
   script:
@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: A Metric America - a decision whose time has come
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.SP.345
   type: doi
+type: standard
 docid:
 - id: NBS SP 345
   type: NIST
@@ -53,7 +61,7 @@ series:
 - title:
     content: NBS special publication; NBS special pub; NBS SP
     format: text/plain
-  partnumber: '345'
+  number: '345'
 place:
 - city: Gaithersburg
   region:

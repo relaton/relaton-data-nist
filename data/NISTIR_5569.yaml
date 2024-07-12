@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR5569
 title:
-- content: MasPar MP-1 as a computer arithmetic laboratory
+- content: The MasPar MP-1 as a computer arithmetic laboratory
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.5569
   type: doi
+type: standard
 docid:
 - id: NIST IR 5569
   type: NIST
@@ -61,7 +62,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '5569'
+  number: '5569'
 place:
 - city: Gaithersburg
   region:

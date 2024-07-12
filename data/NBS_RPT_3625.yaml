@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSRPT3625
 title:
-- content: problem in self-heating of a spherical body
+- content: A problem in self-heating of a spherical body
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.3625
   type: doi
+type: standard
 docid:
 - id: NBS RPT 3625
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '3625'
+  number: '3625'
 place:
 - city: Gaithersburg
   region:

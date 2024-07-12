@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NBSRPT9879
 title:
-- content: evaluation of a gallium-palladium-tin alloy for restorative dentistry
+- content: An evaluation of a gallium-palladium-tin alloy for restorative dentistry
   language:
   - en
   script:
@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: An evaluation of a gallium-palladium-tin alloy for restorative dentistry
+    - progress report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.9879
   type: doi
+type: standard
 docid:
 - id: NBS RPT 9879
   type: NIST
@@ -53,7 +62,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '9879'
+  number: '9879'
 place:
 - city: Gaithersburg
   region:

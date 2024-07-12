@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NISTIR7052
 title:
-- content: NIST 3 megawatt quantitative heat release rate facility - description and
-    procedures
+- content: The NIST 3 megawatt quantitative heat release rate facility - description
+    and procedures
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.7052
   type: doi
+type: standard
 docid:
 - id: NIST IR 7052
   type: NIST
@@ -123,7 +124,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '7052'
+  number: '7052'
 place:
 - city: Gaithersburg
   region:

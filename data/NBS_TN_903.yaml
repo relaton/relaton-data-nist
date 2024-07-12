@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSTN903
 title:
-- content: NIRA computer program package (photonuclear data center)
+- content: The NIRA computer program package (photonuclear data center)
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.903
   type: doi
+type: standard
 docid:
 - id: NBS TN 903
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '903'
+  number: '903'
 place:
 - city: Gaithersburg
   region:

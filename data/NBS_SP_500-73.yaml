@@ -8,10 +8,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.SP.500-73
   type: doi
+type: standard
 docid:
 - id: NBS SP 500-73
   type: NIST
@@ -24,9 +25,7 @@ date:
 contributor:
 - organization:
     name:
-    - content: |-
-        Federal Computer Performance Evaluation and Simulation Center
-                        (U.S.)
+    - content: Federal Computer Performance Evaluation and Simulation Center (U.S.)
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/n80045406
@@ -34,9 +33,7 @@ contributor:
   - type: publisher
 - organization:
     name:
-    - content: |-
-        Federal Computer Performance Evaluation and Simulation Center
-                        (U.S.)
+    - content: Federal Computer Performance Evaluation and Simulation Center (U.S.)
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/n80045406
@@ -55,7 +52,7 @@ series:
 - title:
     content: NBS special publication; NBS special pub; NBS SP
     format: text/plain
-  partnumber: 500-73
+  number: 500-73
 place:
 - city: Gaithersburg
   region:

@@ -2,8 +2,8 @@
 schema-version: v1.2.9
 id: NISTIR4342
 title:
-- content: Consolidated Compartment Fire Model (CCFM) computer code application CCFM.
-    VENTS - part I
+- content: The Consolidated Compartment Fire Model (CCFM) computer code application
+    CCFM. VENTS - part I
   language:
   - en
   script:
@@ -17,9 +17,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The Consolidated Compartment Fire Model (CCFM) computer code application
+    CCFM. VENTS - part I - physical basis
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.4342
   type: doi
+type: standard
 docid:
 - id: NIST IR 4342
   type: NIST
@@ -64,7 +73,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '4342'
+  number: '4342'
 place:
 - city: Gaithersburg
   region:

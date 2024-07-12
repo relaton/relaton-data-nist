@@ -9,10 +9,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.HB.44-2019
   type: doi
+type: standard
 docid:
 - id: NIST HB 44-2019
   type: NIST
@@ -77,9 +78,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Physical Measurement Laboratory (National Institute of Standards and
-                        Technology (U.S.))
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.))
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/no2019028800
@@ -103,7 +103,7 @@ series:
 - title:
     content: NIST handbook; NIST HB
     format: text/plain
-  partnumber: 44-2019
+  number: 44-2019
 place:
 - city: Gaithersburg
   region:

@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NBSTN1052
 title:
-- content: accuracy statement for a facility used to calibrate static pressure transducers
-    and differential pressure transducers at high base pressure
+- content: An accuracy statement for a facility used to calibrate static pressure
+    transducers and differential pressure transducers at high base pressure
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.1052
   type: doi
+type: standard
 docid:
 - id: NBS TN 1052
   type: NIST
@@ -47,7 +48,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '1052'
+  number: '1052'
 place:
 - city: Gaithersburg
   region:

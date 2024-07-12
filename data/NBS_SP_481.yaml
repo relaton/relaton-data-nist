@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSSP481
 title:
-- content: gallium melting-point standard
+- content: The gallium melting-point standard
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.SP.481
   type: doi
+type: standard
 docid:
 - id: NBS SP 481
   type: NIST
@@ -57,7 +58,7 @@ series:
 - title:
     content: NBS special publication; NBS special pub; NBS SP
     format: text/plain
-  partnumber: '481'
+  number: '481'
 place:
 - city: Gaithersburg
   region:

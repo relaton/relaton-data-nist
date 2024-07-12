@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR5916
 title:
-- content: proposed software test service for special functions
+- content: A proposed software test service for special functions
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.5916
   type: doi
+type: standard
 docid:
 - id: NIST IR 5916
   type: NIST
@@ -45,7 +46,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '5916'
+  number: '5916'
 place:
 - city: Gaithersburg
   region:

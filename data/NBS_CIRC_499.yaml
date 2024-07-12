@@ -17,9 +17,19 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: Circular of the Bureau of Standards no. 499 - nuclear data- a collection
+    of experimental values of half-lives, radiation energies, relative isotopic abundances,
+    nuclear moments, and cross sections
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.CIRC.499
   type: doi
+type: standard
 docid:
 - id: NBS CIRC 499
   type: NIST
@@ -86,7 +96,7 @@ series:
 - title:
     content: National Bureau of Standards circular
     format: text/plain
-  partnumber: '499'
+  number: '499'
 place:
 - city: Gaithersburg
   region:

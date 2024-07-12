@@ -8,10 +8,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.2200-03
   type: doi
+type: standard
 docid:
 - id: NIST SP 2200-03
   type: NIST
@@ -47,9 +48,7 @@ contributor:
 - organization:
     name:
     - content: National Institute of Standards and Technology (U.S.)
-    - content: |-
-        Physical Measurement Laboratory; Material Measurement
-                        Laboratory.
+    - content: Physical Measurement Laboratory; Material Measurement Laboratory.
   role:
   - type: publisher
 abstract:
@@ -89,11 +88,11 @@ series:
 - title:
     content: NIST special publication
     format: text/plain
-  partnumber: 2200-03
+  number: 2200-03
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 2200-03
+  number: 2200-03
 place:
 - city: Gaithersburg
   region:

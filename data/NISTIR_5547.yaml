@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR5547
 title:
-- content: algorithm to describe the spread of a wall fire under a ceiling
+- content: An algorithm to describe the spread of a wall fire under a ceiling
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.5547
   type: doi
+type: standard
 docid:
 - id: NIST IR 5547
   type: NIST
@@ -41,7 +42,7 @@ series:
       NISTIR; NIST IR; NIST interagency report; NIST internal
                       report
     format: text/plain
-  partnumber: '5547'
+  number: '5547'
 place:
 - city: Gaithersburg
   region:

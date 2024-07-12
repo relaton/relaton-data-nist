@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSRPT2545
 title:
-- content: property of the normal distribution related to a theorem of S. Bernstein
+- content: A property of the normal distribution related to a theorem of S. Bernstein
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.2545
   type: doi
+type: standard
 docid:
 - id: NBS RPT 2545
   type: NIST
@@ -54,7 +55,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '2545'
+  number: '2545'
 place:
 - city: Gaithersburg
   region:

@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSTN344
 title:
-- content: sensitive recording NMR ultrasonic spectrometer
+- content: A sensitive recording NMR ultrasonic spectrometer
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.344
   type: doi
+type: standard
 docid:
 - id: NBS TN 344
   type: NIST
@@ -43,7 +44,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '344'
+  number: '344'
 place:
 - city: Gaithersburg
   region:

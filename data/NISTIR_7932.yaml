@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NISTIR7932
 title:
-- content: use of 'slow motion' Levy stable fractional diffusion smoothing In alternative
-    methods of latent fingerprint enhancement
+- content: The use of 'slow motion' Levy stable fractional diffusion smoothing In
+    alternative methods of latent fingerprint enhancement
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.7932
   type: doi
+type: standard
 docid:
 - id: NIST IR 7932
   type: NIST
@@ -37,9 +38,8 @@ contributor:
 - organization:
     name:
     - content: National Institute of Standards and Technology (U.S.).
-    - content: |-
-        Applied and Computational Mathematics Division, Information
-                        Technology Laboratory.
+    - content: Applied and Computational Mathematics Division, Information Technology
+        Laboratory.
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/n88112126
@@ -49,7 +49,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '7932'
+  number: '7932'
 place:
 - city: Gaithersburg
   region:

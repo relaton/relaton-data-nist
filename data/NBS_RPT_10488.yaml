@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSRPT10488
 title:
-- content: computer model for simulating the response activities for a fire department
+- content: A computer model for simulating the response activities for a fire department
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.10488
   type: doi
+type: standard
 docid:
 - id: NBS RPT 10488
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '10488'
+  number: '10488'
 place:
 - city: Gaithersburg
   region:

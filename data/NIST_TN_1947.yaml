@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NISTTN1947
 title:
-- content: study on the performance of current smoke alarms to the new fire and nuisance
-    tests prescribed in ANSI/UL 217-2015
+- content: A study on the performance of current smoke alarms to the new fire and
+    nuisance tests prescribed in ANSI/UL 217-2015
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.TN.1947
   type: doi
+type: standard
 docid:
 - id: NIST TN 1947
   type: NIST
@@ -93,7 +94,7 @@ series:
 - title:
     content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  partnumber: '1947'
+  number: '1947'
 place:
 - city: Gaithersburg
   region:

@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: NIST time and frequency bulletin - September 2020
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.8296-09
   type: doi
+type: standard
 docid:
 - id: NIST IR 8296-09
   type: NIST
@@ -39,9 +47,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Physical Measurement Laboratory (National Institute of Standards and
-                        Technology (U.S.))
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.))
   role:
   - type: publisher
 series:
@@ -50,7 +57,7 @@ series:
       NISTIR; NIST IR; NIST interagency report; NIST internal
                       report
     format: text/plain
-  partnumber: 8296-09
+  number: 8296-09
 place:
 - city: Gaithersburg
   region:

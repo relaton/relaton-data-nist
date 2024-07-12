@@ -17,9 +17,19 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: Documentation for Reference Material (RM) 8820 - a versatile, multipurpose
+    dimensional metrology calibration standard for scanned particle beam, scanned
+    probe, and optical microscopy
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.1170
   type: doi
+type: standard
 docid:
 - id: NIST SP 1170
   type: NIST
@@ -73,9 +83,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Physical Measurement Laboratory (National Institute of Standards and
-                        Technology (U.S.))
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.))
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/no2019028800
@@ -85,7 +94,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: '1170'
+  number: '1170'
 place:
 - city: Gaithersburg
   region:

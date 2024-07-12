@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSTN930
 title:
-- content: measurement assurance program for electric energy
+- content: A measurement assurance program for electric energy
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.930
   type: doi
+type: standard
 docid:
 - id: NBS TN 930
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '930'
+  number: '930'
 place:
 - city: Gaithersburg
   region:

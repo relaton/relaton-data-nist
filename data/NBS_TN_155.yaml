@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSTN155
 title:
-- content: energy parameter B for strong blast waves
+- content: The energy parameter B for strong blast waves
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.155
   type: doi
+type: standard
 docid:
 - id: NBS TN 155
   type: NIST
@@ -43,7 +44,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '155'
+  number: '155'
 place:
 - city: Gaithersburg
   region:

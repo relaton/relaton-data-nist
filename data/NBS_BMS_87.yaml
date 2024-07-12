@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSBMS87
 title:
-- content: method for developing specifications for building construction
+- content: A method for developing specifications for building construction
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.BMS.87
   type: doi
+type: standard
 docid:
 - id: NBS BMS 87
   type: NIST
@@ -24,18 +25,16 @@ date:
 contributor:
 - organization:
     name:
-    - content: |-
-        Subcommittee on Specifications of the Central Housing Committee on
-                        Research, Design, and Construction.
+    - content: Subcommittee on Specifications of the Central Housing Committee on
+        Research, Design, and Construction.
   role:
   - type: publisher
 - organization:
     name:
     - content: United States.
     - content: National Bureau of Standards.
-    - content: |-
-        Subcommittee on Specifications of the Central Housing Committee on
-                        Research, Design, and Construction.
+    - content: Subcommittee on Specifications of the Central Housing Committee on
+        Research, Design, and Construction.
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/n79021148
@@ -54,7 +53,7 @@ series:
 - title:
     content: NBS building materials and structures report; NBS BMS
     format: text/plain
-  partnumber: '87'
+  number: '87'
 place:
 - city: Gaithersburg
   region:

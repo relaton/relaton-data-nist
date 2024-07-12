@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTSP868
 title:
-- content: information Infrastructure
+- content: The information Infrastructure
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.868
   type: doi
+type: standard
 docid:
 - id: NIST SP 868
   type: NIST
@@ -42,7 +43,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: '868'
+  number: '868'
 place:
 - city: Gaithersburg
   region:

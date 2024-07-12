@@ -8,10 +8,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.1253
   type: doi
+type: standard
 docid:
 - id: NIST SP 1253
   type: NIST
@@ -72,9 +73,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Physical Measurement Laboratory (National Institute of Standards and
-                        Technology (U.S.))
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.))
   role:
   - type: publisher
 abstract:
@@ -97,7 +97,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: '1253'
+  number: '1253'
 place:
 - city: Gaithersburg
   region:

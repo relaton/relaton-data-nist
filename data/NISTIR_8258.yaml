@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR8258
 title:
-- content: unit manufacturing process (UMP) builder
+- content: The unit manufacturing process (UMP) builder
   language:
   - en
   script:
@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The unit manufacturing process (UMP) builder - user's guide
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.8258
   type: doi
+type: standard
 docid:
 - id: NIST IR 8258
   type: NIST
@@ -84,7 +92,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '8258'
+  number: '8258'
 place:
 - city: Gaithersburg
   region:

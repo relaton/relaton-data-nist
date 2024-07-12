@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR7046
 title:
-- content: framework for multi-mode authentication
+- content: A framework for multi-mode authentication
   language:
   - en
   script:
@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: A framework for multi-mode authentication - overview and implementation
+    guide
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.7046
   type: doi
+type: standard
 docid:
 - id: NIST IR 7046
   type: NIST
@@ -80,7 +89,7 @@ series:
       NISTIR; NIST IR; NIST interagency report; NIST internal
                       report
     format: text/plain
-  partnumber: '7046'
+  number: '7046'
 place:
 - city: Gaithersburg
   region:

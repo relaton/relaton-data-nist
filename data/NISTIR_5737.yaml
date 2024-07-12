@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR5737
 title:
-- content: method to determine a basis set of paths to perform program testing
+- content: A method to determine a basis set of paths to perform program testing
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.5737
   type: doi
+type: standard
 docid:
 - id: NIST IR 5737
   type: NIST
@@ -42,7 +43,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '5737'
+  number: '5737'
 place:
 - city: Gaithersburg
   region:

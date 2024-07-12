@@ -8,10 +8,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.BSS.22
   type: doi
+type: standard
 docid:
 - id: NBS BSS 22
   type: NIST
@@ -24,18 +25,14 @@ date:
 contributor:
 - organization:
     name:
-    - content: |-
-        Building Research Division, Institute for Applied Technology,
-                        NBS.
+    - content: Building Research Division, Institute for Applied Technology, NBS.
   role:
   - type: publisher
 - organization:
     name:
     - content: United States.
     - content: National Bureau of Standards.
-    - content: |-
-        Building Research Division, Institute for Applied
-                        Technology.
+    - content: Building Research Division, Institute for Applied Technology.
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/n79021148
@@ -54,7 +51,7 @@ series:
 - title:
     content: NBS building science series; NBS building science; NBS BSS
     format: text/plain
-  partnumber: '22'
+  number: '22'
 place:
 - city: Gaithersburg
   region:

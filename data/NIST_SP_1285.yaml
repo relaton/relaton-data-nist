@@ -8,10 +8,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.1285
   type: doi
+type: standard
 docid:
 - id: NIST SP 1285
   type: NIST
@@ -24,9 +25,7 @@ date:
 contributor:
 - organization:
     name:
-    - content: |-
-        Resources, Access, and Data Team, Information Services
-                        Office.
+    - content: Resources, Access, and Data Team, Information Services Office.
   role:
   - type: publisher
 - person:
@@ -58,7 +57,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: '1285'
+  number: '1285'
 place:
 - city: Gaithersburg
   region:

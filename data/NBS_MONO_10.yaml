@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NBSMONO10
 title:
-- content: 1958 He¹? scale of temperatures
+- content: The 1958 He¹? scale of temperatures
   language:
   - en
   script:
@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The 1958 He¹? scale of temperatures - part 1. introduction part 2. tables
+    for the 1958 temperature scale
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.MONO.10
   type: doi
+type: standard
 docid:
 - id: NBS MONO 10
   type: NIST
@@ -88,7 +97,7 @@ series:
 - title:
     content: NBS monograph; NBS MONO
     format: text/plain
-  partnumber: '10'
+  number: '10'
 place:
 - city: Gaithersburg
   region:

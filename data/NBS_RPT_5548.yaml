@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSRPT5548
 title:
-- content: precision frequency standard for x-band
+- content: A precision frequency standard for x-band
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.5548
   type: doi
+type: standard
 docid:
 - id: NBS RPT 5548
   type: NIST
@@ -78,7 +79,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '5548'
+  number: '5548'
 place:
 - city: Gaithersburg
   region:

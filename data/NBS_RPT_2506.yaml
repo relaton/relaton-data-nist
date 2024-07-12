@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSRPT2506
 title:
-- content: study of two 3/4 HP Sterling air conditioners
+- content: A study of two 3/4 HP Sterling air conditioners
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.2506
   type: doi
+type: standard
 docid:
 - id: NBS RPT 2506
   type: NIST
@@ -65,7 +66,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '2506'
+  number: '2506'
 place:
 - city: Gaithersburg
   region:

@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NBSTN350
 title:
-- content: viscosity and thermal conductivity coefficients of dilute nitrogen and
-    oxygen
+- content: The viscosity and thermal conductivity coefficients of dilute nitrogen
+    and oxygen
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.350
   type: doi
+type: standard
 docid:
 - id: NBS TN 350
   type: NIST
@@ -47,7 +48,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '350'
+  number: '350'
 place:
 - city: Gaithersburg
   region:

@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NBSRPT1600
 title:
-- content: reliability of measured values
+- content: The reliability of measured values
   language:
   - en
   script:
@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The reliability of measured values - fundamental concepts
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.1600
   type: doi
+type: standard
 docid:
 - id: NBS RPT 1600
   type: NIST
@@ -53,7 +61,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '1600'
+  number: '1600'
 place:
 - city: Gaithersburg
   region:

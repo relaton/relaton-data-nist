@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR4316
 title:
-- content: collection of technical studies completed for the Computer-aided Acquisition
+- content: A collection of technical studies completed for the Computer-aided Acquisition
     and Logistic Support (CALS) program
   language:
   - en
@@ -17,9 +17,19 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: A collection of technical studies completed for the Computer-aided Acquisition
+    and Logistic Support (CALS) program - fiscal year 1988 volume 2 of 3, graphics,
+    CGM MIL SPEC
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.4316
   type: doi
+type: standard
 docid:
 - id: NIST IR 4316
   type: NIST
@@ -50,7 +60,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '4316'
+  number: '4316'
 place:
 - city: Gaithersburg
   region:

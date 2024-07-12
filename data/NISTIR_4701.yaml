@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR4701
 title:
-- content: interaction of lighting, heating and cooling systems in buildings
+- content: The interaction of lighting, heating and cooling systems in buildings
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.4701
   type: doi
+type: standard
 docid:
 - id: NIST IR 4701
   type: NIST
@@ -53,7 +54,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '4701'
+  number: '4701'
 place:
 - city: Gaithersburg
   region:

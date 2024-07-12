@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTTN1635
 title:
-- content: case study of a community affected by the witch and guejito fires
+- content: A case study of a community affected by the witch and guejito fires
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.TN.1635
   type: doi
+type: standard
 docid:
 - id: NIST TN 1635
   type: NIST
@@ -56,7 +57,7 @@ series:
 - title:
     content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  partnumber: '1635'
+  number: '1635'
 place:
 - city: Gaithersburg
   region:

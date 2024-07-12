@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSIRPL26
 title:
-- content: ionosphere as a measure of solar activity
+- content: The ionosphere as a measure of solar activity
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.IRPL.26
   type: doi
+type: standard
 docid:
 - id: NBS IRPL 26
   type: NIST
@@ -45,7 +46,7 @@ series:
       NBS Inter-Service Radio Propogation Laboratory Report; NBS IRPL
                       Report
     format: text/plain
-  partnumber: '26'
+  number: '26'
 place:
 - city: Gaithersburg
   region:

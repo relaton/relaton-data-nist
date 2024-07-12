@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSTN318
 title:
-- content: numerical representation of CCIR report 322 high frequency (3-30 MC
+- content: A numerical representation of CCIR report 322 high frequency (3-30 MC
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.318
   type: doi
+type: standard
 docid:
 - id: NBS TN 318
   type: NIST
@@ -43,7 +44,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '318'
+  number: '318'
 place:
 - city: Gaithersburg
   region:

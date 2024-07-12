@@ -8,10 +8,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.TN.2261
   type: doi
+type: standard
 docid:
 - id: NIST TN 2261
   type: NIST
@@ -58,9 +59,7 @@ contributor:
 - organization:
     name:
     - content: National Institute of Standards and Technology (U.S.)
-    - content: |-
-        Engineering Laboratory; Communications Technology
-                        Laboratory.
+    - content: Engineering Laboratory; Communications Technology Laboratory.
   role:
   - type: publisher
 abstract:
@@ -96,7 +95,7 @@ series:
 - title:
     content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  partnumber: '2261'
+  number: '2261'
 place:
 - city: Gaithersburg
   region:

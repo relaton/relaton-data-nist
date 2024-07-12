@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSIRPL9
 title:
-- content: automatic instantaneous indicator of skip distance and muf
+- content: An automatic instantaneous indicator of skip distance and muf
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.IRPL.9
   type: doi
+type: standard
 docid:
 - id: NBS IRPL 9
   type: NIST
@@ -50,7 +51,7 @@ series:
       NBS Inter-Service Radio Propogation Laboratory Report; NBS IRPL
                       Report
     format: text/plain
-  partnumber: '9'
+  number: '9'
 place:
 - city: Gaithersburg
   region:

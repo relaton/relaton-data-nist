@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NBSTN129
 title:
-- content: thermodynamic properties of nitrogen from 64 to 300* K between 0.1 and
-    200 atmospheres
+- content: The thermodynamic properties of nitrogen from 64 to 300* K between 0.1
+    and 200 atmospheres
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.129
   type: doi
+type: standard
 docid:
 - id: NBS TN 129
   type: NIST
@@ -47,7 +48,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '129'
+  number: '129'
 place:
 - city: Gaithersburg
   region:

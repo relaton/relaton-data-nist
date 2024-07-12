@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTSP500-240
 title:
-- content: sixth text Retrieval conference (TREC-6)
+- content: The sixth text Retrieval conference (TREC-6)
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.500-240
   type: doi
+type: standard
 docid:
 - id: NIST SP 500-240
   type: NIST
@@ -56,7 +57,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 500-240
+  number: 500-240
 place:
 - city: Gaithersburg
   region:

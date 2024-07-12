@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSMP173
 title:
-- content: grade terminology problem
+- content: The grade terminology problem
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.MP.173
   type: doi
+type: standard
 docid:
 - id: NBS MP 173
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS miscellaneous publication; NBS miscellaneous pub; NBS MP
     format: text/plain
-  partnumber: '173'
+  number: '173'
 place:
 - city: Gaithersburg
   region:

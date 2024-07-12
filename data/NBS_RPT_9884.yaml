@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSRPT9884
 title:
-- content: compendium of evaluated and estimated rate coefficients
+- content: A compendium of evaluated and estimated rate coefficients
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.9884
   type: doi
+type: standard
 docid:
 - id: NBS RPT 9884
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '9884'
+  number: '9884'
 place:
 - city: Gaithersburg
   region:

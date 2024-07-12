@@ -19,9 +19,20 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: 'Guide to Industrial Control Systems (ICS) security - Supervisory Control
+    and Data Acquisition (SCADA) systems, Distributed Control systems (DCS), and other
+    control system configurations such as Programmable Logic Controllers (PLC) : recommendations
+    of the National Institute of Standards and Technology, Computer security'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.800-82
   type: doi
+type: standard
 docid:
 - id: NIST SP 800-82
   type: NIST
@@ -67,9 +78,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology)
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/no97056762
@@ -79,7 +89,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 800-82
+  number: 800-82
 place:
 - city: Gaithersburg
   region:

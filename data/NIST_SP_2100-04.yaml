@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: Summary - workshop on machine learning for optical communication systems
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.2100-04
   type: doi
+type: standard
 docid:
 - id: NIST SP 2100-04
   type: NIST
@@ -120,9 +128,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology).
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
     - content: Communications Technology Laboratory.
     identifier:
     - type: uri
@@ -153,7 +160,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 2100-04
+  number: 2100-04
 place:
 - city: Gaithersburg
   region:

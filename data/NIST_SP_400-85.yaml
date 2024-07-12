@@ -17,9 +17,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: EPROP - an interactive FORTRAN program for computing selected electronic
+    properties of gallium arsenide and silicon
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.400-85
   type: doi
+type: standard
 docid:
 - id: NIST SP 400-85
   type: NIST
@@ -72,7 +81,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 400-85
+  number: 400-85
 place:
 - city: Gaithersburg
   region:

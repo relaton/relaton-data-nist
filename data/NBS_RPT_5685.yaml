@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NBSRPT5685
 title:
-- content: statistical chain ratio method for determining the distribution of mail
+- content: A statistical chain ratio method for determining the distribution of mail
     by destination
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.5685
   type: doi
+type: standard
 docid:
 - id: NBS RPT 5685
   type: NIST
@@ -40,7 +41,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '5685'
+  number: '5685'
 place:
 - city: Gaithersburg
   region:

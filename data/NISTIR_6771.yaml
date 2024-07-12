@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR6771
 title:
-- content: intelligent systems architecture for manufacturing (ISAM)
+- content: An intelligent systems architecture for manufacturing (ISAM)
   language:
   - en
   script:
@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: An intelligent systems architecture for manufacturing (ISAM) - a reference
+    model architecture for intelligent manufacturing systems
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.6771
   type: doi
+type: standard
 docid:
 - id: NIST IR 6771
   type: NIST
@@ -135,7 +144,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '6771'
+  number: '6771'
 place:
 - city: Gaithersburg
   region:

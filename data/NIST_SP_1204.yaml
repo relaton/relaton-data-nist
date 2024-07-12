@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NISTSP1204
 title:
-- content: assessment of typical weather year data impacts vs. multi-year weather
+- content: An assessment of typical weather year data impacts vs. multi-year weather
     data on net-zero energy building simulations
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.1204
   type: doi
+type: standard
 docid:
 - id: NIST SP 1204
   type: NIST
@@ -56,7 +57,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: '1204'
+  number: '1204'
 place:
 - city: Gaithersburg
   region:

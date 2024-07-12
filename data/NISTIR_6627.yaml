@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: Optoelectronics division - programs, activities, and accomplishments
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.6627
   type: doi
+type: standard
 docid:
 - id: NIST IR 6627
   type: NIST
@@ -31,9 +39,8 @@ date:
 contributor:
 - organization:
     name:
-    - content: |-
-        Electronics and Electrical Engineering Laboratory (National Institute
-                        of Standards and Technology)
+    - content: Electronics and Electrical Engineering Laboratory (National Institute
+        of Standards and Technology)
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/no91025820
@@ -59,7 +66,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '6627'
+  number: '6627'
 place:
 - city: Gaithersburg
   region:

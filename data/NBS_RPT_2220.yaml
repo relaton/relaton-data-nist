@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSRPT2220
 title:
-- content: stability problem for a theorem of Cramer
+- content: The stability problem for a theorem of Cramer
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.2220
   type: doi
+type: standard
 docid:
 - id: NBS RPT 2220
   type: NIST
@@ -43,7 +44,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '2220'
+  number: '2220'
 place:
 - city: Gaithersburg
   region:

@@ -8,10 +8,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.8214A
   type: doi
+type: standard
 docid:
 - id: NIST IR 8214A
   type: NIST
@@ -48,9 +49,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology)
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
   role:
   - type: publisher
 abstract:
@@ -86,7 +86,7 @@ series:
       NISTIR; NIST IR; NIST interagency report; NIST internal
                       report
     format: text/plain
-  partnumber: 8214A
+  number: 8214A
 place:
 - city: Gaithersburg
   region:

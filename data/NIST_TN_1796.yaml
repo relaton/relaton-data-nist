@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTTN1796
 title:
-- content: 'case study of a community affected by the Witch and Guejito fires: report
+- content: 'A case study of a community affected by the Witch and Guejito fires: report
     #2'
   language:
   - en
@@ -17,9 +17,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: 'A case study of a community affected by the Witch and Guejito fires: report
+    #2 - evaluating the effects of hazard mitigation actions on structure ignitions'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.TN.1796
   type: doi
+type: standard
 docid:
 - id: NIST TN 1796
   type: NIST
@@ -85,9 +94,8 @@ contributor:
 - organization:
     name:
     - content: National Institute of Standards and Technology (U.S.).
-    - content: |-
-        Fire Research Division, Statistical Engieering Division, Engineering
-                        Laboratory.
+    - content: Fire Research Division, Statistical Engieering Division, Engineering
+        Laboratory.
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/n88112126
@@ -97,7 +105,7 @@ series:
 - title:
     content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  partnumber: '1796'
+  number: '1796'
 place:
 - city: Gaithersburg
   region:

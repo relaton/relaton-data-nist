@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSRPT1994
 title:
-- content: coefficients of certain infinite products
+- content: The coefficients of certain infinite products
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.1994
   type: doi
+type: standard
 docid:
 - id: NBS RPT 1994
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '1994'
+  number: '1994'
 place:
 - city: Gaithersburg
   region:

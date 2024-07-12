@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSNSRDS5
 title:
-- content: band spectrum of carbon monoxide
+- content: The band spectrum of carbon monoxide
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.NSRDS.5
   type: doi
+type: standard
 docid:
 - id: NBS NSRDS 5
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NIST NSRDS; NSRDS-NIST; National standard reference data series
     format: text/plain
-  partnumber: '5'
+  number: '5'
 place:
 - city: Gaithersburg
   region:

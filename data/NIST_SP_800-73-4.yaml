@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: Interfaces for personal identity verification - part 1 - PIV card application
+    namespace, data model and representation
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.800-73-4
   type: doi
+type: standard
 docid:
 - id: NIST SP 800-73-4
   type: NIST
@@ -97,9 +106,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology).
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
     - content: Computer Security Division.
     identifier:
     - type: uri
@@ -110,7 +118,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 800-73-4
+  number: 800-73-4
 place:
 - city: Gaithersburg
   region:

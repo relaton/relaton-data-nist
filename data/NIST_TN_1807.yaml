@@ -9,10 +9,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.TN.1807
   type: doi
+type: standard
 docid:
 - id: NIST TN 1807
   type: NIST
@@ -64,9 +65,7 @@ contributor:
 - organization:
     name:
     - content: National Institute of Standards and Technology (U.S.).
-    - content: |-
-        Information Technology Laboratory, Material Measurement
-                        Laboratory.
+    - content: Information Technology Laboratory, Material Measurement Laboratory.
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/n88112126
@@ -76,7 +75,7 @@ series:
 - title:
     content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  partnumber: '1807'
+  number: '1807'
 place:
 - city: Gaithersburg
   region:

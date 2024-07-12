@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSIR81-2345
 title:
-- content: report on some thermodynamic data for desulfurization processes
+- content: A report on some thermodynamic data for desulfurization processes
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.IR.81-2345
   type: doi
+type: standard
 docid:
 - id: NBS IR 81-2345
   type: NIST
@@ -73,7 +74,7 @@ series:
 - title:
     content: NBSIR; NBS IR; NBS interagency report; NBS internal report
     format: text/plain
-  partnumber: 81-2345
+  number: 81-2345
 place:
 - city: Gaithersburg
   region:

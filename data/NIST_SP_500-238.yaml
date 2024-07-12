@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTSP500-238
 title:
-- content: fifth text REtrieval conference (TREC-5)
+- content: The fifth text REtrieval conference (TREC-5)
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.500-238
   type: doi
+type: standard
 docid:
 - id: NIST SP 500-238
   type: NIST
@@ -56,7 +57,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 500-238
+  number: 500-238
 place:
 - city: Gaithersburg
   region:

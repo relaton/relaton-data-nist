@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR6809
 title:
-- content: manufacturing collaboratory case study
+- content: A manufacturing collaboratory case study
   language:
   - en
   script:
@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: A manufacturing collaboratory case study - companion document
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.6809
   type: doi
+type: standard
 docid:
 - id: NIST IR 6809
   type: NIST
@@ -68,7 +76,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '6809'
+  number: '6809'
 place:
 - city: Gaithersburg
   region:

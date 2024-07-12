@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSTN1179
 title:
-- content: calibration service for watt meters and watthour meters
+- content: A calibration service for watt meters and watthour meters
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.1179
   type: doi
+type: standard
 docid:
 - id: NBS TN 1179
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '1179'
+  number: '1179'
 place:
 - city: Gaithersburg
   region:

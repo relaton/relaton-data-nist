@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSMP282
 title:
-- content: National Bureau of Standards 1966
+- content: The National Bureau of Standards 1966
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.MP.282
   type: doi
+type: standard
 docid:
 - id: NBS MP 282
   type: NIST
@@ -44,7 +45,7 @@ series:
 - title:
     content: NBS miscellaneous publication; NBS miscellaneous pub; NBS MP
     format: text/plain
-  partnumber: '282'
+  number: '282'
 place:
 - city: Gaithersburg
   region:

@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSSP500-107
 title:
-- content: bibliography of the literature on optical storage technology
+- content: A bibliography of the literature on optical storage technology
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.SP.500-107
   type: doi
+type: standard
 docid:
 - id: NBS SP 500-107
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS special publication; NBS special pub; NBS SP
     format: text/plain
-  partnumber: 500-107
+  number: 500-107
 place:
 - city: Gaithersburg
   region:

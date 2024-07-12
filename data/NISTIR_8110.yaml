@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR8110
 title:
-- content: new frontiers in computational modeling of material structures
+- content: The new frontiers in computational modeling of material structures
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.8110
   type: doi
+type: standard
 docid:
 - id: NIST IR 8110
   type: NIST
@@ -75,7 +76,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '8110'
+  number: '8110'
 place:
 - city: Gaithersburg
   region:

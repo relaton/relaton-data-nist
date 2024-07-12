@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NBSTN178
 title:
-- content: interpolation procedure for calculating atmospheric band aborptions from
-    laboratory data
+- content: An interpolation procedure for calculating atmospheric band aborptions
+    from laboratory data
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.178
   type: doi
+type: standard
 docid:
 - id: NBS TN 178
   type: NIST
@@ -47,7 +48,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '178'
+  number: '178'
 place:
 - city: Gaithersburg
   region:

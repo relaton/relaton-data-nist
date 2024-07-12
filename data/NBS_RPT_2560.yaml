@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSRPT2560
 title:
-- content: testing plan for cement
+- content: A testing plan for cement
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.2560
   type: doi
+type: standard
 docid:
 - id: NBS RPT 2560
   type: NIST
@@ -62,7 +63,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '2560'
+  number: '2560'
 place:
 - city: Gaithersburg
   region:

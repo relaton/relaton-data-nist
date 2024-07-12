@@ -2,8 +2,8 @@
 schema-version: v1.2.9
 id: NISTIR5667v4
 title:
-- content: study of potential applications of automation and robotics technology in
-    construction, maintenance and operation of highway systems
+- content: A study of potential applications of automation and robotics technology
+    in construction, maintenance and operation of highway systems
   language:
   - en
   script:
@@ -17,9 +17,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: A study of potential applications of automation and robotics technology
+    in construction, maintenance and operation of highway systems - a final report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.5667v4
   type: doi
+type: standard
 docid:
 - id: NIST IR 5667v4
   type: NIST
@@ -53,7 +62,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: 5667v4
+  number: 5667v4
 place:
 - city: Gaithersburg
   region:

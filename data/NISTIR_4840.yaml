@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR4840
 title:
-- content: semi-quantitative model for the burning rate of solid materials
+- content: A semi-quantitative model for the burning rate of solid materials
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.4840
   type: doi
+type: standard
 docid:
 - id: NIST IR 4840
   type: NIST
@@ -45,7 +46,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '4840'
+  number: '4840'
 place:
 - city: Gaithersburg
   region:

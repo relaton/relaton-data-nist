@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTAMS200-7
 title:
-- content: manufacturing cost guide
+- content: The manufacturing cost guide
   language:
   - en
   script:
@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The manufacturing cost guide - a primer beta version 0.1
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.AMS.200-7
   type: doi
+type: standard
 docid:
 - id: NIST AMS 200-7
   type: NIST
@@ -70,7 +78,7 @@ series:
 - title:
     content: NIST advanced manufacturing series; NIST AMS
     format: text/plain
-  partnumber: 200-7
+  number: 200-7
 place:
 - city: Gaithersburg
   region:

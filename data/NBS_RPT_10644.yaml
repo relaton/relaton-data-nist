@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NBSRPT10644
 title:
-- content: study of court reporting systems
+- content: A study of court reporting systems
   language:
   - en
   script:
@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: A study of court reporting systems - volume IV - annotated list of references
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.10644
   type: doi
+type: standard
 docid:
 - id: NBS RPT 10644
   type: NIST
@@ -47,7 +55,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '10644'
+  number: '10644'
 place:
 - city: Gaithersburg
   region:

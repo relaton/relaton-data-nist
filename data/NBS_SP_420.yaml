@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSSP420
 title:
-- content: International Bureau of Weights and Measures 1875-1975
+- content: The International Bureau of Weights and Measures 1875-1975
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.SP.420
   type: doi
+type: standard
 docid:
 - id: NBS SP 420
   type: NIST
@@ -57,7 +58,7 @@ series:
 - title:
     content: NBS special publication; NBS special pub; NBS SP
     format: text/plain
-  partnumber: '420'
+  number: '420'
 place:
 - city: Gaithersburg
   region:

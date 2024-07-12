@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NBSSP500-43
 title:
-- content: guide to major job accounting systems
+- content: A guide to major job accounting systems
   language:
   - en
   script:
@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: A guide to major job accounting systems - the logger system of the UNIVAC
+    1100 series operating system
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.SP.500-43
   type: doi
+type: standard
 docid:
 - id: NBS SP 500-43
   type: NIST
@@ -75,7 +84,7 @@ series:
 - title:
     content: NBS special publication; NBS special pub; NBS SP
     format: text/plain
-  partnumber: 500-43
+  number: 500-43
 place:
 - city: Gaithersburg
   region:

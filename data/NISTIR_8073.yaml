@@ -17,9 +17,19 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: Simulated sinewave testing of data acquisition systems using sine fitting
+    and discrete fourier transform methods part 1 - frequency offset, random, quantization,
+    and jitter noise
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.8073
   type: doi
+type: standard
 docid:
 - id: NIST IR 8073
   type: NIST
@@ -51,9 +61,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Physical Measurement Laboratory (National Institute of Standards and
-                        Technology (U.S.)).
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.)).
     - content: Semiconductor and Dimensional Metrology Division.
     identifier:
     - type: uri
@@ -64,7 +73,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '8073'
+  number: '8073'
 place:
 - city: Gaithersburg
   region:

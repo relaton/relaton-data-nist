@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSTN854
 title:
-- content: system of Fortran IV computer programs for crystal structure computations
+- content: A system of Fortran IV computer programs for crystal structure computations
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.854
   type: doi
+type: standard
 docid:
 - id: NBS TN 854
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '854'
+  number: '854'
 place:
 - city: Gaithersburg
   region:

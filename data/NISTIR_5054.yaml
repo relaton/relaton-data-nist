@@ -8,10 +8,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.5054
   type: doi
+type: standard
 docid:
 - id: NIST IR 5054
   type: NIST
@@ -24,9 +25,8 @@ date:
 contributor:
 - organization:
     name:
-    - content: |-
-        Electronics and Electrical Engineering Laboratory (National Institute
-                        of Standards and Technology). Optoelectronics Division
+    - content: Electronics and Electrical Engineering Laboratory (National Institute
+        of Standards and Technology). Optoelectronics Division
   role:
   - type: publisher
 - person:
@@ -50,7 +50,7 @@ series:
       NISTIR; NIST IR; NIST interagency report; NIST internal
                       report
     format: text/plain
-  partnumber: '5054'
+  number: '5054'
 place:
 - city: Gaithersburg
   region:

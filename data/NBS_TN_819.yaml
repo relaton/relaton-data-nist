@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSTN819
 title:
-- content: technical index of interactive information systems
+- content: A technical index of interactive information systems
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.819
   type: doi
+type: standard
 docid:
 - id: NBS TN 819
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '819'
+  number: '819'
 place:
 - city: Gaithersburg
   region:

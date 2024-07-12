@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NISTIR8015
 title:
-- content: ACT-R model of elliptical endpoint error distributions in a mobile touchscreen
+- content: An ACT-R model of elliptical endpoint error distributions in a mobile touchscreen
     2-D Fitts' law task
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.8015
   type: doi
+type: standard
 docid:
 - id: NIST IR 8015
   type: NIST
@@ -55,9 +56,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology).
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
     - content: Information Access Division.
     identifier:
     - type: uri
@@ -68,7 +68,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '8015'
+  number: '8015'
 place:
 - city: Gaithersburg
   region:

@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSMONO85
 title:
-- content: Study of lunar surface radio communication
+- content: A Study of lunar surface radio communication
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.MONO.85
   type: doi
+type: standard
 docid:
 - id: NBS MONO 85
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS monograph; NBS MONO
     format: text/plain
-  partnumber: '85'
+  number: '85'
 place:
 - city: Gaithersburg
   region:

@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR6324
 title:
-- content: zone fire model jet
+- content: The zone fire model jet
   language:
   - en
   script:
@@ -17,9 +17,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The zone fire model jet - a model for the prediction of detector activation
+    and gas temperature in the presence of a smoke layer
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.6324
   type: doi
+type: standard
 docid:
 - id: NIST IR 6324
   type: NIST
@@ -53,7 +62,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '6324'
+  number: '6324'
 place:
 - city: Gaithersburg
   region:

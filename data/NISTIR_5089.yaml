@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: Electromagnetic Technology Division - programs, activities, and accomplishments
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.5089
   type: doi
+type: standard
 docid:
 - id: NIST IR 5089
   type: NIST
@@ -31,9 +39,8 @@ date:
 contributor:
 - organization:
     name:
-    - content: |-
-        Electronics and Electrical Engineering Laboratory (National Institute
-                        of Standards and Technology). Electromagnetic Technology Division
+    - content: Electronics and Electrical Engineering Laboratory (National Institute
+        of Standards and Technology). Electromagnetic Technology Division
   role:
   - type: publisher
 - person:
@@ -57,7 +64,7 @@ series:
       NISTIR; NIST IR; NIST interagency report; NIST internal
                       report
     format: text/plain
-  partnumber: '5089'
+  number: '5089'
 place:
 - city: Gaithersburg
   region:

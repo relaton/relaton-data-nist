@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NBSIR75-902
 title:
-- content: survey of fire accidents involving curtains and draperies - deaths, injuries
+- content: A survey of fire accidents involving curtains and draperies - deaths, injuries
     and financial loss
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.IR.75-902
   type: doi
+type: standard
 docid:
 - id: NBS IR 75-902
   type: NIST
@@ -52,7 +53,7 @@ series:
 - title:
     content: NBSIR; NBS IR; NBS interagency report; NBS internal report
     format: text/plain
-  partnumber: 75-902
+  number: 75-902
 place:
 - city: Gaithersburg
   region:

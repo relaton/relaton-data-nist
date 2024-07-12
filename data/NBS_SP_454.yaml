@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NBSSP454
 title:
-- content: annotated bibliography of compiled thermodynamic data sources for biochemical
+- content: An annotated bibliography of compiled thermodynamic data sources for biochemical
     and aqueous systems (1930 to 1975)
   language:
   - en
@@ -17,9 +17,19 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: An annotated bibliography of compiled thermodynamic data sources for biochemical
+    and aqueous systems (1930 to 1975) - equilibrium, enthalpy, heat capacity, and
+    entropy data
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.SP.454
   type: doi
+type: standard
 docid:
 - id: NBS SP 454
   type: NIST
@@ -65,7 +75,7 @@ series:
 - title:
     content: NBS special publication; NBS special pub; NBS SP
     format: text/plain
-  partnumber: '454'
+  number: '454'
 place:
 - city: Gaithersburg
   region:

@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NBSIR80-2128
 title:
-- content: NBS Energy Model Assessment project
+- content: The NBS Energy Model Assessment project
   language:
   - en
   script:
@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The NBS Energy Model Assessment project - summary and overview
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.IR.80-2128
   type: doi
+type: standard
 docid:
 - id: NBS IR 80-2128
   type: NIST
@@ -94,7 +102,7 @@ series:
 - title:
     content: NBSIR; NBS IR; NBS interagency report; NBS internal report
     format: text/plain
-  partnumber: 80-2128
+  number: 80-2128
 place:
 - city: Gaithersburg
   region:

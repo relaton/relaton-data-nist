@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSSP500-63
 title:
-- content: testbed for providing uniformity to user-computer interaction languages
+- content: A testbed for providing uniformity to user-computer interaction languages
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.SP.500-63
   type: doi
+type: standard
 docid:
 - id: NBS SP 500-63
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS special publication; NBS special pub; NBS SP
     format: text/plain
-  partnumber: 500-63
+  number: 500-63
 place:
 - city: Gaithersburg
   region:

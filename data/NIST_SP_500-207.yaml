@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTSP500-207
 title:
-- content: first text REtrieval conference (TREC-1)
+- content: The first text REtrieval conference (TREC-1)
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.500-207
   type: doi
+type: standard
 docid:
 - id: NIST SP 500-207
   type: NIST
@@ -45,7 +46,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 500-207
+  number: 500-207
 place:
 - city: Gaithersburg
   region:

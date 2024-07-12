@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NBSTN120A
 title:
-- content: tabulation of the thermodynamic properties of normal hydrogen from low
+- content: A tabulation of the thermodynamic properties of normal hydrogen from low
     temperatures to 540* R and from 10 to 1500 psia
   language:
   - en
@@ -17,9 +17,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: A tabulation of the thermodynamic properties of normal hydrogen from low
+    temperatures to 540* R and from 10 to 1500 psia - supplement A (British units)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.120A
   type: doi
+type: standard
 docid:
 - id: NBS TN 120A
   type: NIST
@@ -51,7 +60,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: 120A
+  number: 120A
 place:
 - city: Gaithersburg
   region:

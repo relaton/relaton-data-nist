@@ -17,9 +17,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: Automated secure configuration guidance from the macOS security compliance
+    project - (mSCP)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.800-219r1
   type: doi
+type: standard
 docid:
 - id: NIST SP 800-219r1
   type: NIST
@@ -146,11 +155,11 @@ series:
 - title:
     content: NIST special publication
     format: text/plain
-  partnumber: 800-219r1
+  number: 800-219r1
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 800-219r1
+  number: 800-219r1
 place:
 - city: Gaithersburg
   region:

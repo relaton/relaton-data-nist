@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR6996
 title:
-- content: survey of design
+- content: A survey of design
   language:
   - en
   script:
@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: A survey of design - analysis integration issues
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.6996
   type: doi
+type: standard
 docid:
 - id: NIST IR 6996
   type: NIST
@@ -63,7 +71,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '6996'
+  number: '6996'
 place:
 - city: Gaithersburg
   region:

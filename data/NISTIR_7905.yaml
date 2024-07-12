@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR7905
 title:
-- content: primer on Korea's standards system
+- content: A primer on Korea's standards system
   language:
   - en
   script:
@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: A primer on Korea's standards system - standardization, confrormity assessment,
+    and metrology
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.7905
   type: doi
+type: standard
 docid:
 - id: NIST IR 7905
   type: NIST
@@ -49,7 +58,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '7905'
+  number: '7905'
 place:
 - city: Gaithersburg
   region:

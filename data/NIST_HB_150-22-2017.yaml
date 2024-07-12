@@ -9,10 +9,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.HB.150-22-2017
   type: doi
+type: standard
 docid:
 - id: NIST HB 150-22-2017
   type: NIST
@@ -55,9 +56,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology)
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/no97056762
@@ -81,7 +81,7 @@ series:
 - title:
     content: NIST handbook; NIST HB
     format: text/plain
-  partnumber: 150-22-2017
+  number: 150-22-2017
 place:
 - city: Gaithersburg
   region:

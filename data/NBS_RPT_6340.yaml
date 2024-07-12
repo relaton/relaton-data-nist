@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSRPT6340
 title:
-- content: survey of some magnesium fire problems
+- content: A survey of some magnesium fire problems
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.6340
   type: doi
+type: standard
 docid:
 - id: NBS RPT 6340
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '6340'
+  number: '6340'
 place:
 - city: Gaithersburg
   region:

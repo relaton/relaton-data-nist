@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSRPT2929
 title:
-- content: heating and ventilating system at Reflection Point
+- content: The heating and ventilating system at Reflection Point
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.2929
   type: doi
+type: standard
 docid:
 - id: NBS RPT 2929
   type: NIST
@@ -51,7 +52,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '2929'
+  number: '2929'
 place:
 - city: Gaithersburg
   region:

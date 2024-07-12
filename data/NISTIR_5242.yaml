@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR5242
 title:
-- content: NIST EXPRESS toolkit
+- content: The NIST EXPRESS toolkit
   language:
   - en
   script:
@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The NIST EXPRESS toolkit - introduction and overview
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.5242
   type: doi
+type: standard
 docid:
 - id: NIST IR 5242
   type: NIST
@@ -48,7 +56,7 @@ series:
       NISTIR; NIST IR; NIST interagency report; NIST internal
                       report
     format: text/plain
-  partnumber: '5242'
+  number: '5242'
 place:
 - city: Gaithersburg
   region:

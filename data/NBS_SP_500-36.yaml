@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSSP500-36
 title:
-- content: LX39 latent fingerprint matcher
+- content: The LX39 latent fingerprint matcher
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.SP.500-36
   type: doi
+type: standard
 docid:
 - id: NBS SP 500-36
   type: NIST
@@ -54,7 +55,7 @@ series:
 - title:
     content: NBS special publication; NBS special pub; NBS SP
     format: text/plain
-  partnumber: 500-36
+  number: 500-36
 place:
 - city: Gaithersburg
   region:

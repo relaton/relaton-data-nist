@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: Circular of the Bureau of Standards no. 559 - specification for dry cells
+    and batteries
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.CIRC.559
   type: doi
+type: standard
 docid:
 - id: NBS CIRC 559
   type: NIST
@@ -31,9 +40,8 @@ date:
 contributor:
 - organization:
     name:
-    - content: |-
-        Sectional Committee on dry cells and batteries-C18, National Bureau
-                        of Standards.
+    - content: Sectional Committee on dry cells and batteries-C18, National Bureau
+        of Standards.
   role:
   - type: publisher
 - person:
@@ -67,7 +75,7 @@ series:
 - title:
     content: National Bureau of Standards circular
     format: text/plain
-  partnumber: '559'
+  number: '559'
 place:
 - city: Gaithersburg
   region:

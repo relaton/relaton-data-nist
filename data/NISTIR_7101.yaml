@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR7101
 title:
-- content: AMIS approach to systems integration
+- content: The AMIS approach to systems integration
   language:
   - en
   script:
@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The AMIS approach to systems integration - an overview
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.7101
   type: doi
+type: standard
 docid:
 - id: NIST IR 7101
   type: NIST
@@ -78,7 +86,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '7101'
+  number: '7101'
 place:
 - city: Gaithersburg
   region:

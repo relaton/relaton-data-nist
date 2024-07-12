@@ -8,10 +8,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.TN.2051
   type: doi
+type: standard
 docid:
 - id: NIST TN 2051
   type: NIST
@@ -59,9 +60,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology).
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
     - content: Engineering Laboratory.
     identifier:
     - type: uri
@@ -87,7 +87,7 @@ series:
 - title:
     content: NIST technical note; NIST tech note; NIST TN
     format: text/plain
-  partnumber: '2051'
+  number: '2051'
 place:
 - city: Gaithersburg
   region:

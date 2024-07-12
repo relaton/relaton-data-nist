@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: Information security handbook - a guide for managers
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.800-100
   type: doi
+type: standard
 docid:
 - id: NIST SP 800-100
   type: NIST
@@ -92,7 +100,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 800-100
+  number: 800-100
 place:
 - city: Gaithersburg
   region:

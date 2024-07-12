@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSTN1212
 title:
-- content: computerized fracture mechanics database for oxide glasses
+- content: A computerized fracture mechanics database for oxide glasses
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.1212
   type: doi
+type: standard
 docid:
 - id: NBS TN 1212
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '1212'
+  number: '1212'
 place:
 - city: Gaithersburg
   region:

@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR6556
 title:
-- content: NIST RS274NGC interpreter
+- content: The NIST RS274NGC interpreter
   language:
   - en
   script:
@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The NIST RS274NGC interpreter - version 3
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.6556
   type: doi
+type: standard
 docid:
 - id: NIST IR 6556
   type: NIST
@@ -71,7 +79,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '6556'
+  number: '6556'
 place:
 - city: Gaithersburg
   region:

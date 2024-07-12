@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSRPT7794
 title:
-- content: oven test for self-heating tendency of materials
+- content: An oven test for self-heating tendency of materials
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.7794
   type: doi
+type: standard
 docid:
 - id: NBS RPT 7794
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '7794'
+  number: '7794'
 place:
 - city: Gaithersburg
   region:

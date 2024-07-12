@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSRPT6295
 title:
-- content: new approach to the mechanical translation of Russian
+- content: A new approach to the mechanical translation of Russian
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.6295
   type: doi
+type: standard
 docid:
 - id: NBS RPT 6295
   type: NIST
@@ -39,7 +40,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '6295'
+  number: '6295'
 place:
 - city: Gaithersburg
   region:

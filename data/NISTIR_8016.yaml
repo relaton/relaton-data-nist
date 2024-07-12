@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NISTIR8016
 title:
-- content: proposed interim check for field testing a laser tracker's 3-D length measurement
-    capability using a calibrated scale bar as a reference artifact
+- content: A proposed interim check for field testing a laser tracker's 3-D length
+    measurement capability using a calibrated scale bar as a reference artifact
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.8016
   type: doi
+type: standard
 docid:
 - id: NIST IR 8016
   type: NIST
@@ -82,9 +83,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Physical Measurement Laboratory (National Institute of Standards and
-                        Technology (U.S.)).
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.)).
     - content: Semiconductor and Dimensional Metrology Division.
     identifier:
     - type: uri
@@ -95,7 +95,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '8016'
+  number: '8016'
 place:
 - city: Gaithersburg
   region:

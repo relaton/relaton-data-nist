@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: An infrastructure for curating, querying, and augmenting document data
+    - COVID-19 case study
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.8479
   type: doi
+type: standard
 docid:
 - id: NIST IR 8479
   type: NIST
@@ -197,9 +206,8 @@ contributor:
 - organization:
     name:
     - content: National Institute of Standards and Technology (U.S.)
-    - content: |-
-        Information Technology Laboratory; Material Measurement Laboratory;
-                        Engineering Laboratory.
+    - content: Information Technology Laboratory; Material Measurement Laboratory;
+        Engineering Laboratory.
   role:
   - type: publisher
 abstract:
@@ -224,13 +232,13 @@ series:
 - title:
     content: NISTIR
     format: text/plain
-  partnumber: '8479'
+  number: '8479'
 - title:
     content: |-
       NISTIR; NIST IR; NIST interagency report; NIST internal
                       report
     format: text/plain
-  partnumber: '8479'
+  number: '8479'
 place:
 - city: Gaithersburg
   region:

@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSSP452
 title:
-- content: role of coatings in the prevention of mechanical failures
+- content: The role of coatings in the prevention of mechanical failures
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.SP.452
   type: doi
+type: standard
 docid:
 - id: NBS SP 452
   type: NIST
@@ -57,7 +58,7 @@ series:
 - title:
     content: NBS special publication; NBS special pub; NBS SP
     format: text/plain
-  partnumber: '452'
+  number: '452'
 place:
 - city: Gaithersburg
   region:

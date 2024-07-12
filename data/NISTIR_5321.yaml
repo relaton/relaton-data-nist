@@ -2,18 +2,19 @@
 schema-version: v1.2.9
 id: NISTIR5321
 title:
-- content: study of heat pump performance using mixtures of R32 / R134a and R32 /
-    R125 / R134a as Drop-In working fluids for R22 with and without a liquid-suction
+- content: A study of heat pump performance using mixtures of R32 / R134a and R32
+    / R125 / R134a as Drop-In working fluids for R22 with and without a liquid-suction
     heat exchanger
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.5321
   type: doi
+type: standard
 docid:
 - id: NIST IR 5321
   type: NIST
@@ -51,7 +52,7 @@ series:
       NISTIR; NIST IR; NIST interagency report; NIST internal
                       report
     format: text/plain
-  partnumber: '5321'
+  number: '5321'
 place:
 - city: Gaithersburg
   region:

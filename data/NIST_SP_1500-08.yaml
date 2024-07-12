@@ -8,10 +8,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.1500-08
   type: doi
+type: standard
 docid:
 - id: NIST SP 1500-08
   type: NIST
@@ -116,9 +117,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology).
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
     - content: Physical Measurement Laboratory.
     - content: Engineering Laboratory.
     identifier:
@@ -151,7 +151,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 1500-08
+  number: 1500-08
 place:
 - city: Gaithersburg
   region:

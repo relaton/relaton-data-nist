@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSRPT9098
 title:
-- content: theorem on optimal locations
+- content: A theorem on optimal locations
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.9098
   type: doi
+type: standard
 docid:
 - id: NBS RPT 9098
   type: NIST
@@ -39,7 +40,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '9098'
+  number: '9098'
 place:
 - city: Gaithersburg
   region:

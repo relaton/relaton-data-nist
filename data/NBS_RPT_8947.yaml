@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSRPT8947
 title:
-- content: laboratory test for measuring smoke from burning materials
+- content: A laboratory test for measuring smoke from burning materials
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.8947
   type: doi
+type: standard
 docid:
 - id: NBS RPT 8947
   type: NIST
@@ -57,7 +58,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '8947'
+  number: '8947'
 place:
 - city: Gaithersburg
   region:

@@ -17,9 +17,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: NIST database of cross sections for inner-shell ionization by electron
+    or positron impact - version 1.0 user's guide
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.NSRDS.164
   type: doi
+type: standard
 docid:
 - id: NIST NSRDS 164
   type: NIST
@@ -97,7 +106,7 @@ series:
 - title:
     content: NIST NSRDS; NSRDS-NIST; National standard reference data series
     format: text/plain
-  partnumber: '164'
+  number: '164'
 place:
 - city: Gaithersburg
   region:

@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: Certification of standard reference material® 640g - line position and
+    line shape standard for powder diffraction (silicon powder)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.260-245
   type: doi
+type: standard
 docid:
 - id: NIST SP 260-245
   type: NIST
@@ -87,9 +96,8 @@ contributor:
 - organization:
     name:
     - content: National Institute of Standards and Technology (U.S.)
-    - content: |-
-        Material Measurement Laboratory (MML); Physical Measurement
-                        Laboratory (PML); Information Technology Laboratory (ITL).
+    - content: Material Measurement Laboratory (MML); Physical Measurement Laboratory
+        (PML); Information Technology Laboratory (ITL).
   role:
   - type: publisher
 abstract:
@@ -127,11 +135,11 @@ series:
 - title:
     content: NIST special publication
     format: text/plain
-  partnumber: 260-245
+  number: 260-245
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 260-245
+  number: 260-245
 place:
 - city: Gaithersburg
   region:

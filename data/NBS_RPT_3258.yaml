@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSRPT3258
 title:
-- content: multi-channel pulse height analyzer using a CR storage tube
+- content: A multi-channel pulse height analyzer using a CR storage tube
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.3258
   type: doi
+type: standard
 docid:
 - id: NBS RPT 3258
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '3258'
+  number: '3258'
 place:
 - city: Gaithersburg
   region:

@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NBSSP480-15
 title:
-- content: Police patrol car
+- content: The Police patrol car
   language:
   - en
   script:
@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The Police patrol car - economic efficiency in acquisition, operation,
+    and disposition
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.SP.480-15
   type: doi
+type: standard
 docid:
 - id: NBS SP 480-15
   type: NIST
@@ -53,7 +62,7 @@ series:
 - title:
     content: NBS special publication; NBS special pub; NBS SP
     format: text/plain
-  partnumber: 480-15
+  number: 480-15
 place:
 - city: Gaithersburg
   region:

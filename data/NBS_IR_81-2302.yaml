@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NBSIR81-2302
 title:
-- content: positional set processor
+- content: The positional set processor
   language:
   - en
   script:
@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The positional set processor - a tool for data modeling
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.IR.81-2302
   type: doi
+type: standard
 docid:
 - id: NBS IR 81-2302
   type: NIST
@@ -61,7 +69,7 @@ series:
 - title:
     content: NBSIR; NBS IR; NBS interagency report; NBS internal report
     format: text/plain
-  partnumber: 81-2302
+  number: 81-2302
 place:
 - city: Gaithersburg
   region:

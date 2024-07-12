@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSRPT4800
 title:
-- content: waviness tester for mica
+- content: A waviness tester for mica
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.4800
   type: doi
+type: standard
 docid:
 - id: NBS RPT 4800
   type: NIST
@@ -39,7 +40,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '4800'
+  number: '4800'
 place:
 - city: Gaithersburg
   region:

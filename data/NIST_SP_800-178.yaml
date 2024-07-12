@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTSP800-178
 title:
-- content: comparison of Attribute Based Access Control (ABAC) standards for data
+- content: A comparison of Attribute Based Access Control (ABAC) standards for data
     service applications
   language:
   - en
@@ -18,9 +18,19 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: A comparison of Attribute Based Access Control (ABAC) standards for data
+    service applications - Extensible Access Control Markup Language (XACML) and Next
+    Generation Access Control (NGAC)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.800-178
   type: doi
+type: standard
 docid:
 - id: NIST SP 800-178
   type: NIST
@@ -74,9 +84,8 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology)
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/no97056762
@@ -101,7 +110,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 800-178
+  number: 800-178
 place:
 - city: Gaithersburg
   region:

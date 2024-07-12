@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR4900
 title:
-- content: truncated SQP algorithm for large scale nonlinear programming problems
+- content: A truncated SQP algorithm for large scale nonlinear programming problems
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.4900
   type: doi
+type: standard
 docid:
 - id: NIST IR 4900
   type: NIST
@@ -58,7 +59,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '4900'
+  number: '4900'
 place:
 - city: Gaithersburg
   region:

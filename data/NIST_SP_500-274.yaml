@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTSP500-274
 title:
-- content: sixteenth text retrieval conference TREC 2007
+- content: The sixteenth text retrieval conference TREC 2007
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.500-274
   type: doi
+type: standard
 docid:
 - id: NIST SP 500-274
   type: NIST
@@ -53,7 +54,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 500-274
+  number: 500-274
 place:
 - city: Gaithersburg
   region:

@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSTN217
 title:
-- content: bibliography of thermophysical properties of argon from 0 to 300* K
+- content: A bibliography of thermophysical properties of argon from 0 to 300* K
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.217
   type: doi
+type: standard
 docid:
 - id: NBS TN 217
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '217'
+  number: '217'
 place:
 - city: Gaithersburg
   region:

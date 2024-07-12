@@ -9,10 +9,11 @@ title:
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.MP.179
   type: doi
+type: standard
 docid:
 - id: NBS MP 179
   type: NIST
@@ -25,16 +26,14 @@ date:
 contributor:
 - organization:
     name:
-    - content: |-
-        Sectional Committee on Building Code Requirements for Minimum Design
-                        Loads in Buildings-A58.
+    - content: Sectional Committee on Building Code Requirements for Minimum Design
+        Loads in Buildings-A58.
   role:
   - type: publisher
 - organization:
     name:
-    - content: |-
-        Sectional Committee on Building Code Requirements for Minimum Design
-                        Loads in Buildings-A58.
+    - content: Sectional Committee on Building Code Requirements for Minimum Design
+        Loads in Buildings-A58.
   role:
   - type: publisher
 - organization:
@@ -50,7 +49,7 @@ series:
 - title:
     content: NBS miscellaneous publication; NBS miscellaneous pub; NBS MP
     format: text/plain
-  partnumber: '179'
+  number: '179'
 place:
 - city: Gaithersburg
   region:

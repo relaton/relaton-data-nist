@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NBSRPT6109
 title:
-- content: setting time test for dental amalgam
+- content: A setting time test for dental amalgam
   language:
   - en
   script:
@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: A setting time test for dental amalgam - progress report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.RPT.6109
   type: doi
+type: standard
 docid:
 - id: NBS RPT 6109
   type: NIST
@@ -46,7 +54,7 @@ series:
 - title:
     content: NBS report
     format: text/plain
-  partnumber: '6109'
+  number: '6109'
 place:
 - city: Gaithersburg
   region:

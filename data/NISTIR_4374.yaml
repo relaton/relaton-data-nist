@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR4374
 title:
-- content: naming forum
+- content: The naming forum
   language:
   - en
   script:
@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The naming forum - proceedings of the IRDS workshop on data entity naming
+    conventions
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.4374
   type: doi
+type: standard
 docid:
 - id: NIST IR 4374
   type: NIST
@@ -52,7 +61,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '4374'
+  number: '4374'
 place:
 - city: Gaithersburg
   region:

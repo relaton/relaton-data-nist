@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR5985
 title:
-- content: FORTRAN 90 Interface for OpenGL
+- content: A FORTRAN 90 Interface for OpenGL
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.5985
   type: doi
+type: standard
 docid:
 - id: NIST IR 5985
   type: NIST
@@ -45,7 +46,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '5985'
+  number: '5985'
 place:
 - city: Gaithersburg
   region:

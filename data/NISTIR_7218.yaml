@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTIR7218
 title:
-- content: programs of the manufacturing engineering laboratory, 2005
+- content: The programs of the manufacturing engineering laboratory, 2005
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.7218
   type: doi
+type: standard
 docid:
 - id: NIST IR 7218
   type: NIST
@@ -42,7 +43,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '7218'
+  number: '7218'
 place:
 - city: Gaithersburg
   region:

@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NBSTN154A
 title:
-- content: thermodynamic properties of helium from 6 to 540* R between 10 and 1500
-    psia
+- content: The thermodynamic properties of helium from 6 to 540* R between 10 and
+    1500 psia
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.154A
   type: doi
+type: standard
 docid:
 - id: NBS TN 154A
   type: NIST
@@ -47,7 +48,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: 154A
+  number: 154A
 place:
 - city: Gaithersburg
   region:

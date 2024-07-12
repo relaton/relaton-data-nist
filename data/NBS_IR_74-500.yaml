@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NBSIR74-500
 title:
-- content: CODASYL data base approach
+- content: The CODASYL data base approach
   language:
   - en
   script:
@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The CODASYL data base approach - a COBOL example of design and use of a
+    personnel file
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.IR.74-500
   type: doi
+type: standard
 docid:
 - id: NBS IR 74-500
   type: NIST
@@ -53,7 +62,7 @@ series:
 - title:
     content: NBSIR; NBS IR; NBS interagency report; NBS internal report
     format: text/plain
-  partnumber: 74-500
+  number: 74-500
 place:
 - city: Gaithersburg
   region:

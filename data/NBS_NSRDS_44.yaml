@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSNSRDS44
 title:
-- content: radiation chemistry of gaseous ammonia
+- content: The radiation chemistry of gaseous ammonia
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.NSRDS.44
   type: doi
+type: standard
 docid:
 - id: NBS NSRDS 44
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NIST NSRDS; NSRDS-NIST; National standard reference data series
     format: text/plain
-  partnumber: '44'
+  number: '44'
 place:
 - city: Gaithersburg
   region:

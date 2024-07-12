@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTSP958
 title:
-- content: century of excellence in measurements, standards, and technology 1901-2000
+- content: A century of excellence in measurements, standards, and technology 1901-2000
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.958
   type: doi
+type: standard
 docid:
 - id: NIST SP 958
   type: NIST
@@ -53,7 +54,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: '958'
+  number: '958'
 place:
 - city: Gaithersburg
   region:

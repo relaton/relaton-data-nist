@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSMONO144
 title:
-- content: rotary-vane attenuator as an interlaboratory standard
+- content: The rotary-vane attenuator as an interlaboratory standard
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.MONO.144
   type: doi
+type: standard
 docid:
 - id: NBS MONO 144
   type: NIST
@@ -43,7 +44,7 @@ series:
 - title:
     content: NBS monograph; NBS MONO
     format: text/plain
-  partnumber: '144'
+  number: '144'
 place:
 - city: Gaithersburg
   region:

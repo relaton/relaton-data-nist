@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NISTSP848
 title:
-- content: collection of successful interactions between the MTCs and clients firms
+- content: A collection of successful interactions between the MTCs and clients firms
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.848
   type: doi
+type: standard
 docid:
 - id: NIST SP 848
   type: NIST
@@ -45,7 +46,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: '848'
+  number: '848'
 place:
 - city: Gaithersburg
   region:

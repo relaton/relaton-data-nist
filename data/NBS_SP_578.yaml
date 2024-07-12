@@ -2,17 +2,18 @@
 schema-version: v1.2.9
 id: NBSSP578
 title:
-- content: catalog of data compilations on photochemical and photophysical processes
+- content: A catalog of data compilations on photochemical and photophysical processes
     in solution
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.SP.578
   type: doi
+type: standard
 docid:
 - id: NBS SP 578
   type: NIST
@@ -69,7 +70,7 @@ series:
 - title:
     content: NBS special publication; NBS special pub; NBS SP
     format: text/plain
-  partnumber: '578'
+  number: '578'
 place:
 - city: Gaithersburg
   region:

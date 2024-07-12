@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR4815
 title:
-- content: NIST PDES Toolkit
+- content: The NIST PDES Toolkit
   language:
   - en
   script:
@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The NIST PDES Toolkit - technical fundamentals
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.4815
   type: doi
+type: standard
 docid:
 - id: NIST IR 4815
   type: NIST
@@ -60,7 +68,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '4815'
+  number: '4815'
 place:
 - city: Gaithersburg
   region:

@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR4337
 title:
-- content: NIST SQL database loader
+- content: The NIST SQL database loader
   language:
   - en
   script:
@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: The NIST SQL database loader - STEP working form to SQL
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.IR.4337
   type: doi
+type: standard
 docid:
 - id: NIST IR 4337
   type: NIST
@@ -52,7 +60,7 @@ series:
 - title:
     content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
-  partnumber: '4337'
+  number: '4337'
 place:
 - city: Gaithersburg
   region:

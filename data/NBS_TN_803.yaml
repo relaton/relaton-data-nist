@@ -2,16 +2,17 @@
 schema-version: v1.2.9
 id: NBSTN803
 title:
-- content: guide to networking terminology
+- content: A guide to networking terminology
   language:
   - en
   script:
   - Latn
   format: text/plain
-  type: title-main
+  type: main
 link:
 - content: https://doi.org/10.6028/NBS.TN.803
   type: doi
+type: standard
 docid:
 - id: NBS TN 803
   type: NIST
@@ -46,7 +47,7 @@ series:
 - title:
     content: NBS technical note; NBS tech note; NBS TN
     format: text/plain
-  partnumber: '803'
+  number: '803'
 place:
 - city: Gaithersburg
   region:

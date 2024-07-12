@@ -16,9 +16,17 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: NIST big data interoperability framework - volume 1, definitions
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.1500-1
   type: doi
+type: standard
 docid:
 - id: NIST SP 1500-1
   type: NIST
@@ -31,9 +39,8 @@ date:
 contributor:
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology).
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
     - content: NIST Big Data Public Working Group (NBD-PWG)
     identifier:
     - type: uri
@@ -42,12 +49,10 @@ contributor:
   - type: publisher
 - organization:
     name:
-    - content: |-
-        Information Technology Laboratory (National Institute of Standards
-                        and Technology).
-    - content: |-
-        Definitions and Taxonomies Subgroup.$bNIST Big Data Public Working
-                        Group (NBD-PWG)
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
+    - content: Definitions and Taxonomies Subgroup.$bNIST Big Data Public Working
+        Group (NBD-PWG)
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/no97056762
@@ -57,7 +62,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 1500-1
+  number: 1500-1
 place:
 - city: Gaithersburg
   region:

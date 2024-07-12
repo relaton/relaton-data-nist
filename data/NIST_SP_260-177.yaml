@@ -16,9 +16,18 @@ title:
   - Latn
   format: text/plain
   type: title-part
+- content: Standard Reference Materials(R) User's Guide for RM 8096 and 8097 - The
+    MEMS 5-in-1, 2013 edition
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
 link:
 - content: https://doi.org/10.6028/NIST.SP.260-177
   type: doi
+type: standard
 docid:
 - id: NIST SP 260-177
   type: NIST
@@ -95,9 +104,7 @@ contributor:
 - organization:
     name:
     - content: National Institute of Standards and Technology (U.S.).
-    - content: |-
-        Physical Measurement Laboratory, Material Measurement
-                        Laboratory.
+    - content: Physical Measurement Laboratory, Material Measurement Laboratory.
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/n88112126
@@ -107,7 +114,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  partnumber: 260-177
+  number: 260-177
 place:
 - city: Gaithersburg
   region:

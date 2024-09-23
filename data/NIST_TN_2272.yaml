@@ -1,0 +1,244 @@
+---
+schema-version: v1.2.9
+id: NISTTN2272
+title:
+- content: Application of the Hybrid Satellite Network cybersecurity framework profile
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: an example implementation of NIST IR 8441
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: Application of the Hybrid Satellite Network cybersecurity framework profile
+    - an example implementation of NIST IR 8441
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.TN.2272
+  type: doi
+type: standard
+docid:
+- id: NIST TN 2272
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.TN.2272
+  type: DOI
+date:
+- type: issued
+  value: '2024'
+contributor:
+- person:
+    name:
+      completename:
+        content: Byers, Frederick.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0009-0005-7865-2628"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Mamula, Dan.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0003-4247-1735"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Meldorf, Karri.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0003-3617-3846"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Brule, Joseph.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-7987-6050"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Jennings, Rory.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0001-5860-5094"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Wiltberger, John.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0001-5860-5094"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Craft, Eugene.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0001-5860-5094"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Dombrowski, John.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-9408-1838"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Lattin, O’Ryan.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0003-4255-280X"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Noor, Abdul.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0009-0002-8716-5731"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Yetto, Matt.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0009-0007-6913-1227"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Mamonau, Aliaksander.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0009-0005-0358-3357"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Slivina, Oksana.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0009-0006-6857-9778"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Sharma, Jay.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-0876-7973"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Zheng, Kangmin.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0009-0008-0857-5921"
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+  role:
+  - type: publisher
+abstract:
+- content: The space sector is transitioning towards Hybrid Satellite Networks (HSN),
+    an aggregation of independently owned and operated terminals, antennas, satellites,
+    payloads, or other components that comprise a satellite system. The elements of
+    an HSN may have varying levels of assurance. HSNs may interact with government
+    systems and critical infrastructure (as defined by the Department of Homeland
+    Security). A framework is required to assess the security posture of the individual
+    components while still enabling the HSN to provide its function. This report applies
+    the NIST Cybersecurity Framework to HSNs with an emphasis on the interfaces between
+    the participants of the HSN. HSNs have different cybersecurity concerns relative
+    to a more traditional vertically integrated space system. This technical note
+    presents a representative fictious scenario to demonstrate how to apply the National
+    Institute of Standards and Technology (NIST) Internal Report (IR) 8441 Cybersecurity
+    Framework (CSF) Profile to a notional HSN.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST technical note; NIST tech note; NIST TN
+    format: text/plain
+  number: '2272'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

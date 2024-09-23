@@ -1,0 +1,74 @@
+---
+schema-version: v1.2.9
+id: NISTTN2278
+title:
+- content: Binary metal-carbon phase-transition temperatures
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.TN.2278
+  type: doi
+type: standard
+docid:
+- id: NIST TN 2278
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.TN.2278
+  type: DOI
+date:
+- type: issued
+  value: '2024'
+contributor:
+- person:
+    name:
+      completename:
+        content: Burgess Jr., Donald R.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-3428-6540"
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
+  role:
+  - type: publisher
+abstract:
+- content: 'In this work, we compiled and evaluated eutectic and peritectic phase-transition
+    temperatures for metal-carbon (e.g., Co-C, Re-C) and metal carbide-carbon compounds
+    (e.g., Fe3C-C, HfC2-C) and selected recommended values for possible future use
+    on the International Temperature Scale as primary or secondary fixed points. Most
+    of these phase-transition temperatures are at high temperatures (1400 K to 3000
+    K) above the highest fixed point, the freezing point of copper (1357.77 K), on
+    the ITS-90 temperature scale, The selected systems include 18 phase-transition
+    temperatures: eight of these have very low uncertainties (0.12 K to 0.27 K) that
+    likely will become primary fixed points on the International Temperature Scale,
+    while ten of these have slightly higher uncertainties (0.4 K to 2.5 K) that may
+    become secondary fixed points. Phase transitions for all other measured metal-carbon
+    systems with higher uncertainties are also provided for completeness.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST technical note; NIST tech note; NIST TN
+    format: text/plain
+  number: '2278'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,106 @@
+---
+schema-version: v1.2.9
+id: NISTNSRDS100-2024
+title:
+- content: Simulation of electron spectra for surface analysis (SESSA)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: version 2.2.2 user’s guide
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: Simulation of electron spectra for surface analysis (SESSA) - version 2.2.2
+    user’s guide
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.NSRDS.100-2024
+  type: doi
+type: standard
+docid:
+- id: NIST NSRDS 100-2024
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.NSRDS.100-2024
+  type: DOI
+date:
+- type: issued
+  value: '2024'
+contributor:
+- person:
+    name:
+      completename:
+        content: Werner, W. S. M.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Smekal, W.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Powell, C. J.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0001-8990-2286"
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
+  role:
+  - type: publisher
+abstract:
+- content: The objective of this database is to facilitate quantitative interpretation
+    of Auger–electron and X–ray photoelectron spectra (AES/XPS) for surface analysis
+    and to improve the accuracy of quantitation in routine analysis.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: NISTNSRDS100-2023
+    docid:
+    - id: NIST NSRDS 100-2023
+      type: NIST
+    formattedref:
+      content: NIST NSRDS 100-2023
+      format: text/plain
+series:
+- title:
+    content: NSRDS-NIST; National standard reference data series
+    format: text/plain
+  number: 100-2024
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

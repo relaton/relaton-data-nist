@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.9
+id: NISTSP1300
+title:
+- content: NIST cybersecurity framework 2.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: small business quick-start guide
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: NIST cybersecurity framework 2.0 - small business quick-start guide
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.SP.1300
+  type: doi
+type: standard
+docid:
+- id: NIST SP 1300
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.SP.1300
+  type: DOI
+date:
+- type: issued
+  value: '2024'
+contributor:
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+  role:
+  - type: publisher
+- person:
+    name:
+      completename:
+        content: National Institute of Standards and Technology (U.S.)
+        language:
+        - en
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+  role:
+  - type: publisher
+abstract:
+- content: This guide provides small-to-medium sized businesses (SMB), specifically
+    those who have modest or no cybersecurity plans in place, with considerations
+    to kick-start their cybersecurity risk management strategy by using the NIST Cybersecurity
+    Framework (CSF) 2.0. The guide also can assist other relatively small organizations,
+    such as non-profits, government agencies, and schools. It is a supplement to the
+    NIST CSF and is not intended to replace it.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST special publication
+    format: text/plain
+  number: '1300'
+- title:
+    content: NIST special publication; NIST special pub; NIST SP
+    format: text/plain
+  number: '1300'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

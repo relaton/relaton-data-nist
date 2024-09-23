@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR7219
 title:
-- content: Computer security division, 2004 annual report
+- content: Computer Security Division 2004 annual report
   language:
   - en
   script:
@@ -23,14 +23,14 @@ date:
 - type: issued
   value: '2005'
 contributor:
-- person:
+- organization:
     name:
-      completename:
-        content: Brewer, Tanya.
-        language:
-        - en
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n88112126
   role:
-  - type: author
+  - type: publisher
 - organization:
     name:
     - content: National Institute of Standards and Technology (U.S.)

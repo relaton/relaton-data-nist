@@ -2,7 +2,21 @@
 schema-version: v1.2.9
 id: NISTIR7156
 title:
-- content: Is the urn well-mixed? Uncovering false cofactor homogeneity assumptions
+- content: Is the urn well-mixed?
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: uncovering false cofactor homogeneity assumptions in evaluation
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: Is the urn well-mixed? - uncovering false cofactor homogeneity assumptions
     in evaluation
   language:
   - en
@@ -27,17 +41,23 @@ contributor:
 - person:
     name:
       completename:
-        content: Michaels, R. J.
+        content: Micheals, Ross J.
         language:
         - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/no2011048325
   role:
   - type: author
 - person:
     name:
       completename:
-        content: Boult, T. E.
+        content: Boult, Terrance E.
         language:
         - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n88675970
   role:
   - type: author
 - organization:

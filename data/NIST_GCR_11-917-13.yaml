@@ -22,16 +22,18 @@ docid:
   type: DOI
 date:
 - type: issued
-  value: '2017'
+  value: '2011'
 contributor:
-- person:
+- organization:
     name:
-      completename:
-        content: NEHRP Consultants Joint Venture.
-        language:
-        - en
+    - content: NEHRP Consultants Joint Venture.
   role:
-  - type: author
+  - type: publisher
+- organization:
+    name:
+    - content: NEHRP Consultants Joint Venture.
+  role:
+  - type: publisher
 - organization:
     name:
     - content: National Institute of Standards and Technology (U.S.).

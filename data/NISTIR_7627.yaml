@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR7627
 title:
-- content: Development of soft armor conditioning protocols for NIJ standard - 0101.06
+- content: Development of soft armor conditioning protocols for NIJ standard-0101.06
   language:
   - en
   script:
@@ -16,7 +16,7 @@ title:
   - Latn
   format: text/plain
   type: title-part
-- content: Development of soft armor conditioning protocols for NIJ standard - 0101.06
+- content: Development of soft armor conditioning protocols for NIJ standard-0101.06
     - analytical results
   language:
   - en
@@ -41,7 +41,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Forester, Amanda L.
+        content: Forster, Amanda L.
         language:
         - en
   role:
@@ -49,7 +49,15 @@ contributor:
 - person:
     name:
       completename:
-        content: Rice, Kirk D.
+        content: Messin, Guillaume H. R.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Pintus, Pierre.
         language:
         - en
   role:
@@ -68,9 +76,28 @@ contributor:
 - person:
     name:
       completename:
-        content: Messin, Guillaume H. R.
+        content: Rice, Kirk D.
         language:
         - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Holmes, Gale A.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Chin, Joannie.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/no2021107282
   role:
   - type: author
 - person:
@@ -95,33 +122,6 @@ contributor:
         content: Vigoroux, Marie-Cecile.
         language:
         - en
-  role:
-  - type: author
-- person:
-    name:
-      completename:
-        content: Pintus, Pierre.
-        language:
-        - en
-  role:
-  - type: author
-- person:
-    name:
-      completename:
-        content: Holmes, Gale.
-        language:
-        - en
-  role:
-  - type: author
-- person:
-    name:
-      completename:
-        content: Chin, Joannie.
-        language:
-        - en
-    identifier:
-    - type: uri
-      id: https://id.loc.gov/authorities/names/no2021107282
   role:
   - type: author
 - organization:

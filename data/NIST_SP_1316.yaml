@@ -1,0 +1,102 @@
+---
+schema-version: v1.2.9
+id: NISTSP1316
+title:
+- content: Early electroscopes at the National Bureau of Standards
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.SP.1316
+  type: doi
+type: standard
+docid:
+- id: NIST SP 1316
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.SP.1316
+  type: DOI
+date:
+- type: issued
+  value: '2024'
+contributor:
+- person:
+    name:
+      completename:
+        content: Coursey, Bert M.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0003-1794-1918"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Frame, Paul.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Zimmerman, Brian E.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000- 0002-3278-0676"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Mitch, Michael G.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0009-0007-6623-0748"
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Physical Measurement Laboratory.
+  role:
+  - type: publisher
+abstract:
+- content: This report describes the use of five electroscopes used as national standards
+    for radioactivity for the United States during the early 20th century. This set
+    of instruments were used for the calibration of thousands of radium-226 sources
+    used in medical therapy in the US from 1913 to 1989. The provenance of these instruments
+    is recorded here to aid historians and curators in preservation of knowledge and
+    artifacts of early radioactivity measurements in the United States.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST special publication
+    format: text/plain
+  number: '1316'
+- title:
+    content: NIST special publication; NIST special pub; NIST SP
+    format: text/plain
+  number: '1316'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: NISTTN2279
+title:
+- content: Self-diffusion and binary-diffusion coefficients in gases
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.TN.2279
+  type: doi
+type: standard
+docid:
+- id: NIST TN 2279
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.TN.2279
+  type: DOI
+date:
+- type: issued
+  value: '2024'
+contributor:
+- person:
+    name:
+      completename:
+        content: Burgess Jr., Donald R.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-3428-6540"
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
+  role:
+  - type: publisher
+abstract:
+- content: 'In this work, we compiled and evaluated both self-diffusion and binary-diffusion
+    coefficients D for gases as a function of temperature. The tables in this paper
+    have approximately 300 individual diffusion coefficients for a wide range of chemical
+    classes: rare gases, small H/O/N/S species, hydrocarbons, and oxygen-, nitrogen-,
+    and halogen-substituted hydrocarbons. The recommended values for the diffusion
+    coefficients are for standard room temperature 298.15 K (D298) and standard atmospheric
+    pressure (101.325 kPa). We also provide expressions for many of the diffusion
+    coefficients as a function of temperature, where available in the literature.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST technical note; NIST tech note; NIST TN
+    format: text/plain
+  number: '2279'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

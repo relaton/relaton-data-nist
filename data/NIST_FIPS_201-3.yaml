@@ -23,6 +23,14 @@ date:
 - type: issued
   value: '2022'
 contributor:
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n88112126
+  role:
+  - type: publisher
 - person:
     name:
       completename:
@@ -34,7 +42,9 @@ contributor:
 - organization:
     name:
     - content: National Institute of Standards and Technology (U.S.)
-    - content: Information Technology Laboratory
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n88112126
   role:
   - type: publisher
 abstract:
@@ -55,16 +65,11 @@ abstract:
   format: text/plain
 series:
 - title:
-    content: |-
-      NIST federal information processing standards publication; NIST
-                      FIPS
+    content: NIST federal information processing standards publication; NIST FIPS
     format: text/plain
   number: 201-3
 place:
-- city: Gaithersburg
-  region:
-  - name: Maryland
-    iso: MD
+- city: Washington
 doctype:
   type: standard
 ext:

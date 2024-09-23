@@ -1,0 +1,100 @@
+---
+schema-version: v1.2.9
+id: NISTSP1200-31
+title:
+- content: Reference measurement procedure for the absolute quantification of albumin
+    in urine using isotope dilution-liquid chromatography-tandem mass spectrometry
+    (ID-LC-MS/MS)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.SP.1200-31
+  type: doi
+type: standard
+docid:
+- id: NIST SP 1200-31
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.SP.1200-31
+  type: DOI
+date:
+- type: issued
+  value: '2024'
+contributor:
+- person:
+    name:
+      completename:
+        content: Beasley-Green, Ashley.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-2065-4218"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Heckert, N. Alan.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-8430-6757"
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
+  role:
+  - type: publisher
+abstract:
+- content: Urinary excretion of albumin is a major diagnostic and prognostic marker
+    of kidney disease; therefore, accurate measurement of urine albumin is essential
+    to clinical diagnosis. To support the accuracy and comparability of clinical urine
+    albumin measurements, the National Institute of Standards and Technology (NIST)
+    has partnered with the National Institute of Diabetes and Digestive and Kidney
+    Diseases (NIDDK) Laboratory Working Group (LWG) and the International Federation
+    of Clinical Chemistry (IFCC) Working Group for the Standardization of Albumin
+    Assays in Urine (WG-SAU) to develop a reference measurement system for urine albumin.
+    NIST has developed the foundational components of the reference measurement system
+    for urine albumin, a series of higher-order reference materials and a reference
+    measurement procedure (RMP), to establish a traceability scheme that will link
+    clinical urine albumin to the International System of Units (SI). The NIST RMP
+    for urine albumin is based on the detection and quantification of signature proteotypic
+    (trypsin) albumin peptides via isotope dilution-liquid chromatography-tandem mass
+    spectrometry (ID-LCMS/MS) and multiple reaction monitoring (MRM). The RMP incorporates
+    an isotopically labeled (15N) full-length recombinant human serum albumin (15N-rHSA)
+    material as the internal standard, which permits the absolute quantification of
+    albumin in urine. Out of the 11 tryptic peptides selected to monitor the albumin
+    in urine, 5 albumin peptides were used for the absolute quantification of albumin
+    in urine. This publication outlines the NIST RMP for the absolute quantification
+    of albumin in urine by ID-LC-MS/MS.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST special publication
+    format: text/plain
+  number: 1200-31
+- title:
+    content: NIST special publication; NIST special pub; NIST SP
+    format: text/plain
+  number: 1200-31
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

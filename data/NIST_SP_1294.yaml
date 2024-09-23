@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.9
+id: NISTSP1294
+title:
+- content: 2023 NCNR annual reports
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.SP.1294
+  type: doi
+type: standard
+docid:
+- id: NIST SP 1294
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.SP.1294
+  type: DOI
+date:
+- type: issued
+  value: '2024'
+contributor:
+- person:
+    name:
+      completename:
+        content: Adams, James M.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Kline, Steven R.
+        language:
+        - en
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: NIST Center for Neutron Research
+  role:
+  - type: publisher
+series:
+- title:
+    content: NIST special publication
+    format: text/plain
+  number: 1294 2023
+- title:
+    content: NIST special publication; NIST special pub; NIST SP
+    format: text/plain
+  number: '1294'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

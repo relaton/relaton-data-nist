@@ -2,7 +2,22 @@
 schema-version: v1.2.9
 id: NISTIR6797
 title:
-- content: Metallurgy division, FY 2001 programs and accomplishments
+- content: Materials Science and Engineering Laboratory, Metallurgy Division
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: FY 2001 programs and accomplishments
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: Materials Science and Engineering Laboratory, Metallurgy Division - FY
+    2001 programs and accomplishments
   language:
   - en
   script:
@@ -48,12 +63,9 @@ contributor:
 - person:
     name:
       completename:
-        content: Ricker, Richard E.
+        content: Ricker, Jacob E.
         language:
         - en
-    identifier:
-    - type: uri
-      id: https://id.loc.gov/authorities/names/nr92033489
   role:
   - type: author
 - organization:

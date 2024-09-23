@@ -1,0 +1,154 @@
+---
+schema-version: v1.2.9
+id: NISTIR8278Ar1
+title:
+- content: National Online Informative References (OLIR) program
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: submission guidance for OLIR developers
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: National Online Informative References (OLIR) program - submission guidance
+    for OLIR developers
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.IR.8278Ar1
+  type: doi
+type: standard
+docid:
+- id: NIST IR 8278Ar1
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.IR.8278Ar1
+  type: DOI
+date:
+- type: issued
+  value: '2024'
+contributor:
+- person:
+    name:
+      completename:
+        content: Barrett, Matthew.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-7689-427X"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Keller, Nicole.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0003-4761-6817"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Quinn, Stephen.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0003-1436-684X"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Smith, Matthew C.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0003-1004-7171"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Scarfone, Karen.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0001-6334-9486"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Johnson, Vincent.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-7363-996X"
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+  role:
+  - type: publisher
+abstract:
+- content: The National Online Informative References (OLIR) Program is a NIST effort
+    to facilitate subject matter experts in defining standardized Online Informative
+    References (OLIRs), which are relationships between elements of documents from
+    cybersecurity, privacy, and other information and communications technology domains.
+    This document assists OLIR Developers in understanding the processes and requirements
+    for participating in the Program. The primary focus of the document is to instruct
+    Developers on how to complete an OLIR Template when submitting an OLIR to NIST
+    for inclusion in the OLIR Catalog.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: NISTIR8278A
+    docid:
+    - id: NIST IR 8278A
+      type: NIST
+    formattedref:
+      content: NIST IR 8278A
+      format: text/plain
+series:
+- title:
+    content: NISTIR
+    format: text/plain
+  number: 8278Ar1
+- title:
+    content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+    format: text/plain
+  number: 8278Ar1
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

@@ -2,8 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR6575
 title:
-- content: Electronics and Electrical Engineering Laboratory. Office of Law Enforcement
-    Standards
+- content: Office of Law Enforcement Standards
   language:
   - en
   script:
@@ -17,8 +16,7 @@ title:
   - Latn
   format: text/plain
   type: title-part
-- content: Electronics and Electrical Engineering Laboratory. Office of Law Enforcement
-    Standards - programs, activities, and accomplishments
+- content: Office of Law Enforcement Standards - programs, activities, and accomplishments
   language:
   - en
   script:
@@ -41,12 +39,21 @@ date:
 contributor:
 - organization:
     name:
-    - content: National Institute of Standards and Technology (U.S.)
+    - content: Electronics and Electrical Engineering Laboratory (National Institute
+        of Standards and Technology)
     identifier:
     - type: uri
-      id: https://id.loc.gov/authorities/names/n88112126
+      id: https://id.loc.gov/authorities/names/no91025820
   role:
   - type: publisher
+- person:
+    name:
+      completename:
+        content: Electronics and Electrical Engineering Laboratory.
+        language:
+        - en
+  role:
+  - type: author
 - organization:
     name:
     - content: National Institute of Standards and Technology (U.S.)

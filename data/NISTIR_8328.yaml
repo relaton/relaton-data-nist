@@ -1,0 +1,110 @@
+---
+schema-version: v1.2.9
+id: NISTIR8328
+title:
+- content: Mission critical voice quality of experience access time measurement method
+    addendum
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.IR.8328
+  type: doi
+type: standard
+docid:
+- id: NIST IR 8328
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.IR.8328
+  type: DOI
+date:
+- type: issued
+  value: '2020'
+contributor:
+- person:
+    name:
+      completename:
+        content: Greene, Chelsea
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0003-3213-9982"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Frey, Jesse.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Soetan, Zainab.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Pieper, Jaden
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Thompson, Silas.
+        language:
+        - en
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Communications Technology Laboratory.
+  role:
+  - type: publisher
+abstract:
+- content: Access time generally describes the time associated with the establishment
+    of a talk pathupon user request to speak and has been identified as a key component
+    of quality of experience (QoE) in voice communications. The National Institute
+    of Standards and Technology's (NIST) Public Safety Communications Research (PSCR)
+    division has previouslydeveloped an access time measurement method [1]. Improvements
+    were implemented inthe access delay measurement method to better handle the idiosyncrasies
+    of the variouspush-to-talk (PTT) technologies tested. These improvements include
+    a more robust audioalignment procedure, and graceful communications failure detection
+    and handling. Thispaper covers those improvements to the access delay measurement
+    system, results of testingProject 25 (P25) technologies with and without encryption
+    turned on, as well as someinitial Long Term Evolution (LTE) measurements.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NISTIR
+    format: text/plain
+  number: '8328'
+- title:
+    content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+    format: text/plain
+  number: '8328'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

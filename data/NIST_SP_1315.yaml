@@ -1,0 +1,85 @@
+---
+schema-version: v1.2.9
+id: NISTSP1315
+title:
+- content: NIST conference papers fiscal year 2022
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.SP.1315
+  type: doi
+type: standard
+docid:
+- id: NIST SP 1315
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.SP.1315
+  type: DOI
+date:
+- type: issued
+  value: '2024'
+contributor:
+- person:
+    name:
+      completename:
+        content: Miller, Kathryn.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0001-8005-089X"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Jew, Julie.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Dilawari, Myriam S.
+        language:
+        - en
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: NIST Research Library and Museum.
+  role:
+  - type: publisher
+abstract:
+- content: This Special Publication represents the work of researchers at professional
+    conferences, as reported by NIST employees in Fiscal Year 2022 (October 1, 2021–September
+    30, 2022).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST special publication
+    format: text/plain
+  number: '1315'
+- title:
+    content: NIST special publication; NIST special pub; NIST SP
+    format: text/plain
+  number: '1315'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

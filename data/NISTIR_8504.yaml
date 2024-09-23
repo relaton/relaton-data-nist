@@ -1,0 +1,75 @@
+---
+schema-version: v1.2.9
+id: NISTIR8504
+title:
+- content: Access control on NoSQL databases
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.IR.8504
+  type: doi
+type: standard
+docid:
+- id: NIST IR 8504
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.IR.8504
+  type: DOI
+date:
+- type: issued
+  value: '2024'
+contributor:
+- person:
+    name:
+      completename:
+        content: Hu, Vincent C.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-1648-0584"
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+  role:
+  - type: publisher
+abstract:
+- content: NoSQL database systems and data stores often outperform traditional RDBMS
+    in various aspects, such as data analysis efficiency, system performance, ease
+    of deployment, flexibility/scalability of data management, and users’ availability.
+    However, with an increasing number of people storing sensitive data in NoSQL databases,
+    security issues have become critical concerns. NoSQL databases suffer from vulnerabilities,
+    particularly due to the lack of effective support for data protection, including
+    weak authorization mechanisms. As access control is a fundamental data protection
+    requirement of any database management system DBMS, this document focuses on access
+    control on NoSQL database systems.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NISTIR
+    format: text/plain
+  number: '8504'
+- title:
+    content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+    format: text/plain
+  number: '8504'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

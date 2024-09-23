@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.9
+id: NISTSP1299
+title:
+- content: NIST cybersecurity framework 2.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: resource & overview guide
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: NIST cybersecurity framework 2.0 - resource & overview guide
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.SP.1299
+  type: doi
+type: standard
+docid:
+- id: NIST SP 1299
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.SP.1299
+  type: DOI
+date:
+- type: issued
+  value: '2024'
+contributor:
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+  role:
+  - type: publisher
+- person:
+    name:
+      completename:
+        content: National Institute of Standards and Technology (U.S.)
+        language:
+        - en
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+  role:
+  - type: publisher
+abstract:
+- content: The NIST Cybersecurity Framework (CSF) 2.0 can help organizations manage
+    and reduce their cybersecurityrisks as they start or improve their cybersecurity
+    program. The CSF outlines specific outcomes thatorganizations can achieve to address
+    risk. Other NIST resources help explain specific actions that can betaken to achieve
+    each outcome. This guide is a supplement to the NIST CSF and is not intended to
+    replace it.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST special publication
+    format: text/plain
+  number: '1299'
+- title:
+    content: NIST special publication; NIST special pub; NIST SP
+    format: text/plain
+  number: '1299'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

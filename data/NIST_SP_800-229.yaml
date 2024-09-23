@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.9
+id: NISTSP800-229
+title:
+- content: Fiscal year 2023 cybersecurity and privacy annual report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.SP.800-229
+  type: doi
+type: standard
+docid:
+- id: NIST SP 800-229
+  type: NIST
+  primary: true
+- id: 10.6028/NIST.SP.800-229
+  type: DOI
+date:
+- type: issued
+  value: '2024'
+contributor:
+- person:
+    name:
+      completename:
+        content: O’Reilly, Patrick.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0001-8289-0390"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Rigopoulos, Kristina.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0001-5223-8801"
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+  role:
+  - type: publisher
+abstract:
+- content: During Fiscal Year 2023 (FY 2023) – from October 1, 2022, through September
+    30, 2023 –the NIST Information Technology Laboratory (ITL) Cybersecurity and Privacy
+    Program successfully responded to numerous challenges and opportunities in security
+    and privacy. This Annual Report highlights the FY 2023 research activities for
+    the ITL Cybersecurity and Privacy Program, including the ongoing participation
+    and development of international standards; research and practical applications
+    in several key priority areas (e.g., Post Quantum Cryptography, updating the NIST
+    Cybersecurity Framework (CSF 2.0) and some new CSF profiles); accomplishments
+    in the area of improving software and supply chain cybersecurity; IoT cybersecurity
+    guidelines work; National Cybersecurity Center of Excellence (NCCoE) projects,
+    and setting up a new comment site for NIST’s Risk Management Framework work.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST special publication
+    format: text/plain
+  number: 800-229
+- title:
+    content: NIST special publication; NIST special pub; NIST SP
+    format: text/plain
+  number: 800-229
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

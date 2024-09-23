@@ -2,21 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR4994
 title:
-- content: Simulating the effect of beamed ceilings on smoke flow
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Part I. Comparison of numerical and experimental results
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-part
-- content: Simulating the effect of beamed ceilings on smoke flow - Part I. Comparison
+- content: Simulating the effect of beamed ceilings on smoke flow, part I. comparison
     of numerical and experimental results
   language:
   - en
@@ -44,6 +30,9 @@ contributor:
         content: Forney, Glenn P.
         language:
         - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n88098650
   role:
   - type: author
 - person:
@@ -52,12 +41,15 @@ contributor:
         content: Davis, William D.
         language:
         - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/no2005057295
   role:
   - type: author
 - person:
     name:
       completename:
-        content: Klote, John H.
+        content: Klote, John J.
         language:
         - en
   role:
@@ -65,13 +57,14 @@ contributor:
 - organization:
     name:
     - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n88112126
   role:
   - type: publisher
 series:
 - title:
-    content: |-
-      NISTIR; NIST IR; NIST interagency report; NIST internal
-                      report
+    content: NISTIR; NIST IR; NIST interagency report; NIST internal report
     format: text/plain
   number: '4994'
 place:

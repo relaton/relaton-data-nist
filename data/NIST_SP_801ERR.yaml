@@ -1,0 +1,61 @@
+---
+schema-version: v1.2.9
+id: NISTSP801err
+title:
+- content: Laser induced damage in optical materials
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 1989 errata
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: Laser induced damage in optical materials - 1989 errata
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.SP.801-errata
+  type: doi
+type: standard
+docid:
+- id: NIST SP 801err
+  type: NIST
+  primary: true
+- id: NIST.SP.801-errata
+  type: DOI
+date:
+- type: issued
+  value: '1990'
+contributor:
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n88112126
+  role:
+  - type: publisher
+series:
+- title:
+    content: NIST special publication; NIST special pub; NIST SP
+    format: text/plain
+  number: 801-errata
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

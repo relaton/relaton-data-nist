@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.9
+id: NSRDS-NBS30
+title:
+- content: High temperature properties and decomposition of inorganic salts, part
+    2. carbonates
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NBS.NSRDS.30
+  type: doi
+type: standard
+docid:
+- id: NSRDS-NBS 30
+  type: NIST
+  primary: true
+- id: NBS.NSRDS.30
+  type: DOI
+date:
+- type: issued
+  value: '1969'
+contributor:
+- person:
+    name:
+      completename:
+        content: Stern, K. H. (Kurt H.)
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n83825960
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Weise, E. L.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n89632344
+  role:
+  - type: author
+- organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n79021148
+  role:
+  - type: publisher
+series:
+- title:
+    content: NIST NSRDS; NSRDS-NIST; National standard reference data series
+    format: text/plain
+  number: '30'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

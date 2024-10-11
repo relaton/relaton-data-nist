@@ -1,0 +1,59 @@
+---
+schema-version: v1.2.9
+id: NBSLC111
+title:
+- content: "\"Letter Circular 111"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: characteristics, treatment and uses of high-speed tool steel"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: '"Letter Circular 111 - characteristics, treatment and uses of high-speed
+    tool steel"'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NBS.LCIRC.111
+  type: doi
+type: standard
+docid:
+- id: NBS LC 111
+  type: NIST
+  primary: true
+- id: NBS.LCIRC.111
+  type: DOI
+date:
+- type: issued
+  value: '1924'
+contributor:
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+  role:
+  - type: publisher
+series:
+- title:
+    content: NBSLCIRC; NBS LCIRC; NBS letter circular
+    format: text/plain
+  number: '111'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

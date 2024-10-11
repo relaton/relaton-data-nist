@@ -1,0 +1,58 @@
+---
+schema-version: v1.2.9
+id: NBSLC473
+title:
+- content: "\"Letter Circular 473"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: photoelectric ""colorimeters"""
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: '"Letter Circular 473 - photoelectric ""colorimeters"""'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NBS.LCIRC.473
+  type: doi
+type: standard
+docid:
+- id: NBS LC 473
+  type: NIST
+  primary: true
+- id: NBS.LCIRC.473
+  type: DOI
+date:
+- type: issued
+  value: '1936'
+contributor:
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+  role:
+  - type: publisher
+series:
+- title:
+    content: NBSLCIRC; NBS LCIRC; NBS letter circular
+    format: text/plain
+  number: '473'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

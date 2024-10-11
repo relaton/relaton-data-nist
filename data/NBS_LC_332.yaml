@@ -1,0 +1,58 @@
+---
+schema-version: v1.2.9
+id: NBSLC332
+title:
+- content: Letter Circular 332
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: publications relating to photography
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: Letter Circular 332 - publications relating to photography
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NBS.LCIRC.332
+  type: doi
+type: standard
+docid:
+- id: NBS LC 332
+  type: NIST
+  primary: true
+- id: NBS.LCIRC.332
+  type: DOI
+date:
+- type: issued
+  value: '1932'
+contributor:
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+  role:
+  - type: publisher
+series:
+- title:
+    content: NBSLCIRC; NBS LCIRC; NBS letter circular
+    format: text/plain
+  number: '332'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

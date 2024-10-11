@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.9
+id: NISTSP500-280ver2.1
+title:
+- content: Mobile ID device best practice recommendation
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: version 2.1
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: Mobile ID device best practice recommendation - version 2.1
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.SP.500-280v2.1
+  type: doi
+type: standard
+docid:
+- id: NIST SP 500-280ver2.1
+  type: NIST
+  primary: true
+- id: NIST.SP.500-280v2.1
+  type: DOI
+date:
+- type: issued
+  value: '2016'
+contributor:
+- person:
+    name:
+      completename:
+        content: Mangold, Kevin.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/no2020151052
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/no97056762
+  role:
+  - type: publisher
+series:
+- title:
+    content: NIST special publication; NIST special pub; NIST SP
+    format: text/plain
+  number: 500-280v2.1
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

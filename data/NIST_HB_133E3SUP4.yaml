@@ -1,0 +1,77 @@
+---
+schema-version: v1.2.9
+id: NISTHB133e3sup4
+title:
+- content: Checking the net contents of packaged goods
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.HB.133e3supp4
+  type: doi
+type: standard
+docid:
+- id: NIST HB 133e3sup4
+  type: NIST
+  primary: true
+- id: NIST.HB.133e3supp4
+  type: DOI
+date:
+- type: issued
+  value: '1994'
+contributor:
+- person:
+    name:
+      completename:
+        content: Brickenkamp, Caroll S.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Butcher, Ken.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/nb2005012730
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Coleman, Tom.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/no97044198
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n88112126
+  role:
+  - type: publisher
+series:
+- title:
+    content: NIST handbook; NIST HB
+    format: text/plain
+  number: 133e3supp4
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

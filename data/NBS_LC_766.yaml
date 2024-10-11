@@ -1,0 +1,59 @@
+---
+schema-version: v1.2.9
+id: NBSLC766
+title:
+- content: Letter Circular 766
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: modern books on horology (supersedes Letter Circular 668)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: Letter Circular 766 - modern books on horology (supersedes Letter Circular
+    668)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NBS.LCIRC.766
+  type: doi
+type: standard
+docid:
+- id: NBS LC 766
+  type: NIST
+  primary: true
+- id: NBS.LCIRC.766
+  type: DOI
+date:
+- type: issued
+  value: '1944'
+contributor:
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+  role:
+  - type: publisher
+series:
+- title:
+    content: NBSLCIRC; NBS LCIRC; NBS letter circular
+    format: text/plain
+  number: '766'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

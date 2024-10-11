@@ -1,0 +1,86 @@
+---
+schema-version: v1.2.9
+id: NISTSP800-85Ar2
+title:
+- content: PIV card application and middleware interface test guidelines (SP800-73-3
+    compliance)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.SP.800-85a-2
+  type: doi
+type: standard
+docid:
+- id: NIST SP 800-85Ar2
+  type: NIST
+  primary: true
+- id: NIST.SP.800-85a-2
+  type: DOI
+date:
+- type: issued
+  value: '2010'
+contributor:
+- person:
+    name:
+      completename:
+        content: Candramauḷi, Ār.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n2015202084
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Ferraiolo, H.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Mehta, K.
+        language:
+        - en
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n88112126
+  role:
+  - type: publisher
+abstract:
+- content: 'The objective of this document is to provide test requirements and test
+    assertions that could be used to validate the compliance/conformance of two PIV
+    components: PIV middleware and PIV card application with the specification in
+    NIST SP 800-73-3, Interfaces for Personal Identity Verification.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST special publication; NIST special pub; NIST SP
+    format: text/plain
+  number: 800-85a-2
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

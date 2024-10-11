@@ -1,0 +1,86 @@
+---
+schema-version: v1.2.9
+id: NBSMONO125sup1
+title:
+- content: Thermocouple reference tables based on the IPTS-68
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: reference tables in degrees Fahrenheit for thermoelements versus platinum
+    (Pt-67)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: Thermocouple reference tables based on the IPTS-68 - reference tables in
+    degrees Fahrenheit for thermoelements versus platinum (Pt-67)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NBS.MONO.125supp1
+  type: doi
+type: standard
+docid:
+- id: NBS MONO 125sup1
+  type: NIST
+  primary: true
+- id: NBS.MONO.125supp1
+  type: DOI
+date:
+- type: issued
+  value: '1975'
+contributor:
+- person:
+    name:
+      completename:
+        content: Powell, Robert L.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n50021820
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Burns, G. W. (George W.)
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n93015001
+  role:
+  - type: author
+- organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n79021148
+  role:
+  - type: publisher
+series:
+- title:
+    content: NBS monograph; NBS MONO
+    format: text/plain
+  number: 125supp1
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: NBSSP647pt1
+title:
+- content: The economic effects of fracture in the United States
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NBS.SP.647p1
+  type: doi
+type: standard
+docid:
+- id: NBS SP 647pt1
+  type: NIST
+  primary: true
+- id: NBS.SP.647p1
+  type: DOI
+date:
+- type: issued
+  value: '1983'
+contributor:
+- person:
+    name:
+      completename:
+        content: Reed, R. P. (Richard Palmer),
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n78089050
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Smith, J. H.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n84184465
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Christ, B. W.
+        language:
+        - en
+  role:
+  - type: author
+- organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n79021148
+  role:
+  - type: publisher
+series:
+- title:
+    content: NBS special publication; NBS special pub; NBS SP
+    format: text/plain
+  number: 647p1
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

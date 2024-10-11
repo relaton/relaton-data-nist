@@ -1,0 +1,66 @@
+---
+schema-version: v1.2.9
+id: NISTSP260-176e2018
+title:
+- content: SRM NIST standard reference materials 2018 catalog
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.SP.260-176-2018
+  type: doi
+type: standard
+docid:
+- id: NIST SP 260-176e2018
+  type: NIST
+  primary: true
+- id: NIST.SP.260-176-2018
+  type: DOI
+date:
+- type: issued
+  value: '2018'
+contributor:
+- person:
+    name:
+      completename:
+        content: Montgomery, Regina R.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/no2022062310
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Benkstein, Jennifer E.
+        language:
+        - en
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Material Measurement Laboratory (U.S.)
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/no2012096740
+  role:
+  - type: publisher
+series:
+- title:
+    content: NIST special publication; NIST special pub; NIST SP
+    format: text/plain
+  number: 260-176-2018
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

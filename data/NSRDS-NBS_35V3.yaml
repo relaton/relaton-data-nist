@@ -1,0 +1,74 @@
+---
+schema-version: v1.2.9
+id: NSRDS-NBS35v3
+title:
+- content: Atomic energy levels as derived from the analyses of optical spectra
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: volume III. 42Mo to 57La, 72Hf to 89Ac
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: Atomic energy levels as derived from the analyses of optical spectra -
+    volume III. 42Mo to 57La, 72Hf to 89Ac
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NBS.NSRDS.35v3
+  type: doi
+type: standard
+docid:
+- id: NSRDS-NBS 35v3
+  type: NIST
+  primary: true
+- id: NBS.NSRDS.35v3
+  type: DOI
+date:
+- type: issued
+  value: '1971'
+contributor:
+- person:
+    name:
+      completename:
+        content: Moore, Charlotte Emma,
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n50004194
+  role:
+  - type: author
+- organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n79021148
+  role:
+  - type: publisher
+series:
+- title:
+    content: NIST NSRDS; NSRDS-NIST; National standard reference data series
+    format: text/plain
+  number: 35v3
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

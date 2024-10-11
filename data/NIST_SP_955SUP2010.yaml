@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: NISTSP955sup2010
+title:
+- content: Responding to national needs
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: supplement to appendices 1994-2009
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: Responding to national needs - supplement to appendices 1994-2009
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.SP.955supp2010
+  type: doi
+type: standard
+docid:
+- id: NIST SP 955sup2010
+  type: NIST
+  primary: true
+- id: NIST.SP.955supp2010
+  type: DOI
+date:
+- type: issued
+  value: '2010'
+contributor:
+- person:
+    name:
+      completename:
+        content: Martin, Keith.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/nr2007010744
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Silcox, Barbara P.
+        language:
+        - en
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n88112126
+  role:
+  - type: publisher
+series:
+- title:
+    content: NIST special publication; NIST special pub; NIST SP
+    format: text/plain
+  number: 955supp2010
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,59 @@
+---
+schema-version: v1.2.9
+id: NBSMONO32sup
+title:
+- content: Revision of the NBS tables of spectral-line intensities below 2450 ©⁵
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NBS.MONO.32supp
+  type: doi
+type: standard
+docid:
+- id: NBS MONO 32sup
+  type: NIST
+  primary: true
+- id: NBS.MONO.32supp
+  type: DOI
+date:
+- type: issued
+  value: '1967'
+contributor:
+- person:
+    name:
+      completename:
+        content: Corliss, Charles H.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n81109054
+  role:
+  - type: author
+- organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n79021148
+  role:
+  - type: publisher
+series:
+- title:
+    content: NBS monograph; NBS MONO
+    format: text/plain
+  number: 32supp
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

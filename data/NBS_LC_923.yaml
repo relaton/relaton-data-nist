@@ -1,0 +1,58 @@
+---
+schema-version: v1.2.9
+id: NBSLC923
+title:
+- content: Letter Circular 923
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: acoustics (supersedes Letter Circular 778)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: Letter Circular 923 - acoustics (supersedes Letter Circular 778)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NBS.LCIRC.923
+  type: doi
+type: standard
+docid:
+- id: NBS LC 923
+  type: NIST
+  primary: true
+- id: NBS.LCIRC.923
+  type: DOI
+date:
+- type: issued
+  value: '1948'
+contributor:
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+  role:
+  - type: publisher
+series:
+- title:
+    content: NBSLCIRC; NBS LCIRC; NBS letter circular
+    format: text/plain
+  number: '923'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

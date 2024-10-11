@@ -1,0 +1,66 @@
+---
+schema-version: v1.2.9
+id: NBSLC813
+title:
+- content: Letter Circular 813
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: dampness in basements and ground floors
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: Letter Circular 813 - dampness in basements and ground floors
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NBS.LCIRC.813
+  type: doi
+type: standard
+docid:
+- id: NBS LC 813
+  type: NIST
+  primary: true
+- id: NBS.LCIRC.813
+  type: DOI
+date:
+- type: issued
+  value: '1946'
+contributor:
+- person:
+    name:
+      completename:
+        content: '"Dill, Richard S."'
+        language:
+        - en
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+  role:
+  - type: publisher
+series:
+- title:
+    content: NBSLCIRC; NBS LCIRC; NBS letter circular
+    format: text/plain
+  number: '813'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

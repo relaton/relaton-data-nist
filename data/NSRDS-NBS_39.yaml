@@ -1,0 +1,59 @@
+---
+schema-version: v1.2.9
+id: NSRDS-NBS39
+title:
+- content: Tables of molecular vibrational frequencies, consolidated volume i
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NBS.NSRDS.39
+  type: doi
+type: standard
+docid:
+- id: NSRDS-NBS 39
+  type: NIST
+  primary: true
+- id: NBS.NSRDS.39
+  type: DOI
+date:
+- type: issued
+  value: '1972'
+contributor:
+- person:
+    name:
+      completename:
+        content: Shimanouchi, Takehiko,
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n87925089
+  role:
+  - type: author
+- organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n79021148
+  role:
+  - type: publisher
+series:
+- title:
+    content: NIST NSRDS; NSRDS-NIST; National standard reference data series
+    format: text/plain
+  number: '39'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

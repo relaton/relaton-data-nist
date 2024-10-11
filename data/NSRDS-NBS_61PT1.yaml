@@ -1,0 +1,101 @@
+---
+schema-version: v1.2.9
+id: NSRDS-NBS61pt1
+title:
+- content: Physical properties data compilations relevant to energy℗ storage
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'I. molten salts: eutectic data'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: 'Physical properties data compilations relevant to energy℗ storage - I.
+    molten salts: eutectic data'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NBS.NSRDS.61p1
+  type: doi
+type: standard
+docid:
+- id: NSRDS-NBS 61pt1
+  type: NIST
+  primary: true
+- id: NBS.NSRDS.61p1
+  type: DOI
+date:
+- type: issued
+  value: '1978'
+contributor:
+- person:
+    name:
+      completename:
+        content: Janz, George J.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n79043982
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Allen, Carolyn B.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Downey, Joseph R.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Tomkins, R. P. T. (Reginald P. T.)
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n81012522
+  role:
+  - type: author
+- organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n79021148
+  role:
+  - type: publisher
+series:
+- title:
+    content: NIST NSRDS; NSRDS-NIST; National standard reference data series
+    format: text/plain
+  number: 61p1
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

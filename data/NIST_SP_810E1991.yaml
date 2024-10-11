@@ -1,0 +1,77 @@
+---
+schema-version: v1.2.9
+id: NISTSP810e1991
+title:
+- content: 1991 Directory of accredited laboratories
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.SP.810-1991
+  type: doi
+type: standard
+docid:
+- id: NIST SP 810e1991
+  type: NIST
+  primary: true
+- id: NIST.SP.810-1991
+  type: DOI
+date:
+- type: issued
+  value: '1991'
+contributor:
+- person:
+    name:
+      completename:
+        content: Trahey, Nancy M.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: White, Vanda R.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/no00041322
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Horlick, Jeffrey.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n84134731
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n88112126
+  role:
+  - type: publisher
+series:
+- title:
+    content: NIST special publication; NIST special pub; NIST SP
+    format: text/plain
+  number: 810-1991
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

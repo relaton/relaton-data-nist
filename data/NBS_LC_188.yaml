@@ -1,0 +1,66 @@
+---
+schema-version: v1.2.9
+id: NBSLC188
+title:
+- content: Letter Circular 188
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: sound proof partitions
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: Letter Circular 188 - sound proof partitions
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NBS.LCIRC.188
+  type: doi
+type: standard
+docid:
+- id: NBS LC 188
+  type: NIST
+  primary: true
+- id: NBS.LCIRC.188
+  type: DOI
+date:
+- type: issued
+  value: '1925'
+contributor:
+- person:
+    name:
+      completename:
+        content: '"Heyl, P. R."'
+        language:
+        - en
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+  role:
+  - type: publisher
+series:
+- title:
+    content: NBSLCIRC; NBS LCIRC; NBS letter circular
+    format: text/plain
+  number: '188'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

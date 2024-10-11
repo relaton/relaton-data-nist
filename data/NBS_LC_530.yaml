@@ -1,0 +1,74 @@
+---
+schema-version: v1.2.9
+id: NBSLC530
+title:
+- content: Letter Circular 530
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: salt spray test
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: Letter Circular 530 - salt spray test
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NBS.LCIRC.530
+  type: doi
+type: standard
+docid:
+- id: NBS LC 530
+  type: NIST
+  primary: true
+- id: NBS.LCIRC.530
+  type: DOI
+date:
+- type: issued
+  value: '1938'
+contributor:
+- person:
+    name:
+      completename:
+        content: '"Mutchler, W. H."'
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: '"Strausser, P. W. C."'
+        language:
+        - en
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+  role:
+  - type: publisher
+series:
+- title:
+    content: NBSLCIRC; NBS LCIRC; NBS letter circular
+    format: text/plain
+  number: '530'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

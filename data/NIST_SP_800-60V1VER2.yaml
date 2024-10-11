@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: NISTSP800-60v1ver2
+title:
+- content: Guide for mapping types of information and information systems to security
+    categories
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.SP.800-60ver2v1
+  type: doi
+type: standard
+docid:
+- id: NIST SP 800-60v1ver2
+  type: NIST
+  primary: true
+- id: NIST.SP.800-60ver2v1
+  type: DOI
+date:
+- type: issued
+  value: '2004'
+contributor:
+- person:
+    name:
+      completename:
+        content: Barker, William C.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/no97036643
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Lee, Annabelle.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n00014747
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/no2008015449
+  role:
+  - type: publisher
+series:
+- title:
+    content: NIST special publication; NIST special pub; NIST SP
+    format: text/plain
+  number: 800-60ver2v1
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,59 @@
+---
+schema-version: v1.2.9
+id: NBSBMS17sup
+title:
+- content: Sound insulation of wall and floor constructions
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NBS.BMS.17supp
+  type: doi
+type: standard
+docid:
+- id: NBS BMS 17sup
+  type: NIST
+  primary: true
+- id: NBS.BMS.17supp
+  type: DOI
+date:
+- type: issued
+  value: '1940'
+contributor:
+- person:
+    name:
+      completename:
+        content: Chrisler, V. L.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n85240529
+  role:
+  - type: author
+- organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n79021148
+  role:
+  - type: publisher
+series:
+- title:
+    content: NBS building materials and structures report; NBS BMS
+    format: text/plain
+  number: 17supp
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

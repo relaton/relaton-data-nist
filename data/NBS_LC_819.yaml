@@ -1,0 +1,59 @@
+---
+schema-version: v1.2.9
+id: NBSLC819
+title:
+- content: Letter Circular 819
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: National Bureau of Standards specification for knoop indenters
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: Letter Circular 819 - National Bureau of Standards specification for knoop
+    indenters
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NBS.LCIRC.819
+  type: doi
+type: standard
+docid:
+- id: NBS LC 819
+  type: NIST
+  primary: true
+- id: NBS.LCIRC.819
+  type: DOI
+date:
+- type: issued
+  value: '1946'
+contributor:
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+  role:
+  - type: publisher
+series:
+- title:
+    content: NBSLCIRC; NBS LCIRC; NBS letter circular
+    format: text/plain
+  number: '819'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

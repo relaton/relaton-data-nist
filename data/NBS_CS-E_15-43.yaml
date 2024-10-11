@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.9
+id: NBSCS-E15-43
+title:
+- content: Men's pajamas (made from woven fabrics) second edition
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NBS.CS.e15-43
+  type: doi
+type: standard
+docid:
+- id: NBS CS-E 15-43
+  type: NIST
+  primary: true
+- id: NBS.CS.e15-43
+  type: DOI
+date:
+- type: issued
+  value: '1943'
+contributor:
+- organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n79021148
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n79021148
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n88112126
+  role:
+  - type: publisher
+series:
+- title:
+    content: NBS commercial standard; NBS CS
+    format: text/plain
+  number: 15-43
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

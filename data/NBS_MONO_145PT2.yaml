@@ -1,0 +1,95 @@
+---
+schema-version: v1.2.9
+id: NBSMONO145pt2
+title:
+- content: Tables of spectral-line intensities
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: part 2- arranged by wavelengths
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: Tables of spectral-line intensities - part 2- arranged by wavelengths
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NBS.MONO.145p2
+  type: doi
+type: standard
+docid:
+- id: NBS MONO 145pt2
+  type: NIST
+  primary: true
+- id: NBS.MONO.145p2
+  type: DOI
+date:
+- type: issued
+  value: '1975'
+contributor:
+- person:
+    name:
+      completename:
+        content: Meggers, William F. (William Frederick),
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/no98130690
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Corliss, Charles H.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n81109054
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Scribner, Bourdon F. (Bourdon Francis),
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n89667089
+  role:
+  - type: author
+- organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n79021148
+  role:
+  - type: publisher
+series:
+- title:
+    content: NBS monograph; NBS MONO
+    format: text/plain
+  number: 145p2
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

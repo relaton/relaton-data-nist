@@ -1,0 +1,60 @@
+---
+schema-version: v1.2.9
+id: NBSLC772
+title:
+- content: "\"Letter Circular 772"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: weights and measures, a selected list of publications of the National Bureau
+    of Standards (supersedes Letter Circular 666)"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: '"Letter Circular 772 - weights and measures, a selected list of publications
+    of the National Bureau of Standards (supersedes Letter Circular 666)"'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NBS.LCIRC.772
+  type: doi
+type: standard
+docid:
+- id: NBS LC 772
+  type: NIST
+  primary: true
+- id: NBS.LCIRC.772
+  type: DOI
+date:
+- type: issued
+  value: '1944'
+contributor:
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+  role:
+  - type: publisher
+series:
+- title:
+    content: NBSLCIRC; NBS LCIRC; NBS letter circular
+    format: text/plain
+  number: '772'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

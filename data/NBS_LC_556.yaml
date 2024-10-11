@@ -1,0 +1,58 @@
+---
+schema-version: v1.2.9
+id: NBSLC556
+title:
+- content: Letter Circular 556
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: automotive brake lining
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: Letter Circular 556 - automotive brake lining
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NBS.LCIRC.556
+  type: doi
+type: standard
+docid:
+- id: NBS LC 556
+  type: NIST
+  primary: true
+- id: NBS.LCIRC.556
+  type: DOI
+date:
+- type: issued
+  value: '1939'
+contributor:
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+  role:
+  - type: publisher
+series:
+- title:
+    content: NBSLCIRC; NBS LCIRC; NBS letter circular
+    format: text/plain
+  number: '556'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

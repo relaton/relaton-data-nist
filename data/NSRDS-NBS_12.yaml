@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: NSRDS-NBS12
+title:
+- content: Tables for the rigid asymmetric rotor
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: transformation coefficients from symmetric to asymmetric bases and expectation
+    values of P^2<-z, P4<-z, and P2<-z
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: Tables for the rigid asymmetric rotor - transformation coefficients from
+    symmetric to asymmetric bases and expectation values of P^2<-z, P4<-z, and P2<-z
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NBS.NSRDS.12
+  type: doi
+type: standard
+docid:
+- id: NSRDS-NBS 12
+  type: NIST
+  primary: true
+- id: NBS.NSRDS.12
+  type: DOI
+date:
+- type: issued
+  value: '1968'
+contributor:
+- person:
+    name:
+      completename:
+        content: Schwendeman, Richard H.
+        language:
+        - en
+  role:
+  - type: author
+- organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n79021148
+  role:
+  - type: publisher
+series:
+- title:
+    content: NIST NSRDS; NSRDS-NIST; National standard reference data series
+    format: text/plain
+  number: '12'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

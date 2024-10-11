@@ -1,0 +1,67 @@
+---
+schema-version: v1.2.9
+id: NBSLC736
+title:
+- content: Letter Circular 736
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: liquid densities of eleven hydrocarbons found in commercial C4 mixtures
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: Letter Circular 736 - liquid densities of eleven hydrocarbons found in
+    commercial C4 mixtures
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NBS.LCIRC.736
+  type: doi
+type: standard
+docid:
+- id: NBS LC 736
+  type: NIST
+  primary: true
+- id: NBS.LCIRC.736
+  type: DOI
+date:
+- type: issued
+  value: '1943'
+contributor:
+- person:
+    name:
+      completename:
+        content: '"Cragoe, C. S."'
+        language:
+        - en
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+  role:
+  - type: publisher
+series:
+- title:
+    content: NBSLCIRC; NBS LCIRC; NBS letter circular
+    format: text/plain
+  number: '736'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

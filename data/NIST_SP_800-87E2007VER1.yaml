@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.9
+id: NISTSP800-87e2007ver1
+title:
+- content: Codes for the identification of federal and federally assisted organizations
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.SP.800-87ver1e2007
+  type: doi
+type: standard
+docid:
+- id: NIST SP 800-87e2007ver1
+  type: NIST
+  primary: true
+- id: NIST.SP.800-87ver1e2007
+  type: DOI
+date:
+- type: issued
+  value: '2007'
+contributor:
+- person:
+    name:
+      completename:
+        content: Barker, William C.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/no97036643
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Ferraiolo, Hildegard.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/no2007017398
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/no2008015449
+  role:
+  - type: publisher
+series:
+- title:
+    content: NIST special publication; NIST special pub; NIST SP
+    format: text/plain
+  number: 800-87ver1e2007
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

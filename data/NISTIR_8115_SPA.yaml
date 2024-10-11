@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.9
+id: NISTIR8115spa
+title:
+- content: Guia estadounidense para el cumplimiento de requerimientos para textiles
+    de linea hogar y de vestuario
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.IR.8115es
+  type: doi
+type: standard
+docid:
+- id: NIST IR 8115 spa
+  type: NIST
+  primary: true
+- id: NIST.IR.8115es
+  type: DOI
+date:
+- type: issued
+  value: '2017'
+contributor:
+- person:
+    name:
+      completename:
+        content: Benson, Lisa M.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Reczek, Karen K.
+        language:
+        - en
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: National Institute of Standards and Technology.
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n88112126
+  role:
+  - type: publisher
+series:
+- title:
+    content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+    format: text/plain
+  number: 8115es
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

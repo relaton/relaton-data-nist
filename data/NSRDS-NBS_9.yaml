@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: NSRDS-NBS9
+title:
+- content: Tables of bimolecular gas reactions
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NBS.NSRDS.9
+  type: doi
+type: standard
+docid:
+- id: NSRDS-NBS 9
+  type: NIST
+  primary: true
+- id: NBS.NSRDS.9
+  type: DOI
+date:
+- type: issued
+  value: '1967'
+contributor:
+- person:
+    name:
+      completename:
+        content: Trotman-Dickenson, A. F.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/nr92007171
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Milne, G. S.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/nr92007172
+  role:
+  - type: author
+- organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n79021148
+  role:
+  - type: publisher
+series:
+- title:
+    content: NIST NSRDS; NSRDS-NIST; National standard reference data series
+    format: text/plain
+  number: '9'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

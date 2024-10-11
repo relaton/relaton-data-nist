@@ -1,0 +1,59 @@
+---
+schema-version: v1.2.9
+id: NBSSP305sup8
+title:
+- content: Publications of the National Bureau of Standards 1976 Catalog
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NBS.SP.305supp8
+  type: doi
+type: standard
+docid:
+- id: NBS SP 305sup8
+  type: NIST
+  primary: true
+- id: NBS.SP.305supp8
+  type: DOI
+date:
+- type: issued
+  value: '1977'
+contributor:
+- person:
+    name:
+      completename:
+        content: Burris, Betty L.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n79133410
+  role:
+  - type: author
+- organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n79021148
+  role:
+  - type: publisher
+series:
+- title:
+    content: NBS special publication; NBS special pub; NBS SP
+    format: text/plain
+  number: 305supp8
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

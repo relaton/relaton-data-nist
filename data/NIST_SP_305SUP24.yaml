@@ -1,0 +1,56 @@
+---
+schema-version: v1.2.9
+id: NISTSP305sup24
+title:
+- content: Publications of the National Institute of Standards and Technology 1992
+    Catalog
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.SP.305supp24
+  type: doi
+type: standard
+docid:
+- id: NIST SP 305sup24
+  type: NIST
+  primary: true
+- id: NIST.SP.305supp24
+  type: DOI
+date:
+- type: issued
+  value: '1995'
+contributor:
+- person:
+    name:
+      completename:
+        content: King, Debby.
+        language:
+        - en
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n88112126
+  role:
+  - type: publisher
+series:
+- title:
+    content: NIST special publication; NIST special pub; NIST SP
+    format: text/plain
+  number: 305supp24
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,58 @@
+---
+schema-version: v1.2.9
+id: NBSLC301
+title:
+- content: Letter Circular 301
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: traffic paint
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: Letter Circular 301 - traffic paint
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NBS.LCIRC.301
+  type: doi
+type: standard
+docid:
+- id: NBS LC 301
+  type: NIST
+  primary: true
+- id: NBS.LCIRC.301
+  type: DOI
+date:
+- type: issued
+  value: '1931'
+contributor:
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+  role:
+  - type: publisher
+series:
+- title:
+    content: NBSLCIRC; NBS LCIRC; NBS letter circular
+    format: text/plain
+  number: '301'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

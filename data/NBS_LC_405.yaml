@@ -1,0 +1,62 @@
+---
+schema-version: v1.2.9
+id: NBSLC405
+title:
+- content: "\"Letter Circular 405"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: testing machines for determining the strength and other properties of engineering
+    materials in the laboratories of the National Bureau of Standards, Department
+    of Commerce, Washington, D.C. "
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: '"Letter Circular 405 - testing machines for determining the strength and
+    other properties of engineering materials in the laboratories of the National
+    Bureau of Standards, Department of Commerce, Washington, D.C. "'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NBS.LCIRC.405
+  type: doi
+type: standard
+docid:
+- id: NBS LC 405
+  type: NIST
+  primary: true
+- id: NBS.LCIRC.405
+  type: DOI
+date:
+- type: issued
+  value: '1934'
+contributor:
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+  role:
+  - type: publisher
+series:
+- title:
+    content: NBSLCIRC; NBS LCIRC; NBS letter circular
+    format: text/plain
+  number: '405'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

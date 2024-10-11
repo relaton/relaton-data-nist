@@ -1,0 +1,137 @@
+---
+schema-version: v1.2.9
+id: NISTSP800-73r3
+title:
+- content: Interfaces for personal identity verification
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: end-point PIV card application namespace, data model and representation
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: Interfaces for personal identity verification - end-point PIV card application
+    namespace, data model and representation
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.SP.800-73-3
+  type: doi
+type: standard
+docid:
+- id: NIST SP 800-73r3
+  type: NIST
+  primary: true
+- id: NIST.SP.800-73-3
+  type: DOI
+date:
+- type: issued
+  value: '2010'
+contributor:
+- person:
+    name:
+      completename:
+        content: Candramauḷi, Ār.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n2015202084
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Cooper, D. A.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Dray, J. F.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Ferraiolo, H.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Guthery, S. B.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: MacGregor, W. I.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Mehta, K.
+        language:
+        - en
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n88112126
+  role:
+  - type: publisher
+abstract:
+- content: FIPS 201, Personal Identity Verification (PIV) of Federal Employees and
+    Contractors, defines procedures for the PIV lifecycle activities including identity
+    proofing, registration, PIV Card issuance, and PIV Card usage. FIPS 201 also specifies
+    that the identity credentials must be stored on a smart card. SP 800-73-3 contains
+    the technical specifications to interface with the smart card to retrieve and
+    use the identity credentials. The specifications reflect the design goals of interoperability
+    and PIV Card functions. The goals are addressed by specifying a PIV data model,
+    card edge interface, and application programming interface. Moreover, SP 800-73-3
+    enumerates requirements where the standards include options and branches.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST special publication; NIST special pub; NIST SP
+    format: text/plain
+  number: 800-73-3
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

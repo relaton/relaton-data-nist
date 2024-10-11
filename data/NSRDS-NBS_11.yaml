@@ -1,0 +1,59 @@
+---
+schema-version: v1.2.9
+id: NSRDS-NBS11
+title:
+- content: Tables of molecular vibrational frequencies, part 2
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NBS.NSRDS.11
+  type: doi
+type: standard
+docid:
+- id: NSRDS-NBS 11
+  type: NIST
+  primary: true
+- id: NBS.NSRDS.11
+  type: DOI
+date:
+- type: issued
+  value: '1967'
+contributor:
+- person:
+    name:
+      completename:
+        content: Shimanouchi, Takehiko,
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n87925089
+  role:
+  - type: author
+- organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n79021148
+  role:
+  - type: publisher
+series:
+- title:
+    content: NIST NSRDS; NSRDS-NIST; National standard reference data series
+    format: text/plain
+  number: '11'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

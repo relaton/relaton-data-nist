@@ -1,0 +1,58 @@
+---
+schema-version: v1.2.9
+id: NBSLC851
+title:
+- content: Letter Circular 851
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: cement (supersedes Letter Circular 641)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: Letter Circular 851 - cement (supersedes Letter Circular 641)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NBS.LCIRC.851
+  type: doi
+type: standard
+docid:
+- id: NBS LC 851
+  type: NIST
+  primary: true
+- id: NBS.LCIRC.851
+  type: DOI
+date:
+- type: issued
+  value: '1947'
+contributor:
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+  role:
+  - type: publisher
+series:
+- title:
+    content: NBSLCIRC; NBS LCIRC; NBS letter circular
+    format: text/plain
+  number: '851'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,85 @@
+---
+schema-version: v1.2.9
+id: NBSMP278sup1
+title:
+- content: Bibliography on atomic transition probabilities
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: May 1966 through December 1967 (Supplement)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: Bibliography on atomic transition probabilities - May 1966 through December
+    1967 (Supplement)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NBS.MP.278supp1
+  type: doi
+type: standard
+docid:
+- id: NBS MP 278sup1
+  type: NIST
+  primary: true
+- id: NBS.MP.278supp1
+  type: DOI
+date:
+- type: issued
+  value: '1968'
+contributor:
+- person:
+    name:
+      completename:
+        content: Glennon, B. M.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n90654985
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Wiese, W. L.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n81104668
+  role:
+  - type: author
+- organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n79021148
+  role:
+  - type: publisher
+series:
+- title:
+    content: NBS miscellaneous publication; NBS miscellaneous pub; NBS MP
+    format: text/plain
+  number: 278supp1
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

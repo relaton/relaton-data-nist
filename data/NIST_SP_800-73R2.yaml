@@ -1,0 +1,114 @@
+---
+schema-version: v1.2.9
+id: NISTSP800-73r2
+title:
+- content: Interfaces for personal identity verification
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.SP.800-73-2
+  type: doi
+type: standard
+docid:
+- id: NIST SP 800-73r2
+  type: NIST
+  primary: true
+- id: NIST.SP.800-73-2
+  type: DOI
+date:
+- type: issued
+  value: '2008'
+contributor:
+- person:
+    name:
+      completename:
+        content: Candramauḷi, Ār.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n2015202084
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Dray, J. F.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Ferraiolo, H.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Guthery, S. B.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: MacGregor, W. I.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Mehta, K.
+        language:
+        - en
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n88112126
+  role:
+  - type: publisher
+abstract:
+- content: SP 800-73-2 specifies the PIV data model, Application Programming Interface
+    (API) and card interface requirements necessary to comply with the use cases,
+    as defined in Section 6 of FIPS 201 and further described in this document. Interoperability
+    is defined as the use of PIV identity credentials such that client-application
+    programs, compliant card applications, and compliant integrated circuits cards
+    (ICC) can be used interchangeably by all information processing systems across
+    Federal agencies. SP 800-73-2 defines the PIV data elements identifiers, structure
+    and format. SP 800-73-2 also describes the client application programming interface
+    and card command interface for use of the PIV Card.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST special publication; NIST special pub; NIST SP
+    format: text/plain
+  number: 800-73-2
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

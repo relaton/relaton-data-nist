@@ -1,0 +1,59 @@
+---
+schema-version: v1.2.9
+id: NBSLC850
+title:
+- content: Letter Circular 850
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: sources of radio information (supersedes Letter Circular 735)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: Letter Circular 850 - sources of radio information (supersedes Letter Circular
+    735)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NBS.LCIRC.850
+  type: doi
+type: standard
+docid:
+- id: NBS LC 850
+  type: NIST
+  primary: true
+- id: NBS.LCIRC.850
+  type: DOI
+date:
+- type: issued
+  value: '1947'
+contributor:
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+  role:
+  - type: publisher
+series:
+- title:
+    content: NBSLCIRC; NBS LCIRC; NBS letter circular
+    format: text/plain
+  number: '850'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

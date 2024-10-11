@@ -1,0 +1,67 @@
+---
+schema-version: v1.2.9
+id: NISTHB150-18e2006
+title:
+- content: National Voluntary Laboratory Accreditation Program
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: fasteners and metals
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: National Voluntary Laboratory Accreditation Program - fasteners and metals
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.HB.150-18-2006
+  type: doi
+type: standard
+docid:
+- id: NIST HB 150-18e2006
+  type: NIST
+  primary: true
+- id: NIST.HB.150-18-2006
+  type: DOI
+date:
+- type: issued
+  value: '2006'
+contributor:
+- person:
+    name:
+      completename:
+        content: Davis, Thomas.
+        language:
+        - en
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: 'NVLAP (Program : U.S.)'
+  role:
+  - type: publisher
+series:
+- title:
+    content: NIST handbook; NIST HB
+    format: text/plain
+  number: 150-18-2006
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

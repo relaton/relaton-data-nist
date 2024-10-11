@@ -1,0 +1,68 @@
+---
+schema-version: v1.2.9
+id: NBSLC770
+title:
+- content: Letter Circular 770
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: expanded table of weights per United States gallon and weights per cubic
+    foot of sugar 9sucrose) solutions at 20¿̐ưC
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: Letter Circular 770 - expanded table of weights per United States gallon
+    and weights per cubic foot of sugar 9sucrose) solutions at 20¿̐ưC
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NBS.LCIRC.770
+  type: doi
+type: standard
+docid:
+- id: NBS LC 770
+  type: NIST
+  primary: true
+- id: NBS.LCIRC.770
+  type: DOI
+date:
+- type: issued
+  value: '1944'
+contributor:
+- person:
+    name:
+      completename:
+        content: '"Snyder, Carl F."'
+        language:
+        - en
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+  role:
+  - type: publisher
+series:
+- title:
+    content: NBSLCIRC; NBS LCIRC; NBS letter circular
+    format: text/plain
+  number: '770'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

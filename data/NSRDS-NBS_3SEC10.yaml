@@ -1,0 +1,75 @@
+---
+schema-version: v1.2.9
+id: NSRDS-NBS3sec10
+title:
+- content: Selected tables of atomic spectra - A atomic energy levels-second edition,
+    B multiplet tables
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: O IV - data derived from the analyses of optical spectra
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: Selected tables of atomic spectra - A atomic energy levels-second edition,
+    B multiplet tables - O IV - data derived from the analyses of optical spectra
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NBS.NSRDS.3sec10
+  type: doi
+type: standard
+docid:
+- id: NSRDS-NBS 3sec10
+  type: NIST
+  primary: true
+- id: NBS.NSRDS.3sec10
+  type: DOI
+date:
+- type: issued
+  value: '1983'
+contributor:
+- person:
+    name:
+      completename:
+        content: Moore, Charlotte Emma,
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n50004194
+  role:
+  - type: author
+- organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n79021148
+  role:
+  - type: publisher
+series:
+- title:
+    content: NIST NSRDS; NSRDS-NIST; National standard reference data series
+    format: text/plain
+  number: 3sec10
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

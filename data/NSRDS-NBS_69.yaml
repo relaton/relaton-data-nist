@@ -1,0 +1,59 @@
+---
+schema-version: v1.2.9
+id: NSRDS-NBS69
+title:
+- content: Optical spectra of nonmetallic inorganic transient species in aqueous solution
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NBS.NSRDS.69
+  type: doi
+type: standard
+docid:
+- id: NSRDS-NBS 69
+  type: NIST
+  primary: true
+- id: NBS.NSRDS.69
+  type: DOI
+date:
+- type: issued
+  value: '1981'
+contributor:
+- person:
+    name:
+      completename:
+        content: Hug, Gordon L.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n81002245
+  role:
+  - type: author
+- organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n79021148
+  role:
+  - type: publisher
+series:
+- title:
+    content: NIST NSRDS; NSRDS-NIST; National standard reference data series
+    format: text/plain
+  number: '69'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,92 @@
+---
+schema-version: v1.2.9
+id: NISTIR6867spa
+title:
+- content: Manual de evaluación sísmica y de huracanes de edificios existentes de
+    hormigón para la República Dominicana
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.IR.6867es
+  type: doi
+type: standard
+docid:
+- id: NIST IR 6867 spa
+  type: NIST
+  primary: true
+- id: NIST.IR.6867es
+  type: DOI
+date:
+- type: issued
+  value: '2002'
+contributor:
+- person:
+    name:
+      completename:
+        content: Lew, H. S. (Hai Sang)
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n50049233
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Simiu, Emil.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n79085114
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Gross, John L.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n85099473
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Starnes, Monica A. (Monica Anastasia)
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/no2008150910
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n88112126
+  role:
+  - type: publisher
+series:
+- title:
+    content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+    format: text/plain
+  number: 6867es
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

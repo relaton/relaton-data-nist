@@ -1,0 +1,59 @@
+---
+schema-version: v1.2.9
+id: NBSLC743
+title:
+- content: Letter Circular 743
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: temperature measurements (supersedes Letter Circular 688)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: Letter Circular 743 - temperature measurements (supersedes Letter Circular
+    688)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NBS.LCIRC.743
+  type: doi
+type: standard
+docid:
+- id: NBS LC 743
+  type: NIST
+  primary: true
+- id: NBS.LCIRC.743
+  type: DOI
+date:
+- type: issued
+  value: '1944'
+contributor:
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+  role:
+  - type: publisher
+series:
+- title:
+    content: NBSLCIRC; NBS LCIRC; NBS letter circular
+    format: text/plain
+  number: '743'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

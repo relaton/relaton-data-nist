@@ -1,0 +1,93 @@
+---
+schema-version: v1.2.9
+id: NSRDS-NBS47
+title:
+- content: Tables of collision integrals and second virial coefficients for the (m,6,8)
+    intermolecular potential function
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NBS.NSRDS.47
+  type: doi
+type: standard
+docid:
+- id: NSRDS-NBS 47
+  type: NIST
+  primary: true
+- id: NBS.NSRDS.47
+  type: DOI
+date:
+- type: issued
+  value: '1974'
+contributor:
+- person:
+    name:
+      completename:
+        content: Klein, Max.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n85128182
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Hanley, H. J. M. (Howard J. M.)
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n81119978
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Smith, Francis J.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n90663777
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Holland, Paul.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n94074674
+  role:
+  - type: author
+- organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n79021148
+  role:
+  - type: publisher
+series:
+- title:
+    content: NIST NSRDS; NSRDS-NIST; National standard reference data series
+    format: text/plain
+  number: '47'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,66 @@
+---
+schema-version: v1.2.9
+id: NBSLC1015
+title:
+- content: Letter Circular 1015
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: artificial abrasives and abrasive products
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: Letter Circular 1015 - artificial abrasives and abrasive products
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NBS.LCIRC.1015
+  type: doi
+type: standard
+docid:
+- id: NBS LC 1015
+  type: NIST
+  primary: true
+- id: NBS.LCIRC.1015
+  type: DOI
+date:
+- type: issued
+  value: '1954'
+contributor:
+- person:
+    name:
+      completename:
+        content: Organic and Fibrous Materials Division.
+        language:
+        - en
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+  role:
+  - type: publisher
+series:
+- title:
+    content: NBSLCIRC; NBS LCIRC; NBS letter circular
+    format: text/plain
+  number: '1015'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

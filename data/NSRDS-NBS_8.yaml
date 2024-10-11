@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: NSRDS-NBS8
+title:
+- content: Thermal conductivity of selected materials
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NBS.NSRDS.8
+  type: doi
+type: standard
+docid:
+- id: NSRDS-NBS 8
+  type: NIST
+  primary: true
+- id: NBS.NSRDS.8
+  type: DOI
+date:
+- type: issued
+  value: '1966'
+contributor:
+- person:
+    name:
+      completename:
+        content: Powell, R. W.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/nr93000195
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Ho, C. Y.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Liley, P. E.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n50050162
+  role:
+  - type: author
+- organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n79021148
+  role:
+  - type: publisher
+series:
+- title:
+    content: NIST NSRDS; NSRDS-NIST; National standard reference data series
+    format: text/plain
+  number: '8'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

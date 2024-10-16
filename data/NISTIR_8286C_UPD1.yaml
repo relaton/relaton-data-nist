@@ -1,0 +1,129 @@
+---
+schema-version: v1.2.9
+id: NISTIR8286C-Upd1
+title:
+- content: Staging cybersecurity risks for enterprise risk management and governance
+    oversight
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.IR.8286C-upd1
+  type: doi
+type: standard
+docid:
+- id: NIST IR 8286C/Upd1
+  type: NIST
+  primary: true
+- id: NIST.IR.8286C-upd1
+  type: DOI
+date:
+- type: issued
+  value: '2024'
+contributor:
+- person:
+    name:
+      completename:
+        content: Quinn, Stephen.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0003-1436-684X"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Ivy, Nahla.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0003-4741-422X"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Barrett, Matthew.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-7689-427X"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Witte, Greg.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-5425-1097"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Gardner, R.K.
+        language:
+        - en
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+  role:
+  - type: publisher
+abstract:
+- content: This document is the third in a series that supplements NIST Interagency/Internal
+    Report (NISTIR) 8286, Integrating Cybersecurity and Enterprise Risk Management
+    (ERM). This series provides additional details regarding the enterprise application
+    of cybersecurity risk information; the previous documents, NISTIRs 8286A and 8286B,
+    provided details regarding stakeholder risk direction and methods for assessing
+    and managing cybersecurity risk in light of enterprise objectives. NISTIR 8286C
+    describes how information, as recorded in cybersecurity risk registers (CSRRs),
+    may be integrated as part of a holistic approach to ensuring that risks to information
+    and technology are properly considered for the enterprise risk portfolio. This
+    cohesive understanding supports an enterprise risk register (ERR) and enterprise
+    risk profile (ERP) that, in turn, support the achievement of enterprise objectives.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: NISTIR8286C
+    docid:
+    - id: NIST IR 8286C
+      type: NIST
+    formattedref:
+      content: NIST IR 8286C
+      format: text/plain
+series:
+- title:
+    content: NISTIR
+    format: text/plain
+  number: 8286C-upd1
+- title:
+    content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+    format: text/plain
+  number: 8286C-upd1
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,81 @@
+---
+schema-version: v1.2.9
+id: NISTIR8115r1-Upd1-202103
+title:
+- content: A guide to United States apparel and household textiles compliance requirements
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.IR.8115r1-upd
+  type: doi
+type: standard
+docid:
+- id: NIST IR 8115r1/Upd1-202103
+  type: NIST
+  primary: true
+- id: NIST.IR.8115r1-upd
+  type: DOI
+date:
+- type: issued
+  value: '2021'
+contributor:
+- person:
+    name:
+      completename:
+        content: Benson, Lisa M.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Reczek, Karen K.
+        language:
+        - en
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: National Institute of Standards and Technology.
+  role:
+  - type: publisher
+abstract:
+- content: This guide addresses wearing apparel, including children's apparel, and
+    household textiles. It does not include other textiles, such as sleeping bags,
+    tents, sporting goods, or other non-household products that contain or are made
+    from textile materials.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: NISTIR8115r1
+    docid:
+    - id: NIST IR 8115r1
+      type: NIST
+    formattedref:
+      content: NIST IR 8115r1
+      format: text/plain
+series:
+- title:
+    content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+    format: text/plain
+  number: 8115r1-upd
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

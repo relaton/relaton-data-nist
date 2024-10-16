@@ -1,0 +1,89 @@
+---
+schema-version: v1.2.9
+id: NISTSP1011v2ver1.0
+title:
+- content: Autonomy Levels For Unmanned Systems (ALFUS) framework, volume II
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: framework models version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: Autonomy Levels For Unmanned Systems (ALFUS) framework, volume II - framework
+    models version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.SP.1011-II-1.0
+  type: doi
+type: standard
+docid:
+- id: NIST SP 1011v2ver1.0
+  type: NIST
+  primary: true
+- id: NIST.SP.1011-II-1.0
+  type: DOI
+date:
+- type: issued
+  value: '2007'
+contributor:
+- person:
+    name:
+      completename:
+        content: Huang, Huimin.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n79074377
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Messina, Elena.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Albus, James.
+        language:
+        - en
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n88112126
+  role:
+  - type: publisher
+series:
+- title:
+    content: NIST special publication; NIST special pub; NIST SP
+    format: text/plain
+  number: 1011-II-1.0
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+doctype:
+  type: standard
+ext:
+  schema-version: v1.0.0

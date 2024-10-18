@@ -25,34 +25,37 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://doi.org/10.6028/NIST.SP.800-38b
+- content: https://doi.org/10.6028/NIST.SP.800-38B
   type: doi
 type: standard
 docid:
 - id: NIST SP 800-38B
   type: NIST
   primary: true
-- id: NIST.SP.800-38b
+- id: NIST.SP.800-38B
   type: DOI
 date:
 - type: issued
-  value: '2005'
+  value: '2016'
 contributor:
 - person:
     name:
       completename:
-        content: Dworkin, M. J.
+        content: Dworkin, Morris.
         language:
         - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/no2020141894
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology (U.S.).
-    - content: Computer Security Division.
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
     identifier:
     - type: uri
-      id: https://id.loc.gov/authorities/names/n88112126
+      id: https://id.loc.gov/authorities/names/no97056762
   role:
   - type: publisher
 abstract:
@@ -69,7 +72,7 @@ series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
     format: text/plain
-  number: 800-38b
+  number: 800-38B
 place:
 - city: Gaithersburg
   region:

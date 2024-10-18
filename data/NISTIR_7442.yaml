@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR7442
 title:
-- content: Computer Security Division 2007 annual report
+- content: Computer security division, 2007 annual report
   language:
   - en
   script:
@@ -23,14 +23,28 @@ date:
 - type: issued
   value: '2008'
 contributor:
-- organization:
+- person:
     name:
-    - content: National Institute of Standards and Technology (U.S.)
+      completename:
+        content: Stine, Kevin.
+        language:
+        - en
     identifier:
     - type: uri
-      id: https://id.loc.gov/authorities/names/n88112126
+      id: https://id.loc.gov/authorities/names/no2009176437
   role:
-  - type: publisher
+  - type: author
+- person:
+    name:
+      completename:
+        content: Wilson, Mark.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n79012906
+  role:
+  - type: author
 - organization:
     name:
     - content: National Institute of Standards and Technology (U.S.)

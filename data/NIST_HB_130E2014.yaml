@@ -10,7 +10,7 @@ title:
   - Latn
   format: text/plain
   type: title-main
-- content: as adopted by the 98th National Conference on Weights and Measures 2013
+- content: as adopted by the 98th national conference on weights and measures 2013
   language:
   - en
   script:
@@ -18,7 +18,7 @@ title:
   format: text/plain
   type: title-part
 - content: Uniform laws and regulations in the areas of legal metrology and engine
-    fuel quality - as adopted by the 98th National Conference on Weights and Measures
+    fuel quality - as adopted by the 98th national conference on weights and measures
     2013
   language:
   - en
@@ -38,7 +38,7 @@ docid:
   type: DOI
 date:
 - type: issued
-  value: '2013'
+  value: '2014'
 contributor:
 - person:
     name:
@@ -73,19 +73,31 @@ contributor:
       id: https://id.loc.gov/authorities/names/n2014056629
   role:
   - type: author
-- organization:
+- person:
     name:
-    - content: National Institute of Standards and Technology (U.S.)
+      completename:
+        content: Hockert, Carol.
+        language:
+        - en
     identifier:
     - type: uri
-      id: https://id.loc.gov/authorities/names/n88112126
+      id: https://id.loc.gov/authorities/names/no2021114720
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.))
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/no2019028800
   role:
   - type: publisher
 series:
 - title:
     content: NIST handbook; NIST HB
     format: text/plain
-  number: 130-2014
+  number: '130'
 place:
 - city: Gaithersburg
   region:

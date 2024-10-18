@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR7285
 title:
-- content: Computer Security Division 2005 annual report
+- content: Computer security division, 2005 annual report
   language:
   - en
   script:
@@ -23,14 +23,22 @@ date:
 - type: issued
   value: '2006'
 contributor:
-- organization:
+- person:
     name:
-    - content: National Institute of Standards and Technology (U.S.)
-    identifier:
-    - type: uri
-      id: https://id.loc.gov/authorities/names/n88112126
+      completename:
+        content: Brewer, Tanya.
+        language:
+        - en
   role:
-  - type: publisher
+  - type: author
+- person:
+    name:
+      completename:
+        content: Scholl, Matthew.
+        language:
+        - en
+  role:
+  - type: author
 - organization:
     name:
     - content: National Institute of Standards and Technology (U.S.)

@@ -2,7 +2,8 @@
 schema-version: v1.2.9
 id: NISTIR6791
 title:
-- content: Workshop on standards for biomedical materials and devices
+- content: Workshop on standards for biomedical materials and devices, June 13-14,
+    2001
   language:
   - en
   script:
@@ -23,14 +24,25 @@ date:
 - type: issued
   value: '2001'
 contributor:
-- organization:
+- person:
     name:
-    - content: National Institute of Standards and Technology (U.S.)
+      completename:
+        content: Hall, Dale.
+        language:
+        - en
     identifier:
     - type: uri
-      id: https://id.loc.gov/authorities/names/n88112126
+      id: https://id.loc.gov/authorities/names/n97846914
   role:
-  - type: publisher
+  - type: author
+- person:
+    name:
+      completename:
+        content: Tesk, John.
+        language:
+        - en
+  role:
+  - type: author
 - organization:
     name:
     - content: National Institute of Standards and Technology (U.S.)

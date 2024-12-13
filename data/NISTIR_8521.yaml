@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: NISTIR8521
+title:
+- content: Predicting heat release rate from fire video data
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: part 1. application of deep learning techniques
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: Predicting heat release rate from fire video data - part 1. application
+    of deep learning techniques
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.IR.8521
+  type: doi
+type: standard
+docid:
+- id: NIST IR 8521
+  type: NIST
+  primary: true
+- id: NIST.IR.8521
+  type: DOI
+date:
+- type: issued
+  value: '2024'
+contributor:
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory
+  role:
+  - type: publisher
+abstract:
+- content: A novel approach for estimating transient heat release rate from fire images
+    and video using deep learning techniques is presented. The heat release rate (HRR)
+    is the most critical parameter in characterizing the fire hazard and thermal effects
+    of a burning item. It is an effective indicator of the fire growth rate and fire
+    size that is used extensively in both building fire safety design and firefighting
+    operations. However, for outdoor fires, heat release rate measurements are usually
+    not available due to lack of equipment.The goal of this report is to develop and
+    demonstrate a novel technique “image calorimetry” for predicting heat release
+    rate using video data and recurrent neural network models. The proposed methodology
+    only requires video camera data and can be readily extended to outdoor fire experiments,
+    with or without ambient wind. Results from the trained neural network model show
+    excellent comparison between predicted and temporally evolving heat release rate
+    measurements, with an overall accuracy score of 0.93.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NISTIR
+    format: text/plain
+  number: '8521'
+- title:
+    content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+    format: text/plain
+  number: '8521'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: standard

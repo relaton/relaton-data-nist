@@ -1,0 +1,84 @@
+---
+schema-version: v1.2.9
+id: NISTIR8530
+title:
+- content: A unified model of core metrological concepts
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.IR.8530
+  type: doi
+type: standard
+docid:
+- id: NIST IR 8530
+  type: NIST
+  primary: true
+- id: NIST.IR.8530
+  type: DOI
+date:
+- type: issued
+  value: '2024'
+contributor:
+- person:
+    name:
+      completename:
+        content: Kacker, Raghu N.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-7666-3391"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Foxvog, Douglas.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0003-4223-4051"
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+  role:
+  - type: publisher
+abstract:
+- content: The definitions of core metrological terms, especially quantity, quantity
+    value, and unit, have been the subject of years of wrangling in standards organizations.
+    A chronic disagreement exists over whether quantities are conceptualized primarily
+    as mathematical entities or as physical ones. This report provides a unified model
+    into which all of the competing definitions can be mapped and productively integrated.
+    This model should enable software that interacts with measurement systems to be
+    more insulated from changing and conflicting metrological terminology.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NISTIR
+    format: text/plain
+  number: '8530'
+- title:
+    content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+    format: text/plain
+  number: '8530'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: standard

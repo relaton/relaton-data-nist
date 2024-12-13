@@ -1,0 +1,133 @@
+---
+schema-version: v1.2.9
+id: NISTIR8183r1
+title:
+- content: Cybersecurity framework version 1.1 manufacturing profile
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.IR.8183r1
+  type: doi
+type: standard
+docid:
+- id: NIST IR 8183r1
+  type: NIST
+  primary: true
+- id: NIST.IR.8183r1
+  type: DOI
+date:
+- type: issued
+  value: '2020'
+contributor:
+- person:
+    name:
+      completename:
+        content: Zimmerman, Timothy.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0001-8451-0515"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Tang, CheeYee.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0009-0000-2847-1443"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Lubell, Joshua.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-5776-1850"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Cichonski, Jeffrey.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Pease, Michael.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-6489-2621"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: McCarthy, John.
+        language:
+        - en
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+  role:
+  - type: publisher
+abstract:
+- content: This document provides the Cybersecurity Framework (CSF) Version 1.1 implementation
+    details developed for the manufacturing environment. The “Manufacturing Profile”
+    of the CSF can be used as a roadmap for reducing cybersecurity risk for manufacturers
+    that is aligned with manufacturing sector goals and industry best practices. This
+    Manufacturing Profile provides a voluntary, risk-based approach for managing cybersecurity
+    activities and reducing cyber risk to manufacturing systems. The Manufacturing
+    Profile is meant to enhance but not replace current cybersecurity standards and
+    industry guidelines that the manufacturer is embracing.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: NISTIR8183
+    docid:
+    - id: NIST IR 8183
+      type: NIST
+    formattedref:
+      content: NIST IR 8183
+      format: text/plain
+series:
+- title:
+    content: NISTIR
+    format: text/plain
+  number: 8183r1
+- title:
+    content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+    format: text/plain
+  number: 8183r1
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: standard

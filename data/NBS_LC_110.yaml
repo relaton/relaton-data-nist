@@ -2,21 +2,7 @@
 schema-version: v1.2.9
 id: NBSLC110
 title:
-- content: Letter Circular 110
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: information on heating and ventilation
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-part
-- content: Letter Circular 110 - information on heating and ventilation
+- content: Information on heating and ventilation
   language:
   - en
   script:
@@ -52,7 +38,7 @@ place:
   region:
   - name: Maryland
     iso: MD
-doctype:
-  type: standard
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: standard

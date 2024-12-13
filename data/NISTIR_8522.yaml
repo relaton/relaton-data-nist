@@ -1,0 +1,89 @@
+---
+schema-version: v1.2.9
+id: NISTIR8522
+title:
+- content: Workshop report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Methane super-emitter consensus standards workshop terminology and taxonomy,
+    January 2024
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: Workshop report - Methane super-emitter consensus standards workshop terminology
+    and taxonomy, January 2024
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.IR.8522
+  type: doi
+type: standard
+docid:
+- id: NIST IR 8522
+  type: NIST
+  primary: true
+- id: NIST.IR.8522
+  type: DOI
+date:
+- type: issued
+  value: '2024'
+contributor:
+- person:
+    name:
+      completename:
+        content: Whetstone, James.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-5139-9176"
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Special Programs Office.
+  role:
+  - type: publisher
+abstract:
+- content: A workshop in methane super emitter and consensus standards was held in
+    January 2024. This workshop brought together measurement teams, regulators, and
+    a wide range of federal agencies. The use of remote sensing measurement systems
+    on drones, aircraft, and satellites to detect large methane emissions from oil
+    and gas, landfills, and manure management is expanding rapidly. To increase the
+    utility and trust in this data, consensus on the terminology and best practices
+    needs to be developed and documented.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NISTIR
+    format: text/plain
+  number: '8522'
+- title:
+    content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+    format: text/plain
+  number: '8522'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: standard

@@ -2,7 +2,24 @@
 schema-version: v1.2.9
 id: NISTIR6385
 title:
-- content: Advanced technology program's approach to technology diffusion
+- content: ATP's approach to technology diffusion
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: paper presented at the NATO science for peace programme advanced research
+    workshop industry as a stimulator of technology transfer
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: ATP's approach to technology diffusion - paper presented at the NATO science
+    for peace programme advanced research workshop industry as a stimulator of technology
+    transfer
   language:
   - en
   script:
@@ -49,7 +66,7 @@ place:
   region:
   - name: Maryland
     iso: MD
-doctype:
-  type: standard
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: standard

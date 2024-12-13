@@ -2,22 +2,7 @@
 schema-version: v1.2.9
 id: NBSLC743
 title:
-- content: Letter Circular 743
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: temperature measurements (supersedes Letter Circular 688)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-part
-- content: Letter Circular 743 - temperature measurements (supersedes Letter Circular
-    688)
+- content: Temperature measurements (supersedes Letter Circular 688)
   language:
   - en
   script:
@@ -53,7 +38,7 @@ place:
   region:
   - name: Maryland
     iso: MD
-doctype:
-  type: standard
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: standard

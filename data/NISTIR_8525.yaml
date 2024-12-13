@@ -1,0 +1,113 @@
+---
+schema-version: v1.2.9
+id: NISTIR8525
+title:
+- content: Face analysis technology evaluation
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: age estimation and verification
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: Face analysis technology evaluation - age estimation and verification
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.IR.8525
+  type: doi
+type: standard
+docid:
+- id: NIST IR 8525
+  type: NIST
+  primary: true
+- id: NIST.IR.8525
+  type: DOI
+date:
+- type: issued
+  value: '2024'
+contributor:
+- person:
+    name:
+      completename:
+        content: Grother, Patrick J.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Ngan, Mei Lee.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Yang, Joyce.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Quinn, George W.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Hom, Austin.
+        language:
+        - en
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+  role:
+  - type: publisher
+abstract:
+- content: The report documents technical performance of prototype age estimation
+    algorithms submittedto the Age Estimation and Verification (AEV) track of the
+    Face Analysis Technology Evaluation(FATE) executed by the National Institute of
+    Standards and Technology (NIST).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NISTIR
+    format: text/plain
+  number: '8525'
+- title:
+    content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+    format: text/plain
+  number: '8525'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: standard

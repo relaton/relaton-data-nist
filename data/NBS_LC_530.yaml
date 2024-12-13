@@ -2,21 +2,7 @@
 schema-version: v1.2.9
 id: NBSLC530
 title:
-- content: Letter Circular 530
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: salt spray test
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-part
-- content: Letter Circular 530 - salt spray test
+- content: Salt spray test
   language:
   - en
   script:
@@ -68,7 +54,7 @@ place:
   region:
   - name: Maryland
     iso: MD
-doctype:
-  type: standard
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: standard

@@ -2,21 +2,7 @@
 schema-version: v1.2.9
 id: NBSLC188
 title:
-- content: Letter Circular 188
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: sound proof partitions
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-part
-- content: Letter Circular 188 - sound proof partitions
+- content: Sound proof partitions
   language:
   - en
   script:
@@ -60,7 +46,7 @@ place:
   region:
   - name: Maryland
     iso: MD
-doctype:
-  type: standard
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: standard

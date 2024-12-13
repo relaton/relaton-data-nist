@@ -1,0 +1,94 @@
+---
+schema-version: v1.2.9
+id: NISTIR8386
+title:
+- content: Statistics of visual features in the human iris
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.IR.8386
+  type: doi
+type: standard
+docid:
+- id: NIST IR 8386
+  type: NIST
+  primary: true
+- id: NIST.IR.8386
+  type: DOI
+date:
+- type: issued
+  value: '2024'
+contributor:
+- person:
+    name:
+      completename:
+        content: Matey, James R.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-0508-785X"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Grother, Patrick.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Watters III, Edward C.
+        language:
+        - en
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+  role:
+  - type: publisher
+abstract:
+- content: In most current applications of iris recognition, matching is done by computer
+    algorithms. The dominant algorithms are based on the work of John Daugman and
+    are well understood because of the extensive analysis in the literature of iris2pi
+    (the shorthand name for the Daugman algorithms). However, the internals of the
+    dominant algorithms are not intuitive – the features that lead to the determination
+    of a match between two iris images are not obvious to a casual observer. In forensic
+    cases, evidence may be presented to non-technical people. Hence there is interest
+    in the forensic community in human adjudication of matches between iris images,
+    where the human relies upon easily understood visible features. This paper presents
+    an analysis of the distribution of visible features in the human eye that may
+    be of use in assessing the likelihood of a set of visible features occurring in
+    two eyes by chance.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NISTIR
+    format: text/plain
+  number: '8386'
+- title:
+    content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+    format: text/plain
+  number: '8386'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: standard

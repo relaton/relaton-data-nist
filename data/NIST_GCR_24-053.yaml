@@ -1,0 +1,112 @@
+---
+schema-version: v1.2.9
+id: NISTGCR24-053
+title:
+- content: Research on fixture-level peak probability of water use in commercial buildings
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.GCR.24-053
+  type: doi
+type: standard
+docid:
+- id: NIST GCR 24-053
+  type: NIST
+  primary: true
+- id: NIST.GCR.24-053
+  type: DOI
+date:
+- type: issued
+  value: '2024'
+contributor:
+- person:
+    name:
+      completename:
+        content: Li, Tao.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Omaghomi, Toritseju.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Klein, Gary.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Healy, William M.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0001-7711-7301"
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: National Institute of Standards and Technology.
+  role:
+  - type: publisher
+abstract:
+- content: A novel wireless sensor network is developed and demonstrated for monitoring
+    indoor fixturelevel water use in buildings. The new technology consists of a low-cost,
+    battery-powered,miniature wireless sensor module for non-invasive detection of
+    flow through pipes. Whendeployed in a typical commercial, industrial, or residential
+    building, the modules form a remotewireless sensor network that accurately monitors
+    the incidence and patterns of water usage atindividual fixtures. As proof of concept,
+    the wireless sensor network was deployed and tested ina dormitory at the University
+    of Cincinnati (UC) where several water fixtures were monitored ata 1-second interval
+    for a period of five months. The water use data were analyzed to obtainpeak period
+    probabilities of fixture use (i.e., p-values). Fixture p-values are needed to
+    estimatethe instantaneous peak water demand in buildings, the key parameter for
+    properly sizingpremise plumbing systems. A dimensionless ramp function on the
+    unit square is developed anddemonstrated as a versatile approach to help engineers
+    obtain reasonable estimates of fixturep-values in new buildings where water use
+    data may be lacking or sparse. A protocol issuggested to guide investigators on
+    how to compile, consolidate, and archive high resolutionwater use data into a
+    cloud-based repository. Results include preliminary estimates of p-valuesfor restroom
+    fixtures in a large sports arena on the UC campus. Peak flows at the sport arenameasured
+    during five NCAA basketball game days are compared against predicted peak flowsfrom
+    the Water Demand Calculator. Finally, peak flow measurements at 20 large contemporaryresidential
+    buildings across the US are compared against predictions of the 99th percentile
+    fromthe Water Demand Calculator.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST GCR
+    format: text/plain
+  number: 24-053
+- title:
+    content: NIST GCR; NIST grant-contract report; NIST grant contract report
+    format: text/plain
+  number: 24-053
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: standard

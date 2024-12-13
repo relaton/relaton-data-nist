@@ -2,23 +2,8 @@
 schema-version: v1.2.9
 id: NBSLC378H
 title:
-- content: "\"Letter Circular 378h"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: municipalities -- by population groups ; municipalities having less than
-    1,000 population"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-part
-- content: '"Letter Circular 378h - municipalities -- by population groups ; municipalities
-    having less than 1,000 population"'
+- content: Municipalities -- by population groups ; municipalities having less than
+    1,000 population
   language:
   - en
   script:
@@ -54,7 +39,7 @@ place:
   region:
   - name: Maryland
     iso: MD
-doctype:
-  type: standard
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: standard

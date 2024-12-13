@@ -23,14 +23,36 @@ date:
 - type: issued
   value: '2003'
 contributor:
-- organization:
+- person:
     name:
-    - content: National Institute of Standards and Technology (U.S.)
+      completename:
+        content: Knight, Stephen.
+        language:
+        - en
     identifier:
     - type: uri
-      id: https://id.loc.gov/authorities/names/n88112126
+      id: https://id.loc.gov/authorities/names/n00006019
   role:
-  - type: publisher
+  - type: author
+- person:
+    name:
+      completename:
+        content: Pinillos, Joaquin V. Martinez de.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n00006017
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Buckley, Michele.
+        language:
+        - en
+  role:
+  - type: author
 - organization:
     name:
     - content: National Institute of Standards and Technology (U.S.)
@@ -49,7 +71,7 @@ place:
   region:
   - name: Maryland
     iso: MD
-doctype:
-  type: standard
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: standard

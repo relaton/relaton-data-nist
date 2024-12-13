@@ -1,0 +1,87 @@
+---
+schema-version: v1.2.9
+id: NISTIR8246
+title:
+- content: Collaborative vulnerability metadata acceptance process (CVMAP) for CVE
+    numbering authorities (CNAs) and authorized data publishers
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.IR.8246
+  type: doi
+type: standard
+docid:
+- id: NIST IR 8246
+  type: NIST
+  primary: true
+- id: NIST.IR.8246
+  type: DOI
+date:
+- type: issued
+  value: '2020'
+contributor:
+- person:
+    name:
+      completename:
+        content: Waltermire, David.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Christopher, Turner
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0003-4346-1993"
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+  role:
+  - type: publisher
+abstract:
+- content: The purpose of this document is to leverage the strength of technical knowledge
+    provided by theCommon Vulnerabilities and Exposures (CVE) Numbering Authorities
+    (CNAs) and the application of consistent and unbiased CVE record metadata provided
+    by the National Vulnerability Database (NVD) analysts through the formalization
+    of a CVE record metadata submission process. This process will enable outside
+    entities to submit CVE record metadata and allow this data to be presented to
+    the end user with little to no NVD analyst involvement. For instances where the
+    CVE record metadata is provided, the NVD analyst will serve in the role ofauditor
+    to ensure that consistent transparency and quality standards are applied, maintained,
+    and communicated. Public recognition of the upstream participants’ level of effort
+    and consistency of data will be displayed on the public NVD website’s CVE detail
+    page to encourage and incentivize participation.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NISTIR
+    format: text/plain
+  number: '8246'
+- title:
+    content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+    format: text/plain
+  number: '8246'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: standard

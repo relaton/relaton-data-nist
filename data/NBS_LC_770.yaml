@@ -2,23 +2,8 @@
 schema-version: v1.2.9
 id: NBSLC770
 title:
-- content: Letter Circular 770
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: expanded table of weights per United States gallon and weights per cubic
-    foot of sugar 9sucrose) solutions at 20 [degrees] C
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-part
-- content: Letter Circular 770 - expanded table of weights per United States gallon
-    and weights per cubic foot of sugar 9sucrose) solutions at 20 [degrees] C
+- content: Expanded table of weights per United States gallon and weights per cubic
+    foot of sugar 9sucrose) solutions at 20¿̐ưC
   language:
   - en
   script:
@@ -42,15 +27,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Snyder, Carl F.
-        language:
-        - en
-  role:
-  - type: author
-- person:
-    name:
-      completename:
-        content: Hammond, Lester D.
+        content: '"Snyder, Carl F."'
         language:
         - en
   role:
@@ -70,7 +47,7 @@ place:
   region:
   - name: Maryland
     iso: MD
-doctype:
-  type: standard
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: standard

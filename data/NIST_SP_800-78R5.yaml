@@ -1,0 +1,86 @@
+---
+schema-version: v1.2.9
+id: NISTSP800-78r5
+title:
+- content: Cryptographic algorithms and key sizes for personal identity verification
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.SP.800-78-5
+  type: doi
+type: standard
+docid:
+- id: NIST SP 800-78r5
+  type: NIST
+  primary: true
+- id: NIST.SP.800-78-5
+  type: DOI
+date:
+- type: issued
+  value: '2024'
+contributor:
+- person:
+    name:
+      completename:
+        content: Regenscheid, Andrew
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-3930-527X"
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+  role:
+  - type: publisher
+abstract:
+- content: 'Federal Information Processing Standard 201-3 (FIPS 201-3) defines the
+    requirements for Personal Identity Verification (PIV) life cycle activities, including
+    identity proofing, registration, PIV Card issuance, and PIV Card usage. FIPS 201-3
+    also defines the structure of an identity credential that includes cryptographic
+    keys. This document contains the technical specifications needed for the mandatory
+    and optional cryptographic keys specified in FIPS 201-3, as well as the supporting
+    infrastructure specified in FIPS 201-3 and the related NIST Special Publication
+    (SP) 800-73, Interfaces for Personal Identity Verification, and SP 800-76, Biometric
+    Specifications for Personal Identity Verification, which rely on cryptographic
+    functions. [Supersedes SP 800-78-4 (May 2015): https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=918499]'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: NISTSP800-78r4
+    docid:
+    - id: NIST SP 800-78r4
+      type: NIST
+    formattedref:
+      content: NIST SP 800-78r4
+      format: text/plain
+series:
+- title:
+    content: NIST special publication
+    format: text/plain
+  number: 800-78-5
+- title:
+    content: NIST special publication; NIST special pub; NIST SP
+    format: text/plain
+  number: 800-78-5
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: standard

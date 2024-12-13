@@ -1,0 +1,87 @@
+---
+schema-version: v1.2.9
+id: NISTIR8321
+title:
+- content: Maximum luminous intensity of LED-lighted X signs for airport runways
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.IR.8321
+  type: doi
+type: standard
+docid:
+- id: NIST IR 8321
+  type: NIST
+  primary: true
+- id: NIST.IR.8321
+  type: DOI
+date:
+- type: issued
+  value: '2024'
+contributor:
+- person:
+    name:
+      completename:
+        content: Litorja, Maritoni
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0003-1233-2179"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Miller, C Cameron
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-2960-0996"
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Physical Measurement Laboratory.
+  role:
+  - type: publisher
+abstract:
+- content: This is a report for Inter-agency agreement 693KA9-18-N-00023 "Maximum
+    Luminous Intensity for LED Signaling in an Airport Environment" by Federal Aviation
+    Administration (FAA) and National Institute of Standards and Technology (NIST).
+    The LED-based lighted X signs recently introduced at many airports are perceived
+    too bright by pilots, causing glare and making it difficult to recognize the X
+    character. The objective of the study is to determine the acceptable level of
+    maximum luminous intensity of LED-lighted X signs that maintains clear visibility
+    of the lighted X sign. A theoretical study with literature review was first made
+    (Part 1). Then vision experiments were conducted using pilots as subjects (Part
+    2). The methods and results of these studies are reported.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NISTIR
+    format: text/plain
+  number: '8321'
+- title:
+    content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+    format: text/plain
+  number: '8321'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: standard

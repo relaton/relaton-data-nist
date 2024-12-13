@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR6658-11
 title:
-- content: NIST time and frequency bulletin no. 635
+- content: NIST time and frequency bulletin, no. 635
   language:
   - en
   script:
@@ -26,9 +26,12 @@ contributor:
 - person:
     name:
       completename:
-        content: Hoffman, Camille J.
+        content: Petty, Eyvon M.
         language:
         - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/no2019183667
   role:
   - type: author
 - organization:
@@ -49,7 +52,7 @@ place:
   region:
   - name: Maryland
     iso: MD
-doctype:
-  type: standard
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: standard

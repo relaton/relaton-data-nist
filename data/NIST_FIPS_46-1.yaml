@@ -1,0 +1,89 @@
+---
+schema-version: v1.2.9
+id: NISTFIPS46-1
+title:
+- content: Data Encryption Standard (DES)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.FIPS.46-1
+  type: doi
+type: standard
+docid:
+- id: NIST FIPS 46-1
+  type: NIST
+  primary: true
+- id: NIST.FIPS.46-1
+  type: DOI
+date:
+- type: issued
+  value: '1988'
+contributor:
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n88112126
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n88112126
+  role:
+  - type: publisher
+abstract:
+- content: The selective application of technological and related procedural safeguards
+    is an important responsibility of every Federal organization in providing adequate
+    security to its ADP systems. This publication provides a standard to be used by
+    Federal organizations when these organizations specify that cryptographic protection
+    ia to be used for 11emitive or valuable computer data. Protection of computer
+    data during transmission between electronic components or while in storage may
+    be necessary to maintain the confidentiality and integrity of the Information
+    represented by that data. The standard specifies an encryption algorithm which
+    is to be implemented in an electronic device for use in Federal ADP systems and
+    networks. The algorithm uniquely defines the mathematical steps required to transform
+    computer data into a cryptographic cipher. It also specifies the steps required
+    to transform the cipher back to its original form. A device performing this algorithm
+    may be used in many applications areas where cryptographic data protection is
+    needed. Within the context of a total security program comprising physical security
+    procedures, good information management practices and computer system/network
+    access controls, the Data Encryption Standard is being made available for use
+    by Federal agencies. This revision supersedes FIPS 46.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: NISTFIPS46
+    docid:
+    - id: NIST FIPS 46
+      type: NIST
+    formattedref:
+      content: NIST FIPS 46
+      format: text/plain
+series:
+- title:
+    content: NIST federal information processing standards publication
+    format: text/plain
+  number: 46-1
+- title:
+    content: NIST federal information processing standards publication; NIST FIPS
+    format: text/plain
+  number: 46-1
+place:
+- city: Washington
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: standard

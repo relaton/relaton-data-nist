@@ -1,0 +1,106 @@
+---
+schema-version: v1.2.9
+id: NISTSP800-63Bsup1
+title:
+- content: Incorporating syncable authenticators into NIST SP 800-63B
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: digital identity guidelines — authentication and lifecycle management
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: Incorporating syncable authenticators into NIST SP 800-63B - digital identity
+    guidelines — authentication and lifecycle management
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.SP.800-63Bsup1
+  type: doi
+type: standard
+docid:
+- id: NIST SP 800-63Bsup1
+  type: NIST
+  primary: true
+- id: NIST.SP.800-63Bsup1
+  type: DOI
+date:
+- type: issued
+  value: '2024'
+contributor:
+- person:
+    name:
+      completename:
+        content: Regenscheid, Andrew.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-3930-527X"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Temoshok, David.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0001-6195-0331"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: LaSalle, Connie.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0001-6031-7550"
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+  role:
+  - type: publisher
+abstract:
+- content: 'This supplement to NIST Special Publication 800-63B, Digital Identity
+    Guidelines: Authentication and Lifecycle Management, provides agencies with additional
+    guidance on the use of authenticators that may be synced between devices.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST special publication
+    format: text/plain
+  number: 800-63Bsup1
+- title:
+    content: NIST special publication; NIST special pub; NIST SP
+    format: text/plain
+  number: 800-63Bsup1
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: standard

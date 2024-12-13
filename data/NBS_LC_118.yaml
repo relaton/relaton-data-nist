@@ -2,21 +2,7 @@
 schema-version: v1.2.9
 id: NBSLC118
 title:
-- content: Letter Circular 118
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: publications from the division of metallurgy
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-part
-- content: Letter Circular 118 - publications from the division of metallurgy
+- content: Publications from the division of metallurgy
   language:
   - en
   script:
@@ -52,7 +38,7 @@ place:
   region:
   - name: Maryland
     iso: MD
-doctype:
-  type: standard
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: standard

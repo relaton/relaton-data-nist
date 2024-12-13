@@ -1,0 +1,86 @@
+---
+schema-version: v1.2.9
+id: NISTSP1313
+title:
+- content: NIST scientific integrity program
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: annual report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: NIST scientific integrity program - annual report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.SP.1313
+  type: doi
+type: standard
+docid:
+- id: NIST SP 1313
+  type: NIST
+  primary: true
+- id: NIST.SP.1313
+  type: DOI
+date:
+- type: issued
+  value: '2024'
+contributor:
+- person:
+    name:
+      completename:
+        content: Zwolak, Justyna P.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000‐0002‐2286‐3208"
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+  role:
+  - type: publisher
+abstract:
+- content: This report summarizes the findings of the National Institute of Standards
+    and Technology Scientific Integrity Program assessment of the program for the
+    period between 1 June 2022 and 30 September 2023. It provides an assessment of
+    the current state of the program and activities that occurred during the program
+    period. The report includes a summary of the baseline evaluation conducted in
+    advance of programmatic updates in 2024.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST special publication
+    format: text/plain
+  number: '1313'
+- title:
+    content: NIST special publication; NIST special pub; NIST SP
+    format: text/plain
+  number: '1313'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: standard

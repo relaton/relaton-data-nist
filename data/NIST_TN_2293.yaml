@@ -1,0 +1,134 @@
+---
+schema-version: v1.2.9
+id: NISTTN2293
+title:
+- content: Database-assisted design
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Performance-based approach for dynamically sensitive steel structures
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: Database-assisted design - Performance-based approach for dynamically sensitive
+    steel structures
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.TN.2293
+  type: doi
+type: standard
+docid:
+- id: NIST TN 2293
+  type: NIST
+  primary: true
+- id: NIST.TN.2293
+  type: DOI
+date:
+- type: issued
+  value: '2024'
+contributor:
+- person:
+    name:
+      completename:
+        content: Yeo, DongHun.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-8019-9624"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Pingree, Steve.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Sisson, Sophie.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Heumann, Eric.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Mashnad, Mehedy.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-9946-4221"
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+  role:
+  - type: publisher
+abstract:
+- content: This NIST Technical Note presents a User’s Manual of the DAD_PBD software
+    for mid- and high-rise steel structures. A Database-Assisted Design (DAD) method
+    for the design of tall buildings that utilizes time-varying aerodynamic pressure
+    data from wind tunnel measurements or numerical simulations and wind climate data
+    of the target site has been developed at NIST and has proven effective in the
+    past. As opposed to the analytical method, the DAD approach allows for time-domain
+    and wind directional analyses that could provide the full phase details with higher
+    mode shapes and for a site-specific Performance-Based Design (PBD). However, the
+    approach lacked practicability to structural engineers due to reliance on in-house
+    analysis software intended for research purposes. DAD_BPD software is developed
+    and presented herein, a powerful and user-friendly tool that enables the DAD method
+    to be more accessible to structural engineers by integrating a widely used commercial
+    structural analysis and design software, ETABS. In the past year, MATLAB-based
+    software was first developed but, as recommended by industry partners, now has
+    migrated to Python-based software to increase accessibility to practicing engineers
+    and to improve computational time. The structural and dynamic analyses are performed
+    by ETABS, and the analysis and design of steel members are carried out in Python.
+    DAD_PBD ultimately provides design response curves as a function of mean recurrence
+    intervals (MRIs) of various design parameters, including Demand-to-Capacity Index
+    (DCI), inter-story drift ratio, floor acceleration, and Deformation Damage Index
+    (DDI). The design is iterated until the design responses satisfy the design specification.
+    The User’s Manual includes an example of the application of the software.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST technical note; NIST tech note; NIST TN
+    format: text/plain
+  number: '2293'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: standard

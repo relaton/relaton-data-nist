@@ -2,22 +2,22 @@
 schema-version: v1.2.9
 id: NISTIR7332
 title:
-- content: NCMC-9
+- content: NCMC workshop report NCMC-9
   language:
   - en
   script:
   - Latn
   format: text/plain
   type: title-main
-- content: combinatorial methods for nanostructure materials, NCMC workshop report
+- content: combinatorial methods for nanostructured materials
   language:
   - en
   script:
   - Latn
   format: text/plain
   type: title-part
-- content: NCMC-9 - combinatorial methods for nanostructure materials, NCMC workshop
-    report
+- content: NCMC workshop report NCMC-9 - combinatorial methods for nanostructured
+    materials
   language:
   - en
   script:
@@ -41,15 +41,18 @@ contributor:
 - person:
     name:
       completename:
-        content: Fasokla, Michael J.
+        content: Fasolka, Michael J. (Michael John),
         language:
         - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/no2006071426
   role:
   - type: author
 - person:
     name:
       completename:
-        content: Laumeire, Carol E.
+        content: Laumeier, Carol E.
         language:
         - en
   role:
@@ -72,7 +75,7 @@ place:
   region:
   - name: Maryland
     iso: MD
-doctype:
-  type: standard
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: standard

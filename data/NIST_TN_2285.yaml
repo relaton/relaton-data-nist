@@ -1,0 +1,75 @@
+---
+schema-version: v1.2.9
+id: NISTTN2285
+title:
+- content: Comparison of flow measurement devices for large fire experiments
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.TN.2285
+  type: doi
+type: standard
+docid:
+- id: NIST TN 2285
+  type: NIST
+  primary: true
+- id: NIST.TN.2285
+  type: DOI
+date:
+- type: issued
+  value: '2024'
+contributor:
+- person:
+    name:
+      completename:
+        content: Bryant, Rodney A.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-5344-9878"
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+  role:
+  - type: publisher
+abstract:
+- content: Bi-directional probes are utilized throughout fire research and testing
+    to measure fire induced flows due to their ability to measure flow which changes
+    direction, and to withstand hostile environments. However, they are not available
+    commercially and researchers must acquire them through custom fabrication. S-type
+    probes (S-probes) work on the same principle as bi-directional probes thereby
+    offering the same benefits. However, S-probes also feature reliable manufacturing
+    and calibration standards. For the first time the performance of bi-directional
+    and S-probes are compared in side-by-side experiments. Measurements of a steady
+    flow in a well-characterized wind tunnel were examined and the probes were used
+    to measure the velocity profile across a turbulent jet from a blower fan. In both
+    scenarios, the S-probe performed comparable to or better than the bi-directional
+    probe in terms of accuracy. The results demonstrate the S-probe as a suitable
+    alternative to the bi-directional probe for measurements of fire-induced flow.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST technical note; NIST tech note; NIST TN
+    format: text/plain
+  number: '2285'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: standard

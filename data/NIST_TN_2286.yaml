@@ -1,0 +1,94 @@
+---
+schema-version: v1.2.9
+id: NISTTN2286
+title:
+- content: Collection method for high-SNR I/Q recordings of FDD LTE user equipment
+    emissions
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.TN.2286
+  type: doi
+type: standard
+docid:
+- id: NIST TN 2286
+  type: NIST
+  primary: true
+- id: NIST.TN.2286
+  type: DOI
+date:
+- type: issued
+  value: '2024'
+contributor:
+- person:
+    name:
+      completename:
+        content: Sanders, Aric
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid) 0000-0002-2305-543X"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Kuester, Dan
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid) 0000-0003-0711-5700"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Wunderlich, Adam
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid) \t0000-0002-8463-9156"
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Communications Technology Laboratory
+  role:
+  - type: publisher
+abstract:
+- content: This report documents collection methods for high signal-to-noise ratio
+    (SNR) in-phase and quadrature (I/Q) radio frequency (RF) recordings of long-term
+    evolution (LTE) uplink emissions from a commercial-off-the-shelf (COTS) handset
+    in a fully conducted environment. A base station emulator was used to configure
+    the handset to statically transmit over various LTE physical resource block configuration
+    for 1.4 MHz, 3 MHz, 5 MHz, and 10 MHz uplink channels centered at 1770 MHz in
+    LTE Band 66, which is a frequency-division duplex (FDD) band. The aim of this
+    effort was to acquire a dataset that could be used to aid the development of computational
+    models for emissions from real-world communication hardware.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST technical note; NIST tech note; NIST TN
+    format: text/plain
+  number: '2286'
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: standard

@@ -2,21 +2,7 @@
 schema-version: v1.2.9
 id: NBSLC449
 title:
-- content: "\"Letter Circular 449"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: standards of length, mass, and time"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-part
-- content: '"Letter Circular 449 - standards of length, mass, and time"'
+- content: Standards of length, mass, and time
   language:
   - en
   script:
@@ -52,7 +38,7 @@ place:
   region:
   - name: Maryland
     iso: MD
-doctype:
-  type: standard
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: standard

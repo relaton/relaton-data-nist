@@ -1,0 +1,121 @@
+---
+schema-version: v1.2.9
+id: NISTAMS300-12
+title:
+- content: Research results and recommendations for universally unique identifiers
+    in product data standards
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.AMS.300-12
+  type: doi
+type: standard
+docid:
+- id: NIST AMS 300-12
+  type: NIST
+  primary: true
+- id: NIST.AMS.300-12
+  type: DOI
+date:
+- type: issued
+  value: '2024'
+contributor:
+- person:
+    name:
+      completename:
+        content: Trainer, Asa G.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0009-0009-7060-7493"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Feeney, Allison Barnard.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-0866-9572"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Astheimer, Rosemary.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0009-0001-0534-5054"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Hardwick, Martin.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Hedlind, Mikael.
+        language:
+        - en
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Communications Technology Laboratory.
+  role:
+  - type: publisher
+abstract:
+- content: In the model-based enterprise (MBE) paradigm, enterprises are fueled by
+    the digital thread, an authoritative, integrated information flow that connects
+    all phases of the product life cycle. The digital thread enables use of data-driven
+    processes to build knowledge, make decisions, manage requirements, and control
+    manufacturing execution. As information about a product moves through the supply
+    chain, different systems consume or modify that information for a variety of reasons.
+    Associating persistent and universally uniqueidentifiers, in combination with
+    human-readable identifiers, to key engineering requirements enables the enterprise
+    to track all information related to that requirement over the life of the product.
+    Neither widely-used product data standards nor commercial engineering software
+    adequately support universally unique identifiers (UUIDs). This is a major roadblock
+    to realizing the promises of the digital thread and model-based enterprise. This
+    paper presents current support for UUIDs in digital thread standards, use cases
+    and requirements for UUIDs in the product life cycle, research results, and finally,
+    makes recommendations for use of universal identifiers in commonly used product
+    data standards.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST advanced manufacturing series
+    format: text/plain
+  number: 300-12
+- title:
+    content: NIST advanced manufacturing series; NIST AMS
+    format: text/plain
+  number: 300-12
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: standard

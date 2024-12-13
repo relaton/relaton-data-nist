@@ -2,21 +2,7 @@
 schema-version: v1.2.9
 id: NBSLC321
 title:
-- content: Letter Circular 321
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: rubber latex
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-part
-- content: Letter Circular 321 - rubber latex
+- content: Rubber latex
   language:
   - en
   script:
@@ -52,7 +38,7 @@ place:
   region:
   - name: Maryland
     iso: MD
-doctype:
-  type: standard
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: standard

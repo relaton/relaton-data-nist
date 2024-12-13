@@ -2,7 +2,8 @@
 schema-version: v1.2.9
 id: NISTHB150-11
 title:
-- content: NVLAP electromagnetic compatibility and telecommunications
+- content: 'National voluntary laboratory accreditation program: electromagnetic compatibility
+    and telecommunications; FCC methods'
   language:
   - en
   script:
@@ -21,39 +22,33 @@ docid:
   type: DOI
 date:
 - type: issued
-  value: '2013'
+  value: '1995'
 contributor:
 - person:
     name:
       completename:
-        content: Hackett, Bethany.
-        language:
-        - en
-  role:
-  - type: author
-- person:
-    name:
-      completename:
-        content: Moore, Bradley.
+        content: Lindstrom, Eric R.
         language:
         - en
     identifier:
     - type: uri
-      id: https://id.loc.gov/authorities/names/no00028343
+      id: https://id.loc.gov/authorities/names/n88074387
   role:
   - type: author
 - person:
     name:
       completename:
-        content: Camell, Dennis.
+        content: Horlick, Jeffrey.
         language:
         - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n84134731
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology (U.S.).
-    - content: Laboratory Programs, Physical Measurement Laboratory.
+    - content: National Institute of Standards and Technology (U.S.)
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/n88112126
@@ -69,7 +64,7 @@ place:
   region:
   - name: Maryland
     iso: MD
-doctype:
-  type: standard
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: standard

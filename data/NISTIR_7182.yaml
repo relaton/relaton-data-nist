@@ -2,7 +2,8 @@
 schema-version: v1.2.9
 id: NISTIR7182
 title:
-- content: Office of law enforcement standards
+- content: Electronics and Eletrical Engineering Laboratory Office of Law Enforcement
+    Standards
   language:
   - en
   script:
@@ -16,7 +17,8 @@ title:
   - Latn
   format: text/plain
   type: title-part
-- content: Office of law enforcement standards - programs, activities, and accomplishments
+- content: Electronics and Eletrical Engineering Laboratory Office of Law Enforcement
+    Standards - programs, activities, and accomplishments
   language:
   - en
   script:
@@ -39,21 +41,12 @@ date:
 contributor:
 - organization:
     name:
-    - content: Electronics and Electrical Engineering Laboratory (National Institute
-        of Standards and Technology)
+    - content: National Institute of Standards and Technology (U.S.)
     identifier:
     - type: uri
-      id: https://id.loc.gov/authorities/names/no91025820
+      id: https://id.loc.gov/authorities/names/n88112126
   role:
   - type: publisher
-- person:
-    name:
-      completename:
-        content: Electronics and Electrical Engineering Laboratory.
-        language:
-        - en
-  role:
-  - type: author
 - organization:
     name:
     - content: National Institute of Standards and Technology (U.S.)
@@ -72,7 +65,7 @@ place:
   region:
   - name: Maryland
     iso: MD
-doctype:
-  type: standard
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: standard

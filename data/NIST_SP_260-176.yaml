@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTSP260-176
 title:
-- content: Certification report for SRMs 2112 and 2113
+- content: Standard reference materials catalog
   language:
   - en
   script:
@@ -21,56 +21,38 @@ docid:
   type: DOI
 date:
 - type: issued
-  value: '2009'
+  value: '2013'
 contributor:
 - person:
     name:
       completename:
-        content: McCowan, Chris.
-        language:
-        - en
-  role:
-  - type: author
-- person:
-    name:
-      completename:
-        content: Santoyo, Ray.
+        content: Montgomery, Regina R.
         language:
         - en
     identifier:
     - type: uri
-      id: https://id.loc.gov/authorities/names/no2021139166
+      id: https://id.loc.gov/authorities/names/no2022062310
   role:
   - type: author
 - person:
     name:
       completename:
-        content: Splett, Jolene.
+        content: Sauerwein, Joan C.
         language:
         - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/n86023024
   role:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology (U.S.).
-    - content: National Institute of Standards and Technology.
+    - content: National Institute of Standards and Technology (U.S.)
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/n88112126
   role:
   - type: publisher
-abstract:
-- content: This report documents the procedures used to develop certified maximum
-    force and absorbed energy values for SRM 2112 and SRM 2113. The report serves
-    to provide outside observers with accurate and detailed information on how the
-    materials were certified and how the impact verification program is conducted.
-    The 2112 and 2113 SRMs have certified absorbed energy values at 21 degrees C and
-    -40 degrees C, and a certified maximum force value at 21 degrees C.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 series:
 - title:
     content: NIST special publication; NIST special pub; NIST SP
@@ -81,7 +63,7 @@ place:
   region:
   - name: Maryland
     iso: MD
-doctype:
-  type: standard
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: standard

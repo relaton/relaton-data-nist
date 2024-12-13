@@ -2,21 +2,7 @@
 schema-version: v1.2.9
 id: NBSLC1124
 title:
-- content: Letter Circular 1124
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: bioclimatic chart
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-part
-- content: Letter Circular 1124 - bioclimatic chart
+- content: Bioclimatic chart
   language:
   - en
   script:
@@ -52,7 +38,7 @@ place:
   region:
   - name: Maryland
     iso: MD
-doctype:
-  type: standard
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: standard

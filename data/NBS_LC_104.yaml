@@ -2,21 +2,7 @@
 schema-version: v1.2.9
 id: NBSLC104
 title:
-- content: Letter Circular 104
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: heat treatment of steel
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-part
-- content: Letter Circular 104 - heat treatment of steel
+- content: Heat treatment of steel
   language:
   - en
   script:
@@ -52,7 +38,7 @@ place:
   region:
   - name: Maryland
     iso: MD
-doctype:
-  type: standard
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: standard

@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: NISTIR7068
 title:
-- content: Deposition rates of fine and coarse particles in residential buildings
+- content: Deposition rates of fine and course particles in residential buildings
   language:
   - en
   script:
@@ -16,7 +16,7 @@ title:
   - Latn
   format: text/plain
   type: title-part
-- content: Deposition rates of fine and coarse particles in residential buildings
+- content: Deposition rates of fine and course particles in residential buildings
     - literature review and measurements in an occupied townhouse
   language:
   - en
@@ -52,23 +52,23 @@ contributor:
 - person:
     name:
       completename:
-        content: Emmerich, Steven J. (Steven John)
-        language:
-        - en
-    identifier:
-    - type: uri
-      id: https://id.loc.gov/authorities/names/no2003076634
-  role:
-  - type: author
-- person:
-    name:
-      completename:
         content: Wallace, Lance,
         language:
         - en
     identifier:
     - type: uri
       id: https://id.loc.gov/authorities/names/n87151897
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Emmerich, Steven J. (Steven John)
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: https://id.loc.gov/authorities/names/no2003076634
   role:
   - type: author
 - organization:
@@ -89,7 +89,7 @@ place:
   region:
   - name: Maryland
     iso: MD
-doctype:
-  type: standard
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: standard

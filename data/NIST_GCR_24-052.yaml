@@ -1,0 +1,94 @@
+---
+schema-version: v1.2.9
+id: NISTGCR24-052
+title:
+- content: A Review of the literature on voter verification and ballot review
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://doi.org/10.6028/NIST.GCR.24-052
+  type: doi
+type: standard
+docid:
+- id: NIST GCR 24-052
+  type: NIST
+  primary: true
+- id: NIST.GCR.24-052
+  type: DOI
+date:
+- type: issued
+  value: '2024'
+contributor:
+- person:
+    name:
+      completename:
+        content: Chapman, Suzanne.
+        language:
+        - en
+    identifier:
+    - type: uri
+      id: "(orcid)0000-0002-0598-0795"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Patten, Christopher.
+        language:
+        - en
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Spreggiaro, Roberto.
+        language:
+        - en
+  role:
+  - type: author
+- organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory and Center for Civic Design.
+  role:
+  - type: publisher
+abstract:
+- content: One of the major issues for voting systems today is whether they provide
+    voters with a meaningful opportunity to verify their ballot before casting it.
+    This opportunity is important in helping them vote their intent by catching errors
+    or omissions made during marking, such as skipping a contest or mis-marking a
+    selection. It is also an opportunity to confirm that whether the ballot is marked
+    by hand or printed by a BMD, it accurately reflects their choices – including
+    finding any malicious changes (or software errors) made by the voting system between
+    the voter’s review and the printing of the ballot. This review of the literature
+    was done in preparation for research to understand how voters approach the task
+    of marking, reviewing, verifying, and casting a ballot. We included not only research
+    on voting systems and voting, but on related issues of trust, privacy, and mental
+    models.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+series:
+- title:
+    content: NIST GCR
+    format: text/plain
+  number: 24-052
+- title:
+    content: NIST GCR; NIST grant-contract report; NIST grant contract report
+    format: text/plain
+  number: 24-052
+place:
+- city: Gaithersburg
+  region:
+  - name: Maryland
+    iso: MD
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: standard

@@ -2,22 +2,7 @@
 schema-version: v1.2.9
 id: NBSLC190
 title:
-- content: Letter Circular 190
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: altitude-pressure tables based on the United States standard atmosphere
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-part
-- content: Letter Circular 190 - altitude-pressure tables based on the United States
-    standard atmosphere
+- content: Altitude-pressure tables based on the United States standard atmosphere
   language:
   - en
   script:
@@ -61,7 +46,7 @@ place:
   region:
   - name: Maryland
     iso: MD
-doctype:
-  type: standard
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: standard

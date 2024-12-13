@@ -2,21 +2,7 @@
 schema-version: v1.2.9
 id: NBSLC261
 title:
-- content: Letter Circular 261
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: application of the National Electric Safety Code
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-part
-- content: Letter Circular 261 - application of the National Electric Safety Code
+- content: Application of the National Electric Safety Code
   language:
   - en
   script:
@@ -52,7 +38,7 @@ place:
   region:
   - name: Maryland
     iso: MD
-doctype:
-  type: standard
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: standard

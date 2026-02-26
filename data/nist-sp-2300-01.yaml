@@ -1,0 +1,105 @@
+---
+id: NISTSP230001
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A review of community resilience indicators using a systems measurement
+    framework
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.2300-01
+docidentifier:
+- content: NIST SP 2300-01
+  type: NIST
+  primary: true
+- content: NIST.SP.2300-01
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dillard, Maria K.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1772-8914"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Walpole, Emily.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-0401-1535"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Loerzel; Jarrod.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-2025-6842"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: As natural disasters have increased in frequency and magnitude, there has
+    been an increasing need to understand what underlying factors are likely to lead
+    to faster recovery and more resilient communities. One way of addressing this
+    need has been to develop sets of indicators or indicator indices that serve as
+    proxy measurements for resilience, which is an emergent system property and cannot
+    be directly measured. Once operationalized, resilience indicators can be used
+    for planning, making funding decisions, and tracking program progress. Since all
+    of these uses can have profound effects on community well-being, it is important
+    that indicator selection involves stakeholders and is based on the best available
+    science. For the latter criteria, this can be determined by assessing what evidence
+    is used to justify indicator choices and validating candidate indicators on observed
+    data. Previous reviews of resilience indicator frameworks have attempted to gauge
+    the state of evidence used for indicator selection by looking for consensus of
+    indicator choices across different frameworks. Similar to a multi-expert elicitation,
+    it is inferred that agreement on an indicator among frameworks points to strong
+    evidence that the indicator is a good measurement of resilience. Using a novel
+    categorization methodology based in systems science, this study reviews a small
+    set of resilience frameworks for indicator consensus. Compared to previous reviews,
+    this methodology allows for clear distinction between consensus of concepts and
+    consensus of indicators to measure concepts. Our results show two new insights.
+    The first is that common usage of an indicator does not mean that agreement also
+    exists on what the indicator is actually measuring. The second is that even if
+    a common indicator has agreement on what concepts are measured, it is not guaranteed
+    that this consensus is backed by high quality evidence. These results call into
+    question the practice of reviewing many frameworks to identify common indicators
+    during model development, and instead points to the need for more detailed assessment
+    of background evidence and indicator validation.
+series:
+- title:
+  - content: NIST special publication
+  number: 2300-01
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 2300-01
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

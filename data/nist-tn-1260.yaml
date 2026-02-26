@@ -1,0 +1,62 @@
+---
+id: NISTTN1260
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Visual perception processing in a hierarchical control system
+  type: title-main
+- language: en
+  script: Latn
+  content: level I
+  type: title-part
+- language: en
+  script: Latn
+  content: Visual perception processing in a hierarchical control system - level I
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1260
+docidentifier:
+- content: NIST TN 1260
+  type: NIST
+  primary: true
+- content: NIST.TN.1260
+  type: DOI
+date:
+- type: issued
+  at: '1989'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chaconas, Karen.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no89012236
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1260'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

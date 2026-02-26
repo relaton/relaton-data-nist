@@ -1,0 +1,86 @@
+---
+id: NISTSP800161
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Supply chain risk management practices for federal information systems
+    and organizations
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-161
+docidentifier:
+- content: NIST SP 800-161
+  type: NIST
+  primary: true
+- content: NIST.SP.800-161
+  type: DOI
+date:
+- type: issued
+  at: '2015'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Boyens, Jon.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021142969
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Paulsen, Celia.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021142976
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Moorthy, Rama.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021142971
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bartol, Nadya.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021142965
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.)).
+    - content: Sensor Science Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2019028800
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-161
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

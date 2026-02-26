@@ -1,0 +1,99 @@
+---
+id: NISTTN1965
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Mobile manipulator performance measurement data
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1965
+docidentifier:
+- content: NIST TN 1965
+  type: NIST
+  primary: true
+- content: NIST.TN.1965
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bostelman, Roger.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012091704
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Li-Baboud, Ya-Shian.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Legowik, Steve.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hong, Tsai.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Foufou, Sebti.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nb2016013444
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: The National Institute of Standards and Technology, Intelligent Systems
+    Division has collected data detailing the performance measurement of a mobile
+    manipulator, i.e., an automatic guided vehicle (AGV) with onboard robot arm from
+    two different manufacturers. The performance measurement concept uses a novel
+    artifact and method that is verified using an optical tracking system (OTS) to
+    measure the AGV and manipulator motion and position uncertainty. Associated data
+    from each of the three systems (AGV, manipulator, and OTS) was collected during
+    two tests and all tests have corresponding timestamps relative to global positioning
+    system (GPS) time, where the computer clocks are synchronized using the Network
+    Time Protocol. This paper provides detailed explanation of the data from mobile
+    manipulator performance measurement tests.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1965'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

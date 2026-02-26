@@ -1,0 +1,78 @@
+---
+id: NBSRPT2335
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Properties of spectra-glaze, a glazed-face concrete block
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.RPT.2335
+docidentifier:
+- content: NBS RPT 2335
+  type: NIST
+  primary: true
+- content: NBS.RPT.2335
+  type: DOI
+date:
+- type: issued
+  at: '1953'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Goalwin, D. S.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bender, E. W.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97013450
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Oglio, E. R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Shirley, Henry,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nr94039494
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS report
+  number: '2335'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

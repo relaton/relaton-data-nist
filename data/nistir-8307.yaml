@@ -1,0 +1,123 @@
+---
+id: NISTIR8307
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Interoperability assessment 2019
+  type: title-main
+- language: en
+  script: Latn
+  content: contactless-to-contact fingerprint capture
+  type: title-part
+- language: en
+  script: Latn
+  content: Interoperability assessment 2019 - contactless-to-contact fingerprint capture
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8307
+docidentifier:
+- content: NIST IR 8307
+  type: NIST
+  primary: true
+- content: NIST.IR.8307
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Libert, John.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grantham, John.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bandini, Bruce.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020151062
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ko, Kenneth.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020148737
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Orandi, Shahram.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020043056
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Watson, Craig.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021005762
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: This report describes computational comparison measurements as well as
+    match error analysis applied to fingerprint images collected by researchers of
+    the National Institute of Standards and Technology (NIST) in May of 2019. Fingerprint
+    images from 200 Federal Employees were collected using both contact and contactless
+    acquisition devices, including both stationary devices and mobile smartphone devices.
+    Match scores from two different matchers were used to calculate False Negative
+    Identification Rate (FNIR) and False Positive Identification Rate (FPIR) at two
+    operational thresholds appropriate to each of the matchers. These values are displayed
+    in graphical form across eight devices for each of ten finger combinations. Overall
+    error performance is compared via Area Under Curve across devices for each of
+    ten finger combinations as well as across finger combinations separately for each
+    of the eight devices. Contact-to-contact interoperability remains superior to
+    contactless-to-contact, but multiple finger combinations improve match performance
+    of contactless devices.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8307'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

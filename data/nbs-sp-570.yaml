@@ -1,0 +1,74 @@
+---
+id: NBSSP570
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Structure shielding against fallout gamma rays from nuclear detonations
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.570
+docidentifier:
+- content: NBS SP 570
+  type: NIST
+  primary: true
+- content: NBS.SP.570
+  type: DOI
+date:
+- type: issued
+  at: '1980'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Spencer, L. V. (Lewis Van Clief),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80150278
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chilton, Arthur B.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80149795
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Eisenhauer, Charles.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80153903
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: '570'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

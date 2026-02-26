@@ -1,0 +1,129 @@
+---
+id: NISTTN1661
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Report on residential
+  type: title-main
+- language: en
+  script: Latn
+  content: fireground field experiments
+  type: title-part
+- language: en
+  script: Latn
+  content: Report on residential - fireground field experiments
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1661
+docidentifier:
+- content: NIST TN 1661
+  type: NIST
+  primary: true
+- content: NIST.TN.1661
+  type: DOI
+date:
+- type: issued
+  at: '2010'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Robinson, Bill.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n85816365
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Averill, Jason D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2006027919
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barowy, Adam.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021142930
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Moore, Merrell.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Notarianni, Kathy A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2013008495
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Peacock, Richard D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79111603
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Santos, Robert.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012148195
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wissoker, Doug.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021139212
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1661'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

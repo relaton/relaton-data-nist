@@ -1,0 +1,84 @@
+---
+id: NISTTN1427
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: An analysis of efficiency testing under the energy policy and conservation
+    act
+  type: title-main
+- language: en
+  script: Latn
+  content: a case study with application to distribution transformers
+  type: title-part
+- language: en
+  script: Latn
+  content: An analysis of efficiency testing under the energy policy and conservation
+    act - a case study with application to distribution transformers
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1427
+docidentifier:
+- content: NIST TN 1427
+  type: NIST
+  primary: true
+- content: NIST.TN.1427
+  type: DOI
+date:
+- type: issued
+  at: '1999'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stricklett, K. L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n99043446
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Petersons, Oskars.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n86834860
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Vangel, Mark Geoffrey.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no99065401
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1427'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,91 @@
+---
+id: NISTTN2113
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Developing cost functions for estimating solar photovoltaic system installed
+    and life cycle costs using historical quote data
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2113
+docidentifier:
+- content: NIST TN 2113
+  type: NIST
+  primary: true
+- content: NIST.TN.2113
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Webb, David.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kneifel, Joshua.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: O'Fallon, Cheyney.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Residential solar photovoltaic (PV) system installations have become more
+    prevalent as the installed cost has decreased over the last 10 years while system
+    performance has improved. As these installations have increased, so too has interest
+    in determining their economic value to a homeowner. PV installation cost estimates
+    have typically assumed the entire cost as marginal (average cost per watt) using
+    reported data aggregated to a state or country. This study implements a cost function
+    that includes a fixed cost and marginal cost element to account for differences
+    in cost structures while controlling for panel quality and specific location.
+    The analysis uses county level installed quote data applied to estimate cost functions
+    and apply these functions to life cycle cost analyses of the Washington DC-Maryland-Virginia
+    (DMV) metropolitan area while incorporating state and county level differences
+    in pricing and incentives. The estimated cost function is found to provide an
+    installed cost estimate that is statistically different than using the traditional
+    total average cost per watt approach for both standard and premium systems up
+    to 9 kW and 11 kWh, respectively. The analysis finds no statistical difference
+    in the installed cost function across counties, but clear differences in the life-cycle
+    cost-effectiveness to a homeowner due to state policies and retail electricity
+    prices. Absent financing, only PV systems in DC are life-cycle cost effective
+    compared to retail electricity due to DC s strong solar renewable energy credit
+    (SREC) market. PV can be cost effective in Maryland if financing and incentives
+    are applied while no combination of financing or incentives makes PV cost effective
+    in Virginia due to its lower relative electricity prices. Sensitivity analysis
+    finds that the homeowner s assumed discount rate and the upcoming phase out of
+    the federal investment tax credit (ITC) has a significant impact on residential
+    PV economics.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2113'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

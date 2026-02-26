@@ -1,0 +1,73 @@
+---
+id: NBSRPT5002
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: On the theory of reflection from a wire grid parallel to an interface between
+    homogenous media
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.RPT.5002
+docidentifier:
+- content: NBS RPT 5002
+  type: NIST
+  primary: true
+- content: NBS.RPT.5002
+  type: DOI
+date:
+- type: issued
+  at: '1956'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wait, James R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50021367
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: The reflection from a wire grid parallel to a plane interface is considered.
+    The respective media are homogeneous and either or both can be dissipative. The
+    grid is composed of thin equi-spaced wires of finite conductivity. The plane wave
+    solution for arbitrary incidence is then generalized for cylindrical-wave excitation.
+    The energy absorbed from a magnetic line source by a grid situated on the surface
+    of a dissipative half-space is treated in some detail. This latter problem is
+    a two-dimensional analogy of a vertical antenna with a radial wire ground system.
+series:
+- title:
+  - content: NBS report
+  number: '5002'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

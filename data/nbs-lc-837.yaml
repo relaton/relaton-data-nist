@@ -1,0 +1,47 @@
+---
+id: NBSLC837
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Painting interior walls and trim (superseding Letter Circular 304)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.LCIRC.837
+docidentifier:
+- content: NBS LC 837
+  type: NIST
+  primary: true
+- content: NBS.LCIRC.837
+  type: DOI
+date:
+- type: issued
+  at: '1946'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: '"Hickson, E. F."'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NBSLCIRC; NBS LCIRC; NBS letter circular
+  number: '837'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

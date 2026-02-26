@@ -1,0 +1,61 @@
+---
+id: NISTSP1251
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Harnessing measurement science to advance food safety
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1251
+docidentifier:
+- content: NIST SP 1251
+  type: NIST
+  primary: true
+- content: NIST.SP.1251
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: NIST Food Safety Working Group.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Material Measurement Laboratory (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012096740
+abstract:
+- language: en
+  script: Latn
+  content: This report summarizes measurement challenges identified in four main pillars
+    of global food safety (microbiological contaminants, chemical contaminants, allergens,
+    and authenticity and adulteration) as described by the experts assembled at the
+    workshop and explores potential future actions needed to improve food safety measurement
+    science. This paper is accompanied by a second, complementary report on the international
+    capabilities across national metrology institutes (NMIs) and other reference material
+    producers present at the workshop and prospective actions to ensure global food
+    safety.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '1251'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

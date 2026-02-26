@@ -1,0 +1,100 @@
+---
+id: NISTTN1715
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Certified transmittance density uncertainties for standard reference materials
+    using a tranfer spectrophometer
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1715
+docidentifier:
+- content: NIST TN 1715
+  type: NIST
+  primary: true
+- content: NIST.TN.1715
+  type: DOI
+date:
+- type: issued
+  at: '2011'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Travis, John C.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81011447
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Smith, Melody V.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021120232
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Choquette, S. J.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021152828
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Liu, Hung-Kung,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020085854
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: Overall uncertainties are evaluated for the certification of transmittance
+    density (absorbance referred to air) and regular spectral transmittance for solid
+    neutral density filter Standard Reference Materials by means of a transfer spectrophotometer.
+    Traceability is asserted by means of comparison measurements to a recognized reference
+    spectrophotometer. The uncertainties are evaluated without bias correction, using
+    the combination of the legacy combined standard uncertainty values with uncertainty
+    components for the measured bias, the standard uncertainty of this measured bias,
+    and the standard uncertainty characteristic of simple replication for a single
+    measurement using the transfer spectrophotometer. Numerical results are given,
+    and are anticipated to be the values initially quoted on certificates and in reports
+    of recertification. However, these values are subject to change upon future adjustment
+    of estimated uncertainty components for the filters or changes in the observed
+    bias with future determinations.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1715'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

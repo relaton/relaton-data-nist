@@ -1,0 +1,259 @@
+---
+id: NISTSP180015
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Securing small-business and home internet of things (IoT) devices
+  type: title-main
+- language: en
+  script: Latn
+  content: mitigating network-based attacks using manufacturer usage description (MUD)
+  type: title-part
+- language: en
+  script: Latn
+  content: Securing small-business and home internet of things (IoT) devices - mitigating
+    network-based attacks using manufacturer usage description (MUD)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1800-15
+docidentifier:
+- content: NIST SP 1800-15
+  type: NIST
+  primary: true
+- content: NIST.SP.1800-15
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dodson, Donna.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Montgomery, Douglas.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Polk, Tim.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ranganathan, Mudumbai.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Souppaya, Murugiah.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Johnson, Steve.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kadam, Ashwini.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pratt, Craig.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Thakore, Darshak.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Walker, Mark.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lear, Eliot.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Weis, Brian.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barker, William C.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Coclin, Dean.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hojjati, Avesta.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wilson, Clint.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jones, Tim.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Baykal, Adnan.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cohen, Drew.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yeich, Kevin.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fashina, Yemi.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grayeli, Parisa.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Harrington, Joshua.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Klosterman, Joshua.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mulugeta, Blaine.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Symington, Susan.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Singh, Jaideep.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The goal of the Internet Engineering Task Force's Manufacturer Usage Description
+    (MUD) specification is for Internet of Things (IoT) devices to behave as intended
+    by the manufacturers of the devices. MUD provides a standard way for manufacturers
+    to indicate the network communications that a device requires to perform its intended
+    function. When MUD is used, the network will automatically permit the IoT device
+    to send and receive only the traffic it requires to perform as intended, and the
+    network will prohibit all other communication with the device, thereby increasing
+    the device's resilience to network based attacks. In this project, the NCCoE demonstrated
+    the ability to ensure that when an IoT device connects to a home or small-business
+    network, MUD can automatically permit the device to send and receive only the
+    traffic it requires to perform its intended function. This NIST Cybersecurity
+    Practice Guide explains how MUD protocols and tools can reduce the vulnerability
+    of IoT devices to botnets and other network-based threats as well as reduce the
+    potential for harm from exploited IoT devices. It also shows IoT device developers
+    and manufacturers, network equipment developers and manufacturers, and service
+    providers who employ MUD-capable components how to integrate and use MUD to satisfy
+    IoT users' security requirements.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1800-15
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

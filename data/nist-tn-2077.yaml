@@ -1,0 +1,83 @@
+---
+id: NISTTN2077
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The NIST 20 MW calorimetry measurement system for large-fire research
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2077
+docidentifier:
+- content: NIST TN 2077
+  type: NIST
+  primary: true
+- content: NIST.TN.2077
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bryant, Rodney A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012119699
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bundy, Matthew F.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: The National Fire Research Laboratory is a unique large-fire research facility;
+    able to characterize the response of full-scale building systems to realistic
+    mechanical loading and fire. The facility maintains an infrastructure of measurements
+    necessary for accurately characterizing the heat release rate of fires, a key
+    parameter in predicting fire hazard. This measurement infrastructure includes
+    four oxygen consumption calorimeters to measure the heat released during fire
+    experiments, and a fuel consumption calorimetry system (natural gas burners and
+    flow control) to generate precise amounts of heat release. Both systems have a
+    heat release rate capacity of 20 MW, twice the capacity of the previous facility.
+    A rigorous evaluation of the processes for the measurements by oxygen consumption
+    calorimetry and fuel consumption calorimetry has resulted in significant improvements
+    in measurement uncertainty when compared to previous versions of the facility.
+    Measurement agreement between the two independent systems has been demonstrated
+    and provides evidence that NFRL's system of heat release rate measurements for
+    large-scale fire research are the most accurate and highly characterized of their
+    kind. The methodology, hardware, and performance of the large-fire calorimeters
+    and natural gas flow system are described here to provide technical guidance on
+    achieving accurate heat release measurements to laboratories with the mission
+    of accurate large-scale fire testing.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2077'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

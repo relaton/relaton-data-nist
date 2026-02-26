@@ -1,0 +1,110 @@
+---
+id: NISTSP800128
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guide for security-focused configuration management of information systems
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-128
+docidentifier:
+- content: NIST SP 800-128
+  type: NIST
+  primary: true
+- content: NIST.SP.800-128
+  type: DOI
+date:
+- type: issued
+  at: '2011'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Johnson, L. A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81012562
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dempsey, K. L.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ross, R. S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2005062126
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gupta, S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n90668752
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bailey, D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n89639822
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: The purpose of Special Publication 800-128, Guide for Security-Focused
+    Configuration Management of Information Systems, is to provide guidelines for
+    organizations responsible for managing and administering the security of federal
+    information systems and associated environments of operation. Configuration management
+    concepts and principles described in NIST SP 800-128, provide supporting information
+    for NIST SP 800-53, Recommended Security Controls for Federal Information Systems
+    and Organizations. NIST SP 800-128 assumes that information security is an integral
+    part of an organization⁰₉s overall configuration management. The focus of this
+    document is on implementation of the information system security aspects of configuration
+    management, and as such the term security-focused configuration management (SecCM)
+    is used to emphasize the concentration on information security. In addition to
+    the fundamental concepts associated with SecCM, the process of applying SecCM
+    practices to information systems is described. The goal of SecCM activities is
+    to manage and monitor the configurations of information systems to achieve adequate
+    security and minimize organizational risk while supporting the desired business
+    functionality and services.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-128
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

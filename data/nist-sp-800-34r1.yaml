@@ -1,0 +1,90 @@
+---
+id: NISTSP80034r1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Contingency planning guide for federal information systems
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-34r1
+docidentifier:
+- content: NIST SP 800-34r1
+  type: NIST
+  primary: true
+- content: NIST.SP.800-34r1
+  type: DOI
+date:
+- type: issued
+  at: '2010'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Swanson, M.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bowen, P.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Phillips, A. W.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gallup, D.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lynes, D.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: This publication assists organizations in understanding the purpose, process,
+    and format of information system contingency planning development through practical,
+    real-world guidelines. This guidance document provides background information
+    on interrelationships between information system contingency planning and other
+    types of security and emergency management-related contingency plans, organizational
+    resiliency, and the system development life cycle. This document provides guidance
+    to help personnel evaluate information systems and operations to determine contingency
+    planning requirements and priorities.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-34r1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

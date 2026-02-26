@@ -1,0 +1,64 @@
+---
+id: NISTIR8250
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Calibration procedures for weights and measures laboratories
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8250
+docidentifier:
+- content: NIST IR 8250
+  type: NIST
+  primary: true
+- content: NIST.IR.8250
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Harris, Georgia L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n91104296
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.))
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2019028800
+abstract:
+- language: en
+  script: Latn
+  content: 'This publication contains standard operating procedures for calibrations
+    that were not previously published in other NIST Office of Weights and Measures
+    publications and are included here in support of weights and measures laboratory
+    program requirements to ensure suitable metrological traceability, and uncertainty
+    in calibrations. The current and proposed procedures cover a variety of measurement
+    parameters including: time and frequency, electricity, mass, force, volume, dimensional,
+    thermodynamic, pressure, liquid and solid density, and magnetism in mass standards.'
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8250'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

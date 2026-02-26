@@ -1,0 +1,55 @@
+---
+id: NBSMP202
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: State and national laws concerning the weights and measures of the United
+    States (second edition)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.MP.20-2
+docidentifier:
+- content: NBS MP 20-2
+  type: NIST
+  primary: true
+- content: NBS.MP.20-2
+  type: DOI
+date:
+- type: issued
+  at: '1912'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Parry, William,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82105715
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS miscellaneous publication; NBS miscellaneous pub; NBS MP
+  number: 20-2
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

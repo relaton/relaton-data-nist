@@ -1,0 +1,54 @@
+---
+id: NISTTN1445
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: FY2001 annual report next generation fire suppression technology program
+    (NGP)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1445
+docidentifier:
+- content: NIST TN 1445
+  type: NIST
+  primary: true
+- content: NIST.TN.1445
+  type: DOI
+date:
+- type: issued
+  at: '2002'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gann, Richard G.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n96095572
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1445'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

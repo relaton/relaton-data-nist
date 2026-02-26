@@ -1,0 +1,87 @@
+---
+id: NISTSP260232
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Certification of Standard Reference Material 917d D-Glucose (Dextrose)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-232
+docidentifier:
+- content: NIST SP 260-232
+  type: NIST
+  primary: true
+- content: NIST.SP.260-232
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nelson, Michael A.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-0503-4501"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mulloor, Jerome.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lang, Brian E.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-0772-1420"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Toman, Blaza.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-0999-9565"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Standard Reference Material (SRM) 917d D-Glucose (Dextrose) is certified
+    as a chemical substance of known high purity. It is intended for use in calibrating
+    measuring systems for glucose determinations employed in clinical analysis. A
+    unit of SRM 917d consists of one bottle containing 50 g of crystalline D-glucose.
+    This publication documents the production, analytical methods, and computations
+    involved in characterizing this product.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 260-232
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,63 @@
+---
+id: NISTSP80053r3
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Recommended security controls for federal information systems and organizations
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-53r3
+docidentifier:
+- content: NIST SP 800-53r3
+  type: NIST
+  primary: true
+- content: NIST.SP.800-53r3
+  type: DOI
+date:
+- type: issued
+  at: '2009'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Joint Task Force Transformation Initiative.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Joint Task Force Transformation Initiative.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: The objective of NIST SP 800-53 is to provide a set of security controls
+    that can satisfy the breadth and depth of security requirements levied on information
+    systems and organizations and that is consistent with and complementary to other
+    established information security standards. Revision 3 is the first major update
+    since December 2005 and includes significant improvements to the security control
+    catalog.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-53r3
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

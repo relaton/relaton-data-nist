@@ -1,0 +1,90 @@
+---
+id: NISTTN2057
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Effect of strain rate on glass fiber failure process in a glass fiber/epoxy
+    model composite
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2057
+docidentifier:
+- content: NIST TN 2057
+  type: NIST
+  primary: true
+- content: NIST.TN.2057
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kim, Jae Hyun.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mates, Steven P.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Heckert, N. Alan.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Woodcock, Jeremiah W.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Holmes, Gale A.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: In this study, we elongated glass-fiber model composites in tension to
+    monitor local fiber breakage in the epoxy matrix under quasi-static loading (approximately
+    0.00001 s-1) and high rate loading (approximately 200 s-1). Strains for the initial
+    fiber breaks were around 2 % under the quasi-static loading, while the strains
+    for the initial fiber breaks were around 4 % to 5 % for the high strain rate loading,
+    indicating significant rate dependent characteristics on tensile failure strains
+    of the glass fibers.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2057'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

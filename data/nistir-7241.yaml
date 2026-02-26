@@ -1,0 +1,71 @@
+---
+id: NISTIR7241
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST in the CFR
+  type: title-main
+- language: en
+  script: Latn
+  content: a report on references to NIST (and NBS) products and services in the code
+    of federal regulations
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST in the CFR - a report on references to NIST (and NBS) products and
+    services in the code of federal regulations
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7241
+docidentifier:
+- content: NIST IR 7241
+  type: NIST
+  primary: true
+- content: NIST.IR.7241
+  type: DOI
+date:
+- type: issued
+  at: '2005'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Martinez, Ileana.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jillavenkatesa, Ajit.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Londono, Carmina.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7241'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

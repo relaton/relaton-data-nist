@@ -1,0 +1,103 @@
+---
+id: NISTSP260222
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Certification of NIST gas mixture Standard Reference Materials
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-222
+docidentifier:
+- content: NIST SP 260-222
+  type: NIST
+  primary: true
+- content: NIST.SP.260-222
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cecelski, Christina E.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Harris, Kimberly J.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Goodman, Cassie A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kimes, William A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Liu, Qingnan.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Miller, Walter R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Carney, Jennifer.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: The Gas Sensing Metrology Group at NIST provides accurate, stable gaseous
+    standards for use in various types of emissions testing and environmental monitoring.
+    The group develops and maintains the highest level of primary gas standards, which
+    provide direct traceability to the International System of Units (SI). This traceability
+    is then realized through the certification and dissemination of reference gas
+    standards, such as NIST Standard Reference Materials (SRMs). Gas mixture SRMs
+    are produced by a specialty gas company, analyzed by NIST against primary gas
+    standards, and sold to customers to provide traceability for their gas measurements.
+    This document provides an overview of the gas metrology program at NIST, and describes
+    the general procedures which are used to develop and certify gas mixture SRMs.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 260-222
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

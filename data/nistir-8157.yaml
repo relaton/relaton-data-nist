@@ -1,0 +1,73 @@
+---
+id: NISTIR8157
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: BLER performance evaluation of LTE Device-to-Device communications
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8157
+docidentifier:
+- content: NIST IR 8157
+  type: NIST
+  primary: true
+- content: NIST.IR.8157
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wang, Jian.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n78067693
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rouil, Richard.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Communications Technology Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: Long-Term Evolution (LTE) supporting Device-to-Device (D2D) communication
+    is a feature introduced in 3rd Generation Partnership Project (3GPP) release 12.
+    D2D communication is critical in public safety applications, which enables communication
+    among first responders when the network infrastructure may not be available. In
+    order to characterize the performance of D2D communications using network simulation
+    tool (e.g. ns-3), accurate physical layer error model is important. In this document,
+    we present our D2D physical channel simulations to study the BLock Error Rate
+    (BLER) performance of the physical channels. We also demonstrate how to integrate
+    the simulation results into network simulator to perform system level simulation.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8157'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

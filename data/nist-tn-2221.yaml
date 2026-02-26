@@ -1,0 +1,63 @@
+---
+id: NISTTN2221
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Implementing NIST infiltration correlations
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2221
+docidentifier:
+- content: NIST TN 2221
+  type: NIST
+  primary: true
+- content: NIST.TN.2221
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Teo, Jyrteanna.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ng, Lisa C.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: This tutorial is a guide on how to implement the NIST infiltration correlations
+    (Ng et al., 2021) into EnergyPlus building energy simulation software for the
+    US Department of Energy prototype commercial buildings. The implementation can
+    also be generalized to other building energy simulation software and other building
+    models.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2221'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

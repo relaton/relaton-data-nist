@@ -1,0 +1,91 @@
+---
+id: NISTIR8425
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Profile of the IoT core baseline for consumer IoT products
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8425
+docidentifier:
+- content: NIST IR 8425
+  type: NIST
+  primary: true
+- content: NIST.IR.8425
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fagan, Michael.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Megas, Katerina.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Watrobski, Paul.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Marron, Jeffery.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cuthill, Barbara.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: This publication documents the consumer profile of NIST's Internet of Things
+    (IoT) core baseline and identifies cybersecurity capabilities commonly needed
+    for the consumer IoT sector (i.e., IoT products for home or personal use). It
+    can also be a starting point for businesses to consider in the purchase of IoT
+    products. The consumer profile was developed as part of NIST's response to Executive
+    Order 14028 and was initially published in Recommended Criteria for Cybersecurity
+    Labeling for Consumer Internet of Things (IoT) Products. The consumer profile
+    capabilities are phrased as cybersecurity outcomes that are intended to apply
+    to the entire IoT product. This document also discusses the foundations for developing
+    the recommended consumer profile and related considerations. NIST reviewed a landscape
+    of relevant source documents to inform the consumer profile and engaged with stakeholders
+    across a year-long effort to develop the recommendations.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8425'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

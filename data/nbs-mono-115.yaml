@@ -1,0 +1,55 @@
+---
+id: NBSMONO115
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The Calculation of rotational energy levels and rotational line intensities
+    in diatomic molecules
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.MONO.115
+docidentifier:
+- content: NBS MONO 115
+  type: NIST
+  primary: true
+- content: NBS.MONO.115
+  type: DOI
+date:
+- type: issued
+  at: '1970'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hougen, Jon T.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003110873
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS monograph; NBS MONO
+  number: '115'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

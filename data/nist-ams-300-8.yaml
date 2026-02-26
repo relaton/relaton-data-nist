@@ -1,0 +1,99 @@
+---
+id: NISTAMS3008
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Wireless user requirements for the factory workcell
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.300-8
+docidentifier:
+- content: NIST AMS 300-8
+  type: NIST
+  primary: true
+- content: NIST.AMS.300-8
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Montgomery, Karl.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021109644
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Candell, Richard.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Liu, Yongkang.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nr91006307
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hany, Mohamed.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: Wireless communication is becoming crucial to advanced manufacturing. Industry
+    4.0 and SmartManufacturing depend on networked industrial automation systems.
+    The term Industrial Internet ofThings (IIoT) has been used to describe the deployment
+    of interconnected machines, sensors, andactuators within modernized factories.
+    The adoption of wireless systems is essential to these IIoTdeployments. Wireless
+    automation significantly reduces capital investment costs including conduit,cables,
+    networking equipment, and labor of installation. To enable the adoption of wireless
+    systems atthe factory-floor level, wireless requirements must be established to
+    realize the benefits of wirelesscommunication systems within those factories.
+    One challenge is that existing wireless standards lacktechnical specifications
+    that support low-latency and high-reliability communication for factoryapplications.
+    Additionally, requirements for such capabilities are published or advertised withoutvalidation
+    of said requirements. Often, requirements published by standards developmentorganizations
+    appear excessively strict and unvalidated by empirical study. Moreover, thoserequirements
+    ignore the capabilities of the applications to use their own intelligence to compensatefor
+    lost reliability in the network. This report analyzes existing wireless user requirements
+    stated byindustry organizations and it produces a combined perspective on wireless
+    user requirements for thefactory workcell with supporting rationale.
+series:
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 300-8
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

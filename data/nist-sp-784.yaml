@@ -1,0 +1,65 @@
+---
+id: NISTSP784
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: DOE/NIST Workshop on Common Architectures for Robotic Systems
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.784
+docidentifier:
+- content: NIST SP 784
+  type: NIST
+  primary: true
+- content: NIST.SP.784
+  type: DOI
+date:
+- type: issued
+  at: '1990'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Quintero, Richard.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022075515
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: 'At the request of the Department of Energy''s (DOE''s) Office of Technology
+    Development the National Institute of Standards and Technology (NIST), Robot Systems
+    Division organized and hosted the first DOE/NIST Workshop on Common Architectures
+    for Robotic Systems. The workshop had three goals: An initial review of the methodologies
+    currently used by the DOE sites for development and maintenance of software related
+    to robotic and remote systems; presentations by representatives of other government
+    agencies on lessons learned in the development of common architectures for robotic
+    and remote systems; and a preliminary assessment of the methodology necessary
+    to arrive at a DOE common architecture.'
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '784'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

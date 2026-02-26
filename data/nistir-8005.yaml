@@ -1,0 +1,59 @@
+---
+id: NISTIR8005
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Applicability of existing materials testing standards for additive manufacturing
+    materials
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8005
+docidentifier:
+- content: NIST IR 8005
+  type: NIST
+  primary: true
+- content: NIST.IR.8005
+  type: DOI
+date:
+- type: issued
+  at: '2014'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Slotwinski, John.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Moylan, Shawn.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8005'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

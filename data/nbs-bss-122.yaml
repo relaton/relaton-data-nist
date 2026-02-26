@@ -1,0 +1,81 @@
+---
+id: NBSBSS122
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A Study of lumber used for bracing trenches in the United States
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.BSS.122
+docidentifier:
+- content: NBS BSS 122
+  type: NIST
+  primary: true
+- content: NBS.BSS.122
+  type: DOI
+date:
+- type: issued
+  at: '1980'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Knab, Lawrence I.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80071024
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Galligan, W. L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83062098
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bendtsen, B. A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84047326
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Senft, John F.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS building science series; NBS building science; NBS BSS
+  number: '122'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,127 @@
+---
+id: NISTSP80063A
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Digital identity guidelines: enrollment and identity proofing'
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-63a
+docidentifier:
+- content: NIST SP 800-63A
+  type: NIST
+  primary: true
+- content: NIST.SP.800-63a
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grassi, Paul A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020085231
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fenton, James L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020085063
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lefkovitz, Naomi B.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020085243
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Danker, Jamie M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020085096
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Choong, Yee-Yin.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2012016196
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Greene, Kristen K.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020085049
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Theofanos, Mary F.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020085028
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: These guidelines provide technical requirements for federal agencies implementing
+    digital identity services and are not intended to constrain the development or
+    use of standards outside of this purpose. This guideline focuses on the enrollment
+    and verification of an identity for use in digital authentication. Central to
+    this is a process known as identity proofing in which an applicant provides evidence
+    to a credential service provider (CSP) reliably identifying themselves, thereby
+    allowing the CSP to assert that identification at a useful identity assurance
+    level. This document defines technical requirements for each of three identity
+    assurance levels. This publication supersedes corresponding sections of NIST Special
+    Publication (SP) 800-63-2.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-63a
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

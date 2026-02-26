@@ -1,0 +1,86 @@
+---
+id: NISTSP80082r1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guide to industrial control systems (ICS) security
+  type: title-main
+- language: en
+  script: Latn
+  content: supervisory control and data ccquisition (SCADA) systems, distributed control
+    systems (DCS), and other control system configurations such as programmable logic
+    controllers (PLC)
+  type: title-part
+- language: en
+  script: Latn
+  content: Guide to industrial control systems (ICS) security - supervisory control
+    and data ccquisition (SCADA) systems, distributed control systems (DCS), and other
+    control system configurations such as programmable logic controllers (PLC)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-82r1
+docidentifier:
+- content: NIST SP 800-82r1
+  type: NIST
+  primary: true
+- content: NIST.SP.800-82r1
+  type: DOI
+date:
+- type: issued
+  at: '2013'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stouffer, Keith.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022079917
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Falco, Joe.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003070033
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, Karen.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2007017003
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory, Information Technology Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-82r1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

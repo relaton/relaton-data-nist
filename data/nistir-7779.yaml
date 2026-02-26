@@ -1,0 +1,68 @@
+---
+id: NISTIR7779
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: An exploration of the operational ramifications of lossless compression
+    of 1000 ppi fingerprint imagery
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7779
+docidentifier:
+- content: NIST IR 7779
+  type: NIST
+  primary: true
+- content: NIST.IR.7779
+  type: DOI
+date:
+- type: issued
+  at: '2012'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Orandi, Shahram.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020043056
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: This paper presents the findings of a study initially conducted to measure
+    the operational impact of JPEG 2000 lossy compression on 1000 ppi fingerprint
+    imagery at various levels of compression, but later expanded to include lossless
+    compression. Lossless compression will have no impact on either Galton or non-Galton
+    based features of a fingerprint since the compressed image is identical to the
+    original once decompressed. The selection of a lossless compression algorithm
+    can have operational implications in terms of effective compression rate and throughput;
+    these implications are the focus. This study examines several such compression
+    algorithms and compares them using criteria used to measure the effectiveness
+    of the compression algorithm as well as its throughput using actual fingerprint
+    imagery.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7779'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

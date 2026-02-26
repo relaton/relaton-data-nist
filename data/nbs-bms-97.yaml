@@ -1,0 +1,61 @@
+---
+id: NBSBMS97
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Experimental dry-wall construction with fiber insulating board
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.BMS.97
+docidentifier:
+- content: NBS BMS 97
+  type: NIST
+  primary: true
+- content: NBS.BMS.97
+  type: DOI
+date:
+- type: issued
+  at: '1943'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Weber, Charles G. (Charles Gould),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n92088964
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Reichel, Robert C.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS building materials and structures report; NBS BMS
+  number: '97'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

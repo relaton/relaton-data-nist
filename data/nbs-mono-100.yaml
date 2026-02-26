@@ -1,0 +1,72 @@
+---
+id: NBSMONO100
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Trace characterization
+  type: title-main
+- language: en
+  script: Latn
+  content: chemical and physical
+  type: title-part
+- language: en
+  script: Latn
+  content: Trace characterization - chemical and physical
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.MONO.100
+docidentifier:
+- content: NBS MONO 100
+  type: NIST
+  primary: true
+- content: NBS.MONO.100
+  type: DOI
+date:
+- type: issued
+  at: '1967'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Meinke, W. Wayne.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n89667093
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scribner, Bourdon F. (Bourdon Francis),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n89667089
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS monograph; NBS MONO
+  number: '100'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

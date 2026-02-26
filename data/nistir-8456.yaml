@@ -1,0 +1,59 @@
+---
+id: NISTIR8456
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: What does the pixel measure?
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8456
+docidentifier:
+- content: NIST IR 8456
+  type: NIST
+  primary: true
+- content: NIST.IR.8456
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Flater, David.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-2546-2530"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The pixel is often used as a unit of measurement in information technology.
+    Unfortunately, there is not a simple, consistently-applicable answer to what it
+    is a measure of. This report analyzes the pixel unit through the lens of metrology
+    and shows how one entity, the pixel, actually gives rise to a group of different
+    units.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8456'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

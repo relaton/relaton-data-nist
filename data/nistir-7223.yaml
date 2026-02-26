@@ -1,0 +1,62 @@
+---
+id: NISTIR7223
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Semantic mapping between IAI ifcXML and FIATECH AEX models for centrifugal
+    pumps
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7223
+docidentifier:
+- content: NIST IR 7223
+  type: NIST
+  primary: true
+- content: NIST.IR.7223
+  type: DOI
+date:
+- type: issued
+  at: '2005'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Begley, E F.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Palmer, M E.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Reed, K A.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7223'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

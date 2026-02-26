@@ -1,0 +1,79 @@
+---
+id: NISTSP800146
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Cloud computing synopsis and recommendations
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-146
+docidentifier:
+- content: NIST SP 800-146
+  type: NIST
+  primary: true
+- content: NIST.SP.800-146
+  type: DOI
+date:
+- type: issued
+  at: '2012'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Badger, M. L.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grance, T.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Patt-Corner, R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Voas, J.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: This document reprises the NIST-established definition of cloud computing,
+    describes cloud computing benefits and open issues, presents an overview of major
+    classes of cloud technology, and provides guidelines and recommendations on how
+    organizations should consider the relative opportunities and risks of cloud computing.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-146
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

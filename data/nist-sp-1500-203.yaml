@@ -1,0 +1,101 @@
+---
+id: NISTSP1500203
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Framework for cyber-physical systems: volume 3, timing annex'
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1500-203
+docidentifier:
+- content: NIST SP 1500-203
+  type: NIST
+  primary: true
+- content: NIST.SP.1500-203
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wollman, David A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Weiss, Marc A. (Marc Allan)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n85362045
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Li-Baboud, Ya-Shian.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Griffor, Edward.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Burns, Martin.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97033846
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: 'Cyber-Physical Systems (CPS) comprise interacting digital, analog, physical,
+    and human components engineered for function through integrated physics and logic.
+    NIST established the CPS Public Working Group (CPS PWG) to bring together a broad
+    range of CPS experts in an open public forum to help define and shape key characteristics
+    of CPS, to better manage development and implementation within and across multiple
+    smart application domains, including smart manufacturing, transportation, energy,
+    and healthcare. The resulting CPS Framework provides an organized presentation
+    of a CPS analysis methodology based on the CPS Framework core concepts of facets
+    (modes of the system engineering process: conceptualization, realization and assurance)
+    and aspects (clusters of concerns: functional, business, human, trustworthiness,
+    timing, data, composition, boundaries, and lifecycle). This volume contains additional
+    material on timing in cyber-physical systems produced by the timing subgroup,
+    which supplements information in NIST SP 1500-202.'
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1500-203
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

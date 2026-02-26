@@ -1,0 +1,149 @@
+---
+id: NISTSP800221
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Enterprise impact of information and communications technology risk
+  type: title-main
+- language: en
+  script: Latn
+  content: governing and managing ICT risk programs within an enterprise risk portfolio
+  type: title-part
+- language: en
+  script: Latn
+  content: Enterprise impact of information and communications technology risk - governing
+    and managing ICT risk programs within an enterprise risk portfolio
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-221
+docidentifier:
+- content: NIST SP 800-221
+  type: NIST
+  primary: true
+- content: NIST.SP.800-221
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Quinn, Stephen.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1436-684X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ivy, Nahla.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-4741-422X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barrett, Matthew.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7689-427X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Feldman, Larry.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-3888-027X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Topper, Daniel.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-2612-7547"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Witte, Greg.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-5425-1097"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, Karen.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-6334-9486"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gardner, Robert.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chua, Julie.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: All enterprises should ensure that information and communications technology
+    (ICT) risk receives appropriate attention within their enterprise risk management
+    (ERM) programs. This document is intended to help individual organizations within
+    an enterprise improve their ICT risk management (ICTRM). This can enable enterprises
+    and their component organizations to better identify, assess, and manage their
+    ICT risks in the context of their broader mission and business objectives. This
+    document explains the value of rolling up and integrating risks that may be addressed
+    at lower system and organizational levels to the broader enterprise level by focusing
+    on the use of ICT risk registers as input to the enterprise risk profile.
+series:
+- title:
+  - content: NIST special publication
+  number: 800-221
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-221
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

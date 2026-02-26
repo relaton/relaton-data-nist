@@ -1,0 +1,54 @@
+---
+id: NISTSP1280
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Historical notes on shell sort, Bresenham's algorithm, and the Chinese
+    postman problem
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1280
+docidentifier:
+- content: NIST SP 1280
+  type: NIST
+  primary: true
+- content: NIST.SP.1280
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Black, Paul E.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: These are historical notes, from those involved, on the names and origins
+    of Shell sort, Bresenham's Algorithm, and the Chinese Postman Problem.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '1280'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

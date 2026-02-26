@@ -1,0 +1,72 @@
+---
+id: NBSTN11133
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Highway noise criteria study
+  type: title-main
+- language: en
+  script: Latn
+  content: relations among frequency rating procedures
+  type: title-part
+- language: en
+  script: Latn
+  content: Highway noise criteria study - relations among frequency rating procedures
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.TN.1113-3
+docidentifier:
+- content: NBS TN 1113-3
+  type: NIST
+  primary: true
+- content: NBS.TN.1113-3
+  type: DOI
+date:
+- type: issued
+  at: '1983'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Flynn, Daniel R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82220511
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yaniv, Simone L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n77017405
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS technical note; NBS tech note; NBS TN
+  number: 1113-3
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

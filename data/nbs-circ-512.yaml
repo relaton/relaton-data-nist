@@ -1,0 +1,81 @@
+---
+id: NBSCIRC512
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Circular of the Bureau of Standards no. 512
+  type: title-main
+- language: en
+  script: Latn
+  content: methods of measuring humidity and testing hygrometers
+  type: title-part
+- language: en
+  script: Latn
+  content: Circular of the Bureau of Standards no. 512 - methods of measuring humidity
+    and testing hygrometers
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.CIRC.512
+docidentifier:
+- content: NBS CIRC 512
+  type: NIST
+  primary: true
+- content: NBS.CIRC.512
+  type: DOI
+date:
+- type: issued
+  at: '1951'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wexler, Arnold.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n85803700
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brombacher, W. G. (William George),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83825460
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: National Bureau of Standards circular
+  number: '512'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

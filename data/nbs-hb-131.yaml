@@ -1,0 +1,89 @@
+---
+id: NBSHB131
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Using ANS FOTRAN
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.HB.131
+docidentifier:
+- content: NBS HB 131
+  type: NIST
+  primary: true
+- content: NBS.HB.131
+  type: DOI
+date:
+- type: issued
+  at: '1980'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lyon, Gordon.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n77017550
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Holberton, Fraces E.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Larmouth, J. (John)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80073600
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McIlroy, M. D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80070005
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS handbook; NBS HB
+  number: '131'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

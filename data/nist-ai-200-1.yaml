@@ -1,0 +1,89 @@
+---
+id: NISTAI2001
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: AI use taxonomy
+  type: title-main
+- language: en
+  script: Latn
+  content: a human-centered approach
+  type: title-part
+- language: en
+  script: Latn
+  content: AI use taxonomy - a human-centered approach
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AI.200-1
+docidentifier:
+- content: NIST AI 200-1
+  type: NIST
+  primary: true
+- content: NIST.AI.200-1
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Choong, Yee-Yin.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3889-6047"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jensen, Theodore.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-4969-4456"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'As artificial intelligence (AI) systems continue to be developed, humans
+    will increasingly participate in human-AI interactions. Humans interact with AI
+    systems to achieve particular goals. To ensure that AI systems contribute positively
+    to human-AI interactions, it is important to examine human-AI tasks with an emphasis
+    on human goals and outcomes. The AI Use Taxonomy aims to provide a flexible means
+    of classifying how an AI system contributes to an outcome. The taxonomy sets forward
+    16 AI use “activities” which are independent of AI techniques and domains. Tasks
+    are combinations of one or more AI use activities. Future research includes applying
+    the taxonomy to better understand measurement challenges for each activity. The
+    taxonomy can contribute to an improved understanding of the architecture of human-AI
+    tasks and help to foster positive, human-centered interactions with AI systems
+    and optimal outcomes in the following ways: • Provides common terminology for
+    describing outcome-based human-AI activities independent of AI techniques and
+    domains • Enables cross-domain insights based on shared human-AI activities •
+    Highlights commonalities in measurement and evaluation needs across disparate
+    AI techniques • Facilitates the development of use cases • Facilitates the evaluation
+    of trustworthiness characteristics and usability.'
+series:
+- title:
+  - content: NIST trustworthy and responsible AI; NIST AI
+  number: 200-1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

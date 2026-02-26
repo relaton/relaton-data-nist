@@ -1,0 +1,85 @@
+---
+id: NISTIR8243
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A test method for measuring response robot performance under attenuated
+    radio conditions
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8243
+docidentifier:
+- content: NIST IR 8243
+  type: NIST
+  primary: true
+- content: NIST.IR.8243
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kimble, Kenneth E.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Candell, Richard.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Saidi, Kamel S.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: 'Emergency and disaster situations are unavoidable. Earthquakes, severe
+    weather, bomb threats, and war are an unfortunate reality. Firefighters, bomb
+    technicians, and urban search and rescue specialists are the first to respond
+    in emergency situations. These first responders risk their lives where remotely
+    operated robots would be more suited for the dangers. Emergency response robots
+    are designed for remote operation implying a wireless connection between the controller
+    and robot. The performance of the wireless communication connection between controller
+    and robot is typically non-ideal. Reflective and absorptive properties of the
+    operational environment and interference degrade the communication system, limiting
+    range, reliability, and timeliness. An affordable and effective method for evaluating
+    the performance of emergency response robots under specific attenuated radio conditions
+    is proposed in this paper. The method may be useful for continuing work on a current
+    standard: E2855-12 Standard Test Method for Evaluating Emergency Response Robot
+    Capabilities: Radio Communication: Non-Line-of-Sight Range[3] currently being
+    pursued by the American Society for Testing and Materials (ASTM) International
+    Standards Committee on Homeland Security Applications.'
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8243'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

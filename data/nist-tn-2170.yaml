@@ -1,0 +1,90 @@
+---
+id: NISTTN2170
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Modeling of combustion of fluorine-containing refrigerants
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2170
+docidentifier:
+- content: NIST TN 2170
+  type: NIST
+  primary: true
+- content: NIST.TN.2170
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Babushok, Valeri I.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Burgess, Donald R. Jr.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kim, Dennis K.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hegetschweiler, Michael J.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Linteris, Gregory T.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'A gas-phase chemical kinetic model for the combustion of C1-C3 fluorine-containing
+    refrigerants is presented, including a list of relevant species, their thermodynamic
+    and transport properties, and the Arrhenius parameters for their reactions. Also
+    included are tables of available experimental data in the literature for the laminar
+    burning velocities for these HFC refrigerants and their mixtures. A comparison
+    is made between the experimental data and predicted burning velocities as a function
+    of the fuel-air equivalence ratio for the refrigerants. The model has been developed
+    for the refrigerants: R-32, R-125, R-134a, R-152a, R-143, R-143a, R-1234yf, R-1234ze(E),
+    R-1243zf and their mixtures. Agreement between predicted and measured burning
+    velocity is very good for most of the refrigerant mixtures, and reasonably good
+    agreement for a few.'
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2170'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

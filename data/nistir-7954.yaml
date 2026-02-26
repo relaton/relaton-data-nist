@@ -1,0 +1,85 @@
+---
+id: NISTIR7954
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Measurement uncertainty in cell image segmentation data analysis
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7954
+docidentifier:
+- content: NIST IR 7954
+  type: NIST
+  primary: true
+- content: NIST.IR.7954
+  type: DOI
+date:
+- type: issued
+  at: '2013'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wu, Jin Chu.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020098846
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Halter, Michael.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kacker, Raghu N.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2013027210
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Elliott, John T.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Plant, Ann.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Information Technology Laboratory, Material Measurement Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7954'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

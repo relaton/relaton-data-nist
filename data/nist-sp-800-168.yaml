@@ -1,0 +1,101 @@
+---
+id: NISTSP800168
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Approximate matching
+  type: title-main
+- language: en
+  script: Latn
+  content: definition and terminology
+  type: title-part
+- language: en
+  script: Latn
+  content: Approximate matching - definition and terminology
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-168
+docidentifier:
+- content: NIST SP 800-168
+  type: NIST
+  primary: true
+- content: NIST.SP.800-168
+  type: DOI
+date:
+- type: issued
+  at: '2014'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Breitinger, F.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: White, D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nr95025217
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Guttman, Burton S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83127613
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McCarrin, M.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Roussev, V.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: Approximate matching is a promising technology for designed to identify
+    similarities between two digital artifacts. It is used to find objects that resemble
+    each other or to find objects that are contained in another object. This can be
+    very useful for filtering data for security monitoring, digital forensics, or
+    other applications.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-168
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

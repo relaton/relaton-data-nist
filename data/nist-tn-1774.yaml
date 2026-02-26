@@ -1,0 +1,73 @@
+---
+id: NISTTN1774
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: FDD CX
+  type: title-main
+- language: en
+  script: Latn
+  content: a fault detection and diagnostic commissioning tool for residential air
+    conditioners and heat pumps
+  type: title-part
+- language: en
+  script: Latn
+  content: FDD CX - a fault detection and diagnostic commissioning tool for residential
+    air conditioners and heat pumps
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1774
+docidentifier:
+- content: NIST TN 1774
+  type: NIST
+  primary: true
+- content: NIST.TN.1774
+  type: DOI
+date:
+- type: issued
+  at: '2012'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Payne, W. Vance.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003078668
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Domanski, Piotr A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022001138
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1774'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

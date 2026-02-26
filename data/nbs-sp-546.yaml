@@ -1,0 +1,44 @@
+---
+id: NBSSP546
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Catalog of federal metrology and calibration capabilities
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.546
+docidentifier:
+- content: NBS SP 546
+  type: NIST
+  primary: true
+- content: NBS.SP.546
+  type: DOI
+date:
+- type: issued
+  at: '1979'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Leedy, Kathryn O.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+series:
+- title:
+  - content: NBS special publication
+  number: '546'
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

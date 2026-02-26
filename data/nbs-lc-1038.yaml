@@ -1,0 +1,47 @@
+---
+id: NBSLC1038
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The additive system of photographic exposure computation
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.LCIRC.1038
+docidentifier:
+- content: NBS LC 1038
+  type: NIST
+  primary: true
+- content: NBS.LCIRC.1038
+  type: DOI
+date:
+- type: issued
+  at: '1960'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Photographic Research Section.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NBSLCIRC; NBS LCIRC; NBS letter circular
+  number: '1038'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,114 @@
+---
+id: NISTSP1500102
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Voter records interchange common data format specification
+  type: title-main
+- language: en
+  script: Latn
+  content: version 1.0
+  type: title-part
+- language: en
+  script: Latn
+  content: Voter records interchange common data format specification - version 1.0
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1500-102
+docidentifier:
+- content: NIST SP 1500-102
+  type: NIST
+  primary: true
+- content: NIST.SP.1500-102
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dana, Sam.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022000298
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dziurlaj, John.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022001294
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sebes, E. John.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stenbjorn, Paul.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wack, John P.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n92009380
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Whitt, Sarah.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022059434
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: This document presents a specification for voter records data interchange
+    related to voter registration, i.e., registration requests from online voter registration
+    made to voter registration systems, and responses to the requests returning from
+    the voter registration system. The specification includes XML (eXtensible Markup
+    Language) and JSON (JavaScript Object Notation) schemas.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1500-102
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

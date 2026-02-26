@@ -1,0 +1,71 @@
+---
+id: NISTIR4685
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A conceptual architecture for a mechanical parts production system based
+    on STEP
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.4685
+docidentifier:
+- content: NIST IR 4685
+  type: NIST
+  primary: true
+- content: NIST.IR.4685
+  type: DOI
+date:
+- type: issued
+  at: '1991'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barkmeyer, Edward J.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fowler, J. E. (James E.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2001083942
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Magleby, Spencer P.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nr2003005666
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '4685'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,81 @@
+---
+id: NISTFIPS197Upd1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Advanced Encryption Standard (AES)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.FIPS.197-upd1
+docidentifier:
+- content: NIST FIPS 197/Upd1
+  type: NIST
+  primary: true
+- content: NIST.FIPS.197-upd1
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dworkin, Morris J.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-2745-9906"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: 'In 2000, NIST announced the selection of the Rijndael block cipher family
+    as the winner of the Advanced Encryption Standard (AES) competition. Block ciphers
+    are the foundation for many cryptographic services, especially those that provide
+    assurance of the confidentiality of data. Three members of the Rijndael family
+    are specified in this Standard: AES-128, AES-192, and AES-256. Each of them transforms
+    data in blocks of 128 bits, and the numerical suffix indicates the bit length
+    of the associated cryptographic keys.'
+relation:
+- type: updates
+  bibitem:
+    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x000000032a87b8b0>"
+    docidentifier:
+    - content: NIST FIPS 197
+      type: NIST
+series:
+- title:
+  - content: NIST federal information processing standards publication
+  number: 197-upd1
+- title:
+  - content: NIST federal information processing standards publication; NIST FIPS
+  number: 197-upd1
+place:
+- city: Washington
+  region:
+  - iso: D
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

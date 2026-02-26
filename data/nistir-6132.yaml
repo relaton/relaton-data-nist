@@ -1,0 +1,71 @@
+---
+id: NISTIR6132
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Fire safety of passenger trains, phase I
+  type: title-main
+- language: en
+  script: Latn
+  content: material evaluation (cone calorimeter)
+  type: title-part
+- language: en
+  script: Latn
+  content: Fire safety of passenger trains, phase I - material evaluation (cone calorimeter)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.6132
+docidentifier:
+- content: NIST IR 6132
+  type: NIST
+  primary: true
+- content: NIST.IR.6132
+  type: DOI
+date:
+- type: issued
+  at: '1999'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Peacock, Richard D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79111603
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Braun, Emil.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n91036801
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '6132'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,54 @@
+---
+id: NISTIR6915
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The National Institute of Justice standards for hand-held and walk-through
+    metal detectors used in concealed weapon and contraband detection
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.6915
+docidentifier:
+- content: NIST IR 6915
+  type: NIST
+  primary: true
+- content: NIST.IR.6915
+  type: DOI
+date:
+- type: issued
+  at: '2002'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Paulter, Nicholas G.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n00009514
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '6915'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

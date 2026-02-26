@@ -1,0 +1,130 @@
+---
+id: NISTIR8006
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST cloud computing forensic science challenges
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8006
+docidentifier:
+- content: NIST IR 8006
+  type: NIST
+  primary: true
+- content: NIST.IR.8006
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Herman, Martin.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Iorga, Michaela.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Salim, Ahsen Michael.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jackson, Robert H.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hurst, Mark R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Leo, Ross.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lee, Richard.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Landreville, Nancy M.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mishra, Anand Kumar.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wang, Yien.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sardinas, Rodrigo.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+abstract:
+- language: en
+  script: Latn
+  content: This document summarizes the research performed by the members of the NIST
+    Cloud Computing Forensic Science Working Group, and aggregates, categorizes, and
+    discusses the forensics challenges faced by experts when responding to incidents
+    that have occurred in a cloud-computing ecosystem. The challenges are presented
+    along with the associated literature that references them. The immediate goal
+    of the document is to begin a dialogue on forensic science concerns in cloud computing
+    ecosystems. The long-term goal of this effort is to gain a deeper understanding
+    of those concerns (challenges) and to identify technologies and standards that
+    can mitigate them.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8006'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

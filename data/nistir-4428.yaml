@@ -1,0 +1,71 @@
+---
+id: NISTIR4428
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Acoustical testing services
+  type: title-main
+- language: en
+  script: Latn
+  content: requirements for accreditation
+  type: title-part
+- language: en
+  script: Latn
+  content: Acoustical testing services - requirements for accreditation
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.4428
+docidentifier:
+- content: NIST IR 4428
+  type: NIST
+  primary: true
+- content: NIST.IR.4428
+  type: DOI
+date:
+- type: issued
+  at: '1990'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gladhill, Robert L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n86135756
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Martin, Paul R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88015437
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '4428'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

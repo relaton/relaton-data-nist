@@ -1,0 +1,89 @@
+---
+id: NISTSP80056B
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Recommendation for pair-wise key establishment schemes using discrete logarithm
+    cryptography
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-56b
+docidentifier:
+- content: NIST SP 800-56B
+  type: NIST
+  primary: true
+- content: NIST.SP.800-56b
+  type: DOI
+date:
+- type: issued
+  at: '2009'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barker, E. B.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nb2015019673
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chen, L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2010182999
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Regenscheid, Andrew.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021053038
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Smid, M. E.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation specifies key establishment schemes using integer factorization
+    cryptography, based on ANS X9.44, Key Establishment using Integer Factorization
+    Cryptography, which was developed by the Accredited Standards Committee (ASC)
+    X9, Inc.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-56b
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

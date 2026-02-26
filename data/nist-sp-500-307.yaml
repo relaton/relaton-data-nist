@@ -1,0 +1,90 @@
+---
+id: NISTSP500307
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Cloud computing service metrics description
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.500-307
+docidentifier:
+- content: NIST SP 500-307
+  type: NIST
+  primary: true
+- content: NIST.SP.500-307
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: De Vaulx, Frederic.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022086179
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Simmon, Eric.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021142263
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bohn, Robert.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nr90002794
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: With cloud computing in the mainstream, there is a preponderance of cloud
+    based services in the market and the choices for consumers increase daily. However,
+    comparing the service offerings between cloud service providers is not a straightforward
+    exercise. As part of the decision-making framework for moving to the cloud, having
+    data on measurable capabilities, for example - quality of service, availability
+    and reliability, give the cloud service customer the tools and opportunity to
+    make informed choices and to gain an understanding of the service being delivered.
+    A metric provides knowledge about characteristics of a cloud property through
+    both its definition (e.g. expression, unit, rules) and the values resulting from
+    the measurement of the property. This document proposes concepts and a model to
+    represent cloud service metrics. This model represents the information needed
+    to understand a targeted cloud property and which constraints should be applied
+    during measurement
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 500-307
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

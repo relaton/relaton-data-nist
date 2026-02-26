@@ -1,0 +1,88 @@
+---
+id: NISTIR3981
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Simulation of the merged spectrum technique for aligning planar phased-array
+    antennas, part I
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.3981
+docidentifier:
+- content: NIST IR 3981
+  type: NIST
+  primary: true
+- content: NIST.IR.3981
+  type: DOI
+date:
+- type: issued
+  at: '1992'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wittman, Ronald C.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Newell, Allen C.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112373
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stubenrauch, Carl F.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84176584
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: MacReynolds, Katherine.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Francis, Michael H.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83218675
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '3981'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

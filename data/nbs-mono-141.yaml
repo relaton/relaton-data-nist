@@ -1,0 +1,72 @@
+---
+id: NBSMONO141
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The Measurement of lumped parameter impedance
+  type: title-main
+- language: en
+  script: Latn
+  content: a metrology guide
+  type: title-part
+- language: en
+  script: Latn
+  content: The Measurement of lumped parameter impedance - a metrology guide
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.MONO.141
+docidentifier:
+- content: NBS MONO 141
+  type: NIST
+  primary: true
+- content: NBS.MONO.141
+  type: DOI
+date:
+- type: issued
+  at: '1974'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jones, Raymond N.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50062986
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Anson, W. J.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021065767
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS monograph; NBS MONO
+  number: '141'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

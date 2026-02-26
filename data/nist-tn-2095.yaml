@@ -1,0 +1,99 @@
+---
+id: NISTTN2095
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A tool to model the Fate and Transport of Indoor Microbiological Aerosols
+    (FaTIMA)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2095
+docidentifier:
+- content: NIST TN 2095
+  type: NIST
+  primary: true
+- content: NIST.TN.2095
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dols, W. Stuart.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003054410
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Polidoro, Brian J.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Poppendieck, Dustin.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Emmerich, Steven J. (Steven John)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003076634
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: The web-based tool Fate and Transport of Indoor Microbiological Aerosols
+    (FaTIMA) allows the determination of the fate of indoor microbiological aerosols
+    associated with ventilation, filtration, deposition, and inactivation mechanisms.
+    FaTIMA provides a representation of a single, well-mixed zone that is served by
+    a mechanical ventilation system and incorporates source and removal mechanisms
+    for an aerosol with a single, user-defined representative particle size. The simple
+    mechanical ventilation system model allows specification of supply, return, and
+    outdoor air intake rates to represent either a positive, negative or balanced
+    ventilation system. Aerosol sources are provided to enable any combination of
+    continuous, e.g., breathing-related emissions, or intermittent, e.g., coughing-related
+    emissions. Aerosol removal mechanisms include filters within the ventilation system,
+    room air cleaners, and deposition onto floors, walls, and ceilings. Simulations
+    can be run for a 24-h period, with the results including the time history of the
+    airborne concentration and surface loading, as well as integrated exposure of
+    an occupant. Exposure is based on a uniform aerosol concentration within the zone
+    and does not account for spatial differences in aerosol concentrations such as
+    those due to momentum effects of respiratory emissions.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2095'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

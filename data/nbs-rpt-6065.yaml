@@ -1,0 +1,69 @@
+---
+id: NBSRPT6065
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Checklist of references to literature on tropospheric propagation of UHF,
+    VHF, and SHF radio waves (1929-1959)
+  type: title-main
+- language: en
+  script: Latn
+  content: 'supplement #1 to NBS report 6001'
+  type: title-part
+- language: en
+  script: Latn
+  content: 'Checklist of references to literature on tropospheric propagation of UHF,
+    VHF, and SHF radio waves (1929-1959) - supplement #1 to NBS report 6001'
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.RPT.6065
+docidentifier:
+- content: NBS RPT 6065
+  type: NIST
+  primary: true
+- content: NBS.RPT.6065
+  type: DOI
+date:
+- type: issued
+  at: '1959'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nupen, Wilhelm.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NBS report
+  number: '6065'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

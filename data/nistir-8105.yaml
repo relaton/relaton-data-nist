@@ -1,0 +1,119 @@
+---
+id: NISTIR8105
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Report on post-quantum cryptography
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8105
+docidentifier:
+- content: NIST IR 8105
+  type: NIST
+  primary: true
+- content: NIST.IR.8105
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chen, Lily.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jordan, Stephen.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2013026786
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Liu, Yi-Kai.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Moody, Dustin,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2009199685
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Peralta, René.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2008037022
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Perlner, Ray.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Smith-Tone, Daniel.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: In recent years, there has been a substantial amount of research on quantum
+    computers machines that exploit quantum mechanical phenomena to solve mathematical
+    problems that are difficult or intractable for conventional computers. If large-scale
+    quantum computers are ever built, they will be able to break many of the public-key
+    cryptosystems currently in use. This would seriously compromise the confidentiality
+    and integrity of digital communications on the Internet and elsewhere. The goal
+    of post-quantum cryptography (also called quantum-resistant cryptography) is to
+    develop cryptographic systems that are secure against both quantum and classical
+    computers, and can interoperate with existing communications protocols and networks.
+    This Internal Report shares the National Institute of Standards and Technology
+    (NIST) s current understanding about the status of quantum computing and post-quantum
+    cryptography, and outlines NIST s initial plan to move forward in this space.
+    The report also recognizes the challenge of moving to new cryptographic infrastructures
+    and therefore emphasizes the need for agencies to focus on crypto agility.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8105'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

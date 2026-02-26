@@ -1,0 +1,128 @@
+---
+id: NISTSP500326
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: SATE V report
+  type: title-main
+- language: en
+  script: Latn
+  content: ten years of static analysis tool expositions
+  type: title-part
+- language: en
+  script: Latn
+  content: SATE V report - ten years of static analysis tool expositions
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.500-326
+docidentifier:
+- content: NIST SP 500-326
+  type: NIST
+  primary: true
+- content: NIST.SP.500-326
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Delaitre, Aurélien.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021119894
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stivalet, Bertrand.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Black, Paul E.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2005073624
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Okun, Vadim.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022065355
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ribeiro, Athos.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cohen, Terry S.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: Software assurance has been the focus of the National Institute of Standards
+    and Technology (NIST) Software Assurance Metrics and Tool Evaluation (SAMATE)
+    team for many years. The Static Analysis Tool Exposition (SATE) is one of the
+    team s prominent projects to advance research in and adoption of static analysis,
+    one of several software assurance methods. This report describes our approach
+    and methodology. It then presents and discusses the results collected from the
+    fifth edition of SATE. Overall, the goal of SATE was not to rank static analysis
+    tools, but rather to propose a methodology to assess tool effectiveness. Others
+    can use this methodology to determine which tools fit their requirements. The
+    results in this report are presented as examples and used as a basis for further
+    discussion. Our methodology relies on metrics, such as recall and precision, to
+    determine tool effectiveness. To calculate these metrics, we designed test cases
+    that exhibit certain characteristics. Most of the test cases were large pieces
+    of software with cybersecurity implications. Fourteen participants ran their tools
+    on these test cases and sent us a report of their findings. We analyzed these
+    reports and calculated the metrics to assess the tools effectiveness. Although
+    a few results remained inconclusive, many key elements could be inferred based
+    on our methodology, test cases, and analysis. In particular, we were able to estimate
+    the propensity of tools to find critical vulnerabilities in real software, the
+    degree of noise they produced, and the type of weaknesses they were able to find.
+    Some shortcomings in the methodology and test cases were also identified and solutions
+    proposed for the next edition of SATE.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 500-326
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

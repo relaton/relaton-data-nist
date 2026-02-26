@@ -1,0 +1,151 @@
+---
+id: NISTIR8323
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Foundational PNT profile
+  type: title-main
+- language: en
+  script: Latn
+  content: applying the cyber security framework for the responsible use of positioning,
+    navigation, and timing (PNT) services
+  type: title-part
+- language: en
+  script: Latn
+  content: Foundational PNT profile - applying the cyber security framework for the
+    responsible use of positioning, navigation, and timing (PNT) services
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8323
+docidentifier:
+- content: NIST IR 8323
+  type: NIST
+  primary: true
+- content: NIST.IR.8323
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bartock, Michael.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-0875-4555"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brule, Joseph.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Li-Baboud, Ya-Shian.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-3234-4345"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lightman, Suzanne.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-5007-3887"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McCarthy, James.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-5559-733X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Reczek, Karen K.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-0174-9019"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Northrip, Doug.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scholz, Arthur.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Suloway, Theresa.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The national and economic security of the United States (US) is dependent
+    upon the reliable functioning of the nation’s critical infrastructure. Positioning,
+    Navigation, and Timing (PNT) services are widely deployed throughout this infrastructure.
+    In a government wide effort to mitigate the potential impacts of a PNT disruption
+    or manipulation, Executive Order (EO)13905, Strengthening National Resilience
+    Through Responsible Use of Positioning, Navigation and Timing Services was issued
+    on February 12, 2020. The National Institute of Standards and Technology (NIST)
+    as part of the Department of Commerce (DoC), produced this voluntary PNT Profile
+    in response to Sec.4 Implementation (a), as detailed in the EO. The PNT Profile
+    was created by using the NIST Cybersecurity Framework and can be used as part
+    of a risk management program to help organizations manage risks to systems, networks,
+    and assets that use PNT services. The PNT Profile is intended to be broadly applicable
+    and can serve as a foundation for the development of sector-specific guidance.
+    This PNT Profile provides a flexible framework for users of PNT to manage risks
+    when forming and using PNT signals and data, which are susceptible to disruptions
+    and manipulations that can be natural, manufactured, intentional, or unintentional.
+series:
+- title:
+  - content: NISTIR
+  number: '8323'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8323'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

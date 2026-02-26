@@ -1,0 +1,78 @@
+---
+id: NISTSP800187
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guide to LTE security
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-187
+docidentifier:
+- content: NIST SP 800-187
+  type: NIST
+  primary: true
+- content: NIST.SP.800-187
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cichonski, Jeffrey.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Franklin, Joshua M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020086934
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bartock, Michael.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: Cellular technology plays an increasingly large role in society as it has
+    become the primary portal to the internet for a large segment of the population.
+    One of the main drivers making this change possible is the deployment of 4th generation
+    (4G) Long Term Evolution (LTE) cellular technologies. This document serves as
+    a guide to the fundamentals of how LTE networks operate and explores the LTE security
+    architecture. This is followed by an analysis of the threats posed to LTE networks
+    and supporting mitigations.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-187
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,74 @@
+---
+id: NISTSP928
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Review of methods and measurements of selected hydrophobic organic contaminant
+    aqueous solubilities, vapor pressures, and air-water partition coefficients
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.928
+docidentifier:
+- content: NIST SP 928
+  type: NIST
+  primary: true
+- content: NIST.SP.928
+  type: DOI
+date:
+- type: issued
+  at: '1998'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bamford, Holly A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2007081988
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Baker, Joel E.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n97049011
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Poster, Dianne L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2007081985
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '928'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

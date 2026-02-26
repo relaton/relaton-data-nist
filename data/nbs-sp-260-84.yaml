@@ -1,0 +1,84 @@
+---
+id: NBSSP26084
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Standard reference materials
+  type: title-main
+- language: en
+  script: Latn
+  content: sampling, materials handling, processing, and packaging of NBS sulfur in
+    coal standard reference materials
+  type: title-part
+- language: en
+  script: Latn
+  content: Standard reference materials - sampling, materials handling, processing,
+    and packaging of NBS sulfur in coal standard reference materials
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.260-84
+docidentifier:
+- content: NBS SP 260-84
+  type: NIST
+  primary: true
+- content: NBS.SP.260-84
+  type: DOI
+date:
+- type: issued
+  at: '1983'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Seward, Richard W.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82054812
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Webster, W. C. (William C.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84021333
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gills, T. E. (Thomas E.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84021314
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: 260-84
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

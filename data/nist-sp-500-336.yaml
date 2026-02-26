@@ -1,0 +1,113 @@
+---
+id: NISTSP500336
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Specification for interoperability testing of contactless fingerprint acquisition
+    devices
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.500-336
+docidentifier:
+- content: NIST SP 500-336
+  type: NIST
+  primary: true
+- content: NIST.SP.500-336
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Libert, John.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Orandi, Shahram.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grantham, John.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bandini, Bruce.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ko, Kenneth.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stafford, Christopher.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Staymates, Matthew.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Watson, Craig.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: This guidance specifies a protocol and associated metrics for the evaluation
+    of contactless fingerprint acquisition device, and their interoperability with
+    legacy devices. This protocol enables contactless fingerprint developers seeking
+    certification of their devices to perform an integral role in the collection of
+    measurements by which their device will be evaluated by the certifying authority
+    or other stakeholders. The NIST Fingerprint Registration and Comparison Tool (NFRaCT)
+    enables interested parties seeking testing for certification to collect fingerprint
+    images and performance measurements using the NFRaCT and provide those measurements
+    to the certifying authority for analysis and evaluation without requiring the
+    exchange of any underlying fingerprint images. The protocol provides flexibility
+    in that device performance can be evaluated and validated using live fingerprint
+    impressions or three-dimensional (3D) fingerprint target artifacts.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 500-336
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

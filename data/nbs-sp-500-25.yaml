@@ -1,0 +1,75 @@
+---
+id: NBSSP50025
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: An analysis of computer security safeguards for detecting and preventing
+    intentional computer misuse
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.500-25
+docidentifier:
+- content: NBS SP 500-25
+  type: NIST
+  primary: true
+- content: NBS.SP.500-25
+  type: DOI
+date:
+- type: issued
+  at: '1978'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ruder, Brian.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n77013119
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Madden, J. D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n77015862
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Blanc, Robert P.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50009898
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: 500-25
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

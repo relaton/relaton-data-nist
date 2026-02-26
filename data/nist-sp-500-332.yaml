@@ -1,0 +1,81 @@
+---
+id: NISTSP500332
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The NIST Cloud Federation Reference Architecture
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.500-332
+docidentifier:
+- content: NIST SP 500-332
+  type: NIST
+  primary: true
+- content: NIST.SP.500-332
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lee, C. A. (Craig A.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n00014841
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bohn, Robert B.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Michel, Martial.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: This document presents the NIST Federated Cloud Reference Architecture
+    model. This actor/role- based model used the guiding principles of the NIST Cloud
+    Computing Reference Architecture to develop an eleven component model. This document
+    describes these components individually and how they function as an ensemble.
+    There are many possible deployments and governance options which lend themselves
+    to create a suite of federation options from simple to complex. The basics of
+    cloud federation can be described through the interactions of the actors in a
+    layered three planes representation of trust, security, and resource sharing and
+    usage. A discussion on possible future standards and use cases are also described
+    in great detail.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 500-332
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

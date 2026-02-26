@@ -1,0 +1,94 @@
+---
+id: NISTSP800177r1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Trustworthy email
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-177r1
+docidentifier:
+- content: NIST SP 800-177r1
+  type: NIST
+  primary: true
+- content: NIST.SP.800-177r1
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rose, Scott.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3105-7427"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nightingale, J. Stephen.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Garfinkel, Simson.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n92079279
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chandramouli, Ramaswamy.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7387-5858"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: This document gives recommendations and guidelines for enhancing trust
+    in email. Thee primary audience for these recommendations is federal enterprise
+    email administrators, information security specialists and network managers. While
+    some of the guidelines in this document pertain to federal IT systems and network
+    policy, most of the document will be more general in nature and could apply to
+    any organization. For most of this document, it will be assumed that the organization
+    has some or all responsibility for email and can configure or manage its own email
+    and Domain Name System (DNS) systems. Even if this is not the case, the guidelines
+    and recommendations in this document may help in education about email security
+    and can be used to produce a set of requirements for a contracted service.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-177r1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

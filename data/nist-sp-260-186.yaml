@@ -1,0 +1,88 @@
+---
+id: NISTSP260186
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Standard Reference Materials certification report for SRM 2214
+  type: title-main
+- language: en
+  script: Latn
+  content: density of iso-octane for extended ranges of temperature and pressure
+  type: title-part
+- language: en
+  script: Latn
+  content: Standard Reference Materials certification report for SRM 2214 - density
+    of iso-octane for extended ranges of temperature and pressure
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-186
+docidentifier:
+- content: NIST SP 260-186
+  type: NIST
+  primary: true
+- content: NIST.SP.260-186
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McLinden, Mark O.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Splett, Jolene.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Material Measurement Laboratory (U.S.).
+    - content: Information Technology Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012096740
+abstract:
+- language: en
+  script: Latn
+  content: This report of analysis documents procedures used to obtain certified values
+    and associated uncertainties of the density of iso-octane SRM 2214 over an extended
+    range of temperatures and pressures. This SRM is certified over the temperature
+    range 50 degrees C to 160 degrees C and pressure range of 0.1 MPa to 30 MPa; an
+    interpolation model is provided to calculate the density within these ranges.
+    This SRM has a density of 691.853 kg?m3 at t = 20 degrees C and p = 0.1 MPa. The
+    certification measurements were carried out in a two-sinker magnetic-suspension
+    densimeter. The SRM material is commercial, high-purity iso-octane (2,2,4-trimethylpentane,
+    CAS 540-84-1). Measurements were made on both degassed material and material saturated
+    with nitrogen, and an estimated correction surface (valid over the range 50 degrees
+    C ? t ? 100 degrees C and 0.1 MPa ? p ? 20 MPa) gives the density difference between
+    the nitrogen-saturated and degassed materials. A thorough analysis of the uncertainties
+    is presented; this includes effects resulting from the experimental density determination,
+    possible degradation of the sample due to time and exposure to high temperatures,
+    dissolved air, uncertainties in the empirical density model, and the sample-to-sample
+    variations in the SRM vials. Also considered is the effect of uncertainties in
+    the users temperature and pressure measurements. This SRM is intended for the
+    calibration of industrial densimeters.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 260-186
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

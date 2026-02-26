@@ -1,0 +1,104 @@
+---
+id: NISTTN2225
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Economic Evaluation Engine (E3) technical manual
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2225
+docidentifier:
+- content: NIST TN 2225
+  type: NIST
+  primary: true
+- content: NIST.TN.2225
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kneifel, Joshua.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Webb, David.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Donmoyer, Luke.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kim, Tasha.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: The Engineering Laboratory (EL) of the National Institute of Standards
+    and Technology (NIST) has developed a variety of tools that provide some level
+    of economic analysis, many of which have been developed by EL s Applied Economics
+    Office (AEO). AEO-developed tools range across topic areas and economic metrics.
+    Each tool is targeting government agencies and organizations that fall under NIST
+    s mission. Stakeholders need different levels of details and functionality because
+    of the diverse backgrounds across stakeholders. As a result, AEO has developed
+    these software tools in a one-off approach on an as needed basis. As a result,
+    each software has its own unique set of code even though these tools have some
+    key underlying components that are common across tools, including methodology
+    documented in standards. To improve the efficiency of the tools developed by AEO
+    and its stakeholders, AEO has developed an economic service/engine with an associated
+    Application Programming Interface (API) that provides consistent, standardized,
+    transparent, reproducible economic analysis calculations should be developed,
+    maintained, and made publicly available for internal and external researchers,
+    analysts, and software developers called the Economic Evaluation Engine (E3).
+    E3 provides economic evaluation capabilities based on ASTM building economic standards
+    including life-cycle cost analysis, benefit-cost analysis, profit maximization
+    / cost-minimization, and risk-cost analysis. E3 could be leveraged by NIST as
+    well as other federal agencies and national laboratories, state and local governments,
+    academia, and the private sector to improve their tool development by using a
+    federally developed and validated calculations to provide standard-consistent
+    analysis. E3 is publicly accessible on a NIST server as well as on GitHub for
+    anyone to use for economic analysis, whether it s through a basic script calling
+    on the E3 API, online interface that connects to the E3 API, or an executable
+    program that is built on E3 s capabilities. Additionally, users of E3 could provide
+    expansions to the capabilities by developing the code and submitting it to NIST
+    for review and incorporation. This technical manual describes E3, including the
+    underlying standards on which its based, the data flow through the tool, details
+    on the code libraries, classes, and file structure, development tools used, guidance
+    on how to use the tool, limitations, planned release, and the development of its
+    future capabilities.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2225'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

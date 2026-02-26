@@ -1,0 +1,90 @@
+---
+id: NISTSP80068r1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guide to securing Microsoft Windows XP Systems for IT Professionals
+  type: title-main
+- language: en
+  script: Latn
+  content: a NIST security configuration checklist
+  type: title-part
+- language: en
+  script: Latn
+  content: Guide to securing Microsoft Windows XP Systems for IT Professionals - a
+    NIST security configuration checklist
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-68r1
+docidentifier:
+- content: NIST SP 800-68r1
+  type: NIST
+  primary: true
+- content: NIST.SP.800-68r1
+  type: DOI
+date:
+- type: issued
+  at: '2008'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, K. A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Souppaya, M. P.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Johnson, P. M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n89181033
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: 'This publication assists IT professionals in securing Windows XP workstations,
+    mobile computers, and computers used by telecommuters within various environments.
+    The recommendations are specifically intended for Windows XP Professional systems
+    running Service Pack 2 or 3. SP 800-68 Revision 1 provides detailed information
+    about the security features of Windows XP and security configuration guidelines.
+    The publication recommends and explains tested, secure settings with the objective
+    of simplifying the administrative burden of improving the security of Windows
+    XP systems in five types of environments: small office/home office, enterprise,
+    specialized security-limited functionality, legacy, and Federal Desktop Core Configuration
+    (FDCC).'
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-68r1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

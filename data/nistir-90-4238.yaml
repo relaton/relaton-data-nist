@@ -1,0 +1,65 @@
+---
+id: NISTIR904238
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Volksgrapher
+  type: title-main
+- language: en
+  script: Latn
+  content: a FORTRAN plotting package user's guide, version 3.0
+  type: title-part
+- language: en
+  script: Latn
+  content: Volksgrapher - a FORTRAN plotting package user's guide, version 3.0
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.90-4238
+docidentifier:
+- content: NIST IR 90-4238
+  type: NIST
+  primary: true
+- content: NIST.IR.90-4238
+  type: DOI
+date:
+- type: issued
+  at: '1990'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kahaner, D. K.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Anderson, W. E.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 90-4238
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

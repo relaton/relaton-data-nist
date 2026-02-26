@@ -1,0 +1,66 @@
+---
+id: NISTSP150019
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Micro common data format specification
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1500-19
+docidentifier:
+- content: NIST SP 1500-19
+  type: NIST
+  primary: true
+- content: NIST.SP.1500-19
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Long, Benjamin.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4340-7674"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dziurłaj, John.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This specification describes a data format for space-constrained environments,
+    such as the placement of machine readable data on paper. The specification is
+    responsive to a need for interoperability in several key voting system scenarios
+    in which the use of other storage mechanisms are impractical or disallowed. The
+    format s structure is described in prose and code examples.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1500-19
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

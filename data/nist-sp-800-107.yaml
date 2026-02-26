@@ -1,0 +1,62 @@
+---
+id: NISTSP800107
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Recommendation for applications using approved hash algorithms
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-107
+docidentifier:
+- content: NIST SP 800-107
+  type: NIST
+  primary: true
+- content: NIST.SP.800-107
+  type: DOI
+date:
+- type: issued
+  at: '2009'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dang, Q. H.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: Cryptographic hash functions that compute a fixed- length message digest
+    from arbitrary length messages are widely used for many purposes in information
+    security. This document provides security guidelines for achieving the required
+    or desired security strengths when using cryptographic applications that employ
+    the approved cryptographic hash functions specified in Federal Information Processing
+    Standard (FIPS) 180-3. These include functions such as digital signature applications,
+    Keyed-hash Message Authentication Codes (HMACs) and Hash-based Key Derivation
+    Functions (HKDFs).
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-107
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

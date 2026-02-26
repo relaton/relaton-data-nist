@@ -1,0 +1,80 @@
+---
+id: NISTIR8247
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guidelines for generating public safety benchmark scenario set
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8247
+docidentifier:
+- content: NIST IR 8247
+  type: NIST
+  primary: true
+- content: NIST.IR.8247
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rouil, Richard.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-0387-0880"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Liu, Chunmei.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nr88012524
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Izquierdo Manzanares, Antonio.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Communications Technology Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: There is a need to establish well-defined, public safety scenarios for
+    the evaluation of current and future communication technologies for first responders.
+    The scenario descriptions must contain enough details to be considered representative
+    of key public safety operations and their communications needs. The purpose of
+    this document is to provide guidelines for developing these so-called 'public
+    safety scenarios'.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8247'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,90 @@
+---
+id: NISTSP1316
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Early electroscopes at the National Bureau of Standards
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1316
+docidentifier:
+- content: NIST SP 1316
+  type: NIST
+  primary: true
+- content: NIST.SP.1316
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Coursey, Bert M.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1794-1918"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Frame, Paul.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zimmerman, Brian E.
+    identifier:
+    - type: uri
+      content: "(orcid)0000- 0002-3278-0676"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mitch, Michael G.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0007-6623-0748"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Physical Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This report describes the use of five electroscopes used as national standards
+    for radioactivity for the United States during the early 20th century. This set
+    of instruments were used for the calibration of thousands of radium-226 sources
+    used in medical therapy in the US from 1913 to 1989. The provenance of these instruments
+    is recorded here to aid historians and curators in preservation of knowledge and
+    artifacts of early radioactivity measurements in the United States.
+series:
+- title:
+  - content: NIST special publication
+  number: '1316'
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '1316'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

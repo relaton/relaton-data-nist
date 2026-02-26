@@ -1,0 +1,103 @@
+---
+id: NISTSP1193
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Report of the 99th National Conference on Weights and Measures
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1193
+docidentifier:
+- content: NIST SP 1193
+  type: NIST
+  primary: true
+- content: NIST.SP.1193
+  type: DOI
+date:
+- type: issued
+  at: '2014'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Butcher, Tina.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021147631
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Crown, Linda.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2006134842
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Harshman, Richard.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021110740
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sefcik, David.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2014056628
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Warfield, Lisa.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2014056629
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hockert, Carol.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021114720
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '1193'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

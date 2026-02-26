@@ -1,0 +1,235 @@
+---
+id: NISTTN2069
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Characterizing LTE user equipment emissions
+  type: title-main
+- language: en
+  script: Latn
+  content: factor screening
+  type: title-part
+- language: en
+  script: Latn
+  content: Characterizing LTE user equipment emissions - factor screening
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2069
+docidentifier:
+- content: NIST TN 2069
+  type: NIST
+  primary: true
+- content: NIST.TN.2069
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Coder, Jason.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021152970
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wunderlich, Adam.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8463-9156"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Frey, Michael.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n00000300
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Blanchard, Paul.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n87141584
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kuester, Daniel.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kord, Azizollah.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lees, Max.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sanders, Aric.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Splett, Jolene.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Koepke, Lucas.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Horansky, Robert.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: M'Gillivray, Duncan,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88252232
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ladbury, John.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Correia, Jeffrey.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ramaswamy, Venkatesh.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fevold, Jerediah.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lefebre, Shawn.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Johnson, Jacob.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Carpenter, John.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n77002753
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lofquist, Mark.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hartley, Keith.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81139444
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Communications Technology Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: Characterizations of long-term evolution (LTE) user equipment (UE) emissions
+    are a key ingredient in models of interference between wireless cellular networks
+    and other systems that must use the same radio frequency spectrum. This report
+    presents (i) a laboratory test methodology for measuring LTE UE emissions under
+    a wide range of conditions, and (ii) the results of a factor screening experiment
+    involving 28 factors (e.g., evolved node B (eNB) power control variables, eNB
+    scheduling algorithms, network loading, traffic type) that aimed to determine
+    which factors have a significant impact on physical uplink shared channel (PUSCH)
+    power per physical resource block (PRB). The results given here demonstrate the
+    validity of the proposed test methodology and illustrate how factor screening
+    experiments can be used to better understand the emissions of typical commercial
+    off-the-shelf LTE UEs.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2069'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

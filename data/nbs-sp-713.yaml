@@ -1,0 +1,71 @@
+---
+id: NBSSP713
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Evaluating thermal fire detection systems (SI units)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.713
+docidentifier:
+- content: NBS SP 713
+  type: NIST
+  primary: true
+- content: NBS.SP.713
+  type: DOI
+date:
+- type: issued
+  at: '1986'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stroup, David W.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83062028
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Evans, David D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79137078
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Martin, Phyllis.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: '713'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

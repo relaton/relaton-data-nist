@@ -1,0 +1,82 @@
+---
+id: NISTIR6828
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST response to the 6th CORM report
+  type: title-main
+- language: en
+  script: Latn
+  content: pressing problems and projected national needs in optical radiometry
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST response to the 6th CORM report - pressing problems and projected
+    national needs in optical radiometry
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.6828
+docidentifier:
+- content: NIST IR 6828
+  type: NIST
+  primary: true
+- content: NIST.IR.6828
+  type: DOI
+date:
+- type: issued
+  at: '2001'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Parr, A. C. (Albert C.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n97109332
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fraser, Gerald T.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003054012
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lykke, Keith R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003054007
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '6828'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

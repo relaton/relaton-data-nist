@@ -1,0 +1,89 @@
+---
+id: NISTIR8265
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A new method for tensile testing UHMMPE single fibers at high temperatures
+    and strain-rates
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8265
+docidentifier:
+- content: NIST IR 8265
+  type: NIST
+  primary: true
+- content: NIST.IR.8265
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jenket, Donald R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Engelbrecht-Wiggans, Amy E.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Forster, Amanda L.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Al-Sheikhly, Mohamad.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Material Measurement Laboratory (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012096740
+abstract:
+- language: en
+  script: Latn
+  content: The performance of body armor made of ultra-high molecular weight polyethylene
+    (UHMMPE) is dependent on the tensile strength of UHMMPE fibers. UHMMPE is known
+    to exhibit different mechanical properties when tested at different strain rates
+    and different temperatures. The high tensile strength and low surface energy make
+    it difficult to securely grip single fibers while testing without any slippage.
+    Consequently, making accurate measurements of the tensile strength of this material
+    is challenging. Efforts to simultaneously interrogate strain-rate and temperature
+    conditions have been complicated by the difficulty in gripping the fiber, and
+    in consistently heating a small (? 15 m diameter) fiber. In this paper, a method
+    is described for tensile testing single UHMMPE fibers at high rates and high temperatures,
+    focusing on an innovative clamp design and a specialized single fiber heater that
+    can be coupled to traditional tools for measuring mechanical properties of fibers.
+    Metrics of success for the single fiber clamps are described based on the percentage
+    of failures observed at the jaw grips and the strain to failure.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8265'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

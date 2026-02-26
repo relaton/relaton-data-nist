@@ -1,0 +1,81 @@
+---
+id: NISTIR894179
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: An automated maintenance management program part II
+  type: title-main
+- language: en
+  script: Latn
+  content: the integration of databases and image processing results for the quantitative
+    assessment of the exterior condition of metal building
+  type: title-part
+- language: en
+  script: Latn
+  content: An automated maintenance management program part II - the integration of
+    databases and image processing results for the quantitative assessment of the
+    exterior condition of metal building
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.89-4179
+docidentifier:
+- content: NIST IR 89-4179
+  type: NIST
+  primary: true
+- content: NIST.IR.89-4179
+  type: DOI
+date:
+- type: issued
+  at: '1990'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kaetzel, Lawrence J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81120787
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Martin, Jonathan W.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80111435
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hocker, Michael M.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 89-4179
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

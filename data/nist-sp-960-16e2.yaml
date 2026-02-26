@@ -1,0 +1,71 @@
+---
+id: NISTSP96016e2
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST recommended practice guide
+  type: title-main
+- language: en
+  script: Latn
+  content: fractography of ceramics and glasses
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST recommended practice guide - fractography of ceramics and glasses
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.960-16e2
+docidentifier:
+- content: NIST SP 960-16e2
+  type: NIST
+  primary: true
+- content: NIST.SP.960-16e2
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Quinn, G. D. (George D.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n95111854
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: Fractography is a powerful tool for the analysis of fractured glasses and
+    ceramics. It is applicable to fractures created under controlled conditions in
+    the laboratory and to component failures in service. Fractography can identify
+    the cause of failure and can even provide quantitative information about the loading
+    conditions. The goal of this Guide is to make fractographic analysis of brittle
+    materials less an art and more an engineering practice for scientists and engineers.
+    This guide emphasizes practical approaches for problem solving and failure analyses.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 960-16e2
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

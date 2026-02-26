@@ -1,0 +1,80 @@
+---
+id: NBSSP673
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Economic model of calibration improvements for automatic test equipment
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.673
+docidentifier:
+- content: NBS SP 673
+  type: NIST
+  primary: true
+- content: NBS.SP.673
+  type: DOI
+date:
+- type: issued
+  at: '1984'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Weber, Stephen F.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n78026736
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hillstrom, Anne P.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84053231
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+abstract:
+- language: en
+  script: Latn
+  content: This paper presents a model for measuring the benefits of improved accuracy
+    in test equipment. The model permits calculation of the probability of accepting
+    a unit under test (UUT) that is out of specifications (i.e., Consumer's Loss)
+    and the probability of rejecting a UUT that is within specifications (i.e., Producer's
+    Loss) for alternative levels of test equipment accuracy. Accuracy is defined in
+    terms of both the systematic and the random measurement error of the equipment.
+    Other parameters that are taken into account by the model are the mean and variance
+    of the UUT attribute of interest, the performance specifications of the UUT, and
+    the test specifications which define acceptance and rejection in terms of test
+    measurement results. A discussion of the economic consequences of Consumer's Loss
+    and Producer's Loss is included. The model may be used to optimize both procurement
+    policy for new test equipment as well as maintenance and calibration policy for
+    existing test equipment.
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: '673'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

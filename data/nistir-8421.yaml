@@ -1,0 +1,63 @@
+---
+id: NISTIR8421
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Spreadsheet-based software for the analysis of unloading compliance fracture
+    toughness tests in accordance with ASTM E1820
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8421
+docidentifier:
+- content: NIST IR 8421
+  type: NIST
+  primary: true
+- content: NIST.IR.8421
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lucon, Enrico.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: NIST has developed a user-friendly spreadsheet-based software for the analysis
+    of elastic-plastic fracture toughness tests conducted according to ASTM E1820-20b
+    on either Compact Tension or Single-Edge Bend specimens using the Unloading/Elastic
+    Compliance (UC/EC) single-specimen technique. The software consists of multiple
+    spreadsheets, which feature several macros that automatize most calculations.
+    Complete user's instructions are provided in this report. The software has been
+    successfully validated using nine sample data sets that are available through
+    ASTM, covering both specimen configurations and various fracture toughness levels.
+    As in the case of previous software packages developed by the Fatigue and Fracture
+    Group of NIST Boulder, the spreadsheet will be made freely available to the public
+    by contacting the author of this report.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8421'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

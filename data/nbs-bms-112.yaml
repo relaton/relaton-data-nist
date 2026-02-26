@@ -1,0 +1,55 @@
+---
+id: NBSBMS112
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Properties of some lightweight-aggregate concretes with and without an
+    air-entraining admixture
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.BMS.112
+docidentifier:
+- content: NBS BMS 112
+  type: NIST
+  primary: true
+- content: NBS.BMS.112
+  type: DOI
+date:
+- type: issued
+  at: '1948'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Petersen, Perry H.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no00051873
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS building materials and structures report; NBS BMS
+  number: '112'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

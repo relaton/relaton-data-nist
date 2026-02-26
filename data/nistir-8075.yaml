@@ -1,0 +1,92 @@
+---
+id: NISTIR8075
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Resulets of barrier fabrics tested in an inverted configuration
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8075
+docidentifier:
+- content: NIST IR 8075
+  type: NIST
+  primary: true
+- content: NIST.IR.8075
+  type: DOI
+date:
+- type: issued
+  at: '2015'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Davis, Rick D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021152727
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nazaré, Shonali.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021152722
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Matko, Szabolcs.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022048855
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pitts, William.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zammarano, Mauro.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022048537
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    - content: Fire Research Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8075'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

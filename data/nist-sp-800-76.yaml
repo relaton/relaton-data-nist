@@ -1,0 +1,89 @@
+---
+id: NISTSP80076
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Biometric data specification for personal identity verification
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-76
+docidentifier:
+- content: NIST SP 800-76
+  type: NIST
+  primary: true
+- content: NIST.SP.800-76
+  type: DOI
+date:
+- type: issued
+  at: '2006'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wilson, Charles L.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84098894
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grother, P. J.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Candramauḷi, Ār.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2015202084
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: The Homeland Security Presidential Directive HSPD-12 called for new standards
+    to be adopted governing the interoperable use of identity credentials to allow
+    physical and logical access to Federal government locations and systems. The Personal
+    Identity Verification (PIV) for Federal Employees and Contractors, Federal Information
+    Processing Standard (FIPS 201) was developed to establish standards for identity
+    credentials. This document, Special Publication 800-76 (SP 800-76), is a companion
+    document to FIPS 201. It specifies technical acquisition and formatting requirements
+    for the biometric credentials of the PIV system, including the PIV Card1 itself.
+    It enumerates required procedures and formats for fingerprints and facial images
+    by restricting values and practices included generically in published biometric
+    standards. The primary design objective behind these particular specifications
+    is universal interoperability. For the preparation of biometric data suitable
+    for the Federal Bureau of Investigation (FBI) background check, SP 800-76 references
+    FBI documentation, including the ANSI/NIST Fingerprint Standard and the Electronic
+    Fingerprint Transaction Sets.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-76
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

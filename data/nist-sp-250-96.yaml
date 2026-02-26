@@ -1,0 +1,63 @@
+---
+id: NISTSP25096
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Dimensional measurement of nanostructures with scanning electron microscopy
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.250-96
+docidentifier:
+- content: NIST SP 250-96
+  type: NIST
+  primary: true
+- content: NIST.SP.250-96
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bertness, Kristine Ann.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88675787
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.))
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2019028800
+abstract:
+- language: en
+  script: Latn
+  content: Scanning electron microscopy (SEM) is widely used for the measurement of
+    dimensions of nanostructures. This document describes the calibration of SEM magnification
+    using the ASTM E766-14 practice with NIST Reference Material (RM) 8820 and the
+    calculation of dimensional uncertainty in the use of the calibrated SEM to measure
+    dimensions of a fabricated nanostructure. The dimensional measurements are part
+    of NIST Special Test 15510S.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 250-96
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

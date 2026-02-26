@@ -1,0 +1,74 @@
+---
+id: NISTSP1211
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Risk assessment of Brucellosis for tissues processed and archived at the
+    marine environmental specimen bank
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1211
+docidentifier:
+- content: NIST SP 1211
+  type: NIST
+  primary: true
+- content: NIST.SP.1211
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ness, Jennifer M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021142235
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Moors, Amanda J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020090120
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pugh, Rebecca S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003078510
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Material Measurement Laboratory (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012096740
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '1211'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

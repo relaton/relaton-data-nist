@@ -1,0 +1,126 @@
+---
+id: NISTIR8183A3
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Cybersecurity framework manufacturing profile low impact level example
+    implementations guide
+  type: title-main
+- language: en
+  script: Latn
+  content: volume 3 discrete-based manufacturing system use case
+  type: title-part
+- language: en
+  script: Latn
+  content: Cybersecurity framework manufacturing profile low impact level example
+    implementations guide - volume 3 discrete-based manufacturing system use case
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8183A-3
+docidentifier:
+- content: NIST IR 8183A-3
+  type: NIST
+  primary: true
+- content: NIST.IR.8183A-3
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stouffer, Keith.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022079917
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zimmerman, Timothy.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tang, CheeYee.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cichonski, Jeffrey.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pease, Michael.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Shah, Neeraj.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Downard, Wesley.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: 'This guide provides general implementation guidance (Volume 1) and example
+    proof-of-concept solutions demonstrating how available open-source and commercial
+    off-the-shelf (COTS) products could be implemented in manufacturing environments
+    to satisfy the requirements in the Cybersecurity Framework (CSF) Manufacturing
+    Profile Low Impact Level. Example proof-ofconcept solutions with measured network,
+    device, and operational performance impacts for a process-based manufacturing
+    environment (Volume 2) and a discrete-based manufacturing environment (Volume
+    3) are included in the guide. Manufacturers should make their own determinations
+    about the breadth of the proof-of-concept solutions they voluntarily implement.
+    Some important factors to consider include: company size, cybersecurity expertise,
+    risk tolerance, and the threat landscape. The CSF Manufacturing Profile can be
+    used as a roadmap for managing cybersecurity risk for manufacturers and is aligned
+    with manufacturing sector goals and industry best practices. The Manufacturing
+    Profile provides a voluntary, risk-based approach for managing cybersecurity activities
+    and cyber risk to manufacturing systems. The Manufacturing Profile is meant to
+    complement but not replace current cybersecurity standards and industry guidelines
+    that the manufacturer is embracing.'
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 8183A-3
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

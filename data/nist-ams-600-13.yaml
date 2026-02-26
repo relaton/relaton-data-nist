@@ -1,0 +1,76 @@
+---
+id: NISTAMS60013
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Annual report on the U.S. manufacturing economy
+  type: title-main
+- language: en
+  script: Latn
+  content: '2023'
+  type: title-part
+- language: en
+  script: Latn
+  content: Annual report on the U.S. manufacturing economy - 2023
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.600-13
+docidentifier:
+- content: NIST AMS 600-13
+  type: NIST
+  primary: true
+- content: NIST.AMS.600-13
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Thomas, Douglas.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8600-4795"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'This report provides a statistical review of the U.S. manufacturing industry.
+    There are three aspects of U.S. manufacturing that are considered: (1) how the
+    U.S. industry compares to other countries, (2) the trends in the domestic industry,
+    and (3) the industry trends compared to those in other countries.'
+relation:
+- type: updatedBy
+  bibitem:
+    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x000000036469c140>"
+    docidentifier:
+    - content: NIST AMS 600-13/Upd1
+      type: NIST
+series:
+- title:
+  - content: NIST advanced manufacturing series
+  number: 600-13
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 600-13
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,83 @@
+---
+id: NISTVTS1001
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Administering accessible vote by mail systems
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.VTS.100-1
+docidentifier:
+- content: NIST VTS 100-1
+  type: NIST
+  primary: true
+- content: NIST.VTS.100-1
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Laskowski, Sharon J.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-2024-868X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Quesenbery, Whitney.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Baumeister, Lynn.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Accessible vote by mail (AVBM) provides options for voters with disabilities
+    to complete their absentee or vote by mail ballots independently and privately.
+    AVBM is especially important for voters with print disabilities that make it difficult
+    to read or handle paper. This report reviews current elections offices practices
+    in administering accessible vote by mail and considers their innovations and current
+    challenges. One of the most important challenges is difficulties exchanging voter
+    data and ballot style information between the election management systems and
+    the AVBM system. A strong Common Data Format for ballot style data interchange
+    would make providing AVBM more efficient. With the use of AVBM and electronic
+    ballot return growing, strong standards will also support stronger cybersecurity
+    practices while providing voters with print disabilities equal access to voting
+    by mail. Recommendations include gathering more detailed information about administrative
+    practices, assessing the risks and benefits for different methods of electronic
+    return, and investigating methods for directly counting an AVBM ballot without
+    replication, including best practices for how voter selections are encoded.\
+series:
+- title:
+  - content: NIST voting technology standard; NIST VTS
+  number: 100-1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

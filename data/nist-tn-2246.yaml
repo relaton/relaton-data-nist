@@ -1,0 +1,75 @@
+---
+id: NISTTN2246
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Generator fleet characteristics model
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2246
+docidentifier:
+- content: NIST TN 2246
+  type: NIST
+  primary: true
+- content: NIST.TN.2246
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: O Fallon, Cheyney.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-5931-4173"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gopstein, Avi.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Communications Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This manuscript presents the Generator Fleet Characteristics Model (GFCM),
+    a general purpose tool for the analysis of power system operations, economics,
+    and resilience. The GFCM is a collection of MATLAB functions that use publicly
+    available data with national coverage to produce year-long (8760 hour) analyses
+    of the electric grid at the balancing authority level. As the name implies, the
+    GFCM builds up a series of snapshots of electric grid conditions and outcomes
+    using the economics of the generator feet as a starting point for understanding
+    system complexity and dynamics. While the synchronous inertia application we present
+    here uses the GFCM to build a detailed picture of the present state of electric
+    grid operations and market outcomes, the model is designed to facilitate counterfactual
+    study through the comparison of model outputs by an analyst that systematically
+    varies inputs. The GFCM forms a modeling framework intended to aide in the formulation
+    of what if questions regarding how the grid might operate under changing ambient
+    conditions while harnessing evolving technologies.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2246'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,94 @@
+---
+id: NISTTN2058
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IREX validation dataset 2019
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2058
+docidentifier:
+- content: NIST TN 2058
+  type: NIST
+  primary: true
+- content: NIST.TN.2058
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Matey, James R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Quinn, George W.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84098146
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grother, Patrick J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2005043592
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: 'The IRis EXchange (IREX) program at NIST employs best measurement practices
+    to support the development, standardization, and interoperability of iris-based
+    technology through ongoing evaluations of that technology; IREX evaluations provide
+    information that helps advance the development of a marketplace of iris-based
+    applications based on standardized interoperable iris imagery and provides decision
+    makers with information critical to their decisions about deployment of the technology.
+    IREX has conducted a series of evaluations of iris algorithms which are documented
+    on the IREX website at https://www.nist.gov/programs-projects/iris-exchange-irex-overview.
+    To assure that algorithms submitted for evaluation produce the same results in
+    the NIST evaluation environment that they do in the developer/vendor environment,
+    we need to compare results on a common set of iris images in the two environments.
+    IREX-Validation-2019 is a dataset developed to facilitate such comparisons. In
+    brief: The images in the dataset were collected under protocols approved by the
+    NIST Institutional Review Board. The images are from subjects who provided model
+    releases that permit use of the images in publications and datasets that are distributed
+    by NIST. The dataset is distributed under user agreements associated with IREX
+    evaluations. Inquiries regarding the IREX program may be directed to the IREX
+    Liaison at irex@nist.gov. Any papers or reports making use of the dataset should
+    cite this report as discussed in section 2.1 Carried out under NIST IRB Approved
+    protocol ITL-16-0002.'
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2058'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

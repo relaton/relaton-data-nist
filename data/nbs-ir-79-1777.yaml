@@ -1,0 +1,106 @@
+---
+id: NBSIR791777
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A compendium of gas phase basicity and proton affinity measurements
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IR.79-1777
+docidentifier:
+- content: NBS IR 79-1777
+  type: NIST
+  primary: true
+- content: NBS.IR.79-1777
+  type: DOI
+date:
+- type: issued
+  at: '1979'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hartman, K. N.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lias, S.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ausloos, P.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rosenstock, H. M. (Henry M.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79125187
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schroyer, S. S.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schmidt, C.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Martinsen, D.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Milne, George W. A.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81020407
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBSIR; NBS IR; NBS interagency report; NBS internal report
+  number: 79-1777
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

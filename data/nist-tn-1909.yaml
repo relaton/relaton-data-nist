@@ -1,0 +1,72 @@
+---
+id: NISTTN1909
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: '2011 Wildland Urban Interface Amarillo fires report #2'
+  type: title-main
+- language: en
+  script: Latn
+  content: assessment of fire behavior and WUI measurement science
+  type: title-part
+- language: en
+  script: Latn
+  content: '2011 Wildland Urban Interface Amarillo fires report #2 - assessment of
+    fire behavior and WUI measurement science'
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1909
+docidentifier:
+- content: NIST TN 1909
+  type: NIST
+  primary: true
+- content: NIST.TN.1909
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Maranghides, Alexander.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021139790
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McNamara, Derek.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022056787
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1909'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,81 @@
+---
+id: NISTIR7592
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Study of acid generation from copolymer fibers based on 5-amino-2-(p-aminophenyl)-benzimidazole
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7592
+docidentifier:
+- content: NIST IR 7592
+  type: NIST
+  primary: true
+- content: NIST.IR.7592
+  type: DOI
+date:
+- type: issued
+  at: '2009'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Forster, Amanda L.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Messin, Guillaume H. R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rice, Kirk D.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Riley, Michael A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nb2007019285
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Watson, Stephanie S.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7592'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

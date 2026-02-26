@@ -1,0 +1,68 @@
+---
+id: NISTIR4915
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: STEP development methods
+  type: title-main
+- language: en
+  script: Latn
+  content: specification of semantics for information sharing
+  type: title-part
+- language: en
+  script: Latn
+  content: STEP development methods - specification of semantics for information sharing
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.4915
+docidentifier:
+- content: NIST IR 4915
+  type: NIST
+  primary: true
+- content: NIST.IR.4915
+  type: DOI
+date:
+- type: issued
+  at: '1992'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Danner, William F.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83003932
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yang, Yuhwei.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '4915'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

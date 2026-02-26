@@ -1,0 +1,69 @@
+---
+id: NISTSP260238Upd1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Certification of Standard Reference Material 3666
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-238-upd1
+docidentifier:
+- content: NIST SP 260-238/Upd1
+  type: NIST
+  primary: true
+- content: NIST.SP.260-238-upd1
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Beasley-Green, Ashley.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Camara, Johanna.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Heckert, N. Alan.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
+relation:
+- type: updates
+  bibitem:
+    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x0000000396e52678>"
+    docidentifier:
+    - content: NIST SP 260-238/Upd1
+      type: NIST
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 260-238-upd1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

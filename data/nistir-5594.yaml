@@ -1,0 +1,53 @@
+---
+id: NISTIR5594
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST reactor
+  type: title-main
+- language: en
+  script: Latn
+  content: summary of activities, October 1993 through September 1994
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST reactor - summary of activities, October 1993 through September 1994
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.5594
+docidentifier:
+- content: NIST IR 5594
+  type: NIST
+  primary: true
+- content: NIST.IR.5594
+  type: DOI
+date:
+- type: issued
+  at: '1995'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Reactor Radiation Division.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '5594'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

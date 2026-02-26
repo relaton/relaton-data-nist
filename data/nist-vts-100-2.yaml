@@ -1,0 +1,95 @@
+---
+id: NISTVTS1002
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Training poll workers for accessible voting
+  type: title-main
+- language: en
+  script: Latn
+  content: supporting voters with disabilities at the polling place
+  type: title-part
+- language: en
+  script: Latn
+  content: Training poll workers for accessible voting - supporting voters with disabilities
+    at the polling place
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.VTS.100-2
+docidentifier:
+- content: NIST VTS 100-2
+  type: NIST
+  primary: true
+- content: NIST.VTS.100-2
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Blahovec, Sarah.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Quesenbery, Whitney.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Laskowski, Sharon J.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-2024-868X"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Accessible voting systems are a key feature in polling places that enable
+    voters with disabilities to vote privately and independently. The Help America
+    Vote Act of 2002 (HAVA) requires that each polling place have a voting system
+    that is “accessible for individuals with disabilities, including nonvisual accessibility
+    for the blind and visually impaired,” and that it must provide “the same opportunity
+    for access and participation (including privacy and independence) as for other
+    voters.” These systems must be available for all voters, but many voters who are
+    blind or have low vision, voters with mobility disabilities or who lack manual
+    dexterity, and voters with cognitive disabilities need accessible voting systems
+    to vote privately and independently. This report and sample training slide presentation
+    (available for download and modification at https://doi.org/10.6028/NIST.VTS.100-2sup1)
+    are intended to assist election officials as they develop their poll worker training
+    to support voters with disabilities at the polling place. This work is in response
+    to the inconsistency of available training materials for poll workers on how to
+    set up accessible voting systems and support voters in using them. In addition
+    to ensuring that poll workers know the legal rules for disability voting rights
+    in the polling place, it includes guidance for helping voters while preserving
+    their independence and privacy.
+series:
+- title:
+  - content: NIST voting technology standard; NIST VTS
+  number: 100-2
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

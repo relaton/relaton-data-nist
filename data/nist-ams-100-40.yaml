@@ -1,0 +1,83 @@
+---
+id: NISTAMS10040
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Agile for model-based-standards development
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-40
+docidentifier:
+- content: NIST AMS 100-40
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-40
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sapp, Brandon.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Harvey, Melissa.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Toussaint, Marion.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barnard Feeney, Allison.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Krima, Sylvere.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Panetto, Herve.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+series:
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 100-40
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

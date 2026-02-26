@@ -1,0 +1,93 @@
+---
+id: NISTAMS10031
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Summary report
+  type: title-main
+- language: en
+  script: Latn
+  content: meeting of the ASME standards subcommittee on advanced monitoring, diagnostics,
+    and prognostics for manufacturing operations hosted at NIST
+  type: title-part
+- language: en
+  script: Latn
+  content: Summary report - meeting of the ASME standards subcommittee on advanced
+    monitoring, diagnostics, and prognostics for manufacturing operations hosted at
+    NIST
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-31
+docidentifier:
+- content: NIST AMS 100-31
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-31
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Weiss, Brian A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brundage, Michael.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2003014858
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pellegrino, Joan.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: The National Institute of Standards and Technology (NIST) hosted the ASME
+    Standards Subcommittee Meeting on Advanced Monitoring, Diagnostics, and Prognostics
+    for Manufacturing Operations on May 22-23, 2019, at the NIST Gaithersburg (Maryland)
+    campus. The purpose of the meeting was to discuss progress and future needs, and
+    to prioritize work activities for standards and guidelines related to advanced
+    monitoring, diagnostic, and prognostic technologies (also identified as Prognostics
+    and Health Management (PHM)) for enhancing manufacturing maintenance and control
+    strategies. This report documents the results of the meeting, including priority
+    topics for standards and guidelines. The next steps in this effort are presented
+    towards the end of this document, including planning for future standards events,
+    subcommittee meetings, and white paper publication of one of the priority topics.
+series:
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 100-31
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

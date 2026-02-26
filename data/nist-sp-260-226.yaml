@@ -1,0 +1,79 @@
+---
+id: NISTSP260226
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Certification of Standard Reference Material 114r Portland cement
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-226
+docidentifier:
+- content: NIST SP 260-226
+  type: NIST
+  primary: true
+- content: NIST.SP.260-226
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stutzman, Paul.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Votri, Eduarda.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Toman, Blaza.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: The SRM 114 series for portland cement fineness has been provided by NIST
+    since 1934 for use in calibrating instruments for measuring fineness characteristics
+    of portland cement and other powdered construction materials. SRM 114r is the
+    latest of this series providing certified values for cement fineness by Blaine
+    apparatus, + 45 ?m (No. 325) Sieve, and informational values for particle size
+    distribution by light scattering. ASTM C01.25 Committee on Fineness provided a
+    range of desired materials properties, and the assistance of the Cement and Concrete
+    Reference Lab provided a number of candidate plants with materials conforming
+    to the Committee request. Approximately 1000 kg of cement was procured, homogenized,
+    and packaged. An inter-laboratory study was initiated to develop the data set
+    used to establish certified values. The certified values represent the consensus
+    means and uncertainties for the Blaine and + 45 ?m residue. Informational values
+    on particle size distribution are provided as the mean of the combined wet and
+    dry laser diffraction data.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 260-226
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

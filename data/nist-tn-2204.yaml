@@ -1,0 +1,73 @@
+---
+id: NISTTN2204
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Characterization method of ionization chamber type detectors
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2204
+docidentifier:
+- content: NIST TN 2204
+  type: NIST
+  primary: true
+- content: NIST.TN.2204
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pibida, L.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Minniti, R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McCord, M.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Physical Measurement Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: A wide variability in accuracy exists among commercial radiation detection
+    instruments used to measure exposure rate or ambient dose equivalent rate. These
+    instruments are used to measure both the radiation background and the radiation
+    field produced by radioactive sources that are used to test other types of radiation
+    detection systems against different consensus document standards. These instruments
+    are used as reference instruments. This document provides information and recommendations
+    on how to characterize ionization chambers including high pressure ionization
+    chambers (HPIC) and unsealed standard ionization chambers.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2204'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

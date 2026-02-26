@@ -1,0 +1,84 @@
+---
+id: NISTTN1887
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: CONTAM user guide and program documentation
+  type: title-main
+- language: en
+  script: Latn
+  content: version 3.2
+  type: title-part
+- language: en
+  script: Latn
+  content: CONTAM user guide and program documentation - version 3.2
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1887
+docidentifier:
+- content: NIST TN 1887
+  type: NIST
+  primary: true
+- content: NIST.TN.1887
+  type: DOI
+date:
+- type: issued
+  at: '2015'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dols, W. Stuart.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003054410
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Polidoro, Brian J.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: This manual describes the computer program CONTAM version 3.2, developed
+    by NIST. CONTAM is a multizone indoor air quality and ventilation analysis program
+    designed to help determine airflows, contaminant concentrations, and personal
+    exposure in buildings. Airflows include infiltration, exfiltration, and room-to-room
+    airflow rates and pressure differences in building systems, and can be driven
+    by mechanical means, wind pressures acting on the exterior of the building, and
+    buoyancy effects induced by temperature differences between zones, including the
+    outdoors. Contaminant concentrations include the transport and fate of airborne
+    contaminants, due to airflow, chemical and radio-chemical transformation, adsorption
+    and desorption to building materials, filtration, and deposition to and resuspension
+    from building surfaces. Personal exposure includes the exposure of building occupants
+    to airborne contaminants, for eventual risk assessment.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1887'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

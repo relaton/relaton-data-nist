@@ -1,0 +1,68 @@
+---
+id: NISTIR5698
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The estimation of measurement uncertainty of small circular features measured
+    by CMMs
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.5698
+docidentifier:
+- content: NIST IR 5698
+  type: NIST
+  primary: true
+- content: NIST.IR.5698
+  type: DOI
+date:
+- type: issued
+  at: '1995'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Phillips, Steven Dale.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nr2002034281
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Borchardt, B.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Estler, W. T.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '5698'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

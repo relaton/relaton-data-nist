@@ -1,0 +1,126 @@
+---
+id: NISTIR8228spa
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Consideraciones para la gestión de riesgos a la ciberseguridad y la privacidad
+    de internet de las cosas (IoT)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8228es
+docidentifier:
+- content: NIST IR 8228 spa
+  type: NIST
+  primary: true
+- content: NIST.IR.8228es
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Boeckl, Katie.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fagan, Michael.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fisher, William.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lefkovitz, Naomi.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Megas, Katerina N.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nadeau, Ellen.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: O'Rourke, Danna Gabel.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Piccarreta, Ben.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, Karen.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: La internet de las cosas (IoT) es un conjunto de diversas tecnolog as que
+    evolucionan y se difunden con rapidez, y que interact an con el mundo f sico.
+    Muchas organizaciones no se dan cuenta del gran n mero de dispositivos de IoT
+    que ya est n utilizando, ni de que los dispositivos de IoT pueden afectar a los
+    riesgos a la ciberseguridad y la privacidad de manera distinta de los dispositivos
+    de tecnolog a de la informaci n (TI) convencionales. El objetivo de esta publicaci
+    n es ayudar a los organismos federales y otras organizaciones a conocer y gestionar
+    mejor los riesgos a la ciberseguridad y la privacidad asociados con sus dispositivos
+    individuales de IoT durante el ciclo de vida de estos. Esta publicaci n es un
+    documento introductorio que sirve de base para una serie de publicaciones planificadas
+    sobre aspectos m s espec ficos de este tema.
+relation:
+- type: editionOf
+  bibitem:
+    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x0000000390adfe10>"
+    docidentifier:
+    - content: NIST IR 8228
+      type: NIST
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 8228es
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

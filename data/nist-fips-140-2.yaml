@@ -1,0 +1,63 @@
+---
+id: NISTFIPS1402
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Security requirements for cryptographic modules
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.FIPS.140-2
+docidentifier:
+- content: NIST FIPS 140-2
+  type: NIST
+  primary: true
+- content: NIST.FIPS.140-2
+  type: DOI
+date:
+- type: issued
+  at: '2001'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: This Federal Information Processing Standard (140-2) specifies the security
+    requirements that will be satisfied by a cryptographic module, providing four
+    increasing, qualitative levels intended to cover a wide range of potential applications
+    and environments. The areas covered, related to the secure design and implementation
+    of a cryptographic module, include specification; ports and interfaces; roles,
+    services, and authentication; finite state model; physical security; operational
+    environment; cryptographic key management; electromagnetic interference/electromagnetic
+    compatibility (EMI/EMC); self-tests; design assurance; and mitigation of other
+    attacks. [Supersedes FIPS 140-1 (January 11, 1994)]
+series:
+- title:
+  - content: Federal information processing standards publication; FIPS
+  number: 140-2
+place:
+- city: Washington
+  region:
+  - iso: D
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

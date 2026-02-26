@@ -1,0 +1,89 @@
+---
+id: NISTTN1968
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Pool boiling of low-GWP replacements for R134a on a reentrant cavity surface;
+    extensive measurement and analysis
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1968
+docidentifier:
+- content: NIST TN 1968
+  type: NIST
+  primary: true
+- content: NIST.TN.1968
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kedzierski, Mark A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no00026878
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lin, Lingnan.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kang, Donggyu.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022038785
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: This paper quantifies the pool boiling performance of R134a, R1234yf, R513A,
+    and R450A on a flattened, horizontal Turbo-ESP surface. The study showed that
+    the boiling performance of R134a on the Turbo-ESP exceeded that of the replacement
+    refrigerants for heat fluxes greater than 20 kWm-2. On average, the heat flux
+    for R1234yf and R513A was 16 % and 19 % less than that for R134a, respectively,
+    for R134a heat fluxes between 20 kWm-2 and 110 kWm-2. The heat flux for R450A
+    was on average 57 % less than that of R134a for heat fluxes between 30 kWm-2 and
+    110 kWm-2. A model was developed to predict both single-component and multi-component
+    pool boiling of the test refrigerants on the Turbo-ESP surface. The model accounts
+    for viscosity effects on bubble population and uses the Fritz (1935) equation
+    to account for increased vapor production with increasing superheat. Both loss
+    of available superheat and mass transfer resistance effects were modeled for the
+    refrigerant mixtures. For most heat fluxes, the model predicted the measured superheat
+    to within ± 0.31 K.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1968'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,103 @@
+---
+id: NISTIR7983
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Report
+  type: title-main
+- language: en
+  script: Latn
+  content: authentication study
+  type: title-part
+- language: en
+  script: Latn
+  content: Report - authentication study
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7983
+docidentifier:
+- content: NIST IR 7983
+  type: NIST
+  primary: true
+- content: NIST.IR.7983
+  type: DOI
+date:
+- type: issued
+  at: '2014'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Steves, Michelle.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chisnell, Dana.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n97055867
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sasse, Angela.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003043258
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Krol, Kat.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Theofanos, Mary.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wald, Hannah.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020085326
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Information Technology Laboratory, Material Measurement Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7983'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

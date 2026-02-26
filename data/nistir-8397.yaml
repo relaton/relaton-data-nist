@@ -1,0 +1,82 @@
+---
+id: NISTIR8397
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guidelines on minimum standards for developer verification of software
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8397
+docidentifier:
+- content: NIST IR 8397
+  type: NIST
+  primary: true
+- content: NIST.IR.8397
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Black, Paul E.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Guttman, Barbara.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Okun, Vadim.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'Executive Order (EO) 14028, Improving the Nation s Cybersecurity, 12 May
+    2021, directs the National Institute of Standards and Technology (NIST) to recommend
+    minimum standards for software testing within 60 days. This document describes
+    eleven recommendations for software verification techniques as well as providing
+    supplemental information about the techniques and references for further information.
+    It recommends the following techniques: Threat modeling to look for design-level
+    security issues Automated testing for consistency and to minimize human effort
+    Static code scanning to look for top bugs Heuristic tools to look for possible
+    hardcoded secrets Use of built-in checks and protections Black box test cases
+    Code-based structural test cases Historical test cases Fuzzing Web app scanners,
+    if applicable Address included code (libraries, packages, services) The document
+    does not address the totality of software verification, but instead recommends
+    techniques that are broadly applicable and form the minimum standards. The document
+    was developed by NIST in consultation with the National Security Agency. Additionally,
+    we received input from numerous outside organizations through papers submitted
+    to a NIST workshop on the Executive Order held in early June, 2021 and discussion
+    at the workshop as well as follow up with several of the submitters.'
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8397'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,73 @@
+---
+id: NISTIR4512
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Review of research literature on masonry shear walls
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.4512
+docidentifier:
+- content: NIST IR 4512
+  type: NIST
+  primary: true
+- content: NIST.IR.4512
+  type: DOI
+date:
+- type: issued
+  at: '1991'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yancey, C. W. C.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79065130
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fattal, S. G.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50000338
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dikkers, R. D. (Robert D.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50025518
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '4512'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

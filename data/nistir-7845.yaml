@@ -1,0 +1,84 @@
+---
+id: NISTIR7845
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Technical guidance for archiving and configuration management of homeland
+    security simulation applications
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7845
+docidentifier:
+- content: NIST IR 7845
+  type: NIST
+  primary: true
+- content: NIST.IR.7845
+  type: DOI
+date:
+- type: issued
+  at: '2012'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McLean, Charles.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2003125132
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hutchings, Charles.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022032624
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jaina, Sañjaya.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88000217
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lee, Y. Tina.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2001042904
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7845'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

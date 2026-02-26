@@ -1,0 +1,74 @@
+---
+id: NBSBMS145
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Fire effects and fire control in nitrocellulose photographic-film storage
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.BMS.145
+docidentifier:
+- content: NBS BMS 145
+  type: NIST
+  primary: true
+- content: NBS.BMS.145
+  type: DOI
+date:
+- type: issued
+  at: '1956'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ryan, J. V.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020058047
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cummings, J. W.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003094585
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hutton, A. C.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88660133
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS building materials and structures report; NBS BMS
+  number: '145'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

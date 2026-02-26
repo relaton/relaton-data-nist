@@ -1,0 +1,80 @@
+---
+id: NISTSP120027
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Evaluation of methods for assessing the proportion of single-stranded nuclear
+    DNA in human blood extracts
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1200-27
+docidentifier:
+- content: NIST SP 1200-27
+  type: NIST
+  primary: true
+- content: NIST.SP.1200-27
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kline, Margaret C.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020100705
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Duewer, David L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2019178574
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Material Measurement Laboratory (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012096740
+abstract:
+- language: en
+  script: Latn
+  content: 'This report documents our evaluation of three digital PCR (dPCR) based
+    methods for estimating the proportion, if any, of single-stranded DNA (ssDNA)
+    in a sample that is believed to be mostly double-stranded DNA (dsDNA). These methods
+    are: 1) a modification of a published real time chamber-digital PCR (cdPCR) method,
+    2) comparing droplet-digital (ddPCR) results for native samples with those of
+    an aliquot that has been gently heat-denatured, and 3) comparing ddPCR results
+    for native samples with those of an aliquot in which dsDNA entities have been
+    enzymatically rendered non amplifiable. The cdPCR method requires use of exceptionally
+    efficient PCR assays and appears to be insensitive to ssDNA proportions less than
+    about 8%. The denaturation/native comparison does not provide a unique estimate
+    of ssDNA proportion but rather an upper limit. The enzymatic method requires careful
+    choice and evaluation of restriction enzyme and PCR assay but has the potential
+    to provide metrologically traceable estimates of the proportion of ssDNA.'
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1200-27
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

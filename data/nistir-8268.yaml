@@ -1,0 +1,99 @@
+---
+id: NISTIR8268
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Status report on the first round of the NIST lightweight cryptography standardization
+    process
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8268
+docidentifier:
+- content: NIST IR 8268
+  type: NIST
+  primary: true
+- content: NIST.IR.8268
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Turan, Meltem SoÌⁿnmez.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-1950-7130"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McKay, Kerry A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: CáI§al¿k, CáI§agáI⁶dasáI&#x00a7.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chang, Donghoon.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bassham, Larry.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: The National Institute of Standards and Technology (NIST) is in the process
+    of selecting one or more authenticated encryption and hashing schemes suitable
+    for constrained environments through a public, competition-like process. In February
+    2019, 57 candidate algorithms were submitted to NIST for consideration. Among
+    these, 56 were accepted as first-round candidates in April 2019, marking the beginning
+    of the first round of the NIST Lightweight Cryptography Standardization Process.
+    Due to the large number of submissions and the short timeline of the process,
+    NIST has decided to eliminate some of the algorithms from consideration early
+    in the first evaluation phase in order to focus analysis on the more promising
+    submissions. This report describes the evaluation criteria and selection process
+    based on public feedback and internal review of the first-round candidates and
+    provides the list of 32 candidate algorithms selected for the second round of
+    the evaluation process.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8278'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

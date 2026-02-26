@@ -1,0 +1,142 @@
+---
+id: NISTSP180013
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Mobile application single sign-on
+  type: title-main
+- language: en
+  script: Latn
+  content: improving authentication for public safety first responders
+  type: title-part
+- language: en
+  script: Latn
+  content: Mobile application single sign-on - improving authentication for public
+    safety first responders
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1800-13
+docidentifier:
+- content: NIST SP 1800-13
+  type: NIST
+  primary: true
+- content: NIST.SP.1800-13
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fisher, William.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grassi, Paul.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barker, William C.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dog, Spike E.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jha, Santos.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kim, William.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McCorkill, Taylor.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Portner, Joseph.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Russell, Mark.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Umarji, Sudhi.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: On-demand access to public safety data is critical to ensuring that public
+    safety and first responders (PSFRs) can protect life and property during an emergency.
+    This public safety information, often needing to be accessed via mobile or portable
+    devices, routinely includes sensitive information, such as personally identifiable
+    information, law enforcement sensitive information, and protected health information.
+    Because the communications are critical to public safety and may include sensitive
+    information, robust and reliable authentication mechanisms that do not hinder
+    delivery of emergency services are required. In collaboration with the National
+    Institute of Standards and Technology (NIST) Public Safety Communications Research
+    laboratory and industry stakeholders, the National Cybersecurity Center of Excellence
+    (NCCoE) at NIST built a laboratory environment to demonstrate standards-based
+    technologies that can enable PSFRs to gain access to public safety information
+    efficiently and securely by using mobile devices. The technologies demonstrated
+    are currently available and include (1) single sign-on (SSO) capabilities that
+    reduce the number of credentials that need to be managed by public safety personnel,
+    and reduce the time and effort that individuals spend authenticating themselves;
+    (2) identity federation that can improve the ability to authenticate personnel
+    across public safety organization (PSO) boundaries; and (3) multifactor authentication
+    (MFA) that enables authentication with a high level of assurance.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1800-13
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

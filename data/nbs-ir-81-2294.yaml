@@ -1,0 +1,55 @@
+---
+id: NBSIR812294
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Survey of United States research projects publications in the field of
+    fire safety of buildings and structures
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IR.81-2294
+docidentifier:
+- content: NBS IR 81-2294
+  type: NIST
+  primary: true
+- content: NBS.IR.81-2294
+  type: DOI
+date:
+- type: issued
+  at: '1981'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Levine, R. S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n86005264
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBSIR; NBS IR; NBS interagency report; NBS internal report
+  number: 81-2294
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

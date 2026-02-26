@@ -1,0 +1,94 @@
+---
+id: NISTIR7414
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Enhancement of the virtual cybernetic building testbed to include a zone
+    fire model with HVAC components
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7414
+docidentifier:
+- content: NIST IR 7414
+  type: NIST
+  primary: true
+- content: NIST.IR.7414
+  type: DOI
+date:
+- type: issued
+  at: '2007'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Park, Cheol.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80022555
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Reneke, Paul A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2008048705
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Galler, Michael A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2007101805
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bushby, Steven T.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021107279
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Davis, William D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2005057295
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7414'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

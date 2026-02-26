@@ -1,0 +1,63 @@
+---
+id: NISTSP1208
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 2016 NIST Center for Neutron Research accomplishments and opportunities
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1208
+docidentifier:
+- content: NIST SP 1208
+  type: NIST
+  primary: true
+- content: NIST.SP.1208
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kline, Steven R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022042895
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dimeo, Robert M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022000565
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: NIST Center for Neutron Research.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no00026531
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '1208'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

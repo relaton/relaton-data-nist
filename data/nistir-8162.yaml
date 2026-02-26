@@ -1,0 +1,88 @@
+---
+id: NISTIR8162
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Automation of piston gauge calibration services: phase I results'
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8162
+docidentifier:
+- content: NIST IR 8162
+  type: NIST
+  primary: true
+- content: NIST.IR.8162
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schlatter, Katie.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Quintavalle, John.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cross, C. Dawn.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Driver, R. Gregory.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scherschligt, Julia.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.))
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2019028800
+abstract:
+- language: en
+  script: Latn
+  content: This report documents efforts to date to automate Piston Gage Calibration
+    Services. This report includes an overview of the project, results for Phase I
+    Implementation efforts, and a look ahead to Phase II. Phase I Measures and Deliverables
+    are based on the Piston Gage Calibration Phase I Implementation Project Charter
+    dated 11-21-2014. All results were based on average inputs required to complete
+    the calibration of a single 29010C Deadweight Piston Gage.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8162'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

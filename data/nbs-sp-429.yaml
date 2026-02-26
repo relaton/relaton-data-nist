@@ -1,0 +1,55 @@
+---
+id: NBSSP429
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Proceedings of the 7th annual conference of the national conference of
+    states on building codes and standards
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.429
+docidentifier:
+- content: NBS SP 429
+  type: NIST
+  primary: true
+- content: NBS.SP.429
+  type: DOI
+date:
+- type: issued
+  at: '1975'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Berry, Sandra A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80025952
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: '429'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,63 @@
+---
+id: NISTSP80089
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Recommendation for obtaining assurances for digital signature applications
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-89
+docidentifier:
+- content: NIST SP 800-89
+  type: NIST
+  primary: true
+- content: NIST.SP.800-89
+  type: DOI
+date:
+- type: issued
+  at: '2006'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barker, E. B.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nb2015019673
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: 'Entities participating in the generation or verification of digital signatures
+    depend on the authenticity of the process. This Recommendation specifies methods
+    for obtaining the assurances necessary for valid digital signatures: assurance
+    of domain parameter validity, assurance of public key validity, assurance that
+    the key pair owner actually possesses the private key, and assurance of the identity
+    of the key pair owner.'
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-89
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

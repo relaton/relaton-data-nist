@@ -1,0 +1,119 @@
+---
+id: NISTIR8070
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Greenhouse gas emissions and dispersion
+  type: title-main
+- language: en
+  script: Latn
+  content: 4. quality control process of in-situ INFLUX tower-based observational
+    data
+  type: title-part
+- language: en
+  script: Latn
+  content: Greenhouse gas emissions and dispersion - 4. quality control process of
+    in-situ INFLUX tower-based observational data
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8070
+docidentifier:
+- content: NIST IR 8070
+  type: NIST
+  primary: true
+- content: NIST.IR.8070
+  type: DOI
+date:
+- type: issued
+  at: '2015'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hu, Heming.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022030666
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Prasad, Kuldeep.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lopez-Coto, Israel.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022049578
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ghosh, Subhomoy.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Whetstone, James R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021060616
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: 'The Indianapolis Flux Experiment (INFLUX) was designed to develop top-down
+    methods for measurement and modeling of urban fluxes of greenhouse gases (GHG)
+    to the atmosphere with spatial and temporal scale of one km. and one hour respectively.
+    A small bias in the observation data relative to the background can introduce
+    significantly large bias in the computed fluxes if it is relatively high to the
+    emission enhancement. Hence, it is important to maintain accuracy of in situ GHG
+    data for unbiased estimation of urban fluxes. Accuracy of GHG observation data
+    can be influenced by quality control (QC) process used for error detection, instrument
+    calibration and error correction. Currently different organizations employ different
+    QC processes on the same raw data resulting in significantly different QC ed data.
+    This report introduces a standardized approach integrating all present techniques.
+    It consists of four major sequential steps: data screening, gas source based data
+    separation, calibration and time-lag correction, and data averaging. QC ed data
+    for a set of twelve towers are compared with that from other organization for
+    a period of two months. The influences of different methodologies in the QC process
+    were analyzed, and the important parameters were optimized to reconcile the differences.
+    Finally, recommendations in different phases of QC process are presented to provide
+    guidelines for tower observation.'
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8070'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

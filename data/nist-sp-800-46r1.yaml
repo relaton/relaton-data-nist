@@ -1,0 +1,82 @@
+---
+id: NISTSP80046r1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guide to enterprise telework and remote access security
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-46r1
+docidentifier:
+- content: NIST SP 800-46r1
+  type: NIST
+  primary: true
+- content: NIST.SP.800-46r1
+  type: DOI
+date:
+- type: issued
+  at: '2009'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, K. A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hoffman, P.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2012200428
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Souppaya, M. P.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: Many organizations employees and contractors use enterprise telework technologies
+    to perform work from external locations. Most teleworkers use remote access technologies
+    to interface with an organization's non-public computing resources. The nature
+    of telework and remote access technologies permitting access to protected resources
+    from external networks and often external hosts as well generally places them
+    at higher risk than similar technologies only accessed from inside the organization,
+    as well as increasing the risk to the internal resources made available to teleworkers
+    through remote access. This publication provides information on security considerations
+    for several types of remote access solutions, and it makes recommendations for
+    securing a variety of telework and remote access technologies. It also gives advice
+    on creating telework security policies.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-46r1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

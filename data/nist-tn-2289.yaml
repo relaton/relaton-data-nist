@@ -1,0 +1,84 @@
+---
+id: NISTTN2289
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Impact of price-responsive load and volt-VAr on power quality, losses,
+    and customer economics
+  type: title-main
+- language: en
+  script: Latn
+  content: a distribution grid case study
+  type: title-part
+- language: en
+  script: Latn
+  content: Impact of price-responsive load and volt-VAr on power quality, losses,
+    and customer economics - a distribution grid case study
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2289
+docidentifier:
+- content: NIST TN 2289
+  type: NIST
+  primary: true
+- content: NIST.TN.2289
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Holmberg, David.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-1738-8190"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Roth, Thomas.
+    identifier:
+    - type: uri
+      content: "(orcid) 0000-0002-9986-7784"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This report presents insights into the impact of distributed energy resources
+    (DER) price-responsive behavior on voltage for a distribution grid with significant
+    customer-owned solar photovoltaics (PV) and batteries in addition to price-responsive
+    heat pumps and water heaters. Price responsive loads result in more variable power
+    flows and voltages. While peak load is reduced, significant amount of flexibility
+    (load response) in this distribution grid increases the total power flow and voltage
+    variation across the day while reducing hosting capacity. That is, while the loads
+    on the grid provide significant flexibility to the bulk grid, this flexibility
+    comes at the expense of voltage variability and significant power flow changes
+    and even reverse power flows at the substation.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2289'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,110 @@
+---
+id: NISTIR8248
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A NIST testbed for examining the accuracy of smart meters under high harmonic
+    waveform loads
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8248
+docidentifier:
+- content: NIST IR 8248
+  type: NIST
+  primary: true
+- content: NIST.IR.8248
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Steiner, Richard.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79118368
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Farrell, Michael.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2016015974
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Edwards, Shannon.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ford, Joni.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sarwat, Sumaiyah.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nelson, Thomas.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n98089569
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.))
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2019028800
+abstract:
+- language: en
+  script: Latn
+  content: Household and industrial electrical energy measurements are advancing into
+    a Smart Grid stage, using solid-state watthour meters with communication capability,
+    called Smart meters. As electrical products become heavily based on solid-state
+    designs, such as LED lighting and dimmers, electrical loads are not purely resistive,
+    but contain voltage and current spikes, introducing relatively high harmonic power
+    to the grid. This paper describes a testbed laboratory that attempts to model
+    LED household lighting loads, measure the energy by Smart meter and power analyzer,
+    and correlate offsets to the waveform variations. Preliminary results show that,
+    with large current crest factors up to about 10, two meters (same manufacturer)
+    out of eight tested show an error near 4%. Three meters showed no variation outside
+    a 0.07% standard deviation that was typical for their normal repeatability.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8248'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

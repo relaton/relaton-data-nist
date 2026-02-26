@@ -1,0 +1,76 @@
+---
+id: NISTTN2025
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Intelligent building agents laboratory
+  type: title-main
+- language: en
+  script: Latn
+  content: air system design
+  type: title-part
+- language: en
+  script: Latn
+  content: Intelligent building agents laboratory - air system design
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2025
+docidentifier:
+- content: NIST TN 2025
+  type: NIST
+  primary: true
+- content: NIST.TN.2025
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pertzborn, Amanda J.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Veronica, Daniel A.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: The National Institute of Standards and Technology has constructed the
+    Intelligent Building Agents Laboratory (IBAL) to demonstrate the potential for
+    distributed, intelligent software agents to optimize the control of heating, ventilation,
+    and air-conditioning systems in commercial buildings. The goal of the optimization
+    is to improve the economic and energy performance of building systems while maintaining
+    occupant comfort. This paper describes the design of, and the equipment in, the
+    airside system of the IBAL.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2025'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,75 @@
+---
+id: NISTIR4484
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Multimedia courseware in an open systems environment
+  type: title-main
+- language: en
+  script: Latn
+  content: a federal strategy
+  type: title-part
+- language: en
+  script: Latn
+  content: Multimedia courseware in an open systems environment - a federal strategy
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.4484
+docidentifier:
+- content: NIST IR 4484
+  type: NIST
+  primary: true
+- content: NIST.IR.4484
+  type: DOI
+date:
+- type: issued
+  at: '1990'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Moline, Judi.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n91032612
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hankinson, Allen L.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Welsch, Lawrence A.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '4484'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

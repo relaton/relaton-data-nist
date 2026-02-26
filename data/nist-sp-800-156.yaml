@@ -1,0 +1,112 @@
+---
+id: NISTSP800156
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Representation of PIV chain-of-trust for import and export
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-156
+docidentifier:
+- content: NIST SP 800-156
+  type: NIST
+  primary: true
+- content: NIST.SP.800-156
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ferraiolo, Hildegard.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2007017398
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brady, Steven.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021144974
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chandramouli, Ramaswamy.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2003002931
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mehta, Ketan.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88161940
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mohler, Jason.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022062236
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Skordinski, Stephen.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022084005
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: This document provides a common XML-based data representation of a chain-of-trust
+    record to facilitate the exchange of Personal Identity Verification (PIV) Card
+    enrollment data. The exchanged record is the basis to personalize a PIV Card for
+    a transferred employee and also for service providers to personalize a PIV Card
+    on behave of client federal agencies.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-156
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

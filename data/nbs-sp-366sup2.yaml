@@ -1,0 +1,71 @@
+---
+id: NBSSP366sup2
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Bibliography on atomic line shapes and shifts (July 1973 through May 1975)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.366supp2
+docidentifier:
+- content: NBS SP 366sup2
+  type: NIST
+  primary: true
+- content: NBS.SP.366supp2
+  type: DOI
+date:
+- type: issued
+  at: '1975'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fuhr, J. R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81134790
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Martin, G. A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n78073915
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Specht, B. J.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: 366supp2
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

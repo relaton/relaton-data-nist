@@ -1,0 +1,66 @@
+---
+id: NISTTN2278
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Binary metal-carbon phase-transition temperatures
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2278
+docidentifier:
+- content: NIST TN 2278
+  type: NIST
+  primary: true
+- content: NIST.TN.2278
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Burgess Jr., Donald R.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3428-6540"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'In this work, we compiled and evaluated eutectic and peritectic phase-transition
+    temperatures for metal-carbon (e.g., Co-C, Re-C) and metal carbide-carbon compounds
+    (e.g., Fe3C-C, HfC2-C) and selected recommended values for possible future use
+    on the International Temperature Scale as primary or secondary fixed points. Most
+    of these phase-transition temperatures are at high temperatures (1400 K to 3000
+    K) above the highest fixed point, the freezing point of copper (1357.77 K), on
+    the ITS-90 temperature scale, The selected systems include 18 phase-transition
+    temperatures: eight of these have very low uncertainties (0.12 K to 0.27 K) that
+    likely will become primary fixed points on the International Temperature Scale,
+    while ten of these have slightly higher uncertainties (0.4 K to 2.5 K) that may
+    become secondary fixed points. Phase transitions for all other measured metal-carbon
+    systems with higher uncertainties are also provided for completeness.'
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2278'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

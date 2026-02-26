@@ -1,0 +1,74 @@
+---
+id: NBSBSS123
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The Effect of moisture on the thermal conductance of roofing systems
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.BSS.123
+docidentifier:
+- content: NBS BSS 123
+  type: NIST
+  primary: true
+- content: NBS.BSS.123
+  type: DOI
+date:
+- type: issued
+  at: '1980'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Knab, Lawrence I.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80071024
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jenkins, David R. (David Richard),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80117537
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mathey, Robert G.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80113759
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS building science series; NBS building science; NBS BSS
+  number: '123'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,105 @@
+---
+id: NISTTN2082
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The structure of medium-scale pool fires
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2082
+docidentifier:
+- content: NIST TN 2082
+  type: NIST
+  primary: true
+- content: NIST.TN.2082
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Falkenstein-Smith, Ryan.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020055872
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sung, Kunhyuk.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chen, Jian.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2020037913
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McKade, Kim.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no99019363
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hamins, Anthony,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n87136328
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: This report documents a series of time-averaged gas species measurements
+    made along the centerline of methanol, ethanol, and acetone pool fires steadily
+    burning in a quiescent environment. All gas species measurements are obtained
+    using a Gas Chromatograph/ Mass Spectrometer System (GC/MS). Measurements were
+    made at different heights along the centerline of the fire and repeated at least
+    twice for each location. Gas species volume fractions were determined via the
+    GC/MS using predetermined calibration factors. Soot mass fractions are simultaneously
+    measured during the gas sampling process. The gas species volume and soot mass
+    fractions are compared at different heights within the fire and across a variety
+    of different fuels. Other fire parameters are measured as well, including time-averaged
+    temperature measurements and mass burning rates.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2082'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,110 @@
+---
+id: NISTSP80053r1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Recommended security controls for federal information systems and organizations
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-53r1
+docidentifier:
+- content: NIST SP 800-53r1
+  type: NIST
+  primary: true
+- content: NIST.SP.800-53r1
+  type: DOI
+date:
+- type: issued
+  at: '2006'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ross, R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Katzke, S.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Johnson, L. A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81012562
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Swanson, M.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stoneburner, G.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rogers, G.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: 'The purpose of this publication is to provide guidelines for selecting
+    and specifying security controls for information systems supporting the executive
+    agencies of the federal government. The guidelines have been developed to help
+    achieve more secure information systems within the federal government by: (i)
+    facilitating a more consistent, comparable, and repeatable approach for selecting
+    and specifying security controls for information systems; (ii) providing a recommendation
+    for minimum security controls for information systems in accordance with Federal
+    Information Processing Standards (FIPS) 199, Standards for Security Categorization
+    of Federal Information and Information Systems and FIPS 200, Minimum Security
+    Requirements for Federal Information and Information Systems; (iii) promoting
+    a dynamic, extensible catalog of security controls for information systems to
+    meet the demands of changing requirements and technologies; and (iv) creating
+    a foundation for the development of assessment methods and procedures for determining
+    security control effectiveness. The guidelines provided in this special publication
+    are applicable to all federal information systems other than those systems designated
+    as national security systems as defined in 44 U.S.C., Section 3542. The guidelines
+    have been broadly developed from a technical perspective to complement similar
+    guidelines for national security systems.'
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-53r1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

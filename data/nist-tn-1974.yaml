@@ -1,0 +1,99 @@
+---
+id: NISTTN1974
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: CYCLE_D-HX
+  type: title-main
+- language: en
+  script: Latn
+  content: NIST vapor compression cycle model accounting for refrigerant thermodynamic
+    and transport properties, version 1.0, user's guide
+  type: title-part
+- language: en
+  script: Latn
+  content: CYCLE_D-HX - NIST vapor compression cycle model accounting for refrigerant
+    thermodynamic and transport properties, version 1.0, user's guide
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1974
+docidentifier:
+- content: NIST TN 1974
+  type: NIST
+  primary: true
+- content: NIST.TN.1974
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brown, J. S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83009859
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brignoli, R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Domanski, P. A.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: The CYCLE_D-HX software package simulates the performance of single-component
+    refrigerants and refrigerant blends in subcritical vapor-compression refrigeration
+    cycles. The basic system simulated by CYCLE_D-HX consists of a compressor, discharge
+    line, condenser, expansion device, evaporator, compressor suction line, and an
+    optional liquid-line/suction-line heat exchanger. The other cycles may contain
+    a second compressor, one or two economizers, or an intercooler. In contrast to
+    simplified vapor compression cycle model, which require refrigerant saturation
+    temperatures in the evaporator and condenser as input, CYCLE_D-HX establishes
+    saturation temperatures in the heat exchangers using the temperatures profiles
+    of heat source and heat sink and the mean effective temperature differences (?Thx)
+    in the evaporator and condenser, respectively, which are specified as input to
+    the program. This representation of heat exchangers facilitates the inclusion
+    of both thermodynamic and transport properties in cycle simulations and makes
+    CYCLE_D-HX suitable for comparative evaluations of different refrigerants, particularly
+    when applied in systems relying on forced-convection heat transfer of refrigerant
+    in the heat exchangers. This software package was developed by the National Institute
+    of Standards and Technology (NIST), is not subject to copyright protection, and
+    is in the public domain.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1974'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

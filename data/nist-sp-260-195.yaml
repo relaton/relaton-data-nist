@@ -1,0 +1,102 @@
+---
+id: NISTSP260195
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Certification of standard reference material SRM2687a
+  type: title-main
+- language: en
+  script: Latn
+  content: Portland cement clinker
+  type: title-part
+- language: en
+  script: Latn
+  content: Certification of standard reference material SRM2687a - Portland cement
+    clinker
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-195
+docidentifier:
+- content: NIST SP 260-195
+  type: NIST
+  primary: true
+- content: NIST.SP.260-195
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stutzman, Paul.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-5160-9006"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Heckert, Alan.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022027346
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    - content: Information Technology Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: 'A new Standard Reference Material (SRM) for portland cement clinker has
+    been produced for the Office of Standard Reference Materials at the National Institute
+    of Standards and Technology (NIST). The SRM clinkers are intended for use in developing
+    and testing quantitative methods of phase analysis for portland cement and cement
+    clinker. The new SRM is one of three clinkers available from NIST representing
+    the range of textures and compositions of North American clinker production. As
+    the original SRM stock for SRM2687 has been depleted, new material was obtained
+    that retained the fine-grained texture of that SRM. Certification of the phase
+    composition of the clinker is based upon consensus means and uncertainties of
+    two independent analytical methods: scanning electron microscopy with image analysis
+    and X-ray powder diffraction (XRD) analyses. The XRD data were subdivided to provide
+    two separate sample sets and were processed by two different Rietveld refinement
+    codes. These codes differed slightly in the determination of the silicate phases,
+    which have very similar powder diffraction patterns and can be difficult to decompose.
+    Therefore, the input data set for determination of the consensus means, uncertainties
+    and informational values is composed of two distinct XRD data sets and one SEM/image
+    analysis data set. The XRD data are close to that determined by microscopy, but
+    some distinct differences are seen. The disagreements may reflect the difficulty
+    in resolving the fine-sized aluminate and ferrite interstitial phases using the
+    microscope and challenges in decomposing highly overlapped powder diffraction
+    data. The XRD data do display greater precision than replicate measurements by
+    microscopy, likely the result of the specimen homogenization resulting from grinding
+    the clinker to a powder. The certified reference values are consensus values,
+    calcuated by combining the results from both measurement techniques using the
+    DerSimonian-Laird method with the standard un'
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 260-195
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

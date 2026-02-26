@@ -1,0 +1,89 @@
+---
+id: NISTSP80085Ar1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: PIV card application and middleware interface test guidelines (SP800-73-2
+    compliance)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-85a-1
+docidentifier:
+- content: NIST SP 800-85Ar1
+  type: NIST
+  primary: true
+- content: NIST.SP.800-85a-1
+  type: DOI
+date:
+- type: issued
+  at: '2009'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chandramouli, Ramaswamy.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2003002931
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ferraiolo, Hildegard.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2007017398
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mehta, Ketan.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88161940
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Evuboalu, Levent.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: The objective of this document [SP 800-85A-1] is to provide test requirements
+    and test assertions that could be used to validate the compliance/conformance
+    of two PIV components PIV middleware and PIV card application with the specifications
+    in NIST SP 800-73-2.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-85a-1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

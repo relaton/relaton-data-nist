@@ -1,0 +1,64 @@
+---
+id: NISTTN2028
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Community risk ratings for the FireCARES system
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2028
+docidentifier:
+- content: NIST TN 2028
+  type: NIST
+  primary: true
+- content: NIST.TN.2028
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gilbert, Stanley.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n96024300
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: The FireCARES (Community Assessment Response Evaluation System) project
+    is a web-based tool intended to help fire departments effectively match resources
+    to community risk. Among other things, the analysis includes estimates of the
+    community risk and estimates of effectiveness of response. This report documents
+    the estimation of the community risk for fires, fire injuries, fire deaths, and
+    emergency medical services calls. The community risk for fires is broken out by
+    low- medium- and high-hazard properties as defined in NFPA Standard 1710.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2028'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

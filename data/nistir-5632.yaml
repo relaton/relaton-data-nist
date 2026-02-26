@@ -1,0 +1,65 @@
+---
+id: NISTIR5632
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Tables of x-ray mass attenuation coefficients and mass energy-absorption
+    coefficients 1 keV to 20 MeV for elements Z = 1 to 92 and 48 additional substances
+    of dosimetry interest
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.5632
+docidentifier:
+- content: NIST IR 5632
+  type: NIST
+  primary: true
+- content: NIST.IR.5632
+  type: DOI
+date:
+- type: issued
+  at: '1995'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hubbell, J. H. (John Howard),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n85323559
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Seltzer, Stephen M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82209458
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '5632'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,74 @@
+---
+id: NBSIR75968
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Selected thermochemical data compatible with the CODATA recommendations
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IR.75-968
+docidentifier:
+- content: NBS IR 75-968
+  type: NIST
+  primary: true
+- content: NBS.IR.75-968
+  type: DOI
+date:
+- type: issued
+  at: '1976'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Parker, Vivian B.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n86868175
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wagman, Donald D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79065674
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Garvin, David,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n87833390
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBSIR; NBS IR; NBS interagency report; NBS internal report
+  number: 75-968
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

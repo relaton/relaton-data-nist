@@ -1,0 +1,84 @@
+---
+id: NISTHB15018e2024
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NVLAP fasteners and metals
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.HB.150-18e2024
+docidentifier:
+- content: NIST HB 150-18e2024
+  type: NIST
+  primary: true
+- content: NIST.HB.150-18e2024
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Marcelo, Janneth I.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-4300-9489"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Shodiya, Titilayo O.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0006-2706-2596"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Laboratory Programs.
+abstract:
+- language: en
+  script: Latn
+  content: NIST Handbook 150-18 presents the technical requirements and guidance for
+    the accreditation of testing laboratories under the National Voluntary Laboratory
+    Accreditation Program (NVLAP) Fasteners and Metals program. It is intended for
+    information and use by accredited laboratories, laboratories seeking accreditation,
+    laboratory accreditation systems, users of laboratory services, and others needing
+    information on the requirements for accreditation under this program. The 2024
+    edition of NIST. The requirements of NIST Handbook 150 and the specific requirements
+    and interpretations in the NIST Handbook 150-18 must be combined to produce the
+    criteria for accreditation in the NVLAP Fasteners and Metals program. For more
+    information visit the NVLAP website.
+relation:
+- type: updates
+  bibitem:
+    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x000000033827e120>"
+    docidentifier:
+    - content: NIST HB 150-18e2009
+      type: NIST
+series:
+- title:
+  - content: NIST handbook
+  number: 150-18e2024
+- title:
+  - content: NIST handbook; NIST HB
+  number: 150-18e2024
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

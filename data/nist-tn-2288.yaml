@@ -1,0 +1,188 @@
+---
+id: NISTTN2288
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST eave and vent experiments (EaVE) EaVEs phase A
+  type: title-main
+- language: en
+  script: Latn
+  content: test plan
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST eave and vent experiments (EaVE) EaVEs phase A - test plan
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2288
+docidentifier:
+- content: NIST TN 2288
+  type: NIST
+  primary: true
+- content: NIST.TN.2288
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brown, Christopher U.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-0426-2249"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Maranghides, Alexander.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3545-2475"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nazare, Shonali.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-0407-5849"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Di Cristina, Giovanni.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-0799-3418"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bailey, D. Michelle.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-6273-3830"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fox, Lucy.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0004-7725-708X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Link, Eric.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7784-5023"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ramesh, Selvarajah.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-9525-6767"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Monroy, Xareni.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-2240-4079"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Miller, J. Houston.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-6686-1976"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McCaughey, Erin E.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0004-3757-6238"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Flores, Monica M.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0003-1101-5961"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This test plan documents experiments that are part of ongoing research
+    to assess structure-to-structure fire spread in the Wildland-Urban Interface (WUI).
+    Previous indoor and outdoor full-scale experiments were conducted with varying
+    distance between sheds and the exterior wall of a primary residence. The current
+    experiments were planned to understand the failure of the eave vents used in previous
+    experiments. The objective of these full-scale experiments is to characterize
+    the performance of representative eave vents exposed to fire from the source structure.
+    Metal sheds of varying sizes and fuel loads (wood cribs) will be burned under
+    the 20 MW exhaust hood in the National Fire Research Laboratory (NFRL) at the
+    National Institute of Standards and Technology (NIST) at varying structure separation
+    distances (SSDs) from the target structure. The target structure includes an assembly
+    of an exterior wall, a roof, and an eave vent. A range of measurements will be
+    taken during the experiments including heat release rate, heat flux, temperature,
+    gas flow velocity, and gas species concentration using open-path absorption spectroscopy.
+    Video and infrared cameras will record the experiments. A separate NIST Technical
+    Note will report the results of these experiments.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2288'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

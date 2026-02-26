@@ -1,0 +1,62 @@
+---
+id: NBSMP2622
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Legibility of alphanumeric characters and other symbols II. A reference
+    handbook
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.MP.262-2
+docidentifier:
+- content: NBS MP 262-2
+  type: NIST
+  primary: true
+- content: NBS.MP.262-2
+  type: DOI
+date:
+- type: issued
+  at: '1967'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cornog, D. Y.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rose, F .C.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2016089708
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS miscellaneous publication; NBS miscellaneous pub; NBS MP
+  number: 262-2
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

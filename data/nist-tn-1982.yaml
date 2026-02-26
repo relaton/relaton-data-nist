@@ -1,0 +1,89 @@
+---
+id: NISTTN1982
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A review of public response to short message alerts under imminent threat
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1982
+docidentifier:
+- content: NIST TN 1982
+  type: NIST
+  primary: true
+- content: NIST.TN.1982
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kuligowski, Erica D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2011141182
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Doermann, Jessica.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: The National Institute of Standards and Technology (NIST)'s Technical Investigation
+    of the 2011 Joplin, MO tornado identified that no widely accepted standards exist
+    for emergency communications in tornado events and more specifically, policies
+    involving the use of communication systems to alert the public in advance of tornadoes.
+    This study is designed to develop evidence-based guidance for communities on the
+    creation and provision of public alerts, including both alerts provided by outdoor
+    siren (warning) systems and short messages sent by social media or other short
+    message service (SMS) platforms. It is the hope that this guidance can eventually
+    be used as a basis for standardization, through codes and standards, of the procedures
+    and policies for outdoor siren systems and short message alerts used by communities
+    across the United States. Standardization of emergency communication policies
+    and procedures could occur at multiple levels, including among multiple jurisdictions,
+    state-wide, regionally, or even nationally. This document focuses on short message
+    alerts, specifically presenting a review of platforms, usage and public response.
+    First, an overview is provided on the current status of short message alerts in
+    the United States, i.e., the current short message technology available and the
+    ways in which this technology is used in communities across the United States.
+    Second, a review of the literature is presented on the ways in which people respond
+    to short message alerts and the current limitations of these systems in light
+    of these findings. This document concludes with a discussion on the key findings
+    and recommendations from the literature on the ways in which to improve current
+    short message alerts, based on the methods by which people receive and process
+    these types of alerts. Following this work, a document will be developed to provide
+    the overall evidence-based guidance for communities on the creation and provision
+    of public alerts.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1982'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,76 @@
+---
+id: NISTAMS10016
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Literature review of metal additive manufacturing defects
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-16
+docidentifier:
+- content: NIST AMS 100-16
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-16
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kim, Felix H., .
+    identifier:
+    - type: uri
+      content: 0000-0002-1042-9500
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Moylan, Shawn P.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022062454
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: Additive manufacturing (AM) is a revolutionary manufacturing technique,
+    which is expected to reshape the future manufacturing industries. While various
+    materials are used in AM, metal AM is expected to provide a high impact to the
+    industries by producing high-strength structural components. Defects occurring
+    in AM, however, prevent the technique from a wide spread adoption to the mainstream
+    industry. This paper provides a review of commonly-occurring defects in metal
+    AM-produced components. It describes various types and causes of defects, provides
+    implications on the needs of non-destructive evaluation (NDE) techniques to inspect
+    such defects.
+series:
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 100-16
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

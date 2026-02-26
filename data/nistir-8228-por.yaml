@@ -1,0 +1,126 @@
+---
+id: NISTIR8228por
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Considera es para gerenciar riscos de privacidade e seguran a cibern tica
+    na internet das coisas (IoT)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8228pt
+docidentifier:
+- content: NIST IR 8228 por
+  type: NIST
+  primary: true
+- content: NIST.IR.8228pt
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Boeckl, Katie.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fagan, Michael.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fisher, William.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lefkovitz, Naomi.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Megas, Katerina N.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nadeau, Ellen.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: O'Rourke, Danna Gabel.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Piccarreta, Ben.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, Karen.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: A Internet das Coisas (IoT) uma cole o em r pida evolu o e expans o de
+    diversas tecnologias que interagem com o mundo f sico. Muitas organiza es n o
+    est o necessariamente cientes do grande n mero de dispositivos IoT que j est o
+    usando e como eles podem afetar a seguran a cibern tica e os riscos de privacidade
+    de diferentes maneiras, comparado aos dispositivos convencionais de tecnologia
+    da informa o (TI). O objetivo desta publica o ajudar as ag ncias federais e outras
+    organiza es a compreender e melhor gerenciar os riscos de seguran a cibern tica
+    e privacidade associados a seus dispositivos IoT individuais durante todo o ciclo
+    de vida de tais dispositivos. Esta publica o um documento introdut rio que serve
+    de base para uma s rie planejada de publica es sobre alguns aspectos mais espec
+    ficos relacionados a este t pico.
+relation:
+- type: editionOf
+  bibitem:
+    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x00000003915def78>"
+    docidentifier:
+    - content: NIST IR 8228
+      type: NIST
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 8228pt
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

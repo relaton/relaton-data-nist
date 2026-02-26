@@ -1,0 +1,81 @@
+---
+id: NBSMONO255
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Standard x-ray diffraction powder patterns
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.MONO.25-5
+docidentifier:
+- content: NBS MONO 25-5
+  type: NIST
+  primary: true
+- content: NBS.MONO.25-5
+  type: DOI
+date:
+- type: issued
+  at: '1967'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Swanson, H. E.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McMurdie, Howard F.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82044746
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Morris, M. C.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n90706520
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Evans, E. Hywel.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no96067132
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS monograph; NBS MONO
+  number: 25-5
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

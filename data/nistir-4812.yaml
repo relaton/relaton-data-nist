@@ -1,0 +1,95 @@
+---
+id: NISTIR4812
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Mass energy-transfer and mass energy-absorption coefficients, including
+    in-flight positron annihilation for photon energies 1 keV to 100 MeV
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.4812
+docidentifier:
+- content: NIST IR 4812
+  type: NIST
+  primary: true
+- content: NIST.IR.4812
+  type: DOI
+date:
+- type: issued
+  at: '1992'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Higgens, P. D.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Attix, Frank H.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84219627
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hubbell, J. H. (John Howard),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n85323559
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Seltzer, Stephen M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82209458
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Berger, M. J.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sibata, C. H.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '4812'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,95 @@
+---
+id: NISTIR8416
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Machine learning based wireless interference estimation in a robotic force-seeking
+    application
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8416
+docidentifier:
+- content: NIST IR 8416
+  type: NIST
+  primary: true
+- content: NIST.IR.8416
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Candell, Richard.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kashef, Mohamed.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Montgomery, Karl.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Liu, Yongkang.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Foufou, Sebti.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: Wide deployment of wireless communications plays an essential role in the
+    vision of future cyber-physical systems (CPSs), which includes massive transfer
+    of automation information. Many practical considerations of industrial CPSs affect
+    the success of the deployment of industrial wireless networks, and, thus, can
+    inhibit their widespread adoption. These considerations include multi-path propagation,
+    network congestion, and jamming interference. Jamming is of chief concern when
+    wireless is used for mission critical or safety integrated systems. In this paper,
+    an experimental platform consisting of a robot arm depressing a spring mechanism
+    with a wireless force-feedback control algorithm is constructed. The robot applies
+    downward pressure on a spring assembly until a predetermined force is detected
+    and transmitted successfully to the controller under varying levels of sustained
+    interference. Machine learning is used to learn and predict the signal-to-interference
+    level of the communication link solely using position information from an independent
+    vision tracking system. Various supervised learning algorithms are investigated
+    and rated according to their performance.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8416'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

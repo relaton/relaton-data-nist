@@ -1,0 +1,65 @@
+---
+id: NISTSP80018
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guide for developing security plans for information technology systems
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-18
+docidentifier:
+- content: NIST SP 800-18
+  type: NIST
+  primary: true
+- content: NIST.SP.800-18
+  type: DOI
+date:
+- type: issued
+  at: '1998'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Swanson, Marianne.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n91015913
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: Today⁰₉s rapidly changing technical environment requires federal agencies
+    to adopt a minimum set of management controls to protect their information technology
+    (IT) resources. These management controls are directed at individual information
+    technology users in order to reflect the distributed nature of today⁰₉s technology.
+    Technical and operational controls support management controls. To be effective,
+    these controls all must interrelate. This document provides a guideline for federal
+    agencies to follow when developing the security plans that document the management,
+    technical, and operational controls for federal automated information systems.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-18
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

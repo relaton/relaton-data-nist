@@ -1,0 +1,101 @@
+---
+id: NISTIR8039
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Nationwide public safety broadband network deployment
+  type: title-main
+- language: en
+  script: Latn
+  content: network parameter sensitivity analysis
+  type: title-part
+- language: en
+  script: Latn
+  content: Nationwide public safety broadband network deployment - network parameter
+    sensitivity analysis
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8039
+docidentifier:
+- content: NIST IR 8039
+  type: NIST
+  primary: true
+- content: NIST.IR.8039
+  type: DOI
+date:
+- type: issued
+  at: '2015'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rouil, Richard.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Izquierdo, Antonio.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80046556
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gentile, Camillo.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2015072420
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Griffith, David.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79138012
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Golmie, Nada.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nb2007021499
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Communications Technology Laboratory.
+    - content: Wireless Networks Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8039'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

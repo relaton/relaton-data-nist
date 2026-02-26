@@ -1,0 +1,85 @@
+---
+id: NBSSP594
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Nuclear cross sections for technology
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.594
+docidentifier:
+- content: NBS SP 594
+  type: NIST
+  primary: true
+- content: NBS.SP.594
+  type: DOI
+date:
+- type: issued
+  at: '1980'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fowler, J. L. (Joseph L.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80163576
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Johnson, C. H. (Cleland H.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81001082
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bowman, C. D. (Charles D.),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80163572
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+abstract:
+- language: en
+  script: Latn
+  content: These proceedings are the compilation of 203 papers presented at the International
+    Conference on Nuclear Cross Sections for Technology, October 22-26, 1979. Invited
+    papers reviewed nuclear data needs for standard fission reactors, alternate fuel
+    cycles, fusion reactors, biomedical applications, and applications in industry,
+    as well as integral experiments, cross section measurements, cross section standards,
+    and cross section evaluations. There were 165 contributed papers on these subjects
+    with some emphasis on cross section measurement techniques and evaluation of cross
+    section data.
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: '594'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

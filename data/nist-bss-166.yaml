@@ -1,0 +1,63 @@
+---
+id: NISTBSS166
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Inelastic behavior of full-scale bridge columns subjected to cyclic loading
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.BSS.166
+docidentifier:
+- content: NIST BSS 166
+  type: NIST
+  primary: true
+- content: NIST.BSS.166
+  type: DOI
+date:
+- type: issued
+  at: '1989'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stone, W. C. (William C.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81152535
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cheok, Geraldine S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no89007530
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NBS building science series; NBS building science; NBS BSS
+  number: '166'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

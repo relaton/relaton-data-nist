@@ -1,0 +1,89 @@
+---
+id: NISTIR7935
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: FACTS
+  type: title-main
+- language: en
+  script: Latn
+  content: a framework for analysis, comparison, and testing of standards
+  type: title-part
+- language: en
+  script: Latn
+  content: FACTS - a framework for analysis, comparison, and testing of standards
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7935
+docidentifier:
+- content: NIST IR 7935
+  type: NIST
+  primary: true
+- content: NIST.IR.7935
+  type: DOI
+date:
+- type: issued
+  at: '2013'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Witherell, Paul.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rachuri, Sudarsan.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nb2005010837
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Narayanan, Anantha,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2004088587
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lee, Jae Hyun.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2009075417
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Systems Integration Division, Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7935'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

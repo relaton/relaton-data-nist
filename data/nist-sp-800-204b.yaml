@@ -1,0 +1,80 @@
+---
+id: NISTSP800204B
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Attribute-based access control for microservices-based applications using
+    a service mesh
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-204B
+docidentifier:
+- content: NIST SP 800-204B
+  type: NIST
+  primary: true
+- content: NIST.SP.800-204B
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chandramouli, Ramaswamy.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Butcher, Zack.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chetal, Aradhna.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: Deployment architecture in cloud-native applications now consists of loosely
+    coupled components, called microservices, with all application services provided
+    through a dedicated infrastructure, called a service mesh, independent of the
+    application code. Two critical security requirements in this architecture are
+    to build (1) the concept of zero trust by enabling mutual authentication in communication
+    between any pair of services and (2) a robust access control mechanism based on
+    an access control such as attribute-based access control (ABAC) that can be used
+    to express a wide set of policies and is scalable in terms of user base, objects
+    (resources), and deployment environment. This document provides deployment guidance
+    for building an authentication and authorization framework within the service
+    mesh that meets these requirements. A reference platform for hosting the microservices-based
+    application and a reference platform for the service mesh are included to illustrate
+    the concepts in the recommendations and provide the context in terms of the components
+    used in real-world deployments.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-204B
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

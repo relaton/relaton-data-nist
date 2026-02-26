@@ -1,0 +1,68 @@
+---
+id: NISTTN1949
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Preliminary models for viscosity, thermal conductivity, and surface tension
+    of pure fluid constituents of selected diesel surrogate fuels
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1949
+docidentifier:
+- content: NIST TN 1949
+  type: NIST
+  primary: true
+- content: NIST.TN.1949
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Huber, Marcia L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022032592
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Material Measurement Laboratory (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012096740
+abstract:
+- language: en
+  script: Latn
+  content: We describe preliminary models for the viscosity, thermal conductivity,
+    and surface tension for pure fluids that are constituents of four surrogate fuels
+    for ultralow-sulfur diesel fuels developed under the auspices of the Coordinating
+    Research Council (CRC). These fluids do not presently have published reference
+    fluid quality models in the open literature, so we provide here preliminary models
+    based on available data as an interim measure to allow calculations of these properties
+    for both the pure fluids and the four surrogate mixtures. Comparisons with selected
+    experimental pure fluid data are given, and text files compatible with the NIST
+    REFPROP computer program are included as supplementary material. We also present
+    tabulations of the viscosity, thermal conductivity, and surface tension along
+    the bubble point for four surrogate fuels.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1949'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

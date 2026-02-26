@@ -1,0 +1,61 @@
+---
+id: NBSSP737
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Towards a tribology information system
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.737
+docidentifier:
+- content: NBS SP 737
+  type: NIST
+  primary: true
+- content: NBS.SP.737
+  type: DOI
+date:
+- type: issued
+  at: '1987'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rumble, John, Jr.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sibley, Lewis.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88263474
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: '737'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

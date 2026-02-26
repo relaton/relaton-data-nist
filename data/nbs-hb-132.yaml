@@ -1,0 +1,81 @@
+---
+id: NBSHB132
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Energy conservation in buildings
+  type: title-main
+- language: en
+  script: Latn
+  content: an economics guidebook for investment decisions
+  type: title-part
+- language: en
+  script: Latn
+  content: Energy conservation in buildings - an economics guidebook for investment
+    decisions
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.HB.132
+docidentifier:
+- content: NBS HB 132
+  type: NIST
+  primary: true
+- content: NBS.HB.132
+  type: DOI
+date:
+- type: issued
+  at: '1980'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Marshall, Harold E.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80023801
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ruegg, Rosalie T.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80086288
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS handbook; NBS HB
+  number: '132'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

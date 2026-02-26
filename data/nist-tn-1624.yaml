@@ -1,0 +1,62 @@
+---
+id: NISTTN1624
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Stairwell evacuation from buildings
+  type: title-main
+- language: en
+  script: Latn
+  content: what we know we don't know
+  type: title-part
+- language: en
+  script: Latn
+  content: Stairwell evacuation from buildings - what we know we don't know
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1624
+docidentifier:
+- content: NIST TN 1624
+  type: NIST
+  primary: true
+- content: NIST.TN.1624
+  type: DOI
+date:
+- type: issued
+  at: '2009'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Peacock, Richard D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79111603
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1624'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

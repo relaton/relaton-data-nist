@@ -1,0 +1,99 @@
+---
+id: NISTIR8469
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Laser tracker interim testing per the ASME B89.4.19-2021 and ISO 10360-10:2021
+    standards
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8469
+docidentifier:
+- content: NIST IR 8469
+  type: NIST
+  primary: true
+- content: NIST.IR.8469
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Motta de Souza, Marcos
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0006-0564-902X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Muralikrishnan, Bala
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-0313-9708"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lee, Vincent
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-2953-6322"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sawyer, Daniel
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0009-2407-6708"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Physical Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The recently revised ASME B89.4.19-2021 and ISO 10360-10:2021 standards
+    for laser trackers include a new interim test that is comprehensive and more sensitive
+    to systematic errors than the interim tests in the previous versions of the standards,
+    i.e., the ASME B89.4.19-2006 and ISO 10360-10:2016. This interim test can be performed
+    by users periodically in the field to assess the health of their trackers. There
+    are two components to this interim test – the first is designed to detect geometric
+    errors in laser trackers while the second is designed to assess the performance
+    of the inclination sensor. In this report, we present an overview of the interim
+    test for geometry errors, describe four methods of realizing the test, present
+    performance evaluation data on a laser tracker from the different methods, and
+    compare the methods in terms of their advantages and disadvantages.
+series:
+- title:
+  - content: NISTIR
+  number: '8469'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8469'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

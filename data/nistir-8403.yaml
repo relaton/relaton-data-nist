@@ -1,0 +1,61 @@
+---
+id: NISTIR8403
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Blockchain for access control systems
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8403
+docidentifier:
+- content: NIST IR 8403
+  type: NIST
+  primary: true
+- content: NIST.IR.8403
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hu, Vincent C.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: The rapid development and wide application of distributed network systems
+    have made network security especially access control and data privacy ever more
+    important. Blockchain technology offers features such as decentralization, high
+    confidence, and tamper-resistance, which are advantages to solving auditability,
+    resource consumption, scalability, central authority, and trust issues all of
+    which are challenges for network access control by traditional mechanisms. This
+    document presents general information for blockchain access control systems from
+    the views of blockchain system properties, components, functions, and supports
+    for access control policy models. Considerations for implementing blockchain access
+    control systems are also included.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8403'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

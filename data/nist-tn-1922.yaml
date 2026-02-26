@@ -1,0 +1,83 @@
+---
+id: NISTTN1922
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Implementation guidelines for executive order 13717: establishing a federal
+    earthquake risk management standard'
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1922
+docidentifier:
+- content: NIST TN 1922
+  type: NIST
+  primary: true
+- content: NIST.TN.1922
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hayes Jr., John R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McCabe, S. L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n96014692
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mahoney, Michael.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2010003911
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: Executive Order 13717 signed by President Obama on 2-2-2016 required NIST
+    to draft Implementation Guidelines for Federal agencies to implement the requirements
+    of the EO. This document provides suggested approaches for agencies to address
+    the EO requirements - the document is advisory only. The Guidelines have been
+    extensively reviewed by NIST technical staff, NIST Counsel, the Federal agencies
+    represented on the Interagency Committee on Seismic Safety in Construction (ICSSC),
+    the National Security Council technical staff and Council's office. A formal Critical
+    Infrastructure Security and Resilience (CISR) review was conducted in November.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1922'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

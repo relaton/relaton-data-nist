@@ -1,0 +1,55 @@
+---
+id: NBSTN397
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Tabulated values of cavitation B-factor for helium, H2, N2, F2, O2, refrigerant
+    114, and H2O
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.TN.397
+docidentifier:
+- content: NBS TN 397
+  type: NIST
+  primary: true
+- content: NBS.TN.397
+  type: DOI
+date:
+- type: issued
+  at: '1971'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hord, J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81103505
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS technical note; NBS tech note; NBS TN
+  number: '397'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

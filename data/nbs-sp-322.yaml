@@ -1,0 +1,74 @@
+---
+id: NBSSP322
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Photonuclear data index, January 1965 through January 1970
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.322
+docidentifier:
+- content: NBS SP 322
+  type: NIST
+  primary: true
+- content: NBS.SP.322
+  type: DOI
+date:
+- type: issued
+  at: '1970'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fuller, Everett Gladding,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83061711
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gerstenberg, H. M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79107096
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Collins, T. M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022000157
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: '322'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

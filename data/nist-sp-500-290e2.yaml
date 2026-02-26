@@ -1,0 +1,69 @@
+---
+id: NISTSP500290e2
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Information technology
+  type: title-main
+- language: en
+  script: Latn
+  content: American National Standard for Information Systems - data format for the
+    interchange of fingerprint, facial [and] other biometric information
+  type: title-part
+- language: en
+  script: Latn
+  content: Information technology - American National Standard for Information Systems
+    - data format for the interchange of fingerprint, facial [and] other biometric
+    information
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.500-290e2
+docidentifier:
+- content: NIST SP 500-290e2
+  type: NIST
+  primary: true
+- content: NIST.SP.500-290e2
+  type: DOI
+date:
+- type: issued
+  at: '2015'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mangold, Kevin.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020151052
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: The 2015 update to the ANSI/NIST-ITL standard.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 500-290e3
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

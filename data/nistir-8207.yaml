@@ -1,0 +1,86 @@
+---
+id: NISTIR8207
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IREX IX part one
+  type: title-main
+- language: en
+  script: Latn
+  content: performance of iris recognition algorithms
+  type: title-part
+- language: en
+  script: Latn
+  content: IREX IX part one - performance of iris recognition algorithms
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8207
+docidentifier:
+- content: NIST IR 8207
+  type: NIST
+  primary: true
+- content: NIST.IR.8207
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Quinn, George W.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84098146
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grother, Patrick J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2005043592
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Matey, James.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'Iris Exchange (IREX) IX is an evaluation of automated iris recognition
+    algorithms. The first part of the evaluation is a performance test of both verification
+    (one-to-one) and identification (one-to-many) recognition algorithms over operational
+    test data. The results are summarized in this report. Thirteen developers submitted
+    recognition algorithms for testing, more than any previous IREX evaluation. Performance
+    was measured for 46 matching algorithms over a set of approximately 700K field-collected
+    iris images. This report is very similar to IREX IV: Part 1, Evaluation of Iris
+    Identification Algorithms in both format and scope.'
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8207'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

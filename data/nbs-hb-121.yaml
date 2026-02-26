@@ -1,0 +1,72 @@
+---
+id: NBSHB121
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Waste heat management guidebook
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.HB.121
+docidentifier:
+- content: NBS HB 121
+  type: NIST
+  primary: true
+- content: NBS.HB.121
+  type: DOI
+date:
+- type: issued
+  at: '1977'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kreider, Kenneth G.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88077315
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McNeil, Michael B. (Michael Brewer),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n90660872
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS handbook; NBS HB
+  number: '121'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

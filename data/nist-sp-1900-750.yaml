@@ -1,0 +1,82 @@
+---
+id: NISTSP1900750
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The transactive energy abstract component model
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1900-750
+docidentifier:
+- content: NIST SP 1900-750
+  type: NIST
+  primary: true
+- content: NIST.SP.1900-750
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Burns, Martin.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97033846
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Song, Eugene.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Holmberg, David.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-1738-8190"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: The transactive energy (TE) abstract component model ('Model') was the
+    product of a tiger team effort engaged by the National Institute of Standards
+    and Technology (NIST), Pacific Northwest National Lab (PNNL), Vanderbilt University,
+    and Carnegie Mellon University during the summer of 2016 in support of the NIST
+    Transactive Energy Challenge. The purpose of this activity was to distill from
+    the collective experience of the participants an abstract model of a transactive
+    energy system consisting of an energy grid, loads, generators, controllers, and
+    transactive agents.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1900-750
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,83 @@
+---
+id: NISTSP260128
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Standard reference materials
+  type: title-main
+- language: en
+  script: Latn
+  content: transmission filters with measured optical density at 1064 nm wavelength
+    - SRMs 2046, 2047, 2048, 2049, 2050, and 2051
+  type: title-part
+- language: en
+  script: Latn
+  content: Standard reference materials - transmission filters with measured optical
+    density at 1064 nm wavelength - SRMs 2046, 2047, 2048, 2049, 2050, and 2051
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-128
+docidentifier:
+- content: NIST SP 260-128
+  type: NIST
+  primary: true
+- content: NIST.SP.260-128
+  type: DOI
+date:
+- type: issued
+  at: '1998'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Datla, Raju Umapathi.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n94100713
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gentile, Thomas R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022012534
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zhang, Zhuomin M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2006095902
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 260-128
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

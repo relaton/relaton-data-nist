@@ -1,0 +1,100 @@
+---
+id: NISTTN2026
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A framework for measuring the impact of wildland-urban interface fires
+    on a regional economy
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2026
+docidentifier:
+- content: NIST TN 2026
+  type: NIST
+  primary: true
+- content: NIST.TN.2026
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Butry, David T.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021107278
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Webb, David H.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2010009343
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: O'Fallon, Cheyney M.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cutler, Harvey.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: This report develops an approach to evaluate the direct and indirect impacts
+    from wildland-urban interface (WUI) fires that result in the loss of functionality
+    of the built environment, for a regional economy. While direct losses from WUI
+    fires are largely observable, needed is a mechanism to evaluate how these indirectly
+    affect other sectors of the economy. The approach is designed to quantify the
+    total impacts (both direct and indirect) from WUI fire due to a loss of functionality
+    of assets (e.g., structures) directly impacted in a regional economy, and provides
+    a mechanism to systematically quantify the interplay between direct and indirect
+    economic impacts. The use of a computable general equilibrium (CGE) model allows
+    for simulation of various possible economic shocks resulting from the temporary
+    or permanent loss of the built environment. It also allows for behavioral changes
+    of the local population due to fire risk (e.g., changes in preferences). The output
+    from such an approach will facilitate a better understanding of the potential
+    vulnerabilities within a community. For example, the approach will identify thresholds
+    of functionality that if exceeded would result in catastrophic loss. In addition,
+    simulation of risk mitigation scenarios (allowing for a resilience in functionality)
+    could be used to determine optimal intervention strategies. Combined with intervention
+    cost data and cost-effective risk mitigation strategies could be identified.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2026'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

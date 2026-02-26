@@ -1,0 +1,95 @@
+---
+id: NISTSP772
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Intelligent processing for primary metals
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.772
+docidentifier:
+- content: NIST SP 772
+  type: NIST
+  primary: true
+- content: NIST.SP.772
+  type: DOI
+date:
+- type: issued
+  at: '1989'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cramb, A. (Alan W.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no90002802
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Eckhart, W.E., Jr.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Watanapongse, D.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Early, J.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kor, J.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sussman, R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Clark, A. V., Jr.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '772'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

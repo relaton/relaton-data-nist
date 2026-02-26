@@ -1,0 +1,51 @@
+---
+id: NBSMP117
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Units used to express the wave lengths of electromagnetic waves
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.MP.117
+docidentifier:
+- content: NBS MP 117
+  type: NIST
+  primary: true
+- content: NBS.MP.117
+  type: DOI
+date:
+- type: issued
+  at: '1930'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hubbard, Henry D.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS miscellaneous publication; NBS miscellaneous pub; NBS MP
+  number: '117'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

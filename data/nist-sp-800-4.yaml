@@ -1,0 +1,78 @@
+---
+id: NISTSP8004
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Computer security considerations in federal procurements
+  type: title-main
+- language: en
+  script: Latn
+  content: a guide for procurement initiators, contracting officers, and computer
+    security officials
+  type: title-part
+- language: en
+  script: Latn
+  content: Computer security considerations in federal procurements - a guide for
+    procurement initiators, contracting officers, and computer security officials
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-4
+docidentifier:
+- content: NIST SP 800-4
+  type: NIST
+  primary: true
+- content: NIST.SP.800-4
+  type: DOI
+date:
+- type: issued
+  at: '1992'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Guttman, Barbara.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n92114452
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: This NIST Special Publication provides guidance for federal procurement
+    initiators, contracting officers, and computer security officials on including
+    computer security in acquisitions. To accomplish this goal, computer security
+    and federal information processing (FIP) procurement must be integrated. Computer
+    security is the protection of the integrity, availability and confidentiality
+    of automated information and the resources used to enter, store, process, and
+    communicate the information. Computer security shares properties with systems/software
+    engineering including trustworthiness, system safety, and reliability. FIP procurement
+    is the process of acquiring hardware, software, firmware, computer-related services
+    and telecommunications. FIP procurement begins with the process of determining
+    needs and ends with contract completion.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-4
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

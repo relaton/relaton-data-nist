@@ -1,0 +1,71 @@
+---
+id: NISTSP80038AAdd
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Recommendation for block cipher modes of operation
+  type: title-main
+- language: en
+  script: Latn
+  content: three variants of ciphertext stealing for CBC mode
+  type: title-part
+- language: en
+  script: Latn
+  content: Recommendation for block cipher modes of operation - three variants of
+    ciphertext stealing for CBC mode
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-38a-add
+docidentifier:
+- content: NIST SP 800-38A Add.
+  type: NIST
+  primary: true
+- content: NIST.SP.800-38a-add
+  type: DOI
+date:
+- type: issued
+  at: '2010'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dworkin, M. J.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: A limitation to Cipher Block Chaining (CBC) mode, as specified in NIST
+    Special Publication 800-38A, is that the plaintext input must consist of a sequence
+    of blocks. Ciphertext stealing is a padding method in which the required padding
+    bits are stolen from the penultimate ciphertext block. This addendum to SP 800-38A
+    specifies three variants of CBC mode with ciphertext stealing. These variants,
+    which differ only in the ordering of the ciphertext bits, can encrypt any input
+    whose bit length is greater than or equal to the block size. Unlike conventional
+    padding methods, these variants do not expand the length of the data.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-38a-add
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

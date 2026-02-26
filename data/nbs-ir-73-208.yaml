@@ -1,0 +1,74 @@
+---
+id: NBSIR73208
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Residential buildings and gas-related explosions
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IR.73-208
+docidentifier:
+- content: NBS IR 73-208
+  type: NIST
+  primary: true
+- content: NBS.IR.73-208
+  type: DOI
+date:
+- type: issued
+  at: '1973'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Burnett, E. F. P. (Eric F. P.),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n87806437
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Somes, N. F.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021054613
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Leyendecker, Edgar V.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50051472
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBSIR; NBS IR; NBS interagency report; NBS internal report
+  number: 73-208
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

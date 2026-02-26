@@ -1,0 +1,63 @@
+---
+id: NISTIR4868
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Interim report
+  type: title-main
+- language: en
+  script: Latn
+  content: preliminary sitewide survey of reinforced concrete structural deterioration
+    at NIST
+  type: title-part
+- language: en
+  script: Latn
+  content: Interim report - preliminary sitewide survey of reinforced concrete structural
+    deterioration at NIST
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.4868
+docidentifier:
+- content: NIST IR 4868
+  type: NIST
+  primary: true
+- content: NIST.IR.4868
+  type: DOI
+date:
+- type: issued
+  at: '1992'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Knab, Lawrence I.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80071024
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '4868'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

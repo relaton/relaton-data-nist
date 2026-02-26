@@ -1,0 +1,71 @@
+---
+id: NISTBSS174
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Extreme distribution tails
+  type: title-main
+- language: en
+  script: Latn
+  content: a 'peaks over threshold' approach
+  type: title-part
+- language: en
+  script: Latn
+  content: Extreme distribution tails - a 'peaks over threshold' approach
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.BSS.174
+docidentifier:
+- content: NIST BSS 174
+  type: NIST
+  primary: true
+- content: NIST.BSS.174
+  type: DOI
+date:
+- type: issued
+  at: '1995'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Simiu, Emil.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79085114
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Heckert, N. A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n96018967
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NBS building science series; NBS building science; NBS BSS
+  number: '174'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

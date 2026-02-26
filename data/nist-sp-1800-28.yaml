@@ -1,0 +1,101 @@
+---
+id: NISTSP180028
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Data confidentiality
+  type: title-main
+- language: en
+  script: Latn
+  content: 'identifying and protecting assets against data breaches: includes executive
+    summary (A); approach, architecture, and security characteristics (B); and how-to
+    guides (C)'
+  type: title-part
+- language: en
+  script: Latn
+  content: 'Data confidentiality - identifying and protecting assets against data
+    breaches: includes executive summary (A); approach, architecture, and security
+    characteristics (B); and how-to guides (C)'
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1800-28
+docidentifier:
+- content: NIST SP 1800-28
+  type: NIST
+  primary: true
+- content: NIST.SP.1800-28
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fisher, William.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Craft, R. Eugene.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ekstrom, Michael.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sexton, Julian.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sweetnam, John.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: National Cybersecurity Center of Excellence.
+abstract:
+- language: en
+  script: Latn
+  content: Attacks that target data are of concern to companies and organizations
+    across many industries. Data breaches represent a threat that can have monetary,
+    reputational, and legal impacts. This guide seeks to provide guidance concerning
+    the threat of data breaches, exemplifying standards and technologies that are
+    useful for a variety of organizations defending against this threat. Specifically,
+    this guide seeks to help organizations identify and protect assets, including
+    data, against a data confidentiality attack.
+series:
+- title:
+  - content: NIST special publication
+  number: 1800-28
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1800-28
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

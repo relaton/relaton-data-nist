@@ -1,0 +1,87 @@
+---
+id: NISTSP120014
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Reliable preparation of nanoparticle agglomerates of different sizes in
+    cell culture media of silver nanoparticle dissolution in complex biological and
+    environmental matrices using UV/visible absorbance measurements
+  type: title-main
+- language: en
+  script: Latn
+  content: version 1.0
+  type: title-part
+- language: en
+  script: Latn
+  content: Reliable preparation of nanoparticle agglomerates of different sizes in
+    cell culture media of silver nanoparticle dissolution in complex biological and
+    environmental matrices using UV/visible absorbance measurements - version 1.0
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1200-14
+docidentifier:
+- content: NIST SP 1200-14
+  type: NIST
+  primary: true
+- content: NIST.SP.1200-14
+  type: DOI
+date:
+- type: issued
+  at: '2015'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zook, Justin M.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: MacCuspie, Robert I.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Elliott, John T.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Petersen, Elijah J. (Elijah Joel)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022070892
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Material Measurement Laboratory (U.S.).
+    - content: Biosystems and Biomaterials Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012096740
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1200-14
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

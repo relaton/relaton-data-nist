@@ -1,0 +1,53 @@
+---
+id: NISTIR6017
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Optical pattern recognition with microlasers
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.6017
+docidentifier:
+- content: NIST IR 6017
+  type: NIST
+  primary: true
+- content: NIST.IR.6017
+  type: DOI
+date:
+- type: issued
+  at: '1998'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Paek, Eung Gi.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no98105096
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '6017'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

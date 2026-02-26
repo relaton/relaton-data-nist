@@ -1,0 +1,92 @@
+---
+id: NISTIR8202
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Blockchain technology overview
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8202
+docidentifier:
+- content: NIST IR 8202
+  type: NIST
+  primary: true
+- content: NIST.IR.8202
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yaga, Dylan.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2011141697
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mell, Peter.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-2938-897X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Roby, Nik.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, Karen.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-6334-9486"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: Blockchains are tamper evident and tamper resistant digital ledgers implemented
+    in a distributed fashion (i.e., without a central repository) and usually without
+    a central authority (i.e., a bank, company, or government). At their basic level,
+    they enable a community of users to record transactions in a shared ledger within
+    that community, such that under normal operation of the blockchain network no
+    transaction can be changed once published. This document provides a high-level
+    technical overview of blockchain technology. The purpose is to help readers understand
+    how blockchain technology works.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8202'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,52 @@
+---
+id: NBSRPT10608
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Brooks Bill issue study of the National Bureau of Standards
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.RPT.10608
+docidentifier:
+- content: NBS RPT 10608
+  type: NIST
+  primary: true
+- content: NBS.RPT.10608
+  type: DOI
+date:
+- type: issued
+  at: '1971'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Center for Computer Sciences and Technology.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50077973
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS report
+  number: '10608'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

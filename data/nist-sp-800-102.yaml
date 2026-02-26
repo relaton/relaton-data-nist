@@ -1,0 +1,64 @@
+---
+id: NISTSP800102
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Recommendation for digital signature timeliness
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-102
+docidentifier:
+- content: NIST SP 800-102
+  type: NIST
+  primary: true
+- content: NIST.SP.800-102
+  type: DOI
+date:
+- type: issued
+  at: '2009'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barker, E. B.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nb2015019673
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: Establishing the time when a digital signature was generated is often a
+    critical consideration. A signed message that includes the (purported) signing
+    time provides no assurance that the private key was used to sign the message at
+    that time unless the accuracy of the time can be trusted. With the appropriate
+    use of digital signature-based timestamps from a Trusted Timestamp Authority (TTA)
+    and/or verifier-supplied data that is included in the signed message, the signatory
+    can provide some level of assurance about the time that the message was signed.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-102
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

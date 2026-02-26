@@ -1,0 +1,72 @@
+---
+id: NISTGCR15982
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST WUI project
+  type: title-main
+- language: en
+  script: Latn
+  content: MLB SUPERBAT unmanned aerial vehicle system user manual
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST WUI project - MLB SUPERBAT unmanned aerial vehicle system user manual
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.GCR.15-982
+docidentifier:
+- content: NIST GCR 15-982
+  type: NIST
+  primary: true
+- content: NIST.GCR.15-982
+  type: DOI
+date:
+- type: issued
+  at: '2015'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hennig, Mike.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022028255
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jackson, Karen.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81064059
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+series:
+- title:
+  - content: NIST GCR; NIST grant-contract report; NIST grant contract report
+  number: 15-982
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,69 @@
+---
+id: NISTIR8069
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Systemic measurement of marginal mark types on voting ballots
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8069
+docidentifier:
+- content: NIST IR 8069
+  type: NIST
+  primary: true
+- content: NIST.IR.8069
+  type: DOI
+date:
+- type: issued
+  at: '2015'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bajcsy, Andrea.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Li-Baboud, Ya-Shian.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brady, Mary.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84064795
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
+    - content: Software and Systems Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8069'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

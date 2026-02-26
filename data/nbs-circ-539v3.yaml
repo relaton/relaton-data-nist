@@ -1,0 +1,78 @@
+---
+id: NBSCIRC539v3
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Circular of the Bureau of Standards no. 539 volume 3
+  type: title-main
+- language: en
+  script: Latn
+  content: standard x-ray diffraction powder patterns
+  type: title-part
+- language: en
+  script: Latn
+  content: Circular of the Bureau of Standards no. 539 volume 3 - standard x-ray diffraction
+    powder patterns
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.CIRC.539v3
+docidentifier:
+- content: NBS CIRC 539v3
+  type: NIST
+  primary: true
+- content: NBS.CIRC.539v3
+  type: DOI
+date:
+- type: issued
+  at: '1954'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Swanson, Howard E. (Howard Eugene),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84046753
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ugrinic, George M.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: National Bureau of Standards circular
+  number: 539v3
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

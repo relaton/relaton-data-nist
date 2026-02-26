@@ -1,0 +1,81 @@
+---
+id: NBSRPT9448
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Effects of spin relaxation on the EPR spectrum of gaseous N atoms
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.RPT.9448
+docidentifier:
+- content: NBS RPT 9448
+  type: NIST
+  primary: true
+- content: NBS.RPT.9448
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brown, Robert L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2021046956
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: Experimental evidence is presented which indicates that N atoms produced
+    in a flow system by a microwave discharge through purified N2 have a 'spin-lattice'
+    relaxation time T1 of the order of 25 msec. In a fast flow system, the residence
+    time of the atoms in the EPR magnet can easily be shorter than this. As a result,
+    atoms which are generated outside of the magnet may arrive at the microwave cavity
+    before they have had time to reach their equilibrium magnetization. Addition to
+    the discharged gas of as little as 10 p.p.m. 02 (which did not affect the N atom
+    concentration) decreased the spin relaxation time, and led to increases as great
+    as 7-fold in the N atom EPR signal. Because of the long relaxation time it was
+    necessary to work at the low microwave power level of 0.006 uW to avoid saturation
+    effects. Power saturation was governed primarily by the rate at which unsaturated
+    atoms entered the cavity and not by collision relaxation processes. Interpretation
+    of the effects of 02 addition in terms of a two level spin model allowed us to
+    estimate a value of ~1.5 x 10^-15 cm^2 for the spin exchange cross section for
+    N-02 collisions. Several qualitative observations regarding the nitrogen pink
+    afterglow, electron production, and the effects of N0 addition are also reported.
+series:
+- title:
+  - content: NBS report
+  number: '9448'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

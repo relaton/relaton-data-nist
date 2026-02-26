@@ -1,0 +1,78 @@
+---
+id: NISTSP500273v2
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: USGv6 test methods
+  type: title-main
+- language: en
+  script: Latn
+  content: general description and validation-version 2.0
+  type: title-part
+- language: en
+  script: Latn
+  content: USGv6 test methods - general description and validation-version 2.0
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.500-273v2
+docidentifier:
+- content: NIST SP 500-273v2
+  type: NIST
+  primary: true
+- content: NIST.SP.500-273v2
+  type: DOI
+date:
+- type: issued
+  at: '2009'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nightingale, Stephen.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022064507
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Johnson, Erica.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2002095108
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Winters, Timothy.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 500-273v2
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

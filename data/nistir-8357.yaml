@@ -1,0 +1,76 @@
+---
+id: NISTIR8357
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Evaluation of experimental and predicted vapor-liquid equilibrium data
+    for systems relevant to biomass fast pyrolysis and catalytic upgrading
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8357
+docidentifier:
+- content: NIST IR 8357
+  type: NIST
+  primary: true
+- content: NIST.IR.8357
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Paulechka, Eugene.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Diky, Vladimir.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dutta, Abhijit.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The experimental vapor-liquid equilibrium (VLE) data for the binaries relevant
+    to the catalytic fast pyrolysis of biomass have been collected and analyzed using
+    the NIST-COSMO-SAC and NIST-modified UNIFAC models. The existing inconsistencies
+    in the experimental data and the predicted values are discussed. For VLE with
+    furan derivatives, PTxy data are normally reported, which are in good agreement
+    with the predicted values. For phenolic compounds, the gas phase compositions
+    are available for only 36 % of the points, most results originate from a few laboratories,
+    and each system has been typically studied in a single laboratory. The binaries
+    are identified where more experimental VLE data are required to evaluate quality
+    of the existing experimental and predicted results.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8357'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,97 @@
+---
+id: NISTIR8016
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A proposed interim check for field testing a laser tracker's 3-D length
+    measurement capability using a calibrated scale bar as a reference artifact
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8016
+docidentifier:
+- content: NIST IR 8016
+  type: NIST
+  primary: true
+- content: NIST.IR.8016
+  type: DOI
+date:
+- type: issued
+  at: '2014'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lee, Vincent D.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Blackburn, Christopher.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2016128033
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Muralikrishnan, Bala.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nb2009003147
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sawyer, Daniel.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2004066165
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Meruet, Mark.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hudlemeyer, Aaron.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.)).
+    - content: Semiconductor and Dimensional Metrology Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2019028800
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8016'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

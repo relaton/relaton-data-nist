@@ -1,0 +1,94 @@
+---
+id: NISTSP180011
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Data integrity
+  type: title-main
+- language: en
+  script: Latn
+  content: recovering from ransomware and other destructive events
+  type: title-part
+- language: en
+  script: Latn
+  content: Data integrity - recovering from ransomware and other destructive events
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1800-11
+docidentifier:
+- content: NIST SP 1800-11
+  type: NIST
+  primary: true
+- content: NIST.SP.1800-11
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Townsend, Anne R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McBride, Timothy J.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lusty, Lauren N.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sexton, Julian T.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ekstrom, Michael R.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Cybersecurity Center of Excellence (U.S.)
+abstract:
+- language: en
+  script: Latn
+  content: Businesses face a near-constant threat of destructive malware, ransomware,
+    malicious insider activities, and even honest mistakes that can alter or destroy
+    critical data. These data corruption events could cause a significant loss to
+    a company s reputation, business operations, and bottom line. These types of adverse
+    events, that ultimately impact data integrity, can compromise critical corporate
+    information including emails, employee records, financial records, and customer
+    data. It is imperative for organizations to recover quickly from a data integrity
+    attack and trust the accuracy and precision of the recovered data.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1800-11
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

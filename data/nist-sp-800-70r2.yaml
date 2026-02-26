@@ -1,0 +1,104 @@
+---
+id: NISTSP80070r2
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: National checklist program for IT products
+  type: title-main
+- language: en
+  script: Latn
+  content: guidelines for checklist users and developers
+  type: title-part
+- language: en
+  script: Latn
+  content: National checklist program for IT products - guidelines for checklist users
+    and developers
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-70r2
+docidentifier:
+- content: NIST SP 800-70r2
+  type: NIST
+  primary: true
+- content: NIST.SP.800-70r2
+  type: DOI
+date:
+- type: issued
+  at: '2011'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Quinn (S.D.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012055634
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Souppaya, M. P.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cook, M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nb2003008265
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, K. A.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Quinn (S.D.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012055634
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: Special Publication 800-70 Revision 2, National Checklist Program for IT
+    Products Guidelines for Checklist Users and Developers, describes security configuration
+    checklists and their benefits, and it explains how to use the NIST National Checklist
+    Program (NCP) to find and retrieve checklists. The publication also describes
+    the policies, procedures, and general requirements for participation in the NCP.
+    SP 800-70 Revision 2 updates the previous version of the document, which was released
+    in 2009, primarily by adding additional SCAP-oriented guidance and content related
+    to the United States Government Configuration Baseline (USGCB).
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-70r2
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

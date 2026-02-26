@@ -1,0 +1,76 @@
+---
+id: NISTTN1984
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The influence of walls, corners and enclosures on fire plumes
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1984
+docidentifier:
+- content: NIST TN 1984
+  type: NIST
+  primary: true
+- content: NIST.TN.1984
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McGrattan, Kevin.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Selepak, Michael.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hnetkovsky, Edward.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: This report documents two series of compartment fire experiments in which
+    a natural gas burner is positioned in a corner, or against a wall, or inside a
+    steel cabinet, to assess the effects on the plume and compartment temperatures.
+    The measurements consist of one dimensional vertical thermocouple arrays to measure
+    the hot gas layer temperature and height, and a three dimensional thermocouple
+    array to measure the temperature of the fire plume as the burner is moved away
+    from the corner or wall. The primary purpose of the experiments is to provide
+    validation data for fire modeling analyses of these effects.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1984'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

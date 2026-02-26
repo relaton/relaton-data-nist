@@ -1,0 +1,75 @@
+---
+id: NISTIR8174
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Industrial wireless systems workshop proceedings
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8174
+docidentifier:
+- content: NIST IR 8174
+  type: NIST
+  primary: true
+- content: NIST.IR.8174
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Candell Jr., Richard.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Candell, Richard.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: 'Background: Wireless technology has great appeals to many manufacturers,
+    in this case industrial automation systems, which include process control, discrete
+    manufacturing, safety systems, and building automation. Applying wireless sensing
+    and control technologies in new or existing systems for monitoring and controlling
+    equipment and processes eliminates costly cabling and enables configuration flexibility.
+    In addition, using wireless technologies can improve plant-floor operating conditions,
+    performance, and efficiency. But before applying these technologies, companies
+    need to determine what wireless technology will be suitable and reliably operate
+    to communicate measurement and control data in challenging industrial environments
+    with many potential physical obstructions and sources of interference. Purpose:
+    To explore latest and future wireless technologies for establishing best practice
+    guidelines to help manufacturers and users make confident decisions in selecting
+    and applying appropriate wireless technologies for their plants or factories based
+    on their operating requirements and environments.'
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8174'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

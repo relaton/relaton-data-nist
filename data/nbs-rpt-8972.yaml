@@ -1,0 +1,62 @@
+---
+id: NBSRPT8972
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Earth temperature and thermal diffusivity at selected stations in the United
+    States
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.RPT.8972
+docidentifier:
+- content: NBS RPT 8972
+  type: NIST
+  primary: true
+- content: NBS.RPT.8972
+  type: DOI
+date:
+- type: issued
+  at: '1965'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kusuda, T.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Achenbach, Paul R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79092592
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS report
+  number: '8972'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

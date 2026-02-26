@@ -1,0 +1,100 @@
+---
+id: NISTIR8212
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: ISCMA
+  type: title-main
+- language: en
+  script: Latn
+  content: an Information Security Continuous Monitoring program assessment
+  type: title-part
+- language: en
+  script: Latn
+  content: ISCMA - an Information Security Continuous Monitoring program assessment
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8212
+docidentifier:
+- content: NIST IR 8212
+  type: NIST
+  primary: true
+- content: NIST.IR.8212
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dempsey, Kelley.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pillitteri, Victoria.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Baer, Chad.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rudman, Ron.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Niemeyer, Robert.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Urban, Susan.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This publication describes an example methodology for assessing an organization's
+    Information Security Continuous Monitoring (ISCM) program. It was developed directly
+    from NIST guidance and is applicable to any organization, public or private. It
+    can be used as documented or as the starting point for a different methodology.
+    Included with the methodology is a reference implementation that is directly usable
+    for conducting an ISCM assessment.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8212'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

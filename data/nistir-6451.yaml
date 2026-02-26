@@ -1,0 +1,71 @@
+---
+id: NISTIR6451
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST Standard Reference Materials program
+  type: title-main
+- language: en
+  script: Latn
+  content: FY 2000 SRM project plans
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST Standard Reference Materials program - FY 2000 SRM project plans
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.6451
+docidentifier:
+- content: NIST IR 6451
+  type: NIST
+  primary: true
+- content: NIST.IR.6451
+  type: DOI
+date:
+- type: issued
+  at: '1999'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gettings, R. J. (Robert J.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022012563
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Trahey, N. M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n94006824
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '6451'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

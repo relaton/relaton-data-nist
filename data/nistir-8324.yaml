@@ -1,0 +1,124 @@
+---
+id: NISTIR8324
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 2018 Media Forensics Challenges (MFC18)
+  type: title-main
+- language: en
+  script: Latn
+  content: summary and results
+  type: title-part
+- language: en
+  script: Latn
+  content: 2018 Media Forensics Challenges (MFC18) - summary and results
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8324
+docidentifier:
+- content: NIST IR 8324
+  type: NIST
+  primary: true
+- content: NIST.IR.8324
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lee, Yooyoung.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yates, Amy N.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-1250-1967"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Guan, Haiying.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1461-265X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Delgado, Andrew.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zhou, Daniel.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kheyrkhah, Timothee.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fiscus, Jonathan.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The interest in forensic techniques capable of detecting many different
+    media manipulation types has been growing, and system development with machine
+    learning technology has been evolving in recent years. There has been, however,
+    a lack of diversity in the data collections and in the evaluation methodologies
+    for advancing multimedia forensics technologies. For the forensics research community,
+    a well-defined evaluation is necessary to rapidly measure the accuracy and robustness
+    of systems over diverse datasets collected under various environments. In this
+    paper, we propose an evaluation framework and associated performance metrics and
+    apply them to the 2018 Multimedia Forensics Challenge (MFC18). This MFC18 evaluation
+    consists of five tasks and two challenges. A large number of datasets were created
+    to support each task and for conducting the experiments using a structured evaluation
+    framework. A total of 25 teams participated in the MFC18 evaluation; we analyse
+    their performance on the tasks and challenges, and provide performance rankings
+    for each team’s best-performing system.
+series:
+- title:
+  - content: NISTIR
+  number: '8324'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8324'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

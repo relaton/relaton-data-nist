@@ -1,0 +1,62 @@
+---
+id: NBSMONO27sup1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Bibliography of temperature measurement
+  type: title-main
+- language: en
+  script: Latn
+  content: July 1960 to December 1962
+  type: title-part
+- language: en
+  script: Latn
+  content: Bibliography of temperature measurement - July 1960 to December 1962
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.MONO.27supp1
+docidentifier:
+- content: NBS MONO 27sup1
+  type: NIST
+  primary: true
+- content: NBS.MONO.27supp1
+  type: DOI
+date:
+- type: issued
+  at: '1963'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Halpern, Carl.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no00068691
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS monograph; NBS MONO
+  number: 27supp1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

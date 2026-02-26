@@ -1,0 +1,65 @@
+---
+id: NBSIR73209
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Survey of various approaches to the chemical analysis of environmentally
+    important materials
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IR.73-209
+docidentifier:
+- content: NBS IR 73-209
+  type: NIST
+  primary: true
+- content: NBS.IR.73-209
+  type: DOI
+date:
+- type: issued
+  at: '1973'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Greifer, Bernard.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021008385
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Taylor, John K. (John Keenan),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n85051338
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBSIR; NBS IR; NBS interagency report; NBS internal report
+  number: 73-209
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

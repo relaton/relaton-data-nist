@@ -1,0 +1,115 @@
+---
+id: NISTTN2070
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Development of a standard fire condition for a large compartment floor
+    assembly
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2070
+docidentifier:
+- content: NIST TN 2070
+  type: NIST
+  primary: true
+- content: NIST.TN.2070
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sauca, Ana.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zhang, Chao.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2001072344
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grosshandler, William Lytle.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n86864993
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Choe, Lisa.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021139159
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bundy, Matthew.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021146338
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: This report presents the experimental investigation of a test fire in a
+    large compartment of approximately 10 m wide, 7 m deep and 3.8 m high constructed
+    in the National Fire Research Laboratory of the National Institute of Standards
+    and Technology. The test fire condition, controlled by heat release rate of natural
+    gas as a fuel, thermal boundary properties of the compartment, and ventilation,
+    was designed to produce a uniform temperature condition in the upper layer of
+    the compartment which followed the ASTM E119 time-temperature curve. Three fire
+    tests were conducted with the same compartment and natural gas-fueled burners,
+    including two repeated 15 min burn tests and one long test with heating duration
+    of 75 min from ignition. Fire characteristics such as heat release rates, upper
+    layer gas temperatures across the compartment and heat fluxes were measured. The
+    measured average upper layer gas temperature was comparable with that prescribed
+    in ASTM E119 standard. The maximum absolute difference towards the end of the
+    long test was around 70 oC. The upper layer gas temperature was uniform with a
+    2% coefficient of variation at the end of the test. The area under time-temperature
+    curve, obtained by averaging the results from the readings, is within 2 % of the
+    corresponding area under the standard ASTM E119 time-temperature curve. The measured
+    peak heat flux towards the end of the long test was 175 kW/m2. The design procedure
+    for the test fire, instrumentation and measurements, and the experimental results
+    are presented.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2070'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

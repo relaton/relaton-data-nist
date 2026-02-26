@@ -1,0 +1,74 @@
+---
+id: NBSMONO88
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Heat treatment and properties of iron and steel
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.MONO.88
+docidentifier:
+- content: NBS MONO 88
+  type: NIST
+  primary: true
+- content: NBS.MONO.88
+  type: DOI
+date:
+- type: issued
+  at: '1966'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Digges, Thomas G. (Thomas Godwin),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no00051867
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rosenberg, Samuel J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n97118391
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Geil, Glenn W.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no00051869
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS monograph; NBS MONO
+  number: '88'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

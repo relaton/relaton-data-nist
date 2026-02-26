@@ -1,0 +1,93 @@
+---
+id: NBSRPT3921
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Liquid-vapor phase equilibrium in solutions of oxygen and nitrogen at pressures
+    below one atmosphere
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.RPT.3921
+docidentifier:
+- content: NBS RPT 3921
+  type: NIST
+  primary: true
+- content: NBS.RPT.3921
+  type: DOI
+date:
+- type: issued
+  at: '1955'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Armstrong, George Thomson,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81040759
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Goldstein, Jack M.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Roberts, D. Ellis.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: A cryostat and equilibrium vessel together with auxiliary apparatus for
+    establishing equilibrium between liquid and vapor phases of solutions of low boiling
+    material by a circulation method is described. The equilibrium vessel incorporates
+    a novel liquid sampling device. Vapor and liquid compositions and total vapor
+    pressures of solutions of oxygen and nitrogen were measured along isotherms at
+    77.5[degrees], 70[degrees] and 65[degrees]K. The activity coefficients of nitrogen
+    and oxygen may be represented by equations of the form [...] cal/cm^ mole has
+    the values 1.22 at 77.5[degrees], 1.38 at 70[degrees] and 1.47 at 65[degrees]K.
+    The deviations of the solutions from ideality are much less than is to be expected
+    of regular solutions, in which the interaction energy between unlike molecules
+    follows a geometric mean law. The data are not entirely consistent with the assumption
+    that molar volumes are additive in the solutions. In an appendix a study of the
+    vapor pressure of nitrogen is described.
+series:
+- title:
+  - content: NBS report
+  number: '3921'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

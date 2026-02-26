@@ -1,0 +1,130 @@
+---
+id: NISTTN2255
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Physical models and dimensional traceability of 2.4 mm coaxial airline
+    standards for determining systematic uncertainties of calibrated scattering-parameters
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2255
+docidentifier:
+- content: NIST TN 2255
+  type: NIST
+  primary: true
+- content: NIST.TN.2255
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jargon, Jeffrey A.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7897-6893"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Williams, Dylan F.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8271-1505"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Long, Christian J.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4927-7209"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hagerstrom,  Aaron M.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-4675-4636"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stelson, Angela C.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8900-140X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stoup, John R.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-3189-0889"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stanfield, Eric S.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ren, Wei.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Physical Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: In this report, we document the models and dimensional traceability of
+    our 2.4 mm coaxial airline standards for performing multiline thru-reflect-line
+    calibrations up to 50 GHz using vector network analyzers. We identify the equations
+    used in our models of the transmission-line standards and present a method for
+    determining a coaxial line’s metal conductivity using a closed-form solution relating
+    it to the propagation constant. Next, we provide details of the traceable dimensional
+    measurements and associated uncertainties of our 2.4 mm airline standards. And
+    finally, we describe how our software, the NIST Microwave Uncertainty Framework,
+    is used to implement physical models of calibration standards and propagate these
+    systematic uncertainties to the calibrated scattering-parameters of a device under
+    test. We include a measurement example for illustrative purposes.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2255'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

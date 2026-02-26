@@ -1,0 +1,54 @@
+---
+id: NSRDSNBS20
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Gas phase reaction kinetics of neutral oxygen species
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.NSRDS.20
+docidentifier:
+- content: NSRDS-NBS 20
+  type: NIST
+  primary: true
+- content: NBS.NSRDS.20
+  type: DOI
+date:
+- type: issued
+  at: '1968'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Johnston, Harold S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84800500
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NIST NSRDS; NSRDS-NIST; National standard reference data series
+  number: '20'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

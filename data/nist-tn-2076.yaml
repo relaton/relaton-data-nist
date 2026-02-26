@@ -1,0 +1,227 @@
+---
+id: NISTTN2076
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Channel sounder measurement verification
+  type: title-main
+- language: en
+  script: Latn
+  content: conducted tests
+  type: title-part
+- language: en
+  script: Latn
+  content: Channel sounder measurement verification - conducted tests
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2076
+docidentifier:
+- content: NIST TN 2076
+  type: NIST
+  primary: true
+- content: NIST.TN.2076
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Quimby, Jeanne.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jargon, Jeffrey A. (Jeffrey Arendt)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003080566
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Leonhardt, Rod.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rezac, Jacob D.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hale, Paul D.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Remley, Kate A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021143253
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Koepke, Amanda.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2016007331
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Streett, Sarah.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Johnk, Robert T.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2007055626
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hammerschmidt, Chriss.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McKenna, Paul.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n85006473
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stange, Irena.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chang, Mike,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003037227
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: DeMinco, N.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n86105911
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Diener, Joseph E.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Smith, Richard Chad.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hoyt, Christopher.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2019087156
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Springer, Sofia.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Communications Technology Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: Channel modeling often provides a basis for the design and deployment of
+    wireless technology. Engineers design systems to operate under certain expected
+    channel conditions. Channel models are typically based on the statistics of a
+    collection of many measurements performed by channel sounders in nominally similar
+    radio-propagation environments. Channel sounders measure characteristics of a
+    radio propagation channel such as path gain, decay time, and angular dispersion,
+    among other channel model metrics. The models developed from these measurements
+    are typically the first step in standardizing a new wireless technology. While
+    many such models currently exist, wireless technology for new use cases is constantly
+    under development, necessitating continued development of new and improved channel
+    models. For example, in the 3550 MHz to 3650 MHz (3.5 GHz) band, rules for spectrum
+    sharing and systems for implementing those rules are being developed based on
+    specific channel models. Success of the spectrum sharing systems will, in part,
+    depend on the accuracy of those models. As another example, it is anticipated
+    that other next-generation wireless systems will operate in the millimeter-wave
+    bands. Here, developing new channel models will be of paramount importance due
+    to the significantly different impact of the propagation phenomena at these higher
+    frequencies. At both microwave and millimeter-wave frequencies, separating measurement
+    uncertainty from channel variations provides rigor for channel-model development
+    and validation. Such measurement uncertainties can be caused by systematic hardware
+    nonidealities, system noise, and the repeatability and reproducibility of the
+    measurements.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2076'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

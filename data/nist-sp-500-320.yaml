@@ -1,0 +1,78 @@
+---
+id: NISTSP500320
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Report of the workshop on Software Measures and Metrics to Reduce Security
+    Vulnerabilities (SwMM-RSV)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.500-320
+docidentifier:
+- content: NIST SP 500-320
+  type: NIST
+  primary: true
+- content: NIST.SP.500-320
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Black, Paul E.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2005073624
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fong, Elizabeth.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50023905
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: The National Institute of Standards and Technology (NIST) workshop on Software
+    Measures and Metrics to Reduce Security Vulnerabilities (SwMM-RSV) was held on
+    July 12, 2016. The goal of this workshop is to gather ideas on how the Federal
+    Government can identify, improve, package, deliver, or boost the use of software
+    measures and metrics to significantly reduce vulnerabilities. This report contains
+    observations and recommendations based upon the workshop. This report also includes
+    position statements submitted to the workshop, presentations at the workshop,
+    and related material. Ideas from the workshop will be included in the report on
+    Dramatically Reducing Software Vulnerabilities report, requested of NIST by the
+    White House Office of Science and Technology Policy in Spring 2016.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 500-320
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,85 @@
+---
+id: NISTTN1801
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Lessons learned in establishing the NIST metal additive manufacturing laboratory
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1801
+docidentifier:
+- content: NIST TN 1801
+  type: NIST
+  primary: true
+- content: NIST.TN.1801
+  type: DOI
+date:
+- type: issued
+  at: '2013'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Moylan, Shawn.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Slotwinski, John.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cooke, April.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022000193
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jurrens, Kevin.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022036547
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Donmex, M. Alkan.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Intelligent Systems Division, Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1801'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

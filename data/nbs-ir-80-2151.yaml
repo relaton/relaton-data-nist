@@ -1,0 +1,71 @@
+---
+id: NBSIR802151
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A new method of assigning uncertainty in volume calibration
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IR.80-2151
+docidentifier:
+- content: NBS IR 80-2151
+  type: NIST
+  primary: true
+- content: NBS.IR.80-2151
+  type: DOI
+date:
+- type: issued
+  at: '1980'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lecher, James A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Reeve, Charles P.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n86105504
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Spiegelman, Clifford H. (Clifford Henry)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n85145823
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBSIR; NBS IR; NBS interagency report; NBS internal report
+  number: 80-2151
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

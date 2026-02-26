@@ -1,0 +1,104 @@
+---
+id: NISTSP500339
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Specification for certification testing of contactless fingerprint acquisition
+    devices, v1.0
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.500-339
+docidentifier:
+- content: NIST SP 500-339
+  type: NIST
+  primary: true
+- content: NIST.SP.500-339
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Orandi, Shahram.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-5390-6119"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Libert, John M.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-0796-6871"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grantham, John.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-2219-0944"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ko, Kenneth.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-6409-1592"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bandini, Bruce.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-0608-6426"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Watson, Craig I.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Specification for Certification Testing of Contactless Fingerprint Acquisition
+    Devices, v1.0
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 500-339
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,51 @@
+---
+id: NBSIRPL10
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A proposal for the use of rockets for the study of the ionosphere
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IRPL.10
+docidentifier:
+- content: NBS IRPL 10
+  type: NIST
+  primary: true
+- content: NBS.IRPL.10
+  type: DOI
+date:
+- type: issued
+  at: '1945'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Silberstein, Richard.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Interservice Radio Propagation Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NBS Inter-Service Radio Propogation Laboratory Report; NBS IRPL Report
+  number: '10'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

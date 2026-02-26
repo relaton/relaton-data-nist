@@ -1,0 +1,72 @@
+---
+id: NBSIR873567
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Comparisons of NBS/Harvard VI simulations and full-scale, multi-room fire
+    test data
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IR.87-3567
+docidentifier:
+- content: NBS IR 87-3567
+  type: NIST
+  primary: true
+- content: NBS.IR.87-3567
+  type: DOI
+date:
+- type: issued
+  at: '1987'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rockett, John A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83003913
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mortita, Masahiro.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cooper, Leonard Y.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83170952
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBSIR; NBS IR; NBS interagency report; NBS internal report
+  number: 87-3567
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

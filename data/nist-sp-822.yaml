@@ -1,0 +1,82 @@
+---
+id: NISTSP822
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: National Educators Workshop
+  type: title-main
+- language: en
+  script: Latn
+  content: update '90
+  type: title-part
+- language: en
+  script: Latn
+  content: National Educators Workshop - update '90
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.822
+docidentifier:
+- content: NIST SP 822
+  type: NIST
+  primary: true
+- content: NIST.SP.822
+  type: DOI
+date:
+- type: issued
+  at: '1991'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Harris, Jonice S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n92085824
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jacobs, James A.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84030231
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: The report includes proceedings of a workshop sponsored jointly by NIST
+    and the Schools of Technology and Science, Norfolk State University, Norfolk,
+    Virginia, and held in Gaithersburg, Maryland, November 13-15, 1990. The workshop
+    theme was strengthening materials education. Material in the publication can serve
+    as a valuable guide to faculty who are interested in useful experiments for their
+    students. There was a blend of experiments on new materials and traditional materials.
+    Uses of computers in MS&E, experuimental design and an approach to A ystematic
+    materials are among the topics presented.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '822'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

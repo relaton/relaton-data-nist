@@ -1,0 +1,86 @@
+---
+id: NISTIR8165Upd1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Impact of code complexity on software analysis
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8165-upd1
+docidentifier:
+- content: NIST IR 8165/Upd1
+  type: NIST
+  primary: true
+- content: NIST.IR.8165-upd1
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: De Oliveira, Charles D.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fong, Elizabeth
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Black, Paul E.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7561-6614"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The Software Assurance Metrics and Tool Evaluation (SAMATE) team studied
+    thousands of warnings from static analyzers. Tools have difficulty distinguishing
+    between the absence of a weakness and the presence of a weakness that is buried
+    in otherwise-irrelevant code elements. This paper presents classes of these code
+    elements, which we call “code complexities.” They have been present in software
+    assurance as part of test cases generation strategy when evaluating static analyzers.
+    Benefits of using code complexity include the development of coding guidelines,
+    boosting diversification of test cases.
+relation:
+- type: updates
+  bibitem:
+    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x000000038ca30ce8>"
+    docidentifier:
+    - content: NIST IR 8165
+      type: NIST
+series:
+- title:
+  - content: NISTIR
+  number: 8165-upd1
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 8165-upd1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

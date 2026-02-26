@@ -1,0 +1,78 @@
+---
+id: NISTIR8140
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Review of research for docking automatic guided vehicles and mobile robots
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8140
+docidentifier:
+- content: NIST IR 8140
+  type: NIST
+  primary: true
+- content: NIST.IR.8140
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bostelman, Roger.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012091704
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hong, Tsai.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: This paper provides a literature review of docking research, an area that
+    has relatively few research articles as compared to generic automatic guided vehicle
+    (AGV) or mobile robot research. Docking refers to the arrival and stopping at
+    a position relative to another object. Docking can include positioning the vehicle
+    or the equipment onboard the vehicle relative to another object, for example a
+    tray station, trailer, or pallet. The paper is expected to be useful to ASTM Committee
+    F45 for development of docking and navigation standards and to industrial vehicle
+    research communities as basis to further docking research. The paper covers research
+    on vehicle control for docking and on the use of sensors combined with intelligent
+    vehicle control. Docking research on AGV or mobile robots with onboard robot arms
+    is also included. Other related research described includes flexible cells and
+    docking of other than ground vehicles, e.g., unmanned surface vehicles. Closing
+    the survey is a discussion of patents related to docking and an extensive list
+    of references.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8140'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

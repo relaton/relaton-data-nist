@@ -1,0 +1,60 @@
+---
+id: NBSCIS1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Fibers and fabrics
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.CIS.1
+docidentifier:
+- content: NBS CIS 1
+  type: NIST
+  primary: true
+- content: NBS.CIS.1
+  type: DOI
+date:
+- type: issued
+  at: '1970'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Blandford, Josephine M.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gurel, Lois M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79095204
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NBS consumer information series; CIS
+  number: '1'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,80 @@
+---
+id: NISTIR8311
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Ongoing Face Recognition Vendor Test (FRVT) part 6A
+  type: title-main
+- language: en
+  script: Latn
+  content: face recognition accuracy with masks using pre-COVID-19 algorithms
+  type: title-part
+- language: en
+  script: Latn
+  content: Ongoing Face Recognition Vendor Test (FRVT) part 6A - face recognition
+    accuracy with masks using pre-COVID-19 algorithms
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8311
+docidentifier:
+- content: NIST IR 8311
+  type: NIST
+  primary: true
+- content: NIST.IR.8311
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ngan, Mei.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grother, Patrick.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hanaoka, Kayee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+abstract:
+- language: en
+  script: Latn
+  content: This is the first of a series of reports on the performance of face recognition
+    algorithms on faces occluded by masks, run under the Ongoing Face Recognition
+    Vendor Test (FRVT) executed by the National Institute of Standards and Technology
+    (NIST). This report documents accuracy of algorithms to recognize persons wearing
+    face masks. The algorithms tested were one-to-one algorithms submitted to the
+    FRVT 1:1 Verification track.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8311'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

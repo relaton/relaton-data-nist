@@ -1,0 +1,87 @@
+---
+id: NISTNSRDS1002024
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Simulation of electron spectra for surface analysis (SESSA)
+  type: title-main
+- language: en
+  script: Latn
+  content: version 2.2.2 user’s guide
+  type: title-part
+- language: en
+  script: Latn
+  content: Simulation of electron spectra for surface analysis (SESSA) - version 2.2.2
+    user’s guide
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.NSRDS.100-2024
+docidentifier:
+- content: NIST NSRDS 100-2024
+  type: NIST
+  primary: true
+- content: NIST.NSRDS.100-2024
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Werner, W. S. M.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Smekal, W.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Powell, C. J.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-8990-2286"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The objective of this database is to facilitate quantitative interpretation
+    of Auger–electron and X–ray photoelectron spectra (AES/XPS) for surface analysis
+    and to improve the accuracy of quantitation in routine analysis.
+relation:
+- type: updates
+  bibitem:
+    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x0000000328533ad8>"
+    docidentifier:
+    - content: NIST NSRDS 100-2023
+      type: NIST
+series:
+- title:
+  - content: NSRDS-NIST; National standard reference data series
+  number: 100-2024
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

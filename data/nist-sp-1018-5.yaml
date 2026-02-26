@@ -1,0 +1,98 @@
+---
+id: NISTSP10185
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Fire dynamics simulator (version 5)
+  type: title-main
+- language: en
+  script: Latn
+  content: technical reference guide
+  type: title-part
+- language: en
+  script: Latn
+  content: Fire dynamics simulator (version 5) - technical reference guide
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1018-5
+docidentifier:
+- content: NIST SP 1018-5
+  type: NIST
+  primary: true
+- content: NIST.SP.1018-5
+  type: DOI
+date:
+- type: issued
+  at: '2007'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McGrattan, Kevin B.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no00054299
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hostikka, Simo.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2009024429
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Floyd, Jason E.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Baum, Howard R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83163247
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rehm, Ronald G.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84125101
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1018-5
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

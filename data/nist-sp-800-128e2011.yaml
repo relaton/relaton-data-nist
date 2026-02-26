@@ -1,0 +1,76 @@
+---
+id: NISTSP800128e2011
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guide for security-focused configuration management of information systems
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-128-2011
+docidentifier:
+- content: NIST SP 800-128e2011
+  type: NIST
+  primary: true
+- content: NIST.SP.800-128-2011
+  type: DOI
+date:
+- type: issued
+  at: '2011'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Johnson, Arnold.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dempsey, Kelley.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ross, Ron.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gupta, Sarbari.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bailey, Dennis.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-128-2011
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

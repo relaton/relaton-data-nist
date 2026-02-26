@@ -1,0 +1,73 @@
+---
+id: NISTTN15004
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Nondestructive characterization of reactor pressure vessel steels
+  type: title-main
+- language: en
+  script: Latn
+  content: a feasibility study - submitted by Harry I. McHenry, George A. Alers
+  type: title-part
+- language: en
+  script: Latn
+  content: Nondestructive characterization of reactor pressure vessel steels - a feasibility
+    study - submitted by Harry I. McHenry, George A. Alers
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1500-4
+docidentifier:
+- content: NIST TN 1500-4
+  type: NIST
+  primary: true
+- content: NIST.TN.1500-4
+  type: DOI
+date:
+- type: issued
+  at: '1998'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McHenry, Harry I.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n85246566
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Alers, George A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021139597
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: 1500-4
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

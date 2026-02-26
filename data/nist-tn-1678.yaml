@@ -1,0 +1,82 @@
+---
+id: NISTTN1678
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Safety assessment of parallel wire suspension bridge cables under thermal
+    effects
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1678
+docidentifier:
+- content: NIST TN 1678
+  type: NIST
+  primary: true
+- content: NIST.TN.1678
+  type: DOI
+date:
+- type: issued
+  at: '2010'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Main, Joseph A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2011168767
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Luecke, William E.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-0587-4500"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: This report summarizes a NIST study aimed at assessing the safety of parallel
+    wire suspension bridge cables under thermal effects. Both low temperatures, potentially
+    embrittling the bridge wires, and high temperatures, potentially softening the
+    wires, are considered. Recommended thermal and mechanical properties of suspension
+    bridge wire are developed based on published data and on tensile testing carried
+    out as part of this study. These recommended properties are incorporated in a
+    computational model developed to analyze the thermal and mechanical response of
+    a parallel wire suspension bridge cable subjected to prescribed surface temperatures.
+    The analysis results indicate that embrittlement due to low temperatures does
+    not significantly reduce the ultimate capacity of the cable. Exposure to high
+    temperatures, on the other hand, could lead to failure of the cable, due to thermal
+    softening of the steel wires and thermal expansion, which causes the heated outer
+    wires to shed load. Reducing the surface area exposed to high temperatures is
+    found to increase the exposure time required to produce failure.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1678'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,80 @@
+---
+id: NISTIR7072
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Air pollutant transport from attached garages to residential living spaces
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7072
+docidentifier:
+- content: NIST IR 7072
+  type: NIST
+  primary: true
+- content: NIST.IR.7072
+  type: DOI
+date:
+- type: issued
+  at: '2003'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Emmerich, Steven J. (Steven John)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003076634
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gorfain, Joshua E.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Huang, Mike.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2022180488
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Howard-Reed, Cynthia.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022030653
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7072'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

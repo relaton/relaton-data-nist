@@ -1,0 +1,82 @@
+---
+id: NBSIR75914
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Graffiti removers
+  type: title-main
+- language: en
+  script: Latn
+  content: evaluation and preliminary selection criteria
+  type: title-part
+- language: en
+  script: Latn
+  content: Graffiti removers - evaluation and preliminary selection criteria
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IR.75-914
+docidentifier:
+- content: NBS IR 75-914
+  type: NIST
+  primary: true
+- content: NBS.IR.75-914
+  type: DOI
+date:
+- type: issued
+  at: '1975'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Godette, McClure.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021007140
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Post, Matthew.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021049061
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Campbell, P. G. (Peter G.),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n92009697
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBSIR; NBS IR; NBS interagency report; NBS internal report
+  number: 75-914
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

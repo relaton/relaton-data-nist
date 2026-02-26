@@ -1,0 +1,62 @@
+---
+id: NBSTN426
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Analytical mass spectrometry section
+  type: title-main
+- language: en
+  script: Latn
+  content: July 1966 to June 1967
+  type: title-part
+- language: en
+  script: Latn
+  content: Analytical mass spectrometry section - July 1966 to June 1967
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.TN.426
+docidentifier:
+- content: NBS TN 426
+  type: NIST
+  primary: true
+- content: NBS.TN.426
+  type: DOI
+date:
+- type: issued
+  at: '1967'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Shields, William R.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88649775
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS technical note; NBS tech note; NBS TN
+  number: '426'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

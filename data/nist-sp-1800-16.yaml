@@ -1,0 +1,204 @@
+---
+id: NISTSP180016
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Securing web transactions
+  type: title-main
+- language: en
+  script: Latn
+  content: 'TLS server certificate management: includes executive summary (a); security
+    risks and recommended best practices (b); approach, architecture, and security
+    characteristics (c); how-to guides (d)'
+  type: title-part
+- language: en
+  script: Latn
+  content: 'Securing web transactions - TLS server certificate management: includes
+    executive summary (a); security risks and recommended best practices (b); approach,
+    architecture, and security characteristics (c); how-to guides (d)'
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1800-16
+docidentifier:
+- content: NIST SP 1800-16
+  type: NIST
+  primary: true
+- content: NIST.SP.1800-16
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dodson, Donna.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Haag, William.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Souppaya, Murugiah.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2006135981
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wilson, Clint.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2019055714
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Turner, Paul.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n98008300
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lam, Dung.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barker, William C.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97036643
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kapasouris, Alexandros.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Akram, Mehwish.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Everhart, Brandon.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Johnson, Brian.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n87815503
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pleasant, Brett.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Raguso, Mary.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Symington, Susan.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nr2001014962
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Clatterbuck, Rob.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gilbert, Jane.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n92057218
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: Transport Layer Security (TLS) server certificates are critical to the
+    security of both internet- facing and private web services. Despite the critical
+    importance of these certificates, many organizations lack a formal TLS certificate
+    management program and do not have the ability to centrally monitor and manage
+    their certificates. This NIST Cybersecurity Practice Guide shows large and medium
+    enterprises how to employ a formal TLS certificate management program to address
+    certificate-based risks and challenges. It describes the TLS certificate management
+    challenges faced by organizations; provides recommended best practices for large-scale
+    TLS server certificate management; describes an automated proof-of-concept implementation
+    that demonstrates how to prevent, detect, and recover from certificate-related
+    incidents; and provides a mapping of the demonstrated capabilities to the recommended
+    best practices and to NIST security guidelines and frameworks.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1800-16
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

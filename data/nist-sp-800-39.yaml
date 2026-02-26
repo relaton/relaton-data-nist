@@ -1,0 +1,81 @@
+---
+id: NISTSP80039
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Managing information security risk
+  type: title-main
+- language: en
+  script: Latn
+  content: organization, mission, and information system view
+  type: title-part
+- language: en
+  script: Latn
+  content: Managing information security risk - organization, mission, and information
+    system view
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-39
+docidentifier:
+- content: NIST SP 800-39
+  type: NIST
+  primary: true
+- content: NIST.SP.800-39
+  type: DOI
+date:
+- type: issued
+  at: '2011'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Joint Task Force Transformation Initiative.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Joint Task Force Transformation Initiative.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: The purpose of Special Publication 800-39 is to provide guidance for an
+    integrated, organization-wide program for managing information security risk to
+    organizational operations (i.e., mission, functions, image, and reputation), organizational
+    assets, individuals, other organizations, and the Nation resulting from the operation
+    and use of federal information systems. Special Publication 800-39 provides a
+    structured, yet flexible approach for managing information security risk that
+    is intentionally broad-based, with the specific details of assessing, responding
+    to, and monitoring risk on an ongoing basis provided by other supporting NIST
+    security standards and guidelines. The guidance provided in this publication is
+    not intended to replace or subsume other risk-related activities, programs, processes,
+    or approaches that organizations have implemented or intend to implement addressing
+    areas of risk management covered by other legislation, directives, policies, programmatic
+    initiatives, or mission/business requirements. Rather, the information security
+    risk management guidance described herein is complementary to and can be used
+    as part of a more comprehensive Enterprise Risk Management (ERM) program.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-39
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

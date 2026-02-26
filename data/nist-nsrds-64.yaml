@@ -1,0 +1,91 @@
+---
+id: NISTNSRDS64
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST Electron Elastic-Scattering Cross-Section Database
+  type: title-main
+- language: en
+  script: Latn
+  content: version 4.0 users guide
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST Electron Elastic-Scattering Cross-Section Database - version 4.0 users
+    guide
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.NSRDS.64
+docidentifier:
+- content: NIST NSRDS 64
+  type: NIST
+  primary: true
+- content: NIST.NSRDS.64
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jablonski, A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Salvat, F. (Francine)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n86085169
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Powell, C. J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50019550
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Material Measurement Laboratory (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012096740
+abstract:
+- language: en
+  script: Latn
+  content: Version 4.0 of this database (SRD 64) provides values of differential elastic-scattering
+    cross sections, total elastic-scattering cross sections, phase shifts, and transport
+    cross sections for elements with atomic numbers from 1 to 96 and for electron
+    energies between 50 eV and 300 keV (in steps of 1 eV). Knowledge of elastic-scattering
+    effects is important for the development of theoretical models for quantitative
+    analysis by Auger-electron spectroscopy, X-ray photoelectron spectroscopy, electron
+    microprobe analysis, and analytical electron microscopy. An analysis of available
+    elastic-scattering cross-section data has been published [A. Jablonski, F. Salvat,
+    and C. J. Powell, J. Phys. Chem. Ref. Data 33, 409 (2004)].
+series:
+- title:
+  - content: NIST NSRDS; NSRDS-NIST; National standard reference data series
+  number: '64'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

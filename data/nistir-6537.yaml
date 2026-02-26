@@ -1,0 +1,75 @@
+---
+id: NISTIR6537
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Evaluation of dielectric properties of polymer thin-film materials for
+    application in embedded capacitance
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.6537
+docidentifier:
+- content: NIST IR 6537
+  type: NIST
+  primary: true
+- content: NIST.IR.6537
+  type: DOI
+date:
+- type: issued
+  at: '2000'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Obrzut, Jan.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chiang, C. K.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021147095
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Popielarz, R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nozaki, R.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '6537'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,62 @@
+---
+id: NBSMONO140
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Time and frequency
+  type: title-main
+- language: en
+  script: Latn
+  content: theory and fundamentals
+  type: title-part
+- language: en
+  script: Latn
+  content: Time and frequency - theory and fundamentals
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.MONO.140
+docidentifier:
+- content: NBS MONO 140
+  type: NIST
+  primary: true
+- content: NBS.MONO.140
+  type: DOI
+date:
+- type: issued
+  at: '1974'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Blair, Byron E. (Byron Emerson),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84051932
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS monograph; NBS MONO
+  number: '140'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

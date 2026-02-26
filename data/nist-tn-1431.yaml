@@ -1,0 +1,92 @@
+---
+id: NISTTN1431
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A technical reference for CFAST
+  type: title-main
+- language: en
+  script: Latn
+  content: an engineering tool for estimating fire and smoke transport
+  type: title-part
+- language: en
+  script: Latn
+  content: A technical reference for CFAST - an engineering tool for estimating fire
+    and smoke transport
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1431
+docidentifier:
+- content: NIST TN 1431
+  type: NIST
+  primary: true
+- content: NIST.TN.1431
+  type: DOI
+date:
+- type: issued
+  at: '2000'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jones, Walter W.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n86105945
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Forney, Glenn P.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88098650
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Peacock, Richard D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79111603
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Reneke, Paul A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2008048705
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1431'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

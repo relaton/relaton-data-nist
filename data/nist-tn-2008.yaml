@@ -1,0 +1,95 @@
+---
+id: NISTTN2008
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Alerting under imminent threat
+  type: title-main
+- language: en
+  script: Latn
+  content: guidance on alerts issued by outdoor siren and short message alerting systems
+  type: title-part
+- language: en
+  script: Latn
+  content: Alerting under imminent threat - guidance on alerts issued by outdoor siren
+    and short message alerting systems
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2008
+docidentifier:
+- content: NIST TN 2008
+  type: NIST
+  primary: true
+- content: NIST.TN.2008
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kuligowski, Erica D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2011141182
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kimball, Amanda.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: The National Institute of Standards and Technology (NIST)'s Technical Investigation
+    of the 2011 Joplin, MO tornado identified that no widely accepted standards exist
+    for emergency communications in tornado events and more specifically, policies
+    involving the use of communication systems to alert the public in advance of tornadoes.
+    This publication provides evidence-based guidance for communities on the creation
+    and provision of public alerts, including both alerts provided by outdoor siren
+    (warning) systems and short messages sent by social media or other short message
+    service (SMS) platforms. It is the hope that this guidance can eventually be used
+    as input for standardization, through codes and standards, of the procedures and
+    practices for outdoor siren systems and short message alerts used by communities
+    across the United States. Standardization of emergency communication policies
+    and procedures could occur at multiple levels, including among multiple jurisdictions,
+    state-wide, regionally, or even nationally. This document begins with a brief
+    background on alerting systems, focusing specifically on outdoor siren systems
+    and short message alerts. The next section presents the methods used for the development
+    of evidence-based guidance on public alerts, including methods for review of literature
+    on public response to public alerting systems, the development of preliminary
+    guidance based on these reviews, and the finalization of the guidance presented
+    here in this report. Then, guidance for communities on the creation and provision
+    of public alerts for those under imminent threat is presented. This document ends
+    with a discussion on unanswered questions, providing opportunities for further
+    research into various areas of public alerting.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2008'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

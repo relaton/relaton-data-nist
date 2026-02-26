@@ -1,0 +1,63 @@
+---
+id: NISTIR8426
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Spreadsheet-based software for the analysis of homogeneous and inhomogeneous
+    fracture toughness data sets in accordance with ASTM E1921-21
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8426
+docidentifier:
+- content: NIST IR 8426
+  type: NIST
+  primary: true
+- content: NIST.IR.8426
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lucon, Enrico.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: NIST has developed a user-friendly spreadsheet-based software package for
+    the Master Curve analysis of fracture toughness tests performed in the ductile-to-brittle
+    transition region and the determination of the reference temperature To, in accordance
+    with ASTM E1921-21. The software consists of multiple spreadsheets, which feature
+    several macros that automate most calculations. The software package applies to
+    the analysis of both macroscopically homogeneous and inhomogeneous materials.
+    Complete user's instructions are provided in this report. The software has been
+    successfully validated using several example problems provided in ASTM E1921-21.
+    As in the case of previous software packages developed by the Fatigue and Fracture
+    Group of NIST in Boulder, the spreadsheet will be made freely available to the
+    public by contacting the author of this report (enrico.lucon@nist.gov).
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8426'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

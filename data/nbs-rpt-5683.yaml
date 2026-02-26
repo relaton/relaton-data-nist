@@ -1,0 +1,90 @@
+---
+id: NBSRPT5683
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Use of a D.C. amplifier and recorder to balance a high precision resistance
+    bridge
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.RPT.5683
+docidentifier:
+- content: NBS RPT 5683
+  type: NIST
+  primary: true
+- content: NBS.RPT.5683
+  type: DOI
+date:
+- type: issued
+  at: '1957'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Armstrong, George Thomson,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81040759
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wong, P. K.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2009146058
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Krieger, L. A.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: By taking corrective action for electrical noise deriving from thermal
+    agitation, alternating current pickup, and induced electrostatic charges, it has
+    been possible to use a commercially available high gain d. c. amplifier and a
+    recorder to balance a G-3 Mueller Bridge. Noise levels below 0. 01 microvolt peak
+    to peak were observed with a response time of approximately five seconds. A precision
+    of approximately two microhms was obtained in measuring a ten ohm resistor in
+    a short series of measurements.
+series:
+- title:
+  - content: NBS report
+  number: '5683'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

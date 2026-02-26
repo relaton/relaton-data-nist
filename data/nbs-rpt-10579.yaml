@@ -1,0 +1,80 @@
+---
+id: NBSRPT10579
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A refinement of the crystal structure of CaHPO sub 4 (synthetic monetite)
+  type: title-main
+- language: en
+  script: Latn
+  content: progress report
+  type: title-part
+- language: en
+  script: Latn
+  content: A refinement of the crystal structure of CaHPO sub 4 (synthetic monetite)
+    - progress report
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.RPT.10579
+docidentifier:
+- content: NBS RPT 10579
+  type: NIST
+  primary: true
+- content: NBS.RPT.10579
+  type: DOI
+date:
+- type: issued
+  at: '1971'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dickens, B.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bowen, John S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nr92045172
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brown, Walter E.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2009170746
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS report
+  number: '10579'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

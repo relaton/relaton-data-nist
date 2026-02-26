@@ -1,0 +1,64 @@
+---
+id: NISTIR884019
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: On the analysis of computer performance data
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.88-4019
+docidentifier:
+- content: NIST IR 88-4019
+  type: NIST
+  primary: true
+- content: NIST.IR.88-4019
+  type: DOI
+date:
+- type: issued
+  at: '1989'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wang, Jack C. M.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gary, John M.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Iyer, Hari K.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 88-4019
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

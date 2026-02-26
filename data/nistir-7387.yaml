@@ -1,0 +1,85 @@
+---
+id: NISTIR7387
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Cell phone forensic tools
+  type: title-main
+- language: en
+  script: Latn
+  content: an overview and analysis update
+  type: title-part
+- language: en
+  script: Latn
+  content: Cell phone forensic tools - an overview and analysis update
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7387
+docidentifier:
+- content: NIST IR 7387
+  type: NIST
+  primary: true
+- content: NIST.IR.7387
+  type: DOI
+date:
+- type: issued
+  at: '2007'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ayers, Rick.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n00090690
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jansen, Wayne.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Moenner, Ludovic.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Delaitre, Aurélien.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021119894
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7387'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

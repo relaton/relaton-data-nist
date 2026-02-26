@@ -1,0 +1,60 @@
+---
+id: NISTTTB1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Federal office of research and technology applications survey results
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TTB.1
+docidentifier:
+- content: NIST TTB 1
+  type: NIST
+  primary: true
+- content: NIST.TTB.1
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gingrich, Nicole.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: National Institute of Standards and Technology.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: This publication serves as a formal reporting of the data presented at
+    the 2017 Federal Laboratory Consortium's National Meeting. It presents summary
+    data collected through a survey conducted by NIST in conjunction with the Interagency
+    Working Group on Technology Transfer. Metrics include insight into Federal Offices
+    of Research and Technology Applications such as age, budget size and source, patent
+    filing and funding sources, laboratory structure, and office staffing levels.
+series:
+- title:
+  - content: NIST technology transfer brief; NIST TTB
+  number: '1'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

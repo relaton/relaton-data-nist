@@ -1,0 +1,92 @@
+---
+id: NISTSP80046
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Security for telecommuting and broadband communications
+  type: title-main
+- language: en
+  script: Latn
+  content: recommendations of the National Institute of Standards and Technology
+  type: title-part
+- language: en
+  script: Latn
+  content: Security for telecommuting and broadband communications - recommendations
+    of the National Institute of Standards and Technology
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-46
+docidentifier:
+- content: NIST SP 800-46
+  type: NIST
+  primary: true
+- content: NIST.SP.800-46
+  type: DOI
+date:
+- type: issued
+  at: '2002'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kuhn, D. Richard.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n85246800
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tracy, Miles C.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Frankel, Sheila E.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: This document introduces broadband communication technologies, and the
+    security considerations associated with them. It discusses the use of a personal
+    firewall, which is essential in protecting a home computer from intrusion; provides
+    instructions on how to configure PCs and web browsers for added security. It also
+    explains home networking, and how a home network can be protected; and describes
+    virtual private networks, which are sophisticated technologies that can provide
+    telecommuters with security approximating that available from an isolated inter-office
+    network. This publication compares alternative approaches for securing e-mail
+    and data transfer, depending on the user's needs and value of the data., and summarizes
+    considerations for telecommuting security. Appendixes provide useful checklists,
+    software update procedures, and pointers to additional resources available on
+    the Internet.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-46
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

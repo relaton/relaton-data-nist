@@ -1,0 +1,75 @@
+---
+id: NISTIR7663
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Overlap-based cell tracker
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7663
+docidentifier:
+- content: NIST IR 7663
+  type: NIST
+  primary: true
+- content: NIST.IR.7663
+  type: DOI
+date:
+- type: issued
+  at: '2009'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chalfoun, Joe.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cardone, Antonio.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dima, Alden A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Allen, Daniel P.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Halter, Michael W.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7663'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

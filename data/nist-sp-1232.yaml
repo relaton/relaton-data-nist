@@ -1,0 +1,69 @@
+---
+id: NISTSP1232
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST conference papers
+  type: title-main
+- language: en
+  script: Latn
+  content: fiscal year 2016
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST conference papers - fiscal year 2016
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1232
+docidentifier:
+- content: NIST SP 1232
+  type: NIST
+  primary: true
+- content: NIST.SP.1232
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Medina-Smith, Andrea.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Miller, Kathryn.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wick, Karen.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '1232'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

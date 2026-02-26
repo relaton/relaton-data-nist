@@ -1,0 +1,50 @@
+---
+id: NBSCIS4
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Facts about hearing and hearing aids
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.CIS.4
+docidentifier:
+- content: NBS CIS 4
+  type: NIST
+  primary: true
+- content: NBS.CIS.4
+  type: DOI
+date:
+- type: issued
+  at: '1971'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Corliss, Edith.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NBS consumer information series; CIS
+  number: '4'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

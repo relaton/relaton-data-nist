@@ -1,0 +1,84 @@
+---
+id: NISTTN1286
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Response of personal noise dosimeters to continuous and impulse-like signals
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1286
+docidentifier:
+- content: NIST TN 1286
+  type: NIST
+  primary: true
+- content: NIST.TN.1286
+  type: DOI
+date:
+- type: issued
+  at: '1991'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Evans, David J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50009006
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Burnett, Ed.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84104372
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Flynn, Daniel R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82220511
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nedzelnitsky, Victor,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022063539
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1286'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

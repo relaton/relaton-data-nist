@@ -1,0 +1,76 @@
+---
+id: NISTAMS2007
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The manufacturing cost guide
+  type: title-main
+- language: en
+  script: Latn
+  content: a primer beta version 0.1
+  type: title-part
+- language: en
+  script: Latn
+  content: The manufacturing cost guide - a primer beta version 0.1
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.200-7
+docidentifier:
+- content: NIST AMS 200-7
+  type: NIST
+  primary: true
+- content: NIST.AMS.200-7
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Thomas, Douglas S.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8600-4795"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: This primer provides an overview in using the Manufacturing Cost Guide.
+    It explains how to use the tool and provides documentation on how the estimates
+    are calculated in the tool. Specifically, this tool estimates the costs in US
+    manufacturing, which can be used to help gauge the potential returns on manufacturing
+    industry research projects. These costs are grouped into various standardized
+    categories such as the North American Industry Classification System (NAICS) and
+    the Standard Occupational Classification (SOC) system along with other non-standardized
+    costs. Beta Version 0.1 of the tool is providing this information based upon data
+    published in 2012. It is also important to note that this tool does not receive
+    any updated data from the web; the tool outputs its results based upon static
+    data that is embedded within the tool.
+series:
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 200-7
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

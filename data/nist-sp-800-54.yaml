@@ -1,0 +1,81 @@
+---
+id: NISTSP80054
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Border gateway protocol security
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-54
+docidentifier:
+- content: NIST SP 800-54
+  type: NIST
+  primary: true
+- content: NIST.SP.800-54
+  type: DOI
+date:
+- type: issued
+  at: '2007'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kuhn, D. R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sriram, Kotikalapudi.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021120228
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Montgomery, D. C.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: This document introduces the Border Gateway Protocol (BGP), explains its
+    importance to the internet, and provides a set of best practices that can help
+    in protecting BGP. Best practices described here are intended to be implementable
+    on nearly all currently available BGP routers. While a number of enhanced protocols
+    for BGP have been proposed, these generally require substantial changes to the
+    protocol and may not interoperate with current BGP implementations. To improve
+    the security of BGP routers, the recommendations listed below are introduced.
+    While the recommendations can contribute to greatly improved BGP security, they
+    are not a complete defense against all threats. Security administrators and decision
+    makers should select and apply these methods based on their unique needs.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-54
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

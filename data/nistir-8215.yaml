@@ -1,0 +1,127 @@
+---
+id: NISTIR8215
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Forensic latent fingerprint preprocessing assessment
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8215
+docidentifier:
+- content: NIST IR 8215
+  type: NIST
+  primary: true
+- content: NIST.IR.8215
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lee, Paul.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n97096373
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Guan, Haiying.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1461-265X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dienstfrey, Andrew.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Theofanos, Mary.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stanton, Brian.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2004111638
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schwarz, Matthew T.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
+    - content: Material Measurement Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: Latent fingerprints are made visible from the surface of objects using
+    a variety of methods including physical and chemical processing, adapted illumination
+    sources, and photographs. Unfortunately, the prints collected directly from a
+    crime scene or from physical evidence may be incomplete or damaged, to the point
+    of being considered unsuitable to send directly to latent fingerprint examiners
+    for identification or to Automated Fingerprint Identification System (AFIS) for
+    recognition. As a result, most latent fingerprint images must be preprocessed
+    to enhance fingerprint information, at the same time suppressing interference
+    arising from noise and otherwise unwanted image features. This preprocessing phase
+    occurs after the latent print is collected from the crime scene and digitalized
+    by a scanner or camera, and before the image analysis and process phase such as
+    minutiae markup or latent print identification. The preprocessing results can
+    be extraordinary, transforming raw images with little or no value into ones suitable
+    for evidentiary analysis. Despite the importance of this step, there exist few
+    databases designed especially for the scientific study of latent fingerprint image
+    preprocessing, and even fewer standards to guide this workflow. To address this
+    research gap, we conducted a study in which a group of trained Latent Print Examiners
+    provided Extended Feature Set (EFS) markups of a series of latent images. This
+    report provides a brief introduction into fingerprint preprocessing, discussion
+    regarding the experimental design, structure, and contents of the latent fingerprint
+    image database, and details of proposed preprocessing efficacy metrics. Additionally,
+    we present preliminary analysis of these metrics when applied to images in our
+    database. Previously Guan et al. [6] presented the performance metrics and analysis
+    of the metrics as applied to a union minutiae set. In this report, we comprehensively
+    document the contents of the records database including the latent images, the
+    EFS markup files, metadata, markup logs, and region of interest masks. Additionally,
+    we present the results of the performance metrics as applied to the intersection
+    minutiae set of EFS markup data.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8215'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

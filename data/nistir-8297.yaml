@@ -1,0 +1,69 @@
+---
+id: NISTIR8297
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Interoperability of web computational plugins for large microscopy image
+    analyses
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8297
+docidentifier:
+- content: NIST IR 8297
+  type: NIST
+  primary: true
+- content: NIST.IR.8297
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bajcsy, Peter.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hotaling, Nathan.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: This document summarizes conclusions from a workshop focused on Interoperability
+    of Web Computational Plugins for Large Microscopy Image Analyses. The workshop
+    conclusions are classified as practical recommendations and agreements on development
+    and future research related to (1) containerization of execution code, (2) data
+    storage, (3) interoperability requirements of workflow engines for running containerized
+    plugins, (4) standard packaging of web user interface modules, and (5) security
+    of container-based distribution.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8297'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

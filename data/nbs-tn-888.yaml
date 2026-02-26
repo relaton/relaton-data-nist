@@ -1,0 +1,64 @@
+---
+id: NBSTN888
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Nuclear science education day
+  type: title-main
+- language: en
+  script: Latn
+  content: proceedings of a conference held at the National Bureau of Standards, Gaithersburg,
+    MD, November 29, 1973
+  type: title-part
+- language: en
+  script: Latn
+  content: Nuclear science education day - proceedings of a conference held at the
+    National Bureau of Standards, Gaithersburg, MD, November 29, 1973
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.TN.888
+docidentifier:
+- content: NBS TN 888
+  type: NIST
+  primary: true
+- content: NBS.TN.888
+  type: DOI
+date:
+- type: issued
+  at: '1975'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Shorten, Frederick J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022083410
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS technical note; NBS tech note; NBS TN
+  number: '888'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,67 @@
+---
+id: NISTSP150012
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Time distribution alternatives for the smart grid workshop report
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1500-12
+docidentifier:
+- content: NIST SP 1500-12
+  type: NIST
+  primary: true
+- content: NIST.SP.1500-12
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Goldstein, Allen
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2016112646
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.))
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2019028800
+abstract:
+- language: en
+  script: Latn
+  content: The National Institute of Standards and Technology (NIST) hosted the Time
+    Distribution Alternatives for the Smart Grid Workshop at its Gaithersburg, Maryland
+    Campus on March 21, 2017. The event, co-hosted by the U.S. Department of Energy,
+    brought together experts from industry, government, national laboratories, and
+    academia to determine research and development (R&D) priorities for alternatives
+    to global positioning system (GPS) time distribution in electrical power systems.
+    The information gained will inform future NIST, DOE, national laboratories and
+    private sector technical programs and strategic planning. The workshop also served
+    to drive discussion for the North American Synchrophasor Initiative (NASPI) working
+    group meeting held following the workshop.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1500-12
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

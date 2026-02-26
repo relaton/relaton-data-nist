@@ -1,0 +1,76 @@
+---
+id: NISTAMS3002
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Software requirements specification to distribute manufacturing data
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.300-2
+docidentifier:
+- content: NIST AMS 300-2
+  type: NIST
+  primary: true
+- content: NIST.AMS.300-2
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hedberg Jr., Thomas,.
+    identifier:
+    - type: uri
+      content: 0000-0002-9024-2059
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Helu, Moneer.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Newrock, Marcus.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    - content: Material Measurement Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: The purpose of this document is to describe the requirements specifications
+    for applications and a data repository to distribute manufacturing data. Prospective
+    developers, technical-assessment personnel, and interested end-users are the intended
+    audience of this document.
+series:
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 300-2
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

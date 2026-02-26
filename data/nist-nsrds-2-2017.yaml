@@ -1,0 +1,78 @@
+---
+id: NISTNSRDS22017
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST Special Database 2 structured forms database version 2.0 user's guide
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.NSRDS.2-2017
+docidentifier:
+- content: NIST NSRDS 2-2017
+  type: NIST
+  primary: true
+- content: NIST.NSRDS.2-2017
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dimmick, Darren.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Garris, Michael.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wilson, Charles.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82237192
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Flanagan, Patricia.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020148726
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+series:
+- title:
+  - content: NIST NSRDS; NSRDS-NIST; National standard reference data series
+  number: 2-2017
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

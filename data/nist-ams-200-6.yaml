@@ -1,0 +1,67 @@
+---
+id: NISTAMS2006
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: STEP file analyzer and viewer user guide (update 5)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.200-6
+docidentifier:
+- content: NIST AMS 200-6
+  type: NIST
+  primary: true
+- content: NIST.AMS.200-6
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lipman, Robert R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021113188
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: This guide describes how to use the STEP File Analyzer and Viewer, a software
+    tool that analyzes and generates a spreadsheet or a set of CSV (comma-separated
+    value) files from a STEP (STandard for the Exchange of Product model data) file.
+    The spreadsheets simplify inspecting information in the STEP file at an entity
+    and attribute level. STEP files can also be checked for conformance to recommended
+    practices for Product and Manufacturing Information (PMI) representation, PMI
+    presentation, and validation properties. The STEP File Analyzer and Viewer also
+    generates visualizations of boundary representation part geometry, graphical PMI
+    annotations, tessellated part geometry, supplemental geometry, and finite element
+    models.
+series:
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 200-6
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

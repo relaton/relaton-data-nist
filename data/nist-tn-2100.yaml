@@ -1,0 +1,106 @@
+---
+id: NISTTN2100
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Measurements and modeling of spherical CH2F2-Air flames
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2100
+docidentifier:
+- content: NIST TN 2100
+  type: NIST
+  primary: true
+- content: NIST.TN.2100
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hegetschweiler, Michael J.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pagliaro, John L.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Berger, Lukas.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hesse, Raik.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Beeckmann, Joachim.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pitsch, Heinz.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Linteris, Gregory T.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The burning velocity of mixtures of the refrigerant R-32 (CH2F2) with air
+    over a range of equivalence ratios are studied via spherically expanding flames
+    SEFs in a large, optically accessible spherical chamber at constant pressure.
+    Shadowgraph images from a high-speed video camera are analysed to yield flame
+    radius as a function of time. Data reduction techniques are explored and direct
+    numerical simulations of the flame are performed with the FlameMaster code, using
+    detailed kinetics. The flame radius as a function of time is accurately predicted
+    by the simulations. Flame stretch and thermal radiation (using an optically thin
+    model) occur simultaneously and make extraction of the unstretched burning velocity
+    from the experimental data difficult. For these low burning velocity flames, the
+    numerical simulations show that stretch and radiation effects are particularly
+    important, and different data reduction schemes can have large effects on the
+    inferred burning velocity.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2100'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

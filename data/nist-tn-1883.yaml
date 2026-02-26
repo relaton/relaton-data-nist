@@ -1,0 +1,79 @@
+---
+id: NISTTN1883
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Location-based services R&D roadmap
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1883
+docidentifier:
+- content: NIST TN 1883
+  type: NIST
+  primary: true
+- content: NIST.TN.1883
+  type: DOI
+date:
+- type: issued
+  at: '2015'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Felts, Ryan.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022008920
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Leh, Mark.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Orr, Dereck.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022066705
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McElvaney, Tracy A.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Communications Technology Laboratory.
+    - content: Public Safety Communications Research Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1883'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

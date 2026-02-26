@@ -1,0 +1,82 @@
+---
+id: NISTGCR20024
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Open standards for flexible discrete manufacturing in the model-based enterprise
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.GCR.20-024
+docidentifier:
+- content: NIST GCR 20-024
+  type: NIST
+  primary: true
+- content: NIST.GCR.20-024
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: White, Mark.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Holterman, Eric.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bakker, Tim.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Maggiano, Larry.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The Commonwealth Center for Advanced Manufacturing is currently constructing
+    an open, standards-based flexible manufacturing cell. The manufacturing cell must
+    take in a product definition, machine the defined part, inspect it, rework as
+    necessary, and provide a final dimensional report. In support of this effort,
+    we define a flexible architecture based entirely on open standards. In this paper
+    we look at standards which support a modelbased engineering approach to conveying
+    product definitions to the manufacturing cell. The STEP AP242, QIF, and JT standards
+    are compared and the various considerations for their use discussed. Finally we
+    define a selected standard to use and the software that will be used in order
+    to implement the chosen standard mix.
+series:
+- title:
+  - content: NIST GCR; NIST grant-contract report; NIST grant contract report
+  number: 20-024
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

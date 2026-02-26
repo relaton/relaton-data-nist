@@ -1,0 +1,118 @@
+---
+id: NISTAMS10019
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The effects of laser powder bed fusion process parameters on material hardness
+    and density for nickel alloy 625
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-19
+docidentifier:
+- content: NIST AMS 100-19
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-19
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brown, Christopher U.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jacob, Gregor.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Possolo, Antonio.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n92088106
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Beauchamp, Carlos.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Peltz, Max.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021140044
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stoudt, Mark.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Donmez, Alkan.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: 'The goal of this study was to investigate the relationship between mechanical
+    and material properties (including density) of manufactured nickel super alloy
+    (IN625) using a laser powder bed fusion process and three process parameters:
+    laser power, hatch distance, and scan speed. Hardness of the manufactured blocks
+    was measured as a representative of the mechanical properties. Density measurements
+    were carried out using the pyncometry method. Three sets of blocks were manufactured
+    using IN625 metal powder (nitrogen gas atomized) on a laser powder bed fusion
+    machine. Different combinations of process parameters yielded different energy
+    densities for each block for the three builds. The laser scan speed, laser power,
+    hatch distance, and energy density all had statistically significant relationships
+    with hardness. The average bulk density increased non-linearly with increasing
+    values of energy density. A similar trend was in the hardness data. The results
+    of this study served as a guide to determine the range of parameters yielding
+    acceptable material properties for the investigation of process parameter sensitivities
+    during a subsequent IN625 round robin study.'
+series:
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 100-19
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

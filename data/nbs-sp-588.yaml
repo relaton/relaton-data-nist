@@ -1,0 +1,75 @@
+---
+id: NBSSP588
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Critical materials and fabrication issues for pressure vessels, piping,pumps,
+    and valves
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.588
+docidentifier:
+- content: NBS SP 588
+  type: NIST
+  primary: true
+- content: NBS.SP.588
+  type: DOI
+date:
+- type: issued
+  at: '1980'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fong, J. T. (Jeffrey Tse-wei),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n77018806
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dobbyn, Ronald C.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80105357
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mordfin, Leonard.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80104789
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: '588'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

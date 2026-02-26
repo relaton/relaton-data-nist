@@ -1,0 +1,135 @@
+---
+id: NISTSP260185
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Method for measuring the diameter of polystyrene latex reference spheres
+    by atomic force microscopy
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-185
+docidentifier:
+- content: NIST SP 260-185
+  type: NIST
+  primary: true
+- content: NIST.SP.260-185
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dagata, John A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021139123
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Farkas, Natalia.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021139124
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kavuri, Prem.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021139118
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Vladár, András E.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021139129
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wu, Zhonglin.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n91008601
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Itoh, Hiroshi.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80132073
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ehara, Kensei.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021139136
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.))
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2019028800
+abstract:
+- language: en
+  script: Latn
+  content: This report presents a correlated height and width measurement model for
+    particle size analysis of spherical particles by atomic force microscopy (AFM).
+    It is complementary to more familiar methods based on a single value of the particle
+    height or on a line average obtained from a close-packed particle array. Significant
+    influence quantities affecting the determination of average particle size and
+    its uncertainty are considered for the important case of polystyrene latex (PSL)
+    reference materials. Particlesubstrate deformation, resulting from adhesive contact
+    between particle and substrate during sample preparation, is estimated as a function
+    of particle size. Post-processing of AFM datasets is explored as a means of eliminating
+    bias due to non-steady state measurement conditions. These biases arise from variable
+    particle-tip interaction caused by drift of instrumental parameters from their
+    optimal settings during long acquisition times and inevitable wear of the AFM
+    probe. Changes of the initial probe shape are established using a Si/SiO2 multilayer
+    tip characterizer and are updated periodically during the analysis of sequential
+    data sets for combinations of several particles sizes and different probes. Finally,
+    the capability of this procedure to serve as a statistical error-correction scheme
+    in AFM particle-size metrology is assessed.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 260-185
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

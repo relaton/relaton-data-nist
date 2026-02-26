@@ -1,0 +1,116 @@
+---
+id: NISTSP800126
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The technical specification for the Security Content Automation Protocol
+    (SCAP)
+  type: title-main
+- language: en
+  script: Latn
+  content: SCAP version 1.0
+  type: title-part
+- language: en
+  script: Latn
+  content: The technical specification for the Security Content Automation Protocol
+    (SCAP) - SCAP version 1.0
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-126
+docidentifier:
+- content: NIST SP 800-126
+  type: NIST
+  primary: true
+- content: NIST.SP.800-126
+  type: DOI
+date:
+- type: issued
+  at: '2009'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Quinn (S.D.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012055634
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Waltermire, David.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021047735
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Johnson, C. S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021001638
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, K. A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Banghart, J. F.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Quinn (S.D.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012055634
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: This document defines the technical specification for Version 1.0 of the
+    Security Content Automation Protocol (SCAP). SCAP consists of a suite of specifications
+    for standardizing the format and nomenclature by which security software communicates
+    information about software flaws and security configurations. This document describes
+    the basics of the SCAP component specifications and their interrelationships,
+    the characteristics of SCAP content, as well as SCAP requirements not defined
+    in the individual SCAP component specifications. This guide provides recommendations
+    on how to use SCAP to achieve security automation for organizations seeking to
+    implement SCAP.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-126
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

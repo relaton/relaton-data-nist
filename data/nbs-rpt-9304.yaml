@@ -1,0 +1,63 @@
+---
+id: NBSRPT9304
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Roofing research
+  type: title-main
+- language: en
+  script: Latn
+  content: presented at the Annual Meeting of the Society of American Military Engineers
+  type: title-part
+- language: en
+  script: Latn
+  content: Roofing research - presented at the Annual Meeting of the Society of American
+    Military Engineers
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.RPT.9304
+docidentifier:
+- content: NBS RPT 9304
+  type: NIST
+  primary: true
+- content: NBS.RPT.9304
+  type: DOI
+date:
+- type: issued
+  at: '1966'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Boone, Thomas H.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81098814
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS report
+  number: '9304'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,114 @@
+---
+id: NISTSP800171r1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Protecting controlled unclassified information in nonfederal systems and
+    organizations
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-171r1
+docidentifier:
+- content: NIST SP 800-171r1
+  type: NIST
+  primary: true
+- content: NIST.SP.800-171r1
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ross, Ron.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2010088907
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Viscuso, Patrick.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022064535
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Guissanie, Gary.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022021994
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dempsey, Kelley.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022000344
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Riddle, Mark.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2016171541
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: The protection of Controlled Unclassified Information (CUI) resident in
+    nonfederal systems and organizations is of paramount importance to federal agencies
+    and can directly impact the ability of the federal government to successfully
+    conduct its assigned missions and business operations. This publication provides
+    federal agencies with a set of recommended security requirements for protecting
+    the confidentiality of CUI when such information is resident in nonfederal systems
+    and organizations; when the nonfederal organization is not collecting or maintaining
+    information on behalf of a federal agency or using or operating a system on behalf
+    of an agency; and where there are no specific safeguarding requirements for protecting
+    the confidentiality of CUI prescribed by the authorizing law, regulation, or government-wide
+    policy for the CUI category or subcategory listed in the CUI Registry. The security
+    requirements apply to all components of nonfederal systems and organizations that
+    process, store, or transmit CUI, or that provide security protection for such
+    components. The requirements are intended for use by federal agencies in contractual
+    vehicles or other agreements established between those agencies and nonfederal
+    organizations.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-171r1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

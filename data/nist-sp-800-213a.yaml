@@ -1,0 +1,125 @@
+---
+id: NISTSP800213A
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IoT device cybersecurity guidance for the federal government
+  type: title-main
+- language: en
+  script: Latn
+  content: IoT device cybersecurity requirement catalog
+  type: title-part
+- language: en
+  script: Latn
+  content: IoT device cybersecurity guidance for the federal government - IoT device
+    cybersecurity requirement catalog
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-213A
+docidentifier:
+- content: NIST SP 800-213A
+  type: NIST
+  primary: true
+- content: NIST.SP.800-213A
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fagan, Michael.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Megas, Katerina.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Marron, Jeffrey.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Link, Eric.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brady, Kevin.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cuthill, Barbara.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Herold, Rebecca.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lemire, David.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hoehn, Brad.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This publication provides a catalog of internet of things (IoT) device
+    cybersecurity capabilities (i.e., features and functions needed from a device
+    to support security controls) and non-technical supporting capabilities (i.e.,
+    actions and support needed from device manufacturers and other supporting entities
+    to support security controls) that can help organizations as they use Special
+    Publication (SP) 800-213 to determine and establish device cybersecurity requirements.
+    This catalog cross references the capabilities in the catalog to the cybersecurity
+    controls in NIST SP 800-53. Organizations should refer to SP 800-213 as that publication
+    provides necessary context to effectively use this catalog and related material.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-213A
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

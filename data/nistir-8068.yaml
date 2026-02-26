@@ -1,0 +1,96 @@
+---
+id: NISTIR8068
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Software tools for XML to OWL translation
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8068
+docidentifier:
+- content: NIST IR 8068
+  type: NIST
+  primary: true
+- content: NIST.IR.8068
+  type: DOI
+date:
+- type: issued
+  at: '2015'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kramer, Thomas.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88277686
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Marks, Benjamin,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nb2020005640
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schlenoff, Craig.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2005044700
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Balakirsky, Stephen.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kootbally, Zeid.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pietromartire, Anthony.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    - content: Intelligent Systems Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8068'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

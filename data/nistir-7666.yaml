@@ -1,0 +1,87 @@
+---
+id: NISTIR7666
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: An other race effect for face recognition algorithms
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7666
+docidentifier:
+- content: NIST IR 7666
+  type: NIST
+  primary: true
+- content: NIST.IR.7666
+  type: DOI
+date:
+- type: issued
+  at: '2010'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Phillips, P. Jonathon.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n98036715
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jiang, Fang.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nr2002030294
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Narvekar, Abhijit.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ayyad, Julianne.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: O'Toole, A. J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020090376
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7666'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

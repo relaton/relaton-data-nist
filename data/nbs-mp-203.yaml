@@ -1,0 +1,70 @@
+---
+id: NBSMP203
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Index to the reports of the National Conference on Weights and Measures
+  type: title-main
+- language: en
+  script: Latn
+  content: from the first to the thirty-sixth 1905 to 1951
+  type: title-part
+- language: en
+  script: Latn
+  content: Index to the reports of the National Conference on Weights and Measures
+    - from the first to the thirty-sixth 1905 to 1951
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.MP.203
+docidentifier:
+- content: NBS MP 203
+  type: NIST
+  primary: true
+- content: NBS.MP.203
+  type: DOI
+date:
+- type: issued
+  at: '1952'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bussey, William S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no00088404
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jensen, Malcolm W.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS miscellaneous publication; NBS miscellaneous pub; NBS MP
+  number: '203'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

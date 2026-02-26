@@ -1,0 +1,80 @@
+---
+id: NISTSP1047
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Measurement methods for evaluation of the reliability of active implantable
+    medical devices
+  type: title-main
+- language: en
+  script: Latn
+  content: report of a workshop held October 3-4, 2005 Gaithersburg, Maryland
+  type: title-part
+- language: en
+  script: Latn
+  content: Measurement methods for evaluation of the reliability of active implantable
+    medical devices - report of a workshop held October 3-4, 2005 Gaithersburg, Maryland
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1047
+docidentifier:
+- content: NIST SP 1047
+  type: NIST
+  primary: true
+- content: NIST.SP.1047
+  type: DOI
+date:
+- type: issued
+  at: '2006'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Drexler, Elizabeth S.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Regnault, William F. (William Frank),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022075997
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tesk, J. A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84098877
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '1047'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

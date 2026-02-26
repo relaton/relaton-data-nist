@@ -1,0 +1,68 @@
+---
+id: NISTIR7750
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Biological cell feature identification by a modified watershed-merging
+    algorithm
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7750
+docidentifier:
+- content: NIST IR 7750
+  type: NIST
+  primary: true
+- content: NIST.IR.7750
+  type: DOI
+date:
+- type: issued
+  at: '2010'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gilsinn, David,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79041171
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bhadriraju, Kiran.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Elliott, John T.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7750'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

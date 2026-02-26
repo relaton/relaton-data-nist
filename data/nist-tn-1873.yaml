@@ -1,0 +1,80 @@
+---
+id: NISTTN1873
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: CONTAM to EnergyPlus infiltration features of the CONTAM Results Export
+    Tool
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1873
+docidentifier:
+- content: NIST TN 1873
+  type: NIST
+  primary: true
+- content: NIST.TN.1873
+  type: DOI
+date:
+- type: issued
+  at: '2015'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Polidoro, Brian.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021116837
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ng, Lisa C.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022064506
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dols, Stuart.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Emmerich, Steve J.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    - content: Energy and Environment Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1873'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,60 @@
+---
+id: NBSHB113
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: CODASYL data description language
+  type: title-main
+- language: en
+  script: Latn
+  content: journal of development, June 1973
+  type: title-part
+- language: en
+  script: Latn
+  content: CODASYL data description language - journal of development, June 1973
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.HB.113
+docidentifier:
+- content: NBS HB 113
+  type: NIST
+  primary: true
+- content: NBS.HB.113
+  type: DOI
+date:
+- type: issued
+  at: '1974'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS handbook; NBS HB
+  number: '113'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

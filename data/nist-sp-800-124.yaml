@@ -1,0 +1,55 @@
+---
+id: NISTSP800124
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guidelines on cell phone and PDA security
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-124
+docidentifier:
+- content: NIST SP 800-124
+  type: NIST
+  primary: true
+- content: NIST.SP.800-124
+  type: DOI
+date:
+- type: issued
+  at: '2008'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jansen, Wayne.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, Karen.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-124
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

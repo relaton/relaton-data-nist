@@ -1,0 +1,148 @@
+---
+id: NISTIR8320B
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Hardware-enabled security
+  type: title-main
+- language: en
+  script: Latn
+  content: policy-based governance in trusted container platforms
+  type: title-part
+- language: en
+  script: Latn
+  content: Hardware-enabled security - policy-based governance in trusted container
+    platforms
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8320B
+docidentifier:
+- content: NIST IR 8320B
+  type: NIST
+  primary: true
+- content: NIST.IR.8320B
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bartock, Michael.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Souppaya, Murugiah.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Xia, Haidong.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yeluri, Raghu.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Shetty, Uttam.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lum, Brandon.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sabath, Mariusz.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Singh, Harmeet.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Youssef, Alaa.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Steinder, Gosia.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cao, Yu.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ramanathan, Jayashree.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: In today's cloud data centers and edge computing, attack surfaces have
+    significantly increased, cyber attacks are industrialized, and most security control
+    implementations are not coherent or consistent. The foundation of any data center
+    or edge computing security strategy should be securing the platform on which data
+    and workloads will be executed and accessed. The physical platform represents
+    the foundation for any layered security approach and provides the initial protections
+    to help ensure that higher-layer security controls can be trusted. This report
+    explains an approach based on hardware-enabled security techniques and technologies
+    for safeguarding container deployments in multi-tenant cloud environments. It
+    also describes a prototype implementation of the approach intended to be a blueprint
+    or template for the general security community.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 8320B
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

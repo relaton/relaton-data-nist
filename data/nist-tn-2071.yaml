@@ -1,0 +1,83 @@
+---
+id: NISTTN2071
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IREX 10
+  type: title-main
+- language: en
+  script: Latn
+  content: ongoing evaluation of iris recognition concept, evaluation plan, and API
+    overview
+  type: title-part
+- language: en
+  script: Latn
+  content: IREX 10 - ongoing evaluation of iris recognition concept, evaluation plan,
+    and API overview
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2071
+docidentifier:
+- content: NIST TN 2071
+  type: NIST
+  primary: true
+- content: NIST.TN.2071
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Quinn, George W.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84098146
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Matey, James R.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: 'This document presents a concept of operations (CONOPS) and an overview
+    of an application programming interface (API) specification for the Iris Exchange
+    (IREX) 10 Ongoing Evaluation of Iris Recognition, Identification Track. IREX is
+    a program at the National Institute of Standards and Technology (NIST), within
+    the Information Technology Laboratory(ITL)/Information Access Division(IAD)/Image
+    Group. IREX 10 is administered off-line in NIST s Biometrics Research Lab (BRL).
+    Developers submit their matching software for testing over sequestered iris data.
+    As an ongoing evaluation, developers may submit at any time unless otherwise specified
+    on the IREX 10 Homepage: https://www.nist.gov/programs-projects/irex-10-identification-track.'
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2071'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

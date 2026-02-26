@@ -1,0 +1,86 @@
+---
+id: NISTAMS6007
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Manufacturing USA
+  type: title-main
+- language: en
+  script: Latn
+  content: rapid response to COVID-19
+  type: title-part
+- language: en
+  script: Latn
+  content: Manufacturing USA - rapid response to COVID-19
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.600-7
+docidentifier:
+- content: NIST AMS 600-7
+  type: NIST
+  primary: true
+- content: NIST.AMS.600-7
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brunner, Zahraha.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Valdez, Zachary.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ufford, Donald.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: National Institute of Standards and Technology.
+abstract:
+- language: en
+  script: Latn
+  content: The report highlights the manufacturing innovation projects developed by
+    the institutes and their partners across the country to combat COVID-19. Manufacturing
+    USA network, comprised of federal agencies and their sponsored manufacturing innovation
+    institutes, assembled and utilized the flexibility, skills and knowledge of their
+    nationwide membership to address issues around domestic PPE, enhanced production
+    of vaccines and treatments, rapid testing, and more in order to begin developing
+    solutions. These public-private-partnerships convened members from industry, academia,
+    and government enabling a rapid response to the developing needs across America
+    based on their access to information and ability to deploy resources. Their relevant
+    and efficient plans, along with $73M in Coronavirus Aid, Relief, and Economic
+    Security (CARES) Act funds distributed through the Department of Commerce and
+    Department of Defense, allowed them to execute dozens of technology development
+    and education and workforce development projects.
+series:
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 600-7
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

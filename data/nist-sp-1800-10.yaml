@@ -1,0 +1,156 @@
+---
+id: NISTSP180010
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Protecting information and system integrity in industrial control system
+    environments
+  type: title-main
+- language: en
+  script: Latn
+  content: cybersecurity for the manufacturing sector
+  type: title-part
+- language: en
+  script: Latn
+  content: Protecting information and system integrity in industrial control system
+    environments - cybersecurity for the manufacturing sector
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1800-10
+docidentifier:
+- content: NIST SP 1800-10
+  type: NIST
+  primary: true
+- content: NIST.SP.1800-10
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Powell, Michael.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brule, Joseph.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pease, Michael.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stouffer, Keith.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tang, CheeYee.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zimmerman, Timothy.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Deane, Chelsea.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hoyt, John.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Raguso, Mary.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sherule, Aslam.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zheng, Kangmin.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zopf, Matthew.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: 'Today''s manufacturing organizations rely on industrial control systems
+    (ICS) to conduct their operations. Increasingly, ICS are facing more frequent,
+    sophisticated cyber attacks making manufacturing the second-most-targeted industry.
+    Cyber attacks against ICS threaten operations and worker safety, resulting in
+    financial loss and harm to the organization''s reputation. The architecture and
+    solutions presented in this guide are built upon standards-based, commercially
+    available products, and represent some of the possible solutions. The solutions
+    implement standard cybersecurity capabilities such as behavioral anomaly detection
+    (BAD), application allowlisting (AAL), file integrity-checking, change control
+    management, and user authentication and authorization. The solution was tested
+    in two distinct lab settings: a discrete manufacturing workcell, which represents
+    an assembly line production, and a continuous process control system (PCS), which
+    represents chemical manufacturing industries. An organization that is interested
+    in protecting the integrity of a manufacturing system and information from destructive
+    malware, insider threats, and unauthorized software should first conduct a risk
+    assessment and determine the appropriate security capabilities required to mitigate
+    those risks. Once the security capabilities are identified, the sample architecture
+    and solution presented in this document may be used.'
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1800-10
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

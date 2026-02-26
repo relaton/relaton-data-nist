@@ -1,0 +1,96 @@
+---
+id: NISTTN2171
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Optimal transmit volume conditions for mission critical voice quality of
+    experience measurement systems
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2171
+docidentifier:
+- content: NIST TN 2171
+  type: NIST
+  primary: true
+- content: NIST.TN.2171
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Greene, Chelsea.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Frey, Jesse.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Magrogan, William.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: O'Malley, Cara.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pieper, Jaden.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Communications Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: Selecting transmit volume levels using a transmit volume optimization (TVO)
+    process is the first calibration step in performing quality of experience (QoE)
+    measurements developed by the Mission Critical Voice portfolio of the Public Safety
+    Communications Research (PSCR) Division. As noted in prior publications, audio
+    volume levels have an impact on output consistency while performing mission critical
+    voice (MCV) QoE measurements with push-to-talk (PTT) communications devices. These
+    measurements must be consistent, repeatable, and comparable. The goal of this
+    project is to ensure that MCV measurements are consistent and repeatable; it specifically
+    focuses on transmit volume levels and their impact on the system under test (SUT).
+    To achieve this, a measurement that characterizes audio distortion levels, specifically
+    caused by overdriven speech into a transmit device, was developed. This measurement
+    is performed across a series of transmit volume levels. The results are then used
+    to present the system user with optimal levels to ensure MCV measurements contain
+    a minimal amount of uncertainty caused by distortion within a range of stable
+    volume levels. This paper will discuss the development of this specific distortion
+    measurement and the methods designed to find optimal transmit volume levels.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2171'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

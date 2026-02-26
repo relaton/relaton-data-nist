@@ -1,0 +1,64 @@
+---
+id: NISTSP743
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST research reports
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.743
+docidentifier:
+- content: NIST SP 743
+  type: NIST
+  primary: true
+- content: NIST.SP.743
+  type: DOI
+date:
+- type: issued
+  at: '1988'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: Conventional liquid lubricants, when subjected to temperatures of 250 deg
+    C and above for extended time in an air atmosphere, degrade rapidly to make large
+    amounts of solid sludge and deposits. Based on boundary lubrication of bearings,
+    these same lubricants, when subjected to 250 deg C to the melting point of the
+    bearing metal, produce in the micro- to milli-second residence time in the bearing
+    contact enough 'friction polymer' to result in good lubrication. The report describes
+    the use of these conventional liquid lubricants delivered in a homogeneous vapor
+    phase where the carrier gas is nitrogen, air or mixtures of these two gases. The
+    lubricants studied include alkyl and aryl phosphate esters, organic acid esters,
+    polyphenyl ethers, and mineral oil.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '743'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

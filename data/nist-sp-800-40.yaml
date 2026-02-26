@@ -1,0 +1,69 @@
+---
+id: NISTSP80040
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Procedures for handling security patches
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-40
+docidentifier:
+- content: NIST SP 800-40
+  type: NIST
+  primary: true
+- content: NIST.SP.800-40
+  type: DOI
+date:
+- type: issued
+  at: '2002'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mell, P. M.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tracy, M. C.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: Timely patching is critical to maintain the operational availability, confidentiality,
+    and integrity of IT systems. However, failure to keep operating system and application
+    software patched is the most common mistake made by information technology (IT)
+    professionals. To help address this growing problem, this special publication
+    recommends methods to help organizations have an explicit and documented patching
+    and vulnerability policy and a systematic, accountable, and documented process
+    for handling patches. This document also covers areas such as prioritizing patches,
+    obtaining patches, testing patches, and applying patches.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-40
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

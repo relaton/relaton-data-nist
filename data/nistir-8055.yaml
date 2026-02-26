@@ -1,0 +1,105 @@
+---
+id: NISTIR8055
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Derived Personal Identity Verification (PIV) credentials (DPC) proof of
+    concept research
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8055
+docidentifier:
+- content: NIST IR 8055
+  type: NIST
+  primary: true
+- content: NIST.IR.8055
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bartock, Michael.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cichonsku, Jeffrey.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Souppaya, Murugiah.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2006135981
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fox, Paul.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015170353
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Miller, Mike.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n85347957
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Holley, Ryan.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, Karen.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2007017003
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8055'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

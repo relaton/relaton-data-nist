@@ -1,0 +1,131 @@
+---
+id: NISTSP260227Upd1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Certification of standard reference material® 3461
+  type: title-main
+- language: en
+  script: Latn
+  content: reference cantilevers for AFM spring constant calibration
+  type: title-part
+- language: en
+  script: Latn
+  content: Certification of standard reference material® 3461 - reference cantilevers
+    for AFM spring constant calibration
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-227-upd1
+docidentifier:
+- content: NIST SP 260-227/Upd1
+  type: NIST
+  primary: true
+- content: NIST.SP.260-227-upd1
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gates, Richard S.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1097-8494"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Osborn, William A.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-4238-4893"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McLean, Mark J.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-0336-5972"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Shaw, Gordon A.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-5881-5443"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Filliben, James J.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-2388-3198"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: A batch of 94 silicon chips containing arrays of uniform rectangular cantilevers
+    was microfabricated from a single silicon wafer and their stiffnesses and resonance
+    frequencies calibrated using a laser Doppler vibrometer (LDV). The cantilevers
+    are 50 μm wide, (about the width of a human hair), and vary in length from 600
+    μm to 300 μm. They have stiffness values nominally ranging from 0.03 N/m to 0.2
+    N/m and nominal first flexural resonance frequencies in the range of 5 kHz to
+    21 kHz respectively. The LDV cantilever stiffness calibration measurements proved
+    very reliable and combined expanded uncertainties better than ± 3% in stiffness
+    were obtained for individual devices. These devices can be used as reference artifacts
+    to validate atomic force microscopy (AFM) cantilever stiffness measurement methods
+    as well as directly calibrating AFM test cantilever stiffness using the reference
+    cantilever method. This NIST SP-260 provides details on the source and preparation
+    of the devices as well as the analytical approach of using a laser Doppler vibrometer
+    to accurately measure both stiffness (k), resonance frequency (f0), and Quality
+    factor (Q) of each cantilever. The statistical analysis applied to the data sets
+    is described. An example of the reference cantilever method is also provided for
+    individuals wishing to use these devices to make direct calibrations of AFM test
+    cantilevers.
+relation:
+- type: updates
+  bibitem:
+    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x0000000371ddd5c8>"
+    docidentifier:
+    - content: NIST SP 260-227
+      type: NIST
+series:
+- title:
+  - content: NIST special publication
+  number: 260-227-upd1
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 260-227-upd1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

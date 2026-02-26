@@ -1,0 +1,94 @@
+---
+id: NISTSP120020
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: LC-MS/MS measurement of nanomaterial-induced DNA modifications in isolated
+    DNA
+  type: title-main
+- language: en
+  script: Latn
+  content: version 1.0
+  type: title-part
+- language: en
+  script: Latn
+  content: LC-MS/MS measurement of nanomaterial-induced DNA modifications in isolated
+    DNA - version 1.0
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1200-20
+docidentifier:
+- content: NIST SP 1200-20
+  type: NIST
+  primary: true
+- content: NIST.SP.1200-20
+  type: DOI
+date:
+- type: issued
+  at: '2015'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nelson, Bryant C. (Bryant Christopher),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022063571
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Petersen, Elijah J. (Elijah Joel)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022070892
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jaruga, Pawel.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022036115
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dizdaroglu, Miral.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n98090152
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Material Measurement Laboratory (U.S.).
+    - content: Biomolecular Measurement Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012096740
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1200-20
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

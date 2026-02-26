@@ -1,0 +1,87 @@
+---
+id: NISTTN2219r1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Present value of photovoltaics - [PV]2
+  type: title-main
+- language: en
+  script: Latn
+  content: user guide
+  type: title-part
+- language: en
+  script: Latn
+  content: Present value of photovoltaics - [PV]2 - user guide
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2219r1
+docidentifier:
+- content: NIST TN 2219r1
+  type: NIST
+  primary: true
+- content: NIST.TN.2219r1
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kneifel, Joshua.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Webb, David.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Donmoyer, Luke.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: Homeowners are increasingly interested in installing solar photovoltaic
+    (PV) systems on the roof of their homes. There is a lack of publicly available
+    tools to assist homeowners in making such an investment decision. The Applied
+    Economic Office (AEO) in the Engineering Laboratory (EL) of the National Institute
+    of Standards and Technology (NIST) is addressing this need by developing a free,
+    public web interface that provides independent economic analysis for a specific
+    home based on a user s solar installation quote and electricity bill.
+relation:
+- type: updates
+  bibitem:
+    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x00000003651ff4b0>"
+    docidentifier:
+    - content: NIST TN 2219
+      type: NIST
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: 2219r1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

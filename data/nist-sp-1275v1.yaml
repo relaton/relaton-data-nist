@@ -1,0 +1,77 @@
+---
+id: NISTSP1275v1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST conference papers fiscal year 2018
+  type: title-main
+- language: en
+  script: Latn
+  content: 'volume 1: Engineering Laboratory'
+  type: title-part
+- language: en
+  script: Latn
+  content: 'NIST conference papers fiscal year 2018 - volume 1: Engineering Laboratory'
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1275v1
+docidentifier:
+- content: NIST SP 1275v1
+  type: NIST
+  primary: true
+- content: NIST.SP.1275v1
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Resources, Access, and Data Team, Information Services Office.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Office, Resources, Access, and Data Team, Information Services.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: NIST is committed to the idea that results of federally funded research
+    are a valuable national resource and a strategic asset. To the extent feasible
+    and consistent with law, agency mission, resource constraints, and U.S. national,
+    homeland, and economic security, NIST will promote the deposit of scientific data
+    arising from unclassified research and programs, funded wholly or in part by NIST,
+    except for Standard Reference Data, free of charge in publicly accessible databases.
+    Subject to the same conditions and constraints listed above, NIST also intends
+    to make freely available to the public, in publicly accessible repositories, all
+    peer-reviewed scholarly publications arising from unclassified research and programs
+    funded wholly or in part by NIST. This Special Publication represents the work
+    of Engineering Laboratory researchers at professional conferences, as reported
+    in Fiscal Year 2018. More information on public access to NIST research is available
+    at https://www.nist.gov/open.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1275v1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

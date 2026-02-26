@@ -1,0 +1,80 @@
+---
+id: NISTSP40085
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: EPROP
+  type: title-main
+- language: en
+  script: Latn
+  content: an interactive FORTRAN program for computing selected electronic properties
+    of gallium arsenide and silicon
+  type: title-part
+- language: en
+  script: Latn
+  content: EPROP - an interactive FORTRAN program for computing selected electronic
+    properties of gallium arsenide and silicon
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.400-85
+docidentifier:
+- content: NIST SP 400-85
+  type: NIST
+  primary: true
+- content: NIST.SP.400-85
+  type: DOI
+date:
+- type: issued
+  at: '1990'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Seabaugh, Alan C.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mathias, John J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n91067357
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bell, Michael I.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n91067362
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 400-85
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

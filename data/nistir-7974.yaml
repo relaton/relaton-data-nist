@@ -1,0 +1,87 @@
+---
+id: NISTIR7974
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Nondestructive testing (NDT) and sensor technology for service life modeling
+    of new and existing concrete structures
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7974
+docidentifier:
+- content: NIST IR 7974
+  type: NIST
+  primary: true
+- content: NIST.IR.7974
+  type: DOI
+date:
+- type: issued
+  at: '2013'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Snyder, Kenneth A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003081610
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sung, Li-piin.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nb2009020154
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cheok, Geraldine S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no89007530
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: Nondestructive test (NDT) methods and sensor technologies are evaluated
+    in the context of providing input parameters to service life prediction models
+    for reinforced concrete structures. Relevant NDT methods and sensors are identified
+    that are based on diverse technologies including mechanical impact, ultrasonic
+    waves, electromagnetic waves, nuclear, and chemical and electrical methods. The
+    degradation scenarios of reinforcement corrosion, alkali-silica reaction, and
+    cracking are used to identify gaps in available NDT methods for supporting condition
+    assessment and service life prediction. Common gaps are identified, along with
+    strategies for resolving those gaps.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7974'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

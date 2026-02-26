@@ -1,0 +1,69 @@
+---
+id: NISTIR5987
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Hurricane Marilyn in the Caribbean
+  type: title-main
+- language: en
+  script: Latn
+  content: measured wind speeds and design wind speeds compared
+  type: title-part
+- language: en
+  script: Latn
+  content: Hurricane Marilyn in the Caribbean - measured wind speeds and design wind
+    speeds compared
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.5987
+docidentifier:
+- content: NIST IR 5987
+  type: NIST
+  primary: true
+- content: NIST.IR.5987
+  type: DOI
+date:
+- type: issued
+  at: '1997'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Marshall, Richard D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50046024
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schroeder, John L.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '5987'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,74 @@
+---
+id: NISTIR8239
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Performance of an ISA100.11a industrial wireless network with wi-fi interference
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8239
+docidentifier:
+- content: NIST IR 8239
+  type: NIST
+  primary: true
+- content: NIST.IR.8239
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kashef, Mohamed.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Candell, Richard.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-6679-8823"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: In this report, we present network measurement of an ISA100.11a industrial
+    wireless network operating with existing WiFi interference. The IEEE802.15.4-based
+    ISA100.11a wireless protocol operates at the 2.4 GHz band for various industrial
+    application. IEEE802.11 WiFi also may operates at the 2.4 GHz band for industrial
+    and data applications in the same environment. The existing IEEE 802.11 wireless
+    network would have a negative impact on the rated performance parameters of the
+    ISA100.11a networks. In this work, we study WiFi interference impacts on the performance
+    of a single ISA100.11a node using the National Institute of Standards and Technology
+    (NIST) wireless testbed.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8239'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

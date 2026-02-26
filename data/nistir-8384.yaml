@@ -1,0 +1,83 @@
+---
+id: NISTIR8384
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Method assessment for non-targeted analyses (MANTA) program
+  type: title-main
+- language: en
+  script: Latn
+  content: interlaboratory study 1 results
+  type: title-part
+- language: en
+  script: Latn
+  content: Method assessment for non-targeted analyses (MANTA) program - interlaboratory
+    study 1 results
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8384
+docidentifier:
+- content: NIST IR 8384
+  type: NIST
+  primary: true
+- content: NIST.IR.8384
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Place, Benjamin J.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rimmer, Catherine A.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: Non-targeted analysis is the determination of the chemical composition
+    of a complex mixture without a priori knowledge regarding the identities or quantities
+    of the compound. These techniques can be performed in a wide variety of materials
+    and areas of study. Methods and results between laboratories can vary widely based
+    on the compounds of interest and user expertise, which can cause poor interlaboratory
+    comparability of non-targeted results. To address this knowledge gap, three research
+    grade test materials were developed to allow for the comparison of instrument
+    methods, specifically reversed-phase liquid chromatography with positive electrospray
+    ionization mass spectrometry. The materials were shipped to thirty-one participating
+    laboratories to be analyzed by their own non-targeted analysis instrumental method.
+    Of the participants, twenty-three laboratories submitted good quality datasets
+    and could be further evaluated. Using principal components analysis, the differences
+    and similarities of the analytical methods could be examined. Overall, there were
+    no obvious trends or associations between the methods of different laboratories
+    and the review of the principal components analysis revealed no notable parameters
+    that caused significant clustering or separation.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8384'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,79 @@
+---
+id: NBSSP575
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Design for better window performance
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.575
+docidentifier:
+- content: NBS SP 575
+  type: NIST
+  primary: true
+- content: NBS.SP.575
+  type: DOI
+date:
+- type: issued
+  at: '1980'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hastings, Robert,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83163443
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Driscoll, Porter.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2005018164
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+abstract:
+- language: en
+  script: Latn
+  content: 'The wall chart ''Design for Better Window Performance'' describes window
+    and other design elements and the impact of these design elements singly and in
+    combination on window performance and building attributes. The design elements
+    are grouped into four categories: Exterior-windbreaks, shades, coverings and sun
+    orientation; Frame-insulating frame, opening type, weather strip and hardware;
+    Glazing-multi-glazing, reflective glazing, plastic glazing and glass block; Interior-interior
+    shading, interior coverings, integral lighting and interior mass. The impacts
+    of these design elements are describes in a matrix form and address the following
+    window and building attributes: Airtightness, Water tightness, Natural ventilation,
+    Insulation, Solar admittance, Daylighting, Visual separation, Acoustical isolation,
+    Safety, Access/Egress, Ease of operation, Forced entry resistance, and Durability/Maintenance.
+    The chart is designed for ready reference during the design process.'
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: '575'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

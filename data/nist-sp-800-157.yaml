@@ -1,0 +1,115 @@
+---
+id: NISTSP800157
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guidelines for derived personal identity verification (PIV) credentials
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-157
+docidentifier:
+- content: NIST SP 800-157
+  type: NIST
+  primary: true
+- content: NIST.SP.800-157
+  type: DOI
+date:
+- type: issued
+  at: '2014'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ferraiolo, Hildegard.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2007017398
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cooper, David.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n77001780
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Francomacaro, Salvatore.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022010886
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Regenscheid, Andrew.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021053038
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mohler, Jason.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022062236
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gupta, Sarbari.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022021995
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Burr, William.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n92104702
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2008015449
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-157
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

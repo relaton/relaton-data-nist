@@ -1,0 +1,85 @@
+---
+id: NISTIR8003
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Design and testing of a mobile touchscreen Interface for multi-modal biometric
+    capture
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8003
+docidentifier:
+- content: NIST IR 8003
+  type: NIST
+  primary: true
+- content: NIST.IR.8003
+  type: DOI
+date:
+- type: issued
+  at: '2014'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Greene, Kristen K.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020085049
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Michaels, Ross J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020147539
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kwong, Kayee.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020147540
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fiumara, Gregory P.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020147543
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8003'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

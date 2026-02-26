@@ -1,0 +1,68 @@
+---
+id: NISTSP800147B
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: BIOS protection guidelines for servers
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-147B
+docidentifier:
+- content: NIST SP 800-147B
+  type: NIST
+  primary: true
+- content: NIST.SP.800-147B
+  type: DOI
+date:
+- type: issued
+  at: '2014'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Regenscheid, Andrew.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021053038
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: Modern computers rely on fundamental system firmware, commonly known as
+    the Basic Input/Output System (BIOS), to facilitate the hardware initialization
+    process and transition control to the hypervisor or operating system. Unauthorized
+    modification of BIOS firmware by malicious software constitutes a significant
+    threat because of the BIOS⁰₉s unique and privileged position within the PC architecture.
+    The guidelines in this document include requirements on servers to mitigate the
+    execution of malicious or corrupt BIOS code. They apply to BIOS firmware stored
+    in the BIOS flash, including the BIOS code, the cryptographic keys that are part
+    of the Root of Trust for Update, and static BIOS data. This guide is intended
+    to provide server platform vendors with recommendations and guidelines for a secure
+    BIOS update process.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-147b
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

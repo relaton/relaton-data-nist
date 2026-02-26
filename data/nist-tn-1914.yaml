@@ -1,0 +1,64 @@
+---
+id: NISTTN1914
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 2015 Location-Based Services R&D Summit
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1914
+docidentifier:
+- content: NIST TN 1914
+  type: NIST
+  primary: true
+- content: NIST.TN.1914
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Feldman, Harris.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022003498
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McElvaney, Tracy.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021116844
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Advanced Communications Research Group.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1914'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

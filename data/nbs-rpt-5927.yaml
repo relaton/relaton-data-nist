@@ -1,0 +1,97 @@
+---
+id: NBSRPT5927
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Effect of variation of emissivity of internal surfaces of heated box beams
+    on temperature distribution, thermal stress and deflection
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.RPT.5927
+docidentifier:
+- content: NBS RPT 5927
+  type: NIST
+  primary: true
+- content: NBS.RPT.5927
+  type: DOI
+date:
+- type: issued
+  at: '1958'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Goodman, S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nb2003060197
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Russell, S. B.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n90656369
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Noble, C. E.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no95050930
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: Transient temperature distribution histories, thermal stresses, and deflections
+    were computed for 13 box beams uniformly heated along one cover. Various heating
+    rates, geometries of beam cross-section, and thermal properties were considered.
+    Heat transfer was by radiation and conduction. Gaseous heat transfer and possible
+    effects of yielding, creep, and buckling were neglected. For maximum beam temperatures
+    above 700-900¿̐¿ F, change in emissivity of the interior surfaces of the beam
+    had an appreciable effect on the cover (but not the web) temperatures and, to
+    an even greater extent, on the beam deflection. At maximum beam temperatures of
+    1200¿̐¿ F, an increase in interior surface emissivity caused an appreciable decrease
+    of the maximum thermal stress. A rough experimental check of temperature distri¿̐¿
+    bution and beam deflection was made for one case.
+series:
+- title:
+  - content: NBS report
+  number: '5927'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

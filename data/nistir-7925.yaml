@@ -1,0 +1,68 @@
+---
+id: NISTIR7925
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Method for measuring axis orthogonality in MEMS accelerometers
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7925
+docidentifier:
+- content: NIST IR 7925
+  type: NIST
+  primary: true
+- content: NIST.IR.7925
+  type: DOI
+date:
+- type: issued
+  at: '2013'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McGray, Craig D.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Afridi, Yaqub.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Geist, Jon.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n87846691
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Semiconductor and Dimensional Division, Physical Measurement Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7925'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

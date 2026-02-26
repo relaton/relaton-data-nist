@@ -1,0 +1,99 @@
+---
+id: NISTIR5915
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Advanced Deburring and Chamfering System (ADACS)
+  type: title-main
+- language: en
+  script: Latn
+  content: final report
+  type: title-part
+- language: en
+  script: Latn
+  content: Advanced Deburring and Chamfering System (ADACS) - final report
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.5915
+docidentifier:
+- content: NIST IR 5915
+  type: NIST
+  primary: true
+- content: NIST.IR.5915
+  type: DOI
+date:
+- type: issued
+  at: '1996'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stouffer, Keith.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022079917
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Russell, Robert. Jr.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Archacki, Raymond.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Engel, T. (Thomas)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n96091286
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dansereau, Richard.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grot, Arnold.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '5915'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

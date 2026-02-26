@@ -1,0 +1,117 @@
+---
+id: NISTMONO13D
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Mechanical properties of structural steel
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.MONO.1-3d
+docidentifier:
+- content: NIST MONO 1-3D
+  type: NIST
+  primary: true
+- content: NIST.MONO.1-3d
+  type: DOI
+date:
+- type: issued
+  at: '2005'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Luecke, William E.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021113185
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McColskey, J. D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2008138585
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McCowan, C. N. (Christopher N.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2001003693
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Banovic, Stephen W.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021142871
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fields, Richard J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88012961
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Foecke, Timothy.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Siewert, Thomas A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gayle, Frank W.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021137929
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST NCSTAR; National Construction Safety Team Act report
+  number: 1-3d
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

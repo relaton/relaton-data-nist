@@ -1,0 +1,100 @@
+---
+id: NISTTN2029
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A computable general equilibrium model of Cedar Rapids
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2029
+docidentifier:
+- content: NIST TN 2029
+  type: NIST
+  primary: true
+- content: NIST.TN.2029
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Helgeson, Jennifer.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2017065489
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fung, Juan.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: O'Fallon, Cheyney.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2011134150
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Webb, David.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84072142
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cutler, Harvey.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: This report presents the development of a Computable General Equilibrium
+    (CGE) model for the regional economy of Cedar Rapids, Iowa. The general approach
+    that this case study takes is outlined in Helgeson et al. [1] as a method to quantify
+    the net co-benefits of investing in increased resilience, or the "resilience dividend."
+    The current report provides the background on Cedar Rapids as a case study in
+    planning for increased resilience and provides an overview of the CGE model of
+    Cedar Rapids at two different time periods. This report is intended to provide
+    context and background for future applications of the Cedar Rapids CGE model to
+    quantify the resilience dividend.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2029'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

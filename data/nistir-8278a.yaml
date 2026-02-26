@@ -1,0 +1,114 @@
+---
+id: NISTIR8278A
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: National Online Informative References(OLIR) program
+  type: title-main
+- language: en
+  script: Latn
+  content: submission guidance for OLIR developers
+  type: title-part
+- language: en
+  script: Latn
+  content: National Online Informative References(OLIR) program - submission guidance
+    for OLIR developers
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8278A
+docidentifier:
+- content: NIST IR 8278A
+  type: NIST
+  primary: true
+- content: NIST.IR.8278A
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Keller, Nicole.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-4761-6817"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Quinn, Stephen.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1436-684X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Smith, Matthew C.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1004-7171"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, Karen.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-6334-9486"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'The National Online Informative References (OLIR) Program is a NIST effort
+    to facilitate subject matter experts in defining standardized Online Informative
+    References (OLIRs), which are relationships between elements of their documents
+    and elements of other documents like the NIST Cybersecurity Framework, NIST Privacy
+    Framework, and Special Publication 800-53.This document assists Informative Reference
+    Developers (Developers) in understanding the processes and requirements for participating
+    in the Program. The primary focus of the document is to instruct Developers on
+    how to complete the OLIR Template spreadsheet when submitting an Informative Reference
+    to NIST for inclusion in the OLIR Catalog. This document replaces Interagency
+    or Internal Report (IR) 8204, Cybersecurity Framework Online Informative References
+    (OLIR) Submissions: Specification for Completing the OLIR Template.'
+relation:
+- type: updatedBy
+  bibitem:
+    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x0000000358073fe0>"
+    docidentifier:
+    - content: NIST IR 8278Ar1
+      type: NIST
+series:
+- title:
+  - content: NISTIR
+  number: 8278A
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 8278A
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

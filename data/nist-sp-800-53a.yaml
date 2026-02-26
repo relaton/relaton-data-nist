@@ -1,0 +1,118 @@
+---
+id: NISTSP80053A
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guide for assessing the security controls in federal information systems
+    and organizations
+  type: title-main
+- language: en
+  script: Latn
+  content: building effective security assessment plans
+  type: title-part
+- language: en
+  script: Latn
+  content: Guide for assessing the security controls in federal information systems
+    and organizations - building effective security assessment plans
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-53a
+docidentifier:
+- content: NIST SP 800-53A
+  type: NIST
+  primary: true
+- content: NIST.SP.800-53a
+  type: DOI
+date:
+- type: issued
+  at: '2008'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ross, R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Johnson, L. A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81012562
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Katzke, S.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Toth, P.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stoneburner, G.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rogers, G.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: The purpose of NIST Special Publication 800-53A is to provide guidelines
+    for building effective security assessment plans and procedures to enable the
+    assessment of security controls employed in information systems supporting the
+    executive agencies of the federal government. Organizations should use this publication
+    in conjunction with an approved system security plan to create a viable security
+    assessment plan for producing and compiling the information necessary to determine
+    the effectiveness of the security controls employed within the information system.
+    The assessment procedures should be used as a starting point for and as input
+    to the security assessment. SP800-53A guidelines are applicable to all federal
+    information systems other than those systems designated as national security systems
+    as defined in 44 U.S.C., Section 3542. The guidelines have been broadly developed
+    from a technical perspective to complement similar guidelines for national security
+    systems. This publication is intended to serve a diverse group of information
+    system and information security professionals, including individuals with information
+    system and security management and oversight responsibilities, integration responsibilities,
+    operational responsibilities, and security assessment and monitoring responsibilities.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-53a
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

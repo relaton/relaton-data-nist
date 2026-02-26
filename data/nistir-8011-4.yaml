@@ -1,0 +1,106 @@
+---
+id: NISTIR80114
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Automation support for security control assessments
+  type: title-main
+- language: en
+  script: Latn
+  content: software vulnerability management, volume 4
+  type: title-part
+- language: en
+  script: Latn
+  content: Automation support for security control assessments - software vulnerability
+    management, volume 4
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8011-4
+docidentifier:
+- content: NIST IR 8011-4
+  type: NIST
+  primary: true
+- content: NIST.IR.8011-4
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dempsey, Kelley.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022000344
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Takamura, Eduardo.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Eavy, Paul.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Moore, George.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n98012695
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: The NISTIR 8011 capability-specific volumes focus on the automation of
+    security control assessment within each individual information security capability.
+    They add tangible detail to the more general overview given in NISTIR 8011 Volume
+    1, providing a template for transition to a detailed, NIST standards-compliant
+    automated assessment. This document, Volume 4 of NISTIR 8011, addresses the management
+    of risk created by defects present in software on the network. Software vulnerability
+    management, in the scope of this document, focuses on known defects that have
+    been discovered in software in use on a system. The Common Weakness Enumeration
+    (CWE) provides identifiers for weaknesses that result from poor coding practices
+    and have the potential to result in software vulnerabilities. The Common Vulnerabilities
+    and Exposures (CVEs) program provides a list of many known vulnerabilities. Together,
+    CVE and CWE are used to identify software defects and the weaknesses that caused
+    a given defect. Vulnerable software is a key target that attackers use to initiate
+    an attack internally and to expand control. Patching vulnerabilities discovered
+    in existing software and improving coding practices for future releases of software
+    are two ways to limit the success of attacks.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 8011v4
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

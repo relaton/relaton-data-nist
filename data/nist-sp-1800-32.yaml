@@ -1,0 +1,103 @@
+---
+id: NISTSP180032
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Securing the industrial internet of things
+  type: title-main
+- language: en
+  script: Latn
+  content: cybersecurity for distributed energy resources
+  type: title-part
+- language: en
+  script: Latn
+  content: Securing the industrial internet of things - cybersecurity for distributed
+    energy resources
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1800-32
+docidentifier:
+- content: NIST SP 1800-32
+  type: NIST
+  primary: true
+- content: NIST.SP.1800-32
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McCarthy, Jim.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Division, Eileen.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Faatz, Don.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Urlaub, Nik.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wiltberger, John.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yimer, Tsion.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: The Industrial Internet of Things (IIoT) refers to the application of instrumentation
+    and connected sensors and other devices to machinery and vehicles in the transport,
+    energy, and other critical infrastructure sectors. In the energy sector, distributed
+    energy resources (DERs) such as solar photovoltaics including sensors, data transfer
+    and communications systems, instruments, and other commercially available devices
+    that are networked together. DERs introduce information exchanges between a utility's
+    distribution control system and the DERs to manage the flow of energy in the distribution
+    grid.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1800-32
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

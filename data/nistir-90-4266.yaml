@@ -1,0 +1,71 @@
+---
+id: NISTIR904266
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Effect of oxygen transport and resistivity of the environment on the corrosion
+    of steel
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.90-4266
+docidentifier:
+- content: NIST IR 90-4266
+  type: NIST
+  primary: true
+- content: NIST.IR.90-4266
+  type: DOI
+date:
+- type: issued
+  at: '1990'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Escalante, E.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n85111868
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Oka, T. (Takeshi)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83328090
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bertocci, U.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 90-4266
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

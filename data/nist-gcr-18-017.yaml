@@ -1,0 +1,94 @@
+---
+id: NISTGCR18017
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The economic impacts of the advanced encryption standard
+  type: title-main
+- language: en
+  script: Latn
+  content: 1996-2017
+  type: title-part
+- language: en
+  script: Latn
+  content: The economic impacts of the advanced encryption standard - 1996-2017
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.GCR.18-017
+docidentifier:
+- content: NIST GCR 18-017
+  type: NIST
+  primary: true
+- content: NIST.GCR.18-017
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Leech, David P.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022047027
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ferris, Stacey.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scott, John T.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: National Institute of Standards and Technology.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: This report is a supplement to the paper published as Transient Thermal
+    Response of an Extended Temperature Range 500-mm diameter Guarded Hot-plate Apparatus
+    by Thomas and Zarr (2018), hereafter referred to as the paper. The paper emphasizes
+    the use of a mathematical model based on interconnected aggregated-capacity subcomponents
+    to determine controller settings for power supplied to various embedded heating
+    elements. This report contains additional detailed information on aspects of the
+    model that is specific to using LabVIEW software for simulation computations adapted
+    to this guarded hot-plate apparatus. The report refers to equations and figures
+    by their numbers as listed in the paper. Equations specific to this report are
+    labeled with letters to distinguish from references to items in the paper. The
+    purpose of the report is to assist users in correcting, modifying, or extending
+    the mathematical model by providing additional details to facilitate reading the
+    software. Specifically, the report includes heat transfer relationships used,
+    component properties such as mass, and methods for evaluating thermal conductances
+    along with typical values.
+series:
+- title:
+  - content: NIST GCR; NIST grant-contract report; NIST grant contract report
+  number: 18-017
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

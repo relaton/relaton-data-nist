@@ -1,0 +1,65 @@
+---
+id: NBSBSS28
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Exploratory studies of early strength development in Portland cement pastes
+    and mortars
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.BSS.28
+docidentifier:
+- content: NBS BSS 28
+  type: NIST
+  primary: true
+- content: NBS.BSS.28
+  type: DOI
+date:
+- type: issued
+  at: '1970'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Blaine, Raymond Leonard,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no99073266
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tomes, L. A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no99073261
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS building science series; NBS building science; NBS BSS
+  number: '28'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

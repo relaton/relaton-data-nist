@@ -1,0 +1,62 @@
+---
+id: NISTIR7880
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST Micronutrients Measurement Quality Assurance Program Winter 2012 Comparability
+    Studies Results for Round Robin LXXI Fat-Soluble Vitamins and Carotenoids in Human
+    Serum and Round Robin 36 Ascorbic Acid in Human Serum
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7880
+docidentifier:
+- content: NIST IR 7880
+  type: NIST
+  primary: true
+- content: NIST.IR.7880
+  type: DOI
+date:
+- type: issued
+  at: '2012'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Duewer, David L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2019178574
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brown Thomas, Jeanice M.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7880'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

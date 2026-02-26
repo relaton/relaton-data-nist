@@ -1,0 +1,82 @@
+---
+id: NISTIR8185
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Lipid concentrations in Standard Reference Material (SRM) 1950: results
+    from an interlaboratory comparison exercise for lipidomics'
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8185
+docidentifier:
+- content: NIST IR 8185
+  type: NIST
+  primary: true
+- content: NIST.IR.8185
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bowden, John A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nr89012862
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Heckert, Alan.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022027346
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ulmer, Candice Z.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jones, Christina M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n87150148
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Material Measurement Laboratory (U.S.).
+    - content: Information Technology Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012096740
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8185'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

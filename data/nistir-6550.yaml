@@ -1,0 +1,83 @@
+---
+id: NISTIR6550
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Pulse transition duration measurements and standards at NBS - 1975 to 1988
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.6550
+docidentifier:
+- content: NIST IR 6550
+  type: NIST
+  primary: true
+- content: NIST.IR.6550
+  type: DOI
+date:
+- type: issued
+  at: '2000'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gans, W. L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82064842
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nahman, N. S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82064843
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Andrew, J. R. (John Robert),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021026289
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Baldwin, E. E.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82244508
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '6550'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,100 @@
+---
+id: NISTSP80090B
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Recommendation for the entropy sources used for random bit generation
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-90B
+docidentifier:
+- content: NIST SP 800-90B
+  type: NIST
+  primary: true
+- content: NIST.SP.800-90B
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Turan, Meltem Sönmez.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barker, Elaine.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kelsey, John.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2014038767
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McKay, Kerry A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Baish, Mary L.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Boyle, Mike.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nb98085056
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation specifies the design principles and requirements for
+    the entropy sources used by Random Bit Generators, and the tests for the validation
+    of entropy sources. These entropy sources are intended to be combined with Deterministic
+    Random Bit Generator mechanisms that are specified in SP 800-90A to construct
+    Random Bit Generators, as specified in SP 800-90C.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-90b
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

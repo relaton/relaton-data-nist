@@ -1,0 +1,78 @@
+---
+id: NBSIR812407
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Intruder tagging and identification using luminescent particles
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IR.81-2407
+docidentifier:
+- content: NBS IR 81-2407
+  type: NIST
+  primary: true
+- content: NBS.IR.81-2407
+  type: DOI
+date:
+- type: issued
+  at: '1982'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: DeVoe, J. R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Velapoldi, R. A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79004036
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Langland, J. K.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hancock, D. K.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2017045941
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBSIR; NBS IR; NBS interagency report; NBS internal report
+  number: 81-2407
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,81 @@
+---
+id: NISTAMS10050
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Efficiency improvements in U.S. manufacturing
+  type: title-main
+- language: en
+  script: Latn
+  content: return on investment for small and medium establishments
+  type: title-part
+- language: en
+  script: Latn
+  content: Efficiency improvements in U.S. manufacturing - return on investment for
+    small and medium establishments
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-50
+docidentifier:
+- content: NIST AMS 100-50
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-50
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Thomas, Douglas.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: Manufacturers and manufacturing research organizations make investments
+    to advance efficiency and competitiveness. Understanding the return for previously
+    made investments can guide both manufacturers and researchers in identifying future
+    investments with a high return. This paper examines trends in data from U.S. Department
+    of Energy Industry Assessment Centers, which make technical assessments to reduce
+    waste at small and medium sized manufacturers, to facilitate identifying potentially
+    high return investments for manufacturers and researchers. The results show that
+    the net present value is disproportionally distributed among investments, where
+    20 % of the investment categories represent 82 % of the net present value (i.e.,
+    net benefits). For individual investments, 20 % of the cumulative investment cost
+    accounts for 74 % of the net present value. Regression analysis identified those
+    investments with a high return when controlling for a selection of factors. The
+    results suggest that over time, the average Internal rate of return (IRR) decreases,
+    larger firms tend to receive higher IRR, and some investment categories tend to
+    have higher IRR than others. The highest IRR investments were related to bottleneck
+    reduction, scheduling, and just-in-time inventory. The highest concentration of
+    net present value was found in heat recovery with the second highest concentration
+    being in cogeneration and the third highest in lighting. The most common high
+    IRR investment type that was statistically significant in a regression analysis
+    was related to heat recovery with the second relating to space conditioning and
+    the third most common was related to cogeneration.
+series:
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 100-50
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

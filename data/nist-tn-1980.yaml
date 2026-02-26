@@ -1,0 +1,132 @@
+---
+id: NISTTN1980
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Measured emission spectra of selected AWS-3 LTE transmitters
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1980
+docidentifier:
+- content: NIST TN 1980
+  type: NIST
+  primary: true
+- content: NIST.TN.1980
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Frey, Michael.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n00000300
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sanders, Geoffrey.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88633231
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Splett, Jolene.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ladbury, John.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sanders, Frank.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n87828162
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kord, Azizollah.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jacobs, Ryan.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2016045473
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Communications Technology Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: Version three of Advanced Wireless Services (AWS-3) radio systems will
+    soon use spectrum that is adjacent to bands currently used by airborne telemetry
+    links at U.S. government test and training ranges (TTRs). It is possible that
+    out-of-band (OoB) and spurious emissions from AWS-3 base stations (within LTE
+    these are referred to as evolved node Bs, or eNBs) and their associated mobile
+    units (called user equipment or UEs) might cause interference to these adjacent-band
+    telemetry receivers. Electromagnetic compatibility (EMC) analyses for such interference
+    will rely on knowing the power spectra of the OoB and spurious emissions of AWS-3
+    eNBs and UEs on frequencies used by telemetry link receivers. To determine these
+    power spectra, the authors have measured transmitter OoB and spurious emissions
+    of an AWS-3 eNB and selected UEs. Adaptive power attenuation allowed these measurements
+    to be made with over 100 decibels (dB) of dynamic range. The measurements have
+    been collected in a variety of resolution bandwidths, transmitter modulations,
+    and types of transmitter loading (i.e., number of resource blocks used) for two
+    measurement detector modes. The results of those measurements are provided in
+    this report. In general, AWS-3 eNB and UE transmitted emission spectra are found
+    to be insensitive to variations in transmitter modulations, and resource block
+    configurations. The measured power spectra of the eNBs and UEs vary in direct
+    proportion to measurement (or receiver) bandwidth (i.e., as 10 log measurement
+    bandwidth) with an approximate offset of about 10 dB between peak and average
+    levels. The measurement results indicate that AWS-3 eNB and UE power spectra were
+    suppressed by at least 100 dB in the adjacent telemetry bands for the devices
+    tested. The results can now be factored into EMC analyses for AWS-3 transmitters
+    operating in proximity to telemetry receivers.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1980'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

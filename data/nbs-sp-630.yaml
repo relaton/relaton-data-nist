@@ -1,0 +1,61 @@
+---
+id: NBSSP630
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Oxidation of sulfite ion by oxygen in aqueous solution
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.630
+docidentifier:
+- content: NBS SP 630
+  type: NIST
+  primary: true
+- content: NBS.SP.630
+  type: DOI
+date:
+- type: issued
+  at: '1982'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Westley, Francis.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79148240
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+abstract:
+- language: en
+  script: Latn
+  content: A list of references is provided for published papers and reports containing
+    rate constants or mechanisms for the oxidation of S(IV) by oxygen in aqueous solution,
+    with or without catalysts. Three hundred and twenty papers are listed, the period
+    covered extending from 1897 to 1981.
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: '630'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

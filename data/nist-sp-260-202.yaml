@@ -1,0 +1,67 @@
+---
+id: NISTSP260202
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Evaluating, expressing, and propagating measurement uncertainty for NIST
+    Reference Materials
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-202
+docidentifier:
+- content: NIST SP 260-202
+  type: NIST
+  primary: true
+- content: NIST.SP.260-202
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Possolo, Antonio M.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+abstract:
+- language: en
+  script: Latn
+  content: This document is a companion of NIST Special Publication 260-136 (2020
+    Edition), intended for users of NIST reference materials, that explains how NIST
+    evaluates and expresses measurement uncertainty associated with certified or with
+    non-certified values, and exemplifies how such uncertainty may be propagated to
+    derivative quantities that involve these values. The first few pages include navigation
+    aids that enable direct and easy access to examples that illustrate different
+    ways of expressing uncertainty, and to specific reference materials mentioned
+    in this document. The document reviews the concepts of measurement, measurement
+    uncertainty, and reference material, and includes a refresher of concepts from
+    probability and statistics that are commonly used in certificates of NIST reference
+    materials. The bulk of the document comprises concrete, worked out examples of
+    how NIST evaluates measurement uncertainty for NIST reference materials, and of
+    how this uncertainty is expressed, and how it may be propagated in applications
+    that use NIST reference materials. Illustrative computer codes are included in
+    an appendix.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 260-202
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

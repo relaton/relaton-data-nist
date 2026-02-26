@@ -1,0 +1,54 @@
+---
+id: NISTIR7377
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Summary of NIST latent fingerprint testing workshop
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7377
+docidentifier:
+- content: NIST IR 7377
+  type: NIST
+  primary: true
+- content: NIST.IR.7377
+  type: DOI
+date:
+- type: issued
+  at: '2006'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dvornychenko, Vladimir N.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Garris, Michael D.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7377'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

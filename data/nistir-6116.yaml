@@ -1,0 +1,111 @@
+---
+id: NISTIR6116
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NGIS SIM Specification
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.6116
+docidentifier:
+- content: NIST IR 6116
+  type: NIST
+  primary: true
+- content: NIST.IR.6116
+  type: DOI
+date:
+- type: issued
+  at: '1998'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rippey, William G.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021049171
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Michaloski, John L.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Herman, Martin.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Szabó, Sándor.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88065472
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Frampton, William DeWys;Nathaniel.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lau, Herbert.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lee, Eun Soo,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2006039754
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rose, John.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n86102745
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '6116'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

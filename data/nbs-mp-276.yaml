@@ -1,0 +1,80 @@
+---
+id: NBSMP276
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Cooperation, convertibility, and compatibility among information systems
+  type: title-main
+- language: en
+  script: Latn
+  content: a literature review
+  type: title-part
+- language: en
+  script: Latn
+  content: Cooperation, convertibility, and compatibility among information systems
+    - a literature review
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.MP.276
+docidentifier:
+- content: NBS MP 276
+  type: NIST
+  primary: true
+- content: NBS.MP.276
+  type: DOI
+date:
+- type: issued
+  at: '1966'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Moats, John S.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Newman, Simon M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n87912009
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Henderson, Madeline M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80023501
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS miscellaneous publication; NBS miscellaneous pub; NBS MP
+  number: '276'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

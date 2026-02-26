@@ -1,0 +1,67 @@
+---
+id: NISTIR8367
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Psychological foundations of explainability and interpretability in artificial
+    intelligence
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8367
+docidentifier:
+- content: NIST IR 8367
+  type: NIST
+  primary: true
+- content: NIST.IR.8367
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Broniatowski, David A.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: In this paper, we make the case that interpretability and explainability
+    are distinct requirements for machine learning systems. To make this case, we
+    provide an overview of the literature in experimental psychology pertaining to
+    interpretation (especially of numerical stimuli) and comprehension. We find that
+    interpretation refers to the ability to contextualize a model s output in a manner
+    that relates it to the system s designed functional purpose, and the goals, values,
+    and preferences of end users. In contrast, explanation refers to the ability to
+    accurately describe the mechanism, or implementation, that led to an algorithm
+    s output, often so that the algorithm can be improved in some way. Beyond these
+    definitions, our review shows that humans differ from one another in systematic
+    ways, that affect the extent to which they prefer to make decisions based on detailed
+    explanations versus less precise interpretations. These individual differences,
+    such as personality traits and skills, are associated with their abilities to
+    derive meaningful interpretations from precise explanations of model output. This
+    implies that system output should be tailored to different types of users.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8367'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

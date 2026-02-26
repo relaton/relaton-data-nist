@@ -1,0 +1,63 @@
+---
+id: NISTIR7103A
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Forensic software testing support tools
+  type: title-main
+- language: en
+  script: Latn
+  content: test plan, test design specification, test case specification
+  type: title-part
+- language: en
+  script: Latn
+  content: Forensic software testing support tools - test plan, test design specification,
+    test case specification
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7103a
+docidentifier:
+- content: NIST IR 7103A
+  type: NIST
+  primary: true
+- content: NIST.IR.7103a
+  type: DOI
+date:
+- type: issued
+  at: '2004'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gavrila, Serban I.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fong, Elizabeth.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 7103a
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

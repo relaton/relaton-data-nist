@@ -1,0 +1,89 @@
+---
+id: NISTGCR19021
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Characterization of residential air distribution system performance for
+    thermal comfort
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.GCR.19-021
+docidentifier:
+- content: NIST GCR 19-021
+  type: NIST
+  primary: true
+- content: NIST.GCR.19-021
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kim, Hyojin.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2017135350
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nguyen, Khiem.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McGuinness, Anne.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dai, Toan Vo.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: Despite broad recognition that air distribution plays an important role
+    in comfort for residential buildings, previous efforts to evaluate and characterize
+    the performance of residential air distribution systems have largely focused on
+    their impact on the heating and cooling energy consumption. However, fewer studies
+    addressed the effectiveness of the tested residential air distribution systems
+    to provide and maintain comfort in the conditioned space by delivering the designed
+    air temperature to individual rooms throughout the house. Therefore, the purpose
+    of this research is to develop an improved understanding of the impact of residential
+    air distribution systems on whole-house thermal comfort and to propose analytical
+    methods for evaluating this impact.
+series:
+- title:
+  - content: NIST GCR; NIST grant-contract report; NIST grant contract report
+  number: 19-021
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

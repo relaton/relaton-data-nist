@@ -1,0 +1,79 @@
+---
+id: NISTBSS173
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Heat and moisture transfer in wood-based wall construction
+  type: title-main
+- language: en
+  script: Latn
+  content: measured versus predicted
+  type: title-part
+- language: en
+  script: Latn
+  content: Heat and moisture transfer in wood-based wall construction - measured versus
+    predicted
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.BSS.173
+docidentifier:
+- content: NIST BSS 173
+  type: NIST
+  primary: true
+- content: NIST.BSS.173
+  type: DOI
+date:
+- type: issued
+  at: '1995'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zarr, R. R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Burch, D. M. (Douglas M.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82129070
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fanney, A. H.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82111365
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NBS building science series; NBS building science; NBS BSS
+  number: '173'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

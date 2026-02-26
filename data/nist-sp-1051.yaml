@@ -1,0 +1,93 @@
+---
+id: NISTSP1051
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Real-time particulate monitoring - detecting respiratory threats for first
+    responders
+  type: title-main
+- language: en
+  script: Latn
+  content: workshop proceedings
+  type: title-part
+- language: en
+  script: Latn
+  content: Real-time particulate monitoring - detecting respiratory threats for first
+    responders - workshop proceedings
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1051
+docidentifier:
+- content: NIST SP 1051
+  type: NIST
+  primary: true
+- content: NIST.SP.1051
+  type: DOI
+date:
+- type: issued
+  at: '2007'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bryant, Rodney A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012119699
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Butler, Kathryn M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021147634
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Vettori, Robert L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2011074848
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Greenberg, Paul S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022017980
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '1051'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

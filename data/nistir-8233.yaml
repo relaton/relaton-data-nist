@@ -1,0 +1,94 @@
+---
+id: NISTIR8233
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Polycyclic aromatic hydrocarbons (PAHs) in marine mammal blubber
+  type: title-main
+- language: en
+  script: Latn
+  content: results from an interlaboratory study
+  type: title-part
+- language: en
+  script: Latn
+  content: Polycyclic aromatic hydrocarbons (PAHs) in marine mammal blubber - results
+    from an interlaboratory study
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8233
+docidentifier:
+- content: NIST IR 8233
+  type: NIST
+  primary: true
+- content: NIST.IR.8233
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Huncik, Kevin M.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kucklick, John.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ragland, Jared M.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8055-2432"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Material Measurement Laboratory (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012096740
+abstract:
+- language: en
+  script: Latn
+  content: To support NOAA's Marine Mammal Health and Stranding program, NIST Charleston
+    was requested to investigate the feasibility of measuring polycyclic aromatic
+    hydrocarbons (PAHs) in marine mammal blubber. Marine mammal blubber can possess
+    high (mg/kg) concentrations of persistent organic pollutants that may interfere
+    with measuring PAHs. The major goals for this study are (1) to determine if laboratories
+    can differentiate PAHs from the persistent organic pollutant (POP)-dominated background
+    typically seen in blubber samples and (2) to determine if POPs in blubber can
+    result in false-positive detections of PAHs such as those arising from laboratory
+    contamination. Five samples were distributed; PAH amended and unamended extracts
+    from high and low POP marine mammal blubber, respectively, and a solution amended
+    with individual PAH compounds. Results from this study indicate that PAHs can
+    be measured in marine mammal blubber and differentiated from POPs co-occurring
+    in the sample. Laboratories did not report PAHs in high POP, non-PAH amended blubber
+    extracts indicating that for this study there were few (<10 total) false positive
+    PAH detections.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8233'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

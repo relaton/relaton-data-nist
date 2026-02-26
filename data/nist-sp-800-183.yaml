@@ -1,0 +1,70 @@
+---
+id: NISTSP800183
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Networks of 'things'
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-183
+docidentifier:
+- content: NIST SP 800-183
+  type: NIST
+  primary: true
+- content: NIST.SP.800-183
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Voas, Jeffrey M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n95000265
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: System primitives allow formalisms, reasoning, simulations, and reliability
+    and security risktradeoffs to be formulated and argued. In this work, five core
+    primitives belonging to most distributed systems are presented. These primitives
+    apply well to systems with large amounts of data, scalability concerns, heterogeneity
+    concerns, temporal concerns, and elements of unknown pedigree with possible nefarious
+    intent. These primitives are the basic building blocks for a Network of Things
+    (NoT), including the Internet of Things (IoT). This document offers an underlying
+    and foundational understanding of IoT based on the realization that IoT involves
+    sensing, computing, communication, and actuation. The material presented here
+    is generic to all distributed systems that employ IoT technologies (i.e., things
+    and networks). The expected audience is computer scientists, IT managers, networking
+    specialists, and networking and cloud computing software engineers. To our knowledge,
+    the ideas and the manner in which IoT is presented here is unique.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-183
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,65 @@
+---
+id: NISTTN1808
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Report of special nuclear material validation measurements for backpack
+    type radiation detectors
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1808
+docidentifier:
+- content: NIST TN 1808
+  type: NIST
+  primary: true
+- content: NIST.TN.1808
+  type: DOI
+date:
+- type: issued
+  at: '2013'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pibida, Leticia.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022071928
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ward, C.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n95800327
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Radiation Physics Division, Physical Measurement Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1808'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

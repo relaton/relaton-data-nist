@@ -1,0 +1,85 @@
+---
+id: NISTSP800189
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Resilient interdomain traffic exchange
+  type: title-main
+- language: en
+  script: Latn
+  content: BGP security and DDos mitigation
+  type: title-part
+- language: en
+  script: Latn
+  content: Resilient interdomain traffic exchange - BGP security and DDos mitigation
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-189
+docidentifier:
+- content: NIST SP 800-189
+  type: NIST
+  primary: true
+- content: NIST.SP.800-189
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sriram, Kotikalapudi.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021120228
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: In recent years, numerous routing control plane anomalies, such as Border
+    Gateway Protocol (BGP) prefix hijacking and route leaks, have resulted in denial-of-service
+    (DoS), unwanted data traffic detours, and performance degradation. Large-scale
+    distributed denial-of-service (DDoS) attacks on servers using spoofed internet
+    protocol (IP) addresses and reflection-amplification in the data plane have also
+    been frequent, resulting in significant disruption of services and damages. This
+    special publication on Resilient Interdomain Traffic Exchange (RITE) includes
+    initial guidance on securing the interdomain routing control traffic, preventing
+    IP address spoofing, and certain aspects of DoS/DDoS detection and mitigation.
+    Many of the recommendations in this publication focus on the Border Gateway Protocol
+    (BGP). BGP is the control protocol used to distribute and compute paths between
+    the tens of thousands of autonomous networks that comprise the internet. Technologies
+    recommended in this document for securing the interdomain routing control traffic
+    include Resource Public Key Infrastructure (RPKI), BGP origin validation (BGP-OV),
+    and prefix filtering. Additionally, technologies recommended for mitigating DoS/DDoS
+    attacks focus on prevention of IP address spoofing using source address validation
+    (SAV) with access control lists (ACLs) and unicast Reverse Path Forwarding (uRPF).
+    Other technologies (including some application plane methods) such as remotely
+    triggered black hole (RTBH) filtering, flow specification (Flowspec), and response
+    rate limiting (RRL) are also recommended as part of the overall security mechanisms.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-189
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

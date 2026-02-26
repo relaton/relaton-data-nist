@@ -1,0 +1,92 @@
+---
+id: NISTIR6371
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: An efficient large eddy simulation algorithm for computational wind engineering
+  type: title-main
+- language: en
+  script: Latn
+  content: application to surface pressure computations on a single building
+  type: title-part
+- language: en
+  script: Latn
+  content: An efficient large eddy simulation algorithm for computational wind engineering
+    - application to surface pressure computations on a single building
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.6371
+docidentifier:
+- content: NIST IR 6371
+  type: NIST
+  primary: true
+- content: NIST.IR.6371
+  type: DOI
+date:
+- type: issued
+  at: '1999'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rehm, Ronald G.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84125101
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McGrattan, Kevin B.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no00054299
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Baum, Howard R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83163247
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Simiu, Emil.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79085114
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '6371'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

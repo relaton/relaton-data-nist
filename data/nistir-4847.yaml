@@ -1,0 +1,74 @@
+---
+id: NISTIR4847
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The influence of ignition source on the flaming fire hazard of upholstered
+    furniture
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.4847
+docidentifier:
+- content: NIST IR 4847
+  type: NIST
+  primary: true
+- content: NIST.IR.4847
+  type: DOI
+date:
+- type: issued
+  at: '1992'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cleary, Thomas G.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021152651
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ohlemiller, T. J. (Thomas J.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84149352
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Villa, Kay M. (Kay Marie)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022064540
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '4847'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

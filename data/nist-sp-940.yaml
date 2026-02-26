@@ -1,0 +1,53 @@
+---
+id: NISTSP940
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST international and academic activities for FY 1997/1998
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.940
+docidentifier:
+- content: NIST SP 940
+  type: NIST
+  primary: true
+- content: NIST.SP.940
+  type: DOI
+date:
+- type: issued
+  at: '1999'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McCurley, Marian F.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no00041609
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '940'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

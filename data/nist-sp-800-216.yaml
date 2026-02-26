@@ -1,0 +1,90 @@
+---
+id: NISTSP800216
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Recommendations for federal vulnerability disclosure guidelines
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-216
+docidentifier:
+- content: NIST SP 800-216
+  type: NIST
+  primary: true
+- content: NIST.SP.800-216
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schaffer, Kim B.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-3073-2395"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mell, Peter.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-2938-897X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Trinh, Hung.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Van Wyk, Isabel.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Lab Name.
+abstract:
+- language: en
+  script: Latn
+  content: Receiving reports on suspected security vulnerabilities in information
+    systems is one of the best ways for developers and services to become aware of
+    issues. Formalizing actions to accept, assess, and manage vulnerability disclosure
+    reports can help reduce known security vulnerabilities. This document recommends
+    guidance for establishing a federal vulnerability disclosure framework, properly
+    handling vulnerability reports, and communicating the mitigation and/or remediation
+    of vulnerabilities. The framework allows for local resolution support while providing
+    federal oversight and should be applied to all software, hardware, and digital
+    services under federal control.
+series:
+- title:
+  - content: NIST special publication
+  number: 800-216
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-216
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

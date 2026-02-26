@@ -1,0 +1,62 @@
+---
+id: NISTIR8289
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Quantities and units for software product measurements
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8289
+docidentifier:
+- content: NIST IR 8289
+  type: NIST
+  primary: true
+- content: NIST.IR.8289
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Flater, David.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2002019519
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: International Organization for Standardization (ISO)/International Electrotechnical
+    Commission (IEC) 80000, the International System of Quantities, collects and organizes
+    the most important physical quantities into a coherent system. In a similar fashion,
+    this report collects and organizes the most important quantities used in software
+    metrics, focusing on software as a product rather than its development process.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8289'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

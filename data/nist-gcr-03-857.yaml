@@ -1,0 +1,62 @@
+---
+id: NISTGCR03857
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A toolkit for evaluating public R&D investment models, methods, and findings
+    from ATP's first decade
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.GCR.03-857
+docidentifier:
+- content: NIST GCR 03-857
+  type: NIST
+  primary: true
+- content: NIST.GCR.03-857
+  type: DOI
+date:
+- type: issued
+  at: '2003'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ruegg, Rosalie.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Feller, Irwin.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50001110
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: National Institute of Standards and Technology.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST GCR; NIST grant-contract report; NIST grant contract report
+  number: 03-857
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

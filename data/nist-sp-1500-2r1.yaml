@@ -1,0 +1,79 @@
+---
+id: NISTSP15002r1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST Big Data Interoperability Framework
+  type: title-main
+- language: en
+  script: Latn
+  content: volume 2, big data taxonomies, version 2
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST Big Data Interoperability Framework - volume 2, big data taxonomies,
+    version 2
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1500-2r1
+docidentifier:
+- content: NIST SP 1500-2r1
+  type: NIST
+  primary: true
+- content: NIST.SP.1500-2r1
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: NIST Big Data Public Working Group.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: NIST Big Data Public Working Group.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: Big Data is a term used to describe the large amount of data in the networked,
+    digitized, sensor-laden, information-driven world. While opportunities exist with
+    Big Data, the data can overwhelm traditional technical approaches and the growth
+    of data is outpacing scientific and technological advances in data analytics.
+    To advance progress in Big Data, the NIST Big Data Public Working Group (NBD-PWG)
+    is working to develop consensus on important, fundamental concepts related to
+    Big Data. The results are reported in the NIST Big Data Interoperability Framework
+    (NBDIF) series of volumes. This volume, Volume 2, contains the Big Data taxonomies
+    developed by the NBD-PWG. These taxonomies organize the reference architecture
+    components, fabrics, and other topics to lay the groundwork for discussions surrounding
+    Big Data.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1500-2r1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

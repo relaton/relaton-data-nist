@@ -1,0 +1,104 @@
+---
+id: NISTIR8369
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Status report on the second round of the NIST lightweight cryptography
+    standardization process
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8369
+docidentifier:
+- content: NIST IR 8369
+  type: NIST
+  primary: true
+- content: NIST.IR.8369
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sonmez Turan, Meltem.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McKay, Kerry.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chang, Donghoon.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Calik, Cagdas.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bassham, Lawrence.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kang, Jinkeon.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kelsey, John.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+abstract:
+- language: en
+  script: Latn
+  content: 'The National Institute of Standards and Technology (NIST) is in the process
+    of selecting one or more authenticated encryption and hashing schemes suitable
+    for constrained environments through a public, competition-like process. In February
+    2019, 57 candidates were submitted to NIST for consideration. Among these, 56
+    were accepted as first-round candidates in April 2019, and after four months,
+    NIST selected 32 of these as second-round candidates. In March 2021, NIST announced
+    10 finalists to move forward to the final round of the standardization process.
+    This report describes the evaluation criteria and selection process based on public
+    feedback and internal review of the second-round candidates. The following candidates
+    are selected as finalists: ASCON, Elephant, GIFT-COFB, Grain128-AEAD, ISAP, Photon-Beetle,
+    Romulus, Sparkle, TinyJambu, and Xoodyak.'
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8369'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

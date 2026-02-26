@@ -1,0 +1,93 @@
+---
+id: NISTSP889
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Post-earthquake fire and lifelines workshop
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.889
+docidentifier:
+- content: NIST SP 889
+  type: NIST
+  primary: true
+- content: NIST.SP.889
+  type: DOI
+date:
+- type: issued
+  at: '1995'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chung, R. M. (Riley M.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83016081
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jason, Nora H.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n77011027
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mohraz, Bijan.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n89648293
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mowrer, Frederick William.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n90683467
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Walton, W. Douglas.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84098841
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '889'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

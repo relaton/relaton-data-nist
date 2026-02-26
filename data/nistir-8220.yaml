@@ -1,0 +1,64 @@
+---
+id: NISTIR8220
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Performance evaluation of LTE device-to-device out-of-coverage communication
+    with frequency hopping resource scheduling
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8220
+docidentifier:
+- content: NIST IR 8220
+  type: NIST
+  primary: true
+- content: NIST.IR.8220
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cintron, Fernando J.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Communications Technology Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: This document presents a performance evaluation of Long Term Evolution
+    (LTE) Deviceto-device (D2D) communication when enabling frequency hopping resource
+    scheduling. Moreover, as secondary objective, this document serves as a compendium
+    for frequency hopping related procedures over D2D communications as defined by
+    The 3rd Generation Partnership Project (3GPP) for the LTE standard. D2D communication
+    is modeled and simulated using discrete event network simulator (ns-3). Simulated
+    scenarios are designed to capture communication conditions occurring outside network
+    infrastructure coverage, alike those experienced by authorized network users,
+    such as public safety first responders, during network outages.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8220'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

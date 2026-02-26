@@ -1,0 +1,68 @@
+---
+id: NBSBMS4
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Accelerated aging of fiber building boards
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.BMS.4
+docidentifier:
+- content: NBS BMS 4
+  type: NIST
+  primary: true
+- content: NBS.BMS.4
+  type: DOI
+date:
+- type: issued
+  at: '1938'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jessup, Daniel A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Weissberg, Samuel G.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Weber, Charles G. (Charles Gould),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n92088964
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS building materials and structures report; NBS BMS
+  number: '4'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

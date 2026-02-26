@@ -1,0 +1,132 @@
+---
+id: NISTTN1951
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Industrial wireless systems radio propagation measurements
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1951
+docidentifier:
+- content: NIST TN 1951
+  type: NIST
+  primary: true
+- content: NIST.TN.1951
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Candell, Richard.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Remley, Kate A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021143253
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Quimby, Jeanne T.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Novotný, David.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021089922
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Curtin, Alexandra.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Papazian, Peter B.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2007083196
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kashef, Mohamed.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Diener, Joseph.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    - content: Communications Technology Laboratory.
+    - content: Information Technology Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: Radio frequency (RF) propagation measurements were conducted at three facilities
+    representing a cross-section of different classes of industrial environments.
+    Selected sites included a multi-acre transmission assembly factory typical of
+    the automotive industry; a medium-sized machine shop primarily engaged in metalworking
+    located on the NIST campus in Gaithersburg; and a steam generation plant located
+    on the NIST campus in Boulder. A spread spectrum correlation sounder was used
+    to take the measurements at a continuum of points throughout the facility by fixing
+    the transmitter and moving the receiver at a constant rate throughout each facility.
+    We analyzed the data collected from the RF propagation measurements of each site.
+    Analysis is based on channel impulse response (CIR) measurements collected during
+    the measurement using equipment developed by the National Institute of Standards
+    and Technology. The results of our analysis includes a tabulated summary and detailed
+    exploration of various industry accepted channel metrics such as path loss, delay
+    spread, and K factor. Our interpretation of the measurements contributes to an
+    improved understanding of radio frequency propagation in factories and an additional
+    perspective on deploying wireless communication devices within factories. The
+    raw measurement data and analysis software is made freely available for public
+    download.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1951'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

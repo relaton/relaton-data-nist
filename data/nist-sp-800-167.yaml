@@ -1,0 +1,75 @@
+---
+id: NISTSP800167
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guide to application whitelisting
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-167
+docidentifier:
+- content: NIST SP 800-167
+  type: NIST
+  primary: true
+- content: NIST.SP.800-167
+  type: DOI
+date:
+- type: issued
+  at: '2015'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sedgewick, A. (Adam)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88664272
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Souppaya, Murugiah.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2006135981
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, Karen.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2007017003
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2008015449
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-167
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

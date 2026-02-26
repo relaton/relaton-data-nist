@@ -1,0 +1,78 @@
+---
+id: NISTSP974
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Proceedings of the NIST Centennial Standards Symposium
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.974
+docidentifier:
+- content: NIST SP 974
+  type: NIST
+  primary: true
+- content: NIST.SP.974
+  type: DOI
+date:
+- type: issued
+  at: '2002'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: DiBernardo, Mary Jo.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2004004221
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Collins, Belinda Lowenhaupt.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80004000
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Leight, Walter G.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no90020945
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: On Mar. 7, 2001, in honor of its 100th anniversary, the National Institute
+    of Standards and Technology sponsored the NIST Centennial Standards Symposium.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '974'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

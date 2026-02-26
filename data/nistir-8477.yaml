@@ -1,0 +1,98 @@
+---
+id: NISTIR8477
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Mapping relationships between documentary standards, regulations, frameworks,
+    and guidelines
+  type: title-main
+- language: en
+  script: Latn
+  content: developing cybersecurity and privacy concept mappings
+  type: title-part
+- language: en
+  script: Latn
+  content: Mapping relationships between documentary standards, regulations, frameworks,
+    and guidelines - developing cybersecurity and privacy concept mappings
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8477
+docidentifier:
+- content: NIST IR 8477
+  type: NIST
+  primary: true
+- content: NIST.IR.8477
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, Karen.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-6334-9486"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Souppaya, Murugiah.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8055-8527"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fagan, Michael.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-1861-2609"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This document describes NIST’s approach to mapping the elements of documentary
+    standards, regulations, frameworks, and guidelines to a particular NIST publication,
+    such as CSF Subcategories or SP 800-53r5 controls. This approach is intended to
+    be used to map relationships involving NIST cybersecurity and privacy publications
+    that will be submitted via the NIST National Online Informative References (OLIR)
+    process for hosting on NIST’s online Cybersecurity and Privacy Reference Tool
+    (CPRT). The approach will provide flexibility to capture relationships for various
+    levels of concepts and in different degrees of detail in human-consumable, machine-readable
+    formats. The approach is informed by concept system and terminology standards,
+    as well as experience with what information the security and privacy community
+    would find most valuable.
+series:
+- title:
+  - content: NISTIR
+  number: '8477'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8477'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

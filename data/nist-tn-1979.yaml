@@ -1,0 +1,132 @@
+---
+id: NISTTN1979
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST channel sounder overview and channel measurements in manufacturing
+    facilities
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1979
+docidentifier:
+- content: NIST TN 1979
+  type: NIST
+  primary: true
+- content: NIST.TN.1979
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Quimby, Jeanne T.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Candell, Richard.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Remley, Kate A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021143253
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Novotný, David.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021089922
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Diener, Joseph.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Papazian, Peter B.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2007083196
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Curtin, Alexandra.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Koepke, Galen.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Communications Technology Laboratory.
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: Manufacturers are increasingly choosing wireless platforms to replace wired
+    ones due to their ease of installation, upgrade, and reconfigurability. Reliable
+    and secure real-time performance of wireless platforms is technically challenging
+    because wireless data communication, reliability, and throughput can be easily
+    affected by the physical environment in which the wireless platforms are operate.
+    These effects need to be investigated and better understood through physics-based
+    modeling, correlated with real-world measurements. To support U.S. manufacturers,
+    the NIST Engineering Laboratory has launched a five-year project entitled Wireless
+    Systems for Industrial Environments as part of the NIST Standards for Manufacturing
+    Systems Program. The key idea for this project is to develop best-practice guidelines
+    for integrated performance evaluation of secure wireless platforms in dynamic
+    production systems. This will include a methodology for selecting wireless technology
+    and protocols that will assure real-time performance of wireless platforms in
+    various manufacturing environments. These guidelines will enable manufacturers,
+    technology providers, and solution providers to design, deploy, and assess robust,
+    secure integrated wireless solutions for use in smart manufacturing. As part of
+    this project, NIST will be characterizing the wireless environment through measurements
+    in representative production facilities.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1979'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

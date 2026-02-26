@@ -1,0 +1,154 @@
+---
+id: NISTIR8409
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Measuring the Common Vulnerability Scoring System base score equation
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8409
+docidentifier:
+- content: NIST IR 8409
+  type: NIST
+  primary: true
+- content: NIST.IR.8409
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mell, Peter.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Spring, Jonathan.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dugal, Dave.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ananthakrishna, Srividya.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Casotto, Francesco.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fridley, Troy.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ganas, Christopher.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kundu, Arkadeep.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nordwall, Phillip.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pushpanathan, Vijayamurugan.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sommerfeld, Daniel.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tesauro, Matt.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Turner, Chris.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: This work evaluates the validity of the Common Vulnerability Scoring System
+    (CVSS) Version 3 ''base score'' equation in capturing the expert opinion of its
+    maintainers. CVSS is a widely used industry standard for rating the severity of
+    information technology vulnerabilities; it is based on human expert opinion. This
+    study is important because the equation design has been questioned since it has
+    features that are both non-intuitive and unjustified by the CVSS specification.
+    If one can show that the equation reflects CVSS expert opinion, then that study
+    justifies the equation and the security community can treat the equation as an
+    opaque box that functions as described. This work shows that the CVSS base score
+    equation closely though not perfectly represents the CVSS maintainers' expert
+    opinion. The CVSS specification itself provides a measurement of error called
+    ''acceptable deviation'' (with a value of 0.5 points). In this work, the distance
+    between the CVSS base scores and the closest consistent scoring systems (ones
+    that completely conform to the recorded expert opinion) is measured. The authors
+    calculate that the mean scoring distance is 0.13 points and the maximum scoring
+    distance is 0.40 points. The acceptable deviation was also measured to be 0.20
+    points (lower than claimed by the specification). These findings validate that
+    the CVSS base score equation represents the CVSS maintainers' domain knowledge
+    to the extent described by these measurements.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8409'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

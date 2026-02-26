@@ -1,0 +1,51 @@
+---
+id: NISTFIPS1581e1993
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The user interface component of the applications portability profile
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.FIPS.158-1-1993
+docidentifier:
+- content: NIST FIPS 158-1e1993
+  type: NIST
+  primary: true
+- content: NIST.FIPS.158-1-1993
+  type: DOI
+date:
+- type: issued
+  at: '1993'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: Federal information processing standards publication; FIPS
+  number: 158-1-1993
+place:
+- city: Washington
+  region:
+  - iso: D
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

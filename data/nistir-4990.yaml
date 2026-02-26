@@ -1,0 +1,54 @@
+---
+id: NISTIR4990
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OCR error rate versus rejection rate for isolated handprint characters
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.4990
+docidentifier:
+- content: NIST IR 4990
+  type: NIST
+  primary: true
+- content: NIST.IR.4990
+  type: DOI
+date:
+- type: issued
+  at: '1992'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Geist, Jon.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wilkinson, R. Allen.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '4990'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

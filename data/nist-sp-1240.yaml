@@ -1,0 +1,93 @@
+---
+id: NISTSP1240
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Data, information, and tools needed for community resilience planning and
+    decision-making
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1240
+docidentifier:
+- content: NIST SP 1240
+  type: NIST
+  primary: true
+- content: NIST.SP.1240
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McAllister, Therese.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nr2002021681
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Clavin, Christopher.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ellingwood, Bruce R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80097474
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: van de Lindt, John.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mizzen, David.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lavelle, Francis.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '1240'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

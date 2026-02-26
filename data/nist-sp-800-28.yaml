@@ -1,0 +1,70 @@
+---
+id: NISTSP80028
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guidelines on active content and mobile code
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-28
+docidentifier:
+- content: NIST SP 800-28
+  type: NIST
+  primary: true
+- content: NIST.SP.800-28
+  type: DOI
+date:
+- type: issued
+  at: '2001'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jansen, W.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2009004133
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: Active content technologies allow code, in the form of a script, macro,
+    or other kind of portable instruction representation, to execute when the document
+    is rendered. Like any technology, active content can be used to deliver essential
+    services, but it can also become a source of vulnerability for exploitation by
+    an attacker. The purpose of this document is to provide an overview of active
+    content and mobile code technologies in use today and offer insights for making
+    informed IT security decisions on their application and treatment. The discussion
+    gives details about the threats, technology risks, and safeguards for end user
+    systems, such as desktops and laptops. Although various end user applications,
+    such as email clients, can involve active content, Web browsers remain the primary
+    vehicle for delivery and are underscored in the discussion. The tenets presented
+    for Web browsers apply equally well to other end user applications and can be
+    inferred directly.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-28
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

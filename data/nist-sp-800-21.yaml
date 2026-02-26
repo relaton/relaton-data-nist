@@ -1,0 +1,65 @@
+---
+id: NISTSP80021
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guideline for implementing cryptography in the federal government
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-21
+docidentifier:
+- content: NIST SP 800-21
+  type: NIST
+  primary: true
+- content: NIST.SP.800-21
+  type: DOI
+date:
+- type: issued
+  at: '1999'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lee, Annabelle.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n00014747
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: The purpose of this document is to provide guidance to Federal agencies
+    on how to select cryptographic controls for protecting Sensitive Unclassified1
+    information. This document focuses on Federal standards documented in Federal
+    Information Processing Standards Publications (FIPS PUBs) and the cryptographic
+    modules and algorithms that are validated against these standards. However, to
+    provide additional information, other standards organizations, (e.g., American
+    National Standards Institute (ANSI) and International Organization for Standardization
+    (ISO)) are briefly discussed.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-21
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

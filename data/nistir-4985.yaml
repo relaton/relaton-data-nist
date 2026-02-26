@@ -1,0 +1,68 @@
+---
+id: NISTIR4985
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A user's guide for CFAST version 1.6
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.4985
+docidentifier:
+- content: NIST IR 4985
+  type: NIST
+  primary: true
+- content: NIST.IR.4985
+  type: DOI
+date:
+- type: issued
+  at: '1992'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Portier, Rebecca W.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Reneke, Paul A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jones, Walter W.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Peacock, Richard D.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '4985'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

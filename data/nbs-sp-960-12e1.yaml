@@ -1,0 +1,72 @@
+---
+id: NBSSP96012e1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST recommended practice guide
+  type: title-main
+- language: en
+  script: Latn
+  content: stopwatch and timer calibrations (2004 edition)
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST recommended practice guide - stopwatch and timer calibrations (2004
+    edition)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.960-12e1
+docidentifier:
+- content: NBS SP 960-12e1
+  type: NIST
+  primary: true
+- content: NBS.SP.960-12e1
+  type: DOI
+date:
+- type: issued
+  at: '2004'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gust, Jeff C.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2009067247
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Graham, Robert M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n00138422
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 960-12e1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,40 @@
+---
+id: NBSLC101
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: U.S. petroleum oil tables
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.LCIRC.101
+docidentifier:
+- content: NBS LC 101
+  type: NIST
+  primary: true
+- content: NBS.LCIRC.101
+  type: DOI
+date:
+- type: issued
+  at: '1923'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NBSLCIRC; NBS LCIRC; NBS letter circular
+  number: '101'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

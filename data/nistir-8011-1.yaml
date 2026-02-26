@@ -1,0 +1,97 @@
+---
+id: NISTIR80111
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Automation support for security control assessments, volume 1
+  type: title-main
+- language: en
+  script: Latn
+  content: overview
+  type: title-part
+- language: en
+  script: Latn
+  content: Automation support for security control assessments, volume 1 - overview
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8011-1
+docidentifier:
+- content: NIST IR 8011-1
+  type: NIST
+  primary: true
+- content: NIST.IR.8011-1
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dempsey, Kelley.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022000344
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Eavy, Paul.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Moore, George.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n98012695
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: This volume introduces concepts to support automated assessment of most
+    of the security controls in NIST Special Publication (SP) 800-53. Referencing
+    SP 800-53A, the controls are divided into more granular parts (determination statements)
+    to be assessed. The parts of the control assessed by each determination statement
+    are called control items. The control items are then grouped into the appropriate
+    security capabilities. As suggested by SP 800-53 Revision 4, security capabilities
+    are groups of controls that support a common purpose. For effective automated
+    assessment, testable defect checks are defined that bridge the determination statements
+    to the broader security capabilities to be achieved and to the SP 800-53 security
+    control items themselves. The defect checks correspond to security sub-capabilities
+    -- called sub-capabilities because each is part of a larger capability. Capabilities
+    and sub-capabilities are both designed with the purpose of addressing a series
+    of attack steps. Automated assessments (in the form of defect checks) are performed
+    using the test assessment method defined in SP 800-53A by comparing a desired
+    and actual state (or behavior).
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 8011-1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

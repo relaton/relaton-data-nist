@@ -1,0 +1,75 @@
+---
+id: NISTSP8005
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A guide to the selection of anti-virus tools and techniques
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-5
+docidentifier:
+- content: NIST SP 800-5
+  type: NIST
+  primary: true
+- content: NIST.SP.800-5
+  type: DOI
+date:
+- type: issued
+  at: '1992'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Polk, Tim,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n90727805
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bassham, Lawrence E.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n91102724
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: Computer viruses continue to pose a threat to the integrity and availability
+    of computer systems. This is especially true for users of personal computers.
+    A variety of anti-virus tools are now available to help manage this threat. These
+    tools use a wide range of techniques to detect, identify, and remove viruses.
+    This guide provides criteria for judging the functionality, practicality, and
+    convenience of anti-virus tools. It furnishes information which readers can use
+    to determine which tools are best suited to target environments, but it does not
+    weigh the merits of specific tools.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-5
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

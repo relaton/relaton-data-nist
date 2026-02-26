@@ -1,0 +1,66 @@
+---
+id: NISTSP80053r5
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Security and privacy controls for information systems and organizations
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-53r5
+docidentifier:
+- content: NIST SP 800-53r5
+  type: NIST
+  primary: true
+- content: NIST.SP.800-53r5
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Joint Task Force.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+abstract:
+- language: en
+  script: Latn
+  content: This publication provides a catalog of security and privacy controls for
+    information systems and organizations to protect organizational operations and
+    assets, individuals, other organizations, and the Nation from a diverse set of
+    threats and risks, including hostile attacks, human errors, natural disasters,
+    structural failures, foreign intelligence entities, and privacy risks. The controls
+    are flexible and customizable and implemented as part of an organization-wide
+    process to manage risk. The controls address diverse requirements derived from
+    mission and business needs, laws, executive orders, directives, regulations, policies,
+    standards, and guidelines. Finally, the consolidated control catalog addresses
+    security and privacy from a functionality perspective (i.e., the strength of functions
+    and mechanisms provided by the controls) and from an assurance perspective (i.e.,
+    the measure of confidence in the security or privacy capability provided by the
+    controls). Addressing functionality and assurance helps to ensure that information
+    technology products and the systems that rely on those products are sufficiently
+    trustworthy.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-53r5
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,88 @@
+---
+id: NISTIR8430
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: FRVT Part 4A
+  type: title-main
+- language: en
+  script: Latn
+  content: MORPH - utility of 1:N face recognition for morph detection
+  type: title-part
+- language: en
+  script: Latn
+  content: FRVT Part 4A - MORPH - utility of 1:N face recognition for morph detection
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8430
+docidentifier:
+- content: NIST IR 8430
+  type: NIST
+  primary: true
+- content: NIST.IR.8430
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ngan, Mei.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grother, Patrick.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hanaoka, Kayee.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: This report is a part of a series of studies on the topic of face morphing,
+    its relevance and implications as a vulnerability to automated face recognition,
+    and methods to aid in detecting morphs. Expanding on concepts introduced in a
+    study conducted by the Dutch Vehicle Authority, this report presents a methodology
+    and quantitative results on the use of automated one-to-many (1:N) face recognition
+    algorithms as a mechanism to potentially detect the presence of morphs. This report
+    is intended to inform end-users and identity credential issuance entities, especially
+    those that accept user-submitted photos, in understanding how a 1:N search against
+    a centralized database might be used to flag suspicious activity related to face
+    morphing. Our proposed methodology analyzes the rank 1 and rank 2 scores that
+    are returned on candidate lists from searching morph and bona fide photos against
+    both consolidated and unconsolidated galleries of 1.6 million unique subjects
+    under new enrollment and renewal scenarios. Morph classifiers are trained using
+    the rank 1 and 2 score pairs from a number of modern 1:N face recognition algorithms
+    to quantify the utility of these scores in detecting morphs.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8430'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

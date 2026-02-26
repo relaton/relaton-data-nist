@@ -1,0 +1,72 @@
+---
+id: NISTTN2015
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Users guide to the NIST data alignment tool V1.0
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2015
+docidentifier:
+- content: NIST TN 2015
+  type: NIST
+  primary: true
+- content: NIST.TN.2015
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Galler, Michael A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2007101805
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: The Data Alignment Tool (DAT) was built to assist with the analysis of
+    data used in testing fault detection and diagnostics (FDD) tools and building
+    commissioning (Cx) tools. The data sources were the Virtual Cybernetic Building
+    Testbed (VCBT) [1] and data collected from real buildings. The raw data processed
+    by the DAT typically spanned multiple input files, and was not in a format appropriate
+    for the analysis tools. The features provided by the DAT were implemented to address
+    the specific needs of the tools being tested, but should also be applicable to
+    a wide range of other uses. The DAT can read data from one or more data files,
+    perform several useful operations on it, and save it with a variety of options.
+    The operations implemented include combining subsets of columns from multiple
+    data files into one output file, reducing data by modifying the time span between
+    data points, performing unit conversions, and filtering data by time of day. Output
+    file operations include a column filter or splitting out files by date. As a manual
+    process, each of these operations would be time consuming, tedious and error prone.
+    The DAT largely automates these operations.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2015'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,64 @@
+---
+id: NBSSP609
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Proceedings of a meeting on traceability for ionizing radiation measurements
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.609
+docidentifier:
+- content: NBS SP 609
+  type: NIST
+  primary: true
+- content: NBS.SP.609
+  type: DOI
+date:
+- type: issued
+  at: '1982'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Heaton, H. T.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80025819
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+abstract:
+- language: en
+  script: Latn
+  content: These proceedings are the compilation of 21 papers presented at a seminar
+    on Traceability for Ionizing Radiation Measurements held at the National Bureau
+    of Standards, Gaithersburg, MD, on May 8-9, 1980. General concepts for traceability
+    were presented from several perspectives. The national standards for radiation
+    dosimetry, radioactivity measurements, and neutron measurements were described.
+    Specific programs for achieving traceability to the national standards for radiation
+    measurements in medical, occupational, and environmental applications were summarized.
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: '609'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

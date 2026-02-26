@@ -1,0 +1,85 @@
+---
+id: NISTIR4529
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Alaska Marine Mammal Tissue Archival Project
+  type: title-main
+- language: en
+  script: Latn
+  content: revised collection protocol
+  type: title-part
+- language: en
+  script: Latn
+  content: Alaska Marine Mammal Tissue Archival Project - revised collection protocol
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.4529
+docidentifier:
+- content: NIST IR 4529
+  type: NIST
+  primary: true
+- content: NIST.IR.4529
+  type: DOI
+date:
+- type: issued
+  at: '1991'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Becker, Paul R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n86085576
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wise, Stephen A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Koster, Barbara J.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zeisler, Rolf.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82078355
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '4529'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

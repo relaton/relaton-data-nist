@@ -1,0 +1,102 @@
+---
+id: NISTIR6457
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST construction automation program report no. 4
+  type: title-main
+- language: en
+  script: Latn
+  content: non-intrusive scanning technology for construction status determination
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST construction automation program report no. 4 - non-intrusive scanning
+    technology for construction status determination
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.6457
+docidentifier:
+- content: NIST IR 6457
+  type: NIST
+  primary: true
+- content: NIST.IR.6457
+  type: DOI
+date:
+- type: issued
+  at: '2000'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cheok, Geraldine S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no89007530
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lipman, Robert R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021113188
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Witzgall, Christoph.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n85194297
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bernal, Javier.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n89673385
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stone, W. C. (William C.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81152535
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '6457'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

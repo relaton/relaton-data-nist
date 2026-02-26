@@ -1,0 +1,62 @@
+---
+id: NISTSP967
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Automating the future
+  type: title-main
+- language: en
+  script: Latn
+  content: a history of the Automated Manufacturing Research Facility 1980-1995
+  type: title-part
+- language: en
+  script: Latn
+  content: Automating the future - a history of the Automated Manufacturing Research
+    Facility 1980-1995
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.967
+docidentifier:
+- content: NIST SP 967
+  type: NIST
+  primary: true
+- content: NIST.SP.967
+  type: DOI
+date:
+- type: issued
+  at: '2001'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zenzen, Joan M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n95097145
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '967'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,61 @@
+---
+id: NISTSP25051
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Calibration service of optoelectronic frequency response at 1319 nm for
+    combined photodiode/RF power sensor transfer standards
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.250-51
+docidentifier:
+- content: NIST SP 250-51
+  type: NIST
+  primary: true
+- content: NIST.SP.250-51
+  type: DOI
+date:
+- type: issued
+  at: '1999'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hale, Paul D.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wang, C. M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88672735
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 250-51
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

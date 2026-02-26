@@ -1,0 +1,84 @@
+---
+id: NISTIR8282r1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Forensic handwriting examination and human factors
+  type: title-main
+- language: en
+  script: Latn
+  content: improving the practice through a systems approach
+  type: title-part
+- language: en
+  script: Latn
+  content: Forensic handwriting examination and human factors - improving the practice
+    through a systems approach
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8282r1
+docidentifier:
+- content: NIST IR 8282r1
+  type: NIST
+  primary: true
+- content: NIST.IR.8282r1
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: The Expert Working Group for Human Factors in Handwriting Examination.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Laboratory Programs.
+abstract:
+- language: en
+  script: Latn
+  content: For some 6,000 years, humans have made an indelible mark on history through
+    the loops, strokes, and other characters that constitute the written form of language
+    - handwriting. The study of handwriting is also an important part of forensic
+    science. By analyzing the characteristics of a handwritten note or signature,
+    a trained forensic document examiner may be able to extract valuable information
+    for determining whether a note or signature is genuine, as well as the likely
+    writer. As with all human endeavors, handwriting examination is not immune to
+    errors. In June 2015, the US National Institute of Standards and Technology convened
+    the Expert Working Group for Human Factors in Handwriting Examination to conduct
+    a scientific assessment of the effects of human factors on forensic handwriting
+    examination with the goal of recommending strategies and approaches to improve
+    its practice and reduce the likelihood of errors. This report provides a comprehensive
+    discussion of how human factors relate to all aspects of handwriting examinations
+    including communicating conclusions to all relevant parties through reports and
+    testimony. The report also discusses education, training, and certification as
+    well as the role of quality assurance, quality control, and management in reducing
+    errors.
+relation:
+- type: updates
+  bibitem:
+    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x0000000391dd1a50>"
+    docidentifier:
+    - content: NIST IR 8282
+      type: NIST
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 8282r1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

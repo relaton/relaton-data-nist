@@ -1,0 +1,119 @@
+---
+id: NISTIR5602
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Interim testing artifact (ITA), a performance evaluation system for coordinate
+    measuring machines (CMMs)
+  type: title-main
+- language: en
+  script: Latn
+  content: user manual
+  type: title-part
+- language: en
+  script: Latn
+  content: Interim testing artifact (ITA), a performance evaluation system for coordinate
+    measuring machines (CMMs) - user manual
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.5602
+docidentifier:
+- content: NIST IR 5602
+  type: NIST
+  primary: true
+- content: NIST.IR.5602
+  type: DOI
+date:
+- type: issued
+  at: '1995'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Singer, A. T.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Land, J. L.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Phillips, Steven Dale.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nr2002034281
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sawyer, D.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Borchardt, B.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Caskey, G.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ward, D.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Snoots, P.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Faust, B.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '5602'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

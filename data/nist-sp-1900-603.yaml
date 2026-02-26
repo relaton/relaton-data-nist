@@ -1,0 +1,204 @@
+---
+id: NISTSP1900603
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST transactive energy modeling and simulation challenge phase II final
+    report
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1900-603
+docidentifier:
+- content: NIST SP 1900-603
+  type: NIST
+  primary: true
+- content: NIST.SP.1900-603
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Holmberg, David.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-1738-8190"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Burns, Martin.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97033846
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bushby, Steven.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-6955-6926"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gopstein, Avi.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McDermott, Tom.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n93047166
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tang, Yingying.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2013003700
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Huang, Qiuhua.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2007092744
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pratt, Annabelle.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2019147720
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ruth, Mark.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ding, Fei.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bichpuriya, Yogesh.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rajagopal, Narayanan.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ilić, Marija.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2008089168
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jaddivada, Rupamathi.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Neema, Himanshu.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2008173862
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: The NIST Transactive Energy (TE) Modeling and Simulation Challenge for
+    the Smart Grid (Challenge) spanned from 2015 to 2018. The TE Challenge was initiated
+    to identify simulation tools and expertise that might be developed or combined
+    in co-simulation platforms to enable the evaluation of transactive energy approaches.
+    Phase I of the Challenge spanned 2015 to 2016, with team efforts that improved
+    understanding of TE concepts, identified relevant simulation tools and co-simulation
+    platforms, and inspired the development of a TE co-simulation abstract component
+    model that paved the way for Phase II. The Phase II effort spanned Spring 2017
+    through Spring 2018, where the teams collaboratively developed a specific TE problem
+    scenario, a common grid topology, and common reporting metrics to enable direct
+    comparison of results from simulation of each team's TE approach for the defined
+    scenario. This report presents an overview of the TE Challenge, the TE abstract
+    component model, and the common scenario. It also compiles the individual Challenge
+    participants' research reports from Phase II. The common scenario involves a weather
+    event impacting a distribution grid with very high penetration of photovoltaics,
+    leading to voltage regulation challenges that are to be mitigated by TE methods.
+    Four teams worked with this common scenario and different TE models to incentivize
+    distributed resource response to voltage deviations, performing these simulations
+    on different simulation platforms. A fifth team focused on a co-simulation platform
+    that can be used for online TE simulations with existing co-simulation components.
+    The TE Challenge Phase II has advanced co-simulation modeling tools and platforms
+    for TE system performance analysis, developed a referenceable TE scenario that
+    can support ongoing comparative simulations, and demonstrated various TE approaches
+    for managing voltage on a distribution grid with high penetration of photovoltaics.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1900-603
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

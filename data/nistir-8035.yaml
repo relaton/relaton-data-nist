@@ -1,0 +1,89 @@
+---
+id: NISTIR8035
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Product data sheet ontology
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8035
+docidentifier:
+- content: NIST IR 8035
+  type: NIST
+  primary: true
+- content: NIST.IR.8035
+  type: DOI
+date:
+- type: issued
+  at: '2014'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Abeye, Binyam.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barkmeyer, Edward.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n86135755
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Denno, Peter.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: Data exchange transactions for the engineering, procurement, and operation
+    of process equipment depend heavily on product data sheets. Product data sheets
+    are traditional paper forms that serve as the main method of communicating detailed
+    equipment specifications. There are many standards for the layout and use of product
+    data sheets, but there are still problems with the data exchanges that use them.
+    First, most transactions are still done with the exchange of document images,
+    e.g., scanned product data sheets, which have to be interpreted by humans and
+    transcribed for use in a software tool. Second, the commonly used machine-interpretable
+    forms of product data sheets are created using spreadsheet tools, but there is
+    often disagreement on terminology and on the intended meaning of certain fields.
+    This publication introduces the concept of a Product Data Sheet Ontology covering
+    the types of information included on product data sheets. The ontology is a formal
+    machine-readable terminology that is based on industry standard glossaries of
+    terms and definitions. The paper specifically includes the concepts used in Centrifugal
+    Pump, Pressure Transmitter, and Valve data sheets. The paper depicts the product
+    data sheet concepts and their relationships in UML diagrams and describes them
+    in detail in text. The UML models are used to generate computer-interpretable
+    OWL ontologies. The text includes the relationships of the ontology elements to
+    industry standards for product data sheet information.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8035'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

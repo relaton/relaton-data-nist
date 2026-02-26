@@ -1,0 +1,75 @@
+---
+id: NISTSP80024
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: PBX vulnerability analysis
+  type: title-main
+- language: en
+  script: Latn
+  content: finding holes in your PBX before someone else does
+  type: title-part
+- language: en
+  script: Latn
+  content: PBX vulnerability analysis - finding holes in your PBX before someone else
+    does
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-24
+docidentifier:
+- content: NIST SP 800-24
+  type: NIST
+  primary: true
+- content: NIST.SP.800-24
+  type: DOI
+date:
+- type: issued
+  at: '2001'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kuhn, D. Richard.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n85246800
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: 'This report presents a generic methodology for conducting an analysis
+    of a Private Branch Exchange (PBX) in order to identify security vulnerabilities.
+    The report focuses on digital-based PBXs and addresses the following areas for
+    study: System Architecture; Hardware; Maintenance; Administrative Database/Software;
+    and User Features. The methods described in this report are designed to assist
+    administrators in conducting this type of testing. Computer based telephony systems
+    and new techniques such as voice over IP (VOIP) present an entirely new collection
+    of vulnerabilities and are not addressed in this report. However, some of the
+    evaluation methods described here may be applied to these systems as well.'
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-24
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

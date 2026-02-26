@@ -1,0 +1,55 @@
+---
+id: NISTSP500303
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The structure of optimal and near optimal target sets in consensus models
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.500-303
+docidentifier:
+- content: NIST SP 500-303
+  type: NIST
+  primary: true
+- content: NIST.SP.500-303
+  type: DOI
+date:
+- type: issued
+  at: '2014'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hunt, Fern,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2019009962
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
+    - content: Applied and Computational Mathematics Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015104603
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 500-303
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

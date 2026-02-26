@@ -1,0 +1,100 @@
+---
+id: NISTTN2097
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Analysis of iris images from Twins Day
+  type: title-main
+- language: en
+  script: Latn
+  content: '2010'
+  type: title-part
+- language: en
+  script: Latn
+  content: Analysis of iris images from Twins Day - 2010
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2097
+docidentifier:
+- content: NIST TN 2097
+  type: NIST
+  primary: true
+- content: NIST.TN.2097
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Matey, James R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grother, Patrick J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2005043592
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Quinn, George W.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84098146
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: Each year since 1976, the town of Twinsburg, Ohio has held a Twins Days
+    Festival. Over the past 43 years over 77,000 sets of twins and multiples have
+    attended ⁰₃ with many repeat visits over the years. Prof. Jeremy Dawson and other
+    staff from the West Virginia University Biometrics Collection Lab have engaged
+    with the Twins Days organizers since 2010 to collect biometric data from twins
+    attending the festivals; the collections were carried out under Institutional
+    Review Board (IRB) protocols and with informed consent of the individuals participating.
+    NIST recently obtained copies of the Twins Day data for use in ongoing evaluations
+    of face, finger and iris recognition algorithms. This paper is an initial analysis
+    of the iris images taken at the 2010 festival. We see no evidence that the non-mated
+    distribution for identical twin pairs is significantly different from that for
+    unrelated individuals for two commercial iris recognition algorithms. This is
+    not a surprise; Daugman demonstrated, using iris2pi, that a non-mated distribution
+    of match scores from genetically identical left/right pairs from the same individual
+    is not significantly different from that for pairs from different individuals
+    and recently demonstrated results on twins similar to what we found. Analysis
+    of iris images from subsequent festivals as well as face and finger images are
+    planned.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2097'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

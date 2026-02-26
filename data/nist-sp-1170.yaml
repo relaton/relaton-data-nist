@@ -1,0 +1,92 @@
+---
+id: NISTSP1170
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Documentation for Reference Material (RM) 8820
+  type: title-main
+- language: en
+  script: Latn
+  content: a versatile, multipurpose dimensional metrology calibration standard for
+    scanned particle beam, scanned probe, and optical microscopy
+  type: title-part
+- language: en
+  script: Latn
+  content: Documentation for Reference Material (RM) 8820 - a versatile, multipurpose
+    dimensional metrology calibration standard for scanned particle beam, scanned
+    probe, and optical microscopy
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1170
+docidentifier:
+- content: NIST SP 1170
+  type: NIST
+  primary: true
+- content: NIST.SP.1170
+  type: DOI
+date:
+- type: issued
+  at: '2014'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pope, Jodie G.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022073168
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wright, John D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81115024
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Johnson, Aaron N.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022036300
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Crowley, Chris J.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.))
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2019028800
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '1170'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

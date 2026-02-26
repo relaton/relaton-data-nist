@@ -1,0 +1,94 @@
+---
+id: NISTTN2182
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Distributed energy resource security
+  type: title-main
+- language: en
+  script: Latn
+  content: potential guidelines and research topics
+  type: title-part
+- language: en
+  script: Latn
+  content: Distributed energy resource security - potential guidelines and research
+    topics
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2182
+docidentifier:
+- content: NIST TN 2182
+  type: NIST
+  primary: true
+- content: NIST.TN.2182
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gopstein, Avi.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hastings, Nelson.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Feldman, Larry.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Agarwal, Ravi.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bartol, Nadya.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Communications Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This paper describes an effort to validate the applicability of cybersecurity
+    controls from the 2014 National Institute of Standards and Technology (NIST) Interagency
+    Report 7628 Revision 1 (NISTIR 7628 r1) Guidelines for Smart Grid Cybersecurity
+    to High DER (Distributed Energy Resources) environments. The paper summarizes
+    insights gained through stakeholder interviews and workshops, and provides updates
+    to current cybersecurity guidance and recommendations for future research.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2182'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

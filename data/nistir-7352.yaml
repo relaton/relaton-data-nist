@@ -1,0 +1,61 @@
+---
+id: NISTIR7352
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST liquid hydrogen cold source
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7352
+docidentifier:
+- content: NIST IR 7352
+  type: NIST
+  primary: true
+- content: NIST.IR.7352
+  type: DOI
+date:
+- type: issued
+  at: '2006'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kopetka, P.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Williams, R E.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rowe, J M.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7352'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

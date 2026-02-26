@@ -1,0 +1,64 @@
+---
+id: NBSSP478
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Nitrogen oxychlorides
+  type: title-main
+- language: en
+  script: Latn
+  content: a bibliography on data for physical and chemical properties of Cⁿ₃N0, Cⁿ₃N02,
+    and Cⁿ₃N03
+  type: title-part
+- language: en
+  script: Latn
+  content: Nitrogen oxychlorides - a bibliography on data for physical and chemical
+    properties of Cⁿ₃N0, Cⁿ₃N02, and Cⁿ₃N03
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.478
+docidentifier:
+- content: NBS SP 478
+  type: NIST
+  primary: true
+- content: NBS.SP.478
+  type: DOI
+date:
+- type: issued
+  at: '1977'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Westley, Francis.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79148240
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: '478'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

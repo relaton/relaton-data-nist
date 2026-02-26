@@ -1,0 +1,135 @@
+---
+id: NISTIR8473
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Cybersecurity framework profile for electric vehicle extreme fast charging
+    infrastructure
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8473
+docidentifier:
+- content: NIST IR 8473
+  type: NIST
+  primary: true
+- content: NIST.IR.8473
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McCarthy, Jim.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-5559-733X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grayson, Nakia R..
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brule, Joseph.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7987-6050"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dinerman, alan.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4867-0498"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dombrowski, John.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-9408-1838"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Thompson, Michael.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-0836-244X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tran, Hillary.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-0873-1807"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Townsend, Anne.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8271-110X"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory .
+abstract:
+- language: en
+  script: Latn
+  content: 'This document is the Cybersecurity Framework Profile (Profile) developed
+    for the Electric Vehicle Extreme Fast Charging (EV/XFC) ecosystem and the subsidiary
+    functions that support each of the four domains: (i) Electric Vehicles (EV); (ii)
+    Extreme Fast Charging (XFC); (iii) XFC Cloud or Third-Party Operations; and (iv)
+    Utility and Building Networks. This Profile provides a foundational profile that
+    relevant parties may use to develop profiles specific to their organization to
+    assess their cybersecurity posture as a part of their risk management process.
+    The profile is intended to supplement, not replace, an existing risk management
+    program or the current cybersecurity standards, regulations, and industry guidelines
+    that are in current use by the EV/XFC industry.'
+series:
+- title:
+  - content: NISTIR
+  number: '8473'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8473'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

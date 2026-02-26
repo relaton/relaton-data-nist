@@ -1,0 +1,71 @@
+---
+id: NISTIR7036
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Results from laboratory testing of embedded air handling unit and variable
+    air volume box fault detection tools
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7036
+docidentifier:
+- content: NIST IR 7036
+  type: NIST
+  primary: true
+- content: NIST.IR.7036
+  type: DOI
+date:
+- type: issued
+  at: '2003'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schein, Jeffrey.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bushby, Steven T.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021107279
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: House, John M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2008035557
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7036'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

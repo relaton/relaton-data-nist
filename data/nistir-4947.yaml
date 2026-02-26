@@ -1,0 +1,55 @@
+---
+id: NISTIR4947
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A comparison of ceiling jet temperatures measured in an aircraft hanger
+    test fire with temperatures predicted by the DETACT-QS and LAVENT computer models
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.4947
+docidentifier:
+- content: NIST IR 4947
+  type: NIST
+  primary: true
+- content: NIST.IR.4947
+  type: DOI
+date:
+- type: issued
+  at: '1993'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Walton, William D.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Notarianni, Kathy A.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '4947'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

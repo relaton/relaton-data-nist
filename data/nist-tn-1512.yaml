@@ -1,0 +1,55 @@
+---
+id: NISTTN1512
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Dielectric and magnetic properties of printed wiring boards and other substrate
+    materials
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1512
+docidentifier:
+- content: NIST TN 1512
+  type: NIST
+  primary: true
+- content: NIST.TN.1512
+  type: DOI
+date:
+- type: issued
+  at: '1999'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Baker-Jarvis, James.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2001099129
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1512'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,40 @@
+---
+id: NBSLC976
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Publications by the staff of the x-ray section
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.LCIRC.976
+docidentifier:
+- content: NBS LC 976
+  type: NIST
+  primary: true
+- content: NBS.LCIRC.976
+  type: DOI
+date:
+- type: issued
+  at: '1949'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NBSLCIRC; NBS LCIRC; NBS letter circular
+  number: '976'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

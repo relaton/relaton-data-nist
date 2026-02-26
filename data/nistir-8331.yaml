@@ -1,0 +1,90 @@
+---
+id: NISTIR8331
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Ongoing Face Recognition Vendor Test (FRVT) part 6B
+  type: title-main
+- language: en
+  script: Latn
+  content: face recognition accuracy with face masks using post-COVID-19 algorithms
+  type: title-part
+- language: en
+  script: Latn
+  content: Ongoing Face Recognition Vendor Test (FRVT) part 6B - face recognition
+    accuracy with face masks using post-COVID-19 algorithms
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8331
+docidentifier:
+- content: NIST IR 8331
+  type: NIST
+  primary: true
+- content: NIST.IR.8331
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ngan, Mei Lee.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grother, Patrick J.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hanaoka, Kayee.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This is the second of a series of reports on the performance of face recognition
+    algorithms on faces occluded by protective face masks commonly worn to reduce
+    inhalation and exhalation of viruses. This is a continuous study is being run
+    under the Ongoing Face Recognition Vendor Test (FRVT) executed by the National
+    Institute of Standards and Technology (NIST). In our first report, we tested "pre-pandemic"
+    algorithms that were already submitted to FRVT 1:1 prior to mid-March 2020. This
+    report augments its predecessor with results for more recent algorithms provided
+    to NIST after the COVID-19 pandemic was declared. While we do not have information
+    on whether or not a particular algorithm was designed with face coverings in mind,
+    the results show evidence that a number of developers have adapted their algorithms
+    to support face recognition on subjects potentially wearing face masks. The algorithms
+    tested were one- to-one algorithms submitted to the FRVT 1:1 Verification track.
+    Future editions of this document will also report accuracy of one-to- many algorithms.
+series:
+- title:
+  - content: NISTIR
+  number: '8331'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8331'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

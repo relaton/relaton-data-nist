@@ -1,0 +1,73 @@
+---
+id: NISTTN2141
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Simulations of flow over an axisymmetric hill
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2141
+docidentifier:
+- content: NIST TN 2141
+  type: NIST
+  primary: true
+- content: NIST.TN.2141
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bose, Rikhi.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yeo, DongHun.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: In this report, high-Reynolds number turbulent flow around an axisymmetric
+    hill is studied using large eddy and unsteady Reynolds averaged Navier-Stokes
+    simulations and the results are extensively validated against experiment. The
+    boundary-layer thickness of the incoming flow is about half of the height of the
+    hill. In the process, the dynamic Smagorinsky sub-grid scale eddy-viscosity model
+    and a precursor forcing technique to match the experimental mean velocity profile
+    is implemented in the computational toolbox for wind engineering, windOF which
+    is based on the open source computational fluid dynamic solver OpenFOAM. The results
+    show that the windOF is capable of producing reliable results with LES for this
+    complex flow which includes complicated flow topography due to smooth-wall separation,
+    lee-side separation, reattachment and recovery behind the hill, etc. However,
+    URANS predictions demonstrate significant discrepancies in several flow features,
+    specifically in the lee-side separation and recovery that are characteristic of
+    the RANS models which only consider much smaller scale turbulence compared to
+    the mean flow distortion scales relevant to this flow.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2141'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

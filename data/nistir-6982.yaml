@@ -1,0 +1,67 @@
+---
+id: NISTIR6982
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Face recognition vendor test 2002 performance metrics
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.6982
+docidentifier:
+- content: NIST IR 6982
+  type: NIST
+  primary: true
+- content: NIST.IR.6982
+  type: DOI
+date:
+- type: issued
+  at: '2003'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grother, Patrick J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2005043592
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Michaels, R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Phillips, J.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '6982'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

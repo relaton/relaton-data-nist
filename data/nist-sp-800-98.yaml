@@ -1,0 +1,93 @@
+---
+id: NISTSP80098
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guidelines for securing Radio Frequency Identification (RFID) systems
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-98
+docidentifier:
+- content: NIST SP 800-98
+  type: NIST
+  primary: true
+- content: NIST.SP.800-98
+  type: DOI
+date:
+- type: issued
+  at: '2007'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Karygiannis, A. T.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Eydt, B.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barber, G.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bunn, L.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Phillips, T.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: This publication seeks to assist organizations in understanding the risks
+    of RFID technology and security measures to mitigate those risks. It provides
+    practical, real-world advice on how to initiate, design, implement and operate
+    RFID systems in a manner that mitigates security and privacy risks. The document
+    also provides background information on RFID applications, standards, and system
+    components to assist in the understanding of RFID security risks and controls.
+    This document presents information that is independent of particular hardware
+    platforms, operating systems, and applications. The emphasis is on RFID systems
+    that are based on industry and international standards, although the existence
+    of proprietary approaches is noted when they offer relevant security features
+    not found in current standards.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-98
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

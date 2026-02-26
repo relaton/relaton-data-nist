@@ -1,0 +1,72 @@
+---
+id: NBSCIRC537
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Circular of the Bureau of Standards no. 537
+  type: title-main
+- language: en
+  script: Latn
+  content: table of dielectric constants and electric dipole moments of substances
+    in the gaseous state
+  type: title-part
+- language: en
+  script: Latn
+  content: Circular of the Bureau of Standards no. 537 - table of dielectric constants
+    and electric dipole moments of substances in the gaseous state
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.CIRC.537
+docidentifier:
+- content: NBS CIRC 537
+  type: NIST
+  primary: true
+- content: NBS.CIRC.537
+  type: DOI
+date:
+- type: issued
+  at: '1953'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Maryott, Arthur A. (Arthur Allen),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2012065959
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: National Bureau of Standards circular
+  number: '537'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

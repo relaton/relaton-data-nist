@@ -1,0 +1,96 @@
+---
+id: NISTSP80027
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Engineering principles for information technology security (a baseline
+    for achieving security)
+  type: title-main
+- language: en
+  script: Latn
+  content: recommendations of the National Institute of Standards and Technology
+  type: title-part
+- language: en
+  script: Latn
+  content: Engineering principles for information technology security (a baseline
+    for achieving security) - recommendations of the National Institute of Standards
+    and Technology
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-27
+docidentifier:
+- content: NIST SP 800-27
+  type: NIST
+  primary: true
+- content: NIST.SP.800-27
+  type: DOI
+date:
+- type: issued
+  at: '2001'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stoneburner, Gary.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003057780
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hayden, Clark.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003084237
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Feringa, Alexis.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003057768
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: The Engineering Principles for Information Technology (IT) Security (EP-ITS)
+    presents a list of system-level security principles to be considered in the design,
+    development, and operation of an information system. Ideally, the principles presented
+    here would be used from the onset of a program⁰₄at the beginning of, or during
+    the design phase⁰₄and then employed throughout the system⁰₉s life-cycle. However,
+    these principles are also helpful in affirming and confirming the security posture
+    of already deployed information systems. The principles are short and concise
+    and can be used by organizations to develop their system life-cycle policies.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-27
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

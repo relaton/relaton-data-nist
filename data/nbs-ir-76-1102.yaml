@@ -1,0 +1,74 @@
+---
+id: NBSIR761102
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Computer programs for structural chemistry
+  type: title-main
+- language: en
+  script: Latn
+  content: status. A FORTRAN program for statistical analysis of crystallographic
+    quantities
+  type: title-part
+- language: en
+  script: Latn
+  content: Computer programs for structural chemistry - status. A FORTRAN program
+    for statistical analysis of crystallographic quantities
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IR.76-1102
+docidentifier:
+- content: NBS IR 76-1102
+  type: NIST
+  primary: true
+- content: NBS.IR.76-1102
+  type: DOI
+date:
+- type: issued
+  at: '1976'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schroeder, LeRoy W.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n86851828
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dickens, Brian.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n86851821
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBSIR; NBS IR; NBS interagency report; NBS internal report
+  number: 76-1102
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

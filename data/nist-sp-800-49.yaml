@@ -1,0 +1,61 @@
+---
+id: NISTSP80049
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Federal S/MIME V3 client profile
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-49
+docidentifier:
+- content: NIST SP 800-49
+  type: NIST
+  primary: true
+- content: NIST.SP.800-49
+  type: DOI
+date:
+- type: issued
+  at: '2002'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chernick, C. M.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: The National Institute of Standards and Technology (NIST), Information
+    Technology Laboratory, Computer Security Division, has developed this S/MIME (Secure
+    / Multipurpose Internet Mail Extensions) client profile as guidance in the development
+    and procurement of commercial-off-the-shelf (COTS) S/MIME-compliant products.
+    This profile document identifies requirements for a secure and interoperable S/MIME
+    V3 client implementation. NIST is developing tests and testing tools to determine
+    the level of conformance of an S/MIME V3 client implementation with this profile.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-49
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,219 @@
+---
+id: NISTIR8479
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: An infrastructure for curating, querying, and augmenting document data
+  type: title-main
+- language: en
+  script: Latn
+  content: COVID-19 case study
+  type: title-part
+- language: en
+  script: Latn
+  content: An infrastructure for curating, querying, and augmenting document data
+    - COVID-19 case study
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8479
+docidentifier:
+- content: NIST IR 8479
+  type: NIST
+  primary: true
+- content: NIST.IR.8479
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Subrahmanian, Eswaran.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4639-627X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sousa Amaral, Guillaume.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-5241-6508"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bhat, Talapady N.
+    identifier:
+    - type: uri
+      content: "(orcid)000-0002-8396-6622"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brady, Kevin G.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-9271-1568"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brady Mary C.
+    identifier:
+    - type: uri
+      content: "(orcid)"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Collard, Jacob N.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4794-8363"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chouder, Sarah.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8434-5166"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dessauw, Philippe J.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4565-1232"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dima, Alden A.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-0547-3117"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Elliott, John T.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-5739-7000"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Keyrouz, Walid.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-3807-813X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Long, Benjamin.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4340-7674"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sexton, Rachael.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-5904-2887"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lelouche, Nicolas J.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7031-4887"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sriram, Ram D.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-8602-4748"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory; Material Measurement Laboratory;
+        Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: With the advent of the COVID-19 pandemic, there was the hope that data
+    science approaches could help discover means for understanding, mitigating, and
+    treating the disease. This manifested itself in the creation of the COVID-19 Open
+    Research Dataset (CORD-19) which aggregated COVID-19- related scientific literature
+    for use by the data mining community. As a group of interdisciplinary informatics
+    researchers at NIST, we embarked on an effort to use our experience and previously
+    developed systems to explore whether we could enhance the CORD-19 data set and
+    facilitate its use. This effort produced a prototype scientific informatics system
+    that extended data curation, data repository, resource registry, term extraction
+    and indexing systems and resulted in a repackaging of CORD-19 as a Python data
+    package. This paper documents our efforts, provides lessons learned, and proposes
+    a general architecture for these types of systems.
+series:
+- title:
+  - content: NISTIR
+  number: '8479'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8479'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

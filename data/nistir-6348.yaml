@@ -1,0 +1,87 @@
+---
+id: NISTIR6348
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Assessing algorithms as computational models for human face recognition
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.6348
+docidentifier:
+- content: NIST IR 6348
+  type: NIST
+  primary: true
+- content: NIST.IR.6348
+  type: DOI
+date:
+- type: issued
+  at: '1999'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Phillips, P. Jonathon.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n98036715
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: O'Toole, A. J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020090376
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cheng, Yi.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021150031
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ross, Brendan.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wild, Heather A.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '6348'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,73 @@
+---
+id: NBSMONO99
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Automatic typographic-quality typesetting techniques
+  type: title-main
+- language: en
+  script: Latn
+  content: a state-of-the-art review
+  type: title-part
+- language: en
+  script: Latn
+  content: Automatic typographic-quality typesetting techniques - a state-of-the-art
+    review
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.MONO.99
+docidentifier:
+- content: NBS MONO 99
+  type: NIST
+  primary: true
+- content: NBS.MONO.99
+  type: DOI
+date:
+- type: issued
+  at: '1967'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stevens, Mary Elizabeth.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50022561
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Little, John L.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021037006
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS monograph; NBS MONO
+  number: '99'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

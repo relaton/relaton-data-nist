@@ -1,0 +1,115 @@
+---
+id: NISTIR8124
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OAGi/NIST workshop on open cloud architecture for smart manufacturing
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8124
+docidentifier:
+- content: NIST IR 8124
+  type: NIST
+  primary: true
+- content: NIST.IR.8124
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ivezic, Nenad.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kulvatunyou, Boonserm.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lu, Yan.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79011775
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lee, Yunsu.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lee, Jaehun.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jones, Albert.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2005176335
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Frechette, Simon.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021110725
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: This report summarizes the results from the OAGi/NIST Workshop on Open
+    Cloud Architecture for Smart Manufacturing, which was held at the National Institute
+    of Standards and Technology on May 5, 2015. The workshop was a forum for manufacturers
+    and providers of IoT technologies, Cloud platforms, and manufacturing services
+    to share their visions, and identify and prioritize barriers to adoption of Cloud-enabling
+    capabilities and technologies, forming a basis for future follow-on events. The
+    report (1) includes summaries as well as full presentations delivered at the workshop;
+    (2) identifies and prioritizes technical issues; (3) summarizes the discussions
+    that took place during the workshop; and (4) provides the conclusions that emerged
+    from the presentations and discussions.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8124'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

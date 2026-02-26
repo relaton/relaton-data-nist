@@ -1,0 +1,70 @@
+---
+id: NISTSP800133r1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Recommendation for cryptographic key generation
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-133r1
+docidentifier:
+- content: NIST SP 800-133r1
+  type: NIST
+  primary: true
+- content: NIST.SP.800-133r1
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barker, Elaine.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Roginsky, Allen.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022077196
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: 'Cryptography is often used in an information technology security environment
+    to protect data that is sensitive, has a high value, or is vulnerable to unauthorized
+    disclosure or undetected modification during transmission or while in storage.
+    Cryptography relies upon two basic components: an algorithm (or cryptographic
+    methodology) and a cryptographic key. This Recommendation discusses the generation
+    of the keys to be managed and used by the approved cryptographic algorithms.'
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-133r1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

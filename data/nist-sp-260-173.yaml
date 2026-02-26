@@ -1,0 +1,83 @@
+---
+id: NISTSP260173
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Standard reference materials
+  type: title-main
+- language: en
+  script: Latn
+  content: SRM 1450d, fibrous-glass board, for thermal conductivity from 280 K to
+    340 K
+  type: title-part
+- language: en
+  script: Latn
+  content: Standard reference materials - SRM 1450d, fibrous-glass board, for thermal
+    conductivity from 280 K to 340 K
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-173
+docidentifier:
+- content: NIST SP 260-173
+  type: NIST
+  primary: true
+- content: NIST.SP.260-173
+  type: DOI
+date:
+- type: issued
+  at: '2011'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Harris, Amanda C.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022026167
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Leigh, Stefan D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83125869
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zarr, Robert R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nb97058583
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 260-173
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

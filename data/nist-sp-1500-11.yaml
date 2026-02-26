@@ -1,0 +1,67 @@
+---
+id: NISTSP150011
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Advanced electrical power system sensors workshop report
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1500-11
+docidentifier:
+- content: NIST SP 1500-11
+  type: NIST
+  primary: true
+- content: NIST.SP.1500-11
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Goldstein, Allen
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2016112646
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.))
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2019028800
+abstract:
+- language: en
+  script: Latn
+  content: The objective of the Advanced Electrical Power Sensors Workshop was to
+    provide input into planning processes being undertaken by the National Institute
+    of Standards and Technology (NIST), Department of Energy (DOE), and the Grid Modernization
+    Laboratory Consortium (GMLC). The workshop provided these entities with the opportunity
+    to hear industry concerns and ideas regarding emerging and future electrical power
+    system sensors, transducers, and transformer technologies. As the grid continues
+    to evolve, and as grid operation and planning support advanced functions, it may
+    be necessary to measure aspects of the grid which have not been measured in the
+    past, or to refine the way current measurements are performed. This workshop explored
+    various means by which grid related activities can be better informed.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1500-11
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

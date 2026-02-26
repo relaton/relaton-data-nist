@@ -1,0 +1,78 @@
+---
+id: NISTSP80061r1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Computer security incident handling guide
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-61r1
+docidentifier:
+- content: NIST SP 800-61r1
+  type: NIST
+  primary: true
+- content: NIST.SP.800-61r1
+  type: DOI
+date:
+- type: issued
+  at: '2008'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, K. A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grance, T.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Masone, K.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: Computer security incident response has become an important component of
+    information technology (IT) programs. Security-related threats have become not
+    only more numerous and diverse but also more damaging and disruptive. An incident
+    response capability is necessary for rapidly detecting incidents, minimizing loss
+    and destruction, mitigating the weaknesses that were exploited, and restoring
+    computing services. This publication assists organizations in establishing computer
+    security incident response capabilities and handling incidents efficiently and
+    effectively. Topics covered include organizing a computer security incident response
+    capability, handling incidents from initial preparation through the post-incident
+    lessons learned phase, and handling specific types of incidents.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-61r1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

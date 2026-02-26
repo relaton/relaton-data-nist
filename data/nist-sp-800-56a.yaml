@@ -1,0 +1,77 @@
+---
+id: NISTSP80056A
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Recommendation for pair-wise key establishment schemes using discrete logarithm
+    cryptography
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-56a
+docidentifier:
+- content: NIST SP 800-56A
+  type: NIST
+  primary: true
+- content: NIST.SP.800-56a
+  type: DOI
+date:
+- type: issued
+  at: '2006'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barker, Elaine.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Johnson, Don.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n87150508
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Smid, Miles.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: 'This Recommendation specifies key establishment schemes using discrete
+    logarithm cryptography, based on standards developed by the Accredited Standards
+    Committee (ASC) X9, Inc.: ANS X9.42 (Agreement of Symmetric Keys Using Discrete
+    Logarithm Cryptography) and ANS X9.63 (Key Agreement and Key Transport Using Elliptic
+    Curve Cryptography).'
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-56a
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,157 @@
+---
+id: NISTSP180021
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Mobile device security
+  type: title-main
+- language: en
+  script: Latn
+  content: corporate-owned personally-enabled (COPE)
+  type: title-part
+- language: en
+  script: Latn
+  content: Mobile device security - corporate-owned personally-enabled (COPE)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1800-21
+docidentifier:
+- content: NIST SP 1800-21
+  type: NIST
+  primary: true
+- content: NIST.SP.1800-21
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Howell, Gema E.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Boeckl, Kaitlin R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lefkovitz, Naomi B.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-3777-3106"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nadeau, Ellen M.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-2553-9304"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Franklin, Joshua M.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Shariati, Behnam.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ajmo, Jason.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brown, Christopher J.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dog, Spike E.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Javar, Frank.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Peck, Michael.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sandlin, Kenneth F.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+abstract:
+- language: en
+  script: Latn
+  content: Mobile devices provide access to vital workplace resources while giving
+    employees the flexibility to perform their daily activities. Securing these devices
+    is essential to the continuity of business operations. While mobile devices can
+    increase efficiency and productivity, they can also leave sensitive data vulnerable.
+    Mobile device management tools can address such vulnerabilities by helping secure
+    access to networks and resources. These tools are different from those required
+    to secure the typical computer workstation. This practice guide focuses on security
+    enhancements that can be made to corporate-owned personally-enabled (COPE) mobile
+    devices. COPE devices are owned by an enterprise and issued to an employee. Both
+    the enterprise and the employee can install applications onto the device. To address
+    the challenge of securing COPE mobile devices while managing risks, the NCCoE
+    at NIST built a reference architecture to show how various mobile security technologies
+    can be integrated within an enterprise s network. This NIST Cybersecurity Practice
+    Guide demonstrates how organizations can use standards-based, commercially available
+    products to help meet their mobile device security and privacy needs.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1800-21
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,73 @@
+---
+id: NBSSP96015
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST recommended practice guide
+  type: title-main
+- language: en
+  script: Latn
+  content: DTa and heat-flix DSC measurements of alloy melting and freezing
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST recommended practice guide - DTa and heat-flix DSC measurements of
+    alloy melting and freezing
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.960-15
+docidentifier:
+- content: NBS SP 960-15
+  type: NIST
+  primary: true
+- content: NBS.SP.960-15
+  type: DOI
+date:
+- type: issued
+  at: '2006'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kattner, U. R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Perepezko, J. H.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Boettinger, W. J.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 960-15
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

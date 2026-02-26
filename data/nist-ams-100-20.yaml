@@ -1,0 +1,73 @@
+---
+id: NISTAMS10020
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Annual manufacturing review
+  type: title-main
+- language: en
+  script: Latn
+  content: '2018'
+  type: title-part
+- language: en
+  script: Latn
+  content: Annual manufacturing review - 2018
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-20
+docidentifier:
+- content: NIST AMS 100-20
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-20
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Thomas, Douglas S.
+    identifier:
+    - type: uri
+      content: "(orcid) 0000-0002-8600-4795"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: This annual report characterizes US innovation and industrial competitiveness
+    in manufacturing. It includes tracking domestic manufacturing activity and its
+    domestic supply chain in order to develop a quantitative depiction of US manufacturing
+    in the context of the domestic economy and global industry. This depiction provides
+    change agents, such as public entities and trade groups that invest in advancing
+    the current state of manufacturing, insight into the current state and recent
+    trends in US manufacturing. The report further identifies areas of manufacturing
+    that can have large impacts on costs.
+series:
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 100-20
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

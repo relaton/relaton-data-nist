@@ -1,0 +1,74 @@
+---
+id: NISTIR6530
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A measurement system for characterizing the detection performance of metal
+    detectors
+  type: title-main
+- language: en
+  script: Latn
+  content: design and operation
+  type: title-part
+- language: en
+  script: Latn
+  content: A measurement system for characterizing the detection performance of metal
+    detectors - design and operation
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.6530
+docidentifier:
+- content: NIST IR 6530
+  type: NIST
+  primary: true
+- content: NIST.IR.6530
+  type: DOI
+date:
+- type: issued
+  at: '2000'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pauiter, Nicholas G. Jr.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Larson, Donald R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Palm, Robert H. Jr.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '6530'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

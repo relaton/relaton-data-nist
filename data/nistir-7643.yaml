@@ -1,0 +1,77 @@
+---
+id: NISTIR7643
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Ontological product modeling for collaborative design
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7643
+docidentifier:
+- content: NIST IR 7643
+  type: NIST
+  primary: true
+- content: NIST.IR.7643
+  type: DOI
+date:
+- type: issued
+  at: '2009'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bock, C. (Conrad)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n87943852
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zha, XuanFang.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Suh, Hyo-Won.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lee, Jae Hyun.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2009075417
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7643'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,92 @@
+---
+id: NISTTN2056
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: LTE handset emissions
+  type: title-main
+- language: en
+  script: Latn
+  content: radiation pattern measurements final test report
+  type: title-part
+- language: en
+  script: Latn
+  content: LTE handset emissions - radiation pattern measurements final test report
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2056
+docidentifier:
+- content: NIST TN 2056
+  type: NIST
+  primary: true
+- content: NIST.TN.2056
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Horansky, Robert D.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Coder, Jason B.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ladbury, John M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2007055627
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Communications Technology Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: 'This report describes work that measured the three dimensional emission
+    patterns for a variety of user equipment (UE) handset devices operating on long-term
+    evolution (LTE) protocols. This effort was part of a National Advanced Spectrum
+    and Communication Test Network (NASCTN) project sponsored by the Defense Spectrum
+    Organization (DSO) to investigate the factors that influence aggregate LTE UE
+    emissions in the advanced wireless service 3 (AWS-3) band and the sensitivity
+    of the emissions to those factors. The work presented in this technical note supported
+    the NASCTN''s ''Aggregate LTE: Characterizing UE Emissions'' project outcomes
+    by ensuring the best orientation and associated uncertainty for transmission was
+    known for each UE tested. Due to the potential benefit to the broader spectrum
+    community, this work is being released as a stand-along technical report as well
+    as an appendix to the final ''Aggregate LTE: Characterizing UE Emissions'' technical
+    report'
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2056'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

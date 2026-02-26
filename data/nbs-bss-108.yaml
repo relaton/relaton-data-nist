@@ -1,0 +1,75 @@
+---
+id: NBSBSS108
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Safety on stairs
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.BSS.108
+docidentifier:
+- content: NBS BSS 108
+  type: NIST
+  primary: true
+- content: NBS.BSS.108
+  type: DOI
+date:
+- type: issued
+  at: '1978'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Carson, D. H.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012135779
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Archea, J. C.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Margulis, S. T.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Carson, F. E.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS building science series; NBS building science; NBS BSS
+  number: '108'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

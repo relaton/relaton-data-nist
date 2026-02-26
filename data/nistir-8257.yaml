@@ -1,0 +1,146 @@
+---
+id: NISTIR8257
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Nail to nail fingerprint challenge
+  type: title-main
+- language: en
+  script: Latn
+  content: enrollment set size variability
+  type: title-part
+- language: en
+  script: Latn
+  content: Nail to nail fingerprint challenge - enrollment set size variability
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8257
+docidentifier:
+- content: NIST IR 8257
+  type: NIST
+  primary: true
+- content: NIST.IR.8257
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fiumara, Gregory.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ko, Kenneth.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020148737
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tabassi, Elham.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020148717
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Flanagan, Patricia.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020148726
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grantham, John.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Marshall, Karen.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88286097
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schwarz, Matthew.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020148759
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Woodgate, Bryan.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020148767
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Boehnen, Christopher.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020149143
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: In September 2017, the Intelligence Advanced Research Projects Activity
+    held a fingerprint data collection as part of the Nail to Nail Fingerprint Challenge.
+    Thousands of latent fingerprint images collected at the Challenge were searched
+    against rolled-equivalent fingerprints with an automated friction ridge identification
+    system. These searches yielded poor results. It was hypothesized that the size
+    of the enrollment set might be to blame for the weak performance. This supplemental
+    report varied the size of the enrollment set to test the hypothesis
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8257'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

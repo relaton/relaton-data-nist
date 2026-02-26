@@ -1,0 +1,91 @@
+---
+id: NISTIR8004
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Identifying face quality and factor measures for video
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8004
+docidentifier:
+- content: NIST IR 8004
+  type: NIST
+  primary: true
+- content: NIST.IR.8004
+  type: DOI
+date:
+- type: issued
+  at: '2014'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lee, Yooyoung.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Phillips, P. Jonathon.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n98036715
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Filliben, James J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79086097
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Beveridge, J. Ross,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n00014767
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zhang, Hao.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80122004
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8004'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

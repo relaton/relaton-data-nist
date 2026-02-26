@@ -1,0 +1,75 @@
+---
+id: NBSMONO51
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Analysis of electric energy usage in Air Force houses equipped with air-to-air
+    heat pumps
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.MONO.51
+docidentifier:
+- content: NBS MONO 51
+  type: NIST
+  primary: true
+- content: NBS.MONO.51
+  type: DOI
+date:
+- type: issued
+  at: '1962'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Achenbach, Paul R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79092592
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Davis, Joseph C.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50035467
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Smith, William T. (William Travis)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2002158832
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS monograph; NBS MONO
+  number: '51'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

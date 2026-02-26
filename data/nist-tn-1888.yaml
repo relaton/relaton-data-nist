@@ -1,0 +1,69 @@
+---
+id: NISTTN1888
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Hydrogen field test standard design, operating instructions, [and] specifications
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1888
+docidentifier:
+- content: NIST TN 1888
+  type: NIST
+  primary: true
+- content: NIST.TN.1888
+  type: DOI
+date:
+- type: issued
+  at: '2015'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pope, Jodie G.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022073168
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.))
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2019028800
+abstract:
+- language: en
+  script: Latn
+  content: 'The National Institute of Standards and Technology (NIST) developed a
+    prototype field test standard (FTS) that incorporates three test methods that
+    could be used by state weights and measures inspectors to periodically test the
+    accuracy of fuel delivery at retail hydrogen gas vehicle refueling dispensers,
+    much as gasoline dispensers are tested today. The three field test methods are:
+    1) gravimetric, 2) Pressure, Volume, Temperature (PVT), and 3) master meter. The
+    FTS was tested in NIST s Transient Flow Facility with helium gas and in the field
+    at a hydrogen dispenser location. This document describes the design and construction
+    of the test standard, necessary safety instrumentation for working with high pressure
+    hydrogen gas, how to execute tests with the FTS, and the operating specifications
+    of the FTS components. This document is intended to aid others attempting to design
+    and construct similar apparatuses.'
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1888'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

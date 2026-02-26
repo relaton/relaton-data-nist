@@ -1,0 +1,75 @@
+---
+id: NISTTN2023
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Programmers guide to the BACnet communications DLL
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2023
+docidentifier:
+- content: NIST TN 2023
+  type: NIST
+  primary: true
+- content: NIST.TN.2023
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Galler, Michael A.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-2303-8274"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: ASHRAE Standard 135- BACnet--A Data Communication Protocol for Building
+    Automation and Control Networks defines a communications protocol for information
+    exchange between components of a distributed building automation and control system.
+    The proliferation of BACnet enabled heating, ventilating, and air conditioning
+    (HVAC) systems has enabled direct access to HVAC system data. The BACnet communications
+    dynamic linked library (DLL) enables researchers to implement selected BACnet
+    communications, creating an interface for data collection that is easy to use.
+    The ability to access HVAC controllers from a computer is valuable because it
+    allows researchers, designers, or other users to retrieve data directly from the
+    BACnet objects on the controllers. These data could include information on the
+    conditions in the building space served by the equipment, the conditions and status
+    of the equipment, the actions the controller is currently taking, and other values
+    that may be set by internal program logic. These data could then be used for a
+    variety of research purposes, including real-time monitoring of the HVAC system,
+    commissioning, fault detection and diagnostics (FDD), data logging, or other applications.
+    Researchers can integrate the BACnet communications DLL (BCD) into existing tools,
+    create a new tool with the BCD, or use the BCD with common data acquisition and
+    analysis tools.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2023'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

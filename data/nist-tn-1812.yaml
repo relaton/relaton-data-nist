@@ -1,0 +1,83 @@
+---
+id: NISTTN1812
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Best practices guide for high-volume fly ash concretes
+  type: title-main
+- language: en
+  script: Latn
+  content: assuring properties and performance
+  type: title-part
+- language: en
+  script: Latn
+  content: Best practices guide for high-volume fly ash concretes - assuring properties
+    and performance
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1812
+docidentifier:
+- content: NIST TN 1812
+  type: NIST
+  primary: true
+- content: NIST.TN.1812
+  type: DOI
+date:
+- type: issued
+  at: '2013'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bentz, Dale P.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2002057595
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ferraris, Chiara F.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2001019109
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Snyder, Kenneth A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003081610
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Materials and Structural Systems Division, Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1812'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

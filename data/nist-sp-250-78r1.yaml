@@ -1,0 +1,89 @@
+---
+id: NISTSP25078r1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST calibration services for hydrometers
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.250-78r1
+docidentifier:
+- content: NIST SP 250-78r1
+  type: NIST
+  primary: true
+- content: NIST.SP.250-78r1
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wright, John D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81115024
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bean, Vern E.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n95081248
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Aguilera, Jesus.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021139596
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.))
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2019028800
+abstract:
+- language: en
+  script: Latn
+  content: 'The National Institute of Standards and Technology (NIST) provides calibration
+    services for hydrometers by Cuckow s method, i.e. by weighing the hydrometer while
+    it is immersed to specified scale markings in a liquid of known density (tridecane).
+    Normally a calibration is done at three points, at approximately 10 %, 50 %, and
+    90 % of the scale. The calibration report includes a simple equation for each
+    calibration point that gives the user a correction to the hydrometer reading that
+    accounts for the surface tension of the liquid in which the hydrometer is used.
+    The calibration results have an expanded uncertainty (with coverage factor of
+    2) of 100 parts in 10^6 or less of the liquid density. The apparatus was validated
+    by comparisons using liquids of known density: water, toluene, tridecane, and
+    trichloroethylene. Results from these comparisons agreed within 40 parts in 10^6
+    or less.'
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 250-78r1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,60 @@
+---
+id: NISTIR8347
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST test personal identity verification (PIV) cards version 2
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8347
+docidentifier:
+- content: NIST IR 8347
+  type: NIST
+  primary: true
+- content: NIST.IR.8347
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cooper, David.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: In order to facilitate the development of applications and middleware that
+    support the Personal Identity Verification (PIV) Card, NIST has developed a set
+    of test PIV Cards and a supporting public key infrastructure (PKI). This set of
+    test cards includes not only examples that are similar to cards issued today but
+    also examples of cards with features that are expected to appear in cards that
+    will be issued in the future. This document provides an overview of the test cards,
+    the infrastructure that has been developed to support their use, and detailed
+    specifications for each test card and for each certificate issued by the test
+    PKI.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8347'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

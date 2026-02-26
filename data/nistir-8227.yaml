@@ -1,0 +1,65 @@
+---
+id: NISTIR8227
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Manufacturing profile implementation methodology for a robotic workcell
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8227
+docidentifier:
+- content: NIST IR 8227
+  type: NIST
+  primary: true
+- content: NIST.IR.8227
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zimmerman, Timothy A.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: 'The National Institute of Standards and Technology has constructed a testbed
+    to measure the performance impact of cybersecurity technologies on Industrial
+    Control Systems (ICS). The testbed was chosen to support the implementation of
+    the Cybersecurity Framework Manufacturing Profile: a voluntary, risk-based approach
+    for managing cybersecurity activities and reducing cyber risk to manufacturing
+    systems. This report focuses on the Collaborative Robotics System, one of the
+    two manufacturing systems within the testbed. A methodology for implementation
+    of technical solutions to meet the Profile language is described, as well as a
+    comprehensive review of the testbed measurement systems, and the comparative analysis
+    procedures used for identifying performance impacts. Finally, an example comparative
+    analysis is performed and the characterization of the workcell is discussed.'
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8227'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

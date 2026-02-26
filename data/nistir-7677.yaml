@@ -1,0 +1,77 @@
+---
+id: NISTIR7677
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: AP210 edition 2 concept of operations
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7677
+docidentifier:
+- content: NIST IR 7677
+  type: NIST
+  primary: true
+- content: NIST.IR.7677
+  type: DOI
+date:
+- type: issued
+  at: '2010'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stori, Jamie.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brady, Kevin.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nb2002050490
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Thurman, Thomas.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n87146487
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Collins, Rockwell.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7677'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

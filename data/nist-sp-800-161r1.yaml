@@ -1,0 +1,107 @@
+---
+id: NISTSP800161r1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Cybersecurity supply chain risk management for systems and organizations
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-161r1
+docidentifier:
+- content: NIST SP 800-161r1
+  type: NIST
+  primary: true
+- content: NIST.SP.800-161r1
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Boyens, Jon.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Smith, Angela.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bartol, Nadya.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Winkler, Kris.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Holbrook, Alex.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fallon, Matthew.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: Organizations are concerned about the risks associated with products and
+    services that may contain potentially malicious functionality, are counterfeit,
+    or are vulnerable due to poor manufacturing and development practices within the
+    supply chain. These risks are associated with an enterprise's decreased visibility
+    into, and understanding of, how the technology they acquire is developed, integrated,
+    and deployed, or the processes, procedures, standards, and practices used to ensure
+    the security, resilience, reliability, safety, integrity, and quality of the products
+    and services. This publication provides guidance to organizations on identifying,
+    assessing, and mitigating cybersecurity risks throughout the supply chain at all
+    levels of their organizations. The publication integrates cybersecurity supply
+    chain risk management (C-SCRM) into risk management activities by applying a multilevel,
+    C-SCRM-specific approach, including guidance on development of C-SCRM strategy
+    implementation plans, C-SCRM policies, C-SCRM plans, and risk assessments for
+    products and services.
+relation:
+- type: updates
+  bibitem:
+    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x0000000174d06fe0>"
+    docidentifier:
+    - content: NIST SP 800-161
+      type: NIST
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-161r1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

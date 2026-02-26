@@ -1,0 +1,77 @@
+---
+id: NISTIR8445
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Panel summary report
+  type: title-main
+- language: en
+  script: Latn
+  content: risk management & Industrial Artificial Intelligence, INFORMS annual meeting,
+    2021 (virtual)
+  type: title-part
+- language: en
+  script: Latn
+  content: Panel summary report - risk management & Industrial Artificial Intelligence,
+    INFORMS annual meeting, 2021 (virtual)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8445
+docidentifier:
+- content: NIST IR 8445
+  type: NIST
+  primary: true
+- content: NIST.IR.8445
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dadfarnia, Mehdi.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sharp, Michael.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: Risk management is an important topic in any domain. With the growing acceptance
+    and adoption of Industrial Artificial Intelligence (IAI), both the academic and
+    industrial communities are beginning to take a more serious look at the risks
+    and rewards of using IAI. This paper summarizes insights generated at the 2021
+    INFORMs panel addressing the risk-based evaluation of AI use from both a performance
+    and business impacts perspective. The summarized insights are gathered and presented
+    in a logical fashion to highlight identified gaps and barriers in the evaluation
+    and adoption of IAI technologies. Additional context and suggestions regarding
+    paths forward are provided by the authors.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8445'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

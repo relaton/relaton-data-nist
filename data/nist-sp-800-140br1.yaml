@@ -1,0 +1,99 @@
+---
+id: NISTSP800140Br1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Cryptographic Module Validation Program (CMVP) security policy requirements
+  type: title-main
+- language: en
+  script: Latn
+  content: CMVP validation authority updates to ISO/IEC 24759 and ISO/IEC 19790 Annex
+    B
+  type: title-part
+- language: en
+  script: Latn
+  content: Cryptographic Module Validation Program (CMVP) security policy requirements
+    - CMVP validation authority updates to ISO/IEC 24759 and ISO/IEC 19790 Annex B
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-140Br1
+docidentifier:
+- content: NIST SP 800-140Br1
+  type: NIST
+  primary: true
+- content: NIST.SP.800-140Br1
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hawes, David.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-0173-6795"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Calis, Alexander.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1937-8129"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Crombie, Roy.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: NIST Special Publication (SP) 800-140Br1 is to be used in conjunction with
+    ISO/IEC 19790 Annex B and ISO/IEC 24759 Section 6.14. This Special Publication
+    modifies only those requirements identified in this document. NIST SP 800-140Br1
+    also specifies the content of the information required in ISO/IEC 19790 Annex
+    B. As a validation authority, the Cryptographic Module Validation Program (CMVP)
+    may modify, add, or delete Vendor Evidence (VE) and/or Test Evidence (TE) specified
+    under paragraph 6.14 of the ISO/IEC 24759 and specify the order of the security
+    policy as stated in ISO/IEC 19790:2012 B.1.
+relation:
+- type: updates
+  bibitem:
+    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x0000000339676b50>"
+    docidentifier:
+    - content: NIST SP 800-140B
+      type: NIST
+series:
+- title:
+  - content: NIST special publication
+  number: 800-1400Br1
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-140Br1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

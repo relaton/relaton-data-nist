@@ -1,0 +1,100 @@
+---
+id: NISTTN1973
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A methodology for estimating seismic retrofit costs
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1973
+docidentifier:
+- content: NIST TN 1973
+  type: NIST
+  primary: true
+- content: NIST.TN.1973
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fung, Juan F.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Butry, David T.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021107278
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sattar, Siamak.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McCabe, S. L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n96014692
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: Presidential Executive Order 13717 (EO 13717), Establishing a Federal Earthquake
+    Risk Management Standard, encourages federal agencies to enhance resilience...[to]
+    future earthquakes by evaluating and retrofitting existing federal buildings based
+    on current existing building codes. However, while guidance on evaluation and
+    retrofit practices is readily available, a standard approach to estimating retrofit
+    costs does not exist. Moreover, the absence of easily obtainable estimates can
+    make retrofits prohibitive for decision-makers. This paper develops a cost-estimating
+    methodology for seismic retrofits that (1) captures the essential factors that
+    drive seismic retrofit costs, such as building construction and square footage;
+    and (2) is reproducible using data available to decision-makers. The methodology
+    builds on FEMA 156 and 157, Typical Costs for Seismic Rehabilitation of Existing
+    Buildings, Volumes 1 and 2. A series of regression models is fit to the data used
+    for the FEMA reports, with the models varying in the level of data required; e.g.,
+    a decision-maker may not have information on building construction for each asset
+    in their inventory. Thus, the trade-off from estimating retrofit costs subject
+    to data limitations can be quantified in terms of prediction error, providing
+    decision-makers with a set of options for estimating costs together with a measure
+    of predictive performance. We find that a simple model, in terms of data requirements,
+    can deliver reliable predictions.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1973'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,52 @@
+---
+id: NISTIR5303
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Chemical Science and Technology Laboratory, technical activities 1993
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.5303
+docidentifier:
+- content: NIST IR 5303
+  type: NIST
+  primary: true
+- content: NIST.IR.5303
+  type: DOI
+date:
+- type: issued
+  at: '1994'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Chemical Science and Technology Laboratory (U.S.)
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chemical Science and Technology Laboratory (U.S.)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '5303'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

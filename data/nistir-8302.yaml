@@ -1,0 +1,78 @@
+---
+id: NISTIR8302
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST Instrumented Charpy Analysis Software (NICAS)
+  type: title-main
+- language: en
+  script: Latn
+  content: user's manual
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST Instrumented Charpy Analysis Software (NICAS) - user's manual
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8302
+docidentifier:
+- content: NIST IR 8302
+  type: NIST
+  primary: true
+- content: NIST.IR.8302
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lauria, Damian.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lucon, Enrico.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015169004
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Material Measurement Laboratory (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012096740
+abstract:
+- language: en
+  script: Latn
+  content: 'The NIST Instrumented Charpy Analysis Software (NICAS) is a standalone
+    LabVIEW1 program that can be used to analyze instrumented impact tests in accordance
+    with the following international test standards: ASTM E2298-18 [1] and ISO 14556:2015
+    [2]. It is also possible to perform some operations manually, i.e., not in strict
+    accordance with the above cited standards. The software is provided free of charge
+    in both raw LabVIEW code and executable (*.EXE) formats with an installer for
+    PC platforms running Windows 7 or later.'
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8302'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

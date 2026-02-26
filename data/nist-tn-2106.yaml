@@ -1,0 +1,72 @@
+---
+id: NISTTN2106
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Comparing instruments
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2106
+docidentifier:
+- content: NIST TN 2106
+  type: NIST
+  primary: true
+- content: NIST.TN.2106
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yen, James.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Leber, Dennis.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pibida, Leticia.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+abstract:
+- language: en
+  script: Latn
+  content: This document details methods to compare instrument performance. Comparison
+    methods for instruments outputting binary (0-1) responses as well as for instruments
+    outputting continuous numeric responses are shown, first for two instruments and
+    then for multiple instruments. Hypothesis tests and confidence intervals for instrument
+    differences are demonstrated. Several nonparametric procedures are shown along
+    with reasons why they might be needed. Finally, equivalence testing is demonstrated
+    for those cases where testing for equivalence rather than for differences is indicated.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2106'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

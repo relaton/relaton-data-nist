@@ -1,0 +1,109 @@
+---
+id: NISTIR8182
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: US Army ARDEC Joint Fuze Technology Program (JFTP) task 2 report
+  type: title-main
+- language: en
+  script: Latn
+  content: quasi-static tensile tests of microfabricated electrodeposited (LIGA) Ni
+    alloys
+  type: title-part
+- language: en
+  script: Latn
+  content: US Army ARDEC Joint Fuze Technology Program (JFTP) task 2 report - quasi-static
+    tensile tests of microfabricated electrodeposited (LIGA) Ni alloys
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8182
+docidentifier:
+- content: NIST IR 8182
+  type: NIST
+  primary: true
+- content: NIST.IR.8182
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Liew, Li-Anne.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Read, D. T.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82208926
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: White, Ryan.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n90705096
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barbosa III, Nicholas.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Material Measurement Laboratory (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012096740
+abstract:
+- language: en
+  script: Latn
+  content: The LIGA process (Lithographie, Galvanoformung, Abformung, or lithography,
+    electrodeposition, shaping) offers the possibility of mass producing strong mesoscale
+    (order of a few mm or less) metal components of nearly any planar shape. Multilayer
+    deposition has been developed to create three-dimensional shapes. The overall
+    objective of this multi-year project is to enable the use of the Johnson-Cook
+    flow and fracture models for evaluation of structural elements made from two LIGA
+    alloys of interest, by providing the material property data at the microscale
+    needed to carry out structural analyses utilizing these models. This report documents
+    the first milestone in the project, which is the measurement of the room-temperature
+    tensile properties of two LIGA alloys of one commercial vendor's proprietary materials
+    - one optimized for strength and the other for ductility, with nominal thicknesses
+    190 -m and 170 -m respectively - at strain rates 0.001/s and 1/s, utilizing four
+    specimen geometries with gauge widths ranging from 75-m to 700-m. Test methods
+    adapted to the scale of these materials were applied. Results, measurement uncertainties,
+    and statistical variations for the ultimate tensile strength and apparent Young's
+    modulus are quantified for all combinations of these material/geometry/rate variations.
+    In addition, preliminary studies were conducted into the effects of low-temperature
+    annealing on the materials' strength, and use of electron back scatter diffraction
+    to observe the microstructure.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8182'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

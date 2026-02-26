@@ -1,0 +1,98 @@
+---
+id: NISTSP80079r1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guidelines for the accreditation of personal identity verification card
+    issuers
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-79-1
+docidentifier:
+- content: NIST SP 800-79r1
+  type: NIST
+  primary: true
+- content: NIST.SP.800-79-1
+  type: DOI
+date:
+- type: issued
+  at: '2008'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Candramauḷi, Ār.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2015202084
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bailey, D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n89639822
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ghadiali, N.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Branstad, D. K.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: The purpose of this publication is to provide appropriate and useful guidelines
+    for accrediting the reliability of issuers of Personal Identity Verification cards
+    that are established to collect, store, and disseminate personal identity credentials
+    and issue smart cards, based on the standards published in response to Homeland
+    Security Presidential Directive 12 (HSPD-12). These issuers, who are the target
+    of assessment and accreditation, are called Personal Identity Verification Card
+    Issuers or PCIs. The reliability of PCIs is of utmost importance when one organization
+    (e.g., a Federal agency or Federal contractor) is required to trust the identity
+    credentials and cards of individuals that were created and issued, respectively,
+    by another organization. This trust will only exist if organizations relying on
+    the credentials and cards issued by a given organization have the necessary level
+    of assurance that the reliability of the issuing organization has been established
+    through a formal accreditation process. This publication provides an assessment
+    and accreditation methodology for verifying that issuers of PIV credentials and
+    cards are reliably adhering to standards and implementation directives developed
+    under HSPD-12.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-79-1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

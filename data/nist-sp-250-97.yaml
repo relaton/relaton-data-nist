@@ -1,0 +1,132 @@
+---
+id: NISTSP25097
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Magnetic resonance imaging biomarker calibration service
+  type: title-main
+- language: en
+  script: Latn
+  content: proton spin relaxation times
+  type: title-part
+- language: en
+  script: Latn
+  content: Magnetic resonance imaging biomarker calibration service - proton spin
+    relaxation times
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.250-97
+docidentifier:
+- content: NIST SP 250-97
+  type: NIST
+  primary: true
+- content: NIST.SP.250-97
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Boss, Michael A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dienstfrey, Andrew M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nb2013006446
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gimbutas, Zydrunas.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Keenan, Kathryn E.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kos, Anthony B.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Splett, Jolene D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003082468
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stupic, Karl F.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Russek, Stephen E.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.)).
+    - content: Information Technology Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2019028800
+abstract:
+- language: en
+  script: Latn
+  content: This document describes the calibration service to measure proton spin
+    relaxation times, T1 and T2, of materials used in phantoms (calibration artifacts)
+    to verify the accuracy of MRI-based quantitative measurements. Proton spin relaxation
+    times are used as image-based biomarkers to assess the state of tissue and quantify
+    the presence of contrast agents. A biomarker, per the FDA definition, refers to
+    a characteristic that is objectively measured and evaluated as an indicator of
+    normal biological processes, pathogenic processes, or biological responses to
+    a therapeutic intervention.(1) Spin relaxation times are phenomenological parameters
+    that need to be carefully defined and measured to enable rigorous quantification
+    and their use as biomarkers for clinical decision making. The relaxation times,
+    in addition to being dependent on local material properties, are dependent on
+    global parameters such as temperature and magnetic field value, which need to
+    be controlled and precisely measured.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 250-97
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

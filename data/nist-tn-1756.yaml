@@ -1,0 +1,55 @@
+---
+id: NISTTN1756
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Generation of large directional wind speed datasets from smaller synoptic
+    storm or thunderstorm data samples
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1756
+docidentifier:
+- content: NIST TN 1756
+  type: NIST
+  primary: true
+- content: NIST.TN.1756
+  type: DOI
+date:
+- type: issued
+  at: '2013'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yeo, DongHun.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2018048920
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: National Windstorm Impact Reduction Program, Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1756'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

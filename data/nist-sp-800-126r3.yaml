@@ -1,0 +1,99 @@
+---
+id: NISTSP800126r3
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The technical specification for the security content automation protocol
+    (SCAP) version 1.3
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-126r3
+docidentifier:
+- content: NIST SP 800-126r3
+  type: NIST
+  primary: true
+- content: NIST.SP.800-126r3
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Waltermire, David.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021047735
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Quinn, Stephen.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no99049651
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Booth, Harold.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, Karen.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2007017003
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Prisaca, Dragos.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: The Security Content Automation Protocol (SCAP) is a suite of specifications
+    that standardize the format and nomenclature by which software flaw and security
+    configuration information is communicated, both to machines and humans. This publication,
+    along with its annex (NIST Special Publication 800-126A) and a set of schemas,
+    collectively define the technical composition of SCAP version 1.3 in terms of
+    its component specifications, their interrelationships and interoperation, and
+    the requirements for SCAP content.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-126r3
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

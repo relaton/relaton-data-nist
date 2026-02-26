@@ -1,0 +1,90 @@
+---
+id: NISTTN1875
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Establishment of an international scale for instrumented charpy testing
+  type: title-main
+- language: en
+  script: Latn
+  content: comparison between NIST and LNE
+  type: title-part
+- language: en
+  script: Latn
+  content: Establishment of an international scale for instrumented charpy testing
+    - comparison between NIST and LNE
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1875
+docidentifier:
+- content: NIST TN 1875
+  type: NIST
+  primary: true
+- content: NIST.TN.1875
+  type: DOI
+date:
+- type: issued
+  at: '2015'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lucon, Enrico.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015169004
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lefrançois, Stéphane.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022047035
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McCowan, C. N. (Christopher N.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2001003693
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Santoyo, Ray L.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Material Measurement Laboratory (U.S.).
+    - content: Applied Chemicals and Materials Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012096740
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1875'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

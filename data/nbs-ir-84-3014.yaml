@@ -1,0 +1,72 @@
+---
+id: NBSIR843014
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Metrology for electromagnetic technology
+  type: title-main
+- language: en
+  script: Latn
+  content: a bibliography of NBS publications
+  type: title-part
+- language: en
+  script: Latn
+  content: Metrology for electromagnetic technology - a bibliography of NBS publications
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IR.84-3014
+docidentifier:
+- content: NBS IR 84-3014
+  type: NIST
+  primary: true
+- content: NBS.IR.84-3014
+  type: DOI
+date:
+- type: issued
+  at: '1984'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kamper, R. A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84185447
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kline, K. E.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84185448
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBSIR; NBS IR; NBS interagency report; NBS internal report
+  number: 84-3014
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

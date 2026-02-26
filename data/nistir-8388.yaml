@@ -1,0 +1,77 @@
+---
+id: NISTIR8388
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Verifying executability of SysML behavior models using Alloy Analyzer
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8388
+docidentifier:
+- content: NIST IR 8388
+  type: NIST
+  primary: true
+- content: NIST.IR.8388
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Doerr, Jeremy.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bock, Conrad.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barbau, Raphael.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: This report presents an approach to verifying executability of system behavior
+    models by treating them as logical constraint problems solved using Alloy Analyzer,
+    a non-proprietary software tool supporting a textual language for logical constraints
+    and underlying solvers. With behavior models interpreted as constraints on execution
+    order, Alloy can determine whether the models are executable by attempting to
+    find executions that meet those constraints. The approach relies on a logical
+    interpretation of behavior modeling in the Systems Modeling Language (SysML) by
+    Ontological Behavior Modeling method that unifies SysML behavior modeling based
+    on its classification elements. This paper proposes translation between logical
+    versions of SysML behavioral models and logical constructs in Alloy. Finally,
+    the approach is demonstrated by translating and solving example SysML behavior
+    models.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8388'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

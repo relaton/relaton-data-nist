@@ -1,0 +1,107 @@
+---
+id: NISTSP800150
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guide to cyber threat information sharing
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-150
+docidentifier:
+- content: NIST SP 800-150
+  type: NIST
+  primary: true
+- content: NIST.SP.800-150
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Johnson, Chris.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n77006959
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Badger, Lee.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021142246
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Waltermire, David.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021047735
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Snyder, Julie,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2010076750
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Skorupka, Clem.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: Cyber threat information is any information that can help an organization
+    identify, assess, monitor, and respond to cyber threats. Cyber threat information
+    includes indicators of compromise; tactics, techniques, and procedures used by
+    threat actors; suggested actions to detect, contain, or prevent attacks; and the
+    findings from the analyses of incidents. Organizations that share cyber threat
+    information can improve their own security postures as well as those of other
+    organizations. This publication provides guidelines for establishing and participating
+    in cyber threat information sharing relationships. This guidance helps organizations
+    establish information sharing goals, identify cyber threat information sources,
+    scope information sharing activities, develop rules that control the publication
+    and distribution of threat information, engage with existing sharing communities,
+    and make effective use of threat information in support of the organizations overall
+    cybersecurity practices.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-150
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,64 @@
+---
+id: NISTMONO16v2
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Structural fire response and probable collapse sequence of the World Trade
+    Center towers (Chapter 7- Appendix B
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.MONO.1-6v2
+docidentifier:
+- content: NIST MONO 1-6v2
+  type: NIST
+  primary: true
+- content: NIST.MONO.1-6v2
+  type: DOI
+date:
+- type: issued
+  at: '2005'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gross, John L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n85099473
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McAllister, Therese.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nr2002021681
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST NCSTAR; National Construction Safety Team Act report
+  number: 1-6v2
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

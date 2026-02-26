@@ -1,0 +1,55 @@
+---
+id: NISTIR7827
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Integrating jQuery with the 3D descriptive markup of X3DOM
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7827
+docidentifier:
+- content: NIST IR 7827
+  type: NIST
+  primary: true
+- content: NIST.IR.7827
+  type: DOI
+date:
+- type: issued
+  at: '2011'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ressler, Sanford.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88077240
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
+    - content: Applied and Computational Mathematics Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015104603
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7827'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

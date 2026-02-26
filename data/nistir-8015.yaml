@@ -1,0 +1,73 @@
+---
+id: NISTIR8015
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: An ACT-R model of elliptical endpoint error distributions in a mobile touchscreen
+    2-D Fitts' law task
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8015
+docidentifier:
+- content: NIST IR 8015
+  type: NIST
+  primary: true
+- content: NIST.IR.8015
+  type: DOI
+date:
+- type: issued
+  at: '2014'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Greene, Kristen K.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020085049
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gallagher, Melissa A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020089565
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tamborello, II, Franklin P.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
+    - content: Information Access Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2011180823
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8015'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

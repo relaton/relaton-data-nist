@@ -1,0 +1,89 @@
+---
+id: NISTSP80063Bsup1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Incorporating syncable authenticators into NIST SP 800-63B
+  type: title-main
+- language: en
+  script: Latn
+  content: digital identity guidelines — authentication and lifecycle management
+  type: title-part
+- language: en
+  script: Latn
+  content: Incorporating syncable authenticators into NIST SP 800-63B - digital identity
+    guidelines — authentication and lifecycle management
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-63Bsup1
+docidentifier:
+- content: NIST SP 800-63Bsup1
+  type: NIST
+  primary: true
+- content: NIST.SP.800-63Bsup1
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Regenscheid, Andrew.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3930-527X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Temoshok, David.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-6195-0331"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: LaSalle, Connie.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-6031-7550"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'This supplement to NIST Special Publication 800-63B, Digital Identity
+    Guidelines: Authentication and Lifecycle Management, provides agencies with additional
+    guidance on the use of authenticators that may be synced between devices.'
+series:
+- title:
+  - content: NIST special publication
+  number: 800-63Bsup1
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-63Bsup1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

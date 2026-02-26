@@ -1,0 +1,59 @@
+---
+id: NISTSP250e1992app
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST calibration services users guide
+  type: title-main
+- language: en
+  script: Latn
+  content: fee schedule
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST calibration services users guide - fee schedule
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.250e1992app
+docidentifier:
+- content: NIST SP 250e1992app
+  type: NIST
+  primary: true
+- content: NIST.SP.250e1992app
+  type: DOI
+date:
+- type: issued
+  at: '1992'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 250e1992app
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

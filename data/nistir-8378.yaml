@@ -1,0 +1,75 @@
+---
+id: NISTIR8378
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Model of operational control of discrete event logistics systems (DELS)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8378
+docidentifier:
+- content: NIST IR 8378
+  type: NIST
+  primary: true
+- content: NIST.IR.8378
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sprock, Timothy.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bock, Conrad.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: Operations management systems manage flows of work, resources, and information
+    through production and logistics systems, ensuring the correct and efficient execution
+    of requested work. These systems can leverage recent advances in data availability,
+    analytical capabilities, and industrial automation to substantially improve overall
+    system performance. Additional improvements include streamlining flows of work,
+    resources, and information across functionally heterogeneous components of production
+    and logistics systems, which often have their own planning, execution, and data
+    management systems. These smart manufacturing capabilities may simplify system
+    implementation and improve its operation. However, they also introduce additional
+    complexity to the system and design process. This paper proposes a model of operational
+    control capable of supporting an integrated approach to design, analysis, and
+    operation across functionally heterogeneous systems, classified as discrete event
+    logistics systems. The model identifies and formalizes operational control decision-making
+    and actuation functions required by these systems. It then provides logical modeling
+    components that can be reused, specialized, and assembled into operational control
+    system models. These models can be linked and integrated with other models and
+    views of the system as part of an overall model-based engineering effort.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8378'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

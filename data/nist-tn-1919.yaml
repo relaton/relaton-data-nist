@@ -1,0 +1,88 @@
+---
+id: NISTTN1919
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Building Industry Reporting and Design for Sustainability (BIRDS) tutorial
+    for new Low-Energy Residential database
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1919
+docidentifier:
+- content: NIST TN 1919
+  type: NIST
+  primary: true
+- content: NIST.TN.1919
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kneifel, Joshua.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015145270
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: O'Rear, Eric.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lavappa, Priya.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021113180
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: Building stakeholders need practical metrics, data, and tools to support
+    decisions related to sustainable building designs, technologies, standards, and
+    codes. The Engineering Laboratory of the National Institute of Standards and Technology
+    (NIST) has addressed this high priority national need by extending its metrics
+    and tools for sustainable building products, known as Building for Environmental
+    and Economic Sustainability (BEES), to whole buildings. Whole building sustainability
+    metrics have been developed based on innovative extensions to life-cycle assessment
+    (LCA) and life-cycle costing (LCC) approaches involving whole building energy
+    simulations. The measurement system evaluates the sustainability of both the materials
+    and the energy used by buildings over time. It assesses the carbon footprint of
+    buildings as well as 11 other environmental performance metrics, and integrates
+    economic performance metrics to yield science-based measures of the business case
+    for investment choices in high-performance green buildings.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1919'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

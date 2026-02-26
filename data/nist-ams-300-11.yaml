@@ -1,0 +1,68 @@
+---
+id: NISTAMS30011
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Recommendations for collecting, curating, and re-using manufacturing data
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.300-11
+docidentifier:
+- content: NIST AMS 300-11
+  type: NIST
+  primary: true
+- content: NIST.AMS.300-11
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Helu, Moneer.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hedberg, Thomas Jr.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This report provides general recommendations for collecting, curating,
+    and re-using manufacturing data from both additive and subtractive processes.
+    The intended audience includes researchers, technical-assessment personnel, and
+    end-users who would like to collect data from manufacturing equipment on the shop
+    floor. These recommendations provide guidance to design and implement a network-based
+    solution to manage data collected from manufacturing equipment on the shop floor.
+    To the extent possible, broadly-accepted, international, open, consensus-based
+    standards are recommended. Using this report, the reader should be able to understand
+    the value of collecting manufacturing data, how to get started collect it, and
+    the relevant manufacturing data standards that may help in this process.
+series:
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 300-11
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

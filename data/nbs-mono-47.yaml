@@ -1,0 +1,65 @@
+---
+id: NBSMONO47
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Basic magnetic quantities and the measurement of the magnetic properties
+    of materials
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.MONO.47
+docidentifier:
+- content: NBS MONO 47
+  type: NIST
+  primary: true
+- content: NBS.MONO.47
+  type: DOI
+date:
+- type: issued
+  at: '1962'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sanford, Raymond L. (Raymond Laraway),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2008155382
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cooter, Irvin L. (Irvin Leon),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2008155383
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS monograph; NBS MONO
+  number: '47'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

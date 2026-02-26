@@ -1,0 +1,93 @@
+---
+id: NISTTN1991
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Investigations on SI-traceable dynamic calibration of instrumented Charpy
+    strikers
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1991
+docidentifier:
+- content: NIST TN 1991
+  type: NIST
+  primary: true
+- content: NIST.TN.1991
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chijioke, Akobuije.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Vlajic, Nicholas.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mulhern, Edward.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lucon, Enrico.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015169004
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.)).
+    - content: Material Measurement Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2019028800
+abstract:
+- language: en
+  script: Latn
+  content: In this Technical Note, we report on investigations toward an SI-traceable
+    dynamic calibration of instrumented Charpy strikers, performed at NIST from January
+    to December 2017. Although Charpy tests are few-millisecond-duration events in
+    which dynamic phenomena are often clearly present, the force measurements from
+    instrumented Charpy tests are predominantly obtained using static calibrations,
+    which has long been recognized as a source of significant potential errors. We
+    discuss a number of approaches to dynamic calibration, including methods that
+    have previously been implemented at NIST (and elsewhere), and methods that are
+    new in the sense that they are not presently commonly used or incorporated into
+    standards. We describe exploratory tests of some of the new calibration approaches,
+    the results of these tests, and how the information obtained is being applied
+    to further work. A key objective of these investigations is that the calibration
+    be traceable to the International System of Units.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1991'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

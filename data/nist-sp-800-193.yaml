@@ -1,0 +1,48 @@
+---
+id: NISTSP800193
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Platform firmware resiliency guidelines
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-193
+docidentifier:
+- content: NIST SP 800-193
+  type: NIST
+  primary: true
+- content: NIST.SP.800-193
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Regenscheid, Andrew.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-193
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

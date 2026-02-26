@@ -1,0 +1,48 @@
+---
+id: NBSRPT6365
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Distribution of outgoing first class lettermail at the Washington, D.C.
+    Post Office
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.RPT.6365
+docidentifier:
+- content: NBS RPT 6365
+  type: NIST
+  primary: true
+- content: NBS.RPT.6365
+  type: DOI
+date:
+- type: issued
+  at: '1959'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Newman, Arthur E.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NBS report
+  number: '6365'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

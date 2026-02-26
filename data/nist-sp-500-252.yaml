@@ -1,0 +1,68 @@
+---
+id: NISTSP500252
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A guide for librarians and archivists
+  type: title-main
+- language: en
+  script: Latn
+  content: care and handling of CDs and DVDs
+  type: title-part
+- language: en
+  script: Latn
+  content: A guide for librarians and archivists - care and handling of CDs and DVDs
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.500-252
+docidentifier:
+- content: NIST SP 500-252
+  type: NIST
+  primary: true
+- content: NIST.SP.500-252
+  type: DOI
+date:
+- type: issued
+  at: '2003'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Byers, Fred R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nr2003037524
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: This document is a comprehensive review of procedures for the care and
+    handling of optical disc media, providing both guidlines and introductory information
+    for both the expert and the end user (librarians, archivists) of CDs and DVDs.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 500-252
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

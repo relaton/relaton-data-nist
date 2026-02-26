@@ -1,0 +1,72 @@
+---
+id: NBSSP356
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Damage in laser materials
+  type: title-main
+- language: en
+  script: Latn
+  content: '1971'
+  type: title-part
+- language: en
+  script: Latn
+  content: Damage in laser materials - 1971
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.356
+docidentifier:
+- content: NBS SP 356
+  type: NIST
+  primary: true
+- content: NBS.SP.356
+  type: DOI
+date:
+- type: issued
+  at: '1971'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Glass, Alexander J.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80005127
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Guenther, Arthur Henry,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80045127
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: '356'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

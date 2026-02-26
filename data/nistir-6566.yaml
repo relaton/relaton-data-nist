@@ -1,0 +1,74 @@
+---
+id: NISTIR6566
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Workshop on temperature measurement of semiconductor wafers using thermocouples
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.6566
+docidentifier:
+- content: NIST IR 6566
+  type: NIST
+  primary: true
+- content: NIST.IR.6566
+  type: DOI
+date:
+- type: issued
+  at: '2001'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kreider, K. G.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: DeWitt, David P.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50003117
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tsai, B. K.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lojek, B.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '6566'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,83 @@
+---
+id: NISTSP80048r1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guide to securing legacy IEEE 802.11 wireless networks
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-48r1
+docidentifier:
+- content: NIST SP 800-48r1
+  type: NIST
+  primary: true
+- content: NIST.SP.800-48r1
+  type: DOI
+date:
+- type: issued
+  at: '2008'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, K. A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dicoi, D.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sexton, M.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tibbs, C.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: The purpose of this document is to provide guidance to organizations in
+    securing their legacy Institute of Electrical and Electronics Engineers (IEEE)
+    802.11 wireless local area networks (WLAN) that cannot use IEEE 802.11i. The document
+    provides an overview of legacy IEEE 802.11 WLAN standards, components, and architectural
+    models. It discusses the basics of WLAN security and examines the security capabilities
+    provided by legacy IEEE 802.11 standards. The document also discusses threats
+    and vulnerabilities involving legacy IEEE 802.11 WLANs, explains common countermeasures,
+    and makes recommendations for their use.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-48r1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,72 @@
+---
+id: NBSBSS131
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Laboratory evaluation of nondestructive methods to measure moisture in
+    built-up roofing systems
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.BSS.131
+docidentifier:
+- content: NBS BSS 131
+  type: NIST
+  primary: true
+- content: NBS.BSS.131
+  type: DOI
+date:
+- type: issued
+  at: '1981'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Knab, Lawrence.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Matheu, Robert.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2007024533
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jenkins, David.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79052061
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS building science series; NBS building science; NBS BSS
+  number: '131'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

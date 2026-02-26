@@ -1,0 +1,73 @@
+---
+id: NBSSP26061
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Standard reference materials
+  type: title-main
+- language: en
+  script: Latn
+  content: the characterization of linear polyethylene SRM's 1482, 1483, and 1484
+  type: title-part
+- language: en
+  script: Latn
+  content: Standard reference materials - the characterization of linear polyethylene
+    SRM's 1482, 1483, and 1484
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.260-61
+docidentifier:
+- content: NBS SP 260-61
+  type: NIST
+  primary: true
+- content: NBS.SP.260-61
+  type: DOI
+date:
+- type: issued
+  at: '1978'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Verdier, Peter H.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79061221
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wagner, Herman L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79061222
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: 260-61
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

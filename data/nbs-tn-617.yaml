@@ -1,0 +1,55 @@
+---
+id: NBSTN617
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Thermophysical properties of parahydrogen from the freezing liquid line
+    to 5000 R for pressures to 10,000 Psia
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.TN.617
+docidentifier:
+- content: NBS TN 617
+  type: NIST
+  primary: true
+- content: NBS.TN.617
+  type: DOI
+date:
+- type: issued
+  at: '1972'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McCarty, Robert D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81103507
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS technical note; NBS tech note; NBS TN
+  number: '617'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

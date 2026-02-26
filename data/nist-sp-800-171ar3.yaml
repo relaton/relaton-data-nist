@@ -1,0 +1,85 @@
+---
+id: NISTSP800171Ar3
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Assessing security requirements for controlled unclassified information
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-171Ar3
+docidentifier:
+- content: NIST SP 800-171Ar3
+  type: NIST
+  primary: true
+- content: NIST.SP.800-171Ar3
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ross, Ron.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-1099-9757"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pillitteri, Victoria
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7446-7506"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The protection of Controlled Unclassified Information (CUI) is of paramount
+    importance to federal agencies and can directly impact the ability of the Federal
+    Government to successfully conduct its essential missions and functions. This
+    publication provides organizations with assessment procedures and a methodology
+    that can be used to conduct assessments of the security requirements in NIST Special
+    Publication 800-171, Protecting Controlled Unclassified Information in Nonfederal
+    Systems and Organizations. The assessment procedures are flexible and can be customized
+    to the needs of organizations and assessors. Assessments can be conducted as independent,
+    third-party assessments or as government-sponsored assessments. The assessments
+    can be applied with various degrees of rigor based on customer-defined depth and
+    coverage attributes.
+relation:
+- type: updates
+  bibitem:
+    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x000000032b3904d0>"
+    docidentifier:
+    - content: NIST SP 800-171A
+      type: NIST
+series:
+- title:
+  - content: NIST special publication
+  number: 800-171Ar3
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-171Ar3
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

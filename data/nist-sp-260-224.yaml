@@ -1,0 +1,85 @@
+---
+id: NISTSP260224
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Certification of Standard Reference Material 3655 glycans in solution (frozen)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-224
+docidentifier:
+- content: NIST SP 260-224
+  type: NIST
+  primary: true
+- content: NIST.SP.260-224
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lowenthal, Mark S.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Toman, Blaza.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lang, Brian E.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Phinney, Karen W.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: Standard Reference Material (SRM) 3655 is intended primarily for use as
+    a calibration standard for the measurement of enzymatically released N-linked
+    glycans. Applications of SRM 3655 include the benchmarking and comparability of
+    analytical techniques, as a material for ensuring system suitability, and for
+    analytical method validation. This material may also be used to value-assign in-house
+    calibrators or control materials. SRM 3655 consists of thirteen (13) aqueous solutions
+    of glycans commonly associated with monoclonal antibody therapeutics. Each solution
+    contains a purified, free-reducing glycan at a defined mass fraction. A unit of
+    SRM 3655 consists of thirteen 0.5 mL vials each containing approximately 0.2 mL
+    of solution, frozen and stored at -80 C. The tube is labeled and is sealed with
+    a color-coded screw cap with a Teflon liner. This publication documents the production,
+    analytical methods, measurement results, and statistical evaluations involved
+    in characterizing these glycan materials.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 260-224
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

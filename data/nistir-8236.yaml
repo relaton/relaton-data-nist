@@ -1,0 +1,76 @@
+---
+id: NISTIR8236
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Test scenarios for mission critical push-to-talk (MCPTT) off-network mode
+    protocols implementation
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8236
+docidentifier:
+- content: NIST IR 8236
+  type: NIST
+  primary: true
+- content: NIST.IR.8236
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Varin, Priam.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sun, Yishen.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Garey, Wesley.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Communications Technology Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: The document provides both an overview and technical details of test scenarios
+    that are designed by our group. Those test scenarios can be used to verify the
+    protocol implementation of the off- network mode of 3GPP defined mission critical
+    push-to-talk (MCPTT) operations, covering floor control, call control, and call
+    type control. This release contains test cases for basic group calls, private
+    calls and broadcast group calls. A test scenario is presented in a table format,
+    and sometimes a figure for the messages exchanged over the air as well.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8236'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

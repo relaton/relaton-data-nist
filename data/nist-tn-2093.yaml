@@ -1,0 +1,100 @@
+---
+id: NISTTN2093
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Development of a new approach to characterize firebrand showers during
+    Wildland-Urban Interface (WUI) fires
+  type: title-main
+- language: en
+  script: Latn
+  content: a step towards high-fidelity measurements in three dimensions
+  type: title-part
+- language: en
+  script: Latn
+  content: Development of a new approach to characterize firebrand showers during
+    Wildland-Urban Interface (WUI) fires - a step towards high-fidelity measurements
+    in three dimensions
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2093
+docidentifier:
+- content: NIST TN 2093
+  type: NIST
+  primary: true
+- content: NIST.TN.2093
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bouvet-Levrard, Nicolas,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022148661
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Link, Eric D.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fink, Stephen A.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: 'A new approach to characterize airborne firebrands during Wildland Urban
+    Interface (WUI) fires is detailed. The approach merges the following two imaging
+    techniques in a single field-deployable diagnostic tool: 1/ 3D Particle Tracking
+    Velocimetry (3D-PTV), allowing for the time-resolved mapping of firebrand 3D trajectories,
+    and 2/ 3D Particle Shape Reconstruction (3D-PSR), used to reconstruct 3D models
+    of individual particles following the Visual Hull principle. This tool offers
+    for the first time the possibility to simultaneously study time-resolved firebrand
+    fluxes and firebrand size distribution to the full extent of their three-dimensional
+    nature. Methodologies used in the present work are presented and their technical
+    implementation are thoroughly discussed. Validation tests to confirm proper tracking/sizing
+    of particles are detailed. The diagnostic tool is applied to a firebrand shower
+    artificially-generated at NIST National Fire Research Laboratory. A novel graphic
+    representation, that incorporates both the Cumulative Particle Count (CPC, part.
+    m-2) and Particle Number Flux (PNF, part. m-2 s-1) as relevant exposure metrics,
+    is presented and the exposure level is compared to that of an actual outdoor fire.
+    Size distributions obtained for airborne firebrands are compared to those achieved
+    through ground collection and strategies to improve the particle shape reconstruction
+    method are discussed.'
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2093'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

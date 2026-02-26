@@ -1,0 +1,82 @@
+---
+id: NISTSP800111
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guide to storage encryption technologies for end user devices
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-111
+docidentifier:
+- content: NIST SP 800-111
+  type: NIST
+  primary: true
+- content: NIST.SP.800-111
+  type: DOI
+date:
+- type: issued
+  at: '2007'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, K. A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Souppaya, M. P.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sexton, M.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: Many threats against end user devices, such as desktop and laptop computers,
+    smart phones, personal digital assistants, and removable media, could cause information
+    stored on the devices to be accessed by unauthorized parties. To prevent such
+    disclosures of information, the information needs to be secured. This publication
+    explains the basics of storage encryption, which is the process of using encryption
+    and authentication to restrict access to and use of stored information. The appropriate
+    storage encryption solution for a particular situation depends primarily upon
+    the type of storage, the amount of information that needs to be protected, the
+    environments where the storage will be located, and the threats that need to be
+    mitigated. This publication describes three types of solutions⁰₄full disk encryption,
+    volume and virtual disk encryption, and file/folder encryption⁰₄and makes recommendations
+    for implementing and using each type. This publication also includes several use
+    case examples, which illustrate that there are multiple ways to meet most storage
+    encryption needs.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-111
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

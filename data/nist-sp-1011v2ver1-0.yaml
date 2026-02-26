@@ -1,0 +1,76 @@
+---
+id: NISTSP1011v2ver10
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Autonomy Levels For Unmanned Systems (ALFUS) framework, volume II
+  type: title-main
+- language: en
+  script: Latn
+  content: framework models version 1.0
+  type: title-part
+- language: en
+  script: Latn
+  content: Autonomy Levels For Unmanned Systems (ALFUS) framework, volume II - framework
+    models version 1.0
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1011-II-1.0
+docidentifier:
+- content: NIST SP 1011v2ver1.0
+  type: NIST
+  primary: true
+- content: NIST.SP.1011-II-1.0
+  type: DOI
+date:
+- type: issued
+  at: '2007'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Huang, Huimin.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79074377
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Messina, Elena.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Albus, James.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1011-II-1.0
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

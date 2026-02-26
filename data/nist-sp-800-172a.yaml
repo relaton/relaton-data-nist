@@ -1,0 +1,79 @@
+---
+id: NISTSP800172A
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Assessing enhanced security requirements for controlled unclassified information
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-172A
+docidentifier:
+- content: NIST SP 800-172A
+  type: NIST
+  primary: true
+- content: NIST.SP.800-172A
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ross, Ron.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pillitteri, Victoria.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dempsey, Kelley.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: 'The protection of Controlled Unclassified Information (CUI) in nonfederal
+    systems and organizations is important to federal agencies and can directly impact
+    the ability of the Federal Government to successfully carry out its assigned missions
+    and business operations. This publication provides federal agencies and nonfederal
+    organizations with assessment procedures that can be used to carry out assessments
+    of the requirements in NIST Special Publication 800-172, Enhanced Security Requirements
+    for Protecting Controlled Unclassified Information: A Supplement to NIST Special
+    Publication 800-171. The assessment procedures are flexible and can be tailored
+    to the needs of organizations and assessors. Assessments can be conducted as 1)
+    self-assessments; 2) independent, third-party assessments; or 3) government-sponsored
+    assessments. The assessments can be conducted with varying degrees of rigor based
+    on customer-defined depth and coverage attributes. The findings and evidence produced
+    during the assessments can be used to facilitate risk-based decisions by organizations
+    related to the CUI enhanced security requirements.'
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-172A
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

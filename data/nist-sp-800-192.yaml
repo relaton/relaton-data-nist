@@ -1,0 +1,94 @@
+---
+id: NISTSP800192
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Verification and test methods for access control policies/models
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-192
+docidentifier:
+- content: NIST SP 800-192
+  type: NIST
+  primary: true
+- content: NIST.SP.800-192
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hu, Vincent C.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nb2021009064
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kuhn, D. Richard.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n85246800
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yaga, Dylan.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2011141697
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: Access control systems are among the most critical of computer security
+    components. Faulty policies, misconfigurations, or flaws in software implementations
+    can result in serious vulnerabilities. To formally and precisely capture the security
+    properties that access control should adhere to, access control models are usually
+    written, bridging the gap in abstraction between policies and mechanisms. Identifying
+    discrepancies between policy specifications and their intended function is crucial
+    because correct implementation and enforcement of policies by applications is
+    based on the premise that the policy specifications are correct. As a result,
+    policy specifications represented by models must undergo rigorous verification
+    and validation through systematic verification and testing to ensure that the
+    policy specifications truly encapsulate the desires of the policy authors. Verifying
+    the conformance of access control policies and models is a non-trivial and critical
+    task, and one important aspect of such verification is to formally check the inconsistency
+    and incompleteness of the model and safety requirements of the policy, because
+    an access control model and its implementation do not necessarily explicitly express
+    the policy, which can also be implicitly embedded by mixing with direct access
+    constraints or other access control models.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-192
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

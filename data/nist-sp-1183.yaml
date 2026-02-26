@@ -1,0 +1,78 @@
+---
+id: NISTSP1183
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Measuring the size of nanoparticles in aqueous media using batch-mode dynamic
+    light scattering
+  type: title-main
+- language: en
+  script: Latn
+  content: NIST-NCL joint assay protocol, PCC-1 version 1.2
+  type: title-part
+- language: en
+  script: Latn
+  content: Measuring the size of nanoparticles in aqueous media using batch-mode dynamic
+    light scattering - NIST-NCL joint assay protocol, PCC-1 version 1.2
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1183
+docidentifier:
+- content: NIST SP 1183
+  type: NIST
+  primary: true
+- content: NIST.SP.1183
+  type: DOI
+date:
+- type: issued
+  at: '2015'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Olson, Nathan D.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jackson, Scott A.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2016052826
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lin, Nancy J.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Material Measurement Laboratory (U.S.).
+    - content: Biosystems and Biomaterials Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012096740
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '1183'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

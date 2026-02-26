@@ -1,0 +1,76 @@
+---
+id: NISTAMS10051
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: On migrating ISO 10303 PMI models to a common core
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-51
+docidentifier:
+- content: NIST AMS 100-51
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-51
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barnard Feeney, Allison.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-0866-9572"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Thurman, Thomas R.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Communications Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'Industrial users of ISO 10303 STandard for the Exchange of Product Model
+    Data (STEP) protocols needed the ability to exchange design product data that
+    is in conformance with recently updated ISO geometric product specification (GPS)
+    standards, the American Society of Mechanical Engineers (ASME) dimensioning and
+    tolerancing standard, and recently updated digital product data definition practice
+    standards. Updates to those standards were made to support continued migration
+    from drawing-based product and manufacturing information (PMI) exchange to full
+    model-based exchange, sharing and management across life-cycle viewpoints (i.e.,
+    design to fabrication to inspection). The aerospace and automotive industries
+    created a joint project to merge ISO 10303-203: Configuration controlled 3D design
+    (AP 203) [1] and ISO 10303-214: Core data for automotive mechanical design processes
+    (AP 214) [2] into a new ISO 10303-242: Managed model-based 3D engineering (AP
+    242) [3] rather than pursue individual updates. Relevant STEP information models
+    have been updated and new information models created to support the ASME and ISO
+    standards, resulting in the publication of AP 242 in 2014.'
+series:
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 100-51
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,100 @@
+---
+id: NISTAMS1007
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Summary of the symposium on data analytics for advanced manufacturing
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-7
+docidentifier:
+- content: NIST AMS 100-7
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-7
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Narayanan, Anantha,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2004088587
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ak, Ronay.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lee, Yung-Tsun Tina.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ghosh, Rumi.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rachuri, Sudarsan.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nb2005010837
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: The Symposium on Data Analytics for Advanced Manufacturing was held in
+    conjunction with the 2016 IEEE International Conference on Big Data in Washington
+    D.C. on December 6-7, 2016. The Symposium's goal was to address manufacturing
+    industries' issues, needs, and challenges related to data analytics solutions
+    for advanced manufacturing. The Symposium was themed From Sensing to Decision-Making.
+    The Symposium brought industry, government, and academic organizations together
+    to exchange ideas and provide a common platform to build partnerships. This report
+    summarizes the keynote presentations, technical paper presentations, and panel
+    discussion of this symposium. The Symposium also hosted a manufacturing data challenge,
+    which is summarized in this report. This report also elicits the lessons learned
+    from this symposium, and presents action items for future research on data analytics
+    for advanced manufacturing.
+series:
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 100-7
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

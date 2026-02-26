@@ -1,0 +1,63 @@
+---
+id: NISTIR883897
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Burning characteristics of combat ship compartments and vertical fire spread
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.88-3897
+docidentifier:
+- content: NIST IR 88-3897
+  type: NIST
+  primary: true
+- content: NIST.IR.88-3897
+  type: DOI
+date:
+- type: issued
+  at: '1988'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gross, Daniel.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2021018469
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Davis, William D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2005057295
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 88-3897
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

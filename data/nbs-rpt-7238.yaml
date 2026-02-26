@@ -1,0 +1,106 @@
+---
+id: NBSRPT7238
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The prediction of service volumes for air navigation facilities
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.RPT.7238
+docidentifier:
+- content: NBS RPT 7238
+  type: NIST
+  primary: true
+- content: NBS.RPT.7238
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gierhart, G. D. (Gary D.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81117524
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Miller, J. S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n92076646
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Johnson, M. E.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81113033
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barsis, A. P.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80006175
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: This report deals with the prediction of service volumes (i. e., service
+    ranges in three dimensions) for VOR and TACAN air navigation facilities in the
+    presence of noise and interfering stations. Propagation mechanisms applicable
+    to the frequency ranges employed are discussed first, together with calculation
+    of transmission loss and its variability. Second, the statistical treatment of
+    the interference problem is explained. Finally, it is shown how service volumes
+    are determined based on transmission loss and its variations, specified or assumed
+    criteria on signal-to-noise and signal-to-interference ratio, and the spatial
+    relations of the aircraft, the desired facility, and the undesired facility. The
+    results of the entire study are presented in graphical form. Detailed procedures,
+    mathematical formulas, and computer programs used are discussed in the Appendix.
+series:
+- title:
+  - content: NBS report
+  number: '7238'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

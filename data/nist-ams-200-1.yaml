@@ -1,0 +1,70 @@
+---
+id: NISTAMS2001
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Design and configuration of the smart manufacturing systems test bed
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.200-1
+docidentifier:
+- content: NIST AMS 200-1
+  type: NIST
+  primary: true
+- content: NIST.AMS.200-1
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hedberg Jr., Thomas,.
+    identifier:
+    - type: uri
+      content: 0000-0002-9024-2059
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Helu, Moneer.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: The purpose of this document is to describe the design and configuration
+    of the NIST Smart Manufacturing Systems Test Bed. Prospective developers, technical-assessment
+    personnel, researchers, and interested end-users are the intended audience of
+    this document. This document will provide a high-level overview of the SMS Test
+    Bed and direct the reader to additional documentation to support fully using and
+    replicated the SMS Test Bed.
+series:
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 200-1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,62 @@
+---
+id: NISTIR6276
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Operator's manual
+  type: title-main
+- language: en
+  script: Latn
+  content: balance automation software for the NIST mass calibration laboratory
+  type: title-part
+- language: en
+  script: Latn
+  content: Operator's manual - balance automation software for the NIST mass calibration
+    laboratory
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.6276
+docidentifier:
+- content: NIST IR 6276
+  type: NIST
+  primary: true
+- content: NIST.IR.6276
+  type: DOI
+date:
+- type: issued
+  at: '1998'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lee, Vincent J. (Vincent Janyan),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no99036754
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '6276'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

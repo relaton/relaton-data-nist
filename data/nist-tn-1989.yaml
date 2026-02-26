@@ -1,0 +1,70 @@
+---
+id: NISTTN1989
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST interlaboratory study of aerosol absorption measurements using photoacoustic
+    spectroscopy
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1989
+docidentifier:
+- content: NIST TN 1989
+  type: NIST
+  primary: true
+- content: NIST.TN.1989
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zangmeister, Christopher D.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Radney, James G.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Material Measurement Laboratory (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012096740
+abstract:
+- language: en
+  script: Latn
+  content: The National Institute of Standards and Technology coordinated an interlaboratory
+    study for laboratories that use photoacoustic spectroscopy to measure and report
+    aerosol absorption. This report describes the design and results for the NIST
+    Interlaboratory Study of Aerosol Absorption Measurements using Photoacoustic Spectroscopy
+    from twelve participating laboratories using a material that was characterized
+    and distributed by NIST on June 12, 2017. Participants were requested to provide
+    measurement results by August 30, 2017. The participating laboratories reported
+    4,569 aerosol absorption cross sections as a function of particle size, particle
+    mass and wavelength.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1989'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,58 @@
+---
+id: NISTGCR22033
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Gap analysis for key interoperability scenarios in election technology
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.GCR.22-033
+docidentifier:
+- content: NIST GCR 22-033
+  type: NIST
+  primary: true
+- content: NIST.GCR.22-033
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dziurlaj, John.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: This document describes potential use-cases for data interoperability in
+    election technology components not previously considered in past efforts. Such
+    components include on-demand ballot printing systems, remote ballot marking systems
+    and electronic poll books. Each component is described along with a set of generalized
+    functions it performs. Existing common data formats are considered for their applicability
+    to component functions. Where gaps are found, suggestions to enhance interoperability
+    are described.
+series:
+- title:
+  - content: NIST GCR; NIST grant-contract report; NIST grant contract report
+  number: 22-033
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

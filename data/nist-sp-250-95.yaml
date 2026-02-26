@@ -1,0 +1,100 @@
+---
+id: NISTSP25095
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST measurement services
+  type: title-main
+- language: en
+  script: Latn
+  content: photometric calibrations
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST measurement services - photometric calibrations
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.250-95
+docidentifier:
+- content: NIST SP 250-95
+  type: NIST
+  primary: true
+- content: NIST.SP.250-95
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zong, Yuqin.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nadal, Maria E.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022063285
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tsai, Benjamin K.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2008166626
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Miller, C. Cameron.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003063921
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.))
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2019028800
+abstract:
+- language: en
+  script: Latn
+  content: The National Institute of Standards and Technology provides calibration
+    services for submitted artifacts for luminous intensity, illuminance, color temperature,
+    total luminous flux, luminous exposure and luminance. Additionally, the National
+    Institute of Standards and Technology issues calibrated standards of luminous
+    intensity, luminance, and color temperature. The procedures, equipment, and techniques
+    used to perform these calibrations are described. Detailed estimates and procedures
+    for determining uncertainties of the reported values are also presented along
+    with the internal quality control procedures.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 250-95
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

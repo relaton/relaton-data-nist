@@ -1,0 +1,89 @@
+---
+id: NISTTN2215
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Characteristics of nuclear power plant fires involving electrical enclosures
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2215
+docidentifier:
+- content: NIST TN 2215
+  type: NIST
+  primary: true
+- content: NIST.TN.2215
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Leventon, Isaac T.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McGrattan, Kevin B.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Davis, Rick D.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hamburger, Kenneth.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Melly, Nicholas.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: PRIMARY AUDIENCE Fire protection and fire probabilistic risk assessment
+    engineers conducting or reviewing fire modeling that supports fire probabilistic
+    risk assessments related to characteristics (e.g., ignition, fire growth, and
+    peak heat release rate) of electrical enclosure fires in nuclear power plants.
+    KEY RESEARCH QUESTION What are the characteristics (e.g., common causes, ignition
+    mechanisms, detection type) of electrical enclosure fires; what impact does fire
+    cause type have on the severity, duration, and damage type of electrical enclosure
+    fires; and how does this vary for fires in electrical enclosures versus all fires
+    in nuclear power plants? can this information be used to inform testing, fire
+    modeling, and risk assessment of electrical enclosure fires?
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2215'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,63 @@
+---
+id: NISTSP990
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Measuring the performance and intelligence of systems
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.990
+docidentifier:
+- content: NIST SP 990
+  type: NIST
+  primary: true
+- content: NIST.SP.990
+  type: DOI
+date:
+- type: issued
+  at: '2002'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Messina, E. R. (Elena R.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2003001654
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Meystel, A. (Alex)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n85281782
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '990'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

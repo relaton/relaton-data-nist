@@ -1,0 +1,63 @@
+---
+id: NISTMONO11F
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Comparison of the 1968 and current (2003) New York City building code provisions
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.MONO.1-1f
+docidentifier:
+- content: NIST MONO 1-1F
+  type: NIST
+  primary: true
+- content: NIST.MONO.1-1f
+  type: DOI
+date:
+- type: issued
+  at: '2005'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Razza, Joseph C.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022010434
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grill, Raymond A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022003167
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST NCSTAR; National Construction Safety Team Act report
+  number: 1-1f
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

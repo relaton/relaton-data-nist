@@ -1,0 +1,100 @@
+---
+id: NISTIR8187
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Evaluation infrastructure for the measurement of content-based video quality
+    and video analytics performance
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8187
+docidentifier:
+- content: NIST IR 8187
+  type: NIST
+  primary: true
+- content: NIST.IR.8187
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Guan, Haiying.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020085875
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zhou, Daniel.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fiscus, Jonathan.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Garofolo, John.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2007029064
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Horan, James.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nr92024783
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: In this report we describe a novel framework for evaluation of video analytics
+    which uses video quality metric prediction as a measurement of the system performance.
+    This system is used to improve overall video analytics system performance. The
+    primary concept of this approach is to create an evaluation infrastructure that
+    can promote the study of video quality metrics, and at the same time promote the
+    research of video analytics. The achievements in both domains will have significant
+    impacts on many application areas, such as public safety, homeland security, video
+    surveillance applications, geographic applications and entertainment video.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8187'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

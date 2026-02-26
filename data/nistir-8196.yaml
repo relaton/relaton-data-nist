@@ -1,0 +1,91 @@
+---
+id: NISTIR8196
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Security analysis of first responder mobile and wearable devices
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8196
+docidentifier:
+- content: NIST IR 8196
+  type: NIST
+  primary: true
+- content: NIST.IR.8196
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Franklin, Joshua M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020086934
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Howell, Gema.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ledgerwood, Scott.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Griffith,  Jaydee L.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
+    - content: Communications Technology Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: Public safety practitioners utilizing the forthcoming Nationwide Public
+    Safety Broadband Network (NPSBN) will have smartphones, tablets, and wearables
+    at their disposal. Although these devices should enable first responders to complete
+    their missions, any influx of new technologies will introduce new security vulnerabilities.
+    This document analyzes the needs of public safety mobile devices and wearables
+    from a cybersecurity perspective, specifically for the fire service, emergency
+    medical service (EMS), and law enforcement. To accomplish this goal, cybersecurity
+    use cases were analyzed, previously known attacks against related systems were
+    reviewed, and a threat model was created. The overarching goal of this work is
+    to identify security objectives for these devices, enabling jurisdictions to more
+    easily select and purchase secure devices and industry to design and build more
+    secure public safety devices.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8196'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

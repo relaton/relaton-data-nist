@@ -1,0 +1,70 @@
+---
+id: NBSMONO49
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Tables of Einstein functions
+  type: title-main
+- language: en
+  script: Latn
+  content: vibrational contributions to the thermodynamic functions
+  type: title-part
+- language: en
+  script: Latn
+  content: Tables of Einstein functions - vibrational contributions to the thermodynamic
+    functions
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.MONO.49
+docidentifier:
+- content: NBS MONO 49
+  type: NIST
+  primary: true
+- content: NBS.MONO.49
+  type: DOI
+date:
+- type: issued
+  at: '1962'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hilsenrath, Joseph.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82012175
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ziegler, Guy G.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS monograph; NBS MONO
+  number: '49'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

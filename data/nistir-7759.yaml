@@ -1,0 +1,97 @@
+---
+id: NISTIR7759
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: When high quality face image match poorly
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7759
+docidentifier:
+- content: NIST IR 7759
+  type: NIST
+  primary: true
+- content: NIST.IR.7759
+  type: DOI
+date:
+- type: issued
+  at: '2011'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Beveridge, J. R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Phillips, P. J.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Givens, Geof H.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2005017713
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Draper, Bruce A. (Bruce Austin),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nb2004306583
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Teli, Mohammad Nayeem.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020151281
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bolme, David S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020151284
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7759'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

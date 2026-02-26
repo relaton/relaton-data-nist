@@ -1,0 +1,75 @@
+---
+id: NISTGCR24051
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: How voters review and verify ballots
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.GCR.24-051
+docidentifier:
+- content: NIST GCR 24-051
+  type: NIST
+  primary: true
+- content: NIST.GCR.24-051
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Baumeister, Lynn.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Quesenbery, Whitney.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8197-7854"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory and Center for Civic Design.
+abstract:
+- language: en
+  script: Latn
+  content: 'Qualitative research to gain deeper insights about how voters mark, review,
+    verify, and cast their ballots. Conducted as part of the work to update the human
+    factors—accessibility, privacy, and usability—requirements in federal voting system
+    standards and fill gaps in our understanding of how voters interact with ballot
+    marking devices. From detailed observations of 35 voters marking both a pre-printed
+    paper ballot and a ballot marking device, four themes emerged about the influences
+    that shape attitudes about and behaviors during voting: • Past voting experiences
+    shape expectations for the voting process. • Voters preferred ballot marking devices.
+    • Voters did not have strong habits for verifying their printed ballots. • The
+    use of ballot marking devices alone did not encourage verification of printed
+    ballots.'
+series:
+- title:
+  - content: NIST GCR
+  number: 24-051
+- title:
+  - content: NIST GCR; NIST grant-contract report; NIST grant contract report
+  number: 24-051
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

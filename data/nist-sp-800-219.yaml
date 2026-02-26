@@ -1,0 +1,89 @@
+---
+id: NISTSP800219
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Automated secure configuration guidance from the macOS Security Compliance
+    Project (mSCP)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-219
+docidentifier:
+- content: NIST SP 800-219
+  type: NIST
+  primary: true
+- content: NIST.SP.800-219
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Trapnell, Mark.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Trapnell, Eric.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Souppaya, Murugiah.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gendler, Bob.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, Karen.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: The macOS Security Compliance Project (mSCP) provides resources that system
+    administrators, security professionals, security policy authors, information security
+    officers, and auditors can leverage to secure and assess macOS desktop and laptop
+    system security in an automated way. This publication introduces the mSCP and
+    gives an overview of the resources available from the project's GitHub site, which
+    is continuously curated and updated to support each new release of macOS. The
+    GitHub site provides practical, actionable recommendations in the form of secure
+    baselines and associated rules. This publication also describes use cases for
+    leveraging the mSCP content.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-219
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

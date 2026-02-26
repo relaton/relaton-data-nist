@@ -1,0 +1,94 @@
+---
+id: NISTTN2107
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Development of a kinematic measurement method for knee exoskeleton fit
+    to a user
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2107
+docidentifier:
+- content: NIST TN 2107
+  type: NIST
+  primary: true
+- content: NIST.TN.2107
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bostelman, Roger.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Li-Baboud, Ya-Shian.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Van Wyk, Karl.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Shah, Mili.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+abstract:
+- language: en
+  script: Latn
+  content: Proper exoskeleton fit to user impacts the safety of the human robot interaction.
+    Exoskeletons are now being marketed by several manufacturers and yet there are
+    currently no defined methods to measure the exoskeleton fit to the user. This
+    research aims to develop a quantifiable test and measurement framework for evaluating
+    exoskeleton performance, beginning with the tracking of knee kinematics. Key challenges
+    in knee kinematic measurements include the complexity of human biomechanics, the
+    variability of human anthropometry as well as the uncertainty of marker position,
+    relative to underlying skeletal features, as computed by an optical tracking system
+    (OTS). A measurement methodology to assess exoskeleton-to-leg fit based on comparison
+    of knee kinematics between the human and the exoskeleton is proposed. The methodology
+    is based on the use of rigid artifacts to minimize marker motion, and therefore
+    measurement error. Separate artifacts for the exoskeleton and the human limbs
+    enable independent tracking of exoskeleton and knee joint kinematics in order
+    to assess exoskeleton fit to user. A prosthetic test apparatus and a 3D printed
+    human knee model apparatus were also designed and developed to simulate the biomechanics
+    of the human knee. The experimental data from the prosthetic leg test apparatus
+    showed agreement with both the simulated analytical model and the ground truth
+    skeletal structure relative to the artifacts placed on the simulated leg. The
+    reconfigurable artifact was also tested by the researchers to demonstrate how
+    the novel design can be used to track knee kinematics between the human leg and
+    the exoskeleton leg.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2107'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,74 @@
+---
+id: NISTIR8530
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A unified model of core metrological concepts
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8530
+docidentifier:
+- content: NIST IR 8530
+  type: NIST
+  primary: true
+- content: NIST.IR.8530
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kacker, Raghu N.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7666-3391"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Foxvog, Douglas.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-4223-4051"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The definitions of core metrological terms, especially quantity, quantity
+    value, and unit, have been the subject of years of wrangling in standards organizations.
+    A chronic disagreement exists over whether quantities are conceptualized primarily
+    as mathematical entities or as physical ones. This report provides a unified model
+    into which all of the competing definitions can be mapped and productively integrated.
+    This model should enable software that interacts with measurement systems to be
+    more insulated from changing and conflicting metrological terminology.
+series:
+- title:
+  - content: NISTIR
+  number: '8530'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8530'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

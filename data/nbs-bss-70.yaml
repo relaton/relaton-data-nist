@@ -1,0 +1,62 @@
+---
+id: NBSBSS70
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Windows and people
+  type: title-main
+- language: en
+  script: Latn
+  content: a literature survey
+  type: title-part
+- language: en
+  script: Latn
+  content: Windows and people - a literature survey
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.BSS.70
+docidentifier:
+- content: NBS BSS 70
+  type: NIST
+  primary: true
+- content: NBS.BSS.70
+  type: DOI
+date:
+- type: issued
+  at: '1975'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Collins, Belinda Lowenhaupt.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80004000
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS building science series; NBS building science; NBS BSS
+  number: '70'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

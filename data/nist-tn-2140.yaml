@@ -1,0 +1,116 @@
+---
+id: NISTTN2140
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: AWS-3 LTE impacts aeronautical mobile telemetry
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2140
+docidentifier:
+- content: NIST TN 2140
+  type: NIST
+  primary: true
+- content: NIST.TN.2140
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Young, William F.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McGillivray, Duncan A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wunderlich, Adam J.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Krangle, Mark A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sklar, Jack G.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sanders, Aric W.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Forsyth, M. Keith
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lofquist, Mark.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kuester, Daniel G.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Communications Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This technical report details an effort to design, demonstrate, and validate
+    a test methodology to measure the impacts of Long Term Evolution (LTE) User Equipment
+    (UE) emissions in the advanced wireless services 3 (AWS-3) band on aeronautical
+    mobile telemetry (AMT) systems operating in the adjacent AMT band. Impacts are
+    assessed by collecting and analyzing AMT system-provided key performance indicators
+    (KPIs), such as bit error rate (BER). The validation process includes the capture
+    and analysis for multiple adjacent band emissions (ABE) and AMT transmission combinations
+    and conditions. The analysis here centers around AMT system behavior with and
+    without the presence of ABE.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2140'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,90 @@
+---
+id: NISTSP80045ver2
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guidelines on electronic mail security
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-45ver2
+docidentifier:
+- content: NIST SP 800-45ver2
+  type: NIST
+  primary: true
+- content: NIST.SP.800-45ver2
+  type: DOI
+date:
+- type: issued
+  at: '2007'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tracy, M. C.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jansen, W.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2009004133
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, K. A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Butterfield, Justin,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n91082702
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: This document was developed in furtherance of NIST's statutory responsibilities
+    under the Federal Information Security Management Act (FISMA) of 2002, Public
+    Law 107-347. The purpose of the publication is to recommend security practices
+    for designing, implementing, and operating email systems on public and private
+    networks. It contains information on popular email encryption standards and other
+    standards relating to email. It presents general information on securing mail
+    servers' operating systems and specific guidance on securing mail server applications,
+    protecting messages traversing servers, and securing access to mailboxes. It also
+    provides information regarding email client security and mail server administration.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-45ver2
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

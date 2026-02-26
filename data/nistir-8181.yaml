@@ -1,0 +1,85 @@
+---
+id: NISTIR8181
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Incident scenarios collection for public safety communications research
+  type: title-main
+- language: en
+  script: Latn
+  content: framing the context of use
+  type: title-part
+- language: en
+  script: Latn
+  content: Incident scenarios collection for public safety communications research
+    - framing the context of use
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8181
+docidentifier:
+- content: NIST IR 8181
+  type: NIST
+  primary: true
+- content: NIST.IR.8181
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Choong, Yee-Yin.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2012016196
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dawkins, Shanee.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Greene, Kristen.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Theofanos, Mary.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
+    - content: Material Measurement Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8181'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,78 @@
+---
+id: NISTSP800202
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Quick start guide for populating mobile test devices
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-202
+docidentifier:
+- content: NIST SP 800-202
+  type: NIST
+  primary: true
+- content: NIST.SP.800-202
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ayers, Rick.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n00090690
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Livelsberger, Benjamin.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Guttman, Barbara.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n92114452
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: This guide provides procedures for documenting and populating various data
+    elements typically found within the contents of a mobile device, e.g., mobile
+    phone, tablet, etc. The guide discusses techniques and considerations for preparing
+    the internal memory of a mobile device for use in testing a mobile forensic tool.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-202
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

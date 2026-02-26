@@ -1,0 +1,78 @@
+---
+id: NISTSP260218
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Value assignment of Reference Material 8404 almond flour for allergen detection
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-218
+docidentifier:
+- content: NIST SP 260-218
+  type: NIST
+  primary: true
+- content: NIST.SP.260-218
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Phillips, Melissa M.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bunk, David M.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Green, Ashley B.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yen, James H.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: The National Institute of Standards and Technology (NIST) recently released
+    RM 8404 Almond Flour for Allergen Detection, which is intended for harmonizing
+    measurements of allergenic proteins in foods. The material was purchased from
+    a commercial vendor and data was obtained from an interlaboratory comparison exercise
+    and collaborating laboratories. A description of the material, results, and data
+    analysis are discussed in the following report.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 260-218
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

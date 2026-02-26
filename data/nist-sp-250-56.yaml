@@ -1,0 +1,87 @@
+---
+id: NISTSP25056
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Optical fiber power meter nonlinearity calibrations at NIST
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.250-56
+docidentifier:
+- content: NIST SP 250-56
+  type: NIST
+  primary: true
+- content: NIST.SP.250-56
+  type: DOI
+date:
+- type: issued
+  at: '2000'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Vayshenker, Igor.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yang, Shao.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022051549
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Li, Xiaoyu.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2006019894
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scott, Thomas R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nr97036958
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cromer, Christopher L.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 250-56
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

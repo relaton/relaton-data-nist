@@ -1,0 +1,73 @@
+---
+id: NISTIR7729
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Requirements to support a modern architecture for industrial data and industrial
+    data standards on the semantic web
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7729
+docidentifier:
+- content: NIST IR 7729
+  type: NIST
+  primary: true
+- content: NIST.IR.7729
+  type: DOI
+date:
+- type: issued
+  at: '2010'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wallace, Evan.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021120231
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barnard Feeney, Allison.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022002972
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Leal, David.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    - content: Manufacturing Systems Integration Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7729'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

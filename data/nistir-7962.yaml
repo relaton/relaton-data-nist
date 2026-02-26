@@ -1,0 +1,76 @@
+---
+id: NISTIR7962
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Recommendations for specifying idealized bust surrogates for the testing
+    of female stab resistant armor
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7962
+docidentifier:
+- content: NIST IR 7962
+  type: NIST
+  primary: true
+- content: NIST.IR.7962
+  type: DOI
+date:
+- type: issued
+  at: '2013'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Forster, Amanda L.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Riley, Michael A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nb2007019285
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rice, Kirk D.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Forster, Aaron M.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Material Measurement Laboratory, Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7962'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,47 @@
+---
+id: NBSLC92
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Radio signals of standard frequency and their utilization
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.LCIRC.92
+docidentifier:
+- content: NBS LC 92
+  type: NIST
+  primary: true
+- content: NBS.LCIRC.92
+  type: DOI
+date:
+- type: issued
+  at: '1923'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: '"Walls, H. J."'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NBSLCIRC; NBS LCIRC; NBS letter circular
+  number: '92'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

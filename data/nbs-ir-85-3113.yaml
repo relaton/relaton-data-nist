@@ -1,0 +1,64 @@
+---
+id: NBSIR853113
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Annotated bibliography of recent papers on software engineering environments
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IR.85-3113
+docidentifier:
+- content: NBS IR 85-3113
+  type: NIST
+  primary: true
+- content: NBS.IR.85-3113
+  type: DOI
+date:
+- type: issued
+  at: '1985'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Houghton, Raymond C.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81040475
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wallace, Dolores R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n85352161
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBSIR; NBS IR; NBS interagency report; NBS internal report
+  number: 85-3113
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,86 @@
+---
+id: NISTSP800218
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Secure Software Development Framework (SSDF) version 1.1
+  type: title-main
+- language: en
+  script: Latn
+  content: recommendations for mitigating the risk of software vulnerabilities
+  type: title-part
+- language: en
+  script: Latn
+  content: Secure Software Development Framework (SSDF) version 1.1 - recommendations
+    for mitigating the risk of software vulnerabilities
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-218
+docidentifier:
+- content: NIST SP 800-218
+  type: NIST
+  primary: true
+- content: NIST.SP.800-218
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Souppaya, Murugiah.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, Karen.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dodson, Donna.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: Few software development life cycle (SDLC) models explicitly address software
+    security in detail, so secure software development practices usually need to be
+    added to each SDLC model to ensure that the software being developed is well-secured.
+    This document recommends the Secure Software Development Framework (SSDF) a core
+    set of high-level secure software development practices that can be integrated
+    into each SDLC implementation. Following such practices should help software producers
+    reduce the number of vulnerabilities in released software, mitigate the potential
+    impact of the exploitation of undetected or unaddressed vulnerabilities, and address
+    the root causes of vulnerabilities to prevent future recurrences. Because the
+    framework provides a common vocabulary for secure software development, software
+    acquirers can also use it to foster communications with suppliers in acquisition
+    processes and other management activities.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-218
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

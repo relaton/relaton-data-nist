@@ -1,0 +1,64 @@
+---
+id: NISTTN1399
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Report no.32
+  type: title-main
+- language: en
+  script: Latn
+  content: ultrasonic instrumentation to measure hoop steel in cast-steel railroad
+    wheel rims
+  type: title-part
+- language: en
+  script: Latn
+  content: Report no.32 - ultrasonic instrumentation to measure hoop steel in cast-steel
+    railroad wheel rims
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1399
+docidentifier:
+- content: NIST TN 1399
+  type: NIST
+  primary: true
+- content: NIST.TN.1399
+  type: DOI
+date:
+- type: issued
+  at: '1998'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schramm, R. E.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2010026173
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1399'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

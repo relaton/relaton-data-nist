@@ -1,0 +1,55 @@
+---
+id: NISTIR7325
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Linear-fit-based rating procedure for mixed air-source unitary air conditioners
+    and heat pumps operating in the cooling mode
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7325
+docidentifier:
+- content: NIST IR 7325
+  type: NIST
+  primary: true
+- content: NIST.IR.7325
+  type: DOI
+date:
+- type: issued
+  at: '2006'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Payne, W Vance.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Domanski, Piotr A.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7325'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

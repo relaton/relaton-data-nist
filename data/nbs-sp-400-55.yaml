@@ -1,0 +1,61 @@
+---
+id: NBSSP40055
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A wafer chuck for use between -196 and 350 degrees C
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.400-55
+docidentifier:
+- content: NBS SP 400-55
+  type: NIST
+  primary: true
+- content: NBS.SP.400-55
+  type: DOI
+date:
+- type: issued
+  at: '1979'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Koyama, R. Y.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79025551
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Buehler, M. G.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: 400-55
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

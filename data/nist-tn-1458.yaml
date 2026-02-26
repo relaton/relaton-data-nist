@@ -1,0 +1,104 @@
+---
+id: NISTTN1458
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST measurement service for DC standard resistors
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1458
+docidentifier:
+- content: NIST TN 1458
+  type: NIST
+  primary: true
+- content: NIST.TN.1458
+  type: DOI
+date:
+- type: issued
+  at: '2003'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Elmquist, Randolph E.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022001979
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dziuba, R. F.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n87150202
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jarrett, Dean G.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022036079
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jones, George R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2004111372
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kraft, Marlin E.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022043041
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Shields, Scott H.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022083397
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1458'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

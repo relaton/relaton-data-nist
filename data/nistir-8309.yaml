@@ -1,0 +1,161 @@
+---
+id: NISTIR8309
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Status report on the second round of the NIST post-quantum cryptography
+    standardization process
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8309
+docidentifier:
+- content: NIST IR 8309
+  type: NIST
+  primary: true
+- content: NIST.IR.8309
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Moody, Dustin.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Alagic, Gorjan.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Apon, Daniel C.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cooper, David A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dang, Quynh H.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kelsey, John M.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Liu, Yi-Kai.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Miller, Carl A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Peralta, Rene C.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Perlner, Ray A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Robinson, Angela Y.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Smith-Tone, Daniel C.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Alperin-Sheriff, Jacob
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+abstract:
+- language: en
+  script: Latn
+  content: 'The National Institute of Standards and Technology is in the process of
+    selecting one or more public-key cryptographic algorithms through a public, competition-like
+    process. The new public-key cryptography standards will specify one or more additional
+    digital signatures, public-key encryption, and key-establishment algorithms to
+    augment FIPS 186-4, Digital Signature Standard (DSS), as well as NIST Special
+    Publication SP 800-56A, Revision 3, Recommendation for Pair-Wise Key-Establishment
+    Schemes Using Discrete Logarithm Cryptography, and SP 800-56B, Revision 2, Recommendation
+    for Pair-Wise Key Establishment Using Integer Factorization Cryptography. It is
+    intended that these algorithms will be capable of protecting sensitive information
+    well into the foreseeable future, including after the advent of quantum computers.
+    The NIST Post-Quantum Cryptography Standardization Process began in 2017 with
+    69 candidate algorithms that met both the minimum acceptance criteria and submission
+    requirements. The first round lasted until January 2019, during which candidate
+    algorithms were evaluated based on their security, performance, and other characteristics.
+    NIST selected 26 algorithms to advance to the second round for more analysis.
+    This report describes the evaluation and selection process, based on public feedback
+    and internal review, of the second-round candidates. The report summarizes the
+    26 second-round candidate algorithms and identifies the ones selected to move
+    forward to the third round of the competition. The third-round finalist public-key
+    encryption and key-establishment algorithms are Classic McEliece, CRYSTALS-KYBER,
+    NTRU, and SABER. The third-round finalists for digital signatures are CRYSTALS-DILITHIUM,
+    FALCON, and Rainbow. These finalists will be considered for standardization at
+    the end of the third round. In addition, eight alternate candidate algorithms
+    will also advance to the third round: BIKE, FrodoKEM, HQC, NTRU Prime, SIKE, GeMSS,
+    Picnic, and SPHINCS+'
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8309'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

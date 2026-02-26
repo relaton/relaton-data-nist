@@ -1,0 +1,61 @@
+---
+id: NBSBSS95
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The Development of an improved compression test methods for wall panels
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.BSS.95
+docidentifier:
+- content: NBS BSS 95
+  type: NIST
+  primary: true
+- content: NBS.BSS.95
+  type: DOI
+date:
+- type: issued
+  at: '1979'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yancey, C. W.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cattaneo, L. E.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79065123
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS building science series; NBS building science; NBS BSS
+  number: '95'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

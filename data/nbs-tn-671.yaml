@@ -1,0 +1,80 @@
+---
+id: NBSTN671
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Upper bound errors in far-field antenna parameters determined from planar
+    near-filled measurements
+  type: title-main
+- language: en
+  script: Latn
+  content: 'part 2: analysis and computer simulation'
+  type: title-part
+- language: en
+  script: Latn
+  content: 'Upper bound errors in far-field antenna parameters determined from planar
+    near-filled measurements - part 2: analysis and computer simulation'
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/nbs.tn.671
+docidentifier:
+- content: NBS TN 671
+  type: NIST
+  primary: true
+- content: nbs.tn.671
+  type: DOI
+date:
+- type: issued
+  at: '1975'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Newell, Allen C.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Electromagnetics Division.
+abstract:
+- language: en
+  script: Latn
+  content: 'In recent years, planar near-field antenna measurements have been developed
+    and used in a number of applications. One of the primary concerns with this, or
+    any, measurement approach is the accuracy of the results; that is, how do errors
+    in measured near field quantities affect the accuracies of far-field parameters
+    such as gain, sidelobe levels, monopulse difference level, beam width, etc. Some
+    efforts have been made in the past to estimate these errors, but the results have
+    been limited in generality and primarily of a qualitative nature. A two-fold approach
+    is used in this study to obtain equations giving reasonable upper-bound errors
+    resulting from systematic errors in the near-field measurements. The strategy
+    has been to derive error expressions from the equations relating near and far
+    field quantities and also to computer simulate errors using actual measured near-field
+    data. The simulation has both given some direction to, and confirmed the results
+    of the analysis. The errors which have been investigated are: x, y, and z-position
+    errors of the probe, amplitude and phase uncertainties of the measured data, and
+    multiple reflections between the probe and test antenna. The results not only
+    give the effects of errors in a given quantity, but also specify the form of the
+    error (i.e., linear, quadratic, periodic, etc.) which will produce the largest
+    effect in the far-field parameters. This information is very valuable in designing
+    the measuring equipment so that these types of errors can be avoided, or minimized.'
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '671'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

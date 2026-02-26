@@ -1,0 +1,91 @@
+---
+id: NISTIR8259por
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Atividades fundamentais de ciberseguran a para fabricantes de dispositivos
+    IoT
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8259pt
+docidentifier:
+- content: NIST IR 8259 por
+  type: NIST
+  primary: true
+- content: NIST.IR.8259pt
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fagan, Michael.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Megas, Katerina N.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, Karen.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Smith, Matthew.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Internet of Things (IoT) devices often lack device cybersecurity capabilities
+    their customers-- organizations and individuals--can use to help mitigate their
+    cybersecurity risks. Manufacturers can help their customers by improving how securable
+    the IoT devices they make are by providing necessary cybersecurity functionality
+    and by providing customers with the cybersecurity-related information they need.
+    This publication describes recommended activities related to cybersecurity that
+    manufacturers should consider performing before their IoT devices are sold to
+    customers. These foundational cybersecurity activities can help manufacturers
+    lessen the cybersecurity-related efforts needed by customers, which in turn can
+    reduce the prevalence and severity of IoT device compromises and the attacks performed
+    using compromised devices.
+relation:
+- type: editionOf
+  bibitem:
+    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x000000038e1f2548>"
+    docidentifier:
+    - content: NIST IR 8259
+      type: NIST
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 8259pt
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

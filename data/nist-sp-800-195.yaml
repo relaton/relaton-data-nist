@@ -1,0 +1,107 @@
+---
+id: NISTSP800195
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 2016 NIST/ITL cybersecurity program
+  type: title-main
+- language: en
+  script: Latn
+  content: annual report
+  type: title-part
+- language: en
+  script: Latn
+  content: 2016 NIST/ITL cybersecurity program - annual report
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-195
+docidentifier:
+- content: NIST SP 800-195
+  type: NIST
+  primary: true
+- content: NIST.SP.800-195
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: O'Reilly, Patrick.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n89606604
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rigopoulos, Kristina.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Feldman, Larry.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022008916
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Witte, Greg.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2012049043
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: Title III of the E-Government Act of 2002, entitled the Federal Information
+    Security Management Act (FISMA) of 2002, requires NIST to prepare an annual public
+    report on activities undertaken in the previous year, and planned for the coming
+    year, to carry out responsibilities under this law. The primary goal of the NIST
+    s Information Technology Laboratory (ITL) Cybersecurity Program, is to provide
+    standards and technology that protects information systems against threats to
+    the confidentiality, integrity, and availability of information and services.
+    During Fiscal Year 2016 (FY 2016), ITL Cybersecurity Program successfully responded
+    to numerous challenges and opportunities in fulfilling that mission. Through ITL's
+    diverse research agenda and engagement in many national priority initiatives,
+    high-quality, cost-effective security and privacy mechanisms were developed and
+    applied that improved information security across the Federal Government and the
+    greater information security community. This annual report highlights the research
+    agenda and activities in which ITL Cybersecurity Program was engaged during FY
+    2016.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-195
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

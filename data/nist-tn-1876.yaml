@@ -1,0 +1,86 @@
+---
+id: NISTTN1876
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: MicroChar
+  type: title-main
+- language: en
+  script: Latn
+  content: an application for quantitative analysis of cement and clinker microstructure
+    images
+  type: title-part
+- language: en
+  script: Latn
+  content: MicroChar - an application for quantitative analysis of cement and clinker
+    microstructure images
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1876
+docidentifier:
+- content: NIST TN 1876
+  type: NIST
+  primary: true
+- content: NIST.TN.1876
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bullard, Jeffrey W.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n98081933
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bullard, Jeffrey F.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: Accurate quantitative data on cement and clinker microstructure images
+    can prove valuable for monitoring and controlling the manufacturing of cement-based
+    powders. Furthermore, quantitative characterization of microstructure is an essential
+    input to microstructure-based computer models of cementitious material processing
+    and properties. This document describes the use and operating principles of MicroChar,
+    a computer application for automatically calculating a range of microstructural
+    properties from an indexed 2D image. Among the properties calculated are the volume
+    fraction, mass fraction, and surface area fraction of each phase in the image,
+    as well as two-point correlation functions for quantifying the spatial distribution
+    of the phases throughout the structure. The application also enables the user
+    to package the data obtained on cement powders for uploading to the Virtual Cement
+    and Concrete Testing Laboratory Consortium (VCCTL) software.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1876'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

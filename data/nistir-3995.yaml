@@ -1,0 +1,84 @@
+---
+id: NISTIR3995
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Santa Ana Fire Department experiment at 1315 South Bristol, July 14, 1994
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.3995
+docidentifier:
+- content: NIST IR 3995
+  type: NIST
+  primary: true
+- content: NIST.IR.3995
+  type: DOI
+date:
+- type: issued
+  at: '1994'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Putorti, A. D., Jr.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Walton, W. Douglas.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84098841
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Twilley, William H.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83650028
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Deal, S.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Albers, J. C.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '3995'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

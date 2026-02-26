@@ -1,0 +1,72 @@
+---
+id: NBSCIRC497
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Circular of the Bureau of Standards no. 497
+  type: title-main
+- language: en
+  script: Latn
+  content: 'research on dental materials at the National Bureau of Standards : a review
+    and bibliography'
+  type: title-part
+- language: en
+  script: Latn
+  content: 'Circular of the Bureau of Standards no. 497 - research on dental materials
+    at the National Bureau of Standards : a review and bibliography'
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.CIRC.497
+docidentifier:
+- content: NBS CIRC 497
+  type: NIST
+  primary: true
+- content: NBS.CIRC.497
+  type: DOI
+date:
+- type: issued
+  at: '1950'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schoonover, I. C. (Irl Corley),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2012059691
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: National Bureau of Standards circular
+  number: '497'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

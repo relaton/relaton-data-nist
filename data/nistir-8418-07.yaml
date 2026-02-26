@@ -1,0 +1,62 @@
+---
+id: NISTIR841807
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST time and frequency bulletin
+  type: title-main
+- language: en
+  script: Latn
+  content: January
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST time and frequency bulletin - January
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8418-07
+docidentifier:
+- content: NIST IR 8418-07
+  type: NIST
+  primary: true
+- content: NIST.IR.8418-07
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rodriguez, Kelsey.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: The Time and Frequency Bulletin provides information on performance of
+    time scales and a variety of broadcasts (and related information) to users of
+    the NIST services.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 8418-07
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

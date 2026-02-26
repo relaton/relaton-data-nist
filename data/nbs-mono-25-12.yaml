@@ -1,0 +1,110 @@
+---
+id: NBSMONO2512
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Standard x-ray diffraction powder patterns
+  type: title-main
+- language: en
+  script: Latn
+  content: section 12- data for 57 substances
+  type: title-part
+- language: en
+  script: Latn
+  content: Standard x-ray diffraction powder patterns - section 12- data for 57 substances
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.MONO.25-12
+docidentifier:
+- content: NBS MONO 25-12
+  type: NIST
+  primary: true
+- content: NBS.MONO.25-12
+  type: DOI
+date:
+- type: issued
+  at: '1975'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McMurdie, Howard F.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82044746
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Morris, Marlene C.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81112301
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Evans, Eloise H.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Paretzkin, Boris.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: de Groot, Johan H.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hubbard, Camden R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Carmel, Simon J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2020068157
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS monograph; NBS MONO
+  number: 25-12
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

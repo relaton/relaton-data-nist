@@ -1,0 +1,96 @@
+---
+id: NISTSP800117
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guide to adopting and using the Security Content Automation Protocol (SCAP)
+    version 1.0
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-117
+docidentifier:
+- content: NIST SP 800-117
+  type: NIST
+  primary: true
+- content: NIST.SP.800-117
+  type: DOI
+date:
+- type: issued
+  at: '2010'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Quinn (S.D.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012055634
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, K. A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barrett, M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n94086866
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Johnson, C. S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021001638
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Quinn (S.D.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012055634
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: The purpose of this document is to provide an overview of the Security
+    Content Automation Protocol (SCAP). This document discusses SCAP at a conceptual
+    level, focusing on how organizations can use SCAP-enabled tools to enhance their
+    security posture. It also explains to IT product and service vendors how they
+    can adopt SCAP's capabilities within their offerings.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-117
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

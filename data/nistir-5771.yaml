@@ -1,0 +1,62 @@
+---
+id: NISTIR5771
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Standard for the Exchange of Product model data (STEP)
+  type: title-main
+- language: en
+  script: Latn
+  content: procedures for NIST STEP validation
+  type: title-part
+- language: en
+  script: Latn
+  content: Standard for the Exchange of Product model data (STEP) - procedures for
+    NIST STEP validation
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.5771
+docidentifier:
+- content: NIST IR 5771
+  type: NIST
+  primary: true
+- content: NIST.IR.5771
+  type: DOI
+date:
+- type: issued
+  at: '1995'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rosenthal, Lynne.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83157448
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '5771'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

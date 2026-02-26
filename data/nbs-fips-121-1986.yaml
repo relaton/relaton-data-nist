@@ -1,0 +1,52 @@
+---
+id: NBSFIPS1211986
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Videotex / teletext presentation level protocol syntax (North America plps)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.FIPS.121-1986
+docidentifier:
+- content: NBS FIPS 121-1986
+  type: NIST
+  primary: true
+- content: NBS.FIPS.121-1986
+  type: DOI
+date:
+- type: issued
+  at: '1986'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: Federal information processing standards publication; FIPS
+  number: 121-1986
+place:
+- city: Washington
+  region:
+  - iso: D
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

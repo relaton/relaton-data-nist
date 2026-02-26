@@ -1,0 +1,95 @@
+---
+id: NISTSP800119
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guidelines for the secure deployment of IPv6
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-119
+docidentifier:
+- content: NIST SP 800-119
+  type: NIST
+  primary: true
+- content: NIST.SP.800-119
+  type: DOI
+date:
+- type: issued
+  at: '2010'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Frankel, S. E.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Graveman, R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pearce, J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88050175
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rooks, M.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: 'Due to the exhaustion of IPv4 address space, and the Office of Management
+    and Budget (OMB) mandate that U.S. federal agencies begin to use the IPv6 protocol,
+    NIST undertook the development of a guide to help educate federal agencies about
+    the possible security risks during their initial IPv6 deployment. Since IPv6 is
+    not backwards compatible with IPv4, organizations will have to change their network
+    infrastructure and systems to deploy IPv6. Organizations should begin now to understand
+    the risks of deploying IPv6, as well as strategies to mitigate such risks. Detailed
+    planning will enable an organization to navigate the process smoothly and securely.
+    This document provides guidelines for organizations to aid in securely deploying
+    IPv6. The goals of this document are to: educate the reader about IPv6 features
+    and the security impacts of those features; provide a comprehensive survey of
+    mechanisms that can be used for the deployment of IPv6; and provide a suggested
+    deployment strategy for moving to an IPv6 environment. After reviewing this document,
+    the reader should have a reasonable understanding of IPv6 and how it compares
+    to IPv4, security impacts of IPv6 features and capabilities, as-yet unknown impacts
+    of IPv6 deployment, and increased knowledge and awareness about the range of IPv4
+    to IPv6 transition mechanisms.'
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-119
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

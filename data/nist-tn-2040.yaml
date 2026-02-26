@@ -1,0 +1,86 @@
+---
+id: NISTTN2040
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Measurement of SVOC emission parameters for building materials using solid-phase
+    microextraction (SPME)-based method
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2040
+docidentifier:
+- content: NIST TN 2040
+  type: NIST
+  primary: true
+- content: NIST.TN.2040
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gong, Mengyan.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Poppendieck, Dustin.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: Semi-volatile organic compounds (SVOCs) are ubiquitous indoors and associated
+    with adverse health effects. y0 (the SVOC concentration in air close to the material
+    surface) is the key parameter to predict SVOC emissions from source materials.
+    However, to develop consensus standard methods for measuring y0, better understanding
+    and validation of current approaches are needed. A solid-phase microextraction
+    (SPME)-based method published in the literature was chosen for this study. Tris(1-chloro-2-propyl)
+    phosphate (TCPP) from spray polyurethane foam (SPF) and Di-2-ethylhexyl phthalate
+    (DEHP) from polyvinyl chloride (PVC) flooring were chosen as target chemicals.
+    First, TCPP concentrations in two SPF materials were measured. The values for
+    open cell and closed cell SPF were 1.24 x 106 mg m-3 and 2.84 x 105 mg m-3, respectively.
+    Second, to apply the SPME-based method, an improved method to calibrate chemical
+    mass collected on SPME fibers was evaluated. The results show that, for DEHP and
+    Benzo[a]pyrene (BaP), the direct SPME loading method was able to calibrate masses
+    collected on SPME fibers, but not for more volatile chemicals (TCPP and 2,2?,5,5?-Tetrachlorobiphenyl
+    (PCB 52)). Unfortunately, the application of the improved direct loading method
+    may be limited due to the need for evaluation of every target chemical, the physical
+    challenge of spiking onto the fiber, and the variability of SPME fiber's adsorption
+    ability. Third, y0 for DEHP from PVC flooring at different temperatures were measured
+    using the SPME-based method and a specially designed stainless-steel chamber.
+    However, due to the potential problems relating to the variability of SPME fiber's
+    adsorption property, the variability of measured y0 values may be as large as
+    a factor of two. Overall, given the essential drawbacks of SPME-based method for
+    measuring y0, it is not yet suggested until the problems relating to SPME calibration
+    and the variability of SPME fiber adsorption property are overcome.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2040'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,82 @@
+---
+id: NISTSP80032
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Introduction to public key technology and the federal PKI infrastructure
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-32
+docidentifier:
+- content: NIST SP 800-32
+  type: NIST
+  primary: true
+- content: NIST.SP.800-32
+  type: DOI
+date:
+- type: issued
+  at: '2001'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kuhn, D. R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hu, V.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Polk, W. T.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chang, Shu-Jen H.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: This publication was developed to assist agency decision-makers in determining
+    if a PKI is appropriate for their agency, and how PKI services can be deployed
+    most effectively within a Federal agency. It is intended to provide an overview
+    of PKI functions and their applications. Additional documentation will be required
+    to fully analyze the costs and benefits of PKI systems for agency use, and to
+    develop plans for their implementation. This document provides a starting point
+    and references to more comprehensive publications.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-32
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,74 @@
+---
+id: NISTTN1990
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Software science revisited
+  type: title-main
+- language: en
+  script: Latn
+  content: rationalizing Halstead's system using dimensionless units
+  type: title-part
+- language: en
+  script: Latn
+  content: Software science revisited - rationalizing Halstead's system using dimensionless
+    units
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1990
+docidentifier:
+- content: NIST TN 1990
+  type: NIST
+  primary: true
+- content: NIST.TN.1990
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Flater, David.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2002019519
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: The set of software metrics introduced by Maurice H. Halstead in the 1970's
+    has seen much scrutiny and not infrequent criticism. This article takes a fresh
+    look at these metrics using quantity calculus (the algebra of units) and a new
+    approach to dimensionless units. In this way, it is possible to assign units to
+    the major Halstead metrics in a manner that is logically consistent. However,
+    Halstead's repurposing of counts of software attributes as counts of unobservable
+    mental events leads to a less plausible, more confusing set of metrics for coding
+    effort than for software attributes.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1990'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

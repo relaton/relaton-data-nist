@@ -1,0 +1,71 @@
+---
+id: NISTIR6864
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Survey of FY 2001 nanotechnology related research at the National Institute
+    of Standards and Technology
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.6864
+docidentifier:
+- content: NIST IR 6864
+  type: NIST
+  primary: true
+- content: NIST.IR.6864
+  type: DOI
+date:
+- type: issued
+  at: '2002'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Snyder, Chad R.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2019032889
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Looney, J. Patrick.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003011353
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Casassa, Michael P.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '6864'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

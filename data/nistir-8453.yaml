@@ -1,0 +1,72 @@
+---
+id: NISTIR8453
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A guide to United States personal protective equipment compliance requirements
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8453
+docidentifier:
+- content: NIST IR 8453
+  type: NIST
+  primary: true
+- content: NIST.IR.8453
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Benson, Lisa M.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Marshall, Jennifer.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Puskar, Erik.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Standards Coordination Office.
+abstract:
+- language: en
+  script: Latn
+  content: This Guide addresses compliance requirements for personal protective Equipment
+    (PPE) used in the workplace, except for PPE used in a nuclear or medical setting.
+    Several U.S. federal agencies administer regulations associated with Personal
+    Protective Equipment.
+series:
+- title:
+  - content: NISTIR
+  number: '8453'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8453'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,99 @@
+---
+id: NISTIR8155
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Measuring temperature in emission testing micro-chambers evaluation of
+    potential temperature measurement methods for ASTM WK40293
+  type: title-main
+- language: en
+  script: Latn
+  content: Standard Test Method for Estimating Chemical Emissions from Spray Polyurethane
+    Foam (SPF) Insulation Using Micro-Scale Environmental Test Chambers
+  type: title-part
+- language: en
+  script: Latn
+  content: Measuring temperature in emission testing micro-chambers evaluation of
+    potential temperature measurement methods for ASTM WK40293 - Standard Test Method
+    for Estimating Chemical Emissions from Spray Polyurethane Foam (SPF) Insulation
+    Using Micro-Scale Environmental Test Chambers
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8155
+docidentifier:
+- content: NIST IR 8155
+  type: NIST
+  primary: true
+- content: NIST.IR.8155
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Poppendieck, Dustin.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Guillermo, Edwin.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tripathi, Havishk.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: 'ASTM subcommittee D22.05 on Indoor Air is working to finalize WK40293:
+    Standard Test Method for Estimating Chemical Emissions from Spray Polyurethane
+    Foam (SPF) Insulation Using Micro-Scale Environmental Test Chambers. One issue
+    in WK40293 is determining the best method to accurately measure the temperature
+    in the micro-chambers. Properly characterizing micro-chamber temperature is vital
+    to get comparable emission data. Three methods to determining micro-chamber temperature
+    with a thermocouple were investigated using two micro-chamber systems: 1) placing
+    the thermocouple in the airspace of a micro-chamber, 2) taping the thermocouple
+    to the bottom of the air filled micro-chamber, 3) placing the thermocouple in
+    a micro-chamber filled 50 % to 75 % with water. The results show that air measurements
+    are dependent upon the depth of the thermocouple placement, as both micro-chamber
+    systems are stratified. Taping the thermocouple to the bottom of the micro-chamber
+    resulted in average values that were similar to a water filled micro-chamber for
+    one system but not the other. Data from both the air and tape methods had 1 [degrees]C
+    to 2 [degrees]C temperature cycles in one of the systems, but not the other. The
+    water method consistently resulted in temperature data with the smallest standard
+    deviation. As a result of this research the authors propose new prescriptive and
+    performance metric text for temperature measurement requirements in ASTM WK40293.'
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8155'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

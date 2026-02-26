@@ -1,0 +1,86 @@
+---
+id: NISTIR8214A
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST roadmap toward criteria for threshold schemes for cryptographic primitives
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8214A
+docidentifier:
+- content: NIST IR 8214A
+  type: NIST
+  primary: true
+- content: NIST.IR.8214A
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brandão, Luís T. A. N.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Davidson, Michael.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Vassilev, Apostol.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+abstract:
+- language: en
+  script: Latn
+  content: 'This document constitutes a preparation toward devising criteria for the
+    standardization of threshold schemes for cryptographic primitives by the National
+    Institute of Standards and Technology (NIST). The large diversity of possible
+    threshold schemes, as identified in the NIST Internal Report (NISTIR) 8214, is
+    structured along two main tracks: single-device and multi-party. Each track covers
+    cryptographic primitives in several possible threshold modes. The potential for
+    real-world applications is taken as an important motivating factor for differentiating
+    the pertinence of each possible threshold scheme. Also, the selection of items
+    for standardization needs to consider diverse features, such as advanced security
+    properties, configurability of parameters, testing and validation, modularity
+    and composability (e.g., of gadgets vs. composites), and specification detail.
+    Overall, the organization put forward serves as a preparation for an upcoming
+    solicitation of feedback useful for considering a variety of threshold schemes,
+    while differentiating standardization paths and timelines that may depend on the
+    levels of technical and standardization challenges. This approach paves the way
+    for an effective engagement with the community of stakeholders and constitutes
+    a preparation for devising criteria for standardization and subsequent calls for
+    contributions. While the terms standards and standardization are used throughout
+    this report to refer to a set of possible final products, this does not imply
+    a Federal Information Processing Standard (FIPS) as one or as the only intended
+    format for NIST products of future threshold schemes for cryptographic primitives.'
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 8214A
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,41 @@
+---
+id: NBSLC431
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Railway track scale testing service of the National Bureau of Standards
+    fiscal year July 1, 1933 to June 30, 1934
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.LCIRC.431
+docidentifier:
+- content: NBS LC 431
+  type: NIST
+  primary: true
+- content: NBS.LCIRC.431
+  type: DOI
+date:
+- type: issued
+  at: '1934'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NBSLCIRC; NBS LCIRC; NBS letter circular
+  number: '431'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

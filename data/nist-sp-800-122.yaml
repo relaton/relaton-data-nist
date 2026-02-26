@@ -1,0 +1,81 @@
+---
+id: NISTSP800122
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guide to protecting the confidentiality of Personally Identifiable Information
+    (PII)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-122
+docidentifier:
+- content: NIST SP 800-122
+  type: NIST
+  primary: true
+- content: NIST.SP.800-122
+  type: DOI
+date:
+- type: issued
+  at: '2010'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McCallister, E.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grance, T.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, K. A.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: The purpose of this document is to assist Federal agencies in protecting
+    the confidentiality of personally identifiable information (PII) in information
+    systems. The document explains the importance of protecting the confidentiality
+    of PII in the context of information security and explains its relationship to
+    privacy using the the Fair Information Practices, which are the principles underlying
+    most privacy laws and privacy best practices. PII should be protected from inappropriate
+    access, use, and disclosure. This document provides practical, context-based guidance
+    for identifying PII and determining what level of protection is appropriate for
+    each instance of PII. The document also suggests safeguards that may offer appropriate
+    levels of protection for PII and provides recommendations for developing response
+    plans for incidents involving PII. Organizations are encouraged to tailor the
+    recommendations to meet their specific requirements.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-122
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

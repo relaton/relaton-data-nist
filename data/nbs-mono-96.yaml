@@ -1,0 +1,59 @@
+---
+id: NBSMONO96
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Electrical parameters of precision, coaxial, air-dielectric transmission
+    lines
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.MONO.96
+docidentifier:
+- content: NBS MONO 96
+  type: NIST
+  primary: true
+- content: NBS.MONO.96
+  type: DOI
+date:
+- type: issued
+  at: '1966'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nelson, Robert E.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Coryell, Marlene R.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS monograph; NBS MONO
+  number: '96'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

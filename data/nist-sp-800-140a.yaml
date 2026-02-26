@@ -1,0 +1,70 @@
+---
+id: NISTSP800140A
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: CMVP documentation requirements
+  type: title-main
+- language: en
+  script: Latn
+  content: CMVP validation authority updates to ISO/IEC 24759
+  type: title-part
+- language: en
+  script: Latn
+  content: CMVP documentation requirements - CMVP validation authority updates to
+    ISO/IEC 24759
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-140A
+docidentifier:
+- content: NIST SP 800-140A
+  type: NIST
+  primary: true
+- content: NIST.SP.800-140A
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schaffer, Kim.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: NIST Special Publication (SP) 800-140A modifies the vendor documentation
+    requirements of ISO/IEC 19790 Annex A. As a validation authority, the Cryptographic
+    Module Validation Program (CMVP) may modify, add or delete Vendor Evidence (VE)
+    and/or Test Evidence (TE) as specified under paragraph 5.2 of the ISO/IEC 19790.
+    This document should be used in conjunction with ISO/IEC 19790 Annex A and ISO/IEC
+    24759 paragraph 6.13 as it modifies only those requirements identified in this
+    document.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-140A
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

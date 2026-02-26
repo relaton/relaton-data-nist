@@ -1,0 +1,80 @@
+---
+id: NISTIR7085
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 2nd annual PKI research workshop proceedings
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7085
+docidentifier:
+- content: NIST IR 7085
+  type: NIST
+  primary: true
+- content: NIST.IR.7085
+  type: DOI
+date:
+- type: issued
+  at: '2004'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ellison, Carl M.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Polk, Tim,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n90727805
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hastings, Nelson E.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020090194
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Smith, Sean W.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2004018828
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7085'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

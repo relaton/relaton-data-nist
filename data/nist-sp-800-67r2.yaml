@@ -1,0 +1,73 @@
+---
+id: NISTSP80067r2
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Recommendation for the Triple Data Encryption Algorithm (TDEA) block cipher
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-67r2
+docidentifier:
+- content: NIST SP 800-67r2
+  type: NIST
+  primary: true
+- content: NIST.SP.800-67r2
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barker, Elaine.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mouha, Nicky.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: This publication specifies the Triple Data Encryption Algorithm (TDEA),
+    including its primary component cryptographic engine, the Data Encryption Algorithm
+    (DEA). TDEA is intended to be used with a Special Publication (SP) 800-38-series-compliant
+    mode of operation in a Federal Information Processing Standard (FIPS) 140-2-compliant
+    cryptographic module, TDEA may be used by federal organizations to protect sensitive
+    unclassified data. Protection of data during transmission or while in storage
+    may be necessary to maintain the confidentiality and integrity of the information
+    represented by the data. This Recommendation defines the mathematical steps required
+    to cryptographically protect data using TDEA and to subsequently process such
+    protected data. TDEA is made available for use by federal agencies within the
+    context of a total security program consisting of physical security procedures,
+    good information management practices, and computer system/network access controls.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-67r2
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

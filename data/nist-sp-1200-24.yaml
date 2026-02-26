@@ -1,0 +1,129 @@
+---
+id: NISTSP120024
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Sucrose density gradient centrifugation for efficient separation of engineered
+    nanoparticles from a model organism, Caenorhabditis elegans
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1200-24
+docidentifier:
+- content: NIST SP 1200-24
+  type: NIST
+  primary: true
+- content: NIST.SP.1200-24
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Johnson, M. E.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81113033
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Montoro Bustos, A. R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hanna, S. K.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Petersen, E. J.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Murphy, K. E.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015003879
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yu, L. L.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nelson, Bruce C.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84022893
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Winchester, M. R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021120229
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Material Measurement Laboratory (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012096740
+abstract:
+- language: en
+  script: Latn
+  content: This protocol describes a strategy for separating Caenorhabditis elegans
+    (C. elegans) from engineered nanomaterials, a critical step for accurate quantification
+    in uptake studies. Conventional rinsing procedures, typically comprised of water
+    or buffer rinsing steps followed by centrifugation, have been previously tested
+    and deemed unsuitable for this purpose, even at environmentally relevant exposure
+    concentrations. Therefore, this protocol details the development and assessment
+    of a unique sucrose gradient density centrifugation procedure for the efficient
+    separation of nanoparticles and C. elegans at the end of an exposure protocol.
+    The example outlined in this SP pertains to the measurement of gold nanoparticles
+    (AuNPs) and C. elegans. However, this method can potentially be implemented in
+    bioaccumulation studies involving other organisms and with different metallonanoparticles.
+    Visit https://nist.gov/mml/np-measurement-protocols.cfm to check for revisions
+    and additions to this protocol or for new protocols in the series. We also encourage
+    users to report citations to published work in which this protocol has been applied.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1200-24
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

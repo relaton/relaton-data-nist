@@ -1,0 +1,54 @@
+---
+id: NBSRPT1123
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: High temperature thermodynamics technical report
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.RPT.1123
+docidentifier:
+- content: NBS RPT 1123
+  type: NIST
+  primary: true
+- content: NBS.RPT.1123
+  type: DOI
+date:
+- type: issued
+  at: '1951'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brickwedde, F. G. (Ferdinand Graft),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84213056
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS report
+  number: '1123'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

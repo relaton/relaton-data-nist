@@ -1,0 +1,62 @@
+---
+id: NBSRPT10028
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Corrosion research
+  type: title-main
+- language: en
+  script: Latn
+  content: progress report January 1, 1969 - March 31, 1969
+  type: title-part
+- language: en
+  script: Latn
+  content: Corrosion research - progress report January 1, 1969 - March 31, 1969
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.RPT.10028
+docidentifier:
+- content: NBS RPT 10028
+  type: NIST
+  primary: true
+- content: NBS.RPT.10028
+  type: DOI
+date:
+- type: issued
+  at: '1969'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Burnett, H. C. (Henry Clay),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n86809778
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS report
+  number: '10028'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

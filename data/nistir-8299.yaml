@@ -1,0 +1,87 @@
+---
+id: NISTIR8299
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Strategic roadmap for interoperable public safety video analytics
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8299
+docidentifier:
+- content: NIST IR 8299
+  type: NIST
+  primary: true
+- content: NIST.IR.8299
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Simpson, Diane.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nr2002001202
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brennan, Michelle.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gomperts, Susan.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: Since 9/11, the Department of Homeland Security has provided over $1 6
+    billion dollars in grant assistance to secure cities and non-profit organizations
+    against terrorist and disaster incidents. In order to meet the threat demands,
+    public safety organizations have increasingly invested in video surveillance systems
+    to increase their patrol footprint and monitor major transportation areas. Many
+    cities now have hundreds to thousands of public safety and transportation infrastructure
+    cameras; larger cities have tens of thousands of these cameras. Public safety
+    now faces a growing diversity of video data sources, and these volumes of data
+    are increasingly vital to public safety operations. However, analysis of video
+    data to support real-time operations largely relies on manual processes and non-security
+    related, impractical physically isolated architectures. The purpose of this publication
+    is to chart a path forward to guide public safety related agencies and individual
+    public safety departments in their transition from a state of interoperability
+    that occurs by chance to a state of institutionalized interoperability which incorporates
+    the next-generation of video analytics through measured steps and broad stakeholder
+    informed decision making.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8299'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

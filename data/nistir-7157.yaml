@@ -1,0 +1,68 @@
+---
+id: NISTIR7157
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Toward an architectural framework to improve accountability in the use
+    of electronic records
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7157
+docidentifier:
+- content: NIST IR 7157
+  type: NIST
+  primary: true
+- content: NIST.IR.7157
+  type: DOI
+date:
+- type: issued
+  at: '2004'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lyon, Gordon.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n77017550
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mink, A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Van Dyck, R. E.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7157'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,74 @@
+---
+id: NISTIR8379
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Summary report for the virtual workshop addressing public comment on NIST
+    cybersecurity for IoT guidance
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8379
+docidentifier:
+- content: NIST IR 8379
+  type: NIST
+  primary: true
+- content: NIST.IR.8379
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Megas, Katerina N.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fagan, Michael.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lemire, David.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: 'This report summarizes the feedback received on the work of the NIST Cybersecurity
+    for IoT program on device cybersecurity at a virtual workshop conducted April
+    22, 2021. NIST conducted the Workshop Addressing Public Comment on NIST Cybersecurity
+    for IoT Guidance to discuss and gather community input on the December 2020 public
+    drafts of NISTIR 8259D, Profile Using the IoT Core Baseline and Non-Technical
+    Baseline for the Federal Government, and SP 800-213, IoT Device Cybersecurity
+    Guidance for the Federal Government: Establishing IoT Device Cybersecurity Requirements.
+    This publication provides a summary of the workshop.'
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8379'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

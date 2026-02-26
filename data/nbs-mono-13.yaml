@@ -1,0 +1,73 @@
+---
+id: NBSMONO13
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Mechanical properties of structural materials at low temperatures
+  type: title-main
+- language: en
+  script: Latn
+  content: a compilation from the literature
+  type: title-part
+- language: en
+  script: Latn
+  content: Mechanical properties of structural materials at low temperatures - a compilation
+    from the literature
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.MONO.13
+docidentifier:
+- content: NBS MONO 13
+  type: NIST
+  primary: true
+- content: NBS.MONO.13
+  type: DOI
+date:
+- type: issued
+  at: '1960'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McClintock, R. Michael (Ralph Michael)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2008136798
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gibbons, Hugh P.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2008136797
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS monograph; NBS MONO
+  number: '13'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,74 @@
+---
+id: NBSSP26040
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Standard reference materials
+  type: title-main
+- language: en
+  script: Latn
+  content: selection of differential thermal analysis temperature standards through
+    a cooperative study (SRM 758, 759, 760)
+  type: title-part
+- language: en
+  script: Latn
+  content: Standard reference materials - selection of differential thermal analysis
+    temperature standards through a cooperative study (SRM 758, 759, 760)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.260-40
+docidentifier:
+- content: NBS SP 260-40
+  type: NIST
+  primary: true
+- content: NBS.SP.260-40
+  type: DOI
+date:
+- type: issued
+  at: '1972'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McAdie, H. G. (Henry George),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022054974
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Garn, Paul D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82031956
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: 260-40
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

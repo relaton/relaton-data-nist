@@ -1,0 +1,71 @@
+---
+id: NISTSP80051r1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guide to using vulnerability naming schemes
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-51r1
+docidentifier:
+- content: NIST SP 800-51r1
+  type: NIST
+  primary: true
+- content: NIST.SP.800-51r1
+  type: DOI
+date:
+- type: issued
+  at: '2011'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Waltermire, David.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021047735
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, K. A.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: 'This publication provides recommendations for using two vulnerability
+    naming schemes: Common Vulnerabilities and Exposures (CVE) and Common Configuration
+    Enumeration (CCE). SP 800-51 Revision 1 gives an introduction to both naming schemes
+    and makes recommendations for end-user organizations on using their names. The
+    publication also presents recommendations for software and service vendors on
+    how they should use vulnerability names and naming schemes in their product and
+    service offerings.'
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-51r1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,63 @@
+---
+id: NBSSP611
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: New technology challenges metrology
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.611
+docidentifier:
+- content: NBS SP 611
+  type: NIST
+  primary: true
+- content: NBS.SP.611
+  type: DOI
+date:
+- type: issued
+  at: '1981'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: French, Judson C.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82003501
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+abstract:
+- language: en
+  script: Latn
+  content: Assurance of measurement quality to meet requirements for regulatory agencies,
+    marketplace equity, and productivity and quality control in manufacturing and
+    research is challenged by unprecedented demands for sensitivity, speed, precision,
+    and accuracy over wide ranges of properties and signal characteristics. New approaches
+    are needed. Examples of NBS response, principally in electrical and electronic
+    engineering are described.
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: '611'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

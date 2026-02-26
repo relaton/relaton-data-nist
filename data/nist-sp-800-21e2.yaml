@@ -1,0 +1,91 @@
+---
+id: NISTSP80021e2
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guideline for implementing cryptography in the federal government
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-21e2
+docidentifier:
+- content: NIST SP 800-21e2
+  type: NIST
+  primary: true
+- content: NIST.SP.800-21e2
+  type: DOI
+date:
+- type: issued
+  at: '2005'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barker, Elaine B.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2006135973
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barker, W. C.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lee, A.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: This Second Edition of NIST Special Publication (SP) 800-21, updates and
+    replaces the November 1999 edition of Guideline for Implementing Cryptography
+    in the Federal Government. Many of the references and cryptographic techniques
+    contained in the first edition of NIST SP 800-21 have been amended, rescinded,
+    or superseded since its publication. The current publication offers new tools
+    and techniques. NIST SP 800-21 is intended to provide a structured, yet flexible
+    set of guidelines for selecting, specifying, employing, and evaluating cryptographic
+    protection mechanisms in Federal information systems?and thus, makes a significant
+    contribution toward satisfying the security requirements of the Federal Information
+    Security Management Act (FISMA) of 2002, Public Law 107-347. The current publication
+    also reflects the elimination of the waiver process by the Federal Information
+    Security Management Act (FISMA) of 2002. SP 800-21 includes background information,
+    describes the advantages of using cryptography; defines the role and use of standards
+    and describes standards organizations that are outside the Federal government;
+    describes the methods that are available for symmetric and asymmetric key cryptography;
+    describes implementation issues (e.g., key management); discusses assessments,
+    including the Cryptographic Module Validation Program (CMVP), the Common Criteria
+    (CC), and Certification and Accreditation (C&A); and describes the process of
+    choosing the types of cryptography to be used and selecting a cryptographic method
+    or methods to fulfill a specific requirement.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-21e2
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

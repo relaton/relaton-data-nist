@@ -1,0 +1,65 @@
+---
+id: NBSBSS1002
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Building to resist the effect of wind in five volumes volume 2. estimation
+    of extreme speeds and guide to the determination of wind forces
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.BSS.100-2
+docidentifier:
+- content: NBS BSS 100-2
+  type: NIST
+  primary: true
+- content: NBS.BSS.100-2
+  type: DOI
+date:
+- type: issued
+  at: '1977'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Simiu, Emil.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79085114
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Marshall, Richard D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50046024
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS building science series; NBS building science; NBS BSS
+  number: 100-2
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

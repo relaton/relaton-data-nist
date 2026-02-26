@@ -1,0 +1,83 @@
+---
+id: NISTIR85327337Upd1202205
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Energy price indices and discount factors for life-cycle cost analysis
+    2022
+  type: title-main
+- language: en
+  script: Latn
+  content: annual supplement to NIST Handbook 135
+  type: title-part
+- language: en
+  script: Latn
+  content: Energy price indices and discount factors for life-cycle cost analysis
+    2022 - annual supplement to NIST Handbook 135
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.85-3273-37-upd1
+docidentifier:
+- content: NIST IR 85-3273-37/Upd1-202205
+  type: NIST
+  primary: true
+- content: NIST.IR.85-3273-37-upd1
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kneifel, Joshua D.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lavappa, Priya D.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: This is the 2022 edition of energy price indices and discount factors for
+    performing life-cycle cost analyses of energy and water conservation and renewable
+    energy projects in federal facilities. It will be effective from the publication
+    date to the publication of the 2023 edition. This publication supports the federal
+    life cycle costing methodology described in 10 CFR 436A and OMB Circular A-94
+    by updating the energy price projections and discount factors that are described,
+    explained, and illustrated in NIST Handbook 135 (HB 135, Life-Cycle Costing Manual
+    for the Federal Energy Management Program.)
+relation:
+- type: updates
+  bibitem:
+    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x000000038da5b7d0>"
+    docidentifier:
+    - content: NIST IR 85-3273-37
+      type: NIST
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 85-3273-37-upd1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

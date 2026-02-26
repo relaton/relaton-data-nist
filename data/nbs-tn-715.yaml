@@ -1,0 +1,55 @@
+---
+id: NBSTN715
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Tabulation of published data on electron devices of the U.S.S.R. through
+    December 1971
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.TN.715
+docidentifier:
+- content: NBS TN 715
+  type: NIST
+  primary: true
+- content: NBS.TN.715
+  type: DOI
+date:
+- type: issued
+  at: '1972'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Marsden, Charles P.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50043640
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS technical note; NBS tech note; NBS TN
+  number: '715'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

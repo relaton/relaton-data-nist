@@ -1,0 +1,90 @@
+---
+id: NISTIR7511r5
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Security content automation protocol (SCAP) version 1.3 validation program
+    test requirements
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7511r5
+docidentifier:
+- content: NIST IR 7511r5
+  type: NIST
+  primary: true
+- content: NIST.IR.7511r5
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cook, Melanie.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nr2001001957
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Quinn, Stephen.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no99049651
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Waltermire, David.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021047735
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Prisaca, Dragos.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: This report defines the requirements and associated test procedures necessary
+    for products or modules to achieve one or more Security Content Automation Protocol
+    (SCAP) validations. Validation is awarded based on a defined set of SCAP capabilities
+    by independent laboratories that have been accredited for SCAP testing by the
+    NIST National Voluntary Laboratory Accreditation Program (NVLAP)
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 7511r5
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

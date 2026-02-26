@@ -1,0 +1,69 @@
+---
+id: NBSSP702
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Standards and metadata requirements for computerization of selected mechanical
+    properties of metallic materials
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.702
+docidentifier:
+- content: NBS SP 702
+  type: NIST
+  primary: true
+- content: NBS.SP.702
+  type: DOI
+date:
+- type: issued
+  at: '1985'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Westbrook, J. H. (Jack Hall),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79147986
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+abstract:
+- language: en
+  script: Latn
+  content: 'To assist in building a computerized information system on the engineering
+    properties of materials, the standards and metadata requirements for a representative
+    group of mechanical property categories are considered. These categories include:
+    tensile behavior, hardness numbers, notch-bar impact test parameters and fatigue
+    properties. For each property group, definitions of terms, synonyms (and non-synonyms),
+    standard test methods, standards for reporting data, precision and accuracy, and
+    correlations of properties are addressed. The principal findings and recommendations
+    are as follows. Existing test methods are generally adequate for the properties
+    considered but better standards are needed for data reporting. Appraisal of materials
+    variability and testing machine variability would be assisted by acess to standard
+    reference materials, certified as to their mechanical properties.'
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: '702'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

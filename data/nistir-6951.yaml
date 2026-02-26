@@ -1,0 +1,76 @@
+---
+id: NISTIR6951
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Automated security self-evaluation tool technical documentation, version
+    1.03
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.6951
+docidentifier:
+- content: NIST IR 6951
+  type: NIST
+  primary: true
+- content: NIST.IR.6951
+  type: DOI
+date:
+- type: issued
+  at: '2003'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McLarnon, Mark.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022056180
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Swanson, Marianne.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n91015913
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: National Institute of Standards and Technology.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: The Automated Security Self-Evaluation Tool (ASSET) automates the process
+    of completing a system self-assessment. ASSET will assist organizations in completing
+    the self-assessment questionnaire contained in NIST Special Publication (Special
+    Publication) 800-26, Security Self-Assessment Guide for Information Technology
+    Systems. This technical manual is intended as a development guide for software
+    engineers/database administrators who wish to troubleshoot unique installations
+    of ASSET, reproduce the development version of ASSET, or extend the functionality
+    of ASSET.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '6951'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

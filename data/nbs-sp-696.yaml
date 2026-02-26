@@ -1,0 +1,69 @@
+---
+id: NBSSP696
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Units for magnetic properties
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.696
+docidentifier:
+- content: NBS SP 696
+  type: NIST
+  primary: true
+- content: NBS.SP.696
+  type: DOI
+date:
+- type: issued
+  at: '1985'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Goldfarb, R. B.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n87846618
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fickett, F. R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81148154
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+abstract:
+- language: en
+  script: Latn
+  content: 'Column headings include the following: Quantity; Symbol; Gaussian and
+    cgs emu; Conversion factor; SI and rationalized mks.'
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: '696'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

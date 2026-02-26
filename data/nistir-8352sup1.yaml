@@ -1,0 +1,53 @@
+---
+id: NISTIR8352sup1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: CSAFE Bitemark Thinkshop report
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8352sup1
+docidentifier:
+- content: NIST IR 8352sup1
+  type: NIST
+  primary: true
+- content: NIST.IR.8352sup1
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Center for Statistics and Applications in Forensic Evidence (CSAFE)
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Center for Statistics and Applications in Forensic Evidence (CSAFE).
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 8352sup1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

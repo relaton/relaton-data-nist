@@ -1,0 +1,56 @@
+---
+id: NISTIR829609
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST time and frequency bulletin
+  type: title-main
+- language: en
+  script: Latn
+  content: September 2020
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST time and frequency bulletin - September 2020
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8296-09
+docidentifier:
+- content: NIST IR 8296-09
+  type: NIST
+  primary: true
+- content: NIST.IR.8296-09
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rodriguez, Kelsey.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.))
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 8296-09
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

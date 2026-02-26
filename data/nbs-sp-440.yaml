@@ -1,0 +1,69 @@
+---
+id: NBSSP440
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Color
+  type: title-main
+- language: en
+  script: Latn
+  content: universal language and dictionary of names
+  type: title-part
+- language: en
+  script: Latn
+  content: Color - universal language and dictionary of names
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.440
+docidentifier:
+- content: NBS SP 440
+  type: NIST
+  primary: true
+- content: NBS.SP.440
+  type: DOI
+date:
+- type: issued
+  at: '1976'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kelly, Kenneth L.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50048153
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Judd, Deane B.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: '440'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

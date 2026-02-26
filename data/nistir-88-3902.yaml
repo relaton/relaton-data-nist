@@ -1,0 +1,71 @@
+---
+id: NISTIR883902
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Experimental thermal conductivity, thermal diffusivity, and specific heat
+    values of argon and nitrogen
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.88-3902
+docidentifier:
+- content: NIST IR 88-3902
+  type: NIST
+  primary: true
+- content: NIST.IR.88-3902
+  type: DOI
+date:
+- type: issued
+  at: '1988'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Roder, H. M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81103508
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Perkins, H. A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Castro, C. A. Nieto de.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n95030573
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 88-3902
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

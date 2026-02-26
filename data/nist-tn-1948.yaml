@@ -1,0 +1,74 @@
+---
+id: NISTTN1948
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: What's in a butt?
+  type: title-main
+- language: en
+  script: Latn
+  content: environmental contamination from airborne cigarette butt emissions
+  type: title-part
+- language: en
+  script: Latn
+  content: What's in a butt? - environmental contamination from airborne cigarette
+    butt emissions
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1948
+docidentifier:
+- content: NIST TN 1948
+  type: NIST
+  primary: true
+- content: NIST.TN.1948
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gong, Mengyan.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Khurshid, Shahana S.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Poppendieck, Dustin G.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1948'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

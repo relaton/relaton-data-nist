@@ -1,0 +1,98 @@
+---
+id: NISTSP260227
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Certification of Standard Reference Material 3461 reference cantilevers
+    for AFM spring constant calibration
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-227
+docidentifier:
+- content: NIST SP 260-227
+  type: NIST
+  primary: true
+- content: NIST.SP.260-227
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gates, Richard S.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Osborn, William A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McLean, Mark J.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Shaw, Gordon A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Filliben, James J.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: A batch of 94 silicon chips containing arrays of uniform rectangular cantilevers
+    were microfabricated from a single silicon wafer and their stiffnesses and resonance
+    frequencies calibrated using a laser Doppler vibrometer (LDV). The cantilevers
+    are 50 m wide, (about the width of a human hair), and vary in length from 600
+    m to 300 m. They have stiffness values nominally ranging from 0.03 N/m to 0.2
+    N/m and nominal first flexural resonance frequencies in the range of 5 kHz to
+    21 kHz respectively. The LDV cantilever stiffness calibration measurements proved
+    very reliable and combined expanded uncertainties better than 3% in stiffness
+    were obtained for individual devices. These devices can be used as reference artifacts
+    to validate atomic force microscopy (AFM) cantilever stiffness measurement methods
+    as well as directly calibrating AFM test cantilever stiffness using the reference
+    cantilever method. This NIST SP-260 provides details on the source and preparation
+    of the devices as well as the analytical approach of using a laser Doppler vibrometer
+    to accurately measure both stiffness (k), resonance frequency (f0), and Quality
+    factor (Q) of each cantilever. The statistical analysis applied to the data sets
+    is described. An example of the reference cantilever method is also provided for
+    individuals wishing to use these devices to make direct calibrations of AFM test
+    cantilevers.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 260-227
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

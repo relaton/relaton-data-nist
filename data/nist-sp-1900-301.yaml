@@ -1,0 +1,82 @@
+---
+id: NISTSP1900301
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Automated driving system safety measurement part I
+  type: title-main
+- language: en
+  script: Latn
+  content: operating envelope specification
+  type: title-part
+- language: en
+  script: Latn
+  content: Automated driving system safety measurement part I - operating envelope
+    specification
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1900-301
+docidentifier:
+- content: NIST SP 1900-301
+  type: NIST
+  primary: true
+- content: NIST.SP.1900-301
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Griffor, Edward.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wollman, David.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Greer, Christopher.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Communications Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The safety of Automated Driving System (ADS) equipped vehicles and reliable
+    methods for assessing that safety are critical for successfully deploying these
+    engineered systems into the market. This document presents a novel approach for
+    developing an ADS safety measurement methodology, which came from the NIST Automated
+    Driving System Safety Measurement (ADSSM) Technical Working Group. The new approach
+    brings together the concept of an Operating Envelope Specification (OES) a structured
+    description of environmental factors or aspects that an ADS may encounter during
+    operation and the NIST Framework for Cyber-Physical Systems.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1900-301
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

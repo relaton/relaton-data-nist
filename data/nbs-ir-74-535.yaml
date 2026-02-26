@@ -1,0 +1,69 @@
+---
+id: NBSIR74535
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A selected and annotated bibliography of compilations of data relevant
+    to biochemical thermodynamics
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IR.74-535
+docidentifier:
+- content: NBS IR 74-535
+  type: NIST
+  primary: true
+- content: NBS.IR.74-535
+  type: DOI
+date:
+- type: issued
+  at: '1974'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Armstrong, G. T.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Janes, G. R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Goldberg, Robert N.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79063846
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBSIR; NBS IR; NBS interagency report; NBS internal report
+  number: 74-535
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

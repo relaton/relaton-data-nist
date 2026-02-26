@@ -1,0 +1,111 @@
+---
+id: NISTTN2060
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: BGP secure routing extension (BGP-SRx)
+  type: title-main
+- language: en
+  script: Latn
+  content: reference implementation and test tools for emerging BGP security standards
+  type: title-part
+- language: en
+  script: Latn
+  content: BGP secure routing extension (BGP-SRx) - reference implementation and test
+    tools for emerging BGP security standards
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2060
+docidentifier:
+- content: NIST TN 2060
+  type: NIST
+  primary: true
+- content: NIST.TN.2060
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Borchert, Oliver.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lee, Kyehwan.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sriram, Kotikalapudi.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Montgomery, Doug.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gleichmann, Patrick.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Adalier, Mehmet.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: In this paper, we first describe the problem space. Following that, we
+    describe the design and implementation of the NIST reference implementation for
+    RPKI-based route origin validation (BGP-OV) and BGPsec path validation (BGP-PV)
+    within a BGP router. The system we developed is called BGP Secure Routing Extension
+    (BGP-SRx). We describe the system design, explain the design choices, communications
+    between all components, and present the performance measurements obtained during
+    the implementation stages. This paper is organized so that it first explains the
+    high-level system design with a brief explanation of all components and how they
+    interact. We will explain why we chose this design and provide a discussion of
+    its benefits as well as shortcomings. Furthermore, we show which open-source components
+    we chose and how we extended them for this project. The BGP-SRx implementation
+    is a reference implementation for RPKI-OV with all its router side components
+    as specified in RFC 6811, RFC 6810, and RFC 8210 as well as for BGPsec path validation
+    as specified in RFC 8205 and RFC 8608. The implementation allowed early identification
+    of issues while the specifications were still under development, hence provided
+    important feedback to the development of the different IETF RFCs.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2060'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

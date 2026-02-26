@@ -1,0 +1,81 @@
+---
+id: NISTSP260214
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Analysis of seafood reference materials
+  type: title-main
+- language: en
+  script: Latn
+  content: RM 8256, RM 8257, RM 8258 and RM 8259, wild-caught coho salmon (RM 8256),
+    aquacultured coho salmon (RM 8257), wild-caught shrimp (RM 8258), aquacultured
+    shrimp (RM 8259)
+  type: title-part
+- language: en
+  script: Latn
+  content: Analysis of seafood reference materials - RM 8256, RM 8257, RM 8258 and
+    RM 8259, wild-caught coho salmon (RM 8256), aquacultured coho salmon (RM 8257),
+    wild-caught shrimp (RM 8258), aquacultured shrimp (RM 8259)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-214
+docidentifier:
+- content: NIST SP 260-214
+  type: NIST
+  primary: true
+- content: NIST.SP.260-214
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ellisor, Debra L.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Place, Benjamin.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Phillips, Melissa.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yen, James.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 260-214
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,113 @@
+---
+id: NISTIR8158
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Usability testing of a contactless fingerprint device: part 1'
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8158
+docidentifier:
+- content: NIST IR 8158
+  type: NIST
+  primary: true
+- content: NIST.IR.8158
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stanton, Brian C.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020085254
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Theofanos, Mary Frances.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Furman, Susanne M.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020085297
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Libert, John M.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020085991
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Orandi, Shahram.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020043056
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grantham, John D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020148735
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: The use of biometrics to identify individuals has become an important component
+    of efforts to ensure U.S. national security, and has also grown rapidly. Biometrics
+    are, for example, an integral part of the United States Visitor and Immigrant
+    Status Indicator Technology (US-VISIT) program. To address contagion and speed
+    issues, DHS S&T commissioned and funded a project to research technologies that
+    could be used to acquire fingerprints without physical contact. Overall the contactless
+    scanner took longer to acquire the prints, acquired fewer prints under the no
+    instruction and video instructional conditions, and was preferred less than the
+    contact scanner.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8158'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

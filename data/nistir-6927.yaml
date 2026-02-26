@@ -1,0 +1,82 @@
+---
+id: NISTIR6927
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Database for computational thermodynamics and diffusion modeling
+  type: title-main
+- language: en
+  script: Latn
+  content: workshop report
+  type: title-part
+- language: en
+  script: Latn
+  content: Database for computational thermodynamics and diffusion modeling - workshop
+    report
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.6927
+docidentifier:
+- content: NIST IR 6927
+  type: NIST
+  primary: true
+- content: NIST.IR.6927
+  type: DOI
+date:
+- type: issued
+  at: '2002'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kattner, Ursula R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003054039
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Boettinger, William J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003054043
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Morral, J. E.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88663040
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '6927'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

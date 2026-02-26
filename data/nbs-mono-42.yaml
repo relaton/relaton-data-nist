@@ -1,0 +1,54 @@
+---
+id: NBSMONO42
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Structure shielding against fallout radiation from nuclear weapons
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.MONO.42
+docidentifier:
+- content: NBS MONO 42
+  type: NIST
+  primary: true
+- content: NBS.MONO.42
+  type: DOI
+date:
+- type: issued
+  at: '1962'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Spencer, L. V. (Lewis Van Clief),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80150278
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS monograph; NBS MONO
+  number: '42'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

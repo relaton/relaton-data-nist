@@ -1,0 +1,65 @@
+---
+id: NBSIR781534
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Monte Carlo studies of electron and photon transport at energies up to
+    1000 MeV
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IR.78-1534
+docidentifier:
+- content: NBS IR 78-1534
+  type: NIST
+  primary: true
+- content: NBS.IR.78-1534
+  type: DOI
+date:
+- type: issued
+  at: '1978'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Seltzer, Stephen M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82209458
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Berger, Martin J.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83047646
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBSIR; NBS IR; NBS interagency report; NBS internal report
+  number: 78-1534
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

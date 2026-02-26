@@ -1,0 +1,97 @@
+---
+id: NISTIR5723
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Airborne asbestos method
+  type: title-main
+- language: en
+  script: Latn
+  content: bootstrap method for determining the uncertainty of asbestos concentration
+    - version 1.0
+  type: title-part
+- language: en
+  script: Latn
+  content: Airborne asbestos method - bootstrap method for determining the uncertainty
+    of asbestos concentration - version 1.0
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.5723
+docidentifier:
+- content: NIST IR 5723
+  type: NIST
+  primary: true
+- content: NIST.IR.5723
+  type: DOI
+date:
+- type: issued
+  at: '1996'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Turner, Shirley.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2010074772
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Myklebust, Robert L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88659816
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Thorne, Barbara B.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Leigh, Stefan D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83125869
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Steel, Eric B.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '5723'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

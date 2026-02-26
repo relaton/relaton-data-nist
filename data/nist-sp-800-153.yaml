@@ -1,0 +1,71 @@
+---
+id: NISTSP800153
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guidelines for securing Wireless Local Area Networks (WLANs)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-153
+docidentifier:
+- content: NIST SP 800-153
+  type: NIST
+  primary: true
+- content: NIST.SP.800-153
+  type: DOI
+date:
+- type: issued
+  at: '2012'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Souppaya, M. P.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, K. A.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: A wireless local area network (WLAN) is a group of wireless networking
+    devices within a limited geographic area, such as an office building, that exchange
+    data through radio communications. The security of each WLAN is heavily dependent
+    on how well each WLAN component⁰₄including client devices, access points (AP),
+    and wireless switches⁰₄is secured throughout the WLAN lifecycle, from initial
+    WLAN design and deployment through ongoing maintenance and monitoring. The purpose
+    of this publication is to help organizations improve their WLAN security by providing
+    recommendations for WLAN security configuration and monitoring. This publication
+    supplements other NIST publications by consolidating and strengthening their key
+    recommendations.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-153
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,106 @@
+---
+id: NISTTN1958
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Numerical modeling and analysis of heat transfer in composite slabs with
+    profiled steel decking
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1958
+docidentifier:
+- content: NIST TN 1958
+  type: NIST
+  primary: true
+- content: NIST.TN.1958
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jiang, Jian.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2001064512
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Main, Joseph A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2011168767
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sadek, Fahim H.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Weigand, Jonathan M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015167354
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: This report presents detailed and reduced-order finite element modeling
+    of heat transfer in composite floor slabs with profiled steel decking. The detailed
+    modeling approach uses solid elements for the concrete slab and shell elements
+    for the steel decking. The reduced-order modeling approach represents the thick
+    and thin parts of a composite slab with alternating strips of layered shell elements.
+    In the reduced-order modeling approach, a linear gradient in the density of concrete
+    in the rib is used to represent the tapered profile of the rib. In order to more
+    accurately account for the heat input through web of the steel decking in the
+    reduced-order models, the specific heat of concrete in the rib is modified and
+    a dummy material with low specific heat and high thermal conductivity is added
+    in the thin part of the slab. The detailed modeling approach is validated against
+    experimental results available in the literature, and the reduced-order modeling
+    approach is calibrated against the detailed model results and validated against
+    experimental data. A parametric study using the detailed modeling approach is
+    carried out to investigate the influence of the thermal boundary conditions, thermal
+    properties of materials, and slab geometry on the temperature distribution in
+    the composite slab. The results show that the rib height of the decking and the
+    width at the top of the rib are key factors governing the temperature distribution
+    in the rib. In addition, a mesh-sensitivity analysis is performed to investigate
+    the extent to which the mesh size could be increased while maintaining sufficient
+    accuracy.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1958'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

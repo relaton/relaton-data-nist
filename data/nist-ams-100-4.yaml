@@ -1,0 +1,99 @@
+---
+id: NISTAMS1004
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Findings from the NIST/ASTM workshop on mechanical behavior of additive
+    manufacturing components
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-4
+docidentifier:
+- content: NIST AMS 100-4
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-4
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hrabe, Nikolas.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barbosa, Nicholas.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Daniewicz, Steve.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Shamsaei, Nima.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2017015392
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Material Measurement Laboratory (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012096740
+abstract:
+- language: en
+  script: Latn
+  content: 'Valuable information was gathered from a broad representation of the additive
+    manufacturing (AM) community (150 attendees from industry, government, academic,
+    and regulatory agencies) during this workshop to understand what is needed to
+    enable broader acceptance and increased use of metal AM in fatigue and fracture
+    critical applications. The main needs identified during the workshop were: comprehensive
+    understanding of processing-structure-properties (PSP) relationships, mature process
+    and material models, trustworthy in-process monitoring and control, effective
+    non-destructive inspection techniques, predictive design tools, and traditional
+    and rapid qualification frameworks. Fatigue and fracture issues play the largest
+    role in PSP relationships, and during the workshop many specific areas of interest
+    were identified and prioritized. In general, PSP investigations should consider
+    statistical variation an utilize both experimental and modeling efforts. A curated
+    AM materials database was deemed highly beneficial to the PSP effort. PSP understanding
+    will facilitate development of in-process monitoring and control, non-destructive
+    inspection techniques, and predictive design tools. The main standardization opportunities
+    identified include standard reporting procedures for AM to enhance understanding
+    and facilitate comparison to other results. Evaluation of current fatigue and
+    fracture test methods as well as non-destructive inspection methods was another
+    standardization need. Finally, a standardized traditional AM qualification framework
+    using the currently available AM processes and inspection techniques was deemed
+    highly necessary, and many felt that regulatory agencies should lead this effort.'
+series:
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 100-4
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,72 @@
+---
+id: NISTSP260126r2013
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The NIST traceable reference material program for gas standards
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-126rev2013
+docidentifier:
+- content: NIST SP 260-126r2013
+  type: NIST
+  primary: true
+- content: NIST.SP.260-126rev2013
+  type: DOI
+date:
+- type: issued
+  at: '2015'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dorko, William D.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88177716
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kelley, Michael E.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Guenther, Franklin R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n96118514
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Materials Measurement Laboratory.
+    - content: Chemical Sciences Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 260-126 rev 2013
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

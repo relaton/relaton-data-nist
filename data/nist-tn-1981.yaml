@@ -1,0 +1,74 @@
+---
+id: NISTTN1981
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Users guide to HVAC-Cx v2.2
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1981
+docidentifier:
+- content: NIST TN 1981
+  type: NIST
+  primary: true
+- content: NIST.TN.1981
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Galler, Michael A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2007101805
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Milesi-Ferretti, Natascha.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: HVAC-Cx is a software tool designed to facilitate performance analysis
+    for mechanical equipment buildings. It is used for ongoing monitoring and provides
+    the ability to detect faults related to improper operation, using expert rules
+    to present results of the most likely fault causes and to assist in documenting
+    results. The goal is to optimize the system performance in terms of occupant comfort,
+    energy management and equipment life. It was conceived exclusively for tertiary
+    buildings equipped with one (or several) AHUs, terminal units, chiller loops,
+    and chillers. The commissioning methods developed can be applied to several types
+    of equipment and custom rules can be introduced. The structure includes future
+    expansion capabilities for the analysis of chillers.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1981'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

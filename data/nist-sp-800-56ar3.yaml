@@ -1,0 +1,92 @@
+---
+id: NISTSP80056Ar3
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Recommendation for pair-wise key-establishment schemes using discrete logarithm
+    cryptography
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-56Ar3
+docidentifier:
+- content: NIST SP 800-56Ar3
+  type: NIST
+  primary: true
+- content: NIST.SP.800-56Ar3
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barker, Elaine.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chen, Lily.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Roginsky, Allen.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022077196
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Vassilev, Apostol.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Davis, Richard.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84000763
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation specifies key-establishment schemes based on the discrete
+    logarithm problem over finite fields and elliptic curves, including several variations
+    of Diffie-Hellman and Menezes-Qu-Vanstone (MQV) key establishment schemes.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-56Ar3
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

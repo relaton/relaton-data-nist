@@ -1,0 +1,69 @@
+---
+id: NISTIR883867
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Report on cabling Navy bases for voice, data and video- appendix A
+  type: title-main
+- language: en
+  script: Latn
+  content: premises wiring plan for data, voice and video
+  type: title-part
+- language: en
+  script: Latn
+  content: Report on cabling Navy bases for voice, data and video- appendix A - premises
+    wiring plan for data, voice and video
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.88-3867
+docidentifier:
+- content: NIST IR 88-3867
+  type: NIST
+  primary: true
+- content: NIST.IR.88-3867
+  type: DOI
+date:
+- type: issued
+  at: '1988'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Burr, W. E.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Koenig, A. L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021036108
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 88-3867
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

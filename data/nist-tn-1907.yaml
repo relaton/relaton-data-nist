@@ -1,0 +1,161 @@
+---
+id: NISTTN1907
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Temperature-dependent material modeling for structural steels
+  type: title-main
+- language: en
+  script: Latn
+  content: formulation and application
+  type: title-part
+- language: en
+  script: Latn
+  content: Temperature-dependent material modeling for structural steels - formulation
+    and application
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1907
+docidentifier:
+- content: NIST TN 1907
+  type: NIST
+  primary: true
+- content: NIST.TN.1907
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Seif, Mina.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021139146
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Main, Joseph.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Weigand, Jonathan.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sadek, Fahim.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003083235
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Choe, Lisa.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021139159
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zhang, Chao.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2001072344
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gross, John.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79112144
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Luecke, William.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McColskey, David.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021139160
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    - content: Material Measurement Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: This report presents the formulation and application of a newly developed
+    temperature-dependent material model for structural steels. First it presents
+    a model for computing the stress-strain behavior of structural steel for conditions
+    appropriate to fire. The model accounts for the change in yield strength with
+    temperature, the change in the amount of post-yield strain hardening with both
+    temperature and room-temperature yield strength, and the change in strength with
+    increasing strain rate. Then, this NIST stress-strain model is used for predicting
+    flexural buckling of steel columns subjected to elevated temperature. The main
+    focus of this part of the study is to evaluate the applicability of the NIST model
+    for predicting the behavior of steel gravity columns at elevated temperatures
+    using the finite-element method. Besides the stress-strain behavior, another key
+    issue in evaluating the response of structural systems to fire effects is the
+    modeling of fracture, which is required to capture failure modes such as tear
+    out in connection plates and bolt shear. Fracture can be simulated in explicit
+    finite element analysis using element erosion, in which elements are removed from
+    the analysis when specified failure criteria are satisfied. A finite element material
+    modeling methodology is presented for structural steels and bolts at elevated
+    temperatures that incorporates erosion-based modeling of fracture. The failure
+    criterion was calibrated against high- temperature experimental data on elongation
+    of tensile coupons at fracture, and its dependence on temperature and mesh size
+    was investigated. Finally, these temperature-dependent material models for structural
+    steel and bolts that incorporate erosion-based modeling of fracture were implemented
+    to study the performance of steel moment frame assemblies at elevated temperatures.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1907'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

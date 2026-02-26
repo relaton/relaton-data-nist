@@ -1,0 +1,81 @@
+---
+id: NISTSP1900601
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Characterization of residential distributed energy resource potential to
+    provide ancillary services
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1900-601
+docidentifier:
+- content: NIST SP 1900-601
+  type: NIST
+  primary: true
+- content: NIST.SP.1900-601
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Holmberg, David.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-1738-8190"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Omar, Farhad.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022066522
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: 'This report reviews a set of electric grid ancillary services and analyzes
+    the technical potential for residential devices to provide those services. A set
+    of common residential devices are evaluated against six indicators of capability:
+    flexibility, availability, fast response, reserves, reactive power, and power
+    level. Based on these indicators of capability, three scores are developed to
+    express the potential of a device to provide frequency response, reserves and
+    reactive power services. These scores are additionally used to estimate how many
+    of each device might be required, in aggregation, to provide a meaningful level
+    of each of these three ancillary services to the grid. This report also provides
+    a review of some existing programs and pilot efforts where residential devices
+    are being used to provide ancillary services. Lastly, the report provides insights
+    on a continued path to increased integration of residential devices for ancillary
+    services provision.'
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1900-601
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,82 @@
+---
+id: NBSSP500110
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Microcomputers
+  type: title-main
+- language: en
+  script: Latn
+  content: introduction to features and uses
+  type: title-part
+- language: en
+  script: Latn
+  content: Microcomputers - introduction to features and uses
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.500-110
+docidentifier:
+- content: NBS SP 500-110
+  type: NIST
+  primary: true
+- content: NBS.SP.500-110
+  type: DOI
+date:
+- type: issued
+  at: '1984'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hecht, Myron.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84098817
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hecht, Herbert.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82020808
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Press, Laurence.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82091671
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: 500-110
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

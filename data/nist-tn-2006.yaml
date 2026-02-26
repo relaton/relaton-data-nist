@@ -1,0 +1,96 @@
+---
+id: NISTTN2006
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Interlaboratory mechanical-property study for Cobalt-Chromium alloy made
+    by laser powder-bed-fusion additive manufacturing
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2006
+docidentifier:
+- content: NIST TN 2006
+  type: NIST
+  primary: true
+- content: NIST.TN.2006
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Slotwinski, John A. (John Anthony),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022084010
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Luecke, William E.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-0587-4500"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lass, Eric A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Possolo, Antonio.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n92088106
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: An eight-laboratory study provided the data to evaluate variability in
+    tensile mechanical properties of cobalt-chrome alloy (UNS R31538) made by metals-based
+    additive manufacturing. In the study, six laboratories employed laser powder-bed-fusion
+    additive manufacturing, and two additional laboratories employed electron-beam
+    powder-bed fusion. For the fve laboratories that employed nominally identical
+    laser powder-bed fusion systems, the between-laboratory variability in yield strength
+    and tensile strength was several times larger than the within-laboratory variability.
+    Microstructural analysis using scanning electron microscopy revealed that each
+    laboratory produced slightly different microstructures. Thermodynamic modeling
+    of the solidifcation and subsequent post-build heat treating demonstrated that
+    the fnal microstructure is sensitive to the exact heat-treating conditions.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2006'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,73 @@
+---
+id: NBSSP633
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Procedures for calibrating neutron personnel dosimeters
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.633
+docidentifier:
+- content: NBS SP 633
+  type: NIST
+  primary: true
+- content: NBS.SP.633
+  type: DOI
+date:
+- type: issued
+  at: '1982'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schwartz, Robert B.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82012165
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Eisenhauer, Charles.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80153903
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+abstract:
+- language: en
+  script: Latn
+  content: 'Procedures are given for routine testing and calibration of neutron dosimeters
+    and remmeters with radioactive neutron sources. The issues addressed include:
+    the choice of neutron A source; phantom construction; fluence to dose equivalent
+    conversion; and the corrections for air scatter, room return, and anisotropic-neutron
+    emission. Explicit, semi-empirical, analytic expressions are given for the room
+    return correction, and calculated numerical values are given for air scatter.'
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: '633'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

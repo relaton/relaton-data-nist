@@ -1,0 +1,91 @@
+---
+id: NISTAMS10035
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Thermal calibration of commercial melt pool monitoring sensors on a laser
+    powder bed fusion system
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-35
+docidentifier:
+- content: NIST AMS 100-35
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-35
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lane, Brandon.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jacquemetton, Lars.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Piltch, Martin.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Beckett, Darren.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Co-axial melt pool monitoring in laser powder bed fusion (LPBF) additive
+    manufacturing (AM) often utilizes various photodetectors to acquire signals relatable
+    to the dynamic thermal melt pool phenomena. In turn, it is expected that these
+    thermal signatures are relatable to the quality of the fabrication and can therefore
+    the final AM part. To relate these signal values to real, physical temperatures,
+    a thermal calibration must be done. However, the relatively high temperatures
+    and small size of typical LPBF melt pools cannot be easily replicated by most
+    thermal calibration sources. This paper describes a potential method for thermal
+    calibration, which uses a lower temperature, commercial off-the-shelf calibration
+    blackbody. The method calculates an ⁰́₈effective⁰́₉ temperature for a hypothetical
+    small source of any diameter, which would have the same radiance temperature of
+    the larger, lower temperature blackbody. The paper details the theoretical rationale,
+    provides a proof-of-concept calculation, then demonstrates the procedures conducted
+    on a commercial LPBF melt pool monitoring system. Finally, while this method itself
+    does not provide an absolute calibration nor ability to ascribe real melt pool
+    temperatures to the melt pool monitoring sensor signals, discussion is provided
+    that details the practical utility, details why the measured calibration values
+    are realistic, and describes future improvements to the methodology.
+series:
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 100-35
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

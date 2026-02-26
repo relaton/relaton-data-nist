@@ -1,0 +1,74 @@
+---
+id: NISTIR7819
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Interlaboratory analytical comparison study to support deepwater horizon
+    natural resource damage assessment
+  type: title-main
+- language: en
+  script: Latn
+  content: description and results for mussel tissue QA10TIS01
+  type: title-part
+- language: en
+  script: Latn
+  content: Interlaboratory analytical comparison study to support deepwater horizon
+    natural resource damage assessment - description and results for mussel tissue
+    QA10TIS01
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7819
+docidentifier:
+- content: NIST IR 7819
+  type: NIST
+  primary: true
+- content: NIST.IR.7819
+  type: DOI
+date:
+- type: issued
+  at: '2011'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schantz, Michele M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2007089499
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kucklick, John R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2017142157
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7819'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

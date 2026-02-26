@@ -1,0 +1,48 @@
+---
+id: NBSRPT6337
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Output characteristics of three 200-watt series transformers with multiple
+    lamps as load
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.RPT.6337
+docidentifier:
+- content: NBS RPT 6337
+  type: NIST
+  primary: true
+- content: NBS.RPT.6337
+  type: DOI
+date:
+- type: issued
+  at: '1959'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Davis, James E.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NBS report
+  number: '6337'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

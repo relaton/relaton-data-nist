@@ -1,0 +1,84 @@
+---
+id: NISTIR8374por
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Ransomware risk management
+  type: title-main
+- language: en
+  script: Latn
+  content: a cybersecurity framework profile
+  type: title-part
+- language: en
+  script: Latn
+  content: Ransomware risk management - a cybersecurity framework profile
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8374.por
+docidentifier:
+- content: NIST IR 8374 por
+  type: NIST
+  primary: true
+- content: NIST.IR.8374.por
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barker, William C.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fisher, William.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, Karen.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Souppaya, Murugiah.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
+relation:
+- type: editionOf
+  bibitem:
+    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x000000033dabde80>"
+    docidentifier:
+    - content: NIST IR 8374
+      type: NIST
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8374'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

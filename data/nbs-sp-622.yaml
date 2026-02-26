@@ -1,0 +1,73 @@
+---
+id: NBSSP622
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Detection, diagnosis, and prognosis
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.622
+docidentifier:
+- content: NBS SP 622
+  type: NIST
+  primary: true
+- content: NBS.SP.622
+  type: DOI
+date:
+- type: issued
+  at: '1981'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Shives, T. R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50023244
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Willard, William A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50017066
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+abstract:
+- language: en
+  script: Latn
+  content: These proceedings consist of 18 submitted entries (16 papers and 2 abstracts)
+    from the 31st meeting of the Mechanical Failures Prevention Group which was held
+    at the National Bureau of Standards, Gaithersburg, Maryland, April 22-24, 1980.
+    The theme of the symposium was failure prevention in ground transportation systems.
+    Areas of interest included rail vehicles and structures, highway and road bridges,
+    pipeline transportation systems, and motor carriers.
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: '622'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,113 @@
+---
+id: NISTSP800184
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guide for cybersecurity event recovery
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-184
+docidentifier:
+- content: NIST SP 800-184
+  type: NIST
+  primary: true
+- content: NIST.SP.800-184
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bartock, Michael.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cichonski, Jeffrey.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Souppaya, Murugiah.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2006135981
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Smith, Matthew.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n93118616
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Witte, Greg.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2012049043
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, Karen.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2007017003
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: In light of an increasing number of cybersecurity events, organizations
+    can improve resilience by ensuring that their risk management processes include
+    comprehensive recovery planning. Identifying and prioritizing organization resources
+    helps to guide effective plans and realistic test scenarios. This preparation
+    enables rapid recovery from incidents when they occur and helps to minimize the
+    impact on the organization and its constituents. Additionally, continually improving
+    recovery planning by learning lessons from past events, including those of other
+    organizations, helps to ensure the continuity of important mission functions.
+    This publication provides tactical and strategic guidance regarding the planning,
+    playbook developing, testing, and improvement of recovery planning. It also provides
+    an example scenario that demonstrates guidance and informative metrics that may
+    be helpful for improving resilience of information systems.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-184
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

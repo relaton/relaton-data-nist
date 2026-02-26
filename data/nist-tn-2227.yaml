@@ -1,0 +1,59 @@
+---
+id: NISTTN2227
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Data assimilation in 2D nonlinear advection diffusion equations, using
+    an explicit stabilized leapfrog scheme run backward in time
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2227
+docidentifier:
+- content: NIST TN 2227
+  type: NIST
+  primary: true
+- content: NIST.TN.2227
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Carasso, Alfred S.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: With an artificial example of a 2D nonlinear advection diffusion equation
+    on the unit square this paper considers the data assimilation problem of finding
+    initial values that can evolve into a close approximation to a desired target
+    result at some realistic T > 0. Highly non smooth target data are considered,
+    that may not correspond to actual solutions at time T, and it may not be possible
+    to find such initial values. The aim is to illustrate the inherent difficulties
+    of the ill-posed data assimilation problem.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2227'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

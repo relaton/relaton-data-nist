@@ -1,0 +1,78 @@
+---
+id: NISTAMS20011
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guide for environmentally sustainable investment analysis based on ASTM
+    E3200
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.200-11
+docidentifier:
+- content: NIST AMS 200-11
+  type: NIST
+  primary: true
+- content: NIST.AMS.200-11
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Thomas, Douglas.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kandaswamy, Anand M.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Butry, David.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This guide presents techniques for evaluating manufacturing investments
+    from the perspective of environmentally sustainable manufacturing by pairing economic
+    methods of investment analysis with environmental aspect of manufacturing, including
+    manufacturing processes. The methods are based on ASTM E3200 and, although the
+    focus is on manufacturing, they can be applied under other circumstances (e.g.,
+    construction industry investments, agriculture, or mining). The economic techniques
+    include net present value, internal rate of return, payback period, and hurdle
+    rate. The guide also includes sensitivity analyses with a focus on Monte Carlo
+    techniques. The methods presented can be used by manufacturers, regardless of
+    size or complexity, to make environmentally sustainable decisions, including but
+    not limited to whether to embark on an investment, discontinue a manufacturing
+    line, invest or re-invest in a new project or factory.
+series:
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 200-11
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

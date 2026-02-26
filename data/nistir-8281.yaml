@@ -1,0 +1,80 @@
+---
+id: NISTIR8281
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Dolphins in human care sampling protocol and Sample Entry Assistant (SEA)
+    for tissue archival and analyte analysis
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8281
+docidentifier:
+- content: NIST IR 8281
+  type: NIST
+  primary: true
+- content: NIST.IR.8281
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bryan Sallee, Colleen E.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ragland, Jared M.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Material Measurement Laboratory (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012096740
+abstract:
+- language: en
+  script: Latn
+  content: The National Institute of Standards and Technology (NIST) Pacific Marine
+    Mammal Health Assessments (PMMHA) were initiated in 2010 as an expansion of NIST
+    marine mammal health assessment activities that began in 2002 with bottlenose
+    dolphin (Tursiops truncatus) wild populations. As part of PMMHA, NIST began a
+    new collaboration to parallel wild population studies in a controlled setting
+    by archiving and analyzing tissues sampled from dolphins in human care. As of
+    this report, approximately 5,130 blood and milk sample aliquots from 20 dolphins
+    in human care, along with associated dietary prey items, have been archived at
+    the NIST Biorepository. When these samples are collected, valuable information
+    associated with each sample is recorded; this vital step ensures the highest quality
+    interpretation is available from analytical results. The Sample Entry Assistant
+    (SEA) was developed to replace traditional paper data sheets and notebooks with
+    a means for electronic data collection and automatically generated chain of custody
+    documentation to reduce the potential for loss of, and increase accessibility
+    to, sample information. This report provides (1) the standardized protocol for
+    collecting, processing, and archiving blood and milk samples from dolphins in
+    human care and their dietary prey items; (2) key points when teaching and executing
+    the protocol; (3) an outline of the SEA platform and; (4) highlights the components
+    associated with the data tool.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8281'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

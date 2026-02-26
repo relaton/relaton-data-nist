@@ -1,0 +1,85 @@
+---
+id: NISTIR7807
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST special database 32 multiple encounter dataset II (MEDS-II)
+  type: title-main
+- language: en
+  script: Latn
+  content: data description document
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST special database 32 multiple encounter dataset II (MEDS-II) - data
+    description document
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7807
+docidentifier:
+- content: NIST IR 7807
+  type: NIST
+  primary: true
+- content: NIST.IR.7807
+  type: DOI
+date:
+- type: issued
+  at: '2011'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Founds, Andrew P.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Orlans, Nick.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Whiddon, Genevieve.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Watson, Craig.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021005762
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
+    - content: Information Access Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2011180823
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7807'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

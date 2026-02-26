@@ -1,0 +1,73 @@
+---
+id: NISTIR6477
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Advanced technology program information infrastructure for healthcare focused
+    program
+  type: title-main
+- language: en
+  script: Latn
+  content: a brief history
+  type: title-part
+- language: en
+  script: Latn
+  content: Advanced technology program information infrastructure for healthcare focused
+    program - a brief history
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.6477
+docidentifier:
+- content: NIST IR 6477
+  type: NIST
+  primary: true
+- content: NIST.IR.6477
+  type: DOI
+date:
+- type: issued
+  at: '2000'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lide, Bettijoyce.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2002072298
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Spivack, Richard N.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2002014959
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '6477'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

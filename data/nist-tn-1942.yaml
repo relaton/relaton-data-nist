@@ -1,0 +1,66 @@
+---
+id: NISTTN1942
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Implementation of errors-in-variables regression and Monte Carlo uncertainty
+    evaluation into force calibration reporting at NIST
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1942
+docidentifier:
+- content: NIST TN 1942
+  type: NIST
+  primary: true
+- content: NIST.TN.1942
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bartel, Thomas W.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021001597
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: The National Institute of Standards and Technology (NIST) is commencing
+    the implementation of certain statistical procedures, namely errors-in-variables
+    regression and Monte Carlo uncertainty evaluation, into the data analysis and
+    reporting for the force calibration service provided by the NIST Physical Measurement
+    Laboratory (PML). This document is intended to serve as an overview of these procedures
+    to the users of NIST's force calibration service, by presenting computational
+    details of the analyses and introducing the corresponding format for the force
+    calibration report.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1942'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

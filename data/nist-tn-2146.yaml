@@ -1,0 +1,79 @@
+---
+id: NISTTN2146
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Recalibration intervals for radiation detection instruments
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2146
+docidentifier:
+- content: NIST TN 2146
+  type: NIST
+  primary: true
+- content: NIST.TN.2146
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pibida, L.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Estes, B.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mejias, M.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Klemic, G.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Physical Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: In this work we provide a summary of the National Conference of Standards
+    Laboratories (NCSL) Recommended Practice RP-1 calibration interval analysis method,
+    and examples of the method applied to three sets of available NIST data (two models
+    of radiation survey meters and an electronic dosimeter). Information is provided
+    for how to develop control charts to monitor individual instruments' performance
+    over time in order to determine when instrument requires recalibration; examples
+    are provided for a survey meter and a gamma-ray spectrometer.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2146'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,82 @@
+---
+id: NISTTN1988
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Burning velocities of marginally flammable refrigerant-air mixtures
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1988
+docidentifier:
+- content: NIST TN 1988
+  type: NIST
+  primary: true
+- content: NIST.TN.1988
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pagliaro, John L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022067323
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Linteris, Gregory T.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nr90002939
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: Refrigerant working fluids have been predicted to be large contributors
+    to the increase in radiative forcing of the earth. Consequently, existing compounds
+    will soon be phased out. Low- GWP replacements exist, but they tend to be mildly
+    flammable, and there is a need to understand their flammability properties so
+    that effective building codes and standards can be written to address their application.
+    The burning velocities of interest are in the range of 1 cm/s to 10 cm/s, and
+    hence are challenging to measure. To understand the challenges and properties
+    of the new agents, experimental measurements and numerical predictions have been
+    made for representative refrigerant-air mixtures. Burning velocities were measured
+    using a constant pressure spherical chamber with high-speed imaging of the shadowgraph
+    image of the propagating spherical flame. The flame propagation rate as a function
+    of flame radius was used to estimate the effects of stretch, and to determine
+    the un-stretched laminar burning velocity. For comparison, the burning velocity
+    was also predicted numerically using a detailed kinetic mechanism for hydrofluorocarbon
+    combustion developed at the National Institute of Standards and Technology (NIST).
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1988'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,73 @@
+---
+id: NISTSP800131Ar2
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Transitioning the use of cryptographic algorithms and key lengths
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-131Ar2
+docidentifier:
+- content: NIST SP 800-131Ar2
+  type: NIST
+  primary: true
+- content: NIST.SP.800-131Ar2
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barker, Elaine.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Roginsky, Allen.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022077196
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: 'The National Institute of Standards and Technology (NIST) provides cryptographic
+    key management guidance for defining and implementing appropriate key management
+    procedures, using algorithms that adequately protect sensitive information, and
+    planning ahead for possible changes in the use of cryptography because of algorithm
+    breaks or the availability of more powerful computing techniques. NIST Special
+    Publication (SP) 800- 57, Part 1, Recommendation for Key Management: General,
+    includes a general approach for transitioning from one algorithm or key length
+    to another. This Recommendation (SP 800-131A) provides more specific guidance
+    for transitions to the use of stronger cryptographic keys and more robust algorithms.'
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-131Ar2
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

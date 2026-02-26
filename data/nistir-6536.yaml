@@ -1,0 +1,78 @@
+---
+id: NISTIR6536
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: High speed network applications and implications for fiberoptic and copper
+    connections
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.6536
+docidentifier:
+- content: NIST IR 6536
+  type: NIST
+  primary: true
+- content: NIST.IR.6536
+  type: DOI
+date:
+- type: issued
+  at: '2000'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Collins, Dean.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no90016176
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Antonishek, John.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sell, Sean.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mink, Alan.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81040404
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '6536'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

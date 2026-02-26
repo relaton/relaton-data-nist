@@ -1,0 +1,78 @@
+---
+id: NISTIR4568
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Comparison of finite element and analytic calculations of the resonant
+    modes and frequencies of a thick shell sphere
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.4568
+docidentifier:
+- content: NIST IR 4568
+  type: NIST
+  primary: true
+- content: NIST.IR.4568
+  type: DOI
+date:
+- type: issued
+  at: '1991'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gilsinn, David,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79041171
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hansen, Hans J.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80062493
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Huerta-Garnica, Miguel.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Teague, E. Clayton.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '4568'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,61 @@
+---
+id: NBSSP512
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Energy-effective windows
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.512
+docidentifier:
+- content: NBS SP 512
+  type: NIST
+  primary: true
+- content: NBS.SP.512
+  type: DOI
+date:
+- type: issued
+  at: '1978'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fischer, Robert E.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79092601
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wagner, Walter F. Jr.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: '512'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,107 @@
+---
+id: NISTTN2046
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Estimating real-time infiltration for use in residential ventilation control
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2046
+docidentifier:
+- content: NIST TN 2046
+  type: NIST
+  primary: true
+- content: NIST.TN.2046
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ng, Lisa.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zimmerman, Stephen.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Good, Jeremy.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Toll, Brian.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n95016249
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Emmerich, Steven J. (Steven John)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003076634
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Persily, Andrew K.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-9542-3318"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: Minimum outdoor air ventilation rates specified in standards such as ASHRAE
+    Standard 62.2 are generally based on envelope airtightness, building floor area,
+    geographical location, and number of occupants. To meet ventilation requirements
+    in practice, simple on/off controls and operating schedules are most commonly
+    used to maintain the required ventilation rate. Ideally, minimum outdoor ventilation
+    rates should account for unintentional leakage through the building envelope,
+    or 'infiltration.' ASHRAE Standard 62.2-2016 allows for an infiltration credit,
+    which reduces the required mechanical ventilation. However, infiltration rates
+    vary based on the indoor-outdoor temperature difference, wind, and system operation
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2046'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

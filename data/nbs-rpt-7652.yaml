@@ -1,0 +1,73 @@
+---
+id: NBSRPT7652
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Transmission loss variability and fading characteristics for long knife-edge
+    diffraction paths
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.RPT.7652
+docidentifier:
+- content: NBS RPT 7652
+  type: NIST
+  primary: true
+- content: NBS.RPT.7652
+  type: DOI
+date:
+- type: issued
+  at: '1963'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barsis, Albrecht P.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: In this report transmission loss data in the 7 50-900 Mc/s range from three
+    long knife-edge diffraction paths (in Colorado, Alaska, and Europe) are evaluated
+    and analyzed in terms of power fading (long-term variability) and short-term variability
+    represented by prolonged space-wave fadeouts. A comparison is made of calculated
+    and measured cumulative distributions of hourly median transmission loss values.
+    It appears that long-term variability over a knife-edge diffraction path can be
+    estimated by convoluting the distributions of hourly medians for the two component
+    line-of-sight paths, and that short-term variations represented by space-wave
+    fadeouts are more prevalent when substantial phase interference due to ground
+    reflections in the vicinity of the terminal is likely to exist.
+series:
+- title:
+  - content: NBS report
+  number: '7652'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

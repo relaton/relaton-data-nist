@@ -1,0 +1,69 @@
+---
+id: NBSCRPL63
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Service range for air-to-ground communications at frequencies above 50
+    mc
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.CRPL.6-3
+docidentifier:
+- content: NBS CRPL 6-3
+  type: NIST
+  primary: true
+- content: NBS.CRPL.6-3
+  type: DOI
+date:
+- type: issued
+  at: '1951'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kirby, R. S.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Herstreit, J. W.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Norton, Kenneth A.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021015342
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Central Radio Propogation Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NBS Central Radio Propogation Laboratory Report; NBS CRPL Report
+  number: 6-3
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

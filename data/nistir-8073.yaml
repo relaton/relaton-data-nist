@@ -1,0 +1,73 @@
+---
+id: NISTIR8073
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Simulated sinewave testing of data acquisition systems using sine fitting
+    and discrete fourier transform methods part 1
+  type: title-main
+- language: en
+  script: Latn
+  content: frequency offset, random, quantization, and jitter noise
+  type: title-part
+- language: en
+  script: Latn
+  content: Simulated sinewave testing of data acquisition systems using sine fitting
+    and discrete fourier transform methods part 1 - frequency offset, random, quantization,
+    and jitter noise
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8073
+docidentifier:
+- content: NIST IR 8073
+  type: NIST
+  primary: true
+- content: NIST.IR.8073
+  type: DOI
+date:
+- type: issued
+  at: '2015'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Geist, Jon.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n87846691
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Afridi, M. Yaqub.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.)).
+    - content: Semiconductor and Dimensional Metrology Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2019028800
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8073'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

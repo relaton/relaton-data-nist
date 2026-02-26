@@ -1,0 +1,71 @@
+---
+id: NISTIR8211Upd12021
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: New software for the statistical analysis and qualification of NIST Charpy
+    verification specimen lots
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8211-upd
+docidentifier:
+- content: NIST IR 8211/Upd1-2021
+  type: NIST
+  primary: true
+- content: NIST.IR.8211-upd
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lucon, Enrico.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: New software, in the form of Microsoft Excel 2016 spreadsheets, has been
+    created for the analysis and qualification of Charpy Verification Lots, to be
+    used by personnel of the Charpy Verification Program at NIST in Boulder, Colorado.
+    The new spreadsheets replace the previously used statistical software (in SYSTAT
+    and R-code), adding a more detailed outlier analysis. Of the two spreadsheet templates,
+    the first one assesses the acceptability of a Charpy pilot or production lot by
+    calculating its sample size and identifying statistical outliers. The second spreadsheet
+    establishes the reference value of absorbed energy and the associated uncertainty
+    for the whole Charpy Verification Lot. Both spreadsheets have been checked and
+    validated against calculations performed on several lots by means of the previously
+    used R-language codes, which had been prepared by Jolene Splett of the Statistical
+    Engineering Division of NIST.
+relation:
+- type: updates
+  bibitem:
+    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x00000003805f9078>"
+    docidentifier:
+    - content: NIST IR 8211
+      type: NIST
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 8211-upd
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

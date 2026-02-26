@@ -1,0 +1,86 @@
+---
+id: NISTIR8033
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Deployment of unmanned aerial vehicles to Texas under and emergency certificate
+    of authorization
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8033
+docidentifier:
+- content: NIST IR 8033
+  type: NIST
+  primary: true
+- content: NIST.IR.8033
+  type: DOI
+date:
+- type: issued
+  at: '2014'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Maranghides, Alexander.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021139790
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hennig, Mike.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022028255
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Robinson, V. Gene,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2004010152
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jackson, Karen.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81064059
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    - content: Fire Research Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8033'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

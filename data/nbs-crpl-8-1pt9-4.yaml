@@ -1,0 +1,78 @@
+---
+id: NBSCRPL81pt94
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The microwave frequency standard at the Central Radio Propagation Laboratory
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.CRPL.8-1_9-4
+docidentifier:
+- content: NBS CRPL 8-1pt9-4
+  type: NIST
+  primary: true
+- content: NBS.CRPL.8-1_9-4
+  type: DOI
+date:
+- type: issued
+  at: '1947'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: George, W. D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nb2006020099
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lyons, H.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Freeman, J. J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n94054065
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Shaull, J. M.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Central Radio Propogation Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NBS Central Radio Propogation Laboratory Report; NBS CRPL Report
+  number: 8-1_9-4
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

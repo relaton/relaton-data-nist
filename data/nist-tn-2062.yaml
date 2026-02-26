@@ -1,0 +1,65 @@
+---
+id: NISTTN2062
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: On correlating mixed forest fuel bed fire spread data
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2062
+docidentifier:
+- content: NIST TN 2062
+  type: NIST
+  primary: true
+- content: NIST.TN.2062
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yang, Jiann C. (Jiann Chyuan)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2010118971
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: Mixing rules are proposed and used to correlate well-mixed forest fuel
+    bed fire spread data from the literature using the dimensionless correlations
+    previously developed for singlespecies forest fuel bed fire spread with the help
+    of dimensional analysis and the resulting dimensionless groups. The mixing rules
+    provide means to treat well-mixed fuels as pseudo single-species fuels. As a first
+    attempt with very limited experimental data, the dimensionless correlations for
+    single-species fuels may be applicable to mixed-species fuels with proper mixing
+    rules.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2062'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

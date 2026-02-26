@@ -1,0 +1,90 @@
+---
+id: NISTSP260165
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Calibrated overlay wafer standard
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-165
+docidentifier:
+- content: NIST SP 260-165
+  type: NIST
+  primary: true
+- content: NIST.SP.260-165
+  type: DOI
+date:
+- type: issued
+  at: '2007'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stocker, Michael T.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Silver, Richard M.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Attota, Ravikiran.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-0729-2435"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jun, Jay S.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.))
+abstract:
+- language: en
+  script: Latn
+  content: This document describes the physical characteristics of Standard Reference
+    Material SRM 5000, provides guidance for its use in calibrating overlay (OL) tools,
+    and gives information and precautions concerning its care and handling. Standard
+    Reference Material SRM 5000 was developed for use in calibrating OL tools. It
+    is a double-etched silicon on silicon 200 mm wafer with various OL targets. Five
+    Frame-in-Frame targets and five Bar-in-Bar targets on this wafer were calibrated.
+    This SRM makes possible traceable OL measurements in a customer s facility in
+    effect by comparisons of measurements on this wafer to the certified values provided
+    by the National Institute of Standards and Technology (NIST).A layout of the wafer
+    is presented to guide the user to the locations that contain the calibrated OL
+    targets. A discussion on calibration strategies is included to help the user decide
+    on the best way to use the SRM 5000. The NIST OL tool and certification technique
+    are described. The statistical performance of the system was evaluated by monitoring
+    values from a control wafer. The factors which contribute to the calibration uncertainty
+    are explained and evaluated.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 260-165
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

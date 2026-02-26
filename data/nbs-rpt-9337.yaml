@@ -1,0 +1,54 @@
+---
+id: NBSRPT9337
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Calibration of Air Force Calibration Laboratory blackbody furnaces
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.RPT.9337
+docidentifier:
+- content: NBS RPT 9337
+  type: NIST
+  primary: true
+- content: NBS.RPT.9337
+  type: DOI
+date:
+- type: issued
+  at: '1966'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hayes, Warren D., Jr.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Richmond, Joseph C.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NBS report
+  number: '9337'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,72 @@
+---
+id: NISTSP1190GB9
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guide brief 9
+  type: title-main
+- language: en
+  script: Latn
+  content: summarizing goals and objectives using performance goal tables
+  type: title-part
+- language: en
+  script: Latn
+  content: Guide brief 9 - summarizing goals and objectives using performance goal
+    tables
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1190GB-9
+docidentifier:
+- content: NIST SP 1190GB-9
+  type: NIST
+  primary: true
+- content: NIST.SP.1190GB-9
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McAllister, Therese.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nr2002021681
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: This Guide Brief reviews the performance goals tables used in Step 3 of
+    the Guide. These tables offer an approach to evaluate the anticipated recovery
+    of building clusters and infrastructure systems and the services they support.
+    The summary performance goals table gives community resilience planners a one-page
+    view of what the community needs from its buildings and infrastructure systems
+    when a routine, design, or extreme hazard event occurs.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1190GB-9
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

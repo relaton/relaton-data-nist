@@ -1,0 +1,80 @@
+---
+id: NISTGCR16001
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A conceptual framework for assessing resilience at the community scale
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.GCR.16-001
+docidentifier:
+- content: NIST GCR 16-001
+  type: NIST
+  primary: true
+- content: NIST.GCR.16-001
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kwasinksi, Alexis.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Trainor, Joseph.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88648336
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wolshon, P. Brian (Paul Brian)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no98069156
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lavelle, Francis M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022046325
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST GCR; NIST grant-contract report; NIST grant contract report
+  number: 16-001
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

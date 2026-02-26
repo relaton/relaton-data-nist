@@ -1,0 +1,70 @@
+---
+id: NISTTN2148
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Data reduction tool for spherical constant volume flame experiments
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2148
+docidentifier:
+- content: NIST TN 2148
+  type: NIST
+  primary: true
+- content: NIST.TN.2148
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hegetschweiler, Michael J.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Linteris, Gregory T.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: A data reduction tool was developed to conveniently post-process spherical
+    constant volume flame experiments. Such experiments are employed to obtain laminar
+    flame velocities in a premixed gas mixture. The setup is relatively simple and
+    the only recorded physical quantities are pressure and time. Under various model
+    assumption this so called pressure trace can be used to deduce the flame velocity.
+    Many such models with different levels of complexity are available in the literature.
+    One category of models are the shell models where the vessel content is divided
+    in grid shells and the flame history is reconstructed employing physical models.
+    Three of those shell models are implemented in the present tool. This technical
+    note describes the installation and provides a user guide with additional details
+    about the models and the algorithms. Its purpose is to help users efficiently
+    use the tool and obtain physically meaningful results.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2148'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

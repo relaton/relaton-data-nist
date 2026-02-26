@@ -1,0 +1,64 @@
+---
+id: NBSSP391
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Report of the 58th national conference on weights and measures 1973
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.391
+docidentifier:
+- content: NBS SP 391
+  type: NIST
+  primary: true
+- content: NBS.SP.391
+  type: DOI
+date:
+- type: issued
+  at: '1974'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wilson, Sandra J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022058001
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Smith, Richard N. (Richard Neilson),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81102393
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: '391'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

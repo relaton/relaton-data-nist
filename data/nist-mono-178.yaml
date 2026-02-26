@@ -1,0 +1,73 @@
+---
+id: NISTMONO178
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Speed of sound data and related models for mixtures of natural gas constituents
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.MONO.178
+docidentifier:
+- content: NIST MONO 178
+  type: NIST
+  primary: true
+- content: NIST.MONO.178
+  type: DOI
+date:
+- type: issued
+  at: '1993'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Younglove, Ben.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81130047
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Frederick, N. V. (Nolan Vincent)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n94119104
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McCarty, Robert D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81103507
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST monograph; NIST MONO
+  number: '178'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,88 @@
+---
+id: NISTSP80064r1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Security considerations in the information system development life cycle
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-64r1
+docidentifier:
+- content: NIST SP 800-64r1
+  type: NIST
+  primary: true
+- content: NIST.SP.800-64r1
+  type: DOI
+date:
+- type: issued
+  at: '2004'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grance, T.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hash, J.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stevens, M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n85081688
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: 'The need to provide protection for federal information systems has been
+    present since computers were first used. Including security early in the acquisition
+    process for an information system will usually result in less expensive and more
+    effective security than adding it to an operational system once it has entered
+    service. This guide presents a framework for incorporating security into all phases
+    of the information system development life cycle (SDLC) process, from initiation
+    to disposal. This document is a guide to help organizations select and acquire
+    cost-effective security controls by explaining how to include information system
+    security requirements in the SDLC.Five phases of a general SDLC are discussed
+    in this guide and include the following phases: initiation, acquisition/development,
+    implementation, operations/maintenance, and disposition. Each of these five phases
+    includes a minimum set of security steps needed to effectively incorporate security
+    into a system during its development. An organization will either use the general
+    SDLC described in this document or will have developed a tailored SDLC that meets
+    their specific needs. In either case, NIST recommends that organizations incorporate
+    the associated IT security steps of this general SDLC into their own development
+    process.'
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-64r1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

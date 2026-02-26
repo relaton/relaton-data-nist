@@ -1,0 +1,53 @@
+---
+id: NISTBSS179
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Building and fire research at NBS/NIST 1975-2000
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.BSS.179
+docidentifier:
+- content: NIST BSS 179
+  type: NIST
+  primary: true
+- content: NIST.BSS.179
+  type: DOI
+date:
+- type: issued
+  at: '2003'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wright, Richard N. (Richard Newport),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50028681
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NBS building science series; NBS building science; NBS BSS
+  number: '179'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

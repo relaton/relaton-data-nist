@@ -1,0 +1,52 @@
+---
+id: NBSSP377
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Index to the reports of the National Conference on Weights and Measures,
+    from the first to the fifty-sixth, 1905 to 1971
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.377
+docidentifier:
+- content: NBS SP 377
+  type: NIST
+  primary: true
+- content: NBS.SP.377
+  type: DOI
+date:
+- type: issued
+  at: '1973'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bell, Frances C.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: '377'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

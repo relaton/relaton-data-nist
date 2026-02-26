@@ -1,0 +1,86 @@
+---
+id: NISTTN2073
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guidebook for standards-based testing of radiation-detection systems
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2073
+docidentifier:
+- content: NIST TN 2073
+  type: NIST
+  primary: true
+- content: NIST.TN.2073
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pibida, Leticia.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022071928
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Forrester, C.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chiaro, P.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Potter, D.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.))
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2019028800
+abstract:
+- language: en
+  script: Latn
+  content: This guide describes the test setups and processes needed to perform standards-based
+    testing of radiological and nuclear detection systems. This guide is intended
+    to reduce the potential for misinterpretation of performance requirements, test
+    methods, and to improve uniformity of testing methods used at different testing
+    organizations. This guide does not address safety concerns, if any, associated
+    with its use. It is the responsibility of the user of this guide to establish
+    appropriate safety and health practices and determine the applicability of regulatory
+    limitations prior to use.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2073'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

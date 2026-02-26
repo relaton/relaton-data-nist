@@ -1,0 +1,75 @@
+---
+id: NISTHB1502e2019
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NVLAP Calibration Laboratories
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.HB.150-2-2019
+docidentifier:
+- content: NIST HB 150-2e2019
+  type: NIST
+  primary: true
+- content: NIST.HB.150-2-2019
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Belzer, Barbara.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Harper, Kari K.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Shodiya, Titilayo.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: National Institute of Standards and Technology.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: 'NIST Handbook 150-2, NVLAP Calibration Laboratories, presents the technical
+    requirements and guidance for the accreditation of laboratories under the NVLAP
+    Calibration Laboratories LAP. The 2019 edition of NIST Handbook 150-2 supersedes
+    and replaces the 2016 edition. The handbook was revised with the participation
+    of technical experts in the eight fields of calibration: dimensional, electromagnetics
+    dc/low frequency, electromagnetics rf/microwave frequency, time and frequency,
+    ionizing radiation, mechanical, optical radiation, and thermodynamic.'
+series:
+- title:
+  - content: NIST handbook; NIST HB
+  number: 150-2-2019
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

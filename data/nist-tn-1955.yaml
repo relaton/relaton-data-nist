@@ -1,0 +1,69 @@
+---
+id: NISTTN1955
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Mobile manipulator stability measurements
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1955
+docidentifier:
+- content: NIST TN 1955
+  type: NIST
+  primary: true
+- content: NIST.TN.1955
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bostelman, Roger V.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hong, Tsai.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: Mobile manipulators are being marketed for material handling and other
+    tasks. Manufacturers suggest the stability of the vehicle best when the onboard
+    loading tapers the centroid to the center of the wheelbase as the payload height
+    increases. Experiments were performed at NIST that verify this notion on an Adept
+    Lynx mobile robot with onboard Universal Robot UR5 manipulator. Results show that
+    cantilevered loads near the payload top height cause vehicle instability during
+    navigation that can roll the vehicle and cause off-path navigation. This paper
+    describes the stability experiments and results.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1955'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

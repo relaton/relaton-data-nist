@@ -1,0 +1,62 @@
+---
+id: NISTIR4950
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST scoring package user's guide
+  type: title-main
+- language: en
+  script: Latn
+  content: release 1.0
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST scoring package user's guide - release 1.0
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.4950
+docidentifier:
+- content: NIST IR 4950
+  type: NIST
+  primary: true
+- content: NIST.IR.4950
+  type: DOI
+date:
+- type: issued
+  at: '1992'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Garris, Michael D.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Janet, Stanley A.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '4950'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

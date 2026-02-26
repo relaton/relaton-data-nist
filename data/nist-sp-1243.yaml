@@ -1,0 +1,71 @@
+---
+id: NISTSP1243
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Obstacles to data sharing in public safety applications require more than
+    technical solutions alone
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1243
+docidentifier:
+- content: NIST SP 1243
+  type: NIST
+  primary: true
+- content: NIST.SP.1243
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Voss, Britta.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Communications Technology Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: First responders today can leverage large quantities of multimedia data
+    from a variety of sources within and outside their agencies, and the scope of
+    this data sharing is growing rapidly. This expansion in capabilities comes with
+    several technical challenges, such as the need for new interoperability standards
+    and software tools that can make sense of the deluge of data. But many of the
+    challenges facing public safety agencies using or considering implementing such
+    technologies are not primarily technical in nature. In areas of governance, policy,
+    and funding, new data sharing technologies exacerbate existing obstacles, such
+    as resource limitations, and create new ones, such as legal risks of cybersecurity
+    vulnerabilities. Through an analysis of responses to structured interviews with
+    first responders across the United States, we summarize the key non-technical
+    challenges facing public safety use of emerging data sharing technologies. Based
+    on the experiences and concerns shared by these first responders, we conclude
+    that addressing these challenges with research and development on technical solutions
+    may help ensure that these technologies deliver maximum benefit for emergency
+    response applications.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '1243'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

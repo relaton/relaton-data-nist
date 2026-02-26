@@ -1,0 +1,64 @@
+---
+id: NBSMONO4
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: CRPL exponential reference atmosphere
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.MONO.4
+docidentifier:
+- content: NBS MONO 4
+  type: NIST
+  primary: true
+- content: NBS.MONO.4
+  type: DOI
+date:
+- type: issued
+  at: '1959'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bean, B. R. (Bradford R.),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n90690082
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Thayer, G. D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020115877
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS monograph; NBS MONO
+  number: '4'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

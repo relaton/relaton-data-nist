@@ -1,0 +1,79 @@
+---
+id: NISTIR8305
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Survey of drone usage in public safety agencies
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8305
+docidentifier:
+- content: NIST IR 8305
+  type: NIST
+  primary: true
+- content: NIST.IR.8305
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nguyen, Hien V.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nb2019022060
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Manley, Terese W.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Saidi, Kamel S.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Communications Technology Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: The Public Safety Communications Research (PSCR) Division at the National
+    Institute of Standards and Technology (NIST) conducted a survey to explore ways
+    in which drones, or Unmanned Aircraft Systems (UAS), are currently being used
+    in public safety operations and identify potential opportunities for drones to
+    improve operations in the future. The participants of the survey included 183
+    first responders, and the responses were collected in the time period of April
+    through July 2019. The results and further analysis of the survey are explored
+    in this report.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8305'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

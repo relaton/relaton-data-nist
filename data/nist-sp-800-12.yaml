@@ -1,0 +1,85 @@
+---
+id: NISTSP80012
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: An introduction to computer security
+  type: title-main
+- language: en
+  script: Latn
+  content: the NIST handbook
+  type: title-part
+- language: en
+  script: Latn
+  content: An introduction to computer security - the NIST handbook
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-12
+docidentifier:
+- content: NIST SP 800-12
+  type: NIST
+  primary: true
+- content: NIST.SP.800-12
+  type: DOI
+date:
+- type: issued
+  at: '1995'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Guttman, Barbara.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n92114452
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Roback, Edward.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n96055382
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: This handbook provides assistance in securing computer-based resources
+    (including hardware, software, and information) by explaining important concepts,
+    cost considerations, and interrelationships of security controls. It illustrates
+    the benefits of security controls, the major techniques or approaches for each
+    control, and important related considerations. The handbook provides a broad overview
+    of computer security to help readers understand their computer security needs
+    and develop a sound approach to the selection of appropriate security controls.
+    It does not describe detailed steps necessary to implement a computer security
+    program, provide detailed implementation procedures for security controls, or
+    give guidance for auditing the security of specific systems.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-12
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

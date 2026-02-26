@@ -1,0 +1,74 @@
+---
+id: NISTIR8178r1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A guide to United States cosmetic products compliance requirements
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8178r1
+docidentifier:
+- content: NIST IR 8178r1
+  type: NIST
+  primary: true
+- content: NIST.IR.8178r1
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Benson, Lisa.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Reczek, Karen K.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: National Institute of Standards and Technology.
+abstract:
+- language: en
+  script: Latn
+  content: This guide addresses the compliance requirements for basic cosmetics and
+    soap. The Federal Food, Drug, and Cosmetic Act (FD&C Act) defines cosmetics as
+    articles intended to be rubbed, poured, sprinkled, or sprayed on, introduced into,
+    or otherwise applied to the human body ... for cleansing, beautifying, promoting
+    attractiveness, or altering the appearance (FD&C Act, sec. 201(i)). Cosmetic products
+    may include skin moisturizers, perfumes, lipsticks, fingernail polishes, eye and
+    facial make-up preparations, cleansing shampoos, permanent waves, hair colors,
+    and deodorants, as well as any substance that is intended for use as a component
+    of a cosmetic product.
+relation:
+- type: updates
+  bibitem:
+    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x000000017cd6ebb0>"
+    docidentifier:
+    - content: NIST IR 8178
+      type: NIST
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 8178r1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

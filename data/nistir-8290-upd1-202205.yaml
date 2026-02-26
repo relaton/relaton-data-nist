@@ -1,0 +1,69 @@
+---
+id: NISTIR8290Upd1202205
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: SCAP composer user guide
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8290-upd1
+docidentifier:
+- content: NIST IR 8290/Upd1-202205
+  type: NIST
+  primary: true
+- content: NIST.IR.8290-upd1
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lubell, Joshua.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: SCAP Composer is a software application from the National Institute of
+    Standards and Technology (NIST) for creating Security Content Automation Protocol
+    (SCAP pronounced ess-cap) source data stream collections. A source data stream
+    collection is a bundle of Extensible Markup Language (XML) documents, each of
+    which must be valid with respect to a schema defined in an SCAP component specification.
+    SCAP Composer's limited scope and small footprint make it easy to install, use,
+    and integrate with other SCAP content development tools. SCAP Composer uses the
+    DITA Open Toolkit, an open source publishing engine for content authored in the
+    Darwin Information Typing Architecture (DITA). SCAP Composer may be used with
+    the NIST SCAP Content Validation Tool to check the conformance of SCAP source
+    data stream components to content requirements and recommendations.
+relation:
+- type: updates
+  bibitem:
+    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x000000038ce1c4b0>"
+    docidentifier:
+    - content: NIST IR 8290
+      type: NIST
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 8290-upd1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

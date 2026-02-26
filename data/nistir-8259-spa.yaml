@@ -1,0 +1,93 @@
+---
+id: NISTIR8259spa
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Actividades fundamentales de ciberseguridad para los fabricantes de dispositivos
+    de IoT
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8259es
+docidentifier:
+- content: NIST IR 8259 spa
+  type: NIST
+  primary: true
+- content: NIST.IR.8259es
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fagan, Michael.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Megas, Katerina N.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, Karen.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Smith, Matthew.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Los dispositivos de internet de las cosas (IoT) suelen carecer de las capacidades
+    de ciberseguridad de dispositivo que los clientes (organizaciones y personas)
+    pueden usar para mitigar sus riesgos a la ciberseguridad. Los fabricantes pueden
+    ayudar a los clientes al hacer m s protegibles los dispositivos de IoT que fabrican
+    equip ndolos con la funcionalidad de ciberseguridad necesaria y proporcionando
+    a los clientes la informaci n relacionada con la ciberseguridad que necesitan.
+    Esta publicaci n describe las actividades recomendadas para la ciberseguridad
+    que los fabricantes deben considerar llevar a cabo antes de que sus dispositivos
+    de IoT se vendan a los clientes. Con estas actividades fundamentales de ciberseguridad,
+    los fabricantes pueden disminuir las iniciativas de ciberseguridad que necesitan
+    los clientes. A su vez, esto puede reducir la incidencia y gravedad de los peligros
+    para los dispositivos de IoT y de los ataques perpetrados con el uso de dispositivos
+    comprometidos.
+relation:
+- type: editionOf
+  bibitem:
+    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x000000038d2932f0>"
+    docidentifier:
+    - content: NIST IR 8259
+      type: NIST
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 8259es
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

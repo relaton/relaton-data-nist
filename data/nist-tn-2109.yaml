@@ -1,0 +1,119 @@
+---
+id: NISTTN2109
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Physical models and dimensional traceability of WR15 rectangular waveguide
+    standards for determining systematic uncertainties of calibrated scattering-parameters
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2109
+docidentifier:
+- content: NIST TN 2109
+  type: NIST
+  primary: true
+- content: NIST.TN.2109
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jargon, Jeffrey A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Williams, Dylan F.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stelson, Angela C.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Long, Christian J.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hagerstrom, Aaron M.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hale, Paul D.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stoup, John R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stanfield, Eric S.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ren, Wei.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Communications Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: In this report, we document the models and dimensional traceability of
+    our WR15 rectangular waveguide standards for performing multiline thru-reflect-line
+    calibrations from 50 GHz to 75 GHz using vector network analyzers. We identify
+    the equations used in our models of the transmission-line standards and present
+    a method for determining a waveguide s metal conductivity using a closed-form
+    solution relating it to the propagation constant. Next, we provide details of
+    the traceable dimensional measurements and associated uncertainties of our WR15
+    transmission line standards. And finally, we describe how our software, the NIST
+    Microwave Uncertainty Framework, is used to implement physical models of calibration
+    standards and propagate these systematic uncertainties to the calibrated scattering-parameters
+    of a device under test. We include a measurement example for illustrative purposes.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2109'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

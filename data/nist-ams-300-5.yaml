@@ -1,0 +1,77 @@
+---
+id: NISTAMS3005
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Model-based approach towards integrating manufacturing design and analysis
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.300-5
+docidentifier:
+- content: NIST AMS 300-5
+  type: NIST
+  primary: true
+- content: NIST.AMS.300-5
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Narayanan, Anantha,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2004088587
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lee, Yung-Tsun Tina.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-1134-2001"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: As internet technologies and cloud-based services evolve, a new market
+    structure is emerging across various industries, and particularly in the data-driven-analytics-services
+    industry. This could have a great impact in the smart manufacturing sector, where
+    highly capable and competitive services will be vying for clients. While data
+    analytics promises manufacturers new options for optimizing the capabilities of
+    their systems, it also forebodes challenges integrating with existing and legacy
+    systems across a variety of services and applications. To address these challenges,
+    we propose a modeling framework and a set of software components for connecting
+    independent cloud and third-party services to core manufacturing models. This
+    document describes the framework and its components.
+series:
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 300-5
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

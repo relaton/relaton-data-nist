@@ -1,0 +1,116 @@
+---
+id: NISTSP80066r1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: An introductory resource guide for implementing the Health Insurance Portability
+    and Accountability Act (HIPAA) security rule
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-66r1
+docidentifier:
+- content: NIST SP 800-66r1
+  type: NIST
+  primary: true
+- content: NIST.SP.800-66r1
+  type: DOI
+date:
+- type: issued
+  at: '2008'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scholl, M. A. (Martha A.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n95108546
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stine, K. M.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hash, J.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bowen, P.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Johnson, L. A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81012562
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Smith, C. D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82138100
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Steinberg, D. I.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: Special Publication 800-66 Rev. 1, An Introductory Resource Guide for Implementing
+    the Health Insurance Probability and Accountability Act (HIPAA) Security Rule,
+    which discusses security considerations and resources that may provide value when
+    implementing the requirements of the HIPAA Seucurity Rule, was written to help
+    educate readers about information security terms used in the HIPAA Security Rule
+    and to improve understanding of the meaning of the security standards set out
+    itn the Security Rule, direct readers to helpful information in other NIST publications
+    on individual topics the HIPAA Security Rule addresses, and aid readers in understanding
+    the security concepts discussed in the HIPAA Security Rule. This publication does
+    not supplement, replace, or supersede the HIPAA Security Rule itself.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-66r1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,167 @@
+---
+id: NISTSP80022
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A statistical test suite for random and pseudorandom number generators
+    for cryptographic applications
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-22
+docidentifier:
+- content: NIST SP 800-22
+  type: NIST
+  primary: true
+- content: NIST.SP.800-22
+  type: DOI
+date:
+- type: issued
+  at: '2000'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rukhin, Andrew L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no95033570
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sota, Juan.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nechvatal, James.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n92068615
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Smid, Miles.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barker, Elaine.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Leigh, Stefan.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Levenson, Mark.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nr97022987
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Vangel, Mark.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Banks, David.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n85157927
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Heckert, Alan.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022027346
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dray, James,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2013133815
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Vo, San.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022064536
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: This paper discusses some aspects of selecting and testing random and pseudorandom
+    number generators. The outputs of such generators may be used in many cryptographic
+    applications, such as the generation of key material. Generators suitable for
+    use in cryptographic applications may need to meet stronger requirements than
+    for other applications. In particular, their outputs must be unpredictable in
+    the absence of knowledge of the inputs. Some criteria for characterizing and selecting
+    appropriate generators are discussed in this document. The subject of statistical
+    testing and its relation to cryptanalysis is also discussed, and some recommended
+    statistical tests are provided. These tests may be useful as a first step in determining
+    whether or not a generator is suitable for a particular cryptographic application.
+    However, no set of statistical tests can absolutely certify a generator as appropriate
+    for usage in a particular application, i.e., statistical testing cannot serve
+    as a substitute for cryptanalysis. The design and cryptanalysis of generators
+    is outside the scope of this paper.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-22
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

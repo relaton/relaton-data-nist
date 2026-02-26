@@ -1,0 +1,116 @@
+---
+id: NISTTN1854
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Monitoring techniques for the Net-Zero Energy Residential Test Facility
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1854
+docidentifier:
+- content: NIST TN 1854
+  type: NIST
+  primary: true
+- content: NIST.TN.1854
+  type: DOI
+date:
+- type: issued
+  at: '2014'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Davis, Mark.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n96116653
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Healy , William.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Boyd, Matthew.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021027369
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ng, Lisa.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Payne, Vance.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Skye, Harrison.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022084007
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ullah, Tania.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: 'NIST has constructed a Net-Zero Energy Residential Test Facility that
+    will be used as a testbed for investigating the measurement science related to
+    systems, components, and operations that will lead to homes that generate as much
+    energy over a course of a year through onsite renewable means as is consumed within
+    the facility. The facility contains hundreds of sensors that are used to monitor
+    the overall performance of the home along with its major systems: heating and
+    cooling, electrical, ventilation, hot water, lighting, and photovoltaics. Additionally,
+    approaches have been implemented to monitor the indoor thermal conditions, indoor
+    air quality, and outdoor conditions. This document describes the monitoring approaches
+    implemented in the facility to enable accurate measures of the performance of
+    the systems within the facility and the resulting indoor environmental quality.'
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1854'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

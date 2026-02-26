@@ -1,0 +1,81 @@
+---
+id: NISTAI1003
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The language of trustworthy AI
+  type: title-main
+- language: en
+  script: Latn
+  content: an in-depth glossary of terms
+  type: title-part
+- language: en
+  script: Latn
+  content: The language of trustworthy AI - an in-depth glossary of terms
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AI.100-3
+docidentifier:
+- content: NIST AI 100-3
+  type: NIST
+  primary: true
+- content: NIST.AI.100-3
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schwartz, Reva.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-9012-6306"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fontana, Peter C.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-1101-2010"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The NIST (National Institute of Standards and Technology) glossary of terms
+    related to trustworthy and responsible artificial intelligence (AI) and machine
+    learning (ML) intends to promote a common understanding and effective communication
+    among individuals and organizations seeking to operationalize trustworthy and
+    responsible AI through approaches such as the NIST AI Risk Management Framework
+    (AI RMF). The glossary, like the AI RMF, is non-sector specific and use-case agnostic,
+    designed to be flexible for all organizations and sectors of society to use. The
+    continuing aim of the glossary is to provide a common language to improve discussions
+    related to AI and to increase their effectiveness and efficiency.
+series:
+- title:
+  - content: NIST trustworthy and responsible AI; NIST AI
+  number: 100-3
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

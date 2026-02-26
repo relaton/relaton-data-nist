@@ -1,0 +1,74 @@
+---
+id: NISTTN2144
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Evaluation of timers related to ProSe-based UE-to-network relays
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2144
+docidentifier:
+- content: NIST TN 2144
+  type: NIST
+  primary: true
+- content: NIST.TN.2144
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ben Mosbah, Aziza.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gamboa, Samantha.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rouil, Richard.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Communications Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: User Equipment (UE)-to-Network Relay functionality was introduced in Release
+    13 of the Third Generation Partnership Project (3GPP) Long Term Evolution (LTE)
+    to extend and improve user connectivity using the sidelink (SL) channels. The
+    UE-to-Network Relay signalling allows the establishment and maintenance of a direct
+    connection between the relay UE and the remote UE. Different procedures and timers
+    are linked to these processes. In this paper, we focus on describing and evaluating
+    the PC5 Signalling Protocol performance through system-level simulations. We also
+    propose recommended timer values to increase the probability of successfully establishing
+    and maintaining the connection between a remote UE and a relay UE.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2144'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

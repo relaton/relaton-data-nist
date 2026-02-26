@@ -1,0 +1,110 @@
+---
+id: NISTTN1753
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Model based enterprise / technical data package
+  type: title-main
+- language: en
+  script: Latn
+  content: summit report
+  type: title-part
+- language: en
+  script: Latn
+  content: Model based enterprise / technical data package - summit report
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1753
+docidentifier:
+- content: NIST TN 1753
+  type: NIST
+  primary: true
+- content: NIST.TN.1753
+  type: DOI
+date:
+- type: issued
+  at: '2012'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lubell, Joshua.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021113187
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chen, Kenway.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Horst, John.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020102859
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Frechette, Simon.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021110725
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Huang, Paul,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015041998
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: This report summarizes the presentations, discussions and recommendations
+    of a workshop held at the National Institute of Standards and Technology in December
+    of 2011. The purpose of the workshop was to identify challenges, research, and
+    implementation issues in product design, manufacturing, and quality assurance
+    where a digital three-dimensional (3D) model of the product serves as the authoritative
+    information source for all activities in the product's lifecycle. The report includes
+    an overview of model-based engineering and its technical challenges, summaries
+    of the presentations given at the workshop, and conclusions that emerged from
+    the presentations and discussions.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1753'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

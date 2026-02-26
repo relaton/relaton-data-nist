@@ -1,0 +1,88 @@
+---
+id: NISTAMS30010
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Recommendations on ensuring traceability and trustworthiness of manufacturing-related
+    data
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.300-10
+docidentifier:
+- content: NIST AMS 300-10
+  type: NIST
+  primary: true
+- content: NIST.AMS.300-10
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hedberg, Thomas Jr.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Helu, Moneer.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Krima, Sylvere.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Feeney, Allison Barnard.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The purpose of this recommendations report is to provide practical how-to
+    guidance for ensuring traceability and trustworthiness of manufacturing-related
+    data. The recommendations contained herein address both subtractive and additive
+    manufacturing processes. Commercial-solution developers, technical-assessment
+    personnel, and interested end-users are the intended audience of this recommendations
+    report. Guidance for deploying a system, or set of systems, for ensuring traceability
+    and trustworthiness of manufacturing-related data is the scope of this recommendations
+    report. Data formats conforming to selected international, open, consensus-based
+    standards are in scope. Proprietary data formats are out of scope. File-based
+    and data-stream representations are in scope. Data collected from computer numerical
+    control subtractive fabrication processes (e.g., milling, turning) and CNC metal-forming
+    additive (e.g., directed-energy deposition, powder-bed fusion) fabrication processes
+    is in scope. Data collected from polymer-based additive processes, fiber-reinforced
+    plastic (FRP) composite processes, and mass-conserving fabrication processes (e.g.,
+    casting, forging) is out of scope.
+series:
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 300-10
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

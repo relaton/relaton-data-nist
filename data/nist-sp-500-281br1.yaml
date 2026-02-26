@@ -1,0 +1,84 @@
+---
+id: NISTSP500281Br1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: USGv6 test methods
+  type: title-main
+- language: en
+  script: Latn
+  content: general description and validation
+  type: title-part
+- language: en
+  script: Latn
+  content: USGv6 test methods - general description and validation
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.500-281Br1
+docidentifier:
+- content: NIST SP 500-281Br1
+  type: NIST
+  primary: true
+- content: NIST.SP.500-281Br1
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Montgomery, Doug.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Johnson, Erica.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Newcombe, Michayla.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Winters, Timothy.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+relation:
+- type: updates
+  bibitem:
+    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x000000039dd50570>"
+    docidentifier:
+    - content: NIST SP 500-281B
+      type: NIST
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 500-281Br1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

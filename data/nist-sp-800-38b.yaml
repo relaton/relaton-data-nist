@@ -1,0 +1,67 @@
+---
+id: NISTSP80038B
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Recommendation for block cipher modes of operation
+  type: title-main
+- language: en
+  script: Latn
+  content: the CMAC mode for authentication
+  type: title-part
+- language: en
+  script: Latn
+  content: Recommendation for block cipher modes of operation - the CMAC mode for
+    authentication
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-38b
+docidentifier:
+- content: NIST SP 800-38B
+  type: NIST
+  primary: true
+- content: NIST.SP.800-38b
+  type: DOI
+date:
+- type: issued
+  at: '2005'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dworkin, M. J.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation specifies a message authentication code (MAC) algorithm
+    based on a symmetric key block cipher. This block cipher-based MAC algorithm,
+    called CMAC, may be used to provide assurance of the authenticity and, hence,
+    the integrity of binary data.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-38b
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

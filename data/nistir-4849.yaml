@@ -1,0 +1,86 @@
+---
+id: NISTIR4849
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Workshop on characterizing diamond films
+  type: title-main
+- language: en
+  script: Latn
+  content: February 27, 28, 1992 Gaithersburg, MD
+  type: title-part
+- language: en
+  script: Latn
+  content: Workshop on characterizing diamond films - February 27, 28, 1992 Gaithersburg,
+    MD
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.4849
+docidentifier:
+- content: NIST IR 4849
+  type: NIST
+  primary: true
+- content: NIST.IR.4849
+  type: DOI
+date:
+- type: issued
+  at: '1992'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Feldman, Albert.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79100004
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Beetz, Charles P.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Drory, Michael.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Holly, Sandor,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80020024
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '4849'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

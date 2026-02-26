@@ -1,0 +1,55 @@
+---
+id: NBSHR13A
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Current hydraulic laboratory research in the United States
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.HR.1-3A
+docidentifier:
+- content: NBS HR 1-3A
+  type: NIST
+  primary: true
+- content: NBS.HR.1-3A
+  type: DOI
+date:
+- type: issued
+  at: '1933'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Bureau of Standards Hydraulic Laboratory.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: National Bureau of Standards Hydraulic Laboratory.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NBS Hydraulic Laboratory Bulletin Series A
+  number: 1-3A
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,91 @@
+---
+id: NBSIR863312
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: An architecture for distributed data management in computer integrated
+    manufacturing
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IR.86-3312
+docidentifier:
+- content: NBS IR 86-3312
+  type: NIST
+  primary: true
+- content: NBS.IR.86-3312
+  type: DOI
+date:
+- type: issued
+  at: '1986'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barkmeyer, Edward.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n86135755
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mitchell, Mary.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n86804471
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mikkilineni, Krishna P.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Su, Stanley Y. W.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n87840032
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lam, Herman.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n87935124
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NBSIR; NBS IR; NBS interagency report; NBS internal report
+  number: 86-3312
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

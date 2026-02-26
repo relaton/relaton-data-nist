@@ -1,0 +1,111 @@
+---
+id: NISTSP80030
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Risk management guide for information technology systems
+  type: title-main
+- language: en
+  script: Latn
+  content: recommendations of the National Institute of Standards and Technology
+  type: title-part
+- language: en
+  script: Latn
+  content: Risk management guide for information technology systems - recommendations
+    of the National Institute of Standards and Technology
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-30
+docidentifier:
+- content: NIST SP 800-30
+  type: NIST
+  primary: true
+- content: NIST.SP.800-30
+  type: DOI
+date:
+- type: issued
+  at: '2002'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stoneburner, Gary.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003057780
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Goguen, Alice.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003057765
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Feringa, Alexis.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003057768
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: Risk Management is the process of identifying risk, assessing risk, and
+    taking steps to reduce risk to an acceptable level. Organizations use risk assessment,
+    the first step in the risk management methodology, to determine the extent of
+    the potential threat, vulnerabilities, and the risk associated with an information
+    technology (IT) system. The output of this process helps to identify appropriate
+    controls for reducing or eliminating risk during the risk mitigation process,
+    the second step of risk management, which involves prioritizing, evaluating, and
+    implementing the appropriate risk-reducing controls recommended from the risk
+    assessment process.This guide provides a foundation for the development of an
+    effective risk management program, containing both the definitions and the practical
+    guidance necessary for assessing and mitigating risks identified within IT systems
+    throughout their system development life cycle (SDLC). The ultimate goal is to
+    help organizations to better manage IT-related mission risks.Organizations may
+    choose to expand or abbreviate the comprehensive processes and steps suggested
+    in this guide and tailor them to their site environment in managing IT-related
+    mission risks. In addition, this guide provides information on the selection of
+    cost-effective security controls. These controls can be used to mitigate risk
+    for the better protection of mission-critical information and the IT systems that
+    process, store, and carry this information.The third step in the process is continual
+    evaluation and assessment. In most organizations, IT systems will continually
+    be expanded and updated, their components changed, and their software applications
+    replaced or updated with newer versions. In addition, personnel changes will occur
+    and security policies are likely to change over time. These changes mean that
+    new risks will surface and risks previously mitigated may again become a concern.
+    Thus, the risk management process is ongoing and evolving.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-30
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

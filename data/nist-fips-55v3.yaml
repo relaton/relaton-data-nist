@@ -1,0 +1,52 @@
+---
+id: NISTFIPS55v3
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Codes for named pupulated places primary county divisions and other locational
+    entities (New Mexico - South Dakota)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.FIPS.55v3
+docidentifier:
+- content: NIST FIPS 55v3
+  type: NIST
+  primary: true
+- content: NIST.FIPS.55v3
+  type: DOI
+date:
+- type: issued
+  at: '1994'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: Federal information processing standards publication; FIPS
+  number: 55v3
+place:
+- city: Washington
+  region:
+  - iso: D
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

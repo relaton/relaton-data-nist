@@ -1,0 +1,78 @@
+---
+id: NISTTN2061
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Charpy interlaboratory comparison between NIST and the Beijing Institute
+    of Metrology (BIM)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2061
+docidentifier:
+- content: NIST TN 2061
+  type: NIST
+  primary: true
+- content: NIST.TN.2061
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lucon, Enrico.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015169004
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Santoyo, Raymond.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Material Measurement Laboratory (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012096740
+abstract:
+- language: en
+  script: Latn
+  content: The Beijing Institute of Metrology (BIM, China) and NIST have participated
+    in an interlaboratory comparison, in which reference Charpy specimens of three
+    energy levels were tested. Each laboratory tested 75 specimens supplied by the
+    other institute, 25 per energy level, at room temperature (21 [degrees]C +/- 1
+    [degree]C) and using an impact machine equipped with a 2 mm striker. The results
+    obtained show good to excellent agreement between BIM and NIST, except at the
+    low-energy level (20 J to 25 J), where NIST data obtained using a U type machine
+    were significantly higher than BIM data obtained using a C-type machine. Twenty-five
+    additional low- energy BIM specimens, tested by NIST using a C-type machine, showed
+    excellent consistency with BIM reference data and therefore confirmed that, for
+    low-energy specimens, the configuration of the swinging hammer may affect test
+    results, due to the different stiffness/compliance of the two machine types. A
+    similar, but unexpected, trend was observed for the NIST super-high-energy specimens,
+    and will need to be explained though further investigations.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2061'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

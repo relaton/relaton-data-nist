@@ -1,0 +1,55 @@
+---
+id: NBSBMS94
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Water permeability and weathering resistance of stucco-faced, gunite-faced,
+    and knap concrete-unit walls
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.BMS.94
+docidentifier:
+- content: NBS BMS 94
+  type: NIST
+  primary: true
+- content: NBS.BMS.94
+  type: DOI
+date:
+- type: issued
+  at: '1942'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fishburn, Cyrus Charles,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2018080970
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS building materials and structures report; NBS BMS
+  number: '94'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

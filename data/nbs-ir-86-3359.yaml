@@ -1,0 +1,64 @@
+---
+id: NBSIR863359
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Initial Graphics Exchange Specification (IGES), version 3.0
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IR.86-3359
+docidentifier:
+- content: NBS IR 86-3359
+  type: NIST
+  primary: true
+- content: NBS.IR.86-3359
+  type: DOI
+date:
+- type: issued
+  at: '1986'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Smith, Brad,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2011003585
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wellington, Joan.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83128511
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBSIR; NBS IR; NBS interagency report; NBS internal report
+  number: 86-3359
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

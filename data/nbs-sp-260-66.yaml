@@ -1,0 +1,71 @@
+---
+id: NBSSP26066
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Standard reference materials
+  type: title-main
+- language: en
+  script: Latn
+  content: didymium glass filters for calibrating the wavelength scale of spectrophotometers
+    - SRM 2009, 2010, 2013, and 2014
+  type: title-part
+- language: en
+  script: Latn
+  content: Standard reference materials - didymium glass filters for calibrating the
+    wavelength scale of spectrophotometers - SRM 2009, 2010, 2013, and 2014
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.260-66
+docidentifier:
+- content: NBS SP 260-66
+  type: NIST
+  primary: true
+- content: NBS.SP.260-66
+  type: DOI
+date:
+- type: issued
+  at: '1979'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Venable, Jr., William H.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Eckerle, Kenneth L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79148511
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: 260-66
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,55 @@
+---
+id: NBSCRPL71
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Preliminary instructions for obtaining and reducing manual ionospheric
+    records
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.CRPL.7-1
+docidentifier:
+- content: NBS CRPL 7-1
+  type: NIST
+  primary: true
+- content: NBS.CRPL.7-1
+  type: DOI
+date:
+- type: issued
+  at: '1947'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Morgan, A. H. (Alvin H.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88680771
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Central Radio Propogation Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NBS Central Radio Propogation Laboratory Report; NBS CRPL Report
+  number: 7-1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

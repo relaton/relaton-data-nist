@@ -1,0 +1,93 @@
+---
+id: NISTIR884010
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Relationship between appearance and protective durability and coatings
+  type: title-main
+- language: en
+  script: Latn
+  content: a literature review
+  type: title-part
+- language: en
+  script: Latn
+  content: Relationship between appearance and protective durability and coatings
+    - a literature review
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.88-4010
+docidentifier:
+- content: NIST IR 88-4010
+  type: NIST
+  primary: true
+- content: NIST.IR.88-4010
+  type: DOI
+date:
+- type: issued
+  at: '1988'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nguyen, T.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80111434
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Collins, B.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kaetzel, L.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Martin, J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79082575
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McKnight, M.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 88-4010
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

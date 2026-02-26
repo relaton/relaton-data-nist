@@ -1,0 +1,69 @@
+---
+id: NISTTN1926
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Energetics of small and moderate-scale gaseous pool fires
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1926
+docidentifier:
+- content: NIST TN 1926
+  type: NIST
+  primary: true
+- content: NIST.TN.1926
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hamins, Anthony,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n87136328
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: A series of measurements were made to characterize the global properties
+    of moderate-sized pool fires steadily burning in a quiescent environment. A wide
+    range of parameters were considered including lightly and heavily sooting hydrocarbon
+    fuels (methane, propane and acetylene), burners varying from 0.1 m to 1.0 m in
+    diameter, and total heat release rates from about 0.4 kW to 200 kW. These conditions
+    yielded flames that were 0.1 m to 2 m in mean height. Measurements were made characterizing
+    the time-averaged mass burning rate and the distributions of radiative heat flux
+    emitted. The data allowed determination of the fraction of the enthalpy released
+    as radiation, a key global parameter characterizing a fire. The heat feedback
+    to the fuel surface was modeled and compared to measurements. Hundreds of measurements
+    were made in scores of experiments, which were distilled into a handful of time-averaged
+    quantities per experiment.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1926'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,112 @@
+---
+id: NISTSP800116r1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guidelines for the use of PIV credentials in facility access
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-116r1
+docidentifier:
+- content: NIST SP 800-116r1
+  type: NIST
+  primary: true
+- content: NIST.SP.800-116r1
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ferraiolo, Hildegard.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7719-5999"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mehta, Ketan.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88161940
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ghadiali, Nabil.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022012589
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mohler, Jason.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022062236
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Johnson, Vincent.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nr2004023342
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brady, Steven.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021144974
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: This document provides best practice guidelines for integrating the PIV
+    Card with the physical access control systems (PACS) that authenticate the cardholders
+    in Federal facilities. Specifically, this document recommends a risk-based approach
+    for selecting appropriate PIV authentication mechanisms to manage physical access
+    to Federal government facilities and assets.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-116r1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

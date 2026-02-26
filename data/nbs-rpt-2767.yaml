@@ -1,0 +1,64 @@
+---
+id: NBSRPT2767
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Thermal conductivities of no. 430 stainless steel and 2S aluminum specimens
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.RPT.2767
+docidentifier:
+- content: NBS RPT 2767
+  type: NIST
+  primary: true
+- content: NBS.RPT.2767
+  type: DOI
+date:
+- type: issued
+  at: '1953'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Robinson, Henry E.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2019183937
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Katz, S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2010018156
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS report
+  number: '2767'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

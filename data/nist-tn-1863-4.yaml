@@ -1,0 +1,65 @@
+---
+id: NISTTN18634
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Assessment of first generation performance-based seismic design methods
+    for new steel buildings, volume 4
+  type: title-main
+- language: en
+  script: Latn
+  content: buckling-restrained braced frames
+  type: title-part
+- language: en
+  script: Latn
+  content: Assessment of first generation performance-based seismic design methods
+    for new steel buildings, volume 4 - buckling-restrained braced frames
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1863-4
+docidentifier:
+- content: NIST TN 1863-4
+  type: NIST
+  primary: true
+- content: NIST.TN.1863-4
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Speicher, Matthew S.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Harris III, John L.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: 1863-4
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

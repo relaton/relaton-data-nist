@@ -1,0 +1,96 @@
+---
+id: NISTIR883862
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Information resource dictionary system
+  type: title-main
+- language: en
+  script: Latn
+  content: an integration mechanism for product data exchange specification
+  type: title-part
+- language: en
+  script: Latn
+  content: Information resource dictionary system - an integration mechanism for product
+    data exchange specification
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.88-3862
+docidentifier:
+- content: NIST IR 88-3862
+  type: NIST
+  primary: true
+- content: NIST.IR.88-3862
+  type: DOI
+date:
+- type: issued
+  at: '1988'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bloom, Howard,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2005072139
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Furlani, Cita.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mitchell, Mary.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n86804471
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tyler, Joan.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jefferson, David.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n97092795
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 88-3862
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

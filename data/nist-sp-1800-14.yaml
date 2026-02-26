@@ -1,0 +1,106 @@
+---
+id: NISTSP180014
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Protecting the integrity of internet routing
+  type: title-main
+- language: en
+  script: Latn
+  content: border gateway protocol (BGP) route origin validation
+  type: title-part
+- language: en
+  script: Latn
+  content: Protecting the integrity of internet routing - border gateway protocol
+    (BGP) route origin validation
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1800-14
+docidentifier:
+- content: NIST SP 1800-14
+  type: NIST
+  primary: true
+- content: NIST.SP.1800-14
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Haag, William.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Montgomery, Doug.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no00013999
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barker, William C.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97036643
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tan, Allen.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: The Border Gateway Protocol (BGP) is the default routing protocol to route
+    traffic among internet domains. While BGP performs adequately in identifying viable
+    paths that reflect local routing policies and preferences to destinations, the
+    lack of built-in security allows the protocol to be exploited by route hijacking.
+    Route hijacking occurs when an entity accidentally or maliciously alters an intended
+    route. Such attacks can (1) deny access to internet services, (2) detour internet
+    traffic to permit eavesdropping and to facilitate on-path attacks on end points
+    (sites), (3) misdeliver internet network traffic to malicious end points, (4)
+    undermine internet protocol (IP) address-based reputation and filtering systems,
+    and (5) cause routing instability in the internet. This document describes a security
+    platform that demonstrates how to improve the security of inter-domain routing
+    traffic exchange. The platform provides route origin validation (ROV) by using
+    the Resource Public Key Infrastructure (RPKI) in a manner that mitigates some
+    misconfigurations and malicious attacks associated with route hijacking. The example
+    solutions and architectures presented here are based upon standards-based, open-source,
+    and commercially available products.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1800-14
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

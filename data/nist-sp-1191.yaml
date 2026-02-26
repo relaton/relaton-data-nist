@@ -1,0 +1,89 @@
+---
+id: NISTSP1191
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Research roadmap for smart fire fighting
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1191
+docidentifier:
+- content: NIST SP 1191
+  type: NIST
+  primary: true
+- content: NIST.SP.1191
+  type: DOI
+date:
+- type: issued
+  at: '2015'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grant, Casey.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2016154940
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hamins, Anthony,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n87136328
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bryner, Nelson.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jones, Albert.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2005176335
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Koepke, Galen.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    - content: Fire Research Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '1191'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,54 @@
+---
+id: NISTTN1669
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: An experimental and computational study of steel moment connections under
+    a column removal scenario
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1669
+docidentifier:
+- content: NIST TN 1669
+  type: NIST
+  primary: true
+- content: NIST.TN.1669
+  type: DOI
+date:
+- type: issued
+  at: '2010'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sadek, Fahim.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003083235
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1669'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,72 @@
+---
+id: NISTSP1120
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The NIST Center for Neutron Research
+  type: title-main
+- language: en
+  script: Latn
+  content: over 40 years serving NIST/NBS and the nation
+  type: title-part
+- language: en
+  script: Latn
+  content: The NIST Center for Neutron Research - over 40 years serving NIST/NBS and
+    the nation
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1120
+docidentifier:
+- content: NIST SP 1120
+  type: NIST
+  primary: true
+- content: NIST.SP.1120
+  type: DOI
+date:
+- type: issued
+  at: '2011'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rush, J. J. (John Joseph),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n89672603
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cappelletti, Ronald L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003057731
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '1120'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

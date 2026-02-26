@@ -1,0 +1,92 @@
+---
+id: NISTSP800211
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 2019 NIST/ITL Cybersecurity Program annual report
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-211
+docidentifier:
+- content: NIST SP 800-211
+  type: NIST
+  primary: true
+- content: NIST.SP.800-211
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: O'Reilly, Patrick D.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-8289-0390"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rigopoulos, Kristina G.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Feldman, Larry.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Witte, Gregory A.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+abstract:
+- language: en
+  script: Latn
+  content: 'During Fiscal Year 2019 (FY 2019), from October 1, 2018 through September
+    30, 2019, the NIST Information Technology Laboratory (ITL) Cybersecurity and Privacy
+    Program successfully responded to numerous challenges and opportunities in security
+    and privacy. This annual report highlights the FY 2019 research agenda and activities
+    for the ITL Cybersecurity and Privacy Program, including: the ongoing participation
+    and development of international standards; the enhancement of privacy and security
+    risk management models, including those for the protection of controlled unclassified
+    information (CUI), systems engineering and cyber resiliency, supply chains, and
+    mobile technologies; the continued advancement of cryptographic technologies,
+    including updates to Federal Information Processing Standard (FIPS) Publication
+    140-3, Security Requirements for Cryptographic Modules, and preparation for post-quantum
+    cryptographic methods; and improved infrastructure protection in areas such as
+    zero trust architectures and advanced networking security. NIST maintained a strong
+    focus on supporting small and medium-sized businesses (SMBs), including updates
+    to the Small Business Cybersecurity Corner website to make resources easier to
+    find and use, and drawing on contributed cybersecurity resources and feedback
+    received from federal partners and the public.'
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-211
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

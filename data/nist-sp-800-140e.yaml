@@ -1,0 +1,69 @@
+---
+id: NISTSP800140E
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: CMVP approved authentication mechanisms
+  type: title-main
+- language: en
+  script: Latn
+  content: CMVP validation authority requirements for ISO/IEC 19790:2012 Annex E and
+    ISO/IEC 24579:2017
+  type: title-part
+- language: en
+  script: Latn
+  content: CMVP approved authentication mechanisms - CMVP validation authority requirements
+    for ISO/IEC 19790:2012 Annex E and ISO/IEC 24579:2017
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-140E
+docidentifier:
+- content: NIST SP 800-140E
+  type: NIST
+  primary: true
+- content: NIST.SP.800-140E
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schaffer, Kim.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: NIST Special Publication (SP) 800-140E replaces the approved authentication
+    mechanism requirements of ISO/IEC 19790 Annex E. As a validation authority, the
+    Cryptographic Module Validation Program (CMVP) may supersede this Annex in its
+    entirety with its own list of approved authentication mechanisms. This document
+    supersedes ISO/IEC 19790 Annex E and ISO/IEC 24759 paragraph 6.17.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-140E
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

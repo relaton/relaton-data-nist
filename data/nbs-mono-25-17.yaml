@@ -1,0 +1,103 @@
+---
+id: NBSMONO2517
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Standard x-ray diffraction powder patterns
+  type: title-main
+- language: en
+  script: Latn
+  content: section 17- data for 54 substances
+  type: title-part
+- language: en
+  script: Latn
+  content: Standard x-ray diffraction powder patterns - section 17- data for 54 substances
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.MONO.25-17
+docidentifier:
+- content: NBS MONO 25-17
+  type: NIST
+  primary: true
+- content: NBS.MONO.25-17
+  type: DOI
+date:
+- type: issued
+  at: '1980'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Morris, Marlene C.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81112301
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McMurdie, Howard F.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82044746
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Evans, Eloise H.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Paretzkin, Boris.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hubbard, Camden R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Carmel, Simon J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2020068157
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS monograph; NBS MONO
+  number: 25-17
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

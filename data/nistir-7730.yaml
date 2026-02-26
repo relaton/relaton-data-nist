@@ -1,0 +1,71 @@
+---
+id: NISTIR7730
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Further studies of bootstrap variability for ROC analysis on large datasets
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7730
+docidentifier:
+- content: NIST IR 7730
+  type: NIST
+  primary: true
+- content: NIST.IR.7730
+  type: DOI
+date:
+- type: issued
+  at: '2010'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wu, Jin Chu.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020098846
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Martin, Alvin F.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kacker, Raghu N.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2013027210
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7730'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

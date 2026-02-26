@@ -1,0 +1,68 @@
+---
+id: NISTTN2119
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Estimating instrument performance
+  type: title-main
+- language: en
+  script: Latn
+  content: with confidence intervals and confidence bounds
+  type: title-part
+- language: en
+  script: Latn
+  content: Estimating instrument performance - with confidence intervals and confidence
+    bounds
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2119
+docidentifier:
+- content: NIST TN 2119
+  type: NIST
+  primary: true
+- content: NIST.TN.2119
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lu, Zhan-Qian John.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+abstract:
+- language: en
+  script: Latn
+  content: Instrument performance is evaluated through performing a set of tests,
+    and the test results determine whether the instrument meets or fails the standard
+    requirements. The performance test data are analyzed and usually point estimate
+    and confidence bounds are calculated, on which a testing decision is made. This
+    chapter provides recipes of statistical analysis of the test data, including estimation
+    of probability of detection or identification, or false alarm rate, and particularly
+    on how various confidence intervals and confidence bounds are computed based on
+    sound statistical principles.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2119'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

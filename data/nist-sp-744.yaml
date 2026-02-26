@@ -1,0 +1,73 @@
+---
+id: NISTSP744
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Formation of lubricating films at elevated temperatures from the gas phase
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.744
+docidentifier:
+- content: NIST SP 744
+  type: NIST
+  primary: true
+- content: NIST.SP.744
+  type: DOI
+date:
+- type: issued
+  at: '1988'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Klaus, E. Erwin (Elmer Erwin),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88259979
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Duda, J. L. (John L.),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79129141
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Naidu, S. K.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n90602512
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '744'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

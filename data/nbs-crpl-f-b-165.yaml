@@ -1,0 +1,60 @@
+---
+id: NBSCRPLFB165
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Solar-geophysical data
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.CRPL-F-B.165
+docidentifier:
+- content: NBS CRPL-F-B 165
+  type: NIST
+  primary: true
+- content: NBS.CRPL-F-B.165
+  type: DOI
+date:
+- type: issued
+  at: '1958'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Central Radio Propagation Laboratory (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50060786
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Central Radio Propagation Laboratory.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Central Radio Propagation Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: 'NBS Central Radio Propogation Laboratory-F, Part B: Solar-Geophysical
+      Data; CRPL-F-B'
+  number: '165'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

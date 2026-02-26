@@ -1,0 +1,62 @@
+---
+id: NBSIR822579
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Tables of energy deposition distributions in aluminum and copper irradiated
+    by point-monodirectional electron beams with energies from 1 to 60 MeV
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IR.82-2579
+docidentifier:
+- content: NBS IR 82-2579
+  type: NIST
+  primary: true
+- content: NBS.IR.82-2579
+  type: DOI
+date:
+- type: issued
+  at: '1982'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Berger, M. J.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Seltzer, Stephen M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82209458
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBSIR; NBS IR; NBS interagency report; NBS internal report
+  number: 82-2579
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

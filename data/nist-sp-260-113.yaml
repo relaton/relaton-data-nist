@@ -1,0 +1,73 @@
+---
+id: NISTSP260113
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Standard reference materials
+  type: title-main
+- language: en
+  script: Latn
+  content: description and use of a precision thermometer for the clinical laboratory,
+    SRM 934 (supersedes SP 260-48)
+  type: title-part
+- language: en
+  script: Latn
+  content: Standard reference materials - description and use of a precision thermometer
+    for the clinical laboratory, SRM 934 (supersedes SP 260-48)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-113
+docidentifier:
+- content: NIST SP 260-113
+  type: NIST
+  primary: true
+- content: NIST.SP.260-113
+  type: DOI
+date:
+- type: issued
+  at: '1990'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mangum, B. W.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84049362
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wise, Jacquelyn A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n85352113
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 260-113
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

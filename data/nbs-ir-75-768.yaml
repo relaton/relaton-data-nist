@@ -1,0 +1,71 @@
+---
+id: NBSIR75768
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Reevaluation of the densities of the four NBS silicon crystal standards
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IR.75-768
+docidentifier:
+- content: NBS IR 75-768
+  type: NIST
+  primary: true
+- content: NBS.IR.75-768
+  type: DOI
+date:
+- type: issued
+  at: '1975'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bowman, Henry A. (Henry Adelbert),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50042862
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schoonover, H. A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Carroll, C. L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88132650
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBSIR; NBS IR; NBS interagency report; NBS internal report
+  number: 75-768
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

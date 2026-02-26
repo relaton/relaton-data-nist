@@ -1,0 +1,62 @@
+---
+id: NISTTN2232
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Oxygen-Limited Fires Inside Under-Ventilated Enclosures (OLIVE-FIRE)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2232
+docidentifier:
+- content: NIST TN 2232
+  type: NIST
+  primary: true
+- content: NIST.TN.2232
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McGrattan, Kevin.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Leventon, Isaac.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: This report documents a series of fire experiments performed within steel
+    electrical enclosures. The objective is to validate a simple empirical model that
+    predicts the maximum heat release rate of a fire within a closed compartment as
+    a function of its ventilation openings.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2232'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

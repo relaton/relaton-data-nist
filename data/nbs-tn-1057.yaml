@@ -1,0 +1,55 @@
+---
+id: NBSTN1057
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Beam-profile measurement of laser pulses using a spatial filter to sample
+    the hermite modes for a string of pulses
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.TN.1057
+docidentifier:
+- content: NBS TN 1057
+  type: NIST
+  primary: true
+- content: NBS.TN.1057
+  type: DOI
+date:
+- type: issued
+  at: '1982'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Johnson, Eric Gunnar,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79044065
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS technical note; NBS tech note; NBS TN
+  number: '1057'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

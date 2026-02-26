@@ -1,0 +1,61 @@
+---
+id: NISTTN1809
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Exploratory study of airflow from SCBA exposed to elevated temperatures
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1809
+docidentifier:
+- content: NIST TN 1809
+  type: NIST
+  primary: true
+- content: NIST.TN.1809
+  type: DOI
+date:
+- type: issued
+  at: '2013'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Donnelly, Michelle.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021139801
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Putorti Jr., Anthony.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Fire Research Division, Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1809'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

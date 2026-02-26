@@ -1,0 +1,63 @@
+---
+id: NISTMONO180
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The Gage block handbook
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.MONO.180
+docidentifier:
+- content: NIST MONO 180
+  type: NIST
+  primary: true
+- content: NIST.MONO.180
+  type: DOI
+date:
+- type: issued
+  at: '1995'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Doiron, Ted.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n96003883
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Beers, John S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79062734
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST monograph; NIST MONO
+  number: '180'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

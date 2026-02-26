@@ -1,0 +1,106 @@
+---
+id: NISTSP80070r4
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: National checklist program for IT products
+  type: title-main
+- language: en
+  script: Latn
+  content: guidelines for checklist users and developers
+  type: title-part
+- language: en
+  script: Latn
+  content: National checklist program for IT products - guidelines for checklist users
+    and developers
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-70r4
+docidentifier:
+- content: NIST SP 800-70r4
+  type: NIST
+  primary: true
+- content: NIST.SP.800-70r4
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Quinn, Stephen D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2009169335
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Souppaya, Murugiah.
+    identifier:
+    - type: uri
+      content: 0000-0002-8055-8527
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cook, Melanie.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nr2001001957
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, Karen.
+    identifier:
+    - type: uri
+      content: 0000-0001-6334-9486
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: A security configuration checklist is a document that contains instructions
+    or procedures for configuring an information technology (IT) product to an operational
+    environment, for verifying that the product has been configured properly, and/or
+    for identifying unauthorized changes to the product. Using these checklists can
+    minimize the attack surface, reduce vulnerabilities, lessen the impact of successful
+    attacks, and identify changes that might otherwise go undetected. To facilitate
+    development of checklists and to make checklists more organized and usable, NIST
+    established the National Checklist Program (NCP). This publication explains how
+    to use the NCP to find and retrieve checklists, and it also describes the policies,
+    procedures, and general requirements for participation in the NCP.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-70r4
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

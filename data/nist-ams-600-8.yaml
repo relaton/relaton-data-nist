@@ -1,0 +1,73 @@
+---
+id: NISTAMS6008
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Manufacturing USA Institute evaluation
+  type: title-main
+- language: en
+  script: Latn
+  content: renewal process and performance standards
+  type: title-part
+- language: en
+  script: Latn
+  content: Manufacturing USA Institute evaluation - renewal process and performance
+    standards
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.600-8
+docidentifier:
+- content: NIST AMS 600-8
+  type: NIST
+  primary: true
+- content: NIST.AMS.600-8
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Office of Advanced Manufacturing.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Office of Advanced Manufacturing.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Office of Advanced Manufacturing.
+abstract:
+- language: en
+  script: Latn
+  content: The Manufacturing USA Program's 2019 reauthorization allows the National
+    Institute of Standards and Technology (NIST) to renew Manufacturing USA institute
+    support, subject to a rigorous merit review. Following an initial five to seven-year
+    cooperative agreement in which federal support must be cost-matched by at least
+    a 1:1 match of non-federal co-investment over the performance period of the award,
+    NIST-funded institutes are now eligible to apply for renewal of their support.
+    This document describes the institute renewal process, with a focus on the performance
+    standards for the merit review.
+series:
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 600-8
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

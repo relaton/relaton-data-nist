@@ -1,0 +1,55 @@
+---
+id: NBSSP40022
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Microelectronic test pattern NBS-3 for evaluating the resistivity-dopant
+    density relationship of silicon
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.400-22
+docidentifier:
+- content: NBS SP 400-22
+  type: NIST
+  primary: true
+- content: NBS.SP.400-22
+  type: DOI
+date:
+- type: issued
+  at: '1976'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Buehler, Martin G.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2008095481
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: 400-22
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

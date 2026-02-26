@@ -1,0 +1,79 @@
+---
+id: NISTGCR18015
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Extending and evaluating the model-based product definition
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.GCR.18-015
+docidentifier:
+- content: NIST GCR 18-015
+  type: NIST
+  primary: true
+- content: NIST.GCR.18-015
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hartman, Nathan W.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2009073729
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zahner, Jesse.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: Industrial practice is in a state of transition, away from the use of drawings
+    towards the use of annotated 3D CAD models as a means of communication. Working
+    as a representation of an object or a system, a model-based product definition
+    (MBD) is used to communicate information inside of a model-based enterprise (MBE).
+    Such an enterprise will find itself in a transitional state as well, moving away
+    from paper-based information sharing towards the use of model-based, digital product
+    data. This research investigation sought to identify the minimum information model
+    (MIM) -- the information elements necessary within an MBD to effectively employ
+    a model as a replacement for a technical drawing in specific workflows in the
+    product lifecycle. Over the course of this investigation, another phenomenon emerged
+    -- the common information model (CIM), which represents those information items
+    that are necessary for the workflows targeted in this study. As expounded upon
+    later in this report, the impacts of contextual domain knowledge on the implementation
+    of the common information model is what formed the minimum information model discovered
+    in this project.
+series:
+- title:
+  - content: NIST GCR; NIST grant-contract report; NIST grant contract report
+  number: 18-015
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

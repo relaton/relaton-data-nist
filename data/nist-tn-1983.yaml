@@ -1,0 +1,151 @@
+---
+id: NISTTN1983
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: National fire research laboratory commissioning project
+  type: title-main
+- language: en
+  script: Latn
+  content: testing steel beams under localized fire exposure
+  type: title-part
+- language: en
+  script: Latn
+  content: National fire research laboratory commissioning project - testing steel
+    beams under localized fire exposure
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1983
+docidentifier:
+- content: NIST TN 1983
+  type: NIST
+  primary: true
+- content: NIST.TN.1983
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Choe, Lisa.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021139159
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ramesh, Selvarajah,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2007044470
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hoehler, Matthew.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Seif, Mina.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021139146
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gross, John.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79112144
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zhang, Chao.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2001072344
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bundy, Matthew.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021146338
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: This report presents the experimental design and results of a series of
+    localized fire tests on structural steel I-shaped beams. A total of nine tests
+    were conducted in the National Fire Research Laboratory, including thermal tests
+    (Tests 1 through 5) and four-point bending tests at ambient (Test 6) and elevated
+    temperatures (Tests 7 through 9). The specimens were nominally 6.2-m long W16x26
+    beams made of ASTM A992 steel. Each specimen was vertically supported with either
+    a (i) simple support condition, or (ii) double-angles bolted to laterally braced
+    support columns. The thermally-loaded specimens were exposed to fire generated
+    using a natural gas burner. The burner had an area of 1 m2 and was located 1.1
+    m below the bottom flange of the beam at midspan. A four-point flexural loading
+    scheme was used to apply concentrated forces at two locations 2.44 m apart around
+    midspan. The recorded data included temperatures, heat release rates from the
+    burner, and structural measurements including forces, displacements and strains.
+    The repeatability of several measurements was evaluated. The test results indicated
+    that the heating rate of the specimen was sensitive to the prescribed heat release
+    rate versus time relationship used in each test. However, the thermal gradient
+    developed in the fire-exposed cross sections of the beam never achieved linearity
+    under the localized fire exposure. When the exposed (bottom) flange temperature
+    was maintained to 616 °C, the load-bearing capacity of the simply-supported beam
+    was reduced to 67 % of its room-temperature capacity. When the same simply-supported
+    beam was initially loaded to 67 % of its room-temperature capacity and then exposed
+    to a growing (t-squared) fire, the exposed flange temperature of the beam at failure
+    was 663 °C. When the beam specimen was supported by double-angle connections and
+    subjected to the same bending moment, its fire resistance (failure temperature)
+    was decreased to 90 % of that of the simply-supported beam. Regardless of the
+    connection types and fire conditions (steady-state or transient-state fire), the
+    beam specimens failed by lateral torsional buckling with rapidly increasing vertical
+    displacements.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1983'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

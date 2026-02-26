@@ -1,0 +1,88 @@
+---
+id: NISTTN1877
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Quantitative imaging of clinker and cement microstructure
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1877
+docidentifier:
+- content: NIST TN 1877
+  type: NIST
+  primary: true
+- content: NIST.TN.1877
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stutzman, Paul E.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2007151334
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bullard, Jeffrey F.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pan, Feng.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nr92020313
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: e combination of scanning electron microscopy (SEM) with X-ray microanalysis
+    and image processing provides a powerful ability to image and quantify microstructural
+    features of construction materials. is document provides guidance for collecting
+    backsca ered electron images and X-ray element maps of polished sections of Portland
+    cement clinker. It furnishes step-by-step procedures for processing image data
+    to produce segmentation of an image eld into its constituent mineral phases, and
+    describes ways use the segmented image to measure the abundance, surface area,
+    and spatial distribution of phases in the image eld. Inherent heterogeneity of
+    the microstructure implies that di erent image elds of the same material will
+    contain di erent phase abundances; the document suggests ways to estimate and
+    compensate for the heterogeneity length scale through statistical analysis of
+    multiple image elds. and analysis using a scanning electron microscope will be
+    illustrated using an example from the development of Standard Reference Materials
+    for portland cement clinker.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1877'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,63 @@
+---
+id: NBSIR771420v1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NBS minimal BASIC test programs- version 1 user's manual
+  type: title-main
+- language: en
+  script: Latn
+  content: volume 1- test system overview
+  type: title-part
+- language: en
+  script: Latn
+  content: NBS minimal BASIC test programs- version 1 user's manual - volume 1- test
+    system overview
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IR.77-1420-1
+docidentifier:
+- content: NBS IR 77-1420v1
+  type: NIST
+  primary: true
+- content: NBS.IR.77-1420-1
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gilsinn, David E.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sheppard, Charles L.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NBSIR; NBS IR; NIST interagency report; NIST internal report
+  number: 77-1420-1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

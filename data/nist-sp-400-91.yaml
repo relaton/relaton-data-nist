@@ -1,0 +1,64 @@
+---
+id: NISTSP40091
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A collection of computer programs for two-probe resistance (spreading resistance)
+    and four-probe resistance calculations, RESPAC
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.400-91
+docidentifier:
+- content: NIST SP 400-91
+  type: NIST
+  primary: true
+- content: NIST.SP.400-91
+  type: DOI
+date:
+- type: issued
+  at: '1993'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Albers, John.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84051924
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Berkowitz, Harry L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n96038445
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 400-91
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

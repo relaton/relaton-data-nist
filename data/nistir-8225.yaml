@@ -1,0 +1,101 @@
+---
+id: NISTIR8225
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST scientific foundation reviews
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8225
+docidentifier:
+- content: NIST IR 8225
+  type: NIST
+  primary: true
+- content: NIST.IR.8225
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Butler, John M.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Taylor, Melissa K.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Willis, Sheila.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Iyer, Hari.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Vallone, Peter M.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Press, Rich.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: National Institute of Standards and Technology.
+abstract:
+- language: en
+  script: Latn
+  content: The National Institute of Standards and Technology (NIST) is a scientific
+    research agency that works to advance measurement science, standards, and technology
+    and that has been working to strengthen forensic science methods for almost a
+    century. In recent years, several scientific advisory bodies [1-3] have expressed
+    the need for scientific foundation reviews of forensic disciplines and identified
+    NIST as an appropriate agency for conducting them. The purpose of a scientific
+    foundation review is to identify and document information supporting methods and
+    practices used in forensic analysis and to identify knowledge gaps where they
+    exist. Beginning in fiscal year 2018, Congress appropriated funds for NIST to
+    conduct scientific foundation reviews [4]. NIST has begun reviews of DNA mixture
+    interpretation, bitemark analysis, digital evidence, and firearms examination.
+    In addition to providing insights into these specific disciplines, the initial
+    reviews serve as pilot studies which will guide future efforts. This document
+    outlines NIST's approach to conducting scientific foundation reviews, including
+    data sources used, evaluation criteria, and expected outputs.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8225'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

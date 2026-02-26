@@ -1,0 +1,90 @@
+---
+id: NISTIR7055
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Advanced engineering environments for small manufacturing enterprises
+  type: title-main
+- language: en
+  script: Latn
+  content: volume I
+  type: title-part
+- language: en
+  script: Latn
+  content: Advanced engineering environments for small manufacturing enterprises -
+    volume I
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7055
+docidentifier:
+- content: NIST IR 7055
+  type: NIST
+  primary: true
+- content: NIST.IR.7055
+  type: DOI
+date:
+- type: issued
+  at: '2003'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fenves, Steven.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sriram, Ram.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Choi, Kelly,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2014113173
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Elm, Joseph P.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Robert, John E.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7055'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

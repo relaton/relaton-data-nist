@@ -1,0 +1,102 @@
+---
+id: NISTAMS10023
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Summary report on the industry forum for monitoring, diagnostics, and prognostics
+    for manufacturing operations
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-23
+docidentifier:
+- content: NIST AMS 100-23
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-23
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Weiss, Brian A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brundage, Michael.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2003014858
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tamm, Yannick.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Makila, Tommi.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pellegrino, Joan.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: 'The National Institute of Standards and Technology (NIST) hosted the Industry
+    Forum: Advanced Monitoring, Diagnostic, and Prognostic for Manufacturing Operations
+    on May 8- 11, 2018, on the NIST Gaithersburg (Maryland) campus. The purpose of
+    the Industry Forum was to discuss the current trends, successes, challenges, and
+    needs related to advanced monitoring, diagnostic, and prognostic technologies
+    (collectively known as Prognostics and Health Management (PHM)) for enhancing
+    maintenance and control strategies within manufacturing operations. The conclusion
+    of the event featured an American Society of Mechanical Engineers (ASME) Standards
+    meeting for the Advanced Monitoring, Diagnostics, and Prognostics for Manufacturing
+    Operations Subcommittee1 to prioritize work activities for standards and guidelines.
+    This report documents the four-day event, summarizing presentations and brainstorming
+    sessions, in addition to detailing the key priority topics for standards and guidelines.
+    The next steps in this effort are presented towards the end of this document,
+    including planning for the next standards meeting (which has since occurred in
+    October 2018 in Cincinnati, Ohio) and the 2019 Measurement and Evaluation for
+    Prognostics and Health Management in Manufacturing Forum (ME4PHM) workshop.'
+series:
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 100-23
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

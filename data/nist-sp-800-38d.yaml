@@ -1,0 +1,68 @@
+---
+id: NISTSP80038D
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Recommendation for block cipher modes of operation
+  type: title-main
+- language: en
+  script: Latn
+  content: Galois/Counter Mode (GCM) and GMAC
+  type: title-part
+- language: en
+  script: Latn
+  content: Recommendation for block cipher modes of operation - Galois/Counter Mode
+    (GCM) and GMAC
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-38d
+docidentifier:
+- content: NIST SP 800-38D
+  type: NIST
+  primary: true
+- content: NIST.SP.800-38d
+  type: DOI
+date:
+- type: issued
+  at: '2007'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dworkin, M. J.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation specifies the Galois/Counter Mode (GCM), an algorithm
+    for authenticated encryption with associated data, and its specialization, GMAC,
+    for generating a message authentication code (MAC) on data that is not encrypted.
+    GCM and GMAC are modes of operation for an underlying approved symmetric key block
+    cipher.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-38d
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

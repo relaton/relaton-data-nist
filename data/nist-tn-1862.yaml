@@ -1,0 +1,114 @@
+---
+id: NISTTN1862
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: gtklogger
+  type: title-main
+- language: en
+  script: Latn
+  content: a tool for systematically testing graphical user interfaces
+  type: title-part
+- language: en
+  script: Latn
+  content: gtklogger - a tool for systematically testing graphical user interfaces
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1862
+docidentifier:
+- content: NIST TN 1862
+  type: NIST
+  primary: true
+- content: NIST.TN.1862
+  type: DOI
+date:
+- type: issued
+  at: '2015'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Langer, Stephen A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021152985
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Congo, Yannick.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021152981
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Reid, Andrew C. E.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021152997
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lua, Rhonald C.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021152992
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Coffman, Valerie.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021152977
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
+    - content: Applied and Computational Mathematics Division.
+    - content: Mathematical and Computational Sciences Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015104603
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Material Measurement Laboratory (U.S.).
+    - content: Materials Science and Engineering Division.
+    - content: Metallurgy Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012096740
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1862'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

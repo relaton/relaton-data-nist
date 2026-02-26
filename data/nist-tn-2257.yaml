@@ -1,0 +1,73 @@
+---
+id: NISTTN2257
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A deep learning framework for industrial wireless networks
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2257
+docidentifier:
+- content: NIST TN 2257
+  type: NIST
+  primary: true
+- content: NIST.TN.2257
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hany, Mohamed.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-6619-3509"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Candell, Richard.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-6679-8823"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Communications Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: In this report, we introduce a framework to analyze, monitor, and identify
+    the state of industrial wireless networks and their impact on industrial use cases.
+    This framework is based on a deep learning approach for modeling the interactions
+    between the wireless network and industrial use cases. The framework uses the
+    information from different system layers including the spectrum measurements,
+    physical layer metrics, network layer packets, and application layer production-related
+    metrics in order to study the industrial wireless network behavior. The output
+    of the framework can be generally used to improve system management and optimization
+    functions.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2257'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

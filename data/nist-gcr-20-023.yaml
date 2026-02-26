@@ -1,0 +1,89 @@
+---
+id: NISTGCR20023
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Critical path method assessment of community recovery
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.GCR.20-023
+docidentifier:
+- content: NIST GCR 20-023
+  type: NIST
+  primary: true
+- content: NIST.GCR.20-023
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lavelle, Francis M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022046325
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Goodhue, Charles.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lyons, Douglas
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2016157026
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: 'The critical path method (CPM) is investigated as a tool for identifying
+    recovery activities that control the timeline for restoration of key community
+    functions in the wake of a major disruptive event, such as a hurricane or tornado.
+    Three recovery endpoints are studied: (1) restoring drinking water systems to
+    normal operations, (2) returning children to school, and (3) returning businesses
+    to normal operations. Interviews were conducted with individuals in seven communities
+    who led recovery efforts between 2011 and 2019. The primary goal was to identify
+    and document the sequence and duration of activities that would have delayed key
+    recovery milestones if they had started later or taken longer to complete. Within
+    each function, intermediate milestones are also identified, for example, students
+    returning to school in temporary modules or the partial reopening of a business.
+    Master tables for water, schools, and business are developed that summarize the
+    activities on the critical paths identified in each community. Several opportunities
+    to speed up the recovery process are identified, and issues relevant to the modeling
+    of community recovery are discussed.'
+series:
+- title:
+  - content: NIST GCR; NIST grant-contract report; NIST grant contract report
+  number: 20-023
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

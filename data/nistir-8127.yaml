@@ -1,0 +1,95 @@
+---
+id: NISTIR8127
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: End-to-end Quality Information Framework (QIF) technology survey
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8127
+docidentifier:
+- content: NIST IR 8127
+  type: NIST
+  primary: true
+- content: NIST.IR.8127
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Michaloski, John.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hedberg, Thomas M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n85306771
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Huang, Hui.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n86141765
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kramer, Thomas.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88277686
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: The goal of this paper is to understand how quality information characterizing
+    the manufactured parts can be reported in a XML standardized format. The Quality
+    Information Framework (QIF) is an ANSI standard sponsored by the Dimensional Metrology
+    Standards Consortium (DMSC) that defines an integrated set of XML information
+    models to enable the effective exchange of metrology data throughout the entire
+    manufacturing quality measurement process - from product design to inspection
+    planning to execution to analysis and reporting. The desire is that QIF will help
+    foster a pervasive digital thread throughout the product lifecycle contributing
+    to feedforward and feedback flow of quality information. The hope is that widespread
+    adoption of QIF will lead to better and more optimized part design and manufacturing
+    processes performance.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8127'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

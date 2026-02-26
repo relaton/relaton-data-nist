@@ -1,0 +1,94 @@
+---
+id: NBSSP26088
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Standard reference materials
+  type: title-main
+- language: en
+  script: Latn
+  content: 1982 compilation of elemental concentration data for NBS biological, geological,
+    and environmental standard reference materials
+  type: title-part
+- language: en
+  script: Latn
+  content: Standard reference materials - 1982 compilation of elemental concentration
+    data for NBS biological, geological, and environmental standard reference materials
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.260-88
+docidentifier:
+- content: NBS SP 260-88
+  type: NIST
+  primary: true
+- content: NBS.SP.260-88
+  type: DOI
+date:
+- type: issued
+  at: '1984'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Burns, C. E.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021146411
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gills, T. E. (Thomas E.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84021314
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Roelandts, I. (Iwan)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022077166
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gladney, Ernest S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82103660
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: 260-88
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

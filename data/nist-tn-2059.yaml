@@ -1,0 +1,86 @@
+---
+id: NISTTN2059
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST-NPL bilateral comparison of guarded-hot-plate laboratories from 20
+    °C to 160 °C
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2059
+docidentifier:
+- content: NIST TN 2059
+  type: NIST
+  primary: true
+- content: NIST.TN.2059
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zarr, Robert R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nb97058583
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wu, Jiyu.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Liu, Hung-Kung,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020085854
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: A bilateral study to compare guarded-hot-plate measurements at extended
+    temperatures between laboratories at the National Institute of Standards and Technology
+    (NIST) and the National Physical Laboratory (NPL) is presented. Measurements were
+    conducted in accordance with standardized test methods (ISO 8302 or ASTM C 177)
+    over a temperature range from 20 C̥ to 160 C̥ (293 K to 433 K). Following a blind
+    round-robin format, specimens of nonwoven fibrous glass mat, approximately 22
+    mm thick and having a nominal bulk density of 200 kg m-3 , were prepared and studied.
+    Results of the study show that the thermal conductivity measurements agree over
+    the temperature range of interest to within +/-1.0 %, or less. Consensus and individual
+    laboratory fits to the data as a function of mean temperature are presented graphically.
+    Sources of measurement variability are addressed.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2059'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,55 @@
+---
+id: NBSTN1150
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Mathematical models for the corrosion protective performance of organic
+    coatings
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.TN.1150
+docidentifier:
+- content: NBS TN 1150
+  type: NIST
+  primary: true
+- content: NBS.TN.1150
+  type: DOI
+date:
+- type: issued
+  at: '1982'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pommersheim, James M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82137329
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS technical note; NBS tech note; NBS TN
+  number: '1150'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

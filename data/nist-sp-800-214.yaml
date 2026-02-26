@@ -1,0 +1,81 @@
+---
+id: NISTSP800214
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 2020 cybersecurity and privacy annual report
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-214
+docidentifier:
+- content: NIST SP 800-214
+  type: NIST
+  primary: true
+- content: NIST.SP.800-214
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: O'Reilly, Patrick.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rigopoulos, Kristina.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Feldman, Larry.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Witte, Greg.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: 'During Fiscal Year 2020 (FY 2020), from October 1, 2019 through September
+    30, 2020, the NIST Information Technology Laboratory (ITL) Cybersecurity and Privacy
+    Program successfully responded to numerous challenges and opportunities in security
+    and privacy. The FY 2020 annual report is grouped into nine priority areas, including:
+    Cybersecurity Awareness and Education; Identity and Access Management; Metrics
+    and Measurement; Risk Management; Privacy Engineering; Emerging Technologies;
+    Cryptographic Standards and Validation; Trustworthy Networks and Trustworthy Platforms.
+    The report also includes specific projects of importance that don''t fall into
+    the focus areas.'
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-214
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

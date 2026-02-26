@@ -1,0 +1,87 @@
+---
+id: NBSRPT8359
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Evaluation of resistance strain gages at elevated temperatures
+  type: title-main
+- language: en
+  script: Latn
+  content: progress report no. 16
+  type: title-part
+- language: en
+  script: Latn
+  content: Evaluation of resistance strain gages at elevated temperatures - progress
+    report no. 16
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.RPT.8359
+docidentifier:
+- content: NBS RPT 8359
+  type: NIST
+  primary: true
+- content: NBS.RPT.8359
+  type: DOI
+date:
+- type: issued
+  at: '1964'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Trumbo, J. T.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bloss, R. L.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: Type FNW-FB-9-50-12 resistance strain gages, manufactured by the Baldwin-Lima-Hamilton
+    Corporation, were evaluated. The results of these tests indicate that the gage
+    factor for compressive loading is somewhat higher than for tensile loading; that
+    the gage factor decreases with increasing temperature by about one-half percent
+    per 100¿̐¿ F; that large errors can be expected when strains greater than 0.002
+    are measured; that the gages are well compensated for resistance instability;
+    that the temperature sensitivity is low and repeatable from gage to gage, but
+    the gage response is strongly affected by heating rate; and that the leakage resistance
+    is influenced by temperature and the thermal history of the gage.
+series:
+- title:
+  - content: NBS report
+  number: '8359'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

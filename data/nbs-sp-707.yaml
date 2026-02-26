@@ -1,0 +1,66 @@
+---
+id: NBSSP707
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Digital methods in waveform metrology
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.707
+docidentifier:
+- content: NBS SP 707
+  type: NIST
+  primary: true
+- content: NBS.SP.707
+  type: DOI
+date:
+- type: issued
+  at: '1985'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bell, B. A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81136285
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+abstract:
+- language: en
+  script: Latn
+  content: The special publication contains complete papers on the subjects presented
+    at the seminar, providing more of the technical details. For the sessions on Precisioin
+    Waveform Synthesis, Precision Waveform Sampling, and Data Converter Characterization,
+    six formal papers are given describing the hardware and software techniques used
+    for developing NBS laboratory standards and apparatus for testing ac sources and
+    voltmeters, phase angle meters, transient waveform recorders, wideband wattmeters,
+    and digital-to-analog and analog-to-digital converters. For the informal session
+    on Instrumentation Metrology, three subsequent papers have been written for publication
+    which are included for completeness in the Appendices.
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: '707'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

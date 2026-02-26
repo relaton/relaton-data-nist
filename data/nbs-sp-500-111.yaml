@@ -1,0 +1,54 @@
+---
+id: NBSSP500111
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Standardization issues for optical digital data disk (OD3) technology
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.500-111
+docidentifier:
+- content: NBS SP 500-111
+  type: NIST
+  primary: true
+- content: NBS.SP.500-111
+  type: DOI
+date:
+- type: issued
+  at: '1984'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Freedman, Jean B.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84051912
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: 500-111
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

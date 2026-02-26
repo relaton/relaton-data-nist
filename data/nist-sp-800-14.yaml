@@ -1,0 +1,78 @@
+---
+id: NISTSP80014
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Generally accepted principles and practices for securing information technology
+    systems
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-14
+docidentifier:
+- content: NIST SP 800-14
+  type: NIST
+  primary: true
+- content: NIST.SP.800-14
+  type: DOI
+date:
+- type: issued
+  at: '1996'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Swanson, Marianne.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n91015913
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Guttman, Barbara.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n92114452
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: As more organizations share information electronically, a common understanding
+    of what is needed and expected in securing information technology (IT) resources
+    is required. This document provides a baseline that organizations can use to establish
+    and review their IT security programs. The document gives a foundation that organizations
+    can reference when conducting multi-organizational business as well as internal
+    business. Management, internal auditors, users, system developers, and security
+    practioners can use the guideline to gain an understanding of the basic security
+    requirements most IT systems should contain. The foundation begins with generally
+    accepted system security principles and continues with common practices that are
+    used in securing IT systems.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-14
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,72 @@
+---
+id: NISTSP80026
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Security self-assessment guide for information technology systems
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-26
+docidentifier:
+- content: NIST SP 800-26
+  type: NIST
+  primary: true
+- content: NIST.SP.800-26
+  type: DOI
+date:
+- type: issued
+  at: '2001'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Swanson, Marianne.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n91015913
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: Self-assessments provide a method for agency officials to determine the
+    current status of their information security programs and, where necessary, establish
+    a target for improvement. This self-assessment guide utilizes an extensive questionnaire
+    containing specific control objectives and techniques against which an unclassified
+    system or group of interconnected systems can be tested and measured. The guide
+    does not establish new security requirements. The control objectives and techniques
+    are abstracted directly from long-standing requirements found in statute, policy,
+    and guidance on security. This document builds on the Federal IT Security Assessment
+    Framework (Framework) developed by NIST for the Federal Chief Information Officer
+    (CIO) Council. The Framework established the groundwork for standardizing on five
+    levels of security status and criteria agencies could use to determine if the
+    five levels were adequately implemented. This document provides guidance on applying
+    the Framework by identifying 17 control areas, such as those pertaining to identification
+    and authentication and contingency planning. In addition, the guide provides control
+    objectives and techniques that can be measured for each area.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-26
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

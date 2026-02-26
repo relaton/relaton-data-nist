@@ -1,0 +1,89 @@
+---
+id: NISTIR8280
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Face recognition vendor test part 3
+  type: title-main
+- language: en
+  script: Latn
+  content: demographic effects
+  type: title-part
+- language: en
+  script: Latn
+  content: Face recognition vendor test part 3 - demographic effects
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8280
+docidentifier:
+- content: NIST IR 8280
+  type: NIST
+  primary: true
+- content: NIST.IR.8280
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grother, Patrick J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2005043592
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ngan, Mei.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020151015
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hanaoka, Kayee.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: This is the third in a series of reports on ongoing face recognition vendor
+    tests (FRVT) executed by the National Institute of Standards and Technology (NIST).
+    The first two reports cover, respectively, the performance of one-to-one face
+    recognition algorithms used for verification of asserted identities, and performance
+    of one-to-many face recognition algorithms used for identification of individuals
+    in photo data bases. This document extends those evaluations to document accuracy
+    variations across demographic groups
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8280'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

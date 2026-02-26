@@ -1,0 +1,83 @@
+---
+id: NISTIR8180
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Method to improve point-based registration by restoring rigid-body condition
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8180
+docidentifier:
+- content: NIST IR 8180
+  type: NIST
+  primary: true
+- content: NIST.IR.8180
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Franaszek, Marek.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022010863
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cheok, Geraldine S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no89007530
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: The purpose of rigid-body registration is to find a rotation and translation
+    which transforms one coordinate frame to another. The procedure requires measurement
+    of common points (fiducials) in both frames. Noise and possible bias in the acquired
+    locations of fiducials adversely affect the quality of registration. While the
+    influence of noise can be mitigated by taking repeated measurements, bias remains
+    in the mean locations of fiducials and distorts the rigid-body condition. The
+    condition may be also violated when fiducials are attached to a non-rigid object.
+    We present a numerical method which calculates corrections in the locations of
+    measured fiducials and leads to the restoration of the rigid-body condition. Once
+    the registration transformation is calculated using the corrected fiducials, it
+    can be used to transform other points which are measured only in one coordinate
+    frame (target points). We estimate the corrections in these points by linearly
+    interpolating the corrections from neighboring fiducials. After interpolated corrections
+    are added to the target locations, there was a decrease in the target registration
+    error. The proposed method was evaluated using three different datasets acquired
+    with three different instruments.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8180'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

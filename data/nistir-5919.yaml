@@ -1,0 +1,78 @@
+---
+id: NISTIR5919
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A computer analysis of the moisture performance of roof constructions in
+    the U.S. DOE moisture control handbook
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.5919
+docidentifier:
+- content: NIST IR 5919
+  type: NIST
+  primary: true
+- content: NIST.IR.5919
+  type: DOI
+date:
+- type: issued
+  at: '1996'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tsongas, G. A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Thornton, B. A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Burch, D. M. (Douglas M.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82129070
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Walton, George N.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83143216
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '5919'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

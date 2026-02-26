@@ -1,0 +1,67 @@
+---
+id: NISTTN2196
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Instrumented Charpy tests at 77 K on 316L stainless steel welded plates
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2196
+docidentifier:
+- content: NIST TN 2196
+  type: NIST
+  primary: true
+- content: NIST.TN.2196
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lucon, Enrico.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Benzing, Jake.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: In the framework of a collaborative project between ASME, NASA, and NIST,
+    instrumented Charpy tests have been performed at liquid nitrogen temperature (77
+    K, or 196 C) on specimens extracted from the center of four 316L welded stainless
+    steel plates, each produced by a different vendor. Although the plates were produced
+    in accordance with the same specifications from the same material (316L), clear
+    differences in impact toughness have been observed, with the toughest welded plate
+    exhibiting more than twice the absorbed energy of the least tough. Besides impact
+    toughness, the availability of instrumented Charpy data has also allowed deriving
+    estimates of dynamic yield strength and shear fracture appearance.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2196'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

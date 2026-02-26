@@ -1,0 +1,64 @@
+---
+id: NISTIR7989
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Maturity model concepts for sustainable manufacturing
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7989
+docidentifier:
+- content: NIST IR 7989
+  type: NIST
+  primary: true
+- content: NIST.IR.7989
+  type: DOI
+date:
+- type: issued
+  at: '2014'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jaina, Sañjaya.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88000217
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rachuri, Sudarsan.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nb2005010837
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7989'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

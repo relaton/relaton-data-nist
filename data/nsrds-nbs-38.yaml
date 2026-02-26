@@ -1,0 +1,55 @@
+---
+id: NSRDSNBS38
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Critical review of ultraviolet photoabsorption cross sections for molecules
+    of astrophysical and aeronomic interest
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.NSRDS.38
+docidentifier:
+- content: NSRDS-NBS 38
+  type: NIST
+  primary: true
+- content: NBS.NSRDS.38
+  type: DOI
+date:
+- type: issued
+  at: '1971'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hudson, Robert D.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50069995
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NIST NSRDS; NSRDS-NIST; National standard reference data series
+  number: '38'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

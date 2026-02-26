@@ -1,0 +1,83 @@
+---
+id: NISTTN2152
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Neural networks for classifying probability distributions
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2152
+docidentifier:
+- content: NIST TN 2152
+  type: NIST
+  primary: true
+- content: NIST.TN.2152
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Khoussi, Siham.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Heckert, Alan.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Battou, Abdella.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bensalem, Saddek.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Probability distribution fitting of an unknown stochastic process is an
+    important preliminary step for any further analysis in science or engineering.
+    However, it requires some background in statistics and prior considerations of
+    the process or phenomenon under study. As such, this paper presents an alternative
+    approach which doesn't require prior knowledge of statistical methods nor previous
+    assumption on the available data. Instead, using Deep Learning, the correct distributional
+    model is extracted from the output of a neural network that was previously trained
+    on a large suitable dataset in order to classify any array of observations into
+    a matching distributional model. We find that our classifier can perform this
+    task comparably to using maximum likelihood estimation with an Anderson-Darling
+    goodness of fit.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2152'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

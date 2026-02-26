@@ -1,0 +1,88 @@
+---
+id: NISTIR8322
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Workshop summary report for "Building the Federal Profile for IoT Device
+    Cybersecurity" virtual workshop
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8322
+docidentifier:
+- content: NIST IR 8322
+  type: NIST
+  primary: true
+- content: NIST.IR.8322
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Megas, Katerina N.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-2815-5448"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fagan, Michael.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-1861-2609"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lemire, David.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This report summarizes the feedback received on the work of the NIST Cybersecurity
+    for IoT program on device cybersecurity at a virtual workshop in July 2020. NISTIR
+    8259, Foundational Cybersecurity Activities for IoT Device Manufacturers and NISTIR
+    8259A, IoT Device Cybersecurity Capability Core Baseline provide general guidance
+    on how manufacturers can understand and approach their role in supporting customers’
+    cybersecurity needs and goals. As discussed in those documents, specific sectors
+    and use cases may require more specific guidance than what is included in NISTIR
+    8259A’s core baseline for IoT devices. NIST conducted the virtual workshop “Building
+    the Federal Profile for IoT Device Cybersecurity” to discuss and gather community
+    input on the creation of a federal profile of the core baseline for use by federal
+    agencies. This publication provides a summary of the workshop. The baseline will
+    be published in NISTIR 8259D, Profile of the IoT Core Baseline for the Federal
+    Government.
+series:
+- title:
+  - content: NISTIR
+  number: '8322'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8322'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,73 @@
+---
+id: NISTSP25048
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Spectral reflectance
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.250-48
+docidentifier:
+- content: NIST SP 250-48
+  type: NIST
+  primary: true
+- content: NIST.SP.250-48
+  type: DOI
+date:
+- type: issued
+  at: '1998'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barnes, P. Yvonne.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003077724
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Early, Edward A. (Edward Allen),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003077732
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Parr, A. C. (Albert C.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n97109332
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 250-48
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

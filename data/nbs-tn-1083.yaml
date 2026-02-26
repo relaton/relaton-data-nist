@@ -1,0 +1,63 @@
+---
+id: NBSTN1083
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A radio-frequency power delivery system
+  type: title-main
+- language: en
+  script: Latn
+  content: procedures for error analysis and self-calibration
+  type: title-part
+- language: en
+  script: Latn
+  content: A radio-frequency power delivery system - procedures for error analysis
+    and self-calibration
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.TN.1083
+docidentifier:
+- content: NBS TN 1083
+  type: NIST
+  primary: true
+- content: NBS.TN.1083
+  type: DOI
+date:
+- type: issued
+  at: '1985'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kanda, Motohisa.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81115121
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS technical note; NBS tech note; NBS TN
+  number: '1083'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

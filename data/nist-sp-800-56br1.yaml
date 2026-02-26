@@ -1,0 +1,70 @@
+---
+id: NISTSP80056Br1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Recommendation for pair-wise key-establishment schemes using integer factorization
+    cryptography
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-56br1
+docidentifier:
+- content: NIST SP 800-56Br1
+  type: NIST
+  primary: true
+- content: NIST.SP.800-56br1
+  type: DOI
+date:
+- type: issued
+  at: '2014'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barker, Elaine.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chen, Lily.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Moody, Dustin,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2009199685
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2008015449
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-56br1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

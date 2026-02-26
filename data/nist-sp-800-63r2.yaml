@@ -1,0 +1,111 @@
+---
+id: NISTSP80063r2
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Electronic authentication guideline
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-63-2
+docidentifier:
+- content: NIST SP 800-63r2
+  type: NIST
+  primary: true
+- content: NIST.SP.800-63-2
+  type: DOI
+date:
+- type: issued
+  at: '2013'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Burr, William E.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n92081944
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dodson, Donna F.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021110726
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Newton, Elaine M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020149180
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Perlner, Ray A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022070257
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Polk, Tim,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n90727805
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gupta, Sabari.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nabbus, Emad A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022062457
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division, Information Technology Library.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-63-2
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

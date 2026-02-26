@@ -1,0 +1,54 @@
+---
+id: NBSSP574
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Basic optical properties of materials
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.574
+docidentifier:
+- content: NBS SP 574
+  type: NIST
+  primary: true
+- content: NBS.SP.574
+  type: DOI
+date:
+- type: issued
+  at: '1980'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Feldman, Albert.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79100004
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: '574'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

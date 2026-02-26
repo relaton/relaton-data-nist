@@ -1,0 +1,105 @@
+---
+id: NISTSP80016
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Information technology security training requirements
+  type: title-main
+- language: en
+  script: Latn
+  content: a role- and performance-based model
+  type: title-part
+- language: en
+  script: Latn
+  content: Information technology security training requirements - a role- and performance-based
+    model
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-16
+docidentifier:
+- content: NIST SP 800-16
+  type: NIST
+  primary: true
+- content: NIST.SP.800-16
+  type: DOI
+date:
+- type: issued
+  at: '1998'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wilson, Mark,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n85331008
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: De Zafra, Dorothea E.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no99037075
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pitcher, Sadie I.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tressler, John D.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ippolito, John B.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: This document supersedes NIST SP 500-172, Computer Security Training Guidelines,
+    published in 1989. The new document supports the Computer Security Act (Public
+    Law 100-235) and OMB Circular A-130 Appendix III requirements that NIST develop
+    and issue computer security training guidance. This publication presents a new
+    conceptual framework for providing information technology (IT) security training.
+    This framework includes the IT security training requirements appropriate for
+    today's distributed computing environment and provides flexibility for extension
+    to accommodate future technologies and the related risk management decisions.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-16
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

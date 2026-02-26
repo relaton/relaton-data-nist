@@ -1,0 +1,62 @@
+---
+id: NBSTN1156
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The CSA Weatherization demonstration data base
+  type: title-main
+- language: en
+  script: Latn
+  content: contents and descriptions
+  type: title-part
+- language: en
+  script: Latn
+  content: The CSA Weatherization demonstration data base - contents and descriptions
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.TN.1156
+docidentifier:
+- content: NBS TN 1156
+  type: NIST
+  primary: true
+- content: NBS.TN.1156
+  type: DOI
+date:
+- type: issued
+  at: '1982'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Clark, Roy E.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82157815
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS technical note; NBS tech note; NBS TN
+  number: '1156'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

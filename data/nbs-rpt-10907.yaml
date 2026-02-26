@@ -1,0 +1,79 @@
+---
+id: NBSRPT10907
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Electrolyte Data Center
+  type: title-main
+- language: en
+  script: Latn
+  content: scope and outline of activities
+  type: title-part
+- language: en
+  script: Latn
+  content: Electrolyte Data Center - scope and outline of activities
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.RPT.10907
+docidentifier:
+- content: NBS RPT 10907
+  type: NIST
+  primary: true
+- content: NBS.RPT.10907
+  type: DOI
+date:
+- type: issued
+  at: '1972'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nuttall, Ralph L.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Staples, B. R. (Bert R.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n85246909
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Armstrong, George Thomson,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81040759
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS report
+  number: '10907'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

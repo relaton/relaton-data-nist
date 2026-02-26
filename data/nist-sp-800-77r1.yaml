@@ -1,0 +1,102 @@
+---
+id: NISTSP80077r1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guide to IPsec VPNs
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-77r1
+docidentifier:
+- content: NIST SP 800-77r1
+  type: NIST
+  primary: true
+- content: NIST.SP.800-77r1
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barker, Elaine.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dang, Quynh.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Frankel, Sheila.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84053228
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, Karen.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2007017003
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wouters, Paul.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n92113329
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: Internet Protocol Security (IPsec) is a widely used network layer security
+    control for protecting communications. IPsec is a framework of open standards
+    for ensuring private communications over Internet Protocol (IP) networks. IPsec
+    configuration is usually performed using the Internet Key Exchange (IKE) protocol.
+    This publication provides practical guidance to organizations on implementing
+    security services based on IPsec so that they can mitigate the risks associated
+    with transmitting sensitive information across networks. The document focuses
+    on how IPsec provides network layer security services and how organizations can
+    implement IPsec and IKE to provide security under different circumstances. It
+    also describes alternatives to IPsec and discusses under what circumstances each
+    alternative may be appropriate.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-77r1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

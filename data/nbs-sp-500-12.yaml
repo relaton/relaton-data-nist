@@ -1,0 +1,54 @@
+---
+id: NBSSP50012
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Data compression
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.500-12
+docidentifier:
+- content: NBS SP 500-12
+  type: NIST
+  primary: true
+- content: NBS.SP.500-12
+  type: DOI
+date:
+- type: issued
+  at: '1977'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Aronson, Jules.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021139005
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: 500-12
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

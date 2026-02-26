@@ -1,0 +1,75 @@
+---
+id: NBSSP307
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Wolf-Rayet stars
+  type: title-main
+- language: en
+  script: Latn
+  content: proceedings of a symposium held at the Joint Institute for Laboratory Astrophysics,
+    University of Colorado, Boulder, Colorado, June 10-14, 1968
+  type: title-part
+- language: en
+  script: Latn
+  content: Wolf-Rayet stars - proceedings of a symposium held at the Joint Institute
+    for Laboratory Astrophysics, University of Colorado, Boulder, Colorado, June 10-14,
+    1968
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.307
+docidentifier:
+- content: NBS SP 307
+  type: NIST
+  primary: true
+- content: NBS.SP.307
+  type: DOI
+date:
+- type: issued
+  at: '1968'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gebbie, Katharine B.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n89668215
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Thomas, Richard N.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50010206
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: '307'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

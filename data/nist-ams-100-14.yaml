@@ -1,0 +1,80 @@
+---
+id: NISTAMS10014
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Prediction of solidification phases in Cr-Ni stainless steel alloys manufactured
+    by laser based powder bed fusion process
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-14
+docidentifier:
+- content: NIST AMS 100-14
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-14
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jacob, Gregor.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: The knowledge of material phases in chromium (Cr), nickel (Ni) stainless
+    steel alloys is sometimes important during parts and structures fabrication processed
+    with additive manufacturing (AM) technologies. Laser-based powder bed fusion (LPBF)
+    is one of these AM- process, which allowed to manufacture parts out of Cr-Ni stainless
+    steel alloys. Mechanical behavior and microstructure of these LPBF manufactured
+    steels are strongly dependent on their chemical composition and thermal conditions
+    during the LPBF process as well as during the post process treatment. This current
+    work is for users of laser-based PBF process to predict the material microstructure
+    in Cr-Ni stainless steel alloys manufactured in a PBF process and help to develop
+    guidelines for optimizing the microstructure in Cr-Ni stainless steel alloys and
+    help to develop and to improve their manufacture process. This work outlines the
+    use of established methods to predict the material microstructure of stainless
+    steel weld metals for Cr-Ni stainless steel alloys manufactured by laser based
+    Powder Bed Fusion Process. Predictions to the phase solidification in Cr-Ni stainless
+    steel alloys were shown with the calculation of the ration between the chromium
+    and nickel equivalent and inscribe these values into the phase reaction diagram
+    helps to predict whether the solidification in a Cr-Ni stainless steel occurs
+    either primary ferritic of austenitic. Inscribing these values of the chromium
+    and nickel equivalent into the Schaeffler and DeLong diagram showed a strong effect
+    of the nitrogen content, which led to a higher amount of retained austenite in
+    the material microstructure, when the nitrogen content in the additively manufactured
+    S17-4 PH increased. The stability of this retained austenite to decompose into
+    the Cr-Ni stainless steel phase, such as martensite and cementite could be quantified
+    with the calculation of the Md30 temperature and shown with the increase of the
+    hardness after the as manufactured
+series:
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 100-14
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

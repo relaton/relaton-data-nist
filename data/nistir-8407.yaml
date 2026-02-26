@@ -1,0 +1,80 @@
+---
+id: NISTIR8407
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Experiments to test the A-UGV capabilities standard
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8407
+docidentifier:
+- content: NIST IR 8407
+  type: NIST
+  primary: true
+- content: NIST.IR.8407
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yoon, Soocheol.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bostelman, Roger.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Virts, Ann.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Automatic, Automated, or Autonomous - Unmanned Ground Vehicles (A-UGVs),
+    as referred to by ASTM International Committee F45, are industrial vehicles that
+    have capabilities to navigate, dock, avoid obstacles, and interact with other
+    vehicles and systems all within intended environments (e.g., warehouses, hospitals,
+    outdoor facility perimeters) set by the manufacturer. A new ASTM F45 standard
+    is near the ballot stage to serve as a guide for providing a basis for A-UGV manufacturers
+    and users to compare capabilities between A-UGVs. The guide includes a report
+    for documenting that the user has proven or asserted a capability, not tested
+    the capability, or that the A-UGV does not have the capability. Although an infinite
+    number of A-UGV tests are possible, this paper provides three cases that test
+    the new standard where one case demonstrated in a complex dual-vehicles test,
+    several capabilities as written in the standard. Alternatively, two cases demonstrated
+    through experiments that A-UGV capabilities as written in the standard may need
+    improvements and as such, the paper provides recommendations for modifying the
+    standard.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8407'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

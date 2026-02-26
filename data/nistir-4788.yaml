@@ -1,0 +1,91 @@
+---
+id: NISTIR4788
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Development of characterization techniques for polyurethanes I. Characterization
+    of SRM 1480, a low molecular weight polyurethane for SEC calibration
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.4788
+docidentifier:
+- content: NIST IR 4788
+  type: NIST
+  primary: true
+- content: NIST.IR.4788
+  type: DOI
+date:
+- type: issued
+  at: '1992'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Guttman, Charles M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2001075880
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Maurey, J. R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021116846
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Verdier, Peter H.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79061221
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Han, Charles C.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n97024637
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wang, Francis W.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '4788'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

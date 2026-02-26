@@ -1,0 +1,67 @@
+---
+id: NISTTN1953
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Propane gas fire experiments in residential scale structures
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1953
+docidentifier:
+- content: NIST TN 1953
+  type: NIST
+  primary: true
+- content: NIST.TN.1953
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Willi, Joseph M.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: Nine full-scale fire experiments were conducted in two residential-scale
+    structures to study how different fire fighting tactics, specifically horizontal,
+    vertical, and positive pressure ventilation, affect the fire environment within
+    a structure. The fire source for each experiment was provided by three propane
+    burners. Five of the tests were conducted in a structure designed to simulate
+    a single-story residential structure, and four of the tests were conducted in
+    a structure designed to simulate a two-story residential structure. The structures
+    were instrumented with sensors to collect local measurements of temperature, gas
+    velocity, heat flux, and gas concentrations at various locations during the experiments.
+    Different doors and vents were opened and closed during the tests to simulate
+    horizontal and vertical ventilation. A PPV fan was also used during some of the
+    experiments to further affect the ventilation conditions. This report contains
+    detailed descriptions of the setup and procedure used for each of the nine experiments.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1953'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

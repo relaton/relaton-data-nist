@@ -1,0 +1,75 @@
+---
+id: NISTIR8217
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Shape analysis, Lebesgue integration and absolute continuity connections
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8217
+docidentifier:
+- content: NIST IR 8217
+  type: NIST
+  primary: true
+- content: NIST.IR.8217
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bernal, Javier.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n89673385
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: As shape analysis of the form presented in Srivastava and Klassen s textbook
+    Functional and Shape Data Analysis is intricately related to Lebesgue integration
+    and absolute continuity, it is advantageous to have a good grasp of the latter
+    two notions. Accordingly, in these notes we review basic concepts and results
+    about Lebesgue integra- tion and absolute continuity. In particular, we review
+    fundamen- tal results connecting them to each other and to the kind of shape analysis,
+    or more generally, functional data analysis presented in the aforemetioned textbook,
+    in the process shedding light on important aspects of all three notions. Many
+    well-known results, especially most results about Lebesgue integration and some
+    results about absolute continuity, are presented without proofs. However, a good
+    number of results about absolute continuity and most results about functional
+    data and shape analysis are presented with proofs. Actually, most missing proofs
+    can be found in Royden s Real Analysis and Rudin s Principles of Mathematical
+    Analysis as it is on these textbooks and Srivastava and Klassen s textbook that
+    a good portion of these notes are based. However, if the proof of a result does
+    not appear in the aforementioned textbooks, nor in some other known publication,
+    or if all by itself it could be of value to the reader, an effort has been made
+    to present it accordingly.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8217'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

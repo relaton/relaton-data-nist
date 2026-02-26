@@ -1,0 +1,66 @@
+---
+id: NISTAMS10053
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Thermography of single line scans performed on the commercial powder bed
+    fusion machine for the Additive Manufacturing Benchmark Test Series (AM-Bench
+    2018)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-53
+docidentifier:
+- content: NIST AMS 100-53
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-53
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Heigel, Jared C.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-3231-8542"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This document provides details on the files available in the dataset "In
+    situ thermographic measurements of single line scans performed for the Additive
+    Manufacturing Benchmark Test Series (AM-Bench 2018)." These measurements are performed
+    as part of the Additive Manufacturing Benchmark Test Series (AMBench) supporting
+    the melt pool geometry (length) and cooling rate challenges (CHAL-AMB2018-02-MP-Length
+    and CHAL-AMB2018-02-CR). The following sections provided details on the experiments
+    and data files.
+series:
+- title:
+  - content: NIST advanced manufacturing series
+  number: 100-53
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 100-53
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

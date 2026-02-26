@@ -1,0 +1,82 @@
+---
+id: NISTIR7068
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Deposition rates of fine and course particles in residential buildings
+  type: title-main
+- language: en
+  script: Latn
+  content: literature review and measurements in an occupied townhouse
+  type: title-part
+- language: en
+  script: Latn
+  content: Deposition rates of fine and course particles in residential buildings
+    - literature review and measurements in an occupied townhouse
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7068
+docidentifier:
+- content: NIST IR 7068
+  type: NIST
+  primary: true
+- content: NIST.IR.7068
+  type: DOI
+date:
+- type: issued
+  at: '2003'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Howard-Reed, Cynthia.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022030653
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wallace, Lance,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n87151897
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Emmerich, Steven J. (Steven John)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003076634
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7068'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

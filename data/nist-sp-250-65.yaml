@@ -1,0 +1,100 @@
+---
+id: NISTSP25065
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Heat-flux sensor calibration
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.250-65
+docidentifier:
+- content: NIST SP 250-65
+  type: NIST
+  primary: true
+- content: NIST.SP.250-65
+  type: DOI
+date:
+- type: issued
+  at: '2004'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tsai, Benjamin K.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2008166626
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gibson, Charles E.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022012652
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Murthy, Annageri V.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Early, Edward A. (Edward Allen),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003077732
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: DeWitt, David P.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50003117
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Saunders, Robert D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88133345
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 250-65
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

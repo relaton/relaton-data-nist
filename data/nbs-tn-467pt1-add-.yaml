@@ -1,0 +1,90 @@
+---
+id: NBSTN467pt1Add
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Activation analysis
+  type: title-main
+- language: en
+  script: Latn
+  content: a bibliography (part 1, addendum 1-issued December 1969)
+  type: title-part
+- language: en
+  script: Latn
+  content: Activation analysis - a bibliography (part 1, addendum 1-issued December
+    1969)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.TN.467p1adde1
+docidentifier:
+- content: NBS TN 467pt1 Add.
+  type: NIST
+  primary: true
+- content: NBS.TN.467p1adde1
+  type: DOI
+date:
+- type: issued
+  at: '1969'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lutz, G. J. (George John),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50043099
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Boreni, R. J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80082770
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Maddock, R. S.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Meinke, W. Wayne.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n89667093
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS technical note; NBS tech note; NBS TN
+  number: 467p1adde1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

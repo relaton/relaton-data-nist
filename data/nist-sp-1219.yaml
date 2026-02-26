@@ -1,0 +1,88 @@
+---
+id: NISTSP1219
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Future generation wireless research and development gaps report
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1219
+docidentifier:
+- content: NIST SP 1219
+  type: NIST
+  primary: true
+- content: NIST.SP.1219
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Golmie, Nada.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nb2007021499
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cypher, David.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Leh, Marc.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022047038
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ziegler, Darcy.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Communications Technology Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: This report identifies and describes several of the most significant gaps
+    within various components of the wireless industry. This report is intended to
+    serve solely as a knowledge product that recognizes the major challenges facing
+    the broader research community, and does not prescribe to make R&D recommendations
+    in light of specific organizations, initiatives, or standards development efforts.
+    The data presented in this report was gathered through market research, a series
+    of stakeholder interviews, and public working group meetings.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '1219'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

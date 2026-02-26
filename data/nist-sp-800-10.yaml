@@ -1,0 +1,83 @@
+---
+id: NISTSP80010
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Keeping your site comfortably secure
+  type: title-main
+- language: en
+  script: Latn
+  content: an introduction to Internet firewalls
+  type: title-part
+- language: en
+  script: Latn
+  content: Keeping your site comfortably secure - an introduction to Internet firewalls
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-10
+docidentifier:
+- content: NIST SP 800-10
+  type: NIST
+  primary: true
+- content: NIST.SP.800-10
+  type: DOI
+date:
+- type: issued
+  at: '1994'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wack, John P.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n92009380
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Carnahan, Lisa J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n92009383
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: This document provides an overview of the Internet and security-related
+    problems. It then provides an overview of firewall components and the general
+    reasoning behind firewall usage. Several types of network access policies are
+    described, as well as technical implementations of those policies. Lastly, the
+    document contains pointers and references for more detailed information. The document
+    is designed to assist users in understanding the nature of Internet-related security
+    problems and what types of firewalls will solve or alleviate specific problems.
+    Users can then use this document to assist in purchasing or planning a firewall.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-10
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

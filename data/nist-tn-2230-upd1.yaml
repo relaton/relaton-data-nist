@@ -1,0 +1,106 @@
+---
+id: NISTTN2230Upd1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Fracture toughness tests at 77 K and 4 K on 316L stainless steel welded
+    plates
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2230-upd1
+docidentifier:
+- content: NIST TN 2230/Upd1
+  type: NIST
+  primary: true
+- content: NIST.TN.2230-upd1
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Benzing, Jake.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7266-870X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Derimow, Nick.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-7526-1836"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lucon, Enrico.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3021-4785"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Weeks, Timothy.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-8553-2505"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: In the framework of a collaborative project between ASME, NASA, and NIST,
+    quasi-static fracture toughness tests have been performed at liquid nitrogen temperature
+    (77 K, or -196 °C) and liquid helium temperature (4 K, or -269 °C) on weld specimens
+    extracted from the centers of four 316L welded stainless steel plates, each produced
+    by a different vendor. Although the plates were produced in accordance with the
+    same specifications from the same material (316L), large differences in fracture
+    toughness have been observed, with the best weld (W2) exhibiting almost twice
+    the critical toughness of the worst (W1) at 77 K (219 kJ/m2 vs. 113 kJ/m2), and
+    about seven times the critical toughness of W1 at 4 K (146 kJ/m2 as compared to
+    21 kJ/m2). The Charpy absorbed energies recorded at 77 K for three of the welds
+    within the same project were found to be strongly linearly correlated with fracture
+    toughness at both test temperatures. The exception was weld W4, which provided
+    the highest impact toughness and the second lowest quasi-static fracture toughness
+    (stable crack initiation and resistance to crack propagation).
+relation:
+- type: updates
+  bibitem:
+    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x000000038f397be0>"
+    docidentifier:
+    - content: NIST TN 2230
+      type: NIST
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: 2230-upd1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

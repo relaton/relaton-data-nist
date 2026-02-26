@@ -1,0 +1,63 @@
+---
+id: NISTIR904258
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The evaluation of thermal bridges using a mobile test facility
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.90-4258
+docidentifier:
+- content: NIST IR 90-4258
+  type: NIST
+  primary: true
+- content: NIST.IR.90-4258
+  type: DOI
+date:
+- type: issued
+  at: '1990'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fang, J. B.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81131085
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grot, Richard A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82132653
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 90-4258
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

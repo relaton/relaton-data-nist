@@ -1,0 +1,112 @@
+---
+id: NISTTN2027
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Retro-commissioning a performing arts center using HVAC-Cx
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2027
+docidentifier:
+- content: NIST TN 2027
+  type: NIST
+  primary: true
+- content: NIST.TN.2027
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Milesi Ferretti, Natascha.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Galler, Michael A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2007101805
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bushby, Steven T.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021107279
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Leader, Robert W.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003074223
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Whitcomb, J. Michael.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rush, David W.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: This report presents the use of a semi-automated commissioning tool for
+    the energy retrocommissioning of the Performing Arts Center at Montgomery College
+    in Rockville, Maryland. Researchers and field practitioners collaborated to implement
+    the HVAC-Cx commissioning software tool in its first full-scale field test. HVAC-Cx
+    aids building operators in decision-making by analyzing data using a set of expert
+    rules governing the operation of the mechanical equipment. This publically-available
+    software program has the capability to communicate with BACnet controllers to
+    command the systems under test into their various modes of operation and to record
+    system responses to facilitate some of the labor-intensive activities of retro-commissioning.
+    These activities included monitoring building data under normal operation (operation
+    monitoring) and active testing using a library of prefunctional tests and functional
+    performance tests developed to evaluate the performance of both air-side and water-side
+    systems. This report presents the results of the commissioning process and examines
+    the effectiveness of the HVAC-Cx commissioning tool.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2027'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,81 @@
+---
+id: NISTSP800140Dr2
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Cryptographic Module Validation Program (CMVP)-approved sensitive security
+    parameter generation and establishment methods
+  type: title-main
+- language: en
+  script: Latn
+  content: CMVP validation authority updates to ISO/IEC 24759
+  type: title-part
+- language: en
+  script: Latn
+  content: Cryptographic Module Validation Program (CMVP)-approved sensitive security
+    parameter generation and establishment methods - CMVP validation authority updates
+    to ISO/IEC 24759
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-140Dr2
+docidentifier:
+- content: NIST SP 800-140Dr2
+  type: NIST
+  primary: true
+- content: NIST.SP.800-140Dr2
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Calis, Alexander.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1937-8129"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The approved sensitive security parameter generation and establishment
+    methods listed in this publication replace the ones listed in International Organization
+    for Standardization/International Electrotechnical Commission (ISO/IEC) 19790
+    Annex D and ISO/IEC 24759 paragraph 6.16, within the context of the Cryptographic
+    Module Validation Program (CMVP). As a validation authority, the CMVP may supersede
+    Annex D in its entirety.
+relation:
+- type: updates
+  bibitem:
+    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x0000000179b8ef78>"
+    docidentifier:
+    - content: NIST SP 800-140Dr1
+      type: NIST
+series:
+- title:
+  - content: NIST special publication
+  number: 800-140Dr2
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-140Dr2
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

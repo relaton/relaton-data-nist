@@ -1,0 +1,82 @@
+---
+id: NISTSP800160v1r1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Engineering trustworthy secure systems
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-160v1r1
+docidentifier:
+- content: NIST SP 800-160v1r1
+  type: NIST
+  primary: true
+- content: NIST.SP.800-160v1r1
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ross, Ron.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Winstead, Mark.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McEvilley, Michael.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: This publication describes a basis for establishing principles, concepts,
+    activities, and tasks for engineering trustworthy secure systems. Such principles,
+    concepts, activities, and tasks can be effectively applied within systems engineering
+    efforts to foster a common mindset to deliver security for any system, regardless
+    of the system's purpose, type, scope, size, complexity, or the stage of its system
+    life cycle. The intent of this publication is to advance systems engineering in
+    developing trustworthy systems for contested operational environments (generally
+    referred to as systems security engineering) and to serve as a basis for developing
+    educational and training programs, professional certifications, and other assessment
+    criteria.
+relation:
+- type: updates
+  bibitem:
+    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x00000003b0276420>"
+    docidentifier:
+    - content: NIST SP 800-160v1
+      type: NIST
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-160v1r1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

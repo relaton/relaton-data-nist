@@ -1,0 +1,146 @@
+---
+id: NISTTN2287
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Human-in-the-loop technical document annotation
+  type: title-main
+- language: en
+  script: Latn
+  content: developing and validating a system to provide machine-assistance for domain-specific
+    text analysis
+  type: title-part
+- language: en
+  script: Latn
+  content: Human-in-the-loop technical document annotation - developing and validating
+    a system to provide machine-assistance for domain-specific text analysis
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2287
+docidentifier:
+- content: NIST TN 2287
+  type: NIST
+  primary: true
+- content: NIST.TN.2287
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fung, Juan F.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-0820-787X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Li, Zongxia.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0001-1437-5132"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stephens, Daniel Kofi.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0007-3122-7004"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mao, Andrew.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0002-0344-9973"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Goel, Pranav.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1037-2687"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Walpole, Emily.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-0401-1535"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dima, Alden.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-0547-3117"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Boyd-Graber, Jordan Lee.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7770-4431"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'In this report, we address the following question: to what extent can
+    machine learning assist a human with traditional text analysis, such as content
+    analysis or grounded theory in the social sciences? In practice, such tasks require
+    humans to review and categorize(e.g., by manually annotating the text with labels)
+    a large sample of documents. We do not expect nor necessarily desire the machine
+    to automate the tasks the human would otherwise perform, but rather want to find
+    ways to help the human to perform the tasks more efficiently. We present a modular
+    implementation of a system that incorporates supervised (active learning) and
+    unsupervised (topic modeling) methods to assist humans with technical document
+    annotation. The implemented system allows us to conduct user studies to evaluate
+    the usefulness of machine assistance. We present results from two such user studies
+    and highlight directions for future research.'
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2287'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

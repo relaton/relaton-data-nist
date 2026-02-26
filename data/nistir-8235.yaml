@@ -1,0 +1,83 @@
+---
+id: NISTIR8235
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Security guidance for first responder mobile and wearable devices
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8235
+docidentifier:
+- content: NIST IR 8235
+  type: NIST
+  primary: true
+- content: NIST.IR.8235
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Howell, Gema.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ledgerwood, Scott.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brady Jr., Kevin G.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Harriss, Donald.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: Public safety officials utilizing the forthcoming public safety broadband
+    networks will have access to devices, such as mobile devices, tablets and wearables.
+    These devices offer new ways for first responders to complete their missions but
+    may also introduce new security vulnerabilities to their work environment. To
+    investigate this impact, the security objectives identified in NIST Interagency
+    Report (NISTIR) 8196, Security Analysis of First Responder Mobile and Wearable
+    Devices, were used to scope the analysis of public safety mobile and wearable
+    devices and the current capabilities that meet those security objectives. The
+    ultimate goal of this effort is to provide guidance that enables jurisdictions
+    to select and purchase secure devices and assist industry to design and build
+    secure devices tailored to the needs of first responders.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8235'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

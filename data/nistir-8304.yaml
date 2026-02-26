@@ -1,0 +1,77 @@
+---
+id: NISTIR8304
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: SATE VI Ockham Sound Analysis Criteria
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8304
+docidentifier:
+- content: NIST IR 8304
+  type: NIST
+  primary: true
+- content: NIST.IR.8304
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Black, Paul E.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2005073624
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Walia, Kanwardeep Singh.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: 'Static analyzers examine the source or executable code of programs to
+    find problems. Many static analyzers use heuristics or approximations to examine
+    programs with millions of lines of code for hundreds of classes of problems. The
+    Ockham Sound Analysis Criteria recognizes static analyzers that are precise. In
+    brief the criteria are (1) the analyzer''s findings are claimed to always be correct,
+    (2) it produces findings for most of a program, and (3) even one incorrect finding
+    disqualifies an analyzer. This document begins by explaining the background and
+    requirements of the Ockham Criteria and how we determine if a tool satisfies it.
+    As part of Static Analysis Tool Exposition (SATE) VI, we examined two tools: Astree
+    and Frama-C with the Evolved Value Analysis (Eva) plug-in. Examining the tool
+    outputs led us to find several systematic mistakes in the Juliet 1.3 test suite
+    and thousands of mistakes in its manifest of known errors. Our conclusion is that
+    Astree and Frama-C with Eva satisfied the SATE VI Ockham Sound Analysis Criteria.'
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8304'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,81 @@
+---
+id: NISTIR7383e2019
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Selected procedures for volumetric calibrations
+  type: title-main
+- language: en
+  script: Latn
+  content: 2019 edition
+  type: title-part
+- language: en
+  script: Latn
+  content: Selected procedures for volumetric calibrations - 2019 edition
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7383-2019
+docidentifier:
+- content: NIST IR 7383e2019
+  type: NIST
+  primary: true
+- content: NIST.IR.7383-2019
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Harris, Georgia L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n91104296
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Miller, Val R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003078482
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.))
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2019028800
+abstract:
+- language: en
+  script: Latn
+  content: This publication contains Good Measurement Procedures (GMP), Good Laboratory
+    Procedures (GLP), and Standard Operating Procedures (SOP) for use in calibration
+    laboratories performing volumetric calibrations. It includes procedures for Volume
+    Transfer and Gravimetric Calibrations. This edition includes updates for statistical
+    applications in measurement assurance that were implemented in mass calibrations
+    in 2018.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 7383-2019
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

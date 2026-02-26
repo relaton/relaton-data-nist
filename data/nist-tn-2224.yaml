@@ -1,0 +1,72 @@
+---
+id: NISTTN2224
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A simple correlation for horizontal micro-fin tube convective boiling with
+    example calculation
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2224
+docidentifier:
+- content: NIST TN 2224
+  type: NIST
+  primary: true
+- content: NIST.TN.2224
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kedzierski, Mark A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lin, Lingnan.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: This paper presents a simple correlation containing nine dimensionless
+    parameters to predict the local convective boiling heat transfer within a micro-fin
+    tube that was developed from a dataset that included a wide range of refrigerants,
+    flow conditions, and hydraulic diameters. Flow boiling measurements from 36 studies
+    were gathered to produce a dataset containing 29 refrigerants and 15 different
+    hydraulic diameters ranging from 1.8 mm to 6.7 mm. The database was adjusted so
+    that the definition of the Nusselt number, the Reynolds number, the heat flux,
+    and heat transfer coefficient were all defined in the same way for each study.
+    In addition, values for the most recent fluid properties were used for the calculation
+    of dimensionless parameters that were used in the new correlation. The new correlation
+    for micro-fin convective boiling predicted the measurements from the database
+    to within 10.3 % for pure-refrigerants and azeotropic mixtures and 12.3 % for
+    zeotropic mixtures.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2224'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

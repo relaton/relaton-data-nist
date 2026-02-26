@@ -1,0 +1,104 @@
+---
+id: NISTSP800181r1ukr
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Workforce framework for cybersecurity (NICE Framework) (Ukranian translation)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-181r1.ukr
+docidentifier:
+- content: NIST SP 800-181r1 ukr
+  type: NIST
+  primary: true
+- content: NIST.SP.800-181r1.ukr
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Petersen, Rodney.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Santos, Danielle.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Smith, Matthew C.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wetzel, Karen A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Witte, Greg.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+abstract:
+- language: en
+  script: Latn
+  content: This publication describes the National Initiative for Cybersecurity Education
+    (NICE) Cybersecurity Workforce Framework (NICE Framework), a reference structure
+    that describes the interdisciplinary nature of the cybersecurity work. It serves
+    as a fundamental reference resource for describing and sharing information about
+    cybersecurity work and the knowledge, skills, and abilities (KSAs) needed to complete
+    tasks that can strengthen the cybersecurity posture of an organization. As a common,
+    consistent lexicon that categorizes and describes cybersecurity work, the NICE
+    Framework improves communication about how to identify, recruit, develop, and
+    retain cybersecurity talent. The NICE Framework is a reference source from which
+    organizations or sectors can develop additional publications or tools that meet
+    their needs to define or provide guidance on different aspects of cybersecurity
+    workforce development, planning, training, and education.
+relation:
+- type: editionOf
+  bibitem:
+    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x0000000336d16198>"
+    docidentifier:
+    - content: NIST SP 800-181r1
+      type: NIST
+- type: updates
+  bibitem:
+    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x0000000337e3d2f0>"
+    docidentifier:
+    - content: NIST SP 800-181
+      type: NIST
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-181r1.ukr
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

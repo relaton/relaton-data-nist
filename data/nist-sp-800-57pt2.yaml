@@ -1,0 +1,99 @@
+---
+id: NISTSP80057pt2
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Recommendation for key management, part 2
+  type: title-main
+- language: en
+  script: Latn
+  content: best practices for key management organization
+  type: title-part
+- language: en
+  script: Latn
+  content: Recommendation for key management, part 2 - best practices for key management
+    organization
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-57p2
+docidentifier:
+- content: NIST SP 800-57pt2
+  type: NIST
+  primary: true
+- content: NIST.SP.800-57p2
+  type: DOI
+date:
+- type: issued
+  at: '2005'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barker, E. B.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nb2015019673
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barker, W. C.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Burr, W. E.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Polk, W. T.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Smid, M. E.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation provides cryptographic key management guidance. It
+    consists of three parts. Part 1 provides general guidance and best practices for
+    the management of cryptographic keying material. Part 2 provides guidance on policy
+    and security planning requirements for U.S. government agencies. Finally, Part
+    3 provides guidance when using the cryptographic features of current systems.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-57p2
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

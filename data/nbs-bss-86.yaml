@@ -1,0 +1,62 @@
+---
+id: NBSBSS86
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Engineering aspects of cyclone Tracy
+  type: title-main
+- language: en
+  script: Latn
+  content: Darwin Australia, 1974
+  type: title-part
+- language: en
+  script: Latn
+  content: Engineering aspects of cyclone Tracy - Darwin Australia, 1974
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.BSS.86
+docidentifier:
+- content: NBS BSS 86
+  type: NIST
+  primary: true
+- content: NBS.BSS.86
+  type: DOI
+date:
+- type: issued
+  at: '1976'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Marshall, Richard D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50046024
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS building science series; NBS building science; NBS BSS
+  number: '86'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

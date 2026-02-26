@@ -1,0 +1,113 @@
+---
+id: NISTSP1296
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Economic decision guide software (EDGe$) with loss amplification and risk
+    aversion
+  type: title-main
+- language: en
+  script: Latn
+  content: wildfire urban interface (WUI) case studies
+  type: title-part
+- language: en
+  script: Latn
+  content: Economic decision guide software (EDGe$) with loss amplification and risk
+    aversion - wildfire urban interface (WUI) case studies
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1296
+docidentifier:
+- content: NIST SP 1296
+  type: NIST
+  primary: true
+- content: NIST.SP.1296
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Elsibaie, Sherie
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ayyub, Bilal
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Helgeson, Jennifer
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3692-7874"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gore, Christina
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Butry, David
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-5134-9419"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: This report demonstrates by examples and case study as a proof of concept
+    the use of loss amplification and risk aversion in benefit cost analysis (BCA)
+    for community resilience planning. The report uses the NIST Economic Decision
+    Guide Software (EDGe$) Online Tool, which assesses the economic feasibility of
+    community resilience alternatives. Loss amplification arises from a catastrophe
+    modeling method used to represent the increased costs associated with repair activity
+    during a demand surge after a large catastrophe. Risk aversion is a measure of
+    a community’s (or other entity’s) preference to avoid uncertainty. Risk aversion
+    parameters can be used to compute certainty equivalent payoffs from uncertain
+    payoffs and specific levels of risk aversion. A fictitious case study of wildfire
+    disaster planning of a wildland-urban interface (WUI) is employed to demonstrate
+    these two model enhancements (i.e., loss amplification and risk aversion) and
+    their effects on the economic indicator outputs from EDGe$. The presented case
+    study evaluates a binary development choice related to the resilience of a large
+    presidential library from the perspective of two neighboring communities.
+series:
+- title:
+  - content: NIST special publication
+  number: '1296'
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '1296'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,66 @@
+---
+id: NISTSP800215
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guide to a secure enterprise network landscape
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-215
+docidentifier:
+- content: NIST SP 800-215
+  type: NIST
+  primary: true
+- content: NIST.SP.800-215
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chandramouli, Ramaswamy.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: Access to multiple cloud services, the geographic spread of enterprise
+    Information Technology (IT) resources (including multiple data centers), and the
+    emergence of microservices-based applications (as opposed to monolithic ones)
+    have significantly altered the enterprise network landscape. This document is
+    meant to provide guidance to this new enterprise network landscape from a secure
+    operations perspective. Hence, it starts by examining the security limitations
+    of current network access solutions to the enterprise network. It then considers
+    security feature enhancements to traditional network appliances in the form of
+    point security solutions, network configurations for various security functions
+    (e.g., application/services security, cloud services access security, device or
+    endpoint security), security frameworks that integrate these individual network
+    configurations (e.g., zero trust network access [ZTNA]), and the evolving wide
+    area network (WAN) infrastructure to provide a comprehensive set of security services
+    for the modern enterprise network landscape (e.g., secure access service edge
+    [SASE]).
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-215
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

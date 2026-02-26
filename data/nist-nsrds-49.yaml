@@ -1,0 +1,93 @@
+---
+id: NISTNSRDS49
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'CYCLE_D: NIST Vapor Compression Cycle Design Program version 5.1'
+  type: title-main
+- language: en
+  script: Latn
+  content: user s guide
+  type: title-part
+- language: en
+  script: Latn
+  content: 'CYCLE_D: NIST Vapor Compression Cycle Design Program version 5.1 - user
+    s guide'
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.NSRDS.49
+docidentifier:
+- content: NIST NSRDS 49
+  type: NIST
+  primary: true
+- content: NIST.NSRDS.49
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brown, J. S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83009859
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Domanski, P. A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lemmon, Eric W.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n97003163
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: CYCLE_D simulates vapor compression refrigeration cycles that use single-compound
+    refrigerants or refrigerant blends. The model can simulate a basic subcritical
+    or transcritical refrigeration cycle, both with or without a liquid-line/suction-line
+    heat exchanger. In addition, the model can simulate a subcritical two-stage economizer
+    cycle, a subcritical three- stage economizer cycle, and a subcritical two-stage
+    compression cycle with intercooling. CYCLE_D includes 70 single-compound refrigerants
+    and 97 predefined blends. Single-compound fluids can be combined to form blends
+    of up to five components. Computationally, the program is fully compatible with
+    the NIST Reference Fluid Thermodynamic and Transport Properties - REFPROP, Version
+    9.1.
+series:
+- title:
+  - content: NIST NSRDS; NSRDS-NIST; National standard reference data series
+  number: '49'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

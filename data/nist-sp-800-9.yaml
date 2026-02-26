@@ -1,0 +1,75 @@
+---
+id: NISTSP8009
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Good security practices for electronic commerce, including electronic data
+    interchange
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-9
+docidentifier:
+- content: NIST SP 800-9
+  type: NIST
+  primary: true
+- content: NIST.SP.800-9
+  type: DOI
+date:
+- type: issued
+  at: '1993'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Saltman, Roy G.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n77006584
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: Electronic commerce (EC) is the use of documents in electronic form, rather
+    than paper, for carrying out functions of business or government that require
+    interchange of information, obligations, or monetary value between organizations.
+    Electronic data interchange (EDI) is the computer-to-computer transmission of
+    strictly formatted messages that represent documents; EDI is an essential component
+    of EC. With EC, human participation in routine transaction processing is limited
+    or non-existent. Transactions are processed and decisions are made more rapidly,
+    leaving much less time to detect and correct errors. This report presents security
+    procedures and techniques (which encompass internal controls and checks) that
+    constitute good practices in the design, development, testing and operation of
+    EC systems. Principles of risk management and definition of parameters for quantitative
+    risk assessments are provided. The content of the trading partner agreement is
+    discussed, and the components of EC, including the network(s) connecting the partners,
+    are described. Some security techniques considered include audit trails, contingency
+    planning, use of acknowledgments, electronic document management, activities of
+    supporting networks, user access controls to systems and networks, and cryptographic
+    techniques for authentication and confidentiality.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-9
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

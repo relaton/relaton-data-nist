@@ -1,0 +1,80 @@
+---
+id: NISTGCR24050
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Spatial and temporal data alignment from disparate sources for feature
+    association
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.GCR.24-050
+docidentifier:
+- content: NIST GCR 24-050
+  type: NIST
+  primary: true
+- content: NIST.GCR.24-050
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Holterman, Eric.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Waddell, Russell.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: National Institute of Standards and Technology.
+abstract:
+- language: en
+  script: Latn
+  content: Among the chief topic areas of Industry 4.0, digital thread technology
+    offers the opportunity for increased productivity, efficiency, and traceability
+    throughout a product’s lifecycle. While the basic concept of digital thread is
+    easy to realize by specifying aggregation of data from multiple stages of an entity's
+    life cycle, digital threads must contain internal representations and associations
+    of data across the life cycle to bring about improved traceability features and
+    promised productivity. In this work, we bring missing pieces into digital threads
+    to realize future production, traceability, and efficiency-increasing capabilities
+    within the design, planning, execution, and quality stages of discrete part manufacturing.
+    Namely, we (1) developed a standards-based digital thread using standards commonly
+    found in the industry, specifically STEP AP242, unstandardized NC, MTConnect,
+    and QIF standards, (2) perform spatial alignment within the four stages to geometries
+    of interest defined through STEP AP242 shape aspects, and (3) perform temporal
+    alignment of execution data by identifying ISO 8061 timestamp intervals where
+    the geometric features were actively worked on. With this work, we hope to influence
+    ongoing standards development in the four previously mentioned standards and standardize
+    the development of future digital threads, such as ISO 23247, by providing a standards-based
+    methodology that allows for internal association of the data within the thread
+series:
+- title:
+  - content: NIST GCR
+  number: 24-050
+- title:
+  - content: NIST GCR; NIST grant-contract report; NIST grant contract report
+  number: 24-050
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

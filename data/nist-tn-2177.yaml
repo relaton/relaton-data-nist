@@ -1,0 +1,76 @@
+---
+id: NISTTN2177
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Assessing the quality of as-received 4340 steel for the production of NIST
+    Charpy reference specimens
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2177
+docidentifier:
+- content: NIST TN 2177
+  type: NIST
+  primary: true
+- content: NIST.TN.2177
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lucon, Enrico.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Martin, May.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: 'The Charpy Machine Verification Program at NIST in Boulder uses heat-treated
+    4340 steel for the production of indirect verification Charpy specimens at low-
+    and high-energy level. Recently, a batch of steel purchased for the program turned
+    out to be unacceptably inhomogeneous, causing several NIST Contractors to produce
+    specimen lots that did not fulfil our variability requirements, despite repeated
+    attempts at modifying the heat-treatment process. The whole batch of steel had
+    to be eventually scraped. In order to avoid such an occurrence in the future and
+    develop an investigation procedure that can detect variability issues in the acceptance
+    phase of newly purchased batches of 4340 steel, we have performed the following
+    investigations and measurements on samples from good and bad heats: hardness measurements
+    (Rockwell C and Vickers), instrumented Charpy tests, optical investigations, and
+    texture analyses (including grain size measurements). Of all the parameters considered,
+    we found that grain size can clearly differentiate between acceptable (30 m 40
+    m) and unacceptable (60 m 70 m) heats, and should therefore become the basis of
+    future heat quality assessments. In support, hardness measurements can also be
+    performed, while Charpy tests are not recommended in view of their relative experimental
+    and economic burden.'
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2177'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

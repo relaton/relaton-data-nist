@@ -1,0 +1,77 @@
+---
+id: NISTIR8270
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Introduction to cybersecurity for commercial satellite operations
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8270
+docidentifier:
+- content: NIST IR 8270
+  type: NIST
+  primary: true
+- content: NIST.IR.8270
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scholl, Matthew.
+    identifier:
+    - type: uri
+      content: "(orcid)000-0002-6534-3253"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Suloway, Theresa.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Space is a newly emerging commercial critical infrastructure sector that
+    is no longer the domain of only national government authorities. Space is an inherently
+    risky environment in which to operate, so cybersecurity risks involving commercial
+    space – including those affecting commercial satellite vehicles – need to be understood
+    and managed alongside other types of risks to ensure safe and successful operations.
+    This report provides a general introduction to cybersecurity risk management for
+    the commercial satellite industry as they seek to start managing cybersecurity
+    risks in space. This document is by no means comprehensive in terms of addressing
+    all of the cybersecurity risks to commercial satellite infrastructure, nor does
+    it explore risks to satellite vehicles, which may be introduced through the implementation
+    of cybersecurity controls. The intent is to present basic concepts, generate discussions,
+    and provide sample references for additional information on pertinent cybersecurity
+    risk management models.
+series:
+- title:
+  - content: NISTIR
+  number: '8270'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8270'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

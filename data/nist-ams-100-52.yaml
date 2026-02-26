@@ -1,0 +1,80 @@
+---
+id: NISTAMS10052
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The U.S. biomanufacturing economy
+  type: title-main
+- language: en
+  script: Latn
+  content: value added, supply chains, cost, sustainability, and efficiency
+  type: title-part
+- language: en
+  script: Latn
+  content: The U.S. biomanufacturing economy - value added, supply chains, cost, sustainability,
+    and efficiency
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-52
+docidentifier:
+- content: NIST AMS 100-52
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-52
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Thomas, Douglas.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8600-4795"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This report estimates biomanufacturing (manufactured products made of biomaterials)
+    and advanced biomanufacturing (products manufactured using activities that grow
+    biological molecules and materials along with activities that alter biological
+    material using non-mechanical means) value added in ways that make it consistent
+    with estimates of U.S. GDP. Advanced biomanufacturing is estimated as being $94.6
+    billion while total biomanufacturing is $438.8 billion. When including supply
+    chain items and other indirect value added, the total biomanufacturing industry
+    is $1363.8 billion and advanced biomanufacturing is $259.9 billion. These estimates
+    include biomanufacturing items that are excluded from estimates of the bioeconomy
+    made by other organizations and/or individuals. Other U.S. estimates have also
+    been inconsistent with measures of GDP or value added. As calculated using NIST’s
+    Manufacturing Cost Guide, the biomanufacturing industry impact accounts for 43
+    % of the total U.S. impact while advanced biomanufacturing is 6.4 %. This report
+    also examines the assets, material flow time, fuels, and electricity used in biomanufacturing.
+series:
+- title:
+  - content: NIST advanced manufacturing series
+  number: 100-52
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 100-52
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

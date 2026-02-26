@@ -1,0 +1,74 @@
+---
+id: NISTIR8471
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Cloud test data creation and population document
+  type: title-main
+- language: en
+  script: Latn
+  content: version 1.0
+  type: title-part
+- language: en
+  script: Latn
+  content: Cloud test data creation and population document - version 1.0
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8471
+docidentifier:
+- content: NIST IR 8471
+  type: NIST
+  primary: true
+- content: NIST.IR.8471
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ayers, Richard.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-3468-7472"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'This test data creation and population document provides an overview of
+    data creation, population and documentation of artifacts created for cloud-based
+    applications specified in Version 1 of Cloud & Remotely Stored Data Extraction
+    (CDX) Using Account Credentials: Specification, Test Assertions, and Test Cases.
+    Due to the frequency of application updates that may occur during testing, it
+    is advised to document the version number of the current application under test
+    to maintain the fairness and integrity of the tool verification process. Comments
+    and feedback are welcome. This document, and future revisions, are available for
+    download at: https:\\www.cftt.nist.gov.'
+series:
+- title:
+  - content: NISTIR
+  number: '8471'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8471'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

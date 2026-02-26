@@ -1,0 +1,78 @@
+---
+id: NISTIR6649
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST workshop on materials test procedures for hydrogen pipelines
+  type: title-main
+- language: en
+  script: Latn
+  content: the proceedings of a workshop held August 21-22, 2007, at the National
+    Institute of Standards and Technology, Boulder, CO 80305
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST workshop on materials test procedures for hydrogen pipelines - the
+    proceedings of a workshop held August 21-22, 2007, at the National Institute of
+    Standards and Technology, Boulder, CO 80305
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.6649
+docidentifier:
+- content: NIST IR 6649
+  type: NIST
+  primary: true
+- content: NIST.IR.6649
+  type: DOI
+date:
+- type: issued
+  at: '2007'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Siewert, Thomas A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McColskey, J. DavidWeeks, Timothy S.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ricker, Richard E.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nr92033489
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '6649'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

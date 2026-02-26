@@ -1,0 +1,83 @@
+---
+id: NISTHB15022e2017
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: National Voluntary Laboratory Accreditation Program (NVLAP) voting system
+    testing
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.HB.150-22-2017
+docidentifier:
+- content: NIST HB 150-22e2017
+  type: NIST
+  primary: true
+- content: NIST.HB.150-22-2017
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Leaman, Dana.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Moore, Brad.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012117806
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wack, John P.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n92009380
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: The 2017 edition of NIST Handbook 150-22 incorporates changes resulting
+    from revisions to the Voluntary Voting System Guidelines (VVSG) Version 1.1, the
+    Election Assistance Commission's (EAC) Testing and Certification Program Manual
+    Version 2.0, and the EAC Voting System Test Laboratory Program Manual Version
+    2.0., as well as editorial improvements. The requirements of NIST Handbook 150
+    and the specific requirements and interpretations in NIST Handbook 150-22 must
+    be combined to produce the criteria for accreditation in the NVLAP Voting System
+    Testing program. For more information, visit the NVLAP website.
+series:
+- title:
+  - content: NIST handbook; NIST HB
+  number: 150-22-2017
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

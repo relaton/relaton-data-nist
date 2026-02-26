@@ -1,0 +1,59 @@
+---
+id: NISTAMS6002
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Network charter: Manufacturing USA program'
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.600-2
+docidentifier:
+- content: NIST AMS 600-2
+  type: NIST
+  primary: true
+- content: NIST.AMS.600-2
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Molnar, Mike.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: Under the authority of the Revitalize American Manufacturing and Innovation
+    Act of 2014, the Secretary of Commerce shall establish the Network for Manufacturing
+    Innovation, generally called the Manufacturing USA network. The network, along
+    with its manufacturing innovation institutes, makes up the Manufacturing USA program.
+    This document hereby charters the Manufacturing USA network.
+series:
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 600-2
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

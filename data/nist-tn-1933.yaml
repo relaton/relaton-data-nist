@@ -1,0 +1,75 @@
+---
+id: NISTTN1933
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Intelligent building agents laboratory
+  type: title-main
+- language: en
+  script: Latn
+  content: hydronic system design
+  type: title-part
+- language: en
+  script: Latn
+  content: Intelligent building agents laboratory - hydronic system design
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1933
+docidentifier:
+- content: NIST TN 1933
+  type: NIST
+  primary: true
+- content: NIST.TN.1933
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pertzborn, Amanda J.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: Achieving national goals of net zero energy buildings requires substantial
+    reduction in the energy consumption of commercial building systems. In 2015, commercial
+    buildings consumed 18 % of the total energy consumed in the U.S. [1]. Although
+    significant progress has been made in the integration of building control systems
+    through the development of standard communication protocols, such as BACnet and
+    BACnet/IP, little progress has been made in making them intelligent about optimizing
+    building system-level performance. The purpose of this project is to demonstrate
+    the potential for distributed, intelligent software agents to perform this optimization
+    and to develop a research infrastructure suitable for development and testing
+    of advanced agent-based optimization techniques that can improve the energy and
+    comfort performance of building systems. Towards that goal, the Intelligent Building
+    Agents Laboratory (IBAL) has been constructed to act as a testbed for these intelligent
+    control algorithms. This note describes the design of a portion of that facility.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1933'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

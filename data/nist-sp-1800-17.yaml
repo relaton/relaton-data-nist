@@ -1,0 +1,73 @@
+---
+id: NISTSP180017
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Multifactor authentication for e-commerce
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1800-17
+docidentifier:
+- content: NIST SP 1800-17
+  type: NIST
+  primary: true
+- content: NIST.SP.1800-17
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Newhouse, William.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020058100
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: As retailers in the United States have adopted chip-and-signature and chip-and-PIN
+    (personal identification number) point-of-sale (POS) security measures, there
+    have been increases in fraudulent online card-not-present (CNP) electronic commerce
+    (e-commerce) transactions. The risk of increased fraudulent online shopping became
+    more widely known following the adoption of chip-and-PIN technology that increased
+    security at the POS in Europe. The NCCoE at NIST built a laboratory environment
+    to explore methods to implement multifactor authentication (MFA) for online retail
+    environments for the consumer and the e-commerce platform administrator. The NCCoE
+    also implemented logging and reporting to display authentication-related system
+    activity. This NIST Cybersecurity Practice Guide demonstrates to online retailers
+    that it is possible to implement open standards-based technologies to enable Universal
+    Second Factor (U2F) authentication at the time of purchase when risk thresholds
+    are exceeded. The example implementations outlined in this guide encourage online
+    retailers to adopt effective MFA implementations by using standard components
+    and custom applications that are composed of open- source and commercially available
+    components.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1800-17
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

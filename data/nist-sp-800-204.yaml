@@ -1,0 +1,74 @@
+---
+id: NISTSP800204
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Security strategies for microservices-based application systems
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-204
+docidentifier:
+- content: NIST SP 800-204
+  type: NIST
+  primary: true
+- content: NIST.SP.800-204
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chandramouli, Ramaswamy.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7387-5858"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: Microservices architecture is increasingly being used to develop application
+    systems since its smaller codebase facilitates faster code development, testing,
+    and deployment as well as optimization of the platform based on the type of microservice,
+    support for independent development teams, and the ability to scale each component
+    independently. Microservices generally communicate with each other using Application
+    Programming Interfaces (APIs), which requires several core features to support
+    complex interactions between a substantial number of components. These core features
+    include authentication and access management, service discovery, secure communication
+    protocols, security monitoring, availability/resiliency improvement techniques
+    (e.g., circuit breakers), load balancing and throttling, integrity assurance techniques
+    during induction of new services, and handling of session persistence. Additionally,
+    the core features could be bundled or packaged into architectural frameworks such
+    as API gateways and service mesh. The purpose of this document is to analyze the
+    multiple implementation options available for each individual core feature and
+    configuration options in architectural frameworks, develop security strategies
+    that counter threats specific to microservices, and enhance the overall security
+    profile of the microservices-based application.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-204
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

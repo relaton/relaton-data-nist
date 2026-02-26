@@ -1,0 +1,149 @@
+---
+id: NISTIR7904
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Trusted geolocation in the cloud
+  type: title-main
+- language: en
+  script: Latn
+  content: proof of concept implementation
+  type: title-part
+- language: en
+  script: Latn
+  content: Trusted geolocation in the cloud - proof of concept implementation
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7904
+docidentifier:
+- content: NIST IR 7904
+  type: NIST
+  primary: true
+- content: NIST.IR.7904
+  type: DOI
+date:
+- type: issued
+  at: '2015'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bartock, Michael.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Souppaya, Murugiah.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2006135981
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yeluri, Raghuram.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Shetty, Uttam.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Greene, James.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81065038
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Orrin, Steve.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Prafullchandra, Hemma.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McLeese, John.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mills, Jason.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no99042770
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Carayiannis, Daniel.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Williams, Tarik.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, Karen.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2007017003
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2008015449
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7904'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

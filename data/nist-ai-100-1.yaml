@@ -1,0 +1,62 @@
+---
+id: NISTAI1001
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Artificial Intelligence Risk Management Framework (AI RMF 1.0)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AI.100-1
+docidentifier:
+- content: NIST AI 100-1
+  type: NIST
+  primary: true
+- content: NIST.AI.100-1
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tabassi, Elham.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: As directed by the National Artificial Intelligence Initiative Act of 2020
+    (P.L. 116-283), the goal of the AI RMF is to offer a resource to the organizations
+    designing, developing, deploying, or using AI systems to help manage the many
+    risks of AI and promote trustworthy and responsible development and use of AI
+    systems. The Framework is intended to be voluntary, rights-preserving, non-sector
+    specific, and use-case agnostic, providing flexibility to organizations of all
+    sizes and in all sectors and throughout society to implement the approaches in
+    the Framework. The AI RMF is intended to be practical, to adapt to the AI landscape
+    as AI technologies continue to develop, and to be operationalized by organizations
+    in varying degrees and capacities so society can benefit from AI while also being
+    protected from its potential harms.
+series:
+- title:
+  - content: NIST trustworthy and responsible AI; NIST AI
+  number: 100-1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

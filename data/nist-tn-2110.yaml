@@ -1,0 +1,63 @@
+---
+id: NISTTN2110
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Users guide to the HVACSIM+ configuration tool
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2110
+docidentifier:
+- content: NIST TN 2110
+  type: NIST
+  primary: true
+- content: NIST.TN.2110
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Galler, Michael A.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: HVACSIM+ (HVAC SIMulation PLUS other systems) was introduced by the National
+    Institute of Standards and Technology (NIST) in 1985 as a computer simulation
+    tool to simulate building heating, ventilation, and air conditioning (HVAC) systems.
+    The HVACSIM+ computer program package and manuals have been distributed to hundreds
+    of researchers, students, and consultants in countries around the world 1. HVACSIM+
+    input files are configured through a text-based interface, as was common for programs
+    developed in that era. Reviewing the configuration files defining a model in a
+    text editor is a tedious, difficult and error-prone process for a large simulation.
+    The HVACSIM+ Configuration Tool provides a method to visualize the complicated
+    connections between components in a HVACSIM+ model and assist with validation
+    and modifications to those models. This user s guide assumes a working knowledge
+    of HVACSIM+ .
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2110'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

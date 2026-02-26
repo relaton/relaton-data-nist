@@ -1,0 +1,192 @@
+---
+id: NISTTN2187
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A resilient architecture for the realization and distribution of coordinated
+    universal time to critical infrastructure systems in the United States
+  type: title-main
+- language: en
+  script: Latn
+  content: methodologies and recommendations from the National Institute of Standards
+    and Technology (NIST)
+  type: title-part
+- language: en
+  script: Latn
+  content: A resilient architecture for the realization and distribution of coordinated
+    universal time to critical infrastructure systems in the United States - methodologies
+    and recommendations from the National Institute of Standards and Technology (NIST)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2187
+docidentifier:
+- content: NIST TN 2187
+  type: NIST
+  primary: true
+- content: NIST.TN.2187
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sherman, Jeffrey A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Arissian, Ladan.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brown, Roger C.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Deutch, Matthew J.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Donley, Elizabeth A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gerginov, Vladislav.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Levine, Judah.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nelson, Glenn K.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Novick, Andrew N.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Patla, Bijunath R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Parker, Thomas E.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stuhl, Benjamin K.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sutton, Douglas D.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yao, Jian
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yates, William C.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zhang, Victor
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lombardi, Michael A.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Physical Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The Time and Frequency Division of the National Institute of Standards
+    and Technology (NIST), an agency of the United States Department of Commerce (DOC),
+    was tasked with fulfilling Section 4, Part (i) of the Position, Navigation and
+    Timing (PNT) Executive Order that was signed by the President on February 12,
+    2020. The Executive Order states that Within 180 days of the date of this order,
+    the Secretary of Commerce shall make available a GNSS-independent source of Coordinated
+    Universal Time, to support the needs of critical infrastructure owners and operators,
+    for the public and private sectors to access. Although the Executive Order does
+    not specifically provide an accuracy requirement, this report assumes an accuracy
+    requirement of 1 ?s with respect to Coordinated Universal Time (UTC). This specification
+    is assumed because numerous critical infrastructure timing systems in the United
+    States are now heavily dependent on signals received from the Global Positioning
+    System (GPS) satellites that routinely provide sub-microsecond accuracy, and other
+    UTC sources that deliver time at comparable accuracy levels are needed to alleviate
+    or reduce these dependencies. This report was written to describe, propose, and
+    recommend technical methods that NIST has already implemented, or can potentially
+    implement, to fulfill Section 4, Part (i) of the PNT Executive Order.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2187'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,40 @@
+---
+id: NBSLC228
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The fire resistance of brick walls bricks made of clay or shale
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.LCIRC.228
+docidentifier:
+- content: NBS LC 228
+  type: NIST
+  primary: true
+- content: NBS.LCIRC.228
+  type: DOI
+date:
+- type: issued
+  at: '1927'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NBSLCIRC; NBS LCIRC; NBS letter circular
+  number: '228'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

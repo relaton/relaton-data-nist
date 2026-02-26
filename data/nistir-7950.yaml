@@ -1,0 +1,95 @@
+---
+id: NISTIR7950
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Examination of the impact of fingerprint spatial area loss on matcher performance
+    in various mobile identification scenarios
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7950
+docidentifier:
+- content: NIST IR 7950
+  type: NIST
+  primary: true
+- content: NIST.IR.7950
+  type: DOI
+date:
+- type: issued
+  at: '2014'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Orandi, Shahram.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020043056
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ko, Kenneth.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020148737
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wood, Stephen S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020149183
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Garris, Michael D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2007101728
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grantham, John D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020148735
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Material Measurement Laboratory (U.S.).
+    - content: Chemical Sciences Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012096740
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7950'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

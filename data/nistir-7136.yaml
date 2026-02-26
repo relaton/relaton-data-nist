@@ -1,0 +1,90 @@
+---
+id: NISTIR7136
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The NIST road network database
+  type: title-main
+- language: en
+  script: Latn
+  content: version 1.0
+  type: title-part
+- language: en
+  script: Latn
+  content: The NIST road network database - version 1.0
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7136
+docidentifier:
+- content: NIST IR 7136
+  type: NIST
+  primary: true
+- content: NIST.IR.7136
+  type: DOI
+date:
+- type: issued
+  at: '2004'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schlenoff, Craig.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barbera, Anthony.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scrapper, Chris.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ajot, Jerome.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hui, Eric.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Paredes, Martin.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7136'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

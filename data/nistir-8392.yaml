@@ -1,0 +1,102 @@
+---
+id: NISTIR8392
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Evaluating the impact of contactless fingerprint imagery spatial loss on
+    matcher performance
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8392
+docidentifier:
+- content: NIST IR 8392
+  type: NIST
+  primary: true
+- content: NIST.IR.8392
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Orandi, Shahram.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Libert, John.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bandini, Bruce.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ko, Kenneth.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grantham, John.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cochran, Brian.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Watson, Craig.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: Observations in previous studies have shown that contactless capture devices
+    may be prone to capturing superfluous data (e.g., fingernail or finger background),
+    distortion and imaging artifacts especially around the periphery of the captured
+    fingerprint images, as well as not being able to consistently capture certain
+    fingers from each hand. This study tests the hypothesis that eliminating certain
+    error prone fingers, or eliminating some of the periphery of all fingerprint images,
+    may yield an improvement in the matcher s ability to make an identification as
+    well as possibly improving the service time from the matcher.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8392'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

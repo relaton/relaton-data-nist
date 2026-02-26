@@ -1,0 +1,47 @@
+---
+id: NBSLC1033
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Use of the international inch for reporting lengths of gage blocks
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.LCIRC.1033
+docidentifier:
+- content: NBS LC 1033
+  type: NIST
+  primary: true
+- content: NBS.LCIRC.1033
+  type: DOI
+date:
+- type: issued
+  at: '1959'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Optics and Metrology Division.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NBSLCIRC; NBS LCIRC; NBS letter circular
+  number: '1033'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

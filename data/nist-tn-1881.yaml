@@ -1,0 +1,100 @@
+---
+id: NISTTN1881
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Self-training of a fault-free model for residential air conditioner fault
+    detection and diagnostics
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1881
+docidentifier:
+- content: NIST TN 1881
+  type: NIST
+  primary: true
+- content: NIST.TN.1881
+  type: DOI
+date:
+- type: issued
+  at: '2015'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Heo, Jaehyeok.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022028296
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Payne, W. Vance.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003078668
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Domanski, Piotr A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022001138
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Du, Zhimin.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nb2011024207
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: This study is meant to be applied to residential, unitary, air-source,
+    single-speed, vapor compression air-conditioning systems with nominal cooling
+    capacities less than 19 kW (65,000 Btu h-1 or 5.4 tons). In this research, a method
+    for self-training FDD and the new concepts of zone density and operational domain
+    coverage rate are introduced. Various fault-free correlation techniques, such
+    as ANN (artificial neural network), MPR (multivariable polynomial regression),
+    and combined ANN-MPR, are demonstrated and compared for self-training FDD. For
+    the validation of this method, a full FDD algorithm was developed to include eight
+    scenarios (1- fault-free, 2-compressor valve leakage, 3-improper outdoor air flow,
+    4-improper indoor air flow, 5-liquid-line restriction, 6-refrigerant undercharge,
+    7-refrigerant overcharge, and 8- presence of non-condensable gases) using data
+    from 72 fault-free and 84 faulty tests.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1881'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

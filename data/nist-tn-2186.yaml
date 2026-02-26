@@ -1,0 +1,91 @@
+---
+id: NISTTN2186
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Modeling public safety communication scenarios
+  type: title-main
+- language: en
+  script: Latn
+  content: school shooting incident
+  type: title-part
+- language: en
+  script: Latn
+  content: Modeling public safety communication scenarios - school shooting incident
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2186
+docidentifier:
+- content: NIST TN 2186
+  type: NIST
+  primary: true
+- content: NIST.TN.2186
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rouil, Richard.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Izquierdo Manzanares, Antonio.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Liu, Chunmei.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Garey, Wesley.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Communications Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Public safety practitioners performing day-to-day activities and responding
+    to incidents communicate in ways that are very different from the general public.
+    In order to determine if a particular technology or network deployment can meet
+    the performance requirements critical to first responders, sound and detailed
+    scenarios are needed. In this document, we present a fictional school shooting
+    scenario involving a large number of responders, vehicles, and applications, over
+    a 4-hour period. We describe, in detail, the location of the users, the type of
+    applications used and their usage patterns. We also present a basic net-work deployment
+    using Long Term Evolution (LTE) and describe the implementation of such a scenario
+    in the open-source ns-3 simulation platform so it can serve as a baseline for
+    future research.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2186'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

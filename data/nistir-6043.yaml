@@ -1,0 +1,90 @@
+---
+id: NISTIR6043
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Network-Centric CAD
+  type: title-main
+- language: en
+  script: Latn
+  content: a research planning workshop, 3-4 December, 1996, National Institute of
+    Standards and Technology, Gaithersburg, Maryland
+  type: title-part
+- language: en
+  script: Latn
+  content: Network-Centric CAD - a research planning workshop, 3-4 December, 1996,
+    National Institute of Standards and Technology, Gaithersburg, Maryland
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.6043
+docidentifier:
+- content: NIST IR 6043
+  type: NIST
+  primary: true
+- content: NIST.IR.6043
+  type: DOI
+date:
+- type: issued
+  at: '1997'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Regli, William C.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97046061
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Szykman, Simon.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Smith, Stephen J. J.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97044899
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brown, Peter F.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2011164287
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '6043'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

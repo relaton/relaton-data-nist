@@ -1,0 +1,102 @@
+---
+id: NISTTN2190
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST Special Database 302
+  type: title-main
+- language: en
+  script: Latn
+  content: supplemental release of latent annotations
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST Special Database 302 - supplemental release of latent annotations
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2190
+docidentifier:
+- content: NIST TN 2190
+  type: NIST
+  primary: true
+- content: NIST.TN.2190
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fiumara, Gregory.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schwarz, Matthew.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Heising, Jessica.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Peterson, Jennifer.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Flanagan, Patricia.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Marshall, Karen.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The National Institute of Standards and Technology (NIST) released a collection
+    of latent fingerprint images as part of Special Database (SD) 302 in December
+    2019. While the dataset included 10 000 never-before-seen operational quality
+    images from 200 study participants, SD 302 has been of somewhat limited usability,
+    in part due to the omission of study participant finger position ground truth.
+    To help make SD 302 as robust and useful to the community as possible, NIST has
+    funded certified latent print examiners to annotate and determine the source of
+    the latent fingerprint images distributed as part of SD 302.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2190'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

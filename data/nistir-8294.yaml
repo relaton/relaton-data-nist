@@ -1,0 +1,67 @@
+---
+id: NISTIR8294
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Symposium on federally funded research on cybersecurity of Electric Vehicle
+    Supply Equipment (EVSE)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8294
+docidentifier:
+- content: NIST IR 8294
+  type: NIST
+  primary: true
+- content: NIST.IR.8294
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lightman, Suzanne.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brewer, Tanya.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: Electric vehicles are becoming common on the Nation's roads, and the electric
+    vehicle supply equipment infrastructure (EVSE) is being created to support that
+    growth. The NIST Information Technology Lab (ITL) hosted a one-day symposium to
+    showcase federally funded research into the potential cybersecurity implications
+    of EVSE.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8294'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

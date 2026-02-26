@@ -1,0 +1,94 @@
+---
+id: NISTIR8525
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Face analysis technology evaluation
+  type: title-main
+- language: en
+  script: Latn
+  content: age estimation and verification
+  type: title-part
+- language: en
+  script: Latn
+  content: Face analysis technology evaluation - age estimation and verification
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8525
+docidentifier:
+- content: NIST IR 8525
+  type: NIST
+  primary: true
+- content: NIST.IR.8525
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grother, Patrick J.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ngan, Mei Lee.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yang, Joyce.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Quinn, George W.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hom, Austin.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The report documents technical performance of prototype age estimation
+    algorithms submittedto the Age Estimation and Verification (AEV) track of the
+    Face Analysis Technology Evaluation(FATE) executed by the National Institute of
+    Standards and Technology (NIST).
+series:
+- title:
+  - content: NISTIR
+  number: '8525'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8525'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,73 @@
+---
+id: NISTAMS10026
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The model based enterprise
+  type: title-main
+- language: en
+  script: Latn
+  content: a literature review of costs and benefits for discrete manufacturing
+  type: title-part
+- language: en
+  script: Latn
+  content: The model based enterprise - a literature review of costs and benefits
+    for discrete manufacturing
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-26
+docidentifier:
+- content: NIST AMS 100-26
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-26
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Thomas, Douglas.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: 'Currently, there is a limited understanding of the costs related to suboptimal
+    design and production information in discrete manufacturing. There is incomplete
+    information on how engineers and other staff use their time. Additionally, the
+    rate and cause of defective or deficient products is not tracked at the industry
+    level. The frequency and impact of low-quality design data on product research
+    and development is not clear. Further, it isn t clear to what extent improved
+    process modeling can improve efficiency. This report focuses on the costs and
+    losses associated with inadequate design/modeling information and data in discrete
+    manufacturing. This includes: Product models (e.g., CAD/CAM), Simulation models
+    of manufacturing processes, Interoperability between software platforms.'
+series:
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 100-26
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

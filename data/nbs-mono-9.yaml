@@ -1,0 +1,55 @@
+---
+id: NBSMONO9
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A Method for the dynamic determination of the elastic, dielastic, and piezoelectric
+    constants of Quartz
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.MONO.9
+docidentifier:
+- content: NBS MONO 9
+  type: NIST
+  primary: true
+- content: NBS.MONO.9
+  type: DOI
+date:
+- type: issued
+  at: '1960'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Basri, Saul A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84802517
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS monograph; NBS MONO
+  number: '9'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

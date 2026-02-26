@@ -1,0 +1,40 @@
+---
+id: NBSLC634
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Rubber - list of publications (supersedes Letter Circular 532)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.LCIRC.634
+docidentifier:
+- content: NBS LC 634
+  type: NIST
+  primary: true
+- content: NBS.LCIRC.634
+  type: DOI
+date:
+- type: issued
+  at: '1941'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NBSLCIRC; NBS LCIRC; NBS letter circular
+  number: '634'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,83 @@
+---
+id: NISTSP1113BFRL
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Real-time monitoring of total inward leakage of respiratory equipment used
+    by emergency responders
+  type: title-main
+- language: en
+  script: Latn
+  content: workshop proceedings
+  type: title-part
+- language: en
+  script: Latn
+  content: Real-time monitoring of total inward leakage of respiratory equipment used
+    by emergency responders - workshop proceedings
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1113-BFRL
+docidentifier:
+- content: NIST SP 1113-BFRL
+  type: NIST
+  primary: true
+- content: NIST.SP.1113-BFRL
+  type: DOI
+date:
+- type: issued
+  at: '2010'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Butler, Kathryn M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021147634
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nyden, Marc R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no90004081
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bryant, Rodney A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012119699
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1113-BFRL
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

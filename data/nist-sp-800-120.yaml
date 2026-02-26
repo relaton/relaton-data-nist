@@ -1,0 +1,68 @@
+---
+id: NISTSP800120
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Recommendation for EAP methods used in wireless network access authentication
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-120
+docidentifier:
+- content: NIST SP 800-120
+  type: NIST
+  primary: true
+- content: NIST.SP.800-120
+  type: DOI
+date:
+- type: issued
+  at: '2009'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hoeper, K.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chen, L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2010182999
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation specifies security requirements for authentication
+    methods with key establishment supported by the Extensible Authentication Protocol
+    (EAP) defined in IETF RFC 3748 for wireless access authentications to federal
+    networks.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-120
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

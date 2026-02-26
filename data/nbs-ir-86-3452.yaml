@@ -1,0 +1,73 @@
+---
+id: NBSIR863452
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Impact-echo
+  type: title-main
+- language: en
+  script: Latn
+  content: a method for flaw detection in concrete using transient stress waves
+  type: title-part
+- language: en
+  script: Latn
+  content: Impact-echo - a method for flaw detection in concrete using transient stress
+    waves
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IR.86-3452
+docidentifier:
+- content: NBS IR 86-3452
+  type: NIST
+  primary: true
+- content: NBS.IR.86-3452
+  type: DOI
+date:
+- type: issued
+  at: '1986'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sansalone, Mary.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84000941
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Carino, Nicholas J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83169750
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBSIR; NBS IR; NBS interagency report; NBS internal report
+  number: 86-3452
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

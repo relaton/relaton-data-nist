@@ -1,0 +1,86 @@
+---
+id: NISTIR8303
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Development and validation of small punch testing at NIST
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8303
+docidentifier:
+- content: NIST IR 8303
+  type: NIST
+  primary: true
+- content: NIST.IR.8303
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lucon, Enrico.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015169004
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Benzing, Jake.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hrabe, Nikolas Wilson.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2011023050
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Material Measurement Laboratory (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012096740
+abstract:
+- language: en
+  script: Latn
+  content: Small Punch (SP) testing is a methodology that uses tiny disks (generally
+    8 mm in diameter and 0.5 mm thick) to estimate mechanical properties of metallic
+    materials, such as tensile properties, fracture toughness, and ductile-to-brittle
+    transition temperature. Empirical correlations are typically used to infer conventional
+    mechanical properties from characteristic forces and displacements obtained from
+    the SP test record. At NIST in Boulder, Colorado, we recently developed experimental
+    and analytical procedures for running SP tests on various materials. We conducted
+    SP tests on three steels with widely different tensile and fracture properties.
+    The NIST setup was successfully qualified by comparing our results on A533B steel
+    to the results obtained in an international round-robin, and also by comparing
+    empirical correlations between SP data and tensile properties to similar relationships
+    published in the literature. We also tested specimens with different surface roughness,
+    to investigate the influence of surface finish on SP test results.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8303'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

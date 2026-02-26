@@ -1,0 +1,60 @@
+---
+id: NISTGCR14977
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Disaster resilence workshop
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.GCR.14-977
+docidentifier:
+- content: NIST GCR 14-977
+  type: NIST
+  primary: true
+- content: NIST.GCR.14-977
+  type: DOI
+date:
+- type: issued
+  at: '2014'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mizzen, David R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022059387
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Vickery, Peter J.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST GCR
+  number: 14-977
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

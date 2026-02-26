@@ -1,0 +1,141 @@
+---
+id: NISTIR8406Upd1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Cybersecurity framework profile for liquefied natural gas
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8406-upd1
+docidentifier:
+- content: NIST IR 8406/Upd1
+  type: NIST
+  primary: true
+- content: NIST.IR.8406-upd1
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Newhouse, William
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4873-7648"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Long, Josephine
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Weitzel. David
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Warren, Jason
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Thompson, Michael
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-0836-244X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yates, Chris
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tran, Hillary
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mink, Alicia
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Herriott, Aurora
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cottle, Tom
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This document is the Cybersecurity Framework Profile developed for the
+    Liquefied Natural Gas (LNG) industry and the subsidiary functions that support
+    the overarching liquefaction process, transport, and distribution of LNG. The
+    LNG Cybersecurity Framework Profile can be used by liquefaction facilities, LNG
+    vessels, and other supporting entities of the LNG lifecycle so that cybersecurity
+    risks associated with these critical processes and systems can be minimized. The
+    LNG Profile provides a voluntary, risk-based approach for managing cybersecurity
+    activities and reducing cyber risk to the overall LNG process. The Cybersecurity
+    Framework LNG Profile is meant to supplement but not replace current cybersecurity
+    standards, regulations, and industry guidelines that are already being used by
+    the Liquefied Natural Gas industry.
+relation:
+- type: updates
+  bibitem:
+    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x000000032929b130>"
+    docidentifier:
+    - content: NIST IR 8406
+      type: NIST
+series:
+- title:
+  - content: NISTIR
+  number: 8406-upd1
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 8406-upd1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,89 @@
+---
+id: NISTIR5812v2
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Plant spatial configuration application protocol version 1.0
+  type: title-main
+- language: en
+  script: Latn
+  content: volume 2
+  type: title-part
+- language: en
+  script: Latn
+  content: Plant spatial configuration application protocol version 1.0 - volume 2
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.5812v2
+docidentifier:
+- content: NIST IR 5812v2
+  type: NIST
+  primary: true
+- content: NIST.IR.5812v2
+  type: DOI
+date:
+- type: issued
+  at: '1995'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kline, Steven W.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Palmer, Mark E.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Burkett, William.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Craig, Diane.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2006050955
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Skeels, Jack A.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 5812v2
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

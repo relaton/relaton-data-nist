@@ -1,0 +1,74 @@
+---
+id: NISTIR8318
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: DADS
+  type: title-main
+- language: en
+  script: Latn
+  content: the on-line dictionary of algorithms and data structures
+  type: title-part
+- language: en
+  script: Latn
+  content: DADS - the on-line dictionary of algorithms and data structures
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8318
+docidentifier:
+- content: NIST IR 8318
+  type: NIST
+  primary: true
+- content: NIST.IR.8318
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Black, Paul E.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+abstract:
+- language: en
+  script: Latn
+  content: The Dictionary of Algorithms and Data Structures (DADS) is a publicly accessible
+    dictionary of generally useful algorithms, data structures, algorithmic techniques,
+    archetypal problems, and related definitions available at https://nist.gov/DADS/.
+    DADS is meant to be a resource for the practicing programmer, although students
+    and researchers may find it a useful starting point. DADS has fundamental entries
+    in areas such as theory, cryptography and compression, graphs, trees, and searching,
+    for instance, Ackermann's function, quick sort, traveling salesman, big O notation,
+    merge sort, AVL tree, hash table, and Byzantine generals. This document is a manual
+    for and documentation of DADS. It records the history of DADS and explains the
+    theory, goals, and operating philosophy behind DADS, the structure of the web
+    site, and the structure and content of the DADS source directory. This report
+    also describes in detail the format and content of term files, which correspond
+    roughly to entries, and the software to compile term files into HTML web pages
+    and to check and maintain DADS.Finally, there are notes on possible future enhancements.
+    A typical term is included as an appendix for the reader's convenience.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8318'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,82 @@
+---
+id: NBSIR873514
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: SASE - Standards Analysis, Synthesis, and Expression program
+  type: title-main
+- language: en
+  script: Latn
+  content: user manual
+  type: title-part
+- language: en
+  script: Latn
+  content: SASE - Standards Analysis, Synthesis, and Expression program - user manual
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IR.87-3514
+docidentifier:
+- content: NBS IR 87-3514
+  type: NIST
+  primary: true
+- content: NBS.IR.87-3514
+  type: DOI
+date:
+- type: issued
+  at: '1987'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fenves, Steven J. (Steven Joseph)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84805394
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Slava, May T.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no89014028
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barnett, James P.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82081512
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBSIR; NBS IR; NBS interagency report; NBS internal report
+  number: 87-3514
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

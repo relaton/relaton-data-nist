@@ -1,0 +1,62 @@
+---
+id: NBSRPT9309
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Thermal insulation in buildings
+  type: title-main
+- language: en
+  script: Latn
+  content: preprint for the May 23, 1966 meeting of the Society of American Military
+    Engineers at the National Bureau of Standards, Gaithersburg, Maryland
+  type: title-part
+- language: en
+  script: Latn
+  content: Thermal insulation in buildings - preprint for the May 23, 1966 meeting
+    of the Society of American Military Engineers at the National Bureau of Standards,
+    Gaithersburg, Maryland
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.RPT.9309
+docidentifier:
+- content: NBS RPT 9309
+  type: NIST
+  primary: true
+- content: NBS.RPT.9309
+  type: DOI
+date:
+- type: issued
+  at: '1966'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Powell, Frank J.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS report
+  number: '9309'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

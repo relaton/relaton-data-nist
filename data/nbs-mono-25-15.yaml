@@ -1,0 +1,107 @@
+---
+id: NBSMONO2515
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Standard x-ray diffraction powder patterns
+  type: title-main
+- language: en
+  script: Latn
+  content: section 15- data for 112 substances
+  type: title-part
+- language: en
+  script: Latn
+  content: Standard x-ray diffraction powder patterns - section 15- data for 112 substances
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.MONO.25-15
+docidentifier:
+- content: NBS MONO 25-15
+  type: NIST
+  primary: true
+- content: NBS.MONO.25-15
+  type: DOI
+date:
+- type: issued
+  at: '1978'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Morris, Marlene C.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81112301
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McMurdie, Howard F.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82044746
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Evans, Eloise H.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Paretzkin, Boris.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: de Groot, Johan H.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Weeks, Brenda S.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Newberry, Rainer J.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS monograph; NBS MONO
+  number: 25-15
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,62 @@
+---
+id: NISTSP800106
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Randomized hashing for digital signatures
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-106
+docidentifier:
+- content: NIST SP 800-106
+  type: NIST
+  primary: true
+- content: NIST.SP.800-106
+  type: DOI
+date:
+- type: issued
+  at: '2009'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dang, Q. H.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: NIST-approved digital signature algorithms require the use of an approved
+    cryptographic hash function in the generation and verification of signatures.
+    Approved cryptographic hash functions and digital signature algorithms can be
+    found in FIPS 180-3, Secure Hash Standard (SHS), and FIPS 186-3, Digital Signature
+    Standard (DSS), respectively. The security provided by the cryptographic hash
+    function is vital to the security of a digital signature application. This Recommendation
+    specifies a method to enhance the security of the cryptographic hash functions
+    used in digital signature applications by randomizing the messages that are signed.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-106
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

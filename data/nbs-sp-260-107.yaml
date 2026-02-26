@@ -1,0 +1,72 @@
+---
+id: NBSSP260107
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Standard reference materials
+  type: title-main
+- language: en
+  script: Latn
+  content: description of the SRM 1965 microsphere slide
+  type: title-part
+- language: en
+  script: Latn
+  content: Standard reference materials - description of the SRM 1965 microsphere
+    slide
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.260-107
+docidentifier:
+- content: NBS SP 260-107
+  type: NIST
+  primary: true
+- content: NBS.SP.260-107
+  type: DOI
+date:
+- type: issued
+  at: '1988'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hartman, A. W.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n91119743
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McKenzie, Robert L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n85012112
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 260-107
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

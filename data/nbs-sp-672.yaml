@@ -1,0 +1,67 @@
+---
+id: NBSSP672
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Experimentation and measurement
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.672
+docidentifier:
+- content: NBS SP 672
+  type: NIST
+  primary: true
+- content: NBS.SP.672
+  type: DOI
+date:
+- type: issued
+  at: '1984'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Youden, W. J. (William John),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84053230
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+abstract:
+- language: en
+  script: Latn
+  content: This book is an elementary introduction to the laws of measurements. But
+    the approach is not an abstract discussion of measurements, instead it depends
+    upon getting you to make measurements and, by observing collections of measurements,
+    to discover for yourself some of the properties of measurements. The idea is to
+    learn something about measurement that will be useful-no matter what is being
+    measured. Some hint is given of the devices that scientists and measurements specialists
+    use to get more out of the available equipment. Understanding something about
+    the laws of measurements, a person may be able to get the answers to your own
+    research problems with half the usual amount of work. No young scientist can afford
+    to pass up a topic that may double his scientific achievements.
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: '672'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

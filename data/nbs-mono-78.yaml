@@ -1,0 +1,64 @@
+---
+id: NBSMONO78
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A Complete mode sum for LF, VLF, ELF terrestrial radio wave fields
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.MONO.78
+docidentifier:
+- content: NBS MONO 78
+  type: NIST
+  primary: true
+- content: NBS.MONO.78
+  type: DOI
+date:
+- type: issued
+  at: '1964'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Johler, J. Ralph.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82096244
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Berry, L. A. (Leslie A.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84021355
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS monograph; NBS MONO
+  number: '78'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

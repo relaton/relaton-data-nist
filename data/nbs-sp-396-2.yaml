@@ -1,0 +1,72 @@
+---
+id: NBSSP3962
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Critical surveys of data sources
+  type: title-main
+- language: en
+  script: Latn
+  content: ceramics
+  type: title-part
+- language: en
+  script: Latn
+  content: Critical surveys of data sources - ceramics
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.396-2
+docidentifier:
+- content: NBS SP 396-2
+  type: NIST
+  primary: true
+- content: NBS.SP.396-2
+  type: DOI
+date:
+- type: issued
+  at: '1975'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Johnson, Dorothea M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2011010259
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lynch, James F.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2011010635
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: 396-2
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

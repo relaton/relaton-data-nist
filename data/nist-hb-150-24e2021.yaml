@@ -1,0 +1,68 @@
+---
+id: NISTHB15024e2021
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NVLAP law enforcement and corrections equipment
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.HB.150-24-2021
+docidentifier:
+- content: NIST HB 150-24e2021
+  type: NIST
+  primary: true
+- content: NIST.HB.150-24-2021
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rasinski, Timothy.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Horlick, Jeffrey.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: National Institute of Standards and Technology.
+abstract:
+- language: en
+  script: Latn
+  content: NIST Handbook 150-24, NVLAP Law Enforcement and Corrections Equipment,
+    presents the technical requirements and guidance for the accreditation of laboratories
+    that test law enforcement and corrections equipment.
+relation:
+- type: updates
+  bibitem:
+    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x000000038d393b78>"
+    docidentifier:
+    - content: NIST HB 150-24e2010
+      type: NIST
+series:
+- title:
+  - content: NIST handbook
+  number: 150-24-2021
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

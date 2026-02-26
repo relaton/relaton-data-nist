@@ -1,0 +1,82 @@
+---
+id: NISTAMS10010
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guide to the NIST PMI CAD models and CAD system PMI modeling capability
+    verification testing results
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-10
+docidentifier:
+- content: NIST AMS 100-10
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-10
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lipman, Robert R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021113188
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Filliben, James J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79086097
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    - content: Information Technology Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: 'This guide contains supplemental information for the NIST MBE PMI Validation
+    and Conformance Testing Project. It is assumed that the reader has some familiarity
+    with the project including the test cases and test results. The project created
+    a test system to measure conformance of Computer-Aided Design (CAD) software to
+    American Society of Mechanical Engineers (ASME) standards for product and manufacturing
+    information (PMI), specifically geometric dimensioning and tolerancing (GD&T)
+    information. The test system has three main components: test cases, test CAD models,
+    and verification and validation test results. The verification and validation
+    results measure PMI implementation capabilities in CAD software and derivative
+    STEP, JT, and 3D PDF files. The information relating to the test case descriptions
+    and verification results that can be used to: (1) provide insights into the test
+    cases, PMI annotations, and verification testing results, and (2) inform future
+    testing projects in the development of test cases and testing procedures and criteria.'
+series:
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 100-10
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

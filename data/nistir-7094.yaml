@@ -1,0 +1,95 @@
+---
+id: NISTIR7094
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Structural collapse fire tests
+  type: title-main
+- language: en
+  script: Latn
+  content: single story, wood frame structures
+  type: title-part
+- language: en
+  script: Latn
+  content: Structural collapse fire tests - single story, wood frame structures
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7094
+docidentifier:
+- content: NIST IR 7094
+  type: NIST
+  primary: true
+- content: NIST.IR.7094
+  type: DOI
+date:
+- type: issued
+  at: '2004'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stroup, David W.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83062028
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bryner, Nelson P.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021101621
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McElroy, Jack LeeJay.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Roadarmel, Gary.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Twilley, William H.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83650028
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7094'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

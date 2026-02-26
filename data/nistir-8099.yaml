@@ -1,0 +1,72 @@
+---
+id: NISTIR8099
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Methods and tools for performance assurance of smart manufacturing systems
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8099
+docidentifier:
+- content: NIST IR 8099
+  type: NIST
+  primary: true
+- content: NIST.IR.8099
+  type: DOI
+date:
+- type: issued
+  at: '2015'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kibira, Deogratias.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022039909
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Morris, K. C.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020102435
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kumaraguru, Senthilkumaran.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    - content: System Integration Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8099'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

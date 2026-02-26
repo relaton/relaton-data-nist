@@ -1,0 +1,97 @@
+---
+id: NISTIR7008
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST research library benchmark study
+  type: title-main
+- language: en
+  script: Latn
+  content: 2001 summary report
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST research library benchmark study - 2001 summary report
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7008
+docidentifier:
+- content: NIST IR 7008
+  type: NIST
+  primary: true
+- content: NIST.IR.7008
+  type: DOI
+date:
+- type: issued
+  at: '2003'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Deutsch, Paula.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cunningham, Diane.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Greenhouse, Lisa A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Makar, Susan.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Overman, Warren.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sanders, Susan A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Silcox, Barbara.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7008'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

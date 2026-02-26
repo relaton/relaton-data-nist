@@ -1,0 +1,88 @@
+---
+id: NISTTN2051
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Cybersecurity framework smart grid profile
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2051
+docidentifier:
+- content: NIST TN 2051
+  type: NIST
+  primary: true
+- content: NIST.TN.2051
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Marron, Jeffrey.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gopstein, Avi.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bartol, Nadya.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021142965
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Feldman, Valery.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: The Smart Grid Profile is an initial attempt to apply risk management strategies
+    from the Framework for Improving Critical Infrastructure Cybersecurity (Cybersecurity
+    Framework) to the smart grid. The Profile provides cybersecurity risk management
+    guidance to power system owners/operators by prioritizing cybersecurity activities
+    based on their effectiveness in helping power system owners/operators achieve
+    common high-level business objectives for the smart grid. The Profile also provides
+    a list of considerations relevant to the challenges power system owners/operators
+    may experience as they implement these cybersecurity activities in infrastructures
+    with high concentrations of distributed energy resources (DERs).
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2051'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

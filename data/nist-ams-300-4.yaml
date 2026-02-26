@@ -1,0 +1,110 @@
+---
+id: NISTAMS3004
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guide to industrial wireless systems deployments
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.300-4
+docidentifier:
+- content: NIST AMS 300-4
+  type: NIST
+  primary: true
+- content: NIST.AMS.300-4
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Candell, Richard, .
+    identifier:
+    - type: uri
+      content: 0000-0002-6679-8823
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hany, Mohamed.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lee, Kang B.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no99066984
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Liu, Yongkang.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nr91006307
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Quimby, Jeanne.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Remley, Kate.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    - content: Information Technology Laboratory.
+    - content: Communications Technology Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: This document is intended to be a practical guide used by engineers and
+    managers facilitating them to go through the process of defining the objectives
+    of their wireless systems and examining the environments where the wireless systems
+    are to be deployed, then helping them in selecting, designing, deploying, and
+    monitoring the wireless systems using existing technology in a factory. Sufficient
+    background materials about wireless technologies are provided, so that the users
+    have some basic understanding of wireless systems being addressed. Thus the document
+    is aimed to be a light-weighted, easy-to-use, reference guide, equipped with checklists
+    throughout the lifecycle of wireless technology from concept and design to deployment
+    and monitoring.
+series:
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 300-4
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

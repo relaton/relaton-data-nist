@@ -1,0 +1,74 @@
+---
+id: NISTSP120026
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Assessing the chemical and colloidal stability of functionalized gold nanoparticles
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1200-26
+docidentifier:
+- content: NIST SP 1200-26
+  type: NIST
+  primary: true
+- content: NIST.SP.1200-26
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cho, Tae Joon.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hackley, Vincent A.
+    identifier:
+    - type: uri
+      content: 0000-0003-4166-2724
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Material Measurement Laboratory (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012096740
+abstract:
+- language: en
+  script: Latn
+  content: Among the many classes of engineered nanomaterials, gold nanoparticles
+    (GNPs) are one of the most widely studied and utilized nanoscale platforms for
+    biomedical applications including diagnostics, therapeutics, and transfection.
+    This is due in part to their general biocompatibility, facile synthesis and unique
+    optical properties.3 To realize these achievements, a systematic evaluation of
+    GNP stability, particularly under physiologically relevant conditions, is critical
+    for the efficacious and safe application of GNPs in any biomedical or technical
+    application. A lack of well documented and reproducible protocols motivated the
+    development of the present collection of methods, which address stability with
+    respect to aging, different media, pH, temperature, chemical resistance, and long-term
+    storage.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1200-26
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

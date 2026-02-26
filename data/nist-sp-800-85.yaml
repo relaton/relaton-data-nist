@@ -1,0 +1,78 @@
+---
+id: NISTSP80085
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: PIV middleware and PIV card application conformance test guidance (SP 800-73
+    compliance)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-85
+docidentifier:
+- content: NIST SP 800-85
+  type: NIST
+  primary: true
+- content: NIST.SP.800-85
+  type: DOI
+date:
+- type: issued
+  at: '2005'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Candramauḷi, Ār.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2015202084
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Eyuboglu, L.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mehta, K.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: 'This document specifies the test plan, processes, derived test requirements,
+    and detailed test assertions for testing the following: (a)PIV middleware (client
+    application API conformance) (b)PIV on-card application (for conformance to card
+    application card command interface) (c)PIV Data objects representation (d)PIV
+    Authentication Use Cases The test requirements are based on the specifications
+    in NIST Special Publication 800-73, Interfaces for Personal Identity Verification.'
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-85
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

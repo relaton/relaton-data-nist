@@ -1,0 +1,76 @@
+---
+id: NISTSP80019
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Mobile agent security
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-19
+docidentifier:
+- content: NIST SP 800-19
+  type: NIST
+  primary: true
+- content: NIST.SP.800-19
+  type: DOI
+date:
+- type: issued
+  at: '1999'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jansen, Wayne.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Karygiannis, Tom.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2007053177
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: Mobile agent technology offers a new computing paradigm in which a program,
+    in the form of a software agent, can suspend its execution on a host computer,
+    transfer itself to another agent-enabled host on the network, and resume execution
+    on the new host. The use of mobile code has a long history dating back to the
+    use of remote job entry systems in the 1960's. Today's agent incarnations can
+    be characterized in a number of ways ranging from simple distributed objects to
+    highly organized software with embedded intelligence. As the sophistication of
+    mobile software has increased over time, so too have the associated threats to
+    security. This report provides an overview of the range of threats facing the
+    designers of agent platforms and the developers of agent-based applications. The
+    report also identifies generic security objectives, and a range of measures for
+    countering the identified threats and fulfilling these security objectives.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-19
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

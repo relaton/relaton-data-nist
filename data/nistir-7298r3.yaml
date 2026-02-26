@@ -1,0 +1,71 @@
+---
+id: NISTIR7298r3
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Glossary of key information security terms
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7298r3
+docidentifier:
+- content: NIST IR 7298r3
+  type: NIST
+  primary: true
+- content: NIST.IR.7298r3
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Paulsen, Celia.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021142976
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Byers, Robert.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: This publication describes an online glossary of terms used in National
+    Institute of Standards and Technology (NIST) and Committee on National Security
+    Systems (CNSS) publications. This glossary utilizes a database of terms extracted
+    from NIST Federal Information Processing Standard Publications (FIPS), the NIST
+    Special Publication (SP) 800 series, select NIST Interagency or Internal Reports
+    (NISTIRs), and from the Committee for National Security Systems Instruction 4009
+    (CNSSI-4009).
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 7298r3
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

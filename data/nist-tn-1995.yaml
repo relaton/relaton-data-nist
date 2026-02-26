@@ -1,0 +1,78 @@
+---
+id: NISTTN1995
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Juliet 1.3 test suite
+  type: title-main
+- language: en
+  script: Latn
+  content: changes from 1.2
+  type: title-part
+- language: en
+  script: Latn
+  content: Juliet 1.3 test suite - changes from 1.2
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1995
+docidentifier:
+- content: NIST TN 1995
+  type: NIST
+  primary: true
+- content: NIST.TN.1995
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Black, Paul E.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2005073624
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: The Juliet test suite is a systematic set of thousands of small test programs
+    in C/C++ and Java exhibiting over 100 classes of errors, such as buffer overflow,
+    OS injection, hardcoded password, absolute path traversal, NULL pointer dereference,
+    uncaught exception, deadlock, and missing release of resource. These test programs
+    should be helpful in determining capabilities of software assurance tools, particularly
+    static analyzers, in Unix, Microsoft Windows, and other environments. Juliet was
+    developed by the National Security Agency's Center for Assured Software and first
+    released in December 2010. It has been enhanced twice since then. Version 1.2
+    was released in May 2013 with a total of 86,864 test cases. Released in October
+    2017, version 1.3 fixes about two dozen systematic problems in version 1.2 and
+    adds tests for pre- and postincrement and -decrement operators. This technical
+    note details the changes from version 1.2 to 1.3. This note also lists the systematic
+    problems that we know remain in Juliet 1.3.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1995'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

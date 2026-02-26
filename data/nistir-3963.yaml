@@ -1,0 +1,87 @@
+---
+id: NISTIR3963
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Unsteady laminar flow in a circular tube
+  type: title-main
+- language: en
+  script: Latn
+  content: a test of the HERCOL (Hermitian collocation) computer code
+  type: title-part
+- language: en
+  script: Latn
+  content: Unsteady laminar flow in a circular tube - a test of the HERCOL (Hermitian
+    collocation) computer code
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.3963
+docidentifier:
+- content: NIST IR 3963
+  type: NIST
+  primary: true
+- content: NIST.IR.3963
+  type: DOI
+date:
+- type: issued
+  at: '1991'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Welch, James F.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hurley, James A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Glover, Michael P.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nassimbene, Ryan D.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yetzbacher, Marilyn R.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '3963'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

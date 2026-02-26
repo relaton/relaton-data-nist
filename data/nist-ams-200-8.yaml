@@ -1,0 +1,79 @@
+---
+id: NISTAMS2008
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Economic guide for identifying and evaluating industry research investments
+  type: title-main
+- language: en
+  script: Latn
+  content: a focus on applied manufacturing research
+  type: title-part
+- language: en
+  script: Latn
+  content: Economic guide for identifying and evaluating industry research investments
+    - a focus on applied manufacturing research
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.200-8
+docidentifier:
+- content: NIST AMS 200-8
+  type: NIST
+  primary: true
+- content: NIST.AMS.200-8
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Thomas, Douglas S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021113838
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kandaswamy, Anand.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: This guide was assembled to aid change agents, such as research and trade
+    organizations, in evaluating potential research and development investments in
+    the manufacturing industry. It includes an overview of the primary methods used
+    for evaluating investments in manufacturing technologies along with tailoring
+    methods for change agent investments. The process presented in this guide has
+    5 steps with each step having a section of the guide dedicated to it.
+series:
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 200-8
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

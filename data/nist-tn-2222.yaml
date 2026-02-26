@@ -1,0 +1,92 @@
+---
+id: NISTTN2222
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Agile robotic planning with Gwendolen
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2222
+docidentifier:
+- content: NIST TN 2222
+  type: NIST
+  primary: true
+- content: NIST.TN.2222
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Michaloski, John.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schlenoff, Craig.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cardoso, Rafael C.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fisher, Michael.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: The future of robotics foresees autonomous behavior that can complete tasks
+    intelligently, with a focus on adaptability, flexibility, and versatility. In
+    such systems, it is critical for robots to quickly and safely perform an operation.
+    However, such aptitude is not limited to the speed of solving tasks, but also
+    requires other qualities such as adeptly detecting and recovering from task irregularities,
+    overcoming unforeseen task barriers by replanning to achieve stated goals, and
+    adroitly adapting to dynamic environments such as changing light illumination,
+    noisy sensors, or unexpected conditions. These intelligent characteristics define
+    robot agility (not to be confused with robot agility akin to dexterity), and refer
+    to approaches that allow robotic systems to be flexible and capable of re-tasking
+    in the face of a changing and often unpredictable environment. Because robot task
+    agility requires sophisticated dynamic and continuous planning and replanning,
+    the Gwendolen intelligent agent programming language is studied as a high-level
+    robot planner. In this report, we develop a manufacturing kitting case study to
+    research the operation of Gwendolen planning. The case study uses the combination
+    of Gwendolen, Canonical Robot Command Language (CRCL), Robot Operating System
+    (ROS), and Gazebo software components to simulate and evaluate robot planning.
+    Several Agile Robotics for Industrial Applications Competition (ARIAC) kitting
+    agility challenges are used to evaluate Gwendolen planning under various levels
+    of operational duress. Both the benefits and shortcomings will be reviewed.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2222'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

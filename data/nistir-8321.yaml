@@ -1,0 +1,77 @@
+---
+id: NISTIR8321
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Maximum luminous intensity of LED-lighted X signs for airport runways
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8321
+docidentifier:
+- content: NIST IR 8321
+  type: NIST
+  primary: true
+- content: NIST.IR.8321
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Litorja, Maritoni
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1233-2179"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Miller, C Cameron
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-2960-0996"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Physical Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This is a report for Inter-agency agreement 693KA9-18-N-00023 "Maximum
+    Luminous Intensity for LED Signaling in an Airport Environment" by Federal Aviation
+    Administration (FAA) and National Institute of Standards and Technology (NIST).
+    The LED-based lighted X signs recently introduced at many airports are perceived
+    too bright by pilots, causing glare and making it difficult to recognize the X
+    character. The objective of the study is to determine the acceptable level of
+    maximum luminous intensity of LED-lighted X signs that maintains clear visibility
+    of the lighted X sign. A theoretical study with literature review was first made
+    (Part 1). Then vision experiments were conducted using pilots as subjects (Part
+    2). The methods and results of these studies are reported.
+series:
+- title:
+  - content: NISTIR
+  number: '8321'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8321'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

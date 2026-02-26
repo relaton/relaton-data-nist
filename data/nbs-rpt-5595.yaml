@@ -1,0 +1,70 @@
+---
+id: NBSRPT5595
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Evaluation of the first and second moment integrals of a certain probability
+    density function by an application of the theory of Gaussian quadrature
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.RPT.5595
+docidentifier:
+- content: NBS RPT 5595
+  type: NIST
+  primary: true
+- content: NBS.RPT.5595
+  type: DOI
+date:
+- type: issued
+  at: '1958'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Johler, J. Ralph.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82096244
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Walters, L. C.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NBS report
+  number: '5595'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

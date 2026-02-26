@@ -1,0 +1,101 @@
+---
+id: NBSRPT6043
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The use of measurements in predicting the performance of tropospheric communication
+    circuits
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.RPT.6043
+docidentifier:
+- content: NBS RPT 6043
+  type: NIST
+  primary: true
+- content: NBS.RPT.6043
+  type: DOI
+date:
+- type: issued
+  at: '1959'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barsis, A. P.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80006175
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rice, P. L. (Patricia L.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88650271
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Norton, Kenneth A.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021015342
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: The uncertainty in predicting the performance of tropospheric communication
+    circuits may be expressed by a variance, assuming a log-normal distribution of
+    the differences between calculated and measured values of field strength or basic
+    transmission loss, if a number of paths with identical geometrical and other prediction
+    parameters are considered. It is shown to what extent this variance may be reduced
+    by taking into account transmission loss measurements over the same path for which
+    the prediction is intended, or over a similar path. The improved prediction is
+    obtained by assigning weights to calculated and observed values, respectively,
+    and forming a weighted average. The method is demonstrated by examples, and the
+    results are used to calculate new values of service probability on the basis of
+    the improved prediction. Comparison of service probabilities for predictions based
+    on the cal¿̐¿ culation above, and for predictions taking into account the results
+    of transmission loss measurements, enables the designer to judge whether the cost
+    of a measurement program is justified in terms of possible savings in equipment
+    for a final installation.
+series:
+- title:
+  - content: NBS report
+  number: '6043'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

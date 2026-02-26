@@ -1,0 +1,70 @@
+---
+id: NISTIR6722
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Updating a turning center error model by singular value decomposition
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.6722
+docidentifier:
+- content: NIST IR 6722
+  type: NIST
+  primary: true
+- content: NIST.IR.6722
+  type: DOI
+date:
+- type: issued
+  at: '2001'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gilsinn, David,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79041171
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brandy, Herbert T.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ling, Alice V. (Alice Valeria)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003115013
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '6722'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

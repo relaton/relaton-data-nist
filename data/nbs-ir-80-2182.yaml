@@ -1,0 +1,83 @@
+---
+id: NBSIR802182
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: M7
+  type: title-main
+- language: en
+  script: Latn
+  content: a general pattern matching facility users manual
+  type: title-part
+- language: en
+  script: Latn
+  content: M7 - a general pattern matching facility users manual
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IR.80-2182
+docidentifier:
+- content: NBS IR 80-2182
+  type: NIST
+  primary: true
+- content: NBS.IR.80-2182
+  type: DOI
+date:
+- type: issued
+  at: '1981'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Marriott, A. R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Skillman, G. H.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Salazar, Sandra.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n87860722
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hardgrave, W. T.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBSIR; NBS IR; NBS interagency report; NBS internal report
+  number: 80-2182
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

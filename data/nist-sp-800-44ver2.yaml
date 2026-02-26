@@ -1,0 +1,88 @@
+---
+id: NISTSP80044ver2
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guidelines on securing public web servers
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-44ver2
+docidentifier:
+- content: NIST SP 800-44ver2
+  type: NIST
+  primary: true
+- content: NIST.SP.800-44ver2
+  type: DOI
+date:
+- type: issued
+  at: '2007'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tracy, M. C.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jansen, W.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2009004133
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, K. A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Winograd, T.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: Web servers are often the most targeted and attacked hosts on organizations'
+    networks. As a result, it is essential to secure Web servers and the network infrastructure
+    that supports them. This document is intended to assist organizations in installing,
+    configuring, and maintaining secure public Web servers. Practices described in
+    detail include choosing Web server software and platforms, securing the underlying
+    operating system and Web server software, deploying appropriate network protection
+    mechanisms, and using, publicizing, and protecting information in a careful and
+    systematic manner. The publication also provides recommendations for maintaining
+    secure configurations through patching and upgrades, security testing, log monitoring,
+    and backups of data and operating system files.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-44ver2
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

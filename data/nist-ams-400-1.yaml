@@ -1,0 +1,89 @@
+---
+id: NISTAMS4001
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: On-machine measurement use cases and information for machining operations
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.400-1
+docidentifier:
+- content: NIST AMS 400-1
+  type: NIST
+  primary: true
+- content: NIST.AMS.400-1
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Horst, John.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020102859
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hedberg, Thomas,
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-9024-2059"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barnard Feeney, Allison.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-0866-9572"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: Thorough and unambiguous definitions of a broad set of on-machine measurement
+    use cases and information are offered. Relevant in-situ and off-machine measurement
+    use cases are also described in some detail, due to their close relationship to
+    on-machine measurement. The use cases are defined to expose a comprehensive scope
+    of information useful to manufacturing information standards bodies. Activity
+    diagrams for on-machine measurement are presented which help clarify the use cases
+    and information elements required for on-machine measurement. Due to the lack
+    of definitional consensus on terms and definitions for on-machine measurement
+    in the literature, a broad scope of terms required by the numerous and varied
+    types of quality measurement use cases commonly performed on or around machine
+    tools are precisely defined, while seeking to remain faithful to definitional
+    usage common in industry and academia.
+series:
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 400-1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

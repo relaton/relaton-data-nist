@@ -1,0 +1,76 @@
+---
+id: NBSSP626
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Nuclear data for the efficiency calibration of germanium spectormeter systems
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.626
+docidentifier:
+- content: NBS SP 626
+  type: NIST
+  primary: true
+- content: NBS.SP.626
+  type: DOI
+date:
+- type: issued
+  at: '1982'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hoppes, D. D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82126408
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schima, F. J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82126368
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+abstract:
+- language: en
+  script: Latn
+  content: Members of the Alpha-, Beta-, and Gamma-Ray Spectrometry Group of the International
+    Committee for Radionuclide Metrology agreed in 1979 to collect the nuclear data
+    from any measurements in their laboratories that were pertinent to the calibration
+    of the efficiency of germanium spectrometer systems. This report is composed of
+    the contributions from 14 laboratories, as listed in part II. If a self-contained
+    contribution was received, it has been incorporated without editing. Less formal
+    communications, or references to published articles, are discussed in short comments
+    prepared by the compilers. Part IV is a compilation of a selected portion of the
+    data, arranged by radionuclide.
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: '626'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,76 @@
+---
+id: NBSSP581
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Radon in buildings
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.581
+docidentifier:
+- content: NBS SP 581
+  type: NIST
+  primary: true
+- content: NBS.SP.581
+  type: DOI
+date:
+- type: issued
+  at: '1980'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Collé, R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80080610
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McNall, Preston E.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80082989
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+abstract:
+- language: en
+  script: Latn
+  content: This is the proceedings of a Roundtable Discussion of Radon in Buildings
+    held June 15, 1979 at the National Bureau of Standards in Gaithersburg, Maryland.
+    The meeting brought together a number of participants with diverse interdisciplinary
+    interest in radiation protection, radiation measurement and building technology,
+    provided a forum to exchange information, and drew attention to some of the problems
+    and research needs associated with radiation exposure due to radon in buildings.
+    Emphasis was placed on (1) the characterization of the sources and pathways of
+    radon in buildings; (2) the biological and health effects; (3) measurement considerations;
+    and (4) strategies and control technologies to minimize indoor radiation exposure.
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: '581'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

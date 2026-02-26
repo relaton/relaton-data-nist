@@ -1,0 +1,102 @@
+---
+id: NISTNSRDS164
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST database of cross sections for inner-shell ionization by electron
+    or positron impact
+  type: title-main
+- language: en
+  script: Latn
+  content: version 1.0 user's guide
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST database of cross sections for inner-shell ionization by electron
+    or positron impact - version 1.0 user's guide
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.NSRDS.164
+docidentifier:
+- content: NIST NSRDS 164
+  type: NIST
+  primary: true
+- content: NIST.NSRDS.164
+  type: DOI
+date:
+- type: issued
+  at: '2014'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Llovet, Xavier.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nb2015003765
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Salvat, Francesc.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bote, David.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Salvat-Pujol, Francesc.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jablonski, leksander.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Powell, C. J. (Cedric John)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88098988
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Material Measurement Laboratory (U.S.).
+    - content: Materials Measurement Science Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012096740
+series:
+- title:
+  - content: NIST NSRDS; NSRDS-NIST; National standard reference data series
+  number: '164'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

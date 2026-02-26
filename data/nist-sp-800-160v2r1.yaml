@@ -1,0 +1,118 @@
+---
+id: NISTSP800160v2r1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Developing cyber-resilient systems
+  type: title-main
+- language: en
+  script: Latn
+  content: a systems security engineering approach
+  type: title-part
+- language: en
+  script: Latn
+  content: Developing cyber-resilient systems - a systems security engineering approach
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-160v2r1
+docidentifier:
+- content: NIST SP 800-160v2r1
+  type: NIST
+  primary: true
+- content: NIST.SP.800-160v2r1
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ross, Ron.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pillitteri, Victoria.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Graubart, Richard.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bodeau, Deborah.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McQuaid, Rosalie.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: NIST Special Publication (SP) 800-160, Volume 2, Revision 1, focuses on
+    cyber resiliency engineering an emerging specialty systems engineering discipline
+    applied in conjunction with systems security engineering and resilience engineering
+    to develop survivable, trustworthy secure systems. Cyber resiliency engineering
+    intends to architect, design, develop, implement, maintain, and sustain the trustworthiness
+    of systems with the capability to anticipate, withstand, recover from, and adapt
+    to adverse conditions, stresses, attacks, or compromises that use or are enabled
+    by cyber resources. From a risk management perspective, cyber resiliency is intended
+    to help reduce the mission, business, organizational, enterprise or sector risk
+    of depending on cyber resources. This publication can be used in conjunction with
+    ISO/IEC/IEEE 15288:2015, Systems and software engineering Systems life cycle processes,
+    NIST Special Publication (SP) 800-160, Volume 1, Systems Security Engineering
+    Considerations for a Multidisciplinary Approach in the Engineering of Trustworthy
+    Secure Systems, NIST SP 800-37, Risk Management Framework for Information Systems
+    and Organizations A System Life Cycle Approach for Security and Privacy; and NIST
+    SP 800-53, Security and Privacy Controls for Information Systems and Organizations.
+    It can be viewed as a handbook for achieving the identified cyber resiliency outcomes
+    based on a systems engineering perspective on system life cycle and risk management
+    processes, allowing the experience and expertise of the implementing organization
+    to help determine how the content will be used for its purpose. Organizations
+    can select, adapt, and use some or all of the cyber resiliency constructs (i.e.,
+    goals, objectives, techniques, approaches, and design principles) described in
+    this publication and apply the constructs to the technical, operational, and threat
+    environments for which systems need to be engineered.
+relation:
+- type: updates
+  bibitem:
+    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x0000000389d1c4f0>"
+    docidentifier:
+    - content: NIST SP 800-160v2
+      type: NIST
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-160v2r1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

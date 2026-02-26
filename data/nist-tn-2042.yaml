@@ -1,0 +1,87 @@
+---
+id: NISTTN2042
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Review of smart grid standards for testing and certification landscape
+    analysis
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2042
+docidentifier:
+- content: NIST TN 2042
+  type: NIST
+  primary: true
+- content: NIST.TN.2042
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Song, Eugene Y.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nguyen, Cuong.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gopstein, Avi.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: 'The National Institute of Standards and Technology (NIST) Smart Grid Program
+    seeks to accelerate the development of conformity assessment or testing and certification
+    (T&C) programs for smart grid interoperability standards to ensure that the implementations
+    conform to the standards'' requirements and therefore enhance interoperability
+    of smart grid devices and systems. This document presents a review of the current
+    state of T&C for smart grid standards using a set of metrics developed from functional
+    aspects of the standards. These functional metrics include information model and
+    model mapping, communication protocol and protocol mapping, device physical performance,
+    test methodologies, guidelines and best practices, and cybersecurity. These metrics
+    are used to analyze smart grid standards and the T&C availability of these standards
+    was also evaluated. The 240 smart grid standards analyzed were drawn primarily
+    from three resources: the Smart Electric Power Alliance (SEPA) Catalog of Standards
+    (CoS), the 2014 release of NIST''s Framework and Roadmap for Smart Grid Interoperability
+    Standards Release 3.0, and the Union of the Electricity Industry (EURELECTRIC)
+    and European Distribution System Operator (EDSO) priorities for smart grid standardization
+    position paper. The results of the smart grid standards T&C landscape analysis
+    are provided in the report. These results indicate that only a small percentage
+    of smart grid standards have available T&C programs.'
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2042'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

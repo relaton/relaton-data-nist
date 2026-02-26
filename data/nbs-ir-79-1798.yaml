@@ -1,0 +1,78 @@
+---
+id: NBSIR791798
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Final report
+  type: title-main
+- language: en
+  script: Latn
+  content: 'FDA contract no. 74-58(0) : October 1978 to March 1979'
+  type: title-part
+- language: en
+  script: Latn
+  content: 'Final report - FDA contract no. 74-58(0) : October 1978 to March 1979'
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IR.79-1798
+docidentifier:
+- content: NBS IR 79-1798
+  type: NIST
+  primary: true
+- content: NBS.IR.79-1798
+  type: DOI
+date:
+- type: issued
+  at: '1979'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schaffer, Robert,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83061752
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Velapoldi, R. A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79004036
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Reeder, D. J.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NBSIR; NBS IR; NBS interagency report; NBS internal report
+  number: 79-1798
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

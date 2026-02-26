@@ -1,0 +1,86 @@
+---
+id: NISTSP260192
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Thirty-year stability of Standard Reference Material 2034 holmium oxide
+    solution wavelength standard for spectrophotometry
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-192
+docidentifier:
+- content: NIST SP 260-192
+  type: NIST
+  primary: true
+- content: NIST.SP.260-192
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Smith, Melody V.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021120232
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Travis, John C.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81011447
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Duewer, David L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2019178574
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Material Measurement Laboratory (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012096740
+abstract:
+- language: en
+  script: Latn
+  content: Standard Reference Material (SRM) 2034, Holmium Oxide Solution Wavelength
+    Standard (240 nm to 650 nm), was produced periodically from 1985 to 2015. The
+    expiration date for the units of each production run increased with experience
+    until 1995 when a period of ten years was established. This report describes a
+    study of legacy samples from every production run over the thirty-year period
+    that established that the band locations in all samples have not varied outside
+    of their established uncertainties. These results support the extension of the
+    expected stability of SRM 2034 holmium oxide solution in dilute perchloric acid
+    to a period of at least 30 years.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 260-192
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,61 @@
+---
+id: NISTFIPS199
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Standards for security categorization of federal information and information
+    systems
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.FIPS.199
+docidentifier:
+- content: NIST FIPS 199
+  type: NIST
+  primary: true
+- content: NIST.FIPS.199
+  type: DOI
+date:
+- type: issued
+  at: '2004'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: The purpose of this document is to provide a standard for categorizing
+    federal information and information systems according to an agency's level of
+    concern for confidentiality, integrity, and availability and the potential impact
+    on agency assets and operations should their information and information systems
+    be compromised through unauthorized access, use, disclosure, disruption, modification,
+    or destruction.
+series:
+- title:
+  - content: Federal information processing standards publication; FIPS
+  number: '199'
+place:
+- city: Washington
+  region:
+  - iso: D
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

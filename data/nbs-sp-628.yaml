@@ -1,0 +1,74 @@
+---
+id: NBSSP628
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Measurement of electrical quantities in pulse power systems
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.628
+docidentifier:
+- content: NBS SP 628
+  type: NIST
+  primary: true
+- content: NBS.SP.628
+  type: DOI
+date:
+- type: issued
+  at: '1982'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McKnight, R. H. (Ronald H.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82139472
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hebner, R. E. (Robert E.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82139465
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+abstract:
+- language: en
+  script: Latn
+  content: 'The Workshop on Measurement of Electrical Quantities in Pulse Power Systems
+    addressed measurements in pulse systems having the characteristics of pulse duration
+    less than a millisecond, system voltages greater than 10 kilovolts, and system
+    currents greater than 10 kiloamperes. The presented papers were divided into four
+    categories: voltage measurements; current measurements; power and energy measurements,
+    and data acquisition. Included are discussions of applications of conventional
+    measurement techniques and state-of-the-art systems.'
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: '628'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,59 @@
+---
+id: NBSSP9606
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST recommended practice guide
+  type: title-main
+- language: en
+  script: Latn
+  content: surges happen! how to protect the applicances in your home
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST recommended practice guide - surges happen! how to protect the applicances
+    in your home
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.960-6
+docidentifier:
+- content: NBS SP 960-6
+  type: NIST
+  primary: true
+- content: NBS.SP.960-6
+  type: DOI
+date:
+- type: issued
+  at: '2001'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Martzloff, Francois.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 960-6
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

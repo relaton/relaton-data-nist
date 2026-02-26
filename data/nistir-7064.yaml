@@ -1,0 +1,80 @@
+---
+id: NISTIR7064
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Measuring and assessing the consequences of technology and innovation for
+    affordability of housing
+  type: title-main
+- language: en
+  script: Latn
+  content: proceedings of the NIST - PATH Workshop
+  type: title-part
+- language: en
+  script: Latn
+  content: Measuring and assessing the consequences of technology and innovation for
+    affordability of housing - proceedings of the NIST - PATH Workshop
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7064
+docidentifier:
+- content: NIST IR 7064
+  type: NIST
+  primary: true
+- content: NIST.IR.7064
+  type: DOI
+date:
+- type: issued
+  at: '2004'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Whiddon, William I.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n86852941
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hattis, David B.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Leng, Chi J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2005064553
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7064'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

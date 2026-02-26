@@ -1,0 +1,74 @@
+---
+id: NISTIR8298
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A summary of industrial verification, validation, and uncertainty quantification
+    procedures in computational fluid dynamics
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8298
+docidentifier:
+- content: NIST IR 8298
+  type: NIST
+  primary: true
+- content: NIST.IR.8298
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yeo, DongHun.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2018048920
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: 'Within a variety of Computational Fluid Dynamics (CFD) applications, maturity
+    levels can vary significantly depending upon modeling approach and the user''s
+    knowledge and skills. Recently, application of CFD techniques for Computational
+    Wind Engineering (CWE) has generated strong interest among wind and structural
+    engineers as a possible substitute for or supplement to wind tunnel experimentation,
+    even though CWE is still in a developmental stage. A necessary step toward advancing
+    CWE simulations in wind and structural engineering applications credible is the
+    development of reliable verification and validation (V&V) procedures. Fundamental
+    factors that determine the degree to which CWE simulations are the credible include:
+    (i) the quality of the mathematical modeling of the physics of interest; (ii)
+    the depth of understanding by the users/analysts of the details of the model and
+    the simulation results; (iii) the quality of the verification and validation (V&V)
+    procedures applied to the simulation results, and (iv) the quality of the uncertainty
+    quantification procedure applied to those results. This report deals in detail
+    with the sources of inaccuracy in CFD simulations, and concepts and procedures
+    used in V&V and uncertainty quantification.'
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8298'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

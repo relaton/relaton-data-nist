@@ -1,0 +1,166 @@
+---
+id: NISTTN2197
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Report on high energy arcing fault experiments
+  type: title-main
+- language: en
+  script: Latn
+  content: experimental results from low-voltage switchgear enclosures
+  type: title-part
+- language: en
+  script: Latn
+  content: Report on high energy arcing fault experiments - experimental results from
+    low-voltage switchgear enclosures
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2197
+docidentifier:
+- content: NIST TN 2197
+  type: NIST
+  primary: true
+- content: NIST.TN.2197
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Putorti, Anthony.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bareham, Scott.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brown, Christopher.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tam, Wai Cheong.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hnetkovsky, Edward.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Thompson, Andre.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Selepak, Michael.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Deardorff, Philip.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hamburger, Kenneth.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Melly, Nicholas.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Miller, Kenneth.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Taylor, Gabriel.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This report documents an experimental program designed to investigate High
+    Energy Arcing Fault (HEAF) phenomena for low-voltage metal enclosed switchgear
+    containing aluminum conductors. This report covers full-scale laboratory experiments
+    using representative nuclear power plant (NPP) three-phase electrical equipment.
+    Electrical, thermal, and pressure data were recorded for each experiment and documented
+    in this report. This report covers experiments performed on two low-voltage switchgear
+    units with each unit consisting of two vertical sections. The data collected supports
+    characterization of the low-voltage HEAF hazard, and these results will be used
+    to support potential improvements in fire probabilistic risk assessment (PRA)
+    methods. The experiments were performed at KEMA Labs located in Chalfont, Pennsylvania.
+    The experimental design, setup, and execution were completed by staff from the
+    NRC, the National Institute of Standards and Technology (NIST), Sandia National
+    Laboratories (SNL) and KEMA. In addition, representatives from the Electric Power
+    Research Institute (EPRI) observed some of the experimental setup and execution.
+    The HEAF experiments were performed between August 26 and August 29, 2019 on near-identical
+    Westinghouse Type DS low-voltage metal-enclosed indoor switchgear. The three-phase
+    arcing fault was initiated on the aluminum main bus or in select cases on the
+    copper bus stabs near the breaker. These experiments used either nominal 480 V
+    (AC) or 600 V (AC). Durations of the experiments ranged from approximately 0.4
+    s to 8.3 s with fault currents ranging from approximately 9.2 kA to 19.3 kA. Real-time
+    electrical operating conditions, including voltage, current, and frequency, were
+    measured during the experiments. Heat fluxes and incident energies were measured
+    with plate thermometers, radiometers, and slug calorimeters at various locations
+    around the electrical enclosures. Environmental measurements of breakdown, conductivity,
+    and electromagnetics were also taken. The experiments were documented with normal
+    and high-speed videography, infrared imaging, and photography. The results, while
+    limited, indicated the difficulty in maintaining and sustaining low-voltage arcs
+    on aluminum components of sufficient duration and at a single point as observed
+    from operating experience.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2197'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,85 @@
+---
+id: NISTTN2047
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Aqueous-based amphiphile solutions used as gel coatings to reduce flammability
+    of cotton fabrics
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2047
+docidentifier:
+- content: NIST TN 2047
+  type: NIST
+  primary: true
+- content: NIST.TN.2047
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Thompson, Andre L.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Love, Brian J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2019014206
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Davis, Rick D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021152727
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: This study reports on the change in flammability of cotton fabrics caused
+    by water-insoluble gel coatings applied from a single bath solution formulated
+    with polymeric micelles and flame retardant amphiphiles. The flame resistant coatings
+    are made from low concentration aqueous formulations of polyethylene oxide-polypropylene
+    oxide-polyethylene oxide, and 5 % to 15 % mass fraction melamine and sodium hexametaphosphate.
+    The coated cotton fabrics were tested and characterized by a variety of bench-scale
+    tools, such as vertical flame testing, micro-scale combustion calorimetry, and
+    thermogravimetric analysis. Properties such as increased ignition resistance,
+    self-extinguishment, and higher decomposition temperatures were measured, relative
+    to the uncoated cotton.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2047'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

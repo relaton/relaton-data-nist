@@ -1,0 +1,64 @@
+---
+id: NBSBMS126
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Self-siphonage of fixture traps
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.BMS.126
+docidentifier:
+- content: NBS BMS 126
+  type: NIST
+  primary: true
+- content: NBS.BMS.126
+  type: DOI
+date:
+- type: issued
+  at: '1951'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: French, John L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2016064531
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Eaton, Herbert N. (Herbert Nelson),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2008025041
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS building materials and structures report; NBS BMS
+  number: '126'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

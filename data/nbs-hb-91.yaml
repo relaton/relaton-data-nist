@@ -1,0 +1,62 @@
+---
+id: NBSHB91
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Experimental statistics
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.HB.91
+docidentifier:
+- content: NBS HB 91
+  type: NIST
+  primary: true
+- content: NBS.HB.91
+  type: DOI
+date:
+- type: issued
+  at: '1963'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Natrella, Mary Gibbons.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81141186
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS handbook; NBS HB
+  number: '91'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,122 @@
+---
+id: NISTSP180023
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Energy sector asset management for electric utilities, oil and gas industry
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1800-23
+docidentifier:
+- content: NIST SP 1800-23
+  type: NIST
+  primary: true
+- content: NIST.SP.1800-23
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McCarthy, James.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2019072324
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Acierto, Lauren.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Joy, Glen.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kuruvilla, Jason.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ogunyale, Titilayo.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Urlaub, Nikolas.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wiltberger, John.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wynne, Devin.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: 'Industrial control systems (ICS) compose a core part of our nation''s
+    critical infrastructure. Energy sector companies rely on ICS to generate, transmit,
+    and distribute power and to drill, produce, refine, and transport oil and natural
+    gas. Given the wide variety of ICS assets, such as programmable logic controllers
+    and intelligent electronic devices, that provide command and control information
+    on operational technology (OT) networks, it is essential to protect these devices
+    to maintain continuity of operations. These assets must be monitored and managed
+    to reduce the risk of a cyber attack on ICS-networked environments. Having an
+    accurate OT asset inventory is a critical component of an overall cybersecurity
+    strategy. NIST SP 1800-23B: Energy Sector Asset Management iii The NCCoE at NIST
+    is responding to the energy sector''s request for an automated OT asset management
+    solution. To remain fully operational, energy sector entities should be able to
+    effectively identify, control, and monitor their OT assets. This document provides
+    guidance on how to enhance OT asset management practices by leveraging capabilities
+    that may already exist in an energy organization''s operating environment as well
+    as implementing new capabilities.'
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1800-23
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,102 @@
+---
+id: NISTTN2115
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Associating disaster deaths with risk profiles
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2115
+docidentifier:
+- content: NIST TN 2115
+  type: NIST
+  primary: true
+- content: NIST.TN.2115
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gilbert, Stanley W.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Helgeson, Jennifer F.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Webb, David H.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fung, Juan F.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kandaswamy, Anand.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: In this paper we set out to identify which risk profiles contribute most
+    to deaths in disasters. A risk profile represents an identifiable group of people
+    who would be at risk of death in a disaster through some mechanism. Four risk
+    profiles were considered in this report, Population (representing the overall
+    population of a location), Frailty (representing people who are in some sense
+    physically vulnerable to injury or illness), Mobile Homes residents, and Risk
+    Takers (proxied by the population of heavy drinkers). Overall the single greatest
+    contributor to deaths was the Mobile Home risk profile, although that varied by
+    disaster event type. The prominence of the mobile-home risk profile suggests that
+    in many cases it proxies for a larger group, possibly related to income or educational
+    level. The risk profile associated with disaster fatalities depends on the type
+    of event. For Katrina-type hurricanes and extreme-temperature events, frailty
+    was the most important risk profile. For wind and flood events the Mobile Home
+    population was overwhelmingly the most significant risk profile. For avalanche
+    events the Risk-Taker profile was the most significant one. For all other event
+    types (including non-Katrina hurricanes) fatalities were attributed to a mix of
+    the Mobile Home and Frailty risk profiles. Disaster-related deaths do not appear
+    to strike people at random from the population as a whole. Looking at the county-level
+    results, there are identifiable spatial patterns to the risk profiles. High frailty
+    clusters tend to be found around high population regions, while high mobile home
+    clusters are in more rural areas. Much of the U.S., spatially, is in a moderate
+    cluster both for frailty and mobile homes, while most major population centers
+    are part of clusters of similar values for risk profile.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2115'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

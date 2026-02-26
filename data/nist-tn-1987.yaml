@@ -1,0 +1,97 @@
+---
+id: NISTTN1987
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Reduced-order thermal analysis of fire effects on composite slabs
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1987
+docidentifier:
+- content: NIST TN 1987
+  type: NIST
+  primary: true
+- content: NIST.TN.1987
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jiang, Jian.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2001064512
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Main, Joseph A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2011168767
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Weigand, Jonathan.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sadek, Fahim.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003083235
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: This paper describes a reduced-order modeling approach for thermal analyses
+    of composite slabs with profiled decking. The reduced-order modeling approach
+    consists of alternating strips of layered shell elements, representing the thick
+    and thin portions of slab. Layered shell elements representing the thick portion
+    of the slab adopt a linear reduction in the density of concrete within the rib
+    to account for the tapered profile of the ribs. A dummy material with low specific
+    heat and high through-thickness thermal conductivity is used to represent the
+    voids between the ribs. The specific heat of concrete in the rib is also modified
+    to indirectly consider the heat input through the web of the decking. The optimal
+    ratio of modified to actual specific heat of concrete in the rib is determined,
+    depending on the ratio of the height of the upper continuous portion to the height
+    of the rib. The reduced-order modeling approach is validated against experimental
+    results.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1987'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

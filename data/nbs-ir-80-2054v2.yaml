@@ -1,0 +1,79 @@
+---
+id: NBSIR802054v2
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The burning of wood and plastic cribs in an enclosure
+  type: title-main
+- language: en
+  script: Latn
+  content: volume II
+  type: title-part
+- language: en
+  script: Latn
+  content: The burning of wood and plastic cribs in an enclosure - volume II
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IR.80-2054v2
+docidentifier:
+- content: NBS IR 80-2054v2
+  type: NIST
+  primary: true
+- content: NBS.IR.80-2054v2
+  type: DOI
+date:
+- type: issued
+  at: '1980'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Quintere, James G.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McCaffrey, Bernard J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81133265
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Harkleroad, M. F.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n85202514
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBSIR; NBS IR; NBS interagency report; NBS internal report
+  number: 80-2054v2
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

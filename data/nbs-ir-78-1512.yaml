@@ -1,0 +1,62 @@
+---
+id: NBSIR781512
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Some theoretical aspects of fire induced flows through doorways in a room-corridor
+    scale model
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IR.78-1512
+docidentifier:
+- content: NBS IR 78-1512
+  type: NIST
+  primary: true
+- content: NBS.IR.78-1512
+  type: DOI
+date:
+- type: issued
+  at: '1978'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Quintiere, James G.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81133257
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: DenBraven, Karen.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBSIR; NBS IR; NBS interagency report; NBS internal report
+  number: 78-1512
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

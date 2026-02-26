@@ -1,0 +1,77 @@
+---
+id: NISTIR7970
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Taxonomic rules for password policies
+  type: title-main
+- language: en
+  script: Latn
+  content: translating the informal to the formal language
+  type: title-part
+- language: en
+  script: Latn
+  content: Taxonomic rules for password policies - translating the informal to the
+    formal language
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7970
+docidentifier:
+- content: NIST IR 7970
+  type: NIST
+  primary: true
+- content: NIST.IR.7970
+  type: DOI
+date:
+- type: issued
+  at: '2013'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Killourhy, Kevin.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Choong, Yee-Yin.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2012016196
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Theofanos, Mary.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7970'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

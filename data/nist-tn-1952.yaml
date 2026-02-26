@@ -1,0 +1,142 @@
+---
+id: NISTTN1952
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'LTE impacts on GPS: final test report'
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1952
+docidentifier:
+- content: NIST TN 1952
+  type: NIST
+  primary: true
+- content: NIST.TN.1952
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Young, William F.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Feldman, Ari.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n00005509
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Genco, Sheryl.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kord, Aziz.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kuester, Daniel G.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ladbury, John.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McGillivray, Duncan A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Puls, Audrey K.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rosete, Andre.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wunderlich, Adam.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yang, Wen-Bin.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Communications Technology Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: 'This report describes the test methodology from LTE impacts on GPS: Test
+    and Metrology Plan developed by National Advanced Spectrum and Communications
+    Test Network (NASCTN), and data that are the result of executing the test method.
+    The fundamental goals in developing the test plan development were: a transparent,
+    reproducible, and well-calibrated test method, sound and statistically- valid
+    data retrieval and processing methods, a clear path from measurement setup to
+    data collection to processed results, and data to inform discussions between different
+    interests on proper measurement requirements. The NASCTN team performed radiated
+    testing to execute the test plan. These efforts amount to a test campaign intended
+    to refine the test method and publish data for the stakeholder community. To this
+    end, the team set out to: provide data of sufficient quality and relevance to
+    support sound decision-making, articulate the importance of measurement uncertainty
+    along with its relationship with the design and execution of the test method,
+    and convey key implementation details that to support future execution of the
+    test method.'
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1952'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

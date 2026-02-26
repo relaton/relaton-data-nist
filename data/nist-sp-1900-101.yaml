@@ -1,0 +1,81 @@
+---
+id: NISTSP1900101
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: UCEF 1.0.0-ALPHA kickoff workshop
+  type: title-main
+- language: en
+  script: Latn
+  content: workshop report
+  type: title-part
+- language: en
+  script: Latn
+  content: UCEF 1.0.0-ALPHA kickoff workshop - workshop report
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1900-101
+docidentifier:
+- content: NIST SP 1900-101
+  type: NIST
+  primary: true
+- content: NIST.SP.1900-101
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Burns, Martin.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97033846
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Roth, Thomas.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n85214806
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: This report summarizes the results of a workshop held at NIST on July 27,
+    2017. The goal of this workshop was to introduce participants to the newly constructed
+    Universal CPS Environment for Federation (UCEF). Over 40 attendees were provided
+    with the UCEF environment which is contained in a virtual machine. They were presented
+    with the background on UCEF and the technologies included. They additionally were
+    led through an exercise of using the tool suite to develop a joint federated experiment.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1900-101
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

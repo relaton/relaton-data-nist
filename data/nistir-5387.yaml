@@ -1,0 +1,69 @@
+---
+id: NISTIR5387
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Graphical analysis of the CCRl Portland cement proficiency sample database
+    (samples 1-72)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.5387
+docidentifier:
+- content: NIST IR 5387
+  type: NIST
+  primary: true
+- content: NIST.IR.5387
+  type: DOI
+date:
+- type: issued
+  at: '1994'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Spring, Curtis B.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pielert, James H.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Leigh, Stefan.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Heckert, N. Alan.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '5387'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

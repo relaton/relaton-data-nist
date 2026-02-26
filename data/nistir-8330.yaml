@@ -1,0 +1,98 @@
+---
+id: NISTIR8330
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Research report
+  type: title-main
+- language: en
+  script: Latn
+  content: user perceptions of smart home privacy and security
+  type: title-part
+- language: en
+  script: Latn
+  content: Research report - user perceptions of smart home privacy and security
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8330
+docidentifier:
+- content: NIST IR 8330
+  type: NIST
+  primary: true
+- content: NIST.IR.8330
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Haney, Julie M.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-6017-9693"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Furman, Susanne M.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7013-6603"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Acar, Yasemin.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Smart home technologies may expose adopters to increased risk to network
+    security, information privacy, and physical safety. However, users may lack understanding
+    of the privacy and security implications, while devices fail to provide transparency
+    and configuration options. This results in little meaningful mitigation action
+    to protect users’ security and privacy. To better understand users’ perceptions
+    of smart home privacy and security, we conducted an in-depth interview study of
+    40 smart home users. In this document, we report the study findings related to
+    perceptions of data collection/use, privacy and security concerns, and mitigations
+    employed to alleviate concerns. We found that users have varied, and often unclear,
+    understandings of how smart home data are collected and used. In addition, although
+    users may have security and privacy concerns, many participants displayed a willingness
+    to accept risks in favor of smart home benefits, and they feel limited responsibility
+    for mitigating these due to constrained options or lack of knowledge to enact
+    more sophisticated countermeasures. While this report is not meant to be prescriptive,
+    an understanding of user perceptions may be used to inform future smart home security
+    and privacy guidance for manufacturers and users.
+series:
+- title:
+  - content: NISTIR
+  number: '8330'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8330'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

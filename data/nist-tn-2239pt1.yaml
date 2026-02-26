@@ -1,0 +1,114 @@
+---
+id: NISTTN2239pt1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST Alternatives for Resilient Communities (NIST ARC) software tool
+  type: title-main
+- language: en
+  script: Latn
+  content: mathematical programming model
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST Alternatives for Resilient Communities (NIST ARC) software tool -
+    mathematical programming model
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2239pt1
+docidentifier:
+- content: NIST TN 2239pt1
+  type: NIST
+  primary: true
+- content: NIST.TN.2239pt1
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Harrison, Kenneth.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-6813-1854"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Faiz, Tasnim Ibn.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1987-9863"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Farahmandfar, Zeinab.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-8912-0401"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Crawford, Shane.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Loerzel, Jarrod.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The National Institute of Standards and Technology (NIST) Alternatives
+    for Resilient Communities (NIST ARC) software is an interactive tool for developing
+    alternative sets of actions that meet community resilience and cost goals, given
+    hazard and interdependency information and socio-economic data. Community resilience
+    planning is challenging as it involves several large-scale systems and public
+    sector decision-making with numerous stakeholders. The goal of NIST ARC is to
+    decrease a community s burden in developing viable alternatives for stakeholder
+    consideration. This technical note details NIST ARC s mathematical programming
+    model, which is the leading technical contribution of NIST ARC. The model variables,
+    parameters (data), and equations of the two-stage stochastic mixed integer linear
+    programming model are described, with the full model given in the Appendix. Results
+    for a realistic example designed to test the suitability of the mathematical programming
+    model for supporting interactive community resilience planning are presented.
+    Finally, the NIST ARC decision support application that enables the use and application
+    of the model, the plans for its further development and testing, and its role
+    within the broader set of NIST-funded tools and guidance for the Community Resilience
+    Program are briefly described.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: 2239pt1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

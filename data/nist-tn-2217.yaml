@@ -1,0 +1,95 @@
+---
+id: NISTTN2217
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IEC 61850 profile for distributed energy resources supporting IEEE 1547
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2217
+docidentifier:
+- content: NIST TN 2217
+  type: NIST
+  primary: true
+- content: NIST.TN.2217
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Oral, Hasan Giray.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Anand, Dhananjay.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nguyen, Cuong.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gopstein, Avi.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brunner, Christoph.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Apostolov, Alexander.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Communications Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: This document provides an IEC 61850 profile for a Distributed Energy Resource
+    supporting IEEE 1547 and the grid support functions therein. The profile utilizes
+    the IEC 61850 data object model and maps the requirements of IEEE 1547 to the
+    data object model for the integration of DERs in the electric power system. By
+    establishing a required subset of data objects and data attributes from the IEC
+    61850 model, the profile reduces model complexity and aims to improve the interoperability,
+    and the engineering, testing and maintenance of IEC 61850 based protection, automation
+    and control systems. A description of how the profile maps the IEEE 1547 requirements
+    to the required IEC 61850 data objects is provided and use case examples are given.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2217'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

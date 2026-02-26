@@ -1,0 +1,85 @@
+---
+id: NISTTN1879
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Tensile properties of commercially pure, high-purity and ultra-high-purity
+    iron: results of an international round-robin'
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1879
+docidentifier:
+- content: NIST TN 1879
+  type: NIST
+  primary: true
+- content: NIST.TN.1879
+  type: DOI
+date:
+- type: issued
+  at: '2015'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lucon, Enrico.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015169004
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Abiko, Kenji.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021139591
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lambrecht, Marlies.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021139592
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rehmer, Birgit.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021139593
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Material Measurement Laboratory (U.S.).
+    - content: Applied Chemicals and Materials Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012096740
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1879'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

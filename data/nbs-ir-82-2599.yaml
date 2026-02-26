@@ -1,0 +1,69 @@
+---
+id: NBSIR822599
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Investigation of floor vibrations in the D wing of the main building of
+    the Bureau of Engraving and Printing
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IR.82-2599
+docidentifier:
+- content: NBS IR 82-2599
+  type: NIST
+  primary: true
+- content: NBS.IR.82-2599
+  type: DOI
+date:
+- type: issued
+  at: '1982'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Reinhold, T. A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yokel, Felix Y.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50014037
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rudder, F. F.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBSIR; NBS IR; NBS interagency report; NBS internal report
+  number: 82-2599
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

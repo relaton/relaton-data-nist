@@ -1,0 +1,66 @@
+---
+id: NISTIR8338
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Bridging analog land mobile radio to LTE mission critical push-to-talk
+    communications
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8338
+docidentifier:
+- content: NIST IR 8338
+  type: NIST
+  primary: true
+- content: NIST.IR.8338
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Walton, Christopher.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: O'Dell, Chic.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Communications Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This paper explores a low-cost method to bridge analog public safety Land
+    mobile radio (LMR) systems into a standards based Long Term Evolution (LTE) MCPTT
+    system. Design goals included robustness, cost, and the creation of a system that
+    closely conforms to released and future standards. A proof of concept prototype
+    that successfully bridges an analog LMR system with a standards compliant LTE
+    based MCPTT system was developed and tested. The results and design details will
+    be covered in this paper.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8338'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

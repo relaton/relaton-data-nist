@@ -1,0 +1,76 @@
+---
+id: NISTIR8194
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Exploratory lens model of decision-making in a potential phishing attack
+    scenario
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8194
+docidentifier:
+- content: NIST IR 8194
+  type: NIST
+  primary: true
+- content: NIST.IR.8194
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tamborello, Franklin P.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020089832
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Greene, Kristen K.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020085049
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: Phishing, the transmission of a message spoofing a legitimate sender about
+    a legitimate subject with intent to perform malicious activity, causes a tremendous
+    and rapidly-increasing amount of damage to American information systems and users
+    annually. This project implements an exploratory computational model of user decision
+    making in a potential phishing attack scenario. The model demonstrates how contextual
+    factors, such as message subject matter match to current work concerns, and personality
+    factors, such as conscientiousness, contribute to users' decisions to comply with
+    or ignore message requests.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8194'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

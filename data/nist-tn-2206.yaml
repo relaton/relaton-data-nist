@@ -1,0 +1,79 @@
+---
+id: NISTTN2206
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: State-of-the-art review on measurement of pressure losses of fluid flow
+    through pipe fittings
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2206
+docidentifier:
+- content: NIST TN 2206
+  type: NIST
+  primary: true
+- content: NIST.TN.2206
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lin, Lingnan.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Batista, Marylia Duarte.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ferretti, Natascha Milesi.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: This report presents a state-of-the-art review of the measurement of pressure
+    loss of pipe fittings. The mechanisms of pressure loss in pipes and fittings are
+    discussed to facilitate the understanding of this these measurement and their
+    challenges problem. Existing methods for measuring the pressure loss of pipe fittings
+    are critically reviewed. Advantages and disadvantages of each method and other
+    general considerations are discussed. The instrumentation techniques are illustrated
+    in detail, including guidelines and considerations for the design or selection
+    of pressure taps, impulse lines, pressure transducers, and flow meters. The available
+    pressure loss data of pipe fittings, published from 1926 to 2019, are reviewed.
+    In general, most of the existing data are not representative of modern pipe fittings
+    and flow conditions. Future research efforts are described to focus on developing
+    a standard method of test and terminology, and generating new representative data
+    for modern pipe fittings.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2206'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

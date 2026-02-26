@@ -1,0 +1,118 @@
+---
+id: NISTSP800137
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Information Security Continuous Monitoring (ISCM) for federal information
+    systems and organizations
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-137
+docidentifier:
+- content: NIST SP 800-137
+  type: NIST
+  primary: true
+- content: NIST.SP.800-137
+  type: DOI
+date:
+- type: issued
+  at: '2011'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dempsey, K. L.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chawla, N. S.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Johnson, L. A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81012562
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Johnston, R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jones, A. C.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Orebaugh, A. D.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scholl, M. A. (Martha A.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n95108546
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stine, K. M.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: The purpose of this guideline is to assist organizations in the development
+    of a continuous monitoring strategy and the implementation of a continuous monitoring
+    program providing visibility into organizational assets, awareness of threats
+    and vulnerabilities, and visibility into the effectiveness of deployed security
+    controls. It provides ongoing assurance that planned and implemented security
+    controls are aligned with organizational risk tolerance as well as the information
+    needed to respond to risk in a timely manner should observations indicate that
+    the security controls are inadequate.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-137
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

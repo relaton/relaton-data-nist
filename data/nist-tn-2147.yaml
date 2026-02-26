@@ -1,0 +1,128 @@
+---
+id: NISTTN2147
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Characterizing LTE user equipment emissions under closed-loop power control
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2147
+docidentifier:
+- content: NIST TN 2147
+  type: NIST
+  primary: true
+- content: NIST.TN.2147
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Coder, Jason.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sanders, Aric.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Frey, Michael.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wunderlich, Adam.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kord, Azizollah.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Splett, Jolene.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Koepke, Lucas.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kuester, Daniel.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McGillivray, Duncan.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ladbury, John.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Communications Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: This report presents a laboratory-based characterization of Long Term Evolution
+    (LTE) User Equipment (UE) emissions under closed-loop power control, building
+    on our prior work (NIST TN 2069), which assessed the impact of a large number
+    of factors affecting UE emissions. Specifically, this investigation aims to shed
+    light on real-world UE behavior through rigorous measurements of uplink power
+    per physical resource block under a variety of realistic conditions and settings.
+    In addition, this work provides insight into the relationship between the UE-reported
+    uplink power and the actual power radiated by the UE. Although the results presented
+    here pertain to LTE equipment operating in a specific frequency band, LTE Band
+    66 (1710 MHz - 1780 MHz), the measurement method is presented in enough detail
+    that additional investigations can be performed in other bands of interest. The
+    report concludes with a summary of contributions on a variety of uplink emissions
+    topics of common interest to those developing interference models and coexistence
+    strategies.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2147'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

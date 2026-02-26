@@ -1,0 +1,75 @@
+---
+id: NISTTN1825
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The use of elevators for evacuation in fire emergencies in international
+    buildings
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1825
+docidentifier:
+- content: NIST TN 1825
+  type: NIST
+  primary: true
+- content: NIST.TN.1825
+  type: DOI
+date:
+- type: issued
+  at: '2014'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kinateder, Max T.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022040094
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Omori, Hidemi.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022066550
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kuligowski, Erica D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2011141182
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1825'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,134 @@
+---
+id: NISTIR8320A
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Hardware-enabled security
+  type: title-main
+- language: en
+  script: Latn
+  content: container platform security prototype
+  type: title-part
+- language: en
+  script: Latn
+  content: Hardware-enabled security - container platform security prototype
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8320A
+docidentifier:
+- content: NIST IR 8320A
+  type: NIST
+  primary: true
+- content: NIST.IR.8320A
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bartock, Michael.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Souppaya, Murugiah.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wheeler, Jerry.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Knoll, Tim.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Shetty, Uttam.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Savino, Ryan.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Inbaraj, Joseprabu.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Righi, Stefano.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, Karen.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: In today's cloud data centers and edge computing, attack surfaces have
+    significantly increased, hacking has become industrialized, and most security
+    control implementations are not coherent or consistent. The foundation of any
+    data center or edge computing security strategy should be securing the platform
+    on which data and workloads will be executed and accessed. The physical platform
+    represents the first layer for any layered security approach and provides the
+    initial protections to help ensure that higher-layer security controls can be
+    trusted. This report explains an approach based on hardware-enabled security techniques
+    and technologies for safeguarding container deployments in multi-tenant cloud
+    environments. It also describes a proof-of-concept implementation of the approach
+    a prototype that is intended to be a blueprint or template for the general security
+    community.
+relation:
+- type: updates
+  bibitem:
+    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x000000039239e5c8>"
+    docidentifier:
+    - content: NIST IR 8320
+      type: NIST
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 8320A
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,82 @@
+---
+id: NBSSP40064
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The relationship between resistivity and dopant density for phosphorus-and
+    boron-doped silicon
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.400-64
+docidentifier:
+- content: NBS SP 400-64
+  type: NIST
+  primary: true
+- content: NBS.SP.400-64
+  type: DOI
+date:
+- type: issued
+  at: '1981'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Thurber, W. Robert.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n78012579
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mattis, Richard L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83169673
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: and, Liu Y.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Filliben, James J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79086097
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: 400-64
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

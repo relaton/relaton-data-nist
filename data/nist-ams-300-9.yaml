@@ -1,0 +1,90 @@
+---
+id: NISTAMS3009
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Industrial wireless deployments in the navy shipyard
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.300-9
+docidentifier:
+- content: NIST AMS 300-9
+  type: NIST
+  primary: true
+- content: NIST.AMS.300-9
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Candell, Richard
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-6679-8823"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Montgomery, Karl
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Liu, Yongkang
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hany, Mohamed
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-6619-3509"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The National Institute of Standards and Technology (NIST) and the Office
+    of Naval Research (ONR) have partnered to investigate the application of digital
+    manufacturing methods and technologies within the navy shipyard. As a part of
+    the effort, wireless network deployments are considered. This report provides
+    an overview of the wireless networking requirements of navy shipyards specifically
+    for the transmission of machine information outside and inside of the vessel during
+    construction. Recommended approaches are included with each use case. This report
+    is intended to provide the reader with direction to other larger resources and
+    documentation provided by NIST.
+series:
+- title:
+  - content: NIST advanced manufacturing series
+  number: 300-9
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 300-9
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

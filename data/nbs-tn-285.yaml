@@ -1,0 +1,74 @@
+---
+id: NBSTN285
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: File organization for a large chemical information system
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.TN.285
+docidentifier:
+- content: NBS TN 285
+  type: NIST
+  primary: true
+- content: NBS.TN.285
+  type: DOI
+date:
+- type: issued
+  at: '1966'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Anderson, Ruth.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n87150740
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Marden, Ethel C.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n85088587
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Marron, Beatrice.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021037003
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS technical note; NBS tech note; NBS TN
+  number: '285'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

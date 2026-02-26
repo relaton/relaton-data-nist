@@ -1,0 +1,69 @@
+---
+id: NBSRPT9977
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Valuation of telecommunications
+  type: title-main
+- language: en
+  script: Latn
+  content: progress report for FY 68 with appendices
+  type: title-part
+- language: en
+  script: Latn
+  content: Valuation of telecommunications - progress report for FY 68 with appendices
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.RPT.9977
+docidentifier:
+- content: NBS RPT 9977
+  type: NIST
+  primary: true
+- content: NBS.RPT.9977
+  type: DOI
+date:
+- type: issued
+  at: '1969'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Strom, S. C.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hobbs, Arthur M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88031273
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS report
+  number: '9977'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

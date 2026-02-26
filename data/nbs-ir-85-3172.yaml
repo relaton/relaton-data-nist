@@ -1,0 +1,83 @@
+---
+id: NBSIR853172
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: package checking field manual to accompany NBS Handbook 133
+  type: title-main
+- language: en
+  script: Latn
+  content: checking the net contents of packaged goods
+  type: title-part
+- language: en
+  script: Latn
+  content: package checking field manual to accompany NBS Handbook 133 - checking
+    the net contents of packaged goods
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IR.85-3172
+docidentifier:
+- content: NBS IR 85-3172
+  type: NIST
+  primary: true
+- content: NBS.IR.85-3172
+  type: DOI
+date:
+- type: issued
+  at: '1985'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brickenkamp, C. S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81140869
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hasko, Stephen.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81117514
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Natrella, Mary Gibbons.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81141186
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS handbook; NBS HB
+  number: 85-3172
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

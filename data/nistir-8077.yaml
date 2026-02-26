@@ -1,0 +1,77 @@
+---
+id: NISTIR8077
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Investigation of PMU response to leap second
+  type: title-main
+- language: en
+  script: Latn
+  content: '2015'
+  type: title-part
+- language: en
+  script: Latn
+  content: Investigation of PMU response to leap second - 2015
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8077
+docidentifier:
+- content: NIST IR 8077
+  type: NIST
+  primary: true
+- content: NIST.IR.8077
+  type: DOI
+date:
+- type: issued
+  at: '2015'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Goldstein, Allen
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2016112646
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Anand, Dhananjay.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Li-Baboud, Ya-Shian.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.)).
+    - content: Quantum Measurement Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2019028800
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8077'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

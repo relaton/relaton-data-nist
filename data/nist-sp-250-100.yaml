@@ -1,0 +1,147 @@
+---
+id: NISTSP250100
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Magnetic resonance imaging biomarker calibration service
+  type: title-main
+- language: en
+  script: Latn
+  content: NMR measurement of isotropic water diffusion coefficient
+  type: title-part
+- language: en
+  script: Latn
+  content: Magnetic resonance imaging biomarker calibration service - NMR measurement
+    of isotropic water diffusion coefficient
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.250-100
+docidentifier:
+- content: NIST SP 250-100
+  type: NIST
+  primary: true
+- content: NIST.SP.250-100
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Boss, Michael A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Keenan, Kathryn E.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-9070-5255"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stupic, Karl F.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-8356-1660"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rentz, Nikki S.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stoffer, Cassandra M.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Russek, Stephen E.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8788-2442"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Koepke, Amanda A.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-9515-0383"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Coakley, Kevin J.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-3787-2577"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Physical Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This document describes a calibration service to measure the water diffusion
+    coefficient, or diffusivity, in reference materials and tissue mimics using nuclear
+    magnetic resonance (NMR) techniques. This calibration is restricted to materials
+    which exhibit isotropic Gaussian water diffusion. The measurement uses the water
+    proton spin as a tag and standard NMR gradient techniques to measure diffusion
+    of the proton magnetization, which, in low viscosity fluids, is largely determined
+    by the physical diffusion of water molecules. The calibrated materials are meant
+    to be used in phantoms (calibration devices) to verify the accuracy of magnetic
+    resonance imaging (MRI)-based water diffusion measurements. The local diffusion
+    coefficient (often referred to as the apparent diffusion coefficient in complex
+    materials) and other associated parameters, are used as image-based biomarkers
+    to assess the state of tissue cellular density, detect tissue anomalies, characterize
+    tumor type, evaluate treatment efficacy, and assess neural connectivity and neural
+    tissue degeneration. A biomarker, as defined by the U.S. Food and Drug Administration,
+    is a characteristic that is objectively measured and evaluated as an indicator
+    of normal biological processes, pathogenic processes, or biological responses
+    to a therapeutic intervention. [1] Diffusion coefficients, which describe the
+    rate that water protons move due to random thermal motion, are phenomenological
+    parameters that must be carefully defined and measured to enable rigorous quantification
+    and their use as biomarkers for clinical decision making. Diffusion parameters,
+    in addition to being dependent on local material properties, are dependent on
+    environmental parameters such as temperature, which must be controlled and precisely
+    and accurately measured.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 250-100
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

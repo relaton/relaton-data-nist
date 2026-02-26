@@ -1,0 +1,82 @@
+---
+id: NBSMONO145pt2
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Tables of spectral-line intensities
+  type: title-main
+- language: en
+  script: Latn
+  content: part 2- arranged by wavelengths
+  type: title-part
+- language: en
+  script: Latn
+  content: Tables of spectral-line intensities - part 2- arranged by wavelengths
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.MONO.145p2
+docidentifier:
+- content: NBS MONO 145pt2
+  type: NIST
+  primary: true
+- content: NBS.MONO.145p2
+  type: DOI
+date:
+- type: issued
+  at: '1975'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Meggers, William F. (William Frederick),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no98130690
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Corliss, Charles H.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81109054
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scribner, Bourdon F. (Bourdon Francis),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n89667089
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS monograph; NBS MONO
+  number: 145p2
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

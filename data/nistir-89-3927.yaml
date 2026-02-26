@@ -1,0 +1,91 @@
+---
+id: NISTIR893927
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Recent improvements in time-domain EMC measurement system
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.89-3927
+docidentifier:
+- content: NIST IR 89-3927
+  type: NIST
+  primary: true
+- content: NIST.IR.89-3927
+  type: DOI
+date:
+- type: issued
+  at: '1989'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Adams, J. W.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ondrejka, A. R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cavcey, K. H.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cruz, J. E.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n85351275
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Medley, H. W.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n87846680
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grosvenor, J. H., Jr.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 89-3927
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

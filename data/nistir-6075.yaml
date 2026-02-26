@@ -1,0 +1,80 @@
+---
+id: NISTIR6075
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Cumulative seismic damage of reinforced concrete bridge piers
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.6075
+docidentifier:
+- content: NIST IR 6075
+  type: NIST
+  primary: true
+- content: NIST.IR.6075
+  type: DOI
+date:
+- type: issued
+  at: '1997'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kunnath, Sashi K.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n89661167
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: El-Bahy, Ashraf.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Taylor, A. W. (Andrew W.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88046564
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stone, W. C. (William C.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81152535
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '6075'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

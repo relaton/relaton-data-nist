@@ -1,0 +1,68 @@
+---
+id: NISTSP800121
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guide to bluetooth security
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-121
+docidentifier:
+- content: NIST SP 800-121
+  type: NIST
+  primary: true
+- content: NIST.SP.800-121
+  type: DOI
+date:
+- type: issued
+  at: '2008'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, K. A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Padgette, J.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: Bluetooth is an open standard for short-range radio frequency communication.
+    Bluetooth technology is used primarily to establish wireless personal area networks.
+    It has been integrated into many types of business and consumer devices, including
+    cellular phones, personal digital assistants, laptops, automobiles, printers,
+    and headsets. This publication provides information on the security capabilities
+    of Bluetooth and gives recommendations to organizations employing Bluetooth technologies
+    on securing them effectively.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-121
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

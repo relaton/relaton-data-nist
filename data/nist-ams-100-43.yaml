@@ -1,0 +1,95 @@
+---
+id: NISTAMS10043
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Inert gas flow speed measurements in laser powder bed fusion additive manufacturing
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-43
+docidentifier:
+- content: NIST AMS 100-43
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-43
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Weaver, Jordan S.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schlenoff, Alec.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Deisenroth, David C.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Moylan, Shawn P.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Laser powder bed fusion (LPBF) is an additive manufacturing technology
+    that uses a laser to selectively melt powder feedstock to build parts in a layer-by-layer
+    process. For metals-based LBPF additive manufacturing, the interaction of the
+    laser and powder feedstock creates byproducts such as a plume, spatter, and powder
+    ejecta. Directional gas flow, typically nitrogen or argon, is used to remove or
+    mitigate the negative effects of these byproducts. This report documents and presents
+    gas flow measurements using hot-wire anemometers (HWA) for two different nozzles
+    on a commercial LPBF machine and two different gasses at the NIST Additive Manufacturing
+    Metrology Testbed (AMMT). The AMMT gas flow system generates comparable volumetric
+    flow rates with argon and with nitrogen, which result in comparable flow speed
+    profiles for both gasses. There are significant differences in the gas speed profiles
+    along the gas flow direction (Y-position) and minimal differences perpendicular
+    to the gas flow direction (X-position) with both machines. The speed differences
+    with Y-position are in part due to the elevated inlet and outlet nozzles from
+    the build platform. The average speed only decreases slightly from the inlet to
+    the outlet despite these differences in the speed profiles. The grid nozzle on
+    the commercial machine with a downward facing row of channels at the base of the
+    nozzle increases the gas speed close to the build platform; however, non-uniform
+    speed profiles remain. Gas speed and therefore gas speed measurements with HWAs
+    are highly dependent on Z and Y position. This should be considered when prescribing
+    machine performance protocols. Additional suggestions for measuring and reporting
+    gas flow are made as well as recommended future experiments and simulations to
+    assist in machine performance standards.
+series:
+- title:
+  - content: NIST advanced manufacturing series
+  number: 100-43
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

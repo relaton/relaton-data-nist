@@ -1,0 +1,105 @@
+---
+id: NISTIR7778
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Effects of JPEG 2000 image compression on 1000 ppi fingerprint imagery
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7778
+docidentifier:
+- content: NIST IR 7778
+  type: NIST
+  primary: true
+- content: NIST.IR.7778
+  type: DOI
+date:
+- type: issued
+  at: '2011'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Orandi, Shahram.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020043056
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Libert, John M.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020085991
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grantham, John D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020148735
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ko, Kenneth.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020148737
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wood, Stephen S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020149183
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wu, Jin Chu.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020098846
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
+    - content: Information Access Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2011180823
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7778'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

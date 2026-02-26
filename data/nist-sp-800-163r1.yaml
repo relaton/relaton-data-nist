@@ -1,0 +1,97 @@
+---
+id: NISTSP800163r1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Vetting the security of mobile applications
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-163r1
+docidentifier:
+- content: NIST SP 800-163r1
+  type: NIST
+  primary: true
+- content: NIST.SP.800-163r1
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ogata, Michael.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2009051024
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Franklin, Joshua M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020086934
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Voas, Jeffrey.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sritapan, Vincent.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Quirolgico, Stephen,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022075608
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: Mobile applications are an integral part of our everyday personal and professional
+    lives. As both public and private organizations rely more on mobile applications,
+    ensuring that they are reasonably free from vulnerabilities and defects becomes
+    paramount. This paper outlines and details a mobile application vetting process.
+    This process can be used to ensure that mobile applications conform to an organization
+    s security requirements and are reasonably free from vulnerabilities.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-163r1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

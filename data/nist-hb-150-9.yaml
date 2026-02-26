@@ -1,0 +1,77 @@
+---
+id: NISTHB1509
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'National voluntary laboratory accreditation program: wood based products'
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.HB.150-9
+docidentifier:
+- content: NIST HB 150-9
+  type: NIST
+  primary: true
+- content: NIST.HB.150-9
+  type: DOI
+date:
+- type: issued
+  at: '1994'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Knab, Lawrence I.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80071024
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Galowin, Lawrence S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80025517
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rossiter, Walter J, Jr.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hall, Wiley A.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST handbook; NIST HB
+  number: 150-9
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

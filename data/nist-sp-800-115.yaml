@@ -1,0 +1,86 @@
+---
+id: NISTSP800115
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Technical guide to information security testing and assessment
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-115
+docidentifier:
+- content: NIST SP 800-115
+  type: NIST
+  primary: true
+- content: NIST.SP.800-115
+  type: DOI
+date:
+- type: issued
+  at: '2008'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, K. A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Souppaya, M. P.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cody, A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Orebaugh, A. D.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: The purpose of this document is to assist organizations in planning and
+    conducting technical information security tests and examinations, analyzing findings,
+    and developing mitigation strategies. The guide provides practical recommendations
+    for designing, implementing, and maintaining technical information security test
+    and examination processes and procedures. These can be used for several purposes,
+    such as finding vulnerabilities in a system or network and verifying compliance
+    with a policy or other requirements. The guide is not intended to present a comprehensive
+    information security testing and examination program but rather an overview of
+    key elements of technical security testing and examination, with an emphasis on
+    specific technical techniques, the benefits and limitations of each, and recommendations
+    for their use.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-115
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

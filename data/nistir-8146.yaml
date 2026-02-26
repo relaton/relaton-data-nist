@@ -1,0 +1,77 @@
+---
+id: NISTIR8146
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Interlaboratory analytical comparison study of fatty acid concentrations
+    in human serum
+  type: title-main
+- language: en
+  script: Latn
+  content: 'results for exercise 03: QA16FASER03'
+  type: title-part
+- language: en
+  script: Latn
+  content: 'Interlaboratory analytical comparison study of fatty acid concentrations
+    in human serum - results for exercise 03: QA16FASER03'
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8146
+docidentifier:
+- content: NIST IR 8146
+  type: NIST
+  primary: true
+- content: NIST.IR.8146
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schantz, Michele M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2007089499
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Material Measurement Laboratory (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012096740
+abstract:
+- language: en
+  script: Latn
+  content: The National Institute of Standards and Technology (NIST), at the request
+    of the National Institute of Healths (NIHs) Office of Dietary Supplements (ODS)
+    and in conjunction with the Centers for Disease Control and Prevention (CDC),
+    initiated a third interlaboratory analytical comparison study of fatty acid concentrations
+    in human serum in 2016. Three unknown serum samples were distributed along with
+    Standard Reference Material (SRM) 1950 Metabolites in Frozen Human Plasma as the
+    control sample. This is a performance-based program so participating laboratories
+    were requested to use the analytical procedures that they typically use in their
+    laboratories for these analyses and report data for those fatty acids that they
+    typically quantify. The results from the third exercise are reported along with
+    a summary of the analytical methods used by each laboratory.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8146'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

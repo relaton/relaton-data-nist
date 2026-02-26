@@ -1,0 +1,63 @@
+---
+id: NBSIR873639
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Mathematical decomposition and simulation in real-time production scheduling
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IR.87-3639
+docidentifier:
+- content: NBS IR 87-3639
+  type: NIST
+  primary: true
+- content: NBS.IR.87-3639
+  type: DOI
+date:
+- type: issued
+  at: '1987'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Davis, Wayne.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2015045336
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jones, Albert.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2005176335
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NBSIR; NBS IR; NBS interagency report; NBS internal report
+  number: 87-3639
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

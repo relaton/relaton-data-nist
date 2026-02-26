@@ -1,0 +1,68 @@
+---
+id: NBSRPT2971
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: On the solution of the Caterer problem
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.RPT.2971
+docidentifier:
+- content: NBS RPT 2971
+  type: NIST
+  primary: true
+- content: NBS.RPT.2971
+  type: DOI
+date:
+- type: issued
+  at: '1953'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gaddum, J. W.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hoffman, A. J. (Alan Jerome),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n78042498
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sokolowsky, D.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS report
+  number: '2971'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,91 @@
+---
+id: NBSIR812199
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Wind, earthquake, snow, and hail loads on solar collectors
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IR.81-2199
+docidentifier:
+- content: NBS IR 81-2199
+  type: NIST
+  primary: true
+- content: NBS.IR.81-2199
+  type: DOI
+date:
+- type: issued
+  at: '1981'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cattaneo, Louis.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Harris, James Robert.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79116612
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Reinhold, Timothy A.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82106589
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Simiu, Emil.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79085114
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yancey, C. W. C.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79065130
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBSIR; NBS IR; NBS interagency report; NBS internal report
+  number: 81-2199
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

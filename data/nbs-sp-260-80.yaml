@@ -1,0 +1,90 @@
+---
+id: NBSSP26080
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Standard reference materials
+  type: title-main
+- language: en
+  script: Latn
+  content: evaluation by an ID/MS method of the AACC reference method for serum glucose
+  type: title-part
+- language: en
+  script: Latn
+  content: Standard reference materials - evaluation by an ID/MS method of the AACC
+    reference method for serum glucose
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.260-80
+docidentifier:
+- content: NBS SP 260-80
+  type: NIST
+  primary: true
+- content: NBS.SP.260-80
+  type: DOI
+date:
+- type: issued
+  at: '1982'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cohen, A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n96030937
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hertz, Harry S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n78076694
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mandel, J.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schaffer, Robert,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83061752
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: 260-80
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

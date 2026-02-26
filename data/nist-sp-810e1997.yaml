@@ -1,0 +1,53 @@
+---
+id: NISTSP810e1997
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: National Voluntary Laboratory Accreditation Program 1997 directory
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.810-1997
+docidentifier:
+- content: NIST SP 810e1997
+  type: NIST
+  primary: true
+- content: NIST.SP.810-1997
+  type: DOI
+date:
+- type: issued
+  at: '1997'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: White, Vanda R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no00041322
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 810-1997
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

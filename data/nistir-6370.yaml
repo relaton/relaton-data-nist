@@ -1,0 +1,80 @@
+---
+id: NISTIR6370
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Benchmark experimental database for multiphase combustion model input and
+    validation
+  type: title-main
+- language: en
+  script: Latn
+  content: characterization of the inlet combustion air
+  type: title-part
+- language: en
+  script: Latn
+  content: Benchmark experimental database for multiphase combustion model input and
+    validation - characterization of the inlet combustion air
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.6370
+docidentifier:
+- content: NIST IR 6370
+  type: NIST
+  primary: true
+- content: NIST.IR.6370
+  type: DOI
+date:
+- type: issued
+  at: '1999'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Widmann, John F.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2005036183
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Charagundla, S. Rao.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Presser, C.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88117808
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '6370'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

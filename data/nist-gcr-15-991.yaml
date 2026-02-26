@@ -1,0 +1,92 @@
+---
+id: NISTGCR15991
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Recommended practice for the representation of Component catalog data in
+    ISO 10303-210:2014
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.GCR.15-991
+docidentifier:
+- content: NIST GCR 15-991
+  type: NIST
+  primary: true
+- content: NIST.GCR.15-991
+  type: DOI
+date:
+- type: issued
+  at: '2015'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stori, James.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Thurman, Tom R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barnard Feeney, Allison.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022002972
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brady, Kevin.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nb2002050490
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: This document provides a recommended practice for representing electronic
+    component property data in accordance with ISO 10303-210:2014. It takes into account
+    recent extensions to the EXPRESS schema in that standard and provides illustrations
+    and examples of a typical use case of an integrated circuit amplifier. Example
+    instance data is provided. Detailed examples are providing illustrating construction
+    methodology for composing SI derived units commonly used in electronic component
+    data sheets and catalogs. An example illustrating construction methodology for
+    tabular data is provided. Several detailed examples have been generated demonstrating
+    the population of a number of common characteristics using a variety of both SI
+    base and derived units.
+series:
+- title:
+  - content: NIST GCR; NIST grant-contract report; NIST grant contract report
+  number: 15-991
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

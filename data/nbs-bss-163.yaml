@@ -1,0 +1,79 @@
+---
+id: NBSBSS163
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Potential energy savings in residential oil-fired heating systems in the
+    U.S
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.BSS.163
+docidentifier:
+- content: NBS BSS 163
+  type: NIST
+  primary: true
+- content: NBS.BSS.163
+  type: DOI
+date:
+- type: issued
+  at: '1984'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kelly, George E.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84212147
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Didion, D. A.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80125384
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Quigley, D.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Collins, B.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS building science series; NBS building science; NBS BSS
+  number: '163'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

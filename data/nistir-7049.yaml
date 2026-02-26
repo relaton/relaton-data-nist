@@ -1,0 +1,63 @@
+---
+id: NISTIR7049
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: CONTAM 2.1 supplemental user guide and program documentation
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7049
+docidentifier:
+- content: NIST IR 7049
+  type: NIST
+  primary: true
+- content: NIST.IR.7049
+  type: DOI
+date:
+- type: issued
+  at: '2003'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Walton, George N.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83143216
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dols, W. Stuart.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003054410
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7049'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

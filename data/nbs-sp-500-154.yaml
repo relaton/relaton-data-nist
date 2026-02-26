@@ -1,0 +1,64 @@
+---
+id: NBSSP500154
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guide to distributed database management
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.500-154
+docidentifier:
+- content: NBS SP 500-154
+  type: NIST
+  primary: true
+- content: NBS.SP.500-154
+  type: DOI
+date:
+- type: issued
+  at: '1988'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fong, Elizabeth.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50023905
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rosen, Bruce K.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n90708733
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: 500-154
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

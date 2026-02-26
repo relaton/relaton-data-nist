@@ -1,0 +1,53 @@
+---
+id: NISTIR883887
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 1988 technical activities- Office of Standard Reference Data
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.88-3887
+docidentifier:
+- content: NIST IR 88-3887
+  type: NIST
+  primary: true
+- content: NIST.IR.88-3887
+  type: DOI
+date:
+- type: issued
+  at: '1988'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chase, M. W.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n87103430
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 88-3887
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

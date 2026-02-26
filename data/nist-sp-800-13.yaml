@@ -1,0 +1,88 @@
+---
+id: NISTSP80013
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Telecommunications security guidelines for telecommunications management
+    network
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-13
+docidentifier:
+- content: NIST SP 800-13
+  type: NIST
+  primary: true
+- content: NIST.SP.800-13
+  type: DOI
+date:
+- type: issued
+  at: '1995'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kimmins, John.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n96102872
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dinkel, Charles.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n96102871
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Walters, Dale.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no95039290
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: This Telecommunication Security Guideline is intended to provide a security
+    baseline for Network Elements (NEs) and Mediation Devices (MDs) that is based
+    on commercial security needs. In addition, some National Security and Emergency
+    Preparedness (NS/EP) security requirements will be integrated into the baseline
+    to address specific network security needs. The guideline should assist telecommunications
+    vendors in developing systems and service providers in implementing systems with
+    appropriate security for integration into the Public Switched Network (PSN). It
+    can also be used by a government agency or a commercial organization to formulate
+    a specific security policy. It does not stipulate regulatory requirements or mandated
+    standards of the National Institute of Standards and Technology.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-13
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

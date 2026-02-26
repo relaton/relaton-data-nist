@@ -1,0 +1,84 @@
+---
+id: NISTTN2210
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Inflow turbulence effects on large eddy simulations of the flow around
+    an axisymmetric hill
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2210
+docidentifier:
+- content: NIST TN 2210
+  type: NIST
+  primary: true
+- content: NIST.TN.2210
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bose, Rikhi.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Simiu, Emil.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: 'Turbulent flow around an axisymmetric hill at Reynolds number Re H ? 1.3
+    10 5 with respect to the hill height is studied using resolved large-eddy simulations
+    (LES). The purpose of the paper is to examine the effect of turbulence in the
+    inflow boundary condition on the flow around the hill. To this end LES simulations
+    were performed for the following inflow boundary conditions: (i) mean turbulent
+    boundary-layer profile obtained experimentally, and (ii) unsteady turbulent velocity
+    profiles from a precursor LES, with the mean profile of the precursor LES forced
+    to agree with experimental results, all other flow parameters in the two simulations
+    being identical. Comparisons with reliable experiments available in the literature
+    showed that the flow, in particular the complex separation dynamics in the lee-side
+    of the hill, is sensitive to the inflow boundary condition. It was found that
+    the mean flow and turbulence statistics in the turbulent-inflow simulation are
+    in good agreement with the experimental results both upstream and downstream of
+    the hill. However, the steady-inlet simulation yields a thicker and longer separation
+    region than was observed experimentally. Consequent recovery of the flow downstream
+    is also delayed where an inner vortex rotating in the same direction accompanies
+    an outer vortex in either side of the midspan plane; the inner vortex pair is
+    not obtained in either the experiment or the turbulent-inflow simulation. Despite
+    these significant discrepancies, the upstream-side flow and the separation location
+    for both simulations are in reasonably good agreement with the experiment. This
+    can be attributed to the fact that the pressure gradient set by the geometry dictates
+    the separation initiation through the formation of an internal layer. Incoming
+    turbulence in a simulation suppresses the separated shear layer by increasing
+    the near-wall velocity gradient, thereby causing early reattachment as in the
+    experiment.'
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2210'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

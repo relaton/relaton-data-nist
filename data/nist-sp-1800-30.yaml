@@ -1,0 +1,141 @@
+---
+id: NISTSP180030
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Securing telehealth remote patient monitoring ecosystem
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1800-30
+docidentifier:
+- content: NIST SP 1800-30
+  type: NIST
+  primary: true
+- content: NIST.SP.1800-30
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cawthra, Jennifer.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grayson, Nakia.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pulivarti, Ronald.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hodges, Bronwyn.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kuruvilla, Jason.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Littlefield, Kevin.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Snyder, Julie.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wang, Sue.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Williams, Ryan.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zheng, Kangmin.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: Increasingly, healthcare delivery organizations (HDOs) are relying on telehealth
+    and remote patient monitoring (RPM) capabilities to treat patients at home. RPM
+    is convenient and cost-effective, and its adoption rate has increased. However,
+    without adequate privacy and cybersecurity measures, unauthorized individuals
+    may expose sensitive data or disrupt patient monitoring services. RPM solutions
+    engage multiple actors as participants in patients' clinical care. These actors
+    include HDOs, telehealth platform providers, and the patients themselves. Each
+    participant uses, manages, and maintains different technology components within
+    an interconnected ecosystem, and each is responsible for safeguarding their piece
+    against unique threats and risks associated with RPM technologies. This practice
+    guide assumes that the HDO engages with a telehealth platform provider that is
+    a separate entity from the HDO and patient. The telehealth platform provider manages
+    a distinct infrastructure, applications, and set of services. The telehealth platform
+    provider coordinates with the HDO to provision, configure, and deploy the RPM
+    components to the patient home and assures secure communication between the patient
+    and clinician. The NCCoE analyzed risk factors regarding an RPM ecosystem by using
+    risk assessment based on the NIST Risk Management Framework. The NCCoE also leveraged
+    the NIST Cybersecurity Framework, NIST Privacy Framework, and other relevant standards
+    to identify measures to safeguard the ecosystem. In collaboration with healthcare,
+    technology, and telehealth partners, the NCCoE built an RPM ecosystem in a laboratory
+    environment to explore methods to improve the cybersecurity of an RPM. Technology
+    solutions alone may not be sufficient to maintain privacy and security controls
+    on external environments. This practice guide notes the application of people,
+    process, and technology as necessary to implement a holistic risk mitigation strategy.
+    This practice guide's capabilities include helping organizations assure the confidentiality,
+    integrity, and availability of an RPM solution, enhancing patient privacy, and
+    limiting HDO risk when implementing an RPM solution.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1800-30
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

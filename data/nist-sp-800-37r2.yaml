@@ -1,0 +1,80 @@
+---
+id: NISTSP80037r2
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Risk management framework for information systems and organizations
+  type: title-main
+- language: en
+  script: Latn
+  content: a system life cycle approach for security and privacy
+  type: title-part
+- language: en
+  script: Latn
+  content: Risk management framework for information systems and organizations - a
+    system life cycle approach for security and privacy
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-37r2
+docidentifier:
+- content: NIST SP 800-37r2
+  type: NIST
+  primary: true
+- content: NIST.SP.800-37r2
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Joint Task Force Transformation Initiative.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: This publication describes the Risk Management Framework (RMF) and provides
+    guidelines for applying the RMF to information systems and organizations. The
+    RMF provides a disciplined, structured, and flexible process for managing security
+    and privacy risk that includes information security categorization; control selection,
+    implementation, and assessment; system and common control authorizations; and
+    continuous monitoring. The RMF includes activities to prepare organizations to
+    execute the framework at appropriate risk management levels. The RMF also promotes
+    near real-time risk management and ongoing information system and common control
+    authorization through the implementation of continuous monitoring processes; provides
+    senior leaders and executives with the necessary information to make efficient,
+    cost-effective, risk management decisions about the systems supporting their missions
+    and business functions; and incorporates security and privacy into the system
+    development life cycle. Executing the RMF tasks links essential risk management
+    processes at the system level to risk management processes at the organization
+    level. In addition, it establishes responsibility and accountability for the controls
+    implemented within an organization's information systems and inherited by those
+    systems.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-37r2
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

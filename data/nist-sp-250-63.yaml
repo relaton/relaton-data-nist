@@ -1,0 +1,77 @@
+---
+id: NISTSP25063
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST measurement services
+  type: title-main
+- language: en
+  script: Latn
+  content: gas flowmeter calibrations with the 34 L and 677 L PVTt standards
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST measurement services - gas flowmeter calibrations with the 34 L and
+    677 L PVTt standards
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.250-63
+docidentifier:
+- content: NIST SP 250-63
+  type: NIST
+  primary: true
+- content: NIST.SP.250-63
+  type: DOI
+date:
+- type: issued
+  at: '2004'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wright, John D.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Johnson, Aaron N.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Moldover, Michael R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kline, Gina M.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 250-63
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

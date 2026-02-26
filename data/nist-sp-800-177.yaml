@@ -1,0 +1,96 @@
+---
+id: NISTSP800177
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Trustworthy email
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-177
+docidentifier:
+- content: NIST SP 800-177
+  type: NIST
+  primary: true
+- content: NIST.SP.800-177
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rose, Scott.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2011193200
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nightingale, Stephen.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022064507
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Garfinkel, Simson L.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chandramouli, Ramaswamy.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2003002931
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: 'This document gives recommendations and guidelines for enhancing trust
+    in email. The primary audience includes enterprise email administrators, information
+    security specialists and network managers. This guideline applies to federal IT
+    systems and will also be useful for small or medium sized organizations. Technologies
+    recommended in support of core Simple Mail Transfer Protocol (SMTP) and the Domain
+    Name System (DNS) include mechanisms for authenticating a sending domain: Sender
+    Policy Framework (SPF), Domain Keys Identified Mail (DKIM) and Domain based Message
+    Authentication, Reporting and Conformance (DMARC). Recommendations for email transmission
+    security include Transport Layer Security (TLS) and associated certificate authentication
+    protocols. Recommendations for email content security include the encryption and
+    authentication of message content using S/MIME (Secure/Multipurpose Internet Mail
+    Extensions) and associated certificate and key distribution protocols.'
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-177
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

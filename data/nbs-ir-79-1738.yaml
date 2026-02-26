@@ -1,0 +1,72 @@
+---
+id: NBSIR791738
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: EVACNET
+  type: title-main
+- language: en
+  script: Latn
+  content: prototype network optimization models for building evacuation
+  type: title-part
+- language: en
+  script: Latn
+  content: EVACNET - prototype network optimization models for building evacuation
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IR.79-1738
+docidentifier:
+- content: NBS IR 79-1738
+  type: NIST
+  primary: true
+- content: NBS.IR.79-1738
+  type: DOI
+date:
+- type: issued
+  at: '1979'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Francis, R. L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84098876
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Saunders, Patsy B.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83125880
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBSIR; NBS IR; NBS interagency report; NBS internal report
+  number: 79-1738
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

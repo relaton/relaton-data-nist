@@ -1,0 +1,59 @@
+---
+id: NISTAMS1003
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Microstructure analysis for additive manufacturing: a review of existing
+    standards'
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-3
+docidentifier:
+- content: NIST AMS 100-3
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-3
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brown, Christopher U.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Donmez, Alkan.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+series:
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 100-3
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

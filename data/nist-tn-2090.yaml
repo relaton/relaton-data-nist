@@ -1,0 +1,73 @@
+---
+id: NISTTN2090
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Analysis of a slug calorimeter with a Curie point
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2090
+docidentifier:
+- content: NIST TN 2090
+  type: NIST
+  primary: true
+- content: NIST.TN.2090
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yang, Jiann C. (Jiann Chyuan)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2010118971
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ohlemiller, T. J. (Thomas J.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84149352
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: A lump-capacitance heat transfer model was developed to model the operation
+    of a slug calorimeter constructed of metal with a Curie point. The resulting formula
+    has been successfully used to infer total heat flux to a metal structural member
+    in a fire by temporally monitoring the internal temperature rise during the heat-up
+    phase of the metal member (slug) with embedded thermocouples. The formula derived
+    is applicable to slug calorimeters made from metals with or without a Curie point.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2090'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,74 @@
+---
+id: NBSSP634
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Proceedings of the waveform recorder seminar
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.634
+docidentifier:
+- content: NBS SP 634
+  type: NIST
+  primary: true
+- content: NBS.SP.634
+  type: DOI
+date:
+- type: issued
+  at: '1982'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lawton, Robert A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79017381
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+abstract:
+- language: en
+  script: Latn
+  content: In the past, for the most part, precision electromagnetic measurements
+    were concerned with the measurement of parameters for sinusoidal (or steady state)
+    excitation and response, e.g., magnitude, phase, and power. One reason for the
+    popularity of frequency domain measurement was that in this domain only one complete
+    data point need be recorded to constitute a useful measurement. Recording a thousand
+    data points as required for precision time domain waveform measurements simply
+    was not feasible. Today such frequency domain measurements are still important
+    but now share their importance with transient pulse time domain measurements.
+    With the emergence of integrated circuit components for (1) sampling or analog
+    to digital conversion, (2) storage, and (3) control, real time digital waveform
+    recording is now practical and widespread in usage. Furthermore, by coupling waveform
+    recording components to minicomputers and microprocessors integrated circuitry
+    it is now possible to record single events using compact systems (instruments)
+    which acquire, record, process, and analyze transient signals. In fact, the incorporation
+    of digital computation integrated circuitry appears to be a major driving force
+    in expanding the role of waveform measurements in the academic, industrial and
+    scientific communities.
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: '634'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

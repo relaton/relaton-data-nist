@@ -1,0 +1,83 @@
+---
+id: NISTAMS10022
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Proceedings of the 9th model-based enterprise summit (MBE 2018)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-22
+docidentifier:
+- content: NIST AMS 100-22
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-22
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hedberg Jr., Thomas.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-9024-2059"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Carlisle, Mark.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021149382
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: The ninth installment of the Model-Based Enterprise (MBE) Summit was hosted
+    at the National Institute of Standards and Technology (NIST) on April 2-5, 2018.
+    The MBE Summit 2018 witnessed another year-over-year registration growth. This
+    speaks to the growing interest of MBE within the community and the importance
+    of the Summit output. The MBE Summit 2018 Program Committee undertook a significant
+    effort to ensure a high-quality summit and signal to the community that the MBE
+    Summit is the best place for gathering and sharing information dedicated to the
+    digital transformation across the product lifecycle. The MBE Summit 2018 focused
+    on empowering the industrial shift to MBE with recommended practices and how-to
+    guidance. The MBE Summit 2018 theme was Empowering the Digital Transformation
+    with an Integrated Lifecycle, with technical tracks spanning across Systems Engineering
+    and Lifecycle Management, Design Recommended Practice and Model-Based Definition,
+    Model-Based Manufacturing, and Model-Based Quality and Inspection. The MBE Summit
+    had 70 submissions for presentation, of which the Program Committee accepted eight
+    papers, 33 presentations, five posters, and two panels. This report is the proceedings
+    of the MBE Summit 2018.
+series:
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 100-22
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,74 @@
+---
+id: NISTSP800101
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guidelines on cell phone forensics
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-101
+docidentifier:
+- content: NIST SP 800-101
+  type: NIST
+  primary: true
+- content: NIST.SP.800-101
+  type: DOI
+date:
+- type: issued
+  at: '2007'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jansen, W.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2009004133
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ayers, R. P.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: 'Forensic specialists periodically encounter unusual devices and new technologies
+    outside of traditional computer forensics. Cell phones are an emerging area with
+    such characteristics. The objective of this guide is twofold: to help organizations
+    evolve appropriate policies and procedures for dealing with cell phones, and to
+    prepare forensic specialists to contend with new circumstances involving cell
+    phones, when they arise. This guide provides an in-depth look into cell phones
+    and explains associated technologies and their effect on the procedures followed
+    by forensic specialists. It also discusses procedures for the preservation, acquisition,
+    examination, analysis, and reporting of digital information present on cell phones,
+    as well as available forensic software tools that support those activities.'
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-101
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

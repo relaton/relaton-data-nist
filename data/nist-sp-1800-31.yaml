@@ -1,0 +1,136 @@
+---
+id: NISTSP180031
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Improving enterprise patching for general IT systems
+  type: title-main
+- language: en
+  script: Latn
+  content: utilizing existing tools and performing processes in better ways
+  type: title-part
+- language: en
+  script: Latn
+  content: Improving enterprise patching for general IT systems - utilizing existing
+    tools and performing processes in better ways
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1800-31
+docidentifier:
+- content: NIST SP 1800-31
+  type: NIST
+  primary: true
+- content: NIST.SP.1800-31
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Diamond, Tyler.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kerman, Alper.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Souppaya, Murugiah.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stine, Kevin.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Johnson, Brian.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Peloquin, Chris.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ruffin, Vanessa.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Simos, Mark.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sweeney, Sean.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, Karen.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: Despite widespread recognition that patching is effective and attackers
+    regularly exploit unpatched software, many organizations do not adequately patch.
+    There are myriad reasons why, not the least of which are that it's resource-intensive
+    and that the act of patching can reduce system and service availability. Also,
+    many organizations struggle to prioritize patches, test patches before deployment,
+    and adhere to policies for how quickly patches are applied in different situations.
+    To address these challenges, the NCCoE is collaborating with cybersecurity technology
+    providers to develop an example solution that addresses these challenges. This
+    NIST Cybersecurity Practice Guide explains how tools can be used to implement
+    the patching and inventory capabilities organizations need to handle both routine
+    and emergency patching situations, as well as implement workarounds, isolation
+    methods, or other alternatives to patching. It also explains recommended security
+    practices for patch management systems themselves.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1800-31
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

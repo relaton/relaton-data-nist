@@ -1,0 +1,69 @@
+---
+id: NBSSP615
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Sensor handbook for automatic test, monitoring, diagnostic, and control
+    systems applications to military vehicles and machinery
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.615
+docidentifier:
+- content: NBS SP 615
+  type: NIST
+  primary: true
+- content: NBS.SP.615
+  type: DOI
+date:
+- type: issued
+  at: '1981'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lederer, Paul S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79116607
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+abstract:
+- language: en
+  script: Latn
+  content: The Sensor Handbook is intended as a guide for those who design, specify,
+    use, and test military automatic test equipment containing sensors. The handbook
+    addresses measurands and principles of measurement, data acquisition, sensor calibration
+    and testing, environmental considerations, stability, durability, reliability,
+    and error assessment. Sensor manufacturers and sensor calibration and evaluation
+    resources are included, as is an annotated bibliography. The handbook is based
+    largely on the present, proved state-of-the-art. Possible future trends are briefly
+    discussed. The handbook is addressed to the general engineer, system designer,
+    or manager with an engineering background. It does not provide the highly detailed
+    technical information needed by the measurement engineer, although ample references
+    are included for further study.
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: '615'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

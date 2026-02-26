@@ -1,0 +1,73 @@
+---
+id: NISTSP80052r2
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guidelines for the selection, configuration, and use of Transport Layer
+    Security (TLS) implementations
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-52r2
+docidentifier:
+- content: NIST SP 800-52r2
+  type: NIST
+  primary: true
+- content: NIST.SP.800-52r2
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McKay, Kerry A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cooper, D. A. (David A.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no94030465
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: Transport Layer Security (TLS) provides mechanisms to protect data during
+    electronic dissemination across the Internet. This Special Publication provides
+    guidance to the selection and configuration of TLS protocol implementations while
+    making effective use of Federal Information Processing Standards (FIPS) and NIST-recommended
+    cryptographic algorithms. It requires that TLS 1.2 configured with FIPS-based
+    cipher suites be supported by all government TLS servers and clients and requires
+    support for TLS 1.3 by January 1, 2024. This Special Publication also provides
+    guidance on certificates and TLS extensions that impact security.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-52r2
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

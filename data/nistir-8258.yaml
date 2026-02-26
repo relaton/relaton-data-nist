@@ -1,0 +1,89 @@
+---
+id: NISTIR8258
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The unit manufacturing process (UMP) builder
+  type: title-main
+- language: en
+  script: Latn
+  content: user's guide
+  type: title-part
+- language: en
+  script: Latn
+  content: The unit manufacturing process (UMP) builder - user's guide
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8258
+docidentifier:
+- content: NIST IR 8258
+  type: NIST
+  primary: true
+- content: NIST.IR.8258
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lechevalier, David.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bernstein, William Z.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: The ASTM E3012 Standard Guide for Characterizing Environmental Aspects
+    of Manufacturing Processes provides guidelines for formally characterizing manufacturing
+    processes. However, the difficulty that has arisen in the early use of the standard
+    illustrates the need for intuitive tools for helping modeling experts to conform
+    to the specified information model. The Unit Manufacturing Process (UMP) Builder
+    was developed at the National Institute of Standards and Technology (NIST) to
+    provide a visual interface for helping modeling experts to conform to the specified
+    ASTM information model. The UMP Builder, a browser-based tool, integrates symbolic
+    mathematical and guided textual inputs, helping to consistently record manufacturing
+    process models for environmental sustainability into a repository. The Builder
+    also serves as a curator by providing capabilities to explore and visualize models
+    recorded in the Builder repository. The UMP Builder is adapted from of an open
+    source tool called the Configurable Data Curation System (CDCS) developed at NIST.
+    The CDCS was originally developed to capture, share, and transform materials data,
+    allowing users to upload an XML schema and create instances of that schema. In
+    the UMP Builder, the schema used for creating the models is frozen. The schema
+    follows the guidelines from the ASTM E3012 standard. The Builder also provides
+    unique features that are specific in order to facilitate the modelling of UMPs.
+    This user s guide aims to provide guidelines to use the UMP Builder. To obtain
+    more information (especially on the architecture), please refer to the CDCS documentation.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8258'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

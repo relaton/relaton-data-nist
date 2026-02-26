@@ -1,0 +1,95 @@
+---
+id: NISTIR8062
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: An introduction to privacy engineering and risk management in federal systems
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8062
+docidentifier:
+- content: NIST IR 8062
+  type: NIST
+  primary: true
+- content: NIST.IR.8062
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brooks, Sean.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n95071595
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Garcia, Michael.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88602146
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lefkovitz, Naomi.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lightman, Suzanne.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nadeau, Ellen.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: 'This document provides an introduction to the concepts of privacy engineering
+    and risk management for federal information systems. These concepts establish
+    the basis for a common vocabulary to facilitate better understanding and communication
+    of privacy risk within federal information systems, and the effective implementation
+    of privacy principles. This publication introduces two key components to support
+    the application of privacy engineering and risk management: privacy engineering
+    objectives and a privacy risk model.'
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8062'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,73 @@
+---
+id: NISTIR7150
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Dublin Core and the alternative interface access protocol
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7150
+docidentifier:
+- content: NIST IR 7150
+  type: NIST
+  primary: true
+- content: NIST.IR.7150
+  type: DOI
+date:
+- type: issued
+  at: '2004'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sheppard, Charles L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n86035181
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: LaPlant, William P.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020089474
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nevile, Liddy,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84059217
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7150'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

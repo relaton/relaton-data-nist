@@ -1,0 +1,72 @@
+---
+id: NBSCIRC295
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Circular of the Bureau of Standards no. 295
+  type: title-main
+- language: en
+  script: Latn
+  content: temperature corrections to readings of baumé hydrometers, Bureau of Standards
+    baumé scale for sugar solutions (standard at 20 [degrees] C)
+  type: title-part
+- language: en
+  script: Latn
+  content: Circular of the Bureau of Standards no. 295 - temperature corrections to
+    readings of baumé hydrometers, Bureau of Standards baumé scale for sugar solutions
+    (standard at 20 [degrees] C)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.CIRC.295
+docidentifier:
+- content: NBS CIRC 295
+  type: NIST
+  primary: true
+- content: NBS.CIRC.295
+  type: DOI
+date:
+- type: issued
+  at: '1926'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: National Bureau of Standards circular
+  number: '295'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

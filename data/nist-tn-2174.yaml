@@ -1,0 +1,90 @@
+---
+id: NISTTN2174
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Response time impact of smoke alarms
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2174
+docidentifier:
+- content: NIST TN 2174
+  type: NIST
+  primary: true
+- content: NIST.TN.2174
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gilbert, Stanley W.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cleary, Thomas.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Reneke, Paul A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Peacock, Richard.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Butry, David.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: It can be assumed that smoke alarms reduce reported fires and casualties
+    by reducing on average the amount of time it takes to detect a fire. This paper
+    sets out to determine by how much that detection time is reduced. It does so by
+    comparing the effect of smoke-alarm presents (and time of day) to the effect of
+    fire-department travel time using data from the National Fire Incident Reporting
+    System. On average, smoke alarms reduce reporting time by 19.2 ( 0.016) minutes.
+    This is comparable to the average time delay from having a fire at night. If smoke
+    alarms are present, having a fire at night (between the hours of 11 and 6) adds
+    18.1 ( 0.013) minutes, and without an alarm, having a fire at night adds on average
+    20.5 ( 0.024). Smoke alarms are more effective at night, saving 2.4 ( 0.016) minutes
+    more at night than during the day.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2174'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

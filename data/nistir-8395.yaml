@@ -1,0 +1,167 @@
+---
+id: NISTIR8395
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Low-GWP alternative refrigerant blends for HFC-134a
+  type: title-main
+- language: en
+  script: Latn
+  content: interim report
+  type: title-part
+- language: en
+  script: Latn
+  content: Low-GWP alternative refrigerant blends for HFC-134a - interim report
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8395
+docidentifier:
+- content: NIST IR 8395
+  type: NIST
+  primary: true
+- content: NIST.IR.8395
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Domanski, Piotr A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McLinden, Mark O.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Babushok, Valeri I.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bell, Ian H.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fortin, Tara J.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hegetschweiler, Michael J.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kedzierski, Mark A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kim, Dennis K.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lin, Lingnan.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Linteris, Gregory T.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Outcalt, Stephanie L.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Perkins, Richard A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rowane, Aaron
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Skye, Harrison
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This project addresses the objectives of the Statement of Need number WPSON-17-20
+    No/Low Global Warming Potential Alternatives to Ozone Depleting Refrigerants.
+    Its goal is to identify and demonstrate performance of low global-warming-potential
+    (GWP), non-flammable refrigerants to replace HFC-134a in military environmental
+    control units (ECUs). This project is a follow-on to the limited-scope project
+    WP-2740, which used thermodynamic cycle simulation models alone to screen over
+    100 000 refrigerant blends and identified over 20 candidate HFC-134a replacements.
+    In this study we narrow the pool of blend candidates down to three best fluids,
+    verify experimentally their flammability behavior, demonstrate their performance
+    through tests in a military ECU in environmental chambers at a wide range of operating
+    conditions, and extrapolate the laboratory measured performance to ECUs equipped
+    with optimized heat exchangers through first-principles-based simulations combined
+    with machine-learning optimization methods. This Interim Report documents the
+    preliminary work leading to the selection of three best blends. This work included
+    refrigerant blend tests in a laboratory mini-breadboard heat pump apparatus, fundamental
+    measurements and modeling of thermophysical properties, two-phase heat-transfer
+    performance, and flammability behavior.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8395'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

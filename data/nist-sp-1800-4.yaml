@@ -1,0 +1,128 @@
+---
+id: NISTSP18004
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Mobile device security
+  type: title-main
+- language: en
+  script: Latn
+  content: cloud and hybrid builds
+  type: title-part
+- language: en
+  script: Latn
+  content: Mobile device security - cloud and hybrid builds
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1800-4
+docidentifier:
+- content: NIST SP 1800-4
+  type: NIST
+  primary: true
+- content: NIST.SP.1800-4
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Franklin, Joshua,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2008079649
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bowler, Kevin.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brown, Christopher.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80100699
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dog, Spike E.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Crouse, Sarah Edwards,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n95034876
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McNab, Neil.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2006066407
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Steele, Matthew.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2009032779
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: 'This document proposes a reference design on how to architect enterprise-class
+    protection for mobile devices accessing corporate resources. The example solutions
+    presented here can be used by any organization implementing an enterprise mobility
+    management solution. This project contains two distinct builds: cloud and hybrid.
+    The cloud build makes use of cloud-based services and solutions, while the hybrid
+    build achieves the same functionality, but hosts at least some of the data and
+    services within an enterprise''s own infrastructure. The example solutions and
+    architectures presented here are based upon open standards and commercially available
+    products.'
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1800-4
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

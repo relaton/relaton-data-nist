@@ -1,0 +1,79 @@
+---
+id: NISTIR4461
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Polymer Composite Processing
+  type: title-main
+- language: en
+  script: Latn
+  content: 2nd industry workshop held at NIST Gaithersburg, MD, May 18, 1990
+  type: title-part
+- language: en
+  script: Latn
+  content: Polymer Composite Processing - 2nd industry workshop held at NIST Gaithersburg,
+    MD, May 18, 1990
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.4461
+docidentifier:
+- content: NIST IR 4461
+  type: NIST
+  primary: true
+- content: NIST.IR.4461
+  type: DOI
+date:
+- type: issued
+  at: '1990'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Johnson, Carl.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2022050989
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chang, S. S. (Shu-Sing),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83003986
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hunston, Donald.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '4461'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

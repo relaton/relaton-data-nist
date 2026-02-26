@@ -1,0 +1,70 @@
+---
+id: NISTIR4498
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Cylinder wipe air-drying intaglio ink vehicles for U.S. currency inks
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.4498
+docidentifier:
+- content: NIST IR 4498
+  type: NIST
+  primary: true
+- content: NIST.IR.4498
+  type: DOI
+date:
+- type: issued
+  at: '1990'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dickens, Brian.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n86851821
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bauer, Barry J.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Blair, William R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021144283
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '4498'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

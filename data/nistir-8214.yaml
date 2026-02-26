@@ -1,0 +1,107 @@
+---
+id: NISTIR8214
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Threshold schemes for cryptographic primitives
+  type: title-main
+- language: en
+  script: Latn
+  content: challenges and opportunities in standardization and validation of threshold
+    cryptography
+  type: title-part
+- language: en
+  script: Latn
+  content: Threshold schemes for cryptographic primitives - challenges and opportunities
+    in standardization and validation of threshold cryptography
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8214
+docidentifier:
+- content: NIST IR 8214
+  type: NIST
+  primary: true
+- content: NIST.IR.8214
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Branda̋̋o, Luís T. A. N.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mouha, Nicky.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Vassilev, Apostol.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: The Computer Security Division at the National Institute of Standards and
+    Technology is interested in promoting the security of implementations of cryptographic
+    primitives. This security depends not only on the theoretical properties of the
+    primitives but also on the ability to withstand attacks on their implementations.
+    It is thus important to mitigate breakdowns that result from differences between
+    ideal and real implementations of cryptographic algorithms. This document overviews
+    the possibility of implementing cryptographic primitives using threshold schemes,
+    where multiple components contribute to the operation in a way that attains the
+    desired security goals even if f out of n of its components are compromised. There
+    is also an identified potential in providing resistance against side-channel attacks,
+    which exploit inadvertent leakage from real implementations. Security goals of
+    interest include the secrecy of cryptographic keys, as well as enhanced integrity
+    and availability, among others. This document considers challenges and opportunities
+    related to standardization of threshold schemes for cryptographic primitives.
+    It includes examples illustrating security tradeoffs under variations of system
+    model and adversaries. It enumerates several high-level characterizing features
+    of threshold schemes, including the types of threshold, the communication interfaces
+    (with the environment and between components), the executing platform (e.g., single
+    device vs. multiple devices) and the setup and maintenance requirements. The document
+    poses a number of questions, motivating aspects to take into account when considering
+    standardization. A particular challenge is the development of criteria that may
+    help guide a selection of threshold cryptographic schemes. An open question is
+    deciding at what level each standard should be defined (e.g., specific base techniques
+    vs. conceptualized functionalities) and which flexibility of parametrization they
+    should allow. Suitability to testing and validation of implementations are also
+    major concerns to be addressed. Overall, the document intends to support discussion
+    about standardization, including motivating an engagement from stakeholders. This
+    is a step towards enabling threshold cryptography within the US federal government
+    and beyond.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8214'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

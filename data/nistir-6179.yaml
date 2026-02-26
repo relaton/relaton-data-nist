@@ -1,0 +1,82 @@
+---
+id: NISTIR6179
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Emerging network storage management standards for intelligent data storage
+    subsystems
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.6179
+docidentifier:
+- content: NIST IR 6179
+  type: NIST
+  primary: true
+- content: NIST.IR.6179
+  type: DOI
+date:
+- type: issued
+  at: '1998'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Podio, Fernando.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Vollrath, William.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Williams, Joel.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nb90553793
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kobler, Ben.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Crouse, Don.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '6179'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

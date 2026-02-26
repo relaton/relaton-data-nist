@@ -1,0 +1,110 @@
+---
+id: NISTSP80063r1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Electronic authentication guideline
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-63-1
+docidentifier:
+- content: NIST SP 800-63r1
+  type: NIST
+  primary: true
+- content: NIST.SP.800-63-1
+  type: DOI
+date:
+- type: issued
+  at: '2011'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Burr, W. E.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dodson, Donna F.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021110726
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Newton, E. M.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Perlner, R. A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Polk, W. T.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gupta, S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n90668752
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nabbus, E. A.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: This recommendation provides technical guidelines for Federal agencies
+    implementing electronic authentication and is not intended to constrain the development
+    or use of standards outside of this purpose. The recommendation covers remote
+    authentication of users (such as employees, contractors, or private individuals)
+    interacting with government IT systems over open networks. It defines technical
+    requirements for each of four levels of assurance in the areas of identity proofing,
+    registration, tokens, management processes, authentication protocols and related
+    assertions. This publication supersedes NIST SP 800-63.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-63-1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

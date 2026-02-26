@@ -1,0 +1,82 @@
+---
+id: NISTSP800116
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A recommendation for the use of PIV credentials in Physical Access Control
+    Systems (PACS)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-116
+docidentifier:
+- content: NIST SP 800-116
+  type: NIST
+  primary: true
+- content: NIST.SP.800-116
+  type: DOI
+date:
+- type: issued
+  at: '2008'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: MacGregor, W. I.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mehta, K.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cooper, D. A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, K. A.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: This document provides best practice guidelines for integrating the PIV
+    Card with the physical access control systems (PACS) that authenticate the cardholders
+    in Federal facilities. Specifically, this document recommends a risk-based approach
+    for selecting appropriate PIV authentication mechanisms to manage physical access
+    to Federal government facilities and assets. This document also proposes a PIV
+    implementation maturity model to measure the progress of facility and agency implementations.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-116
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

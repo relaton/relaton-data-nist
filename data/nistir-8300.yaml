@@ -1,0 +1,96 @@
+---
+id: NISTIR8300
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Improving 3D vision-robot registration for assembly tasks
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8300
+docidentifier:
+- content: NIST IR 8300
+  type: NIST
+  primary: true
+- content: NIST.IR.8300
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Franaszek, Marek.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022010863
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cheok, Geraldine S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no89007530
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: van Wyk,  Karl.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Marvel, Jeremy A.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: 'Good registration between the coordinate frames of a perception system
+    and a robot is important for the efficient operation of autonomous systems in
+    vision-guided assembly lines. Rigid-body registration, which is based on the measurement
+    of corresponding points (fiducials) in both frames, is a commonly used method.
+    Noise and possible bias in the measured points degrade the quality of registration
+    as gauged by the Target Registration Error (TRE). A method to restore the rigid
+    body condition (RRBC) was recently developed to reduce TRE when the bias is larger
+    than the noise. This was achieved by applying corrections to target locations
+    in the vision sensor frame. This paper presents two procedures to improve the
+    performance of the RRBC method by: 1) selecting the location of fiducials used
+    for calculating correction to the target location and 2) selecting the correct
+    arm configuration for fiducial from multiple configurations as calculated by inverse
+    kinematics. Experiments performed with a motion tracking system and two different
+    robot arms show that these two procedures can further reduce the Root Mean Square
+    of TRE (RMST) to less than 20 % of the uncorrected RMST.'
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8300'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

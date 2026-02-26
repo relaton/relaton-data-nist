@@ -1,0 +1,48 @@
+---
+id: NBSLC365
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Summary of estimated expenditures for labor and materials reported by local
+    modernizing campaign committees from Jan. 1, 1932 to April 1, 1933
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.LCIRC.365
+docidentifier:
+- content: NBS LC 365
+  type: NIST
+  primary: true
+- content: NBS.LCIRC.365
+  type: DOI
+date:
+- type: issued
+  at: '1933'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Advisory Committee on Reconditioning, Remodeling, and Modernizing.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NBSLCIRC; NBS LCIRC; NBS letter circular
+  number: '365'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

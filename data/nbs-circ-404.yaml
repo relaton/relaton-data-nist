@@ -1,0 +1,68 @@
+---
+id: NBSCIRC404
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Circular of the Bureau of Standards no. 404
+  type: title-main
+- language: en
+  script: Latn
+  content: cautions regarding gas-appliance attachments
+  type: title-part
+- language: en
+  script: Latn
+  content: Circular of the Bureau of Standards no. 404 - cautions regarding gas-appliance
+    attachments
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.CIRC.404
+docidentifier:
+- content: NBS CIRC 404
+  type: NIST
+  primary: true
+- content: NBS.CIRC.404
+  type: DOI
+date:
+- type: issued
+  at: '1934'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Eiseman, John H.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: National Bureau of Standards circular
+  number: '404'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

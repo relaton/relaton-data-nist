@@ -1,0 +1,69 @@
+---
+id: NISTIR8149
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Developing trust frameworks to support identity federations
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8149
+docidentifier:
+- content: NIST IR 8149
+  type: NIST
+  primary: true
+- content: NIST.IR.8149
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Temoshok, David.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003014904
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Abruzzi, Christine.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: When supported by trust frameworks, identity federations provide a secure
+    method for leveraging shared identity credentials across communities of similarly-focused
+    online service providers. This document explores the concepts around trust frameworks
+    and identity federations and provides topics to consider in their development
+    and implementation.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8149'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,271 @@
+---
+id: NISTTN2216
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A roadmap for LIMS at NIST Material Measurement Laboratory
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2216
+docidentifier:
+- content: NIST TN 2216
+  type: NIST
+  primary: true
+- content: NIST.TN.2216
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Greene, Gretchen.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ragland, Jared.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Trautt, Zachary.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lau, June.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Plante, Raymond.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Taillon, Joshua.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Creuziger, Adam.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Becker, Chandler.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bennett, Joseph.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Blonder, Niksa.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Borsuk, Lisa.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Campbell, Carelyn.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Friss, Adam.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hale, Lucas.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Halter, Michael.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hanisch, Robert.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hardin, Gary.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Levine, Lyle.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Maragh, Samantha.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Miller, Sierra.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Muzny, Christopher.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Newrock, Marcus.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Perkins, John.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Plant, Anne.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ravel, Bruce.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ross, David.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scott, John Henry.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Szakal, Chris.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tona, Alessandro.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Vallone, Peter.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: Instrumentation generates data faster and in higher quantity than ever
+    before, and interlaboratory research is in historic demand domestically and internationally
+    to stimulate economic innovation. Strategic mission needs of the NIST Material
+    Measurement Laboratory (MML) to support a wide array of research disciplines therefore
+    compel our organization to adopt advanced strategies for research data management.
+    Laboratory Information Management Systems (LIMS) provide a framework for managing
+    data from the outset of the research life cycle delivering new capabilities for
+    machine learning, data analysis, collaboration, and dissemination. This roadmap
+    describes our current understanding and strategy for adapting our research workflows
+    for LIMS throughout MML by embracing the use of standards and best practices from
+    data science communities. The NIST research data cyber infrastructure complements
+    these goals for MML by providing a secure environment to host LIMS solutions.
+    Additionally, integration of scientific workflows requires ongoing collaboration
+    to bridge organizational LIMS with external scientific communities. Thus, MML
+    LIMS will evolve overtime in synergy with the technology and experimental environments
+    delivering new science. LIMS will broaden our mission impact through adoption
+    of FAIR data principles.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2216'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

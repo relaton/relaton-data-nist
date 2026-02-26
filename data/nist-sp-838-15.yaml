@@ -1,0 +1,62 @@
+---
+id: NISTSP83815
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 1998 Building & Fire Research Laboratory
+  type: title-main
+- language: en
+  script: Latn
+  content: activities, accomplishments & recognitions
+  type: title-part
+- language: en
+  script: Latn
+  content: 1998 Building & Fire Research Laboratory - activities, accomplishments
+    & recognitions
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.838-15
+docidentifier:
+- content: NIST SP 838-15
+  type: NIST
+  primary: true
+- content: NIST.SP.838-15
+  type: DOI
+date:
+- type: issued
+  at: '1999'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Raufaste, Noel J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n85352120
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 838-15
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

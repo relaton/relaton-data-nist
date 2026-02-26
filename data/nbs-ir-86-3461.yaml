@@ -1,0 +1,75 @@
+---
+id: NBSIR863461
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Bibliography of photon total cross section (attenuation coefficient) measurements
+    10 eV to 13.5 GeV
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IR.86-3461
+docidentifier:
+- content: NBS IR 86-3461
+  type: NIST
+  primary: true
+- content: NBS.IR.86-3461
+  type: DOI
+date:
+- type: issued
+  at: '1986'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hubbell, J. H. (John Howard),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n85323559
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gerstenberg, H. M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79107096
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Saloman, E. B.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n87889200
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBSIR; NBS IR; NBS interagency report; NBS internal report
+  number: 86-3461
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

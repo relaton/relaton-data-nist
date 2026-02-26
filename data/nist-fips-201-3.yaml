@@ -1,0 +1,71 @@
+---
+id: NISTFIPS2013
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Personal identity verification (PIV) of federal employees and contractors
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.FIPS.201-3
+docidentifier:
+- content: NIST FIPS 201-3
+  type: NIST
+  primary: true
+- content: NIST.FIPS.201-3
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Romine, Charles H.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: 'FIPS 201 establishes a standard for a Personal Identity Verification (PIV)
+    system (Standard) that meets the control and security objectives of Homeland Security
+    Presidential Directive-12 (HSPD-12). It is based on secure and reliable forms
+    of identity credentials issued by the Federal Government to its employees and
+    contractors. These credentials are used by mechanisms that authenticate individuals
+    who require access to federally controlled facilities, information systems, and
+    applications. This Standard addresses requirements for initial identity proofing,
+    infrastructure to support interoperability of identity credentials, and accreditation
+    of organizations issuing PIV credentials. [Supersedes FIPS 201-2 (August 2013
+    ): https://doi.org/10.6028/NIST.FIPS.201-2]'
+series:
+- title:
+  - content: NIST federal information processing standards publication; NIST FIPS
+  number: 201-3
+place:
+- city: Washington
+  region:
+  - iso: D
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

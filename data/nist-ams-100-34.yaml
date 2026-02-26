@@ -1,0 +1,86 @@
+---
+id: NISTAMS10034
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Economics of manufacturing machinery maintenance
+  type: title-main
+- language: en
+  script: Latn
+  content: a survey and analysis of U.S. costs and benefits
+  type: title-part
+- language: en
+  script: Latn
+  content: Economics of manufacturing machinery maintenance - a survey and analysis
+    of U.S. costs and benefits
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-34
+docidentifier:
+- content: NIST AMS 100-34
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-34
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Thomas, Douglas S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021113838
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Weiss, Brian A.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: This report examines costs of machinery maintenance along with losses due
+    to inadequate maintenance strategies in discrete manufacturing (NAICS 321-339,
+    excluding NAICS 324 and 325) using data collected from U.S. manufacturers. The
+    report further examined the perceived and observed benefits of investing in and
+    advancing maintenance strategies. Estimates for costs and losses are annual values
+    for 2016. Machinery maintenance expenditures for NAICS 321- 339 (excluding 324
+    and 325) were estimated to be $5 7.3 billion for 2016. Losses due to preventable
+    maintenance issues amounted to $1 19.1 billion. The top 25 % of those establishments
+    relying on reactive maintenance was associated with 3.3 times more downtime than
+    those in the bottom 25 %. They were also associated with 16.0 times more defects,
+    2.8 more lost sales due to defects from maintenance, 2.4 times more lost sales
+    due to delays from maintenance, and 4.9 times more inventory increases due to
+    maintenance issues.
+series:
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 100-34
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

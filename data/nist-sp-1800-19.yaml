@@ -1,0 +1,215 @@
+---
+id: NISTSP180019
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Trusted cloud
+  type: title-main
+- language: en
+  script: Latn
+  content: security practice guide for VMware hybrid cloud infrastructure as a service
+    (IaaS) environments
+  type: title-part
+- language: en
+  script: Latn
+  content: Trusted cloud - security practice guide for VMware hybrid cloud infrastructure
+    as a service (IaaS) environments
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1800-19
+docidentifier:
+- content: NIST SP 1800-19
+  type: NIST
+  primary: true
+- content: NIST.SP.1800-19
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bartock, Michael.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dodson, Donna.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Souppaya, Murugiah.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Carroll, Daniel.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Masten, Robert.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scinta, Gina.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Massis, Paul.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Prafullchandra, Hemma.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Malnar, Jason.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Singh, Harmeet.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ghandi, Rajeev.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Storey, Laura E.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yeluri, Raghuram.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Shea, Tim.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dalton, Michael.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Weber, Rocky.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, Karen.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dukes, Anthony.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Haskins, Jeff.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Phoenix, Carlos.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Swarts, Brenda.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: A cloud workload is an abstraction of the actual instance of a functional
+    application that is virtualized or containerized to include compute, storage,
+    and network resources. Organizations need to be able to monitor, track, apply,
+    and enforce their security and privacy policies on their cloud workloads, based
+    on business requirements, in a consistent, repeatable, and automated way. The
+    goal of this project is to develop a trusted cloud solution that will demonstrate
+    how trusted compute pools leveraging hardware roots of trust can provide the necessary
+    security capabilities. These capabilities not only provide assurance that cloud
+    workloads are running on trusted hardware and in a trusted geolocation or logical
+    boundary, but also improve the protections for the data in the workloads and in
+    the data flows between workloads. The example solution leverages modern commercial
+    off-the-shelf technology and cloud services to address lifting and shifting a
+    typical multi-tier application between an organization-controlled private cloud
+    and a hybrid/public cloud over the internet.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1800-19
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

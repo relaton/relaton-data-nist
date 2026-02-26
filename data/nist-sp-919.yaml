@@ -1,0 +1,81 @@
+---
+id: NISTSP919
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: International Workshop on Fire Performance of High-Strength Concrete, NIST,
+    Gaithersburg, MD, February 13-14, 1997
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.919
+docidentifier:
+- content: NIST SP 919
+  type: NIST
+  primary: true
+- content: NIST.SP.919
+  type: DOI
+date:
+- type: issued
+  at: '1997'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Phan, Long T. (Long Thanh),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no98084569
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cariono, Nicholas J.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Duthinh, Dat.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022001252
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Garboczi, Edward J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n96075666
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '919'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

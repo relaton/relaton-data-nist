@@ -1,0 +1,71 @@
+---
+id: NISTGCR18049Upd1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Fuse 47 apartment complex fire modeling analysis
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.GCR.18-049-upd1
+docidentifier:
+- content: NIST GCR 18-049/Upd1
+  type: NIST
+  primary: true
+- content: NIST.GCR.18-049-upd1
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: National Institute of Standards and Technology.
+abstract:
+- language: en
+  script: Latn
+  content: The National Institute of Standards and Technology (NIST) has a long and
+    impressive history of seeking to improve the safety of buildings, their occupants,
+    and emergency responders through studies of building failures. Since 1969, NIST
+    has investigated about 40 earthquakes, hurricanes, building and construction failures,
+    tornadoes, and fires. These studies have resulted in major and far reaching changes
+    to building and fire codes, standards, and practices. The study of disaster and
+    failure events is essential for improving the performance of buildings and infrastructure,
+    the safety of building occupants, and for evaluating the adequacy of codes, standards,
+    practices, evacuation and emergency responseprocedures, and the current state-of-knowledge
+    for structures. The results of disaster and failure studies help NIST develop
+    community-scale loss estimation tools to predict consequences of disasters, leading
+    to increased resilience.
+relation:
+- type: updates
+  bibitem:
+    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x000000036fef7000>"
+    docidentifier:
+    - content: NIST GCR 18-049
+      type: NIST
+series:
+- title:
+  - content: NIST GCR
+  number: 18-049-upd1
+- title:
+  - content: NIST GCR; NIST grant-contract report; NIST grant contract report
+  number: 18-049-upd1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

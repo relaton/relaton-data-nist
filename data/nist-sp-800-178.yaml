@@ -1,0 +1,105 @@
+---
+id: NISTSP800178
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A comparison of Attribute Based Access Control (ABAC) standards for data
+    service applications
+  type: title-main
+- language: en
+  script: Latn
+  content: Extensible Access Control Markup Language (XACML) and Next Generation Access
+    Control (NGAC)
+  type: title-part
+- language: en
+  script: Latn
+  content: A comparison of Attribute Based Access Control (ABAC) standards for data
+    service applications - Extensible Access Control Markup Language (XACML) and Next
+    Generation Access Control (NGAC)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-178
+docidentifier:
+- content: NIST SP 800-178
+  type: NIST
+  primary: true
+- content: NIST.SP.800-178
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ferraiolo, David.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n90718667
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chandramouli, Ramaswamy.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2003002931
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hu, Vincent.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kuhn, D. Richard.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n85246800
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: Extensible Access Control Markup Language (XACML) and Next Generation Access
+    Control (NGAC) are very different attribute based access control (ABAC) standards
+    with similar goals and objectives. An objective of both is to provide a standardized
+    way for expressing and enforcing vastly diverse access control policies on various
+    types of data services. However, the two standards differ with respect to the
+    manner in which access control policies are specified and implemented. This document
+    describes XACML and NGAC, and then compares them with respect to five criteria.
+    The goal of this publication is to help ABAC users and vendors make informed decisions
+    when addressing future data service policy enforcement requirements.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-178
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

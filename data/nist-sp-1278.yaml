@@ -1,0 +1,83 @@
+---
+id: NISTSP1278
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 5G hardware supply chain security through physical measurements
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1278
+docidentifier:
+- content: NIST SP 1278
+  type: NIST
+  primary: true
+- content: NIST.SP.1278
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Booth, James C.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dowell, Marla L.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Feldman, Ari D.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hale, Paul D.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Midzor, Melissa M.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Orloff, Nathan D.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '1278'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

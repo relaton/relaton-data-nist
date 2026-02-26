@@ -1,0 +1,80 @@
+---
+id: NISTAMS10048Upd1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Cost-effective environmental sustainability
+  type: title-main
+- language: en
+  script: Latn
+  content: a focus on a circular economy
+  type: title-part
+- language: en
+  script: Latn
+  content: Cost-effective environmental sustainability - a focus on a circular economy
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-48-upd1
+docidentifier:
+- content: NIST AMS 100-48/Upd1
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-48-upd1
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Thomas, Douglas S.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8600-4795"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Currently, global economies are using and contaminating resources faster
+    than they can be regenerated. This resource depletion strains the economy and
+    society today and into the future and is largely due to a series of misaligned
+    incentives. Solving this problem begins by identifying these misalignments, identifying
+    feasible solutions that realign incentives or addresses the results of the misalignment.
+    This report examines the economics of a circular economy, focusing more on issues
+    related to standards and technologies which might facilitate increased environmental
+    sustainability.
+relation:
+- type: updates
+  bibitem:
+    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x0000000334af4ab0>"
+    docidentifier:
+    - content: NIST 100-48
+      type: NIST
+series:
+- title:
+  - content: NIST advanced manufacturing series
+  number: 100-48-upd1
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 100-48-upd1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,97 @@
+---
+id: NISTSP80053r2
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Recommended security controls for federal information systems and organizations
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-53r2
+docidentifier:
+- content: NIST SP 800-53r2
+  type: NIST
+  primary: true
+- content: NIST.SP.800-53r2
+  type: DOI
+date:
+- type: issued
+  at: '2007'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ross, R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Katzke, S.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Johnson, L. A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81012562
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Swanson, M.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stoneburner, G.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rogers, G.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: 'This publication revises NIST SP 800-53 Revision 1 by adding specific
+    guidance on the application of security controls to Industrial Control Systems
+    (ICS). That ICS-specific guidance is contained in Appendix I, and addresses the
+    following: Tailoring guidance; Security control enhancements; Supplements to the
+    security control baselines; and Supplemental guidance.'
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-53r2
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

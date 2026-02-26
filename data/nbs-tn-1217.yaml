@@ -1,0 +1,62 @@
+---
+id: NBSTN1217
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NBS reactor
+  type: title-main
+- language: en
+  script: Latn
+  content: summary of activities July 1984 through June 1985
+  type: title-part
+- language: en
+  script: Latn
+  content: NBS reactor - summary of activities July 1984 through June 1985
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.TN.1217
+docidentifier:
+- content: NBS TN 1217
+  type: NIST
+  primary: true
+- content: NBS.TN.1217
+  type: DOI
+date:
+- type: issued
+  at: '1985'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Shorten, Frederick J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022083410
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS technical note; NBS tech note; NBS TN
+  number: '1217'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,107 @@
+---
+id: NISTIR8292
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Face Recognition Vendor Test (FRVT) part 4
+  type: title-main
+- language: en
+  script: Latn
+  content: MORPH - performance of automated face morph detection
+  type: title-part
+- language: en
+  script: Latn
+  content: Face Recognition Vendor Test (FRVT) part 4 - MORPH - performance of automated
+    face morph detection
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8292
+docidentifier:
+- content: NIST IR 8292
+  type: NIST
+  primary: true
+- content: NIST.IR.8292
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ngan, Mei.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020151015
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grother, Patrick J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2005043592
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hanaoka, Kayee.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Guo, Shaozong,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n85195294
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: The FRVT MORPH test provides ongoing independent testing of prototype face
+    morphing attack detection (MAD) technologies. The evaluation is designed to obtain
+    commonly measured assessment of morph detection capability to inform developers
+    and current and prospective end-users. FRVT MORPH is open for ongoing participation
+    worldwide, and there is no charge to participate. The test leverages a number
+    of datasets created using different morphing methods with goals to evaluate algorithm
+    performance over a large spectrum of morphing techniques. Testing was conducted
+    using a tiered approach, where algorithms were evaluated on low quality morphs
+    created with readily accessible tools available to non-experts, morphs generated
+    using automated morphing methods based on academic research, and high quality
+    morphs created using commercial- grade tools. We'd like to get an assessment on
+    the existence and extent of morph detection capabilities, and if there is indication
+    of high accuracy, much larger datasets can be curated to support large-scale evaluation
+    of the technology.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8292'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

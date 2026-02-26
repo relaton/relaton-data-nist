@@ -1,0 +1,84 @@
+---
+id: NISTIR7437
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Demonstration of real-time tactical decision aid displays
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7437
+docidentifier:
+- content: NIST IR 7437
+  type: NIST
+  primary: true
+- content: NIST.IR.7437
+  type: DOI
+date:
+- type: issued
+  at: '2007'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Davis, William D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2005057295
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Holmberg, David.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nb2003088423
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Reneke, Paul.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brassell, Lori.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Vettori, Robert.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7437'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,80 @@
+---
+id: NISTTN2200
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Carbon monoxide concentrations and carboxyhemoglobin profiles from commercially
+    available portable generators equipped with a CO hazard mitigation system
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2200
+docidentifier:
+- content: NIST TN 2200
+  type: NIST
+  primary: true
+- content: NIST.TN.2200
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zimmerman, Stephen M.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Emmerich, Steven J.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brookman, Matthew J.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: The U.S. Consumer Product Safety Commission (CPSC) is focused on addressing
+    the hazard of acute carbon monoxide (CO) poisoning of consumers from portable
+    generators that can result in serious, long term health effects or death in exposed
+    individuals. Under an interagency agreement with CPSC (CPSC-I-17-0023), the National
+    Institute of Standards and Technology (NIST) conducted a series of tests on four
+    commercially available portable generators advertised as certified to one of two
+    voluntary standards requiring CO hazard mitigation systems for portable generators.
+    These tests characterized the indoor CO concentrations and the associated calculated
+    carboxyhemoglobin (COHb) profiles on simulated occupants when the generators were
+    operated in or near a test house under various operational and environmental conditions.
+    This report presents the measured CO data and calculated COHb levels from those
+    tests. In addition, model validation tests and simulations were performed for
+    2 Cases (3 tests each) to supplement those already reported in NIST Technical
+    Note 2049.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2200'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

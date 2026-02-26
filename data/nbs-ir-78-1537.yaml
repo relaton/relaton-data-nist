@@ -1,0 +1,71 @@
+---
+id: NBSIR781537
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: An exploratory study of dielectric breakdown voltages for residential wiring
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IR.78-1537
+docidentifier:
+- content: NBS IR 78-1537
+  type: NIST
+  primary: true
+- content: NBS.IR.78-1537
+  type: DOI
+date:
+- type: issued
+  at: '1978'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Raduan, Jose Eduardo V.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Beausoliel, Robert W.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50006233
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Meese, William J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50009969
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBSIR; NBS IR; NBS interagency report; NBS internal report
+  number: 78-1537
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

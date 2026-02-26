@@ -1,0 +1,92 @@
+---
+id: NISTTN2038
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Influence of fire on the lateral resistance of cold-formed steel shear
+    walls ⁰₃ phase 2
+  type: title-main
+- language: en
+  script: Latn
+  content: oriented strand board, strap braced, and gypsum-sheet steel composite
+  type: title-part
+- language: en
+  script: Latn
+  content: Influence of fire on the lateral resistance of cold-formed steel shear
+    walls ⁰₃ phase 2 - oriented strand board, strap braced, and gypsum-sheet steel
+    composite
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2038
+docidentifier:
+- content: NIST TN 2038
+  type: NIST
+  primary: true
+- content: NIST.TN.2038
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hoehler, Matthew S.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Andres, Blanca.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bundy, Matthew F.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: 'This report presents experimental investigations of the performance of
+    cold-formed steel lateral force-resisting systems (CFS-LRFS) under combinations
+    of simulated earthquake and fire loading. Three types of shear wall systems are
+    investigated: gypsum-sheet steel composite panel sheathed walls, oriented strand
+    board (OSB) sheathed walls, and steel strap braced walls. Twenty-two 2.7 m tall
+    by 3.7 m long test specimens are subjected sequentially to combinations of mechanical
+    (cyclic shear deformation) and thermal (fire) load. The mechanical loading setup
+    and protocol are based on ASTM E2126 Method C (CUREE Basic Loading Protocol).
+    Fire loads of varying intensity that represent the characteristics of actual fires
+    are investigated. The work is a step toward developing fragility curves (representations
+    of the probability of exceeding a given damage state as a function of an engineering
+    demand parameter) for these systems and is essential for performance-based design
+    for fire.'
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2038'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

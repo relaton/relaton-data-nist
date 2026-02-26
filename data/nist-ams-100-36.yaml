@@ -1,0 +1,73 @@
+---
+id: NISTAMS10036
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Uncertainties for machine tool modeling
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-36
+docidentifier:
+- content: NIST AMS 100-36
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-36
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Shao, Guodong.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stann, William.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Machine tool models play an important role to support decision-making for
+    machine tool procurement, process planning, and production scheduling in manufacturing.
+    However, it is challenging to have a machine model that is accurately and dynamically
+    representing the real machine due to modeling uncertainties. Modeling uncertainties
+    and errors can be introduced during the model development process (i.e., when
+    a machine model is created from scratch) and the model conversion process (i.e.,
+    when a machine model in one format needs to be converted into another format,
+    e.g., from a vendor-specific format to a neutral format such as STandard Exchange
+    of Product Data (STEP)). This paper identifies these uncertainties and particularly
+    provides a methodology to help ensure correctly converting the coordinate system
+    from one definition to another. Examples are provided to explain the methodology.
+    We also discuss digital twins of machine tools, which would be an integrated solution
+    for addressing most of the modeling uncertainties to constantly monitor the status
+    of the machine tool, dynamically update the model parameters, and in turn optimally
+    control the machine tool.
+series:
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 100-36
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

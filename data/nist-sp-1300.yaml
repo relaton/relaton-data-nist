@@ -1,0 +1,73 @@
+---
+id: NISTSP1300
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST cybersecurity framework 2.0
+  type: title-main
+- language: en
+  script: Latn
+  content: small business quick-start guide
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST cybersecurity framework 2.0 - small business quick-start guide
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1300
+docidentifier:
+- content: NIST SP 1300
+  type: NIST
+  primary: true
+- content: NIST.SP.1300
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: National Institute of Standards and Technology (U.S.)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This guide provides small-to-medium sized businesses (SMB), specifically
+    those who have modest or no cybersecurity plans in place, with considerations
+    to kick-start their cybersecurity risk management strategy by using the NIST Cybersecurity
+    Framework (CSF) 2.0. The guide also can assist other relatively small organizations,
+    such as non-profits, government agencies, and schools. It is a supplement to the
+    NIST CSF and is not intended to replace it.
+series:
+- title:
+  - content: NIST special publication
+  number: '1300'
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '1300'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,90 @@
+---
+id: NISTIR8040
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Measuring the usability and security of permuted passwords on mobile platforms
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8040
+docidentifier:
+- content: NIST IR 8040
+  type: NIST
+  primary: true
+- content: NIST.IR.8040
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Greene, Kristen K.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020085049
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kelsey, John.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2014038767
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Franklin, Joshua M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020086934
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: Password entry on mobile devices significantly impacts both usability and
+    security, but there is a lack of usable security research in this area, specifically
+    for complex password entry. To address this research gap, we set out to assign
+    strength metrics to passwords for which we already had usability data, in an effort
+    to have a more meaningful comparison between usability and security. This document
+    reports a method of optimizing the input of randomly generated passwords on mobile
+    devices via password permutation to allow for a comparison of password usability
+    data. We found that the number of keystrokes saved the efficiency gained via permutation
+    depends on the number of onscreen keyboard changes required in the original password
+    rather than on password length. Additionally, we created and are releasing Python
+    scripts (publicly available from https://github.com/usnistgov/PasswordMetrics)
+    for the experiments on entropy loss we conducted across passwords ranging in length
+    from 5 to 20 characters.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8040'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

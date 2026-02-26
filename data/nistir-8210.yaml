@@ -1,0 +1,147 @@
+---
+id: NISTIR8210
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Nail to nail fingerprint challenge
+  type: title-main
+- language: en
+  script: Latn
+  content: prize analysis
+  type: title-part
+- language: en
+  script: Latn
+  content: Nail to nail fingerprint challenge - prize analysis
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8210
+docidentifier:
+- content: NIST IR 8210
+  type: NIST
+  primary: true
+- content: NIST.IR.8210
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fiumara, Gregory.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tabassi, Elham.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020148717
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Flanagan, Patricia.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020148726
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grantham, John.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ko, Kenneth.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020148737
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Marshall, Karen.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88286097
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schwarz, Matthew.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020148759
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Woodgate, Bryan.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020148767
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Boehnen, Christopher.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020149143
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: In September 2017, the Intelligence Advanced Research Projects Activity
+    held a fingerprint data collection as part of the Nail to Nail Fingerprint Challenge.
+    Participating Challengers deployed devices designed to collect an image of the
+    full nail to nail surface area of a fingerprint - equivalent to a rolled fingerprint
+    - from an unacclimated user without assistance from a trained device operator.
+    Images captured from these devices were searched against a set of traditionally-
+    captured operator-assisted rolled fingerprints. Thousands of latent fingerprints
+    were also searched against the images.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8210'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

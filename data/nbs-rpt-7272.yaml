@@ -1,0 +1,100 @@
+---
+id: NBSRPT7272
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Insertion loss of a brick wall at UHF
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.RPT.7272
+docidentifier:
+- content: NBS RPT 7272
+  type: NIST
+  primary: true
+- content: NBS.RPT.7272
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gierhart, G. D. (Gary D.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81117524
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hause, L. G.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79111756
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Farrow, J. E.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80007395
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Decker, Martin T.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2002003372
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: Measurements of the effects of inserting a brick wall into a radio propagation
+    path are reported. The technique used for measuring insertion loss at frequencies
+    of 518 Mc/s and 1046 Mc/s is described. Distributions of the resulting data indicate
+    the variability of insertion loss with changes in measurement location. The median
+    insertion loss at both frequencies was on the order of 2.5 db.
+series:
+- title:
+  - content: NBS report
+  number: '7272'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

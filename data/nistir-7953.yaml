@@ -1,0 +1,78 @@
+---
+id: NISTIR7953
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Interlaboratory analytical comparison study of total fatty acid concentrations
+    in human serum
+  type: title-main
+- language: en
+  script: Latn
+  content: 'results for exercise 01 : QA12FASER01'
+  type: title-part
+- language: en
+  script: Latn
+  content: 'Interlaboratory analytical comparison study of total fatty acid concentrations
+    in human serum - results for exercise 01 : QA12FASER01'
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7953
+docidentifier:
+- content: NIST IR 7953
+  type: NIST
+  primary: true
+- content: NIST.IR.7953
+  type: DOI
+date:
+- type: issued
+  at: '2013'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schantz, Michele M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2007089499
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Powers, Carissa D.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schleicher, Rosemary L.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Materials Measurement Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7953'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

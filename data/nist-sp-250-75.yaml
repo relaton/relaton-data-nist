@@ -1,0 +1,75 @@
+---
+id: NISTSP25075
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST measurement services
+  type: title-main
+- language: en
+  script: Latn
+  content: cw laser power and energy calibrations at NIST
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST measurement services - cw laser power and energy calibrations at NIST
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.250-75
+docidentifier:
+- content: NIST SP 250-75
+  type: NIST
+  primary: true
+- content: NIST.SP.250-75
+  type: DOI
+date:
+- type: issued
+  at: '2007'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hadler, Joshua.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cromer, Christopher L.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lehman, John H.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n92060418
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 250-75
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

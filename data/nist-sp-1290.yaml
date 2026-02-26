@@ -1,0 +1,72 @@
+---
+id: NISTSP1290
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Metric recipes
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1290
+docidentifier:
+- content: NIST SP 1290
+  type: NIST
+  primary: true
+- content: NIST.SP.1290
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Benham, Elizabeth.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-2751-7881"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nguyen, Tanna.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: National Institute of Standards and Technology.
+abstract:
+- language: en
+  script: Latn
+  content: Cooking and baking using a kitchen scale is a fun way to build metric system
+    abilities and apply measurement techniques. This recipe series is ideal for both
+    new and experienced chefs. Completing a NIST metric recipe is an opportunity to
+    apply culinary math, develop measurement skills, interpret instructions, complete
+    steps in a necessary sequence, troubleshoot, build self-confidence, and enjoy
+    the delicious results. Cooking and baking activities develop fine motor skills
+    and coordination, practice selecting appropriate cooking tools, opening containers,
+    mixing, pouring without spilling, counting, weighing, as well as reading and interpreting
+    a digital scale readout or oven thermometer. This printable recipe card series
+    is best when printed on cardstock. Companion resources are available on the NIST
+    Metric Cooking website.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '1290'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

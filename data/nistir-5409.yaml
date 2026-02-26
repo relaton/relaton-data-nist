@@ -1,0 +1,62 @@
+---
+id: NISTIR5409
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Electronics and Electrical Engineering Laboratory
+  type: title-main
+- language: en
+  script: Latn
+  content: 1994 strategic plan
+  type: title-part
+- language: en
+  script: Latn
+  content: Electronics and Electrical Engineering Laboratory - 1994 strategic plan
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.5409
+docidentifier:
+- content: NIST IR 5409
+  type: NIST
+  primary: true
+- content: NIST.IR.5409
+  type: DOI
+date:
+- type: issued
+  at: '1994'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Electronics and Electrical Engineering Laboratory (National Institute
+        of Standards and Technology)
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Electronics and Electrical Engineering Laboratory (National Institute
+          of Standards and Technology)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '5409'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

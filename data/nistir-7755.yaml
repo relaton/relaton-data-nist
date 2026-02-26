@@ -1,0 +1,72 @@
+---
+id: NISTIR7755
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Toward a preliminary framework for assessing the trustworthiness of software
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7755
+docidentifier:
+- content: NIST IR 7755
+  type: NIST
+  primary: true
+- content: NIST.IR.7755
+  type: DOI
+date:
+- type: issued
+  at: '2010'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Boland, Tim.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no90016358
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cleraux, Charline.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fong, Elizabeth.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50023905
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
+    - content: Software and Systems Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7755'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

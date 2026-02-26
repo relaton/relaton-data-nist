@@ -1,0 +1,89 @@
+---
+id: NISTSP260198
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A retuned horwitz procedure for upgrading certificates of older standard
+    reference materials
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-198
+docidentifier:
+- content: NIST SP 260-198
+  type: NIST
+  primary: true
+- content: NIST.SP.260-198
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sieber, John R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Epstein, Michael S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n92016762
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Possolo, Antonio M.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Material Measurement Laboratory (U.S.).
+    - content: Information Technology Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012096740
+abstract:
+- language: en
+  script: Latn
+  content: Many older certified reference materials have certificates of analysis
+    that do not fully comply with ISO Guide 31. This applies to many NIST Standard
+    Reference Materials (SRM) that have published uncertainty estimates not compliant
+    with the GUM or have no uncertainty estimates at all. When older certification
+    records are sparse and insufficient data are available for a full, modern, statistical
+    analysis, it can be useful to apply the concept of the Horwitz formula relating
+    measurement uncertainty to constituent mass fraction across a population of results
+    from a variety of test methods. Because the quality inherent in results obtained
+    during SRM development projects is likely better than the quality of at least
+    some data used by Horwitz to derive the published relationship, it is sensible
+    to retune the concept, using a large set of results from NIST SRM projects. This
+    approach is described with examples provided, and its utility is discussed in
+    comparison to and in combination with alternative approaches such as Type A evaluation
+    using Student?s t coverage intervals and a Bayesian procedure. A six step process
+    is defined to tackle a variety of situations encountered with older SRMs. NIST
+    is applying this approach to upgrade numerous certificates for metals, ores and
+    related materials.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 260-198
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

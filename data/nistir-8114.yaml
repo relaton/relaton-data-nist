@@ -1,0 +1,85 @@
+---
+id: NISTIR8114
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Report on lightweight cryptography
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8114
+docidentifier:
+- content: NIST IR 8114
+  type: NIST
+  primary: true
+- content: NIST.IR.8114
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McKay, Kerry A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bassham, Larry.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Turan, Meltem Sonmez.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mouha, Nicky.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: NIST-approved cryptographic standards were designed to perform well using
+    general-purpose computers. In recent years, there has been increased deployment
+    of small computing devices that have limited resources with which to implement
+    cryptography. When current NIST-approved algorithms can be engineered to fit into
+    the limited resources of constrained environments, their performance may not be
+    acceptable. For these reasons, NIST started a lightweight cryptography project
+    that was tasked with learning more about the issues and developing a strategy
+    for the standardization of lightweight cryptographic algorithms. This report provides
+    an overview of the lightweight cryptography project at NIST, and describes plans
+    for the standardization of lightweight cryptographic algorithms.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8114'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

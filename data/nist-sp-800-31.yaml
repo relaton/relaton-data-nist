@@ -1,0 +1,75 @@
+---
+id: NISTSP80031
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Intrusion detection systems
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-31
+docidentifier:
+- content: NIST SP 800-31
+  type: NIST
+  primary: true
+- content: NIST.SP.800-31
+  type: DOI
+date:
+- type: issued
+  at: '2001'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bace, Rebecca.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mell, Peter.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2007020349
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: Intrusion detection systems (IDSs) are software or hardware systems that
+    automate the process of monitoring the events occurring in a computer system or
+    network, analyzing them for signs of security problems. As network attacks have
+    increased in number and severity over the past few years, intrusion detection
+    systems have become a necessary addition to the security infrastructure of most
+    organizations. This guidance document is intended as a primer in intrusion detection
+    , developed for those who need to understand what security goals intrusion detection
+    mechanisms serve, how to select and configure intrusion detection systems for
+    their specific system and network environments, how to manage the output of intrusion
+    detection systems, and how integrate intrusion detection functions with the rest
+    of the organizational security infrastructure.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-31
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

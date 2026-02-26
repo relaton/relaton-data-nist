@@ -1,0 +1,75 @@
+---
+id: NISTSP800127
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guide to securing WiMAX wireless communications
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-127
+docidentifier:
+- content: NIST SP 800-127
+  type: NIST
+  primary: true
+- content: NIST.SP.800-127
+  type: DOI
+date:
+- type: issued
+  at: '2010'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, K. A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tibbs, C.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sexton, M.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: The purpose of this document is to provide information to organizations
+    regarding the security capabilities of wireless communications using WiMAX networks
+    and to provide recommendations on using these capabilities. WiMAX technology is
+    a wireless metropolitan area network (WMAN) technology based upon the IEEE 802.16
+    standard. It is used for a variety of purposes, including, but not limited to,
+    fixed last-mile broadband access, long-range wireless backhaul, and access layer
+    technology for mobile wireless subscribers operating on telecommunications networks.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-127
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

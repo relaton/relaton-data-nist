@@ -1,0 +1,60 @@
+---
+id: NISTIR4599
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NVLAP FY 90 annual report
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.4599
+docidentifier:
+- content: NIST IR 4599
+  type: NIST
+  primary: true
+- content: NIST.IR.4599
+  type: DOI
+date:
+- type: issued
+  at: '1991'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: White, Vanda R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no00041322
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Trahey, Nancy M.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '4599'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

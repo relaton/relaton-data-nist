@@ -1,0 +1,62 @@
+---
+id: NISTSP800171A
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Assessing security requirements for controlled unclassified information
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-171A
+docidentifier:
+- content: NIST SP 800-171A
+  type: NIST
+  primary: true
+- content: NIST.SP.800-171A
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ross, Ron.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dempsey, Kelley.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pilliterri, Victoria.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-171A
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

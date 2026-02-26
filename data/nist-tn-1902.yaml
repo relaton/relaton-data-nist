@@ -1,0 +1,95 @@
+---
+id: NISTTN1902
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Test results prepared for Honeywell
+  type: title-main
+- language: en
+  script: Latn
+  content: igniter material effects in the Japanese High Pressure Gas Law test
+  type: title-part
+- language: en
+  script: Latn
+  content: Test results prepared for Honeywell - igniter material effects in the Japanese
+    High Pressure Gas Law test
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1902
+docidentifier:
+- content: NIST TN 1902
+  type: NIST
+  primary: true
+- content: NIST.TN.1902
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Linteris, Gregory.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pagliaro, John.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2004026937
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sunderland, Peter.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nb2008019169
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: The goal of the work was to determine the flammability of R1234ze(E) (C3H2F4)
+    per the Japanese High Pressure Gas Law (see Appendix I). Tests were also performed
+    with R32 (CH2F2), R134a (C2H2F4) and methane (CH4), to provide a baseline for
+    comparison of the results with R1234ze(E). Since the measured flammability of
+    the mixture might be affected by the ignition source, tests were conducted with
+    either copper wire (0.08 mm or 0.361 mm diameter), tungsten wire (0.3 mm diameter)
+    or the standard platinum wire (0.3 mm diameter). To aid in the interpretation
+    of the experiments, calculations were also performed for the thermodynamic equilibrium
+    conditions, the homogeneous autoignition time ?ign, the overall chemical rate
+    from stirred-reactor simulations, and the laminar burning velocity. These latter
+    simulations employed a detailed chemical kinetic model, and solved the conservation
+    equations for mass, energy, and species conservation.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1902'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

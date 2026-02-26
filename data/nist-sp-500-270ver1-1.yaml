@@ -1,0 +1,77 @@
+---
+id: NISTSP500270ver11
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Source code security analysis tool test plan version 1.1
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.500-270v1.1
+docidentifier:
+- content: NIST SP 500-270ver1.1
+  type: NIST
+  primary: true
+- content: NIST.SP.500-270v1.1
+  type: DOI
+date:
+- type: issued
+  at: '2011'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Koo, Michael.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022042989
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gaucher, Romain.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022012049
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cleraux, Charline.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rodriguez, Jenise Reyes.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 500-270v1.1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

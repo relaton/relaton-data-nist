@@ -1,0 +1,65 @@
+---
+id: NBSBSS41
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Performance of a single-stack DWV system utilizing low-angle stack-branch
+    confluence and bottom shunt venting
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.BSS.41
+docidentifier:
+- content: NBS BSS 41
+  type: NIST
+  primary: true
+- content: NBS.BSS.41
+  type: DOI
+date:
+- type: issued
+  at: '1972'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wyly, Robert S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50014856
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sherlin, Grover C.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021054617
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS building science series; NBS building science; NBS BSS
+  number: '41'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

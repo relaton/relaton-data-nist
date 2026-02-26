@@ -1,0 +1,81 @@
+---
+id: NBSTN59411
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Optical radiation measurements
+  type: title-main
+- language: en
+  script: Latn
+  content: Development of an NBS reference spectrophotometer for diffuse transmittance
+    and reflectance
+  type: title-part
+- language: en
+  script: Latn
+  content: Optical radiation measurements - Development of an NBS reference spectrophotometer
+    for diffuse transmittance and reflectance
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.TN.594-11
+docidentifier:
+- content: NBS TN 594-11
+  type: NIST
+  primary: true
+- content: NBS.TN.594-11
+  type: DOI
+date:
+- type: issued
+  at: '1976'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Venable, Jr., William H.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hsia, J. J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82136978
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Weidner, Victor R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82137357
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS technical note; NBS tech note; NBS TN
+  number: 594-11
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

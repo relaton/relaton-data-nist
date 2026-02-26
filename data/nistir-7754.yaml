@@ -1,0 +1,72 @@
+---
+id: NISTIR7754
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Experiments in parallel fingerprint matching - architectural implications
+    for large scale fingerprint matching evaluation systems
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7754
+docidentifier:
+- content: NIST IR 7754
+  type: NIST
+  primary: true
+- content: NIST.IR.7754
+  type: DOI
+date:
+- type: issued
+  at: '2011'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fillinger, Antoine.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Diduch, Lukas.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hamchi, Imad.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stanford, Vincent.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7754'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

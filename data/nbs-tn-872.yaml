@@ -1,0 +1,62 @@
+---
+id: NBSTN872
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Computer program package for metric conversion
+  type: title-main
+- language: en
+  script: Latn
+  content: reference manual
+  type: title-part
+- language: en
+  script: Latn
+  content: Computer program package for metric conversion - reference manual
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.TN.872
+docidentifier:
+- content: NBS TN 872
+  type: NIST
+  primary: true
+- content: NBS.TN.872
+  type: DOI
+date:
+- type: issued
+  at: '1975'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Anderson, Ruth K.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2002074024
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS technical note; NBS tech note; NBS TN
+  number: '872'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

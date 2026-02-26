@@ -1,0 +1,57 @@
+---
+id: NISTTN2102
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Heat release rates of multiple transient combustibles
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2102
+docidentifier:
+- content: NIST TN 2102
+  type: NIST
+  primary: true
+- content: NIST.TN.2102
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McGrattan, Kevin
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This report documents heat release rate measurements of various transient
+    combustibles; that is, non-permanent items found in industrial settings that can
+    potentially contribute to an accidental fire. These items are often included in
+    hypothetical fire scenarios that are modeled as part of risk analyses. Of particular
+    interest in these experiments is the functional relationship between the peak
+    heat release rate and the number of replicate items.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2102'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

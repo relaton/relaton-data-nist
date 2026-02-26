@@ -1,0 +1,99 @@
+---
+id: NISTIR8002
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 1588 power profile test plan
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8002
+docidentifier:
+- content: NIST IR 8002
+  type: NIST
+  primary: true
+- content: NIST.IR.8002
+  type: DOI
+date:
+- type: issued
+  at: '2014'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Perkins, Carol.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2009126411
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Laird, Jeff.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McEachern, Ryan.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Noseworthy, Bob.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Amelot, Julien.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Li-Baboud, Ya-Shian.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brady, Kevin.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nb2002050490
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8002'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

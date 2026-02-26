@@ -1,0 +1,87 @@
+---
+id: NISTSP80017
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Modes of Operation Validation System (MOVS)
+  type: title-main
+- language: en
+  script: Latn
+  content: requirements and procedures
+  type: title-part
+- language: en
+  script: Latn
+  content: Modes of Operation Validation System (MOVS) - requirements and procedures
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-17
+docidentifier:
+- content: NIST SP 800-17
+  type: NIST
+  primary: true
+- content: NIST.SP.800-17
+  type: DOI
+date:
+- type: issued
+  at: '1998'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gray, Sharon A.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n96017828
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Smid, Miles.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: The National Institute of Standards and Technology (NIST) Modes of Operation
+    Validation System (MOVS) specifies the procedures involved in validating implementations
+    of the DES algorithm in FIPS PUB 46-2 The Data Encryption Standard (DES) and the
+    Skipjack algorithm in FIPS PUB 185, Escrowed Encryption Standard (ESS). The MOVS
+    is designed to perform automated testing on Implementations Under Test (IUTs).
+    This publication provides brief overviews of the DES and Skipjack algorithms and
+    introduces the basic design and configuration of the MOVS. Included in this overview
+    are the specifications for the two categories of tests which make up the MOVS,
+    i.e., the Known Answer tests and the Modes tests. The requirements and administrative
+    procedures to be followed by those seeking formal NIST validation of an implementation
+    of the DES or Skipjack algorithm are presented. The requirements described include
+    the specific protocols for communication between the IUT and the MOVS, the types
+    of tests which the IUT must pass for formal NIST validation, and general instructions
+    for accessing and interfacing with the MOVS. An appendix with tables of values
+    and results for the DES and Skipjack Known Answer tests is also provided.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-17
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

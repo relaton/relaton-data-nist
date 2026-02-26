@@ -1,0 +1,75 @@
+---
+id: NBSIR863056
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Handbook for operation and maintenance of an NBS multisensor automated
+    EM field measurement system
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IR.86-3056
+docidentifier:
+- content: NBS IR 86-3056
+  type: NIST
+  primary: true
+- content: NBS.IR.86-3056
+  type: DOI
+date:
+- type: issued
+  at: '1986'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bensema, W. D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84052989
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Koepke, Galen H.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82208381
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Medley, H. W.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n87846680
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBSIR; NBS IR; NBS interagency report; NBS internal report
+  number: 86-3056
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

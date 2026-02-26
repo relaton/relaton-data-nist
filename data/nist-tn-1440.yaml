@@ -1,0 +1,103 @@
+---
+id: NISTTN1440
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Characterization and identification of super-effective thermal fire extinguishing
+    agents
+  type: title-main
+- language: en
+  script: Latn
+  content: final report, NGP Project 4C/1/890
+  type: title-part
+- language: en
+  script: Latn
+  content: Characterization and identification of super-effective thermal fire extinguishing
+    agents - final report, NGP Project 4C/1/890
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1440
+docidentifier:
+- content: NIST TN 1440
+  type: NIST
+  primary: true
+- content: NIST.TN.1440
+  type: DOI
+date:
+- type: issued
+  at: '2006'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pitts, William M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n86085883
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yang, Jiann C. (Jiann Chyuan)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2010118971
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bryant, Rodney A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012119699
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Blevins, Linda G.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021144291
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Huber, Marcia L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022032592
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1440'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

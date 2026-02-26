@@ -1,0 +1,82 @@
+---
+id: NISTIR8242
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 2017 pilot open speech analytic technologies evaluation (2017 NIST pilot
+    OpenSAT)
+  type: title-main
+- language: en
+  script: Latn
+  content: post evaluation summary
+  type: title-part
+- language: en
+  script: Latn
+  content: 2017 pilot open speech analytic technologies evaluation (2017 NIST pilot
+    OpenSAT) - post evaluation summary
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8242
+docidentifier:
+- content: NIST IR 8242
+  type: NIST
+  primary: true
+- content: NIST.IR.8242
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Byers, Fred.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sadjadi, Omid.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: NIST conducted the 2017 Pilot Open Speech Analytic Technologies Evaluation
+    (OpenSAT) Evaluation as the first in a new type of evaluation series. This new
+    series is being designed to combine data domains and speech-analytic tasks including
+    the public-safetycommunications domain. This report summarizes the set up and
+    results of the Pilot. The report includes 1) anonymous, composite plots, 2) an
+    analysis of systems output, and 3) the dataset challenges in the evaluation. The
+    methods used in the Pilot OpenSAT Evaluation included speech-activity detection;
+    keyword search; automatic, speech recognition; and, three data domains. Those
+    domains were low-resource language, public-safety communications, and YouTube
+    videos. For the speech-analytics task, participants in the evaluation could choose
+    one or all of the methods and one or all of the data domains.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8242'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

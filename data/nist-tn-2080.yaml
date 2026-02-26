@@ -1,0 +1,67 @@
+---
+id: NISTTN2080
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: On the cooling of a 360̊ video camera to observe fire dynamics in situ
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2080
+docidentifier:
+- content: NIST TN 2080
+  type: NIST
+  primary: true
+- content: NIST.TN.2080
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yang, Jiann C. (Jiann Chyuan)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2010118971
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: An analysis was performed to provide design guidance on the cooling of
+    an NIST-developed in situ fire visualization device, called Burn Observation Bubble
+    (BOB). The analysis was to address the question of how long the device can be
+    operated in a fire without being damaged by the fire. The analysis included single-pass
+    and recirculating cooling systems. The resulting design equations depend only
+    on the fire scenario, cooling water flow rate, and the volume ratio of the device
+    to recirculating cooling water reservoir. In the limit of infinite recirculating
+    cooling water reservoir, the design equations reduce to those of a single-pass
+    system. Sample calculations were given to illustrate the applicability of the
+    equations.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2080'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

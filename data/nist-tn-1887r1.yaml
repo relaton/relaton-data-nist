@@ -1,0 +1,87 @@
+---
+id: NISTTN1887r1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: CONTAM user guide and program documentation
+  type: title-main
+- language: en
+  script: Latn
+  content: version 3.4
+  type: title-part
+- language: en
+  script: Latn
+  content: CONTAM user guide and program documentation - version 3.4
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1887r1
+docidentifier:
+- content: NIST TN 1887r1
+  type: NIST
+  primary: true
+- content: NIST.TN.1887r1
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dols, William S.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This manual describes the computer program CONTAM version 3.4, developed
+    by NIST. CONTAM is a multizone indoor air quality and ventilation analysis program
+    designed to help determine airflows, contaminant concentrations, and occupant
+    exposure in buildings. CONTAM can calculate infiltration and exfiltration airflows
+    between interior zones of the building and the outdoors, room-to-room airflows,
+    and ventilation system airflows. These airflows are the result of pressure differences
+    resulting from driving forces which include mechanical ventilation system fans,
+    wind pressures acting on the exterior of the building, and buoyancy effects induced
+    by temperature differences between zones, including the outdoors. CONTAM can also
+    calculate contaminant concentrations to account for the transport and fate of
+    airborne contaminants due to airflow, chemical and radio-chemical transformation,
+    adsorption and desorption of building materials, filtration, and deposition to
+    and resuspension from building surfaces. CONTAM can be useful in a variety of
+    applications. Its ability to calculate building airflow rates and pressures between
+    zones of the building is useful for assessing the adequacy of ventilation rates
+    in a building, for determining the variation in ventilation rates over time, for
+    determining the distribution of ventilation air within a building, for estimating
+    the impact of envelope airtightening efforts on infiltration rates, and for evaluating
+    the energy impacts of building airflows. The program has also been used extensively
+    for the design and analysis of smoke management systems. The prediction of contaminant
+    concentrations can be used to determine the indoor air quality performance of
+    buildings before they are constructed and occupied, to investigate the impacts
+    of design decisions related to ventilation system design and building material
+    selection, to evaluate indoor air quality control technologies, and to assess
+    the indoor air quality performance of existing buildings. Predicted contaminant
+    concentrations can also be used to estimate personal exposure based on occupancy
+    patterns and activities, and occupants can also act as contaminant sources as
+    they move throughout the building.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: 1887r1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

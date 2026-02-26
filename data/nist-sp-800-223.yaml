@@ -1,0 +1,188 @@
+---
+id: NISTSP800223
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: High-performance computing security
+  type: title-main
+- language: en
+  script: Latn
+  content: architecture, threat analysis, and security posture
+  type: title-part
+- language: en
+  script: Latn
+  content: High-performance computing security - architecture, threat analysis, and
+    security posture
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-223
+docidentifier:
+- content: NIST SP 800-223
+  type: NIST
+  primary: true
+- content: NIST.SP.800-223
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Guo, Yang.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3245-3069"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chandramouli, Ramaswamy.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7387-5858"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wofford, Lowell.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1003-5090"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gregg, Rickey.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Key, Gary.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Clark, Antwan.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hinton, Catherine.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-5230-2428"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Prout, Andrew.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Reuther, Albert.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3168-3663"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Adamson, Ryan.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Warren, Aron.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-5090-2198"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bangalore, Purushotham.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-1098-9997"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Deumens, Erik.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7398-3090"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Farkas, Csilla.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Security is essential component of high-performance computing (HPC). HPC
+    systems often differ based on the evolution of their system designs, the applications
+    they run, and the missions they support. An HPC system may also have its own unique
+    security requirements, follow different security guidance, and require tailored
+    security solutions. Their complexity and uniqueness impede the sharing of security
+    solutions and knowledge. This NIST Special Publication aims to standardize and
+    facilitate the information and knowledge-sharing of HPC security using an HPC
+    system reference architecture and key components as the basics of an HPC system
+    lexicon. This publication also analyzes HPC threats, considers current HPC security
+    postures and challenges, and makes best-practice recommendations.
+series:
+- title:
+  - content: NIST special publication
+  number: 800-223
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-223
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

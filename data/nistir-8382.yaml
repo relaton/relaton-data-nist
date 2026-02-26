@@ -1,0 +1,128 @@
+---
+id: NISTIR8382
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NFIQ 2 NIST fingerprint image quality
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8382
+docidentifier:
+- content: NIST IR 8382
+  type: NIST
+  primary: true
+- content: NIST.IR.8382
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tabassi, Elham.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Olsen, Martin.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bausinger, Oliver.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Busch, Christoph.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Figlarz, Andrew.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fiumara, Gregory.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Henniger, Olaf.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Merkle, Johannes.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ruhland, Timo.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schiel, Christopher.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schwaiger, Michael.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: NIST Fingerprint Image Quality (NFIQ 2) is open source software that links
+    image quality of optical and ink 500 pixel per inch fingerprints to operational
+    recognition performance. This allows quality values to be tightly defined and
+    then numerically calibrated, which in turn allows for the standardization needed
+    to support a worldwide deployment of fingerprint sensors with universally interpretable
+    image qualities. NFIQ 2 quality features are formally standardized as part of
+    ISO/IEC 29794-4 and serve as the reference implementation of the standard.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8382'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,62 @@
+---
+id: NISTTN2036
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Comparison of the measurement uncertainties and errors for the waveform
+    state levels estimated using the histogram mode and shorth methods
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2036
+docidentifier:
+- content: NIST TN 2036
+  type: NIST
+  primary: true
+- content: NIST.TN.2036
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Paulter Jr., Nicholas G.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Material Measurement Laboratory (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012096740
+abstract:
+- language: en
+  script: Latn
+  content: State levels are a fundamental waveform parameter that are essential for
+    the computation of most other waveform parameters. The histogram-mode method has
+    been the mainstay for the estimation of state level and the shorth method was
+    introduced as a potentially more accurate estimator. A comparison of the errors
+    and measurement uncertainties in the values of state level that are computed using
+    the histogram-mode method and the shorth method are presented. The effects of
+    noise and aberrations in this comparison are included. The performance of these
+    methods depends on the types and magnitude of the noise and aberrations.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2036'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

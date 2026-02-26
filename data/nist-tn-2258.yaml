@@ -1,0 +1,105 @@
+---
+id: NISTTN2258
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Design and implementation of a closed-loop mobile manipulator control system
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2258
+docidentifier:
+- content: NIST TN 2258
+  type: NIST
+  primary: true
+- content: NIST.TN.2258
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Aboul-Enein, Omar.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-5361-4589"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Li-Baboud, Ya-Shian.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-3234-4345"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bostelman, Roger.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8605-7758"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Virts, Ann.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0003-3420-4888"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Mobile manipulators, which integrate a robotic manipulator with an automatic–autonomous
+    mobile base, have the potential to augment automation by combining the capability
+    of navigation with complex manipulation to support unstructured and dynamic environments.
+    Targeted applications include manufacturing large-scale parts commonly encountered
+    in the aerospace, energy, shipbuilding, and transportation sectors. While autonomous
+    mobility no longer restricts the robotic manipulator to working at a single, rigidly
+    fixtured workstation or work-piece, the increased flexibility introduces new sources
+    of position and orientation uncertainty, and manufacturing processes of large-scale
+    parts with complex, curved surfaces require high repeatability and accuracy. A
+    standardized measurement methodology, including a configurable measurement artifact
+    to simulate dynamic manufacturing operations, is being developed to identify and
+    evaluate these sources of performance uncertainty. As part of this methodology
+    and associated test methods development, this work details the design and prototype
+    implementation of a closed-loop mobile manipulator control system that integrates
+    feedback from an optical tracking system. Development of the control system presents
+    a new test implementation to demonstrate the performance evaluation of mobile
+    manipulation performance in application scenarios where the workstation or work-piece
+    is physically disturbed during operation or where rapid registration between distant
+    locations along the same work-piece is required. This work will promote advances
+    in control scheme development by providing a standardized, reproducible test method
+    for evaluation in a variety of simulated application spaces.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2258'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

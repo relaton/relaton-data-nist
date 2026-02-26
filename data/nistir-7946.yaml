@@ -1,0 +1,69 @@
+---
+id: NISTIR7946
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Seventeenth annual report on federal agency use of voluntary consensus
+    standards and conformity assessment
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7946
+docidentifier:
+- content: NIST IR 7946
+  type: NIST
+  primary: true
+- content: NIST.IR.7946
+  type: DOI
+date:
+- type: issued
+  at: '2014'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Franklin, Joshua,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2008079649
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wergin, Charles.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Booth, Harold.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7946'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

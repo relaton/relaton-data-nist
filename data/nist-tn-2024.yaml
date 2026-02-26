@@ -1,0 +1,94 @@
+---
+id: NISTTN2024
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Commissioning ASHRAE high-performance sequences of operation for multiple-zone
+    variable air volume air handling units
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2024
+docidentifier:
+- content: NIST TN 2024
+  type: NIST
+  primary: true
+- content: NIST.TN.2024
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Milesi-Ferretti, Natascha.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Galler, Michael A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2007101805
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bushby, Steven T.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021107279
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sorra, Justin.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: ASHRAE Guideline 36 High Performance Sequences of Operation for HVAC Systems
+    was developed to provide a reference set of high-performance control sequences
+    for air-side heating, ventilating and air-conditioning (HVAC) equipment, including
+    multiple-zone variable-air-volume (VAV) air handlers and associated terminal equipment.
+    The intent is that high-performance buildings will perform better if well-known
+    sequences of operation are specified and controls contractors refine their products
+    to correctly implement them. In this work functional performance tests for the
+    Guideline 36 sequences were developed and implemented using the HVAC-Cx commissioning
+    tool. The HVAC-Cx Functional Performance Test Module was used to commission an
+    implementation of Guideline 36 sequences in the NIST Virtual Cybernetic Building
+    Testbed. The functional performance tests are described and the effectiveness
+    of using the HVAC-Cx tool for detecting faults and implementation errors is evaluated.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2024'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

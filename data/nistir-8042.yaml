@@ -1,0 +1,106 @@
+---
+id: NISTIR8042
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Integrating electronic health records into clinical workflow
+  type: title-main
+- language: en
+  script: Latn
+  content: an application of human factors modeling methods to Obstetrics and Gynecology
+    and Ophthalmology
+  type: title-part
+- language: en
+  script: Latn
+  content: Integrating electronic health records into clinical workflow - an application
+    of human factors modeling methods to Obstetrics and Gynecology and Ophthalmology
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8042
+docidentifier:
+- content: NIST IR 8042
+  type: NIST
+  primary: true
+- content: NIST.IR.8042
+  type: DOI
+date:
+- type: issued
+  at: '2015'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lowry, Svetlana Z.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020085953
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ramaiah, Mala.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Patterson, Emily S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2010005162
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Latkany, Paul.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brick, David.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nr2006018513
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gibbons, Michael C.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
+    - content: Information Access Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2011180823
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8042'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

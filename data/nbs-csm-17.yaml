@@ -1,0 +1,49 @@
+---
+id: NBSCSM17
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Monthly news bulletin August 15, 1926
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.CSM.17
+docidentifier:
+- content: NBS CSM 17
+  type: NIST
+  primary: true
+- content: NBS.CSM.17
+  type: DOI
+date:
+- type: issued
+  at: '1926'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Division of Simplified Practice, Department of Commerce.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS commercial standards; NBS CS
+  number: '17'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

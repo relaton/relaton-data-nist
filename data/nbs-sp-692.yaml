@@ -1,0 +1,81 @@
+---
+id: NBSSP692
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Transmittance MAP service
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.692
+docidentifier:
+- content: NBS SP 692
+  type: NIST
+  primary: true
+- content: NBS.SP.692
+  type: DOI
+date:
+- type: issued
+  at: '1985'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Eckerle, Kenneth L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79148511
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hsia, J. J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82136978
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Weidner, Victor R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82137357
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+abstract:
+- language: en
+  script: Latn
+  content: An introduction to the Transmittance Measurement Assurance Program (MAP)
+    service is given. Documentation for the service is provided through a comprehensive
+    list of references. The results of a pilot run for the MAP service are given in
+    a sample calibration report.
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: '692'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

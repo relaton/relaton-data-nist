@@ -1,0 +1,65 @@
+---
+id: NISTTN1943
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Architecture for software-assisted quantity calculus
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1943
+docidentifier:
+- content: NIST TN 1943
+  type: NIST
+  primary: true
+- content: NIST.TN.1943
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Flater, David W.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: A quantity value, such as 5 kg, consists of a number and a reference (often
+    an International System of Units (SI) unit) that together express the magnitude
+    of a quantity. Many software libraries, packages, and ontologies that implement
+    quantities and units functions are available. Although all of them begin with
+    SI and associated practices, they differ in how they address issues such as ad
+    hoc counting units, ratios of two quantities of the same kind, and uncertainty.
+    This short technical note describes an architecture that addresses the complete
+    set of functions in a simple and consistent fashion. Its goal is to encourage
+    more convergent thinking about the functions and the underlying concepts so that
+    the many disparate implementations, present and future, will become more consistent
+    with one another.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1943'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,110 @@
+---
+id: NISTAMS10033
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Proceedings of the ASTM E57 workshop on standards for 3D perception systems
+    for robotic assembly applications
+  type: title-main
+- language: en
+  script: Latn
+  content: December 2-3, 2019
+  type: title-part
+- language: en
+  script: Latn
+  content: Proceedings of the ASTM E57 workshop on standards for 3D perception systems
+    for robotic assembly applications - December 2-3, 2019
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-33
+docidentifier:
+- content: NIST AMS 100-33
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-33
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Saidi, Kamel.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cheok, Geraldine.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Qiao, Helen.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Horst, John.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020102859
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Franaszek, Marek.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022010863
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: 'A two-day workshop was held at the National Institute of Standards and
+    Technology (NIST) in Gaithersburg, MD on December 2 - 3, 2019 on the subject of
+    defining and prioritizing standards needed for 3-dimensional robotic perception
+    systems for part localization, part recognition, part capture, and complex assembly.
+    The event had 28 attendees, including 10 NIST personnel. The work seeks to benefit
+    both vendors and users in the 3D perception industry through the development of
+    new standards for a variety of use cases. Key results from the workshop were:
+    1) a ranked list of 39 standards needed, 2) six of the highest ranked standards
+    were developed into ASTM work items, and 3) several of the attendees from industry
+    agreed to champion some of the six work items. This document is a report on the
+    various presentations, activities, decisions, and interactions that happened during
+    and prior to the workshop.'
+series:
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 100-33
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,91 @@
+---
+id: NISTIR8238
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Ongoing face recognition vendor test (FRVT) part 2
+  type: title-main
+- language: en
+  script: Latn
+  content: identification
+  type: title-part
+- language: en
+  script: Latn
+  content: Ongoing face recognition vendor test (FRVT) part 2 - identification
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8238
+docidentifier:
+- content: NIST IR 8238
+  type: NIST
+  primary: true
+- content: NIST.IR.8238
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grother, Patrick J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2005043592
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ngan, Mei.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020151015
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hanaoka, Kayee.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: 'This report documents performance of face recognition algorithms submitted
+    for evaluation on image datasets maintained at NIST. The algorithms implement
+    one-to-many identification of faces appearing in two-dimensional images. The primary
+    dataset is comprised of 26.6 million reasonably well-controlled live portrait
+    photos of 12.3 million individuals. Three smaller datasets containing more unconstrained
+    photos are also used: 3.2 million webcam images; 2.5 million photojournalism and
+    amateur photographer photos; and 90 thousand faces cropped from surveillance-style
+    video clips. The report will be useful for comparison of face recognition algorithms,
+    and assessment of absolute capability.'
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8238'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

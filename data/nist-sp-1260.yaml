@@ -1,0 +1,76 @@
+---
+id: NISTSP1260
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Economic Decision Guide Software (EDGe) online tutorial
+  type: title-main
+- language: en
+  script: Latn
+  content: Wildfire Urban Interface (WUI) case study
+  type: title-part
+- language: en
+  script: Latn
+  content: Economic Decision Guide Software (EDGe) online tutorial - Wildfire Urban
+    Interface (WUI) case study
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1260
+docidentifier:
+- content: NIST SP 1260
+  type: NIST
+  primary: true
+- content: NIST.SP.1260
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Helgeson, Jennifer F.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zhang, Peter J.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This report introduces features of the Economic Decision Guide Software
+    (EDGe) Online Tool V 1.0 and presents a case study of wildfire planning in the
+    wildland-urban interface (WUI). The case study highlights the competing interests
+    of two neighboring communities by evaluating the same project alternatives from
+    the point of view of each community. The WUI case study also demonstrates the
+    importance of considering co-benefits and approaches to incorporating non- market
+    valuation. The report presents a walkthrough of EDGe Online and closes with a
+    discussion of implications from the presented case study and potential future
+    research.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '1260'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

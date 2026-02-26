@@ -1,0 +1,153 @@
+---
+id: NISTSP150018r1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST Research Data Framework (RDaF)
+  type: title-main
+- language: en
+  script: Latn
+  content: version 1.5
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST Research Data Framework (RDaF) - version 1.5
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1500-18r1
+docidentifier:
+- content: NIST SP 1500-18r1
+  type: NIST
+  primary: true
+- content: NIST.SP.1500-18r1
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hanisch, Robert J.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-6853-4602"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kaiser, Debra L.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-5114-7588"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yuan, Alda
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-9619-306X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Medina-Smith, Andrea
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-1217-701X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Carroll, Bonnie C.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-8924-1000"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Campo, Eva M.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-9808-4112"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The NIST Research Data Framework (RDaF) is a multifaceted and customizable
+    tool that aims to help shape the future of open data access and research data
+    management (RDM). The RDaF will allow organizations and individual researchers
+    to customize an RDM strategy. Although NIST is leading the RDaF, most of the content
+    in the current v.1.5 was obtained via engagement with national and international
+    leaders in the research data community. NIST held a series of three plenary and
+    15 stakeholder workshops. Workshop attendees represented all stakeholder sectors,
+    from government and academia to industry and non-profits. The audience for the
+    RDaF is the entire research data community in all disciplines—the biological,
+    chemical, medical, social, and physical sciences. The RDaF is applicable from
+    the organization to the project level, encompassing a wide array of job roles
+    engaged in activities concerned with research data management, from Executives
+    and Chief Data Officers to publishers, funders, and researchers. The RDaF is a
+    map of the research data space that uses a lifecycle approach with six high-level
+    lifecycle stages to organize key information concerning RDM and research data
+    dissemination. Through a community-driven and in-depth process, NIST identified
+    specific, high-priority topics and subtopics for each lifecycle stage. The topics
+    and subtopics are programmatic and operational activities, concepts, and other
+    important factors relevant to RDM. All elements of the RDaF Framework Core—lifecycle
+    stages and their associated topics and subtopics—are defined and explained. Further,
+    the RDaF team identified Overarching Themes which are pervasive throughout the
+    framework core. The core enables organizations and individual researchers to use
+    the RDaF for self-assessment of their RDM status. In addition, each subtopic has
+    several Informative References—resources such as guidelines standards, and policies.
+    As such, the RDaF may be considered a “best practices” document. The RDaF includes
+    sample “Profiles,” for various job functions or roles. Each of these profiles
+    contains topics and subtopics that an individual in the given job function or
+    role needs to consider in fulfilling their RDM responsibilities. Individual researchers
+    and organizations involved in the research data lifecycle will be able to tailor
+    these profiles for their specific job function. The methodologies used to generate
+    the content of this publication are described in detail.
+relation:
+- type: updates
+  bibitem:
+    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x000000031f576fa8>"
+    docidentifier:
+    - content: NIST SP 1500-18
+      type: NIST
+series:
+- title:
+  - content: NIST special publication
+  number: 1500-18r1
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1500-18r
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

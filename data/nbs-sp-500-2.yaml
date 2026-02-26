@@ -1,0 +1,85 @@
+---
+id: NBSSP5002
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Accessing individual records from personal data files using non-unique
+    identifiers
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.500-2
+docidentifier:
+- content: NBS SP 500-2
+  type: NIST
+  primary: true
+- content: NBS.SP.500-2
+  type: DOI
+date:
+- type: issued
+  at: '1977'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Moore, Gwendolyn B.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83134182
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kuhns, J. L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2017006025
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Trefftzs, Jeffrey L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022072838
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Montgomery, Christine A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82151223
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: 500-2
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

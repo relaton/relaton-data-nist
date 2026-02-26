@@ -1,0 +1,86 @@
+---
+id: NISTIR5901
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Proposed performance criteria for encapsulant coatings for lead-based paint
+  type: title-main
+- language: en
+  script: Latn
+  content: I. abrasion resistance
+  type: title-part
+- language: en
+  script: Latn
+  content: Proposed performance criteria for encapsulant coatings for lead-based paint
+    - I. abrasion resistance
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.5901
+docidentifier:
+- content: NIST IR 5901
+  type: NIST
+  primary: true
+- content: NIST.IR.5901
+  type: DOI
+date:
+- type: issued
+  at: '1996'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rossiter, Walter J. Jr.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McKnight, Mary E.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82081517
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Roberts, Willard E.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82208448
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kraft, Kevin M.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '5901'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

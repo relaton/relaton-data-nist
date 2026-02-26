@@ -1,0 +1,98 @@
+---
+id: NISTTN2254
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Sensitivity analysis of reinforced concrete structures
+  type: title-main
+- language: en
+  script: Latn
+  content: a review
+  type: title-part
+- language: en
+  script: Latn
+  content: Sensitivity analysis of reinforced concrete structures - a review
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2254
+docidentifier:
+- content: NIST TN 2254
+  type: NIST
+  primary: true
+- content: NIST.TN.2254
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hariri-Ardebili, Mohammad Amin.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-6772-1468"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sattar, Siamak.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1096-7015"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Sensitivity analysis is a crucial step in computational mechanics and earthquake
+    engineering. Sensitivity analysis of a model (either numerical or physical) aims
+    at quantifying the relative importance of each input parameter, their potential
+    interaction, and their effects on the model response. Sensitivity analysis has
+    a long-term application in structural engineering more specifically on reinforced
+    concrete RC structures. Many researchers benefited from the results of sensitivity
+    analysis to reduce the uncertainty domain to those variables which are very important.
+    This further helps in uncertainty quantification by accelerating the entire process.
+    This state-of-the-art technical report provides a comprehensive review of classical
+    sensitivity analysis techniques, followed by an in-depth review of all the related
+    documents that implemented a full sensitivity analysis or partially adopted it
+    for uncertainty quantification-related discussions. This review report on sensitivity
+    analysis of reinforced concrete structures is a valuable contribution to the field
+    of computational mechanics and earthquake engineering. This review highlights
+    the importance of selecting an appropriate sensitivity analysis technique to achieve
+    reliable results in structural analysis and design. By providing insights into
+    the advantages and limitations of various sensitivity analysis techniques, this
+    report can guide researchers, practitioners, and decision-makers in selecting
+    the most appropriate technique for their specific applications. It is observed
+    that the outcome of a sensitivity analysis depends heavily on the applied technique
+    to perform the sensitivity assessment which eventually may cause a significant
+    bias during the decision making. This report paves the road for better selection
+    of a sensitivity analysis technique in problems related to structural and earthquake
+    engineering. The findings of this review have significant implications for improving
+    the accuracy and reliability of structural analysis, ultimately leading to safer
+    and more resilient structures.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2254'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,65 @@
+---
+id: NISTIR8177
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Metrics and key performance indicators for robotic cybersecurity performance
+    analysis
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8177
+docidentifier:
+- content: NIST IR 8177
+  type: NIST
+  primary: true
+- content: NIST.IR.8177
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zimmerman, Timothy A.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: The National Institute of Standards and Technology has constructed a testbed
+    to measure the performance impact of cybersecurity defenses on Industrial Control
+    Systems (ICS). The testbed allows researchers to emulate real-world industrial
+    manufacturing processes and their control systems without replicating an entire
+    factory environment or its machinery. This report focuses on the Robotic Enclave
+    of the testbed, which is comprised of two robotic arms that emulate a material
+    handling application where parts are transported collaboratively through simulated
+    sequential machining operations. Metrics, key performance indicators, and methodologies
+    for the performance measurements on the manufacturing process and specific subsystems
+    are described.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8177'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

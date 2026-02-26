@@ -1,0 +1,134 @@
+---
+id: NISTIR8278r1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: National Online Informative References (OLIR) program
+  type: title-main
+- language: en
+  script: Latn
+  content: overview, benefits, and use
+  type: title-part
+- language: en
+  script: Latn
+  content: National Online Informative References (OLIR) program - overview, benefits,
+    and use
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8278r1
+docidentifier:
+- content: NIST IR 8278r1
+  type: NIST
+  primary: true
+- content: NIST.IR.8278r1
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Keller, Nicole.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-4761-6817"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barrett, Matthew
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7689-427X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Quinn, Stephen.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1436-684X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, Karen.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-6334-9486"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Smith, Matthew C.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1004-7171"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Johnson, Vincent.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7363-996X"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Information and communications technology (ICT) domains – such as cybersecurity,
+    privacy, and Internet of Things (IoT) – have many requirements and recommendations
+    made by national and international standards, guidelines, frameworks, and regulations.
+    An Online Informative Reference (OLIR) provides a standardized expression of the
+    relationships between concepts in such documents. OLIRs provide a consistent and
+    authoritative way of specifying relationships that can be used by both humans
+    and automation. The National OLIR Program is a NIST effort to encourage and facilitate
+    subject matter experts in defining OLIRs and to provide a centralized location
+    for displaying and comparing OLIRs. This report provides an overview of the National
+    OLIR Program, explains the basics of OLIRs and the benefits they can provide,
+    and shows how anyone can access and use OLIRs.
+relation:
+- type: updates
+  bibitem:
+    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x000000038d5daff8>"
+    docidentifier:
+    - content: NIST IR 8278
+      type: NIST
+series:
+- title:
+  - content: NISTIR
+  number: 8278r1
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 8278r1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

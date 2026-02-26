@@ -1,0 +1,55 @@
+---
+id: NISTIR5420
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST response to the fifth CORM report on the pressing problems and projected
+    needs in optical radiation measurements
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.5420
+docidentifier:
+- content: NIST IR 5420
+  type: NIST
+  primary: true
+- content: NIST.IR.5420
+  type: DOI
+date:
+- type: issued
+  at: '1994'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Parr, A. C.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hsia, J. J.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '5420'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

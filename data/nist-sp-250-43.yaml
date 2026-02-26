@@ -1,0 +1,73 @@
+---
+id: NISTSP25043
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Radiance temperature calibrations
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.250-43
+docidentifier:
+- content: NIST SP 250-43
+  type: NIST
+  primary: true
+- content: NIST.SP.250-43
+  type: DOI
+date:
+- type: issued
+  at: '1998'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gibson, Charles,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82084296
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tsai, Benjamin K.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2008166626
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Parr, A. C. (Albert C.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n97109332
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 250-43
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

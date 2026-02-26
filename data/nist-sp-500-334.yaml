@@ -1,0 +1,90 @@
+---
+id: NISTSP500334
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Contactless fingerprint capture and data interchange best practice recommendation
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.500-334
+docidentifier:
+- content: NIST SP 500-334
+  type: NIST
+  primary: true
+- content: NIST.SP.500-334
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Orandi, Shahram.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Watson, Craig.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Libert, John M..
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fiumara, Gregory P.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grantham, John D.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: While contactless fingerprint capture devices stand to provide for many
+    benefits, images from this nascent technology are sufficiently different than
+    traditional contact-collected images thereby warranting the separation of these
+    new contactless fingerprint images from legacy contact-collected images and systems
+    operating on them. This Best Practices Recommendation defines voluntary (informative)
+    changes to the ANSI/NIST standard to allow for the creation of contactless transactions
+    that are not readily ingestible by existing systems, but based closely on ANSI/NIST
+    so that minimal changes to the system can allow for processing. Furthermore, the
+    transactions can include the original sensor data, in addition to the contact-compatible/interoperable
+    image in the event that vendors improve their technologies and allow for the reprocessing
+    of the data without recapturing.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 500-334
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

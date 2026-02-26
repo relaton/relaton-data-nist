@@ -1,0 +1,114 @@
+---
+id: NISTSP800160v2
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Developing cyber resilient systems
+  type: title-main
+- language: en
+  script: Latn
+  content: a systems security engineering approach
+  type: title-part
+- language: en
+  script: Latn
+  content: Developing cyber resilient systems - a systems security engineering approach
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-160v2
+docidentifier:
+- content: NIST SP 800-160v2
+  type: NIST
+  primary: true
+- content: NIST.SP.800-160v2
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ross, Ron.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2010088907
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pillitteri, Victoria.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Graubart, Richard.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bodeau, Deborah.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McQuaid, Rosalie.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: This publication is used in conjunction with ISO/IEC/IEEE 15288:2015, Systems
+    and software engineering--Systems life cycle processes, NIST Special Publication
+    800-160, Volume 1, Systems Security Engineering--Considerations for a Multidisciplinary
+    Approach in the Engineering of Trustworthy Secure Systems, and NIST Special Publication
+    800-37, Risk Management Framework for Information Systems and Organizations--A
+    System Life Cycle Approach for Security and Privacy. It can be viewed as a handbook
+    for achieving the identified cyber resiliency outcomes based on a systems engineering
+    perspective on system life cycle processes in conjunction with risk management
+    processes, allowing the experience and expertise of the organization to help determine
+    what is correct for its purpose. Organizations can select, adapt, and use some
+    or all of the cyber resiliency constructs (i.e., objectives, techniques, approaches,
+    and design principles) described in this publication and apply the constructs
+    to the technical, operational, and threat environments for which systems need
+    to be engineered. The system life cycle processes and cyber resiliency constructs
+    can be used for new systems, system upgrades, or repurposed systems; can be employed
+    at any stage of the system life cycle; and can take advantage of any system or
+    software development methodology including, for example, waterfall, spiral, or
+    agile. The processes and associated cyber resiliency constructs can also be applied
+    recursively, iteratively, concurrently, sequentially, or in parallel and to any
+    system regardless of its size, complexity, purpose, scope, environment of operation,
+    or special nature.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-160v2
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

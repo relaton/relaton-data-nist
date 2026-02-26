@@ -1,0 +1,65 @@
+---
+id: NBSRPT4421
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Design and calibration of a remote-indicating, photoelectric brightness
+    meter
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.RPT.4421
+docidentifier:
+- content: NBS RPT 4421
+  type: NIST
+  primary: true
+- content: NBS.RPT.4421
+  type: DOI
+date:
+- type: issued
+  at: '1955'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Douglas, C. A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nb2001062774
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nimeroff, Isadore.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no00052129
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS report
+  number: '4421'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

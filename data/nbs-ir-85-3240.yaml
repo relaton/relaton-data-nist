@@ -1,0 +1,83 @@
+---
+id: NBSIR853240
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Conference proceedings
+  type: title-main
+- language: en
+  script: Latn
+  content: a national prospectus on the future of the U. S. advanced ceramics industry
+  type: title-part
+- language: en
+  script: Latn
+  content: Conference proceedings - a national prospectus on the future of the U.
+    S. advanced ceramics industry
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IR.85-3240
+docidentifier:
+- content: NBS IR 85-3240
+  type: NIST
+  primary: true
+- content: NBS.IR.85-3240
+  type: DOI
+date:
+- type: issued
+  at: '1986'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ambler, Ernest,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2004090908
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schwartz, Lyle H.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n86008064
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schneider, Samuel J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88077080
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBSIR; NBS IR; NBS interagency report; NBS internal report
+  number: 85-3240
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

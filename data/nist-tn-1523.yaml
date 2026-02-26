@@ -1,0 +1,93 @@
+---
+id: NISTTN1523
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Trapped ions and laser cooling, VI
+  type: title-main
+- language: en
+  script: Latn
+  content: selected publications of the Ion Storage Group of the NIST Time and Frequency
+    Division
+  type: title-part
+- language: en
+  script: Latn
+  content: Trapped ions and laser cooling, VI - selected publications of the Ion Storage
+    Group of the NIST Time and Frequency Division
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1523
+docidentifier:
+- content: NIST TN 1523
+  type: NIST
+  primary: true
+- content: NIST.TN.1523
+  type: DOI
+date:
+- type: issued
+  at: '2002'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bergquist, James Charles.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no96046069
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bollinger, John J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no00003690
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Itano, Wayne M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022032830
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wineland, David J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n85351253
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1523'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

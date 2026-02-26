@@ -1,0 +1,54 @@
+---
+id: NISTSP849
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Proceedings of the Joint DoD/NIST Workshop on International Precision Fabrication
+    Research and Development, October 27-29, 1992
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.849
+docidentifier:
+- content: NIST SP 849
+  type: NIST
+  primary: true
+- content: NIST.SP.849
+  type: DOI
+date:
+- type: issued
+  at: '1993'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Meyer, J. D. (John D.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022058725
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '849'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

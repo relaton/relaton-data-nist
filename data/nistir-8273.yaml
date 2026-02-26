@@ -1,0 +1,72 @@
+---
+id: NISTIR8273
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST Fatty Acid Quality Assurance Program 2017 final report
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8273
+docidentifier:
+- content: NIST IR 8273
+  type: NIST
+  primary: true
+- content: NIST.IR.8273
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Benner, Bruce A. Jr.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Murray, Jacolin A.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Material Measurement Laboratory (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012096740
+abstract:
+- language: en
+  script: Latn
+  content: At the request of the National Institutes of Health (NIH) Office of Dietary
+    Supplements (ODS) and in conjunction with the Centers for Disease Control and
+    Prevention (CDC), in 2017 the National Institute of Standards and Technology (NIST)
+    conducted the fourth Fatty Acid Quality Assurance Program (FAQAP) interlaboratory
+    study of fatty acid (FA) concentrations in human serum. This 2017 FAQAP study
+    included measurements of free FAs (extraction and measurement prior to acid/base
+    hydrolysis) and total FAs (measurement after acid/base hydrolysis). Participants
+    were requested to analyze SRM 1950 Metabolites in Frozen Human Plasma as a control,
+    three unknown sera, and a free fatty acid (FFA) solution. Participants measuring
+    fatty acid methyl ester (FAME) derivatives of FAs were asked to analyze a FAME
+    solution. The results from this fourth exercise are reported along with a summary
+    of the analytical methods used by the 14 participating laboratories.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8273'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,92 @@
+---
+id: NISTTN1782
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Residential carbon monoxide exposure due to Indoor generator operation
+  type: title-main
+- language: en
+  script: Latn
+  content: effects of source location and emission rate
+  type: title-part
+- language: en
+  script: Latn
+  content: Residential carbon monoxide exposure due to Indoor generator operation
+    - effects of source location and emission rate
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1782
+docidentifier:
+- content: NIST TN 1782
+  type: NIST
+  primary: true
+- content: NIST.TN.1782
+  type: DOI
+date:
+- type: issued
+  at: '2013'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Persily, Andrew K.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84098896
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wang, Yanling.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n86002298
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Polidoro, Brian.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021116837
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Emmerich, Steven J. (Steven John)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003076634
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1782'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

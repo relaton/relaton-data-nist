@@ -1,0 +1,104 @@
+---
+id: NISTAMS1006
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Effects of powder recycling on stainless steel powder and built material
+    properties in metal powder bed fusion processes
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-6
+docidentifier:
+- content: NIST AMS 100-6
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-6
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jacob, Gregor.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brown, Christopher U.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Donmez, M. Alkan,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003051247
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Watson, Stephanie S.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Slotwinski, John.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: A series of 11 identical laser based powder bed fusion (PBF) builds were
+    completed with varying amounts of virgin and recycled nitrogen gas atomized S17-4
+    PH stainless steel powder following a specific powder recycling strategy that
+    simulates industrial practice. Mechanical properties of parts were evaluated using
+    tensile and hardness tests. Recycled powder properties, such as particle size
+    distribution, flowability, chemical composition, and microstructure were evaluated.
+    The recycled powder showed no significant changes in its particle size and particle
+    shape but apparent density and powder bed density increased while flow time improved.
+    Recycling the powder in a nitrogen atmosphere caused a slight increase of the
+    martensite phase in the predominately austenitic S17-4 PH powder. PBF fabricated
+    austenitic-/ martensitic S17-4 PH showed a ratio of approximately 50 % to 50 %
+    between austenite and martensite. Tensile tests on the stress relieve heat treated
+    specimens did not show any dramatic change in the tensile properties with recycling
+    up to 11 times. The fine dendritic, austenitic / martensitic microstructure of
+    the stress relieved heat treated S17-4 PH reached a tensile strength of YS0.2
+    above 520 MPa, and an elongation of 28 %. Mechanical and material properties from
+    specimens fabricated from powder recycled up to 11 times were similar to specimens
+    fabricated from virgin powder.
+series:
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 100-6
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

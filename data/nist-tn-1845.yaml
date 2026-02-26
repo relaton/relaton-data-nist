@@ -1,0 +1,87 @@
+---
+id: NISTTN1845
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Identifying residential fires involving upholstered furniture within the
+    National Fire Incident Reporting System
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1845
+docidentifier:
+- content: NIST TN 1845
+  type: NIST
+  primary: true
+- content: NIST.TN.1845
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Thomas, Douglas S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021113838
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Butry, David T.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021107278
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: This Technical Note develops a method for identifying residential fire
+    incidents, reported to the National Fire Incident Reporting System (NFIRS), with
+    missing information regarding the item first ignited (IFI) or item most contributing
+    to flame spread (IMCFS) that were likely to have involved upholstered furniture.
+    Using NFIRS data, upholstered furniture involvement can only be identified using
+    the IFI or IMCFS fields; however, it is not uncommon for these fields to contain
+    missing values or to be coded as unknown (undetermined). Current statistical methods
+    address this issue by allocating the missing and unknown incidents proportionally
+    over the distribution of those known. The appropriateness of this depends on the
+    representativeness of the known incidents. This Technical Note explores a data
+    imputation method to determine the likelihood of upholstered furniture involvement
+    based on statistical correlations with other factors describing the fire incident.
+    A number of competing statistical models are evaluated using the data imputation
+    approach, with the best performing models selected based on the minimum out-of-sample
+    root mean squared prediction error. The optimum models based on this criterion
+    are then used to estimate the number of U.S. residential upholstered furniture
+    fires, related occupant fatalities, injuries, and property and content losses,
+    and the results are compared to the conventional scaling-based techniques currently
+    used by the National Fire Protection Association
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1845'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

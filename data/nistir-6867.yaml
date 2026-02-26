@@ -1,0 +1,84 @@
+---
+id: NISTIR6867
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Manual for seismic and windstorm evaluation of existing concrete buildings
+    for the Dominican Republic
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.6867
+docidentifier:
+- content: NIST IR 6867
+  type: NIST
+  primary: true
+- content: NIST.IR.6867
+  type: DOI
+date:
+- type: issued
+  at: '2002'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lew, H. S. (Hai Sang)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50049233
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Simiu, Emil.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79085114
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gross, John L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n85099473
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Starnes, Monica A. (Monica Anastasia)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2008150910
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '6867'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

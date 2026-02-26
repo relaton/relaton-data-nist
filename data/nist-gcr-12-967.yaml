@@ -1,0 +1,62 @@
+---
+id: NISTGCR12967
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The economic benefits of NIST's role in security standards development
+  type: title-main
+- language: en
+  script: Latn
+  content: x-ray standards for bulk-explosives detection
+  type: title-part
+- language: en
+  script: Latn
+  content: The economic benefits of NIST's role in security standards development
+    - x-ray standards for bulk-explosives detection
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.GCR.12-967
+docidentifier:
+- content: NIST GCR 12-967
+  type: NIST
+  primary: true
+- content: NIST.GCR.12-967
+  type: DOI
+date:
+- type: issued
+  at: '2012'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Leech, David P.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022047027
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST GCR; NIST grant-contract report; NIST grant contract report
+  number: 12-967
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

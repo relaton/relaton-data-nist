@@ -1,0 +1,84 @@
+---
+id: NISTTN1562
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Miniaturized Charpy specimens for the indirect verification of small-scale
+    Charpy machines
+  type: title-main
+- language: en
+  script: Latn
+  content: initial qualification phase
+  type: title-part
+- language: en
+  script: Latn
+  content: Miniaturized Charpy specimens for the indirect verification of small-scale
+    Charpy machines - initial qualification phase
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1562
+docidentifier:
+- content: NIST TN 1562
+  type: NIST
+  primary: true
+- content: NIST.TN.1562
+  type: DOI
+date:
+- type: issued
+  at: '2012'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lucon, Enrico.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015169004
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Material Measurement Laboratory (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012096740
+abstract:
+- language: en
+  script: Latn
+  content: Small specimen test techniques become ever more popular as the need increases
+    to characterize mechanical properties by use of the smallest possible amount of
+    material, due to various restrictions on material availability, iiradiation, testing
+    space, and other factors. NIST is cuiTcntly developing reference miniaturized
+    Charpy V-notch (MCVN) specimens for the indirect verification of small-scale impact
+    testing machines. The same materials used for NIST standard verification specimens
+    are being evaluated at three energy levels (low, high and super-high). Two specimen
+    types are being investigated, denominated KLST (from the German Kleinstprobe,
+    or small specimen) and RHS (reduced half-size). Several instrumented impact tests
+    on miniaturized KLST and RHS specimens of low, high and super-high energy have
+    been performed and analyzed. The variability of MCVN data has been compared to
+    that of full-size Chaipy data from the same lot of test specimens. Although this
+    can be considered just the preliminary phase of this project, the results indicate
+    that MCVN verification specimens can be used for the indirect verification of
+    small-scale instmmented impact testers, both in terms of absorbed energy and maximum
+    force. Additional aspects have also been investigated, such as the influence of
+    shear lip symmetry and specimen fractui-e on absorbed energy and the coiTclation
+    between miniaturized and full-size Chaipy data.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1562'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

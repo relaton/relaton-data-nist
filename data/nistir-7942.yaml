@@ -1,0 +1,75 @@
+---
+id: NISTIR7942
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Metrics and test methods for industrial kit building
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7942
+docidentifier:
+- content: NIST IR 7942
+  type: NIST
+  primary: true
+- content: NIST.IR.7942
+  type: DOI
+date:
+- type: issued
+  at: '2013'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Balakirsky, Stephen.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kramer, Thomas.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88277686
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kootbally, Zeid.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pietromartire, Anthony.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Intelligent Systems Division, Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7942'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

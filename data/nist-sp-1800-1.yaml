@@ -1,0 +1,123 @@
+---
+id: NISTSP18001
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Securing electronic health records on mobile devices
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1800-1
+docidentifier:
+- content: NIST SP 1800-1
+  type: NIST
+  primary: true
+- content: NIST.SP.1800-1
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: O'Brien, Gavin,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020058154
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lesser, Nate.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pleasant, Brett.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Xu, Rulin.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81072871
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zheng, Kangmin.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bowers, Colin.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kamke, Kyle.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: Health care providers increasingly use mobile devices to receive, store,
+    process, and transmit patient clinical information. According to our own risk
+    analysis, discussed here, and in the experience of many health care providers,
+    mobile devices can present vulnerabilities in a health care organization's networks.
+    At the 2012 Health and Human Services Mobile Devices Roundtable, participants
+    stressed that mobile devices are being used by many providers for health care
+    delivery before they have implemented safeguards for privacy and security. This
+    NIST Cybersecurity Practice Guide provides a modular, open, end-to-end reference
+    design that can be tailored and implemented by health care organizations of varying
+    sizes and information technology sophistication. Specifically, the guide shows
+    how health care providers, using open source and commercially available tools
+    and technologies that are consistent with cybersecurity standards, can more securely
+    share patient information among caregivers using mobile devices. The scenario
+    considered is that of a hypothetical primary care physician using her mobile device
+    to perform reoccurring activities such as sending a referral (e.g., clinicalinformation)
+    to another physician, or sending an electronic prescription to a pharmacy. While
+    the design was demonstrated with a certain suite of products, the guide does not
+    endorse these products in particular. Instead, it presents the characteristics
+    and capabilities that an organization's security experts can use to identify similar
+    standards-based products that can be integrated quickly and cost-effectively with
+    a health care provider's existing tools and infrastructure.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1800-1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

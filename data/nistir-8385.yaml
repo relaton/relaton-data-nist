@@ -1,0 +1,83 @@
+---
+id: NISTIR8385
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Cannabis quality assurance program
+  type: title-main
+- language: en
+  script: Latn
+  content: exercise 1 final report
+  type: title-part
+- language: en
+  script: Latn
+  content: Cannabis quality assurance program - exercise 1 final report
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8385
+docidentifier:
+- content: NIST IR 8385
+  type: NIST
+  primary: true
+- content: NIST.IR.8385
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Abdur-Rahman, Maryam.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Phillips, Melissa M.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wilson, Walter B.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: NIST launched a CannaQAP in 2020 to improve the comparability of the analytical
+    measurements in forensic and Cannabis (hemp and marijuana) testing laboratories.
+    CannaQAP is an interlaboratory study mechanism that is similar to a proficiency
+    testing scheme; however, the focus is towards education without assigning pass/fail
+    grades to anonymized participants. CannaQAP helps inform NIST about the current
+    measurement capabilities and challenges to assist in the design and characterization
+    of Cannabis RMs. Exercise 1 of CannaQAP focused on the determination of cannabinoids
+    including ?9-THC, THCA, total THC, CBD, CBDA, total CBD, and up to 13 additional
+    cannabinoids in two hemp oils. This report provides a detailed description of
+    the results of this exercise.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8385'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

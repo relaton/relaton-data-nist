@@ -1,0 +1,68 @@
+---
+id: NISTIR5575
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Measurements of indoor pollutant emissions from EPA Phase II wood stoves
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.5575
+docidentifier:
+- content: NIST IR 5575
+  type: NIST
+  primary: true
+- content: NIST.IR.5575
+  type: DOI
+date:
+- type: issued
+  at: '1995'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nabinger, Steven J.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Persily, Andrew K.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sharpless, Katherine S.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wise, Stephen A.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '5575'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

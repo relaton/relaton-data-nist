@@ -1,0 +1,77 @@
+---
+id: NISTSP817
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Research. Services. Facilities
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.817
+docidentifier:
+- content: NIST SP 817
+  type: NIST
+  primary: true
+- content: NIST.SP.817
+  type: DOI
+date:
+- type: issued
+  at: '1991'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bello, Mark A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021143266
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Porter, Gail.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n97002738
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: 'Each year more than 1,000 researchers from industry, universities, or
+    other government agencies come to NIST to conduct cooperative research projects
+    lasting from a few weeks to A several years. The document describes the full spectrum
+    of NIST programs and facilities available for industry participation and use.
+    Each item includes the name and phone number of a NIST program manager or researcher
+    to contact for more information. Contents: Gaining the competitive edge; Serving
+    the customer; Technology services; Electronics and Electrical Engineering Laboratory;
+    Manufacturing Engineering Laboratory; Chemical Science and Technology Laboratory;
+    Physics Laboratory; Materials Science and Engineering Laboratory; Building and
+    Fire Research Laboratory; Computer Systems Laboratory; Computing and Applied Mathematics
+    Laboratory; Facilities index; Subject index.'
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '817'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

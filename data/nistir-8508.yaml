@@ -1,0 +1,80 @@
+---
+id: NISTIR8508
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: FY24 soft robotics report
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8508
+docidentifier:
+- content: NIST IR 8508
+  type: NIST
+  primary: true
+- content: NIST.IR.8508
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Case, Jennifer C.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-3264-0558"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Marvel, Jeremy A.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-1855-2175"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Advances in robotics research have begun incorporating non-traditional
+    materials, such as elastomers and smart materials (e.g., shape memory alloys,
+    responsive hydrogels, etc.), into the structure of robots giving them new capabilities.
+    This inclusion of soft materials has highlighted a number of metrology challenges
+    related to highly deformable objects or systems. The purpose of this report is
+    to identify the measurement challenges faced by the soft robotics community and
+    propose NIST research to help support these challenges. To accomplish this goal,
+    we surveyed literature including proposed roadmaps for the field, engaged the
+    community through workshops, and engaged industry. This report summarizes challenges
+    for the community and industry and provides a detailed survey of material testing
+    and modeling, including limitations in current practices. We conclude by proposing
+    steps that NIST can take to support metrology within the field which will, in
+    turn, improve industry’s ability to take advantage of this new technology.
+series:
+- title:
+  - content: NISTIR
+  number: '8508'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8508'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

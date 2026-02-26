@@ -1,0 +1,67 @@
+---
+id: NISTTN2044
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Unreliable evidence in binary classification problems
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2044
+docidentifier:
+- content: NIST TN 2044
+  type: NIST
+  primary: true
+- content: NIST.TN.2044
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Flater, David.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2002019519
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: Binary classification problems include such things as classifying email
+    messages as spam or non-spam and screening for the presence of disease (which
+    can be seen as classifying a subject as disease-positive or disease- negative).
+    Both Bayesian and frequentist approaches have been applied to these problems.
+    Both kinds of approaches provide poor estimates of the predictive value of tests
+    for which the number of positive results in the sample is either very small or
+    very large. A classifier that does not account for the uncertainty of these estimates
+    is vulnerable to making inferences from unreliable evidence. This report explains
+    the problem and explores options for accounting for the often-neglected uncertainty.
+    A neat solution that does no harm to less uncertain cases remains elusive.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2044'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

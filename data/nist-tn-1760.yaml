@@ -1,0 +1,93 @@
+---
+id: NISTTN1760
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Smoke component yields from bench-scale fire tests
+  type: title-main
+- language: en
+  script: Latn
+  content: 1. NFPA 269 / ASTM E 1678
+  type: title-part
+- language: en
+  script: Latn
+  content: Smoke component yields from bench-scale fire tests - 1. NFPA 269 / ASTM
+    E 1678
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1760
+docidentifier:
+- content: NIST TN 1760
+  type: NIST
+  primary: true
+- content: NIST.TN.1760
+  type: DOI
+date:
+- type: issued
+  at: '2013'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Marsh, Nathan D.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003053886
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gann, Richard G.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n96095572
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Averill, Jason D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2006027919
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nyden, Marc R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no90004081
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1760'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

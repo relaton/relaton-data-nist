@@ -1,0 +1,95 @@
+---
+id: NISTSP800181
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: National Initiative for Cybersecurity Education (NICE) Cybersecurity Workforce
+    Framework
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-181
+docidentifier:
+- content: NIST SP 800-181
+  type: NIST
+  primary: true
+- content: NIST.SP.800-181
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Newhouse, William.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020058100
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Keith, Stephanie.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2010023691
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scribner, Benjamin.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Witte, Greg.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2012049043
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: This publication describes the NICE Cybersecurity Workforce Framework (NWF),
+    the product of many years of collaboration regarding workforce training and education.
+    The NWF, as a working document, provides a fundamental reference resource for
+    describing and sharing information about cybersecurity work roles andthe knowledge,
+    skills, and abilities (KSAs) needed to complete tasks in those work roles. As
+    a common, consistent lexicon that categorizes and describes cybersecurity work,
+    the NWF improves communication about how to identify, recruit, develop, and retain
+    cybersecurity talent. The NWF is a reference source from which organizations or
+    sectors can develop additional publications or tools focused on defining or providing
+    guidance on aspects of workforce development, planning, training, and education.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-181
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

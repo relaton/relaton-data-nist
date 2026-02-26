@@ -1,0 +1,78 @@
+---
+id: NISTIR7634
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Extensions to the recommended practices for GD&T in STEP-AP210 in the context
+    of packaged electronic components
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7634
+docidentifier:
+- content: NIST IR 7634
+  type: NIST
+  primary: true
+- content: NIST.IR.7634
+  type: DOI
+date:
+- type: issued
+  at: '2009'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stori, Jamie.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brady, Kevin.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nb2002050490
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Thurman, Thomas.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n87146487
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Collins, Rockwell.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7634'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

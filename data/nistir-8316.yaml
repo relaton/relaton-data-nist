@@ -1,0 +1,65 @@
+---
+id: NISTIR8316
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Internet of Things (IoT) component capability model for research testbed
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8316
+docidentifier:
+- content: NIST IR 8316
+  type: NIST
+  primary: true
+- content: NIST.IR.8316
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Simmon, Eric.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+abstract:
+- language: en
+  script: Latn
+  content: Internet of Things (IoT) is the product of the worlds of information technology
+    (IT) and operational technology (OT)converging. IoT combines the ability to observe
+    the physical world with distributed computing systems that can combine and analyze
+    the resulting data, using the results to better inform decision making, alter
+    the physical environment, and predict future events. While the basic ideas related
+    to IoT are understood, a precise understanding of the IoT concept is lacking,
+    with different groups (including standards development organizations, private
+    companies, consortium, and even government agencies) providing varying definitions
+    for IoT, which results in confusion among stakeholders. This document provides
+    a foundation for IoT that can be used to encourage discussion and conversation
+    around IoT. It describes several key terms and core concepts related to IoT and
+    explains how those terms and concepts relate to each other. The model provides
+    a common language that can be used to communicate, specify, review, analyze, and
+    reason about IoT definitions, documents, architectures, components, and systems.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8316'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,85 @@
+---
+id: NISTTN1539
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Angular errors in polarimetric radar cross section calibration using a
+    rotating dihedral
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1539
+docidentifier:
+- content: NIST TN 1539
+  type: NIST
+  primary: true
+- content: NIST.TN.1539
+  type: DOI
+date:
+- type: issued
+  at: '2005'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Muth, Lorant A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n85351271
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Conn, Timothy.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022000172
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Johnson, Catherine.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88058685
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Morales, Donald.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022062423
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1539'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

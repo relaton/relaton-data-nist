@@ -1,0 +1,61 @@
+---
+id: NISTSP1081
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST measurement services
+  type: title-main
+- language: en
+  script: Latn
+  content: natural gas flow calibration service
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST measurement services - natural gas flow calibration service
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1081
+docidentifier:
+- content: NIST SP 1081
+  type: NIST
+  primary: true
+- content: NIST.SP.1081
+  type: DOI
+date:
+- type: issued
+  at: '2007'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Johnson, Aaron N.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022036300
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '1081'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

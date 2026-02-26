@@ -1,0 +1,80 @@
+---
+id: NBSBSS5
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Interrelations between cement and concrete properties, part 2
+  type: title-main
+- language: en
+  script: Latn
+  content: surfate expansion, heat of hydration, and autoclave expansion
+  type: title-part
+- language: en
+  script: Latn
+  content: Interrelations between cement and concrete properties, part 2 - surfate
+    expansion, heat of hydration, and autoclave expansion
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.BSS.5
+docidentifier:
+- content: NBS BSS 5
+  type: NIST
+  primary: true
+- content: NBS.BSS.5
+  type: DOI
+date:
+- type: issued
+  at: '1966'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Blaine, R. L.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Arni, H. T. (Howard T.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no99073256
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Evans, D. N.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no99073250
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS building science series; NBS building science; NBS BSS
+  number: '5'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,66 @@
+---
+id: NISTSP1001spa
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Basic mass metrology (spanish)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1001es
+docidentifier:
+- content: NIST SP 1001 spa
+  type: NIST
+  primary: true
+- content: NIST.SP.1001es
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Physical Measurement Laboratory, NIST.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Physical Measurement Laboratory, NIST.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.))
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2019028800
+abstract:
+- language: en
+  script: Latn
+  content: This course was originally created as a CD-ROM course using Macromedia
+    Authorware (now part of Adobe). At this time, this course will operate better
+    if you run it from your computer. Please download the Zip files and install all
+    of the files from each Part (per language) into a single directory on your computer.
+    If using Windows 7 or later, you will need to specify use compatibility for Windows
+    XP. Please be aware that the Enter key (NOT Tab) must be used after entries throughout
+    the course. Start the course by running the NIST_Intro.exe file.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1001es
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

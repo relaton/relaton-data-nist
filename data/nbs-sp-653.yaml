@@ -1,0 +1,60 @@
+---
+id: NBSSP653
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Laser-cooled and trapped atoms
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.653
+docidentifier:
+- content: NBS SP 653
+  type: NIST
+  primary: true
+- content: NBS.SP.653
+  type: DOI
+date:
+- type: issued
+  at: '1983'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Phillips, William D. (William Daniel),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83016008
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+abstract:
+- language: en
+  script: Latn
+  content: The publication reprints and collects in one convenient source three articles,
+    by NBS authors, that present a philosophical basis, general guidelines, and specific
+    recommendations for expressing the uncertainties of final measurement results.
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: '653'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,73 @@
+---
+id: NISTIR8201
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Internet of things (IoT) cybersecurity colloquium: a NIST workshop proceedings'
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8201
+docidentifier:
+- content: NIST IR 8201
+  type: NIST
+  primary: true
+- content: NIST.IR.8201
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Megas, Katerina.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Piccarreta, Ben.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: O'Rourke, Danna Gabel.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: This report provides an overview of the topics discussed at the "Internet
+    of Things (IoT) Cybersecurity Colloquium" hosted on NIST's campus in Gaithersburg,
+    Maryland on October 19, 2017. It summarizes key takeaways from the presentations
+    and discussions. Further, it provides information on potential next steps for
+    the NIST Cybersecurity for IoT Program.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8201'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,74 @@
+---
+id: NBSBMS127
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Effect of aging on the soundness of regularly hydrated dolomitic lime putties
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.BMS.127
+docidentifier:
+- content: NBS BMS 127
+  type: NIST
+  primary: true
+- content: NBS.BMS.127
+  type: DOI
+date:
+- type: issued
+  at: '1952'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wells, Lansing S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021060617
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Clarke, Walter F.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2017016207
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Levin, Ernest M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82044750
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS building materials and structures report; NBS BMS
+  number: '127'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

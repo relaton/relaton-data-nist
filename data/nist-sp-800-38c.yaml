@@ -1,0 +1,68 @@
+---
+id: NISTSP80038C
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Recommendation for block cipher modes of operation
+  type: title-main
+- language: en
+  script: Latn
+  content: the CCM mode for authentication and confidentiality
+  type: title-part
+- language: en
+  script: Latn
+  content: Recommendation for block cipher modes of operation - the CCM mode for authentication
+    and confidentiality
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-38c
+docidentifier:
+- content: NIST SP 800-38C
+  type: NIST
+  primary: true
+- content: NIST.SP.800-38c
+  type: DOI
+date:
+- type: issued
+  at: '2007'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dworkin, M. J.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation defines a mode of operation, called Counter with Cipher
+    Block Chaining-Message Authentication Code (CCM), for a symmetric key block cipher
+    algorithm. CCM may be used to provide assurance of the confidentiality and the
+    authenticity of computer data by combining the techniques of the Counter (CTR)
+    mode and the Cipher Block Chaining-Message Authentication Code (CBC-MAC) algorithm.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-38c
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

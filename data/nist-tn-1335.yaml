@@ -1,0 +1,94 @@
+---
+id: NISTTN1335
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Generating standard reference electromagnetic fields in the NIST anechoic
+    chamber, 0.2 to 40 GHz
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1335
+docidentifier:
+- content: NIST TN 1335
+  type: NIST
+  primary: true
+- content: NIST.TN.1335
+  type: DOI
+date:
+- type: issued
+  at: '1990'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hill, D. A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2011026733
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kanda, Motohisa.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81115121
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Larsen, E. B.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81115002
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Koepke, Galen H.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82208381
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Orr, R. David.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84149359
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1335'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

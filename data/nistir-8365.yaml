@@ -1,0 +1,86 @@
+---
+id: NISTIR8365
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A collaborative robot work-cell testbed for industrial wireless communications
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8365
+docidentifier:
+- content: NIST IR 8365
+  type: NIST
+  primary: true
+- content: NIST.IR.8365
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Liu, Yongkang.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hany, Mohamed.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Montgomery, Karl.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Candell, Richard.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: We propose a new testbed for assessing the performance of wireless techniques
+    in support of industrial operations. We developed a collaborative robot work-cell
+    manufacturing scenario as the emulated cyber-physical system (CPS) model. Specifically,
+    data flows between networked work-cell components, e.g., programmable logic controllers
+    (PLC), robotic arms, and machining tools, were identified by specific industrial
+    communication protocols; network connections were also defined for both Ethernet-based
+    wired links and alternative wireless interfaces. A measurement framework was introduced
+    to collect various system events from both work-cell operations and network traffics;
+    a distributed clock synchronization scheme was developed to ensure the consistency
+    of measurement record timing at different sources. To facilitate offline performance
+    analysis and data exploration, a new data pipeline was adopted that uses the graph
+    database (GDB) for testbed data management. The developed testbed has been in
+    use in evaluating industrial wireless performance by the NIST team and industrial
+    partners.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8365'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

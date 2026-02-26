@@ -1,0 +1,105 @@
+---
+id: NISTSP260199
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Certification of Standard Reference Material 2925
+  type: title-main
+- language: en
+  script: Latn
+  content: recombinant human serum albumin solution (primary reference calibrator
+    for urine albumin) (frozen)
+  type: title-part
+- language: en
+  script: Latn
+  content: Certification of Standard Reference Material 2925 - recombinant human serum
+    albumin solution (primary reference calibrator for urine albumin) (frozen)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-199
+docidentifier:
+- content: NIST SP 260-199
+  type: NIST
+  primary: true
+- content: NIST.SP.260-199
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Beasley Green, Ashley.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bunk, David M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2006181025
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Alejo, Wendell.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zhang, Nien Fan.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2007182528
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Material Measurement Laboratory (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012096740
+abstract:
+- language: en
+  script: Latn
+  content: This Standard Reference Material (SRM) is intended primarily for use in
+    the preparation of calibration solutions for a candidate reference measurement
+    procedure for human serum albumin (HSA) in human urine. This candidate reference
+    measurement procedure is being developed by NIST to be used in the certification
+    of a matrix-based reference material to support the clinical measurement of HSA
+    in human urine. In addition to its use to support the reference measurement system
+    for the clinical measurement of HSA in human urine, SRM 2925 Human Serum Albumin
+    Solution can be used as a reference standard for assays of total protein by colorimetric
+    methods. SRM 2925 may also be used for other procedures, such as gel diffusion,
+    amino acid analysis, electrophoresis, proteomics experimental workflows, or other
+    tests that require a well-characterized protein for calibration or evaluation.
+    The recombinant HSA protein content of this SRM was determined using amino acid
+    analysis. A unit of SRM 2925 consists of 3 vials, each containing approximately
+    0.5 mL of solution. This publication documents the analytical methods and statistical
+    evaluations involved in realizing this product.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 260-199
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

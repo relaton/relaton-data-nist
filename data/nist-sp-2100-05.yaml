@@ -1,0 +1,96 @@
+---
+id: NISTSP210005
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: ITS10 conference digest
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.2100-05
+docidentifier:
+- content: NIST SP 2100-05
+  type: NIST
+  primary: true
+- content: NIST.SP.2100-05
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Meyer, Christopher W.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-9124-3339"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Miller, Kathryn.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-8005-089X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tew, Weston L.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-9979-9136"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yoon, Howard W.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8999-9441"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Physical Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'The 10th International Temperature Symposium (ITS10) was held in Anaheim
+    California on April 3rd to 7th, 2023. More than 180 abstracts were received and
+    accepted and 159 of those were presented at the symposium. This document is a
+    record of the symposium program as it occurred. The program consisted of 5 plenary
+    sessions, 28 parallel sessions, 3 poster sessions and 3 introductory workshop
+    courses. A total of 15 invited speakers were included in the program whose expertise
+    and presentation subject matter covered a wide range of topics within the overarching
+    theme of: “Temperature, humidity and trace moisture, their measurement and control
+    in science and industry”.'
+series:
+- title:
+  - content: NIST special publication
+  number: 2100-05
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 2100-05
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

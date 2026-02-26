@@ -1,0 +1,103 @@
+---
+id: NISTIR8221
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Methodology for enabling forensic analysis using hypervisor vulnerabilities
+    data
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8221
+docidentifier:
+- content: NIST IR 8221
+  type: NIST
+  primary: true
+- content: NIST.IR.8221
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chandramouli, Ramaswamy.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7387-5858"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Singhal, Anoop,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2007077737
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wijesekera, Duminda.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2005074766
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Liu, Changwei,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2021021409
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: Hardware/Server Virtualization is a key feature of data centers used for
+    cloud computing services and enterprise computing that enables ubiquitous access
+    to shared system resources. Server virtualization is typically performed by a
+    hypervisor, which provides mechanisms to abstract hardware and system resources
+    from an operating system. Hypervisors are large pieces of software with several
+    thousand lines of code and are therefore known to have vulnerabilities. This document
+    analyzes the recent vulnerabilities associated with two open- source hypervisors
+    - Xen and KVM - as reported by the National Institute of Standards and Technology's
+    (NIST) National Vulnerability Database (NVD), and develops a profile of those
+    vulnerabilities in terms of hypervisor functionality, attack type, and attack
+    source. Based on the predominant number of vulnerabilities in a hypervisor functionality
+    (attack vector), two sample attacks using those attack vectors were launched to
+    exploit those vulnerabilities, and the associated system calls were logged. The
+    objective was to determine the evidence coverage for detecting and reconstructing
+    those attacks and identify techniques required to gather missing evidence.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8221'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

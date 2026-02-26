@@ -1,0 +1,73 @@
+---
+id: NISTMONO176
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Modified airy function and WKB solutions to the wave equation
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.MONO.176
+docidentifier:
+- content: NIST MONO 176
+  type: NIST
+  primary: true
+- content: NIST.MONO.176
+  type: DOI
+date:
+- type: issued
+  at: '1991'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ghatak, A. K. (Ajoy K.),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50037654
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gallawa, R. L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82015369
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Goyal, I. C.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n92091037
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST monograph; NIST MONO
+  number: '176'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

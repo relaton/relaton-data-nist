@@ -1,0 +1,63 @@
+---
+id: NISTSP40090
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Evaluating a chip, wafer, or lot using SUXES, SPICE, and STAT2
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.400-90
+docidentifier:
+- content: NIST SP 400-90
+  type: NIST
+  primary: true
+- content: NIST.SP.400-90
+  type: DOI
+date:
+- type: issued
+  at: '1992'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Marshall, J. C. (Janet C.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n93012146
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mattis, Richard L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83169673
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 400-90
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,87 @@
+---
+id: NISTTN2284
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Pre-conceptual design activities of the NIST neutron source
+  type: title-main
+- language: en
+  script: Latn
+  content: simulations of neutron beam characteristics of the proposed NIST neutron
+    source
+  type: title-part
+- language: en
+  script: Latn
+  content: Pre-conceptual design activities of the NIST neutron source - simulations
+    of neutron beam characteristics of the proposed NIST neutron source
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2284
+docidentifier:
+- content: NIST TN 2284
+  type: NIST
+  primary: true
+- content: NIST.TN.2284
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cook, Jeremy C.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-6348-1812"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Majkrzak, Charles F.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-9016-2008"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: King, Hubert.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: NIST Center for Neutron Research.
+abstract:
+- language: en
+  script: Latn
+  content: the report outlines preliminary studies undertaken to assess the thermal
+    and cold neutron beam performance of a pre-conceptual design of the NNS. The results
+    demonstrate the possibility and feasibility for significant performance enhancements
+    of the NNS for a similar scale reactor core that builds on experience with the
+    NBSR design. Further improvements and optimizations will be explored later as
+    the NNS design evolves.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2284'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

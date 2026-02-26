@@ -1,0 +1,96 @@
+---
+id: NISTSP80070r1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: National checklist program for IT products
+  type: title-main
+- language: en
+  script: Latn
+  content: guidelines for checklist users and developers
+  type: title-part
+- language: en
+  script: Latn
+  content: National checklist program for IT products - guidelines for checklist users
+    and developers
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-70r1
+docidentifier:
+- content: NIST SP 800-70r1
+  type: NIST
+  primary: true
+- content: NIST.SP.800-70r1
+  type: DOI
+date:
+- type: issued
+  at: '2009'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Quinn (S.D.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012055634
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, K. A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Souppaya, M. P.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Quinn (S.D.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2012055634
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: A security configuration checklist is a series of instructions for configuring
+    a product to a particular operational environment. Checklists can comprise templates
+    or automated scripts, patches or patch descriptions, XML files, and other procedures.
+    Checklists are intended to be tailored by each organization to meet its particular
+    security and operational requirements. The use of well-written, standardized checklists
+    can markedly reduce the vulnerability exposure of IT products. This publication
+    gives an overview of the NIST National Checklist Program, explains how to retrieve
+    checklists from the NIST National Checklist Repository, and provides general information
+    about threat discussions and baseline technical security practices for associated
+    operational environments.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-70r1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

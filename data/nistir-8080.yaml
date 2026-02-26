@@ -1,0 +1,89 @@
+---
+id: NISTIR8080
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Usability and security considerations for public safety mobile authentication
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8080
+docidentifier:
+- content: NIST IR 8080
+  type: NIST
+  primary: true
+- content: NIST.IR.8080
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chooing, Yee-Yin.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Franklin, Joshua M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020086934
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Greene, Kristen K.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020085049
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: There is a need for cybersecurity capabilities and features to protect
+    the Nationwide Public Safety Broadband Network (NPSBN). However, cybersecurity
+    requirements should not compromise the ability of first responders to complete
+    their missions. In addition, the diversity of public safety disciplines means
+    that one solution may not meet the usability and security needs of different disciplines.
+    Understanding how public safety users operate in their different environments
+    will allow for usable cybersecurity capabilities and features to be deployed and
+    used. Although first responders work in a variety of disciplines, this report
+    is focused on the Fire Service, Emergency Medical Services (EMS), and Law Enforcement.
+    This report describes the constraints presented by their personal protective equipment
+    (PPE), specialized gear, and unique operating environments and how such constraints
+    may interact with mobile authentication requirements. The overarching goal of
+    this work is analyzing which authentication solutions are the most appropriate
+    and usable for first responders using mobile devices in operational scenarios
+    in the field.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8080'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

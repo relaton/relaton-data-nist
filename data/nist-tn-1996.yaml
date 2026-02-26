@@ -1,0 +1,98 @@
+---
+id: NISTTN1996
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Estimating structural seismic retrofit costs for federal buildings
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1996
+docidentifier:
+- content: NIST TN 1996
+  type: NIST
+  primary: true
+- content: NIST.TN.1996
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fung, Juan F.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Butry, David T.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021107278
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sattar, Siamak.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McCabe, S. L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n96014692
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: In NIST TN 1973 [1], we develop a methodology for estimating seismic retrofit
+    costs. The general approach is to build a predictive model of seismic retrofit
+    costs that (1) captures the essential factors that drive costs, such as building
+    construction type and square footage; and (2) is reproducible using data available
+    to decision makers. In this report, we apply the methodology to generate retrofit
+    cost predictions for typical federal buildings. Typical federal buildings are
+    meant to be statistically representative of the federal building inventory, but
+    are not actual federal buildings. Our results suggest that retrofitting an entire
+    typical building inventory for life safety will cost about +/- 2 0 billion. The
+    caveat is that our model only predicts structural mitigation costs. Other construction
+    costs, as well as non-structural mitigation costs, can easily increase the total
+    cost. Presidential Executive Order 13717 (EO 13717), Establishing a Federal Earthquake
+    Risk Management Standard, encourages federal agencies to enhance resilience...[to]
+    future earthquakes by evaluating and retrofitting existing federal buildings based
+    on current existing building codes. This report, together with NIST TN 1973 [1],
+    provides a roadmap for building owners to quickly approximate expected seismic
+    retrofit costs.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1996'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

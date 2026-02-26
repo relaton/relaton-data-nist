@@ -1,0 +1,83 @@
+---
+id: NISTIR4907
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: PDA
+  type: title-main
+- language: en
+  script: Latn
+  content: a PC-based expert system for analysis of DOE nuclear energy performance
+    indicator data
+  type: title-part
+- language: en
+  script: Latn
+  content: PDA - a PC-based expert system for analysis of DOE nuclear energy performance
+    indicator data
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.4907
+docidentifier:
+- content: NIST IR 4907
+  type: NIST
+  primary: true
+- content: NIST.IR.4907
+  type: DOI
+date:
+- type: issued
+  at: '1992'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fong, J. T. (Jeffrey Tse-wei),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n77018806
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bernstein, B.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2005023291
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Filliben, James J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79086097
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '4907'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,77 @@
+---
+id: NISTSP80012r1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: An introduction to information security
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-12r1
+docidentifier:
+- content: NIST SP 800-12r1
+  type: NIST
+  primary: true
+- content: NIST.SP.800-12r1
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nieles, Michael.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dempsey, Kelley.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022000344
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pillitteri, Victoria Yan.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: Organizations rely heavily on the use of information technology (IT) products
+    and services to run their day-to-day activities. Ensuring the security of these
+    products and services is of the utmost importance for the success of the organization.
+    This publication provides an introduction to the information security principles
+    organizations may leverage in order to understand the information security needs
+    of their respective systems.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-12r1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

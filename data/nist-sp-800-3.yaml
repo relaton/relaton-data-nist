@@ -1,0 +1,67 @@
+---
+id: NISTSP8003
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Establishing a computer security incident response capability (CSIRC)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-3
+docidentifier:
+- content: NIST SP 800-3
+  type: NIST
+  primary: true
+- content: NIST.SP.800-3
+  type: DOI
+date:
+- type: issued
+  at: '1991'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wack, John P.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n92009380
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: Government agencies and other organizations have begun to augment their
+    computer security efforts because of increased threats to computer security. Incidents
+    involving these threats, including computer viruses, malicious user activity,
+    and vulnerabilities associated with high technology, require a skilled and rapid
+    response before they can cause significant damage. These increased computer security
+    efforts, described here as Computer Security Incident Response Capabilities (CSIRCs),
+    have as a primary focus the goal of reacting quickly and efficiently to computer
+    security incidents. CSIRC efforts provide agencies with a centralized and cost-effective
+    approach to handling computer security incidents so that future problems can be
+    efficiently resolved and prevented.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-3
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

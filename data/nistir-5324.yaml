@@ -1,0 +1,65 @@
+---
+id: NISTIR5324
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Color supplement to NIST special publication 400-93
+  type: title-main
+- language: en
+  script: Latn
+  content: 'Semiconductor Measurement Technology : ; design and testing guides for
+    the CMOS and lateral bipolar-on-SOI test library'
+  type: title-part
+- language: en
+  script: Latn
+  content: 'Color supplement to NIST special publication 400-93 - Semiconductor Measurement
+    Technology : ; design and testing guides for the CMOS and lateral bipolar-on-SOI
+    test library'
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.5324
+docidentifier:
+- content: NIST IR 5324
+  type: NIST
+  primary: true
+- content: NIST.IR.5324
+  type: DOI
+date:
+- type: issued
+  at: '1994'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Marshall, Janet C.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zaghloul, Mona E.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '5324'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

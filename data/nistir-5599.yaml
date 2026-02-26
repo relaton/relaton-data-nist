@@ -1,0 +1,65 @@
+---
+id: NISTIR5599
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Program of the Manufacturing Engineering Laboratory, 1995
+  type: title-main
+- language: en
+  script: Latn
+  content: infrastructural technology, measurements, and standards for the U.S. manufacturing
+    industries
+  type: title-part
+- language: en
+  script: Latn
+  content: Program of the Manufacturing Engineering Laboratory, 1995 - infrastructural
+    technology, measurements, and standards for the U.S. manufacturing industries
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.5599
+docidentifier:
+- content: NIST IR 5599
+  type: NIST
+  primary: true
+- content: NIST.IR.5599
+  type: DOI
+date:
+- type: issued
+  at: '1995'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Manufacturing Engineering Laboratory.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Manufacturing Engineering Laboratory.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '5599'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

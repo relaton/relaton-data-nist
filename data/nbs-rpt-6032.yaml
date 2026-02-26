@@ -1,0 +1,109 @@
+---
+id: NBSRPT6032
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Predicting the performance of long distance tropospheric communication
+    circuits
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.RPT.6032
+docidentifier:
+- content: NBS RPT 6032
+  type: NIST
+  primary: true
+- content: NBS.RPT.6032
+  type: DOI
+date:
+- type: issued
+  at: '1958'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barsis, A. P.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80006175
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Norton, Kenneth A.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021015342
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rice, P. L. (Patricia L.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88650271
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: Comparison of calculated and measured values of transmission loss for tropospheric
+    propagation paths shows that there is an appreciable amount of uncertainty in
+    the prediction process. Departures of observed from predicted values may be regarded
+    as normally distributed when expressed in decibels, and this paper considers methods
+    of estimating these standard deviations. In order to predict the performance of
+    a communication system over a given path, it is necessary to define the grade
+    of service, the time availability of this grade of service and the reliability
+    of the predictions. The short-term (within-the-hour) signal fading is conveniently
+    included in the definition of the grade of service, in terms of a required hourly
+    median r.m.s.-carrier to r.m.s.-noise ratio. Next, the time availability of a
+    given grade of service is specified in terms of the percentage of hours in a year
+    that this minimum carrier-to-noise ratio is exceeded. To determine the time availability
+    it is necessary to obtain the distributions with time of hourly medians for the
+    path with given geometrical and meteorological characteristics. In this paper
+    the three concepts, grade of service, time availability, and reliability of prediction
+    are brought together in a single graphical representation. The graph has two probability
+    scales; the ordinate shows the percentage of hours service is available (time
+    availability), and the abscissa shows the service probability (reliability of
+    the prediction), where each curve corresponds to a system with given operating
+    characteristics such as transmitter power, antenna size, etc. Each curve could
+    therefore be labeled by a figure representing installation and operating costs,
+    and various systems may thus be compared on the basis of cost versus probability
+    of successful operation.
+series:
+- title:
+  - content: NBS report
+  number: '6032'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

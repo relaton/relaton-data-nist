@@ -1,0 +1,95 @@
+---
+id: NISTIR6858
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Agent technology
+  type: title-main
+- language: en
+  script: Latn
+  content: feasibility for business and manufacturing application
+  type: title-part
+- language: en
+  script: Latn
+  content: Agent technology - feasibility for business and manufacturing application
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.6858
+docidentifier:
+- content: NIST IR 6858
+  type: NIST
+  primary: true
+- content: NIST.IR.6858
+  type: DOI
+date:
+- type: issued
+  at: '2002'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fong, Elizabeth.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50023905
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ivezic, Nenad.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Korchak, Rick.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Peng, Yun.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n86032110
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rhodes, Thomas.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2004024820
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '6858'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

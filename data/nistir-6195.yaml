@@ -1,0 +1,73 @@
+---
+id: NISTIR6195
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Proceedings of the third NIST workshop on the development of machine tool
+    performance models and data repository
+  type: title-main
+- language: en
+  script: Latn
+  content: November 20-21, 1997, Pleasanton, California
+  type: title-part
+- language: en
+  script: Latn
+  content: Proceedings of the third NIST workshop on the development of machine tool
+    performance models and data repository - November 20-21, 1997, Pleasanton, California
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.6195
+docidentifier:
+- content: NIST IR 6195
+  type: NIST
+  primary: true
+- content: NIST.IR.6195
+  type: DOI
+date:
+- type: issued
+  at: '1997'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ling, Alice V. (Alice Valeria)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003115013
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Donmez, M. Alkan,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003051247
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '6195'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

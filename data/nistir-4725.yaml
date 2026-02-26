@@ -1,0 +1,80 @@
+---
+id: NISTIR4725
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Stability of aqueous inorganic lead solutions in polycarbonate containers
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.4725
+docidentifier:
+- content: NIST IR 4725
+  type: NIST
+  primary: true
+- content: NIST.IR.4725
+  type: DOI
+date:
+- type: issued
+  at: '1991'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jewett, Kenneth L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2001075881
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Blair, William R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021144283
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brinckman, Frederick E.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83061707
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wang, Francis W.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '4725'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

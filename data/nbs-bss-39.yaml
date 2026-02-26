@@ -1,0 +1,64 @@
+---
+id: NBSBSS39
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Use of computers for environmental engineering related to buildings
+  type: title-main
+- language: en
+  script: Latn
+  content: proceedings of a symposium sponsored by the National Bureau of Standards,
+    the American Society of Heating, Refrigerating and Air-Conditioning Engineers,
+    Inc., and the Automated Procedures for Engineering Consultants, Inc
+  type: title-part
+- language: en
+  script: Latn
+  content: Use of computers for environmental engineering related to buildings - proceedings
+    of a symposium sponsored by the National Bureau of Standards, the American Society
+    of Heating, Refrigerating and Air-Conditioning Engineers, Inc., and the Automated
+    Procedures for Engineering Consultants, Inc
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.BSS.39
+docidentifier:
+- content: NBS BSS 39
+  type: NIST
+  primary: true
+- content: NBS.BSS.39
+  type: DOI
+date:
+- type: issued
+  at: '1971'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tusuda, T.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS building science series; NBS building science; NBS BSS
+  number: '39'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

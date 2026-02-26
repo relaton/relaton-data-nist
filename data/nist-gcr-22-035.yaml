@@ -1,0 +1,88 @@
+---
+id: NISTGCR22035
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Database-assisted design of high-rise structures using ETABS software
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.GCR.22-035
+docidentifier:
+- content: NIST GCR 22-035
+  type: NIST
+  primary: true
+- content: NIST.GCR.22-035
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Saini, Dikshant S.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Alipour, Alice.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Shafei, Behrouz.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: This User s Manual is associated with the DAD_ETABS vesion 1.0 software
+    based on the Database-Assisted Design (DAD) procedure for the design of high-rise
+    steel buildings for wind, used in conjunction with the structural analysis and
+    design program ETABS. For the design of structures for wind ETABS has so far been
+    used in conjunction with static wind loads specified by building codes or wind
+    engineering laboratories. The marriage of DAD with ETABS significantly enhances
+    the capabilities of both programs. DAD allows the direct use of wind-tunnel measurements
+    of time-varying pressure coefficients to determine the time-dependent wind loading
+    induced by any directional wind speed. Structural and dynamic analyses performed
+    by ETABS determine the dependence of any desired building response (i.e., member
+    Demand-to-Capacity Indexes (DCI), inter-story drift ratios, floor accelerations)
+    on wind speed and direction. Representations of this dependence, called response
+    surfaces, are properties of the structure independent of wind climate. They are
+    used to transform the matrix of the wind velocities at the building site into
+    response matrices for as many responses as are required for structural design
+    purposes. The elements of a response matrix are responses induced by their counterparts
+    in the wind velocity matrix. For any response being considered, the vector whose
+    components are the largest entry in each row of the response matrix is a data
+    sample of the largest responses induced in the structure by the elements of the
+    wind velocity matrix. The N-year response is obtained from that sample by using
+    any appropriate extreme value estimation tool. The DAD_ETABS version 1.0 software
+    was developed for the design of steel prismatic structures with rectangular shapes
+    in plan. The User s Manual includes an example of the application of the software.
+series:
+- title:
+  - content: NIST GCR; NIST grant-contract report; NIST grant contract report
+  number: 22-035
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

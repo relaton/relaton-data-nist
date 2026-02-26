@@ -1,0 +1,84 @@
+---
+id: NISTTN1337
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Characterization of clocks and oscillators
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1337
+docidentifier:
+- content: NIST TN 1337
+  type: NIST
+  primary: true
+- content: NIST.TN.1337
+  type: DOI
+date:
+- type: issued
+  at: '1990'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sullivan, D. B. (Donald Barrett),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81090422
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Allan, David W.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n89664009
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Howe, David A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n86105972
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Walls, F. L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no90001767
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1337'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

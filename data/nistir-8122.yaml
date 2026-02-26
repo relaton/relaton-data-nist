@@ -1,0 +1,63 @@
+---
+id: NISTIR8122
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: STEP file analyzer user s guide (version 3)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8122
+docidentifier:
+- content: NIST IR 8122
+  type: NIST
+  primary: true
+- content: NIST.IR.8122
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lipman, Robert R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021113188
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: This guide describes how to use the STEP File Analyzer, a software tool
+    that analyzes and generates a spreadsheet from a STEP (STandard for the Exchange
+    of Product model data) file. The spreadsheets simplify inspecting information
+    in the STEP file at an entity and attribute level. STEP files can also be checked
+    for conformance to recommended practices for Product and Manufacturing Information
+    (PMI) representation, PMI presentation, and validation properties.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8122'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

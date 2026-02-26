@@ -1,0 +1,116 @@
+---
+id: NISTIR6529
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: CBEFF
+  type: title-main
+- language: en
+  script: Latn
+  content: Common Biometric Exchange File Format
+  type: title-part
+- language: en
+  script: Latn
+  content: CBEFF - Common Biometric Exchange File Format
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.6529
+docidentifier:
+- content: NIST IR 6529
+  type: NIST
+  primary: true
+- content: NIST.IR.6529
+  type: DOI
+date:
+- type: issued
+  at: '2001'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Podio, Fernando L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n92081962
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dunn, Jeffrey S.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Reinert, Lawrence.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tilton, Catherine J.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: O'Gorman, Lawrence.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n94073273
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Collier, M. Paul.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jerde, Mark.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2011141698
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wirtz, Brigitte.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '6529'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,71 @@
+---
+id: NBSIR863054
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The thermodynamic properties of nitrogen tetroxuide
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IR.86-3054
+docidentifier:
+- content: NBS IR 86-3054
+  type: NIST
+  primary: true
+- content: NBS.IR.86-3054
+  type: DOI
+date:
+- type: issued
+  at: '1986'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McCarty, Robert D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81103507
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Steuer, Hans-Ulrich.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Daily, C. M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n85246659
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBSIR; NBS IR; NBS interagency report; NBS internal report
+  number: 86-3054
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

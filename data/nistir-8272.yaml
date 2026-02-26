@@ -1,0 +1,88 @@
+---
+id: NISTIR8272
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Impact analysis tool for interdependent cyber supply chain risks
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8272
+docidentifier:
+- content: NIST IR 8272
+  type: NIST
+  primary: true
+- content: NIST.IR.8272
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Paulsen, Celia.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Boyens, Jon.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ng, Jeffrey.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Winkler, Kris.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gimbi, James.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+abstract:
+- language: en
+  script: Latn
+  content: As awareness of cybersecurity supply chain risks grows among federal agencies,
+    there is a greater need for tools that evaluate the impacts of a supply chain-related
+    cyber event. This can be a difficult activity, especially for those organizations
+    with complex operational environments and supply chains. A publicly available
+    tool to support supply chain risk analysis that specifically takes into account
+    the potential impact of an event does not currently exist. This publication describes
+    how to use the Cyber Supply Chain Risk Management (C-SCRM) Interdependency Tool
+    that has been developed to help federal agencies identify and assess the potential
+    impact of cybersecurity events in their interconnected supply chains.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8272'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

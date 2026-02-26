@@ -1,0 +1,91 @@
+---
+id: NISTIR7004
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Master product model for the support of tighter integration of spatial
+    and functional design
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7004
+docidentifier:
+- content: NIST IR 7004
+  type: NIST
+  primary: true
+- content: NIST.IR.7004
+  type: DOI
+date:
+- type: issued
+  at: '2003'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fenves, Steven J. (Steven Joseph)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84805394
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Choi, Kelly,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2014113173
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gurumoorthy, Balan.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nb2005010839
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mocko, Greg.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sriram, Ram D.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n97029427
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7004'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,72 @@
+---
+id: NBSCRPLFA255
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Ionospheric data
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.CRPL-F-A.255
+docidentifier:
+- content: NBS CRPL-F-A 255
+  type: NIST
+  primary: true
+- content: NBS.CRPL-F-A.255
+  type: DOI
+date:
+- type: issued
+  at: '1965'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: Environmental Science Services Administration.
+    - content: Institute for Telecommunication Sciences and Aeronomy.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79091137
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Environmental Science Services Administration. Institute for Telecommunication
+          Sciences and Aeronomy.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: Environmental Science Services Administration.
+    - content: Institute for Telecommunication Sciences and Aeronomy.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79091137
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: 'NBS Central Radio Propogation Laboratory-F Part A: Ionospheric Data;
+      CRPL-F-A'
+  number: '255'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

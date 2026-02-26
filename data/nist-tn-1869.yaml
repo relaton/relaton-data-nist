@@ -1,0 +1,86 @@
+---
+id: NISTTN1869
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Research and development opportunities for the NIST net zero energy residential
+    test facility
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1869
+docidentifier:
+- content: NIST TN 1869
+  type: NIST
+  primary: true
+- content: NIST.TN.1869
+  type: DOI
+date:
+- type: issued
+  at: '2015'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fanney, A. H.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82111365
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Healy, William M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81141383
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Domich, P. D. (Paul D.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n86085927
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pettit, Betsy.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022070868
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    - content: Materials and Structural Systems Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1869'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

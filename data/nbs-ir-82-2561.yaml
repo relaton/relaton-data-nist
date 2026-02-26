@@ -1,0 +1,64 @@
+---
+id: NBSIR822561
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NBS portable ambient particulate sampler
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IR.82-2561
+docidentifier:
+- content: NBS IR 82-2561
+  type: NIST
+  primary: true
+- content: NBS.IR.82-2561
+  type: DOI
+date:
+- type: issued
+  at: '1983'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fletcher, Robert A.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2005048359
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bright, David S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nb2015006318
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBSIR; NBS IR; NBS interagency report; NBS internal report
+  number: 82-2561
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

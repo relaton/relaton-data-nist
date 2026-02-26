@@ -1,0 +1,74 @@
+---
+id: NBSBMS149
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Combustible contents in buildings
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.BMS.149
+docidentifier:
+- content: NBS BMS 149
+  type: NIST
+  primary: true
+- content: NBS.BMS.149
+  type: DOI
+date:
+- type: issued
+  at: '1957'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ingberg, S. H. (Simon H.),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no00051881
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dunham, John W.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2012066893
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Thompson, James P.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84200594
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS building materials and structures report; NBS BMS
+  number: '149'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

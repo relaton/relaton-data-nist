@@ -1,0 +1,54 @@
+---
+id: NBSSP2505
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Alpha-particle calibrations
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.250-5
+docidentifier:
+- content: NBS SP 250-5
+  type: NIST
+  primary: true
+- content: NBS.SP.250-5
+  type: DOI
+date:
+- type: issued
+  at: '1987'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hutchinson, J. M. R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n87114841
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: 250-5
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

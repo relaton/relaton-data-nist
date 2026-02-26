@@ -1,0 +1,74 @@
+---
+id: NBSTN405
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Mean electron density variations of the quiet ionosphere no. 5
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.TN.40-5
+docidentifier:
+- content: NBS TN 40-5
+  type: NIST
+  primary: true
+- content: NBS.TN.40-5
+  type: DOI
+date:
+- type: issued
+  at: '1961'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wright, J. W.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82029680
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brown, D. J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84180387
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wescott, L. R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022062527
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS technical note; NBS tech note; NBS TN
+  number: 40-5
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

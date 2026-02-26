@@ -1,0 +1,82 @@
+---
+id: NBSTN102
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Performance predictions for single tropospheric communication links and
+    for several links in tandem
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.TN.102
+docidentifier:
+- content: NBS TN 102
+  type: NIST
+  primary: true
+- content: NBS.TN.102
+  type: DOI
+date:
+- type: issued
+  at: '1961'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barsis, A. P.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80006175
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Norton, Kenneth A.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021015342
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rice, P. L. (Patricia L.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88650271
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Elder, P. H.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS technical note; NBS tech note; NBS TN
+  number: '102'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

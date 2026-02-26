@@ -1,0 +1,73 @@
+---
+id: NISTIR8361
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Best practices in the collection and use of biometric and forensic datasets
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8361
+docidentifier:
+- content: NIST IR 8361
+  type: NIST
+  primary: true
+- content: NIST.IR.8361
+  type: DOI
+date:
+- type: issued
+  at: '2021'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hicklin, R. Austin.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kiebuzinski, George.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Taylor, Melissa.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: National Institute of Standards and Technology.
+abstract:
+- language: en
+  script: Latn
+  content: This document discusses issues that arise in the collection, dissemination,
+    and use of datasets for use in biometric and forensic science research, and provides
+    recommendations on how to best address the issues raised. A variety of factors
+    should be considered when collecting data so that the resulting dataset is appropriate
+    for use in testing or research, or when deciding whether an existing dataset is
+    appropriate for a given purpose. This document does not address privacy and human
+    subjects aspects of data collection. These topics will be addressed in forthcoming
+    publications.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8361'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

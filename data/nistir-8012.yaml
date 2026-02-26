@@ -1,0 +1,68 @@
+---
+id: NISTIR8012
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Standards related to prognostics and health management (PHM) for manufacturing
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8012
+docidentifier:
+- content: NIST IR 8012
+  type: NIST
+  primary: true
+- content: NIST.IR.8012
+  type: DOI
+date:
+- type: issued
+  at: '2014'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Vogl, Gregory W.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Weiss, Brian A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Donmez, M. Alkan,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003051247
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8012'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

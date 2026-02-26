@@ -1,0 +1,81 @@
+---
+id: NISTSP80044
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guidelines on securing public web servers
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-44
+docidentifier:
+- content: NIST SP 800-44
+  type: NIST
+  primary: true
+- content: NIST.SP.800-44
+  type: DOI
+date:
+- type: issued
+  at: '2002'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tracy, M. C.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jansen, W.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2009004133
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McLarnon, M.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: 'Web servers maintained for public use are normally the most targeted and
+    attacked hosts on an organization''s network. Thus, it is essential to secure
+    Web servers and the network infrastructure that supports them. This document has
+    been developed to assist federal departments and agencies, state agencies, and
+    commercial organizations in installing, configuring, and maintaining secure public
+    Web servers. It presents generic security principles and covers details specific
+    to the various components of Web content, Web applications, and Web servers. It
+    also includes examples that address two of the more popular Web server applications
+    running respectively on Unix and Microsoft Windows operating systems: Apache and
+    Internet Information Server.'
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-44
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

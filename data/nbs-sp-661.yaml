@@ -1,0 +1,88 @@
+---
+id: NBSSP661
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: ASTM/NBS basestock consistency study data
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.661
+docidentifier:
+- content: NBS SP 661
+  type: NIST
+  primary: true
+- content: NBS.SP.661
+  type: DOI
+date:
+- type: issued
+  at: '1983'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Weeks, S. J. (Stephan J.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83169676
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Becker, Donald A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n77009961
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hsu, S. M. (Stephen M.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83169677
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+abstract:
+- language: en
+  script: Latn
+  content: 'ASTM and NBS co-sponsored a Basestock Consistency Study (BCS) to assess
+    the quality consistency of lubricating base oils. This study, which is the first
+    of its kind, will impact on developing basestock characterization methodology
+    and on efficient utilization of energy resources as well as their conservation
+    through recycling. The purpose of this publication is to present the ASTM/NBS
+    BCS data for data analysis. Monthly production samples from six re-refiners and
+    four refiners were analyzed by 14 laboratories for a 13 month period. The results
+    of over 55 tests are divided according to six major categories: rheology, physical
+    properties, chemical properties, hydrocarbon type analysis, general performance
+    tests, and oxidation and wear bench tests. The data are presented in tabular and
+    grphical form, which is quite amenable to further data analysis.'
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: '661'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

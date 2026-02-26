@@ -1,0 +1,98 @@
+---
+id: NISTIR8241
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Organizational views of NIST cryptographic standards and testing and validation
+    programs
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8241
+docidentifier:
+- content: NIST IR 8241
+  type: NIST
+  primary: true
+- content: NIST.IR.8241
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Haney, Julie.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Theofanos, Mary.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Acar, Yasemin.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Prettyman, Sandra Spickard,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2005072199
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
+    - content: Material Measurement Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: Cryptography is an essential component of modern computing. Unfortunately,
+    implementing cryptography correctly is a non-trivial undertaking. Past research
+    studies have supported this observation by revealing a multitude of errors and
+    pitfalls in the cryptographic implementations of software products. However, the
+    emphasis of these studies was on the practices of less-experienced, individual
+    developers. Therefore, there is little understanding of the cryptographic development
+    practices of organizations, including the benefits and challenges of using cryptographic
+    resources such as standards specifications and libraries. To address this gap,
+    a research team led by the National Institute of Standards and Technology (NIST)
+    Information Technology Laboratory Visualization and Usability Group conducted
+    a qualitative investigation into the processes and resources that organizations
+    employ in the development and testing of cryptographic products. The study involved
+    21 in-depth interviews of 29 participants representing organizations that develop
+    either a security product that uses cryptography or a non-security product that
+    heavily relies on cryptography. This report categorizes and enumerates a subset
+    of findings that document participant comments specific to NIST cryptographic
+    publications and testing/validation programs, with a goal of informing future
+    decisions of NIST and other standards bodies working in this space.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8241'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,64 @@
+---
+id: NBSSP26047
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Standard reference materials
+  type: title-main
+- language: en
+  script: Latn
+  content: electrical resistivity of electrolytic iron, SRM 797, and austenitic stainless
+    steel, SRM 798, from 5 to 280 K
+  type: title-part
+- language: en
+  script: Latn
+  content: Standard reference materials - electrical resistivity of electrolytic iron,
+    SRM 797, and austenitic stainless steel, SRM 798, from 5 to 280 K
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.260-47
+docidentifier:
+- content: NBS SP 260-47
+  type: NIST
+  primary: true
+- content: NBS.SP.260-47
+  type: DOI
+date:
+- type: issued
+  at: '1974'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hust, J. G. (Jerome G.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82113818
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: 260-47
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

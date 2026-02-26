@@ -1,0 +1,47 @@
+---
+id: NBSLC831
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The painting of exterior metal surfaces (superseding Letter Circular 422)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.LCIRC.831
+docidentifier:
+- content: NBS LC 831
+  type: NIST
+  primary: true
+- content: NBS.LCIRC.831
+  type: DOI
+date:
+- type: issued
+  at: '1946'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: '"Hickson, E. F."'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NBSLCIRC; NBS LCIRC; NBS letter circular
+  number: '831'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

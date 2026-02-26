@@ -1,0 +1,108 @@
+---
+id: NISTAMS6005
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Manufacturing USA annual report 2018
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.600-5
+docidentifier:
+- content: NIST AMS 600-5
+  type: NIST
+  primary: true
+- content: NIST.AMS.600-5
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rudnitsky, Robert G.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Molnar, Michael F.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gayle, Frank W.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021137929
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Liang, Hong.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nr96004761
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fronczek, Lisa Jean.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jahanmir, Said.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n92082176
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brunner, Zahraha.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Office of Advanced Manufacturing.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: This annual report documents the progress of the Manufacturing USA program
+    in meeting its goals and describes the major accomplishments of the Manufacturing
+    USA institutes in fiscal year 2018.
+series:
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 600-5
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

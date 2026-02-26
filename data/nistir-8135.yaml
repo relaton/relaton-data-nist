@@ -1,0 +1,74 @@
+---
+id: NISTIR8135
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Identifying and categorizing data types for public safety mobile applications
+  type: title-main
+- language: en
+  script: Latn
+  content: workshop report
+  type: title-part
+- language: en
+  script: Latn
+  content: Identifying and categorizing data types for public safety mobile applications
+    - workshop report
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8135
+docidentifier:
+- content: NIST IR 8135
+  type: NIST
+  primary: true
+- content: NIST.IR.8135
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ogata, Michael.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2009051024
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: The Association of Public-Safety Communications (APCO), in cooperation
+    with FirstNet and the Department of Commerce held a half-day workshop on June
+    2, 2015, Identifying and Categorizing Data Types for Public Safety Mobile Applications.
+    The goal of this workshop was to begin identifying different types of data that
+    will flow through applications that operate on the National Public Safety Broadband
+    Network (NPSBN). A diverse group of first responders, industry leaders, and government
+    representatives attended the workshop. This document describes the workshop and
+    captures the input received from the workshop attendees.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8135'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

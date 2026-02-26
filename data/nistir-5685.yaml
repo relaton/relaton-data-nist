@@ -1,0 +1,68 @@
+---
+id: NISTIR5685
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: SF6 insulation
+  type: title-main
+- language: en
+  script: Latn
+  content: possible greenhouse problems and solutions
+  type: title-part
+- language: en
+  script: Latn
+  content: SF6 insulation - possible greenhouse problems and solutions
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.5685
+docidentifier:
+- content: NIST IR 5685
+  type: NIST
+  primary: true
+- content: NIST.IR.5685
+  type: DOI
+date:
+- type: issued
+  at: '1995'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Christophorou, L. G.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79022906
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brunt, Richard J. Van.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '5685'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

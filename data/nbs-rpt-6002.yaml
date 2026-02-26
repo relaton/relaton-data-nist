@@ -1,0 +1,90 @@
+---
+id: NBSRPT6002
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Transfer characteristics of radio waves propagated between the ionosphere
+    and the Earth at very low frequencies
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.RPT.6002
+docidentifier:
+- content: NBS RPT 6002
+  type: NIST
+  primary: true
+- content: NBS.RPT.6002
+  type: DOI
+date:
+- type: issued
+  at: '1958'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Johler, J. Ralph.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82096244
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Walters, L. C.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lilley, C. M.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: The transfer characteristics (amplitude and phase as a function of frequency)
+    of the sky wave propagated between the D-region and the E-region of the ionosphere
+    and the earth have been evaluated at low and very low frequencies by the geometrical-optical
+    theory employing the quasi-longitudinal approximation of the ionosphere reflection
+    coefficients. Distances, d/j, up to 1000 statute miles are considered and multiple
+    hops or time-modes (j = 1, 2, 3, ... ) are evaluated for a vertical electric dipole
+    source. The effects of the electron density, collision frequency, intensity of
+    the earth's magnetic field and the geometrical parameters are illustrated. The
+    effect of the vertical lapse of the permittivity of the earth's atmosphere is
+    introduced into the computation.
+series:
+- title:
+  - content: NBS report
+  number: '6002'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

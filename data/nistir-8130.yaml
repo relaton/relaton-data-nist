@@ -1,0 +1,70 @@
+---
+id: NISTIR8130
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Baseline Tailor user guide
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8130
+docidentifier:
+- content: NIST IR 8130
+  type: NIST
+  primary: true
+- content: NIST.IR.8130
+  type: DOI
+date:
+- type: issued
+  at: '2016'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lubell, Joshua.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021113187
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lubell, Anthony.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: This guide describes how to use Baseline Tailor, a software tool for navigating
+    the United States Government s Cybersecurity Framework and for tailoring the National
+    Institute of Standards and Technology Special Publication 800-53 Revision 4 security
+    controls. Baseline Tailor generates output in Extensible Markup Language (XML)
+    formats capturing a user s Framework Profile and tailoring choices. More information
+    about Baseline Tailor and supplemental documentation are available at https://www.nist.gov/el/msid/baselinetailor.cfm.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8130'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

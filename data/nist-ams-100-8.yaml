@@ -1,0 +1,150 @@
+---
+id: NISTAMS1008
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST/OAGi workshop
+  type: title-main
+- language: en
+  script: Latn
+  content: drilling down on smart manufacturing - enabling composable apps
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST/OAGi workshop - drilling down on smart manufacturing - enabling composable
+    apps
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-8
+docidentifier:
+- content: NIST AMS 100-8
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-8
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ivezic, Nenad.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kulvatunyou, Boonserm.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brandl, Dennis.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2006082353
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cho, Hyunbo.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lu, Yan.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79011775
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Noller, David.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Davis, Jim.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nb2003012487
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wuest, Thorsten.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2019156765
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ameri, Farhad.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bernstein, William Z.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: This report summarizes the results from the OAGi/NIST workshop Drilling
+    down on Smart Manufacturing -- Enabling Composable Apps, which was held at the
+    National Institute of Standards and Technology campus in Gaithersburg, MD, on
+    April 18-19, 2016. The purpose of the workshop was to identify and discuss challenges
+    in advancing the vision of composable manufacturing systems within the context
+    of open cloud service platforms for Smart Manufacturing systems. The report describes
+    (1) the idea of composable Service-Oriented Manufacturing systems as a basis for
+    achieving easily assembled and re-configured Smart Manufacturing systems, (2)
+    the results of five breakout sessions, and (3) the key findings from the workshop
+    as well as the next steps planned for the workshop series. The breakout session
+    descriptions provide an overview of respective R&D areas, their goals, capability
+    gaps, proposed technology characteristics, and priority working items.
+series:
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 100-8
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

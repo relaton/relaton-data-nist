@@ -1,0 +1,91 @@
+---
+id: NISTGCR159862
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Proceedings of the Measurement Science for Sustainable Construction and
+    Manufacturing Workshop volume II
+  type: title-main
+- language: en
+  script: Latn
+  content: presentations
+  type: title-part
+- language: en
+  script: Latn
+  content: Proceedings of the Measurement Science for Sustainable Construction and
+    Manufacturing Workshop volume II - presentations
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.GCR.15-986-2
+docidentifier:
+- content: NIST GCR 15-986-2
+  type: NIST
+  primary: true
+- content: NIST.GCR.15-986-2
+  type: DOI
+date:
+- type: issued
+  at: '2015'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ayyub, Bilal M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n87912939
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Galloway, G. E.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n86085668
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wright, Richard N. (Richard Newport),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50028681
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: University of Maryland (College Park, Md.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97052508
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST GCR
+  number: 15-986-2
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

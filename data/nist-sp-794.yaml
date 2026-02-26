@@ -1,0 +1,68 @@
+---
+id: NISTSP794
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Spectroscopic library for alternative refrigerant analysis
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.794
+docidentifier:
+- content: NIST SP 794
+  type: NIST
+  primary: true
+- content: NIST.SP.794
+  type: DOI
+date:
+- type: issued
+  at: '1990'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bruno, Thomas J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n85351255
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: The Special Publication contains infrared and mass spectra for a wide range
+    of chlorofluoro-bromo ethanes and ethylenes that are relevant to research on alternative
+    refrigerants. Alternative refrigerants are working fluids that are thought not
+    to contribute significantly to atmospheric ozone depletion. In addition to the
+    spectroscopic data, some physical property and safety information is included
+    for each fluid as well. Not all of the compounds covered in the publication can
+    be used as refrigerants. Indeed, some of them are in fact solids under ambient
+    conditions, and others are fully halogenated, thus making them unfavorable from
+    an ozone depletion standpoint. The study of all of these materials is important,
+    however, since many will be found as impurities or reaction/decomposition products
+    of refrigerant fluids. The publication provides a signal source for some particularly
+    useful analytical information needed in the identification of these compounds.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '794'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

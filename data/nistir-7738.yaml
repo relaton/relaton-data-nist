@@ -1,0 +1,52 @@
+---
+id: NISTIR7738
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Automated extraction of cellular features for a potentially robust classification
+    scheme
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.7738
+docidentifier:
+- content: NIST IR 7738
+  type: NIST
+  primary: true
+- content: NIST.IR.7738
+  type: DOI
+date:
+- type: issued
+  at: '2010'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chowdhury, Shwetadwip.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '7738'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

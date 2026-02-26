@@ -1,0 +1,54 @@
+---
+id: NBSSP50099
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Structured testing
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.500-99
+docidentifier:
+- content: NBS SP 500-99
+  type: NIST
+  primary: true
+- content: NBS.SP.500-99
+  type: DOI
+date:
+- type: issued
+  at: '1982'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McCabe, Thomas J.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83047926
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: 500-99
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

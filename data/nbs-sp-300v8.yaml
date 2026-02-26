@@ -1,0 +1,69 @@
+---
+id: NBSSP300v8
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Precision measurement and calibration
+  type: title-main
+- language: en
+  script: Latn
+  content: selected NBS papers on mechanics
+  type: title-part
+- language: en
+  script: Latn
+  content: Precision measurement and calibration - selected NBS papers on mechanics
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.300v8
+docidentifier:
+- content: NBS SP 300v8
+  type: NIST
+  primary: true
+- content: NBS.SP.300v8
+  type: DOI
+date:
+- type: issued
+  at: '1972'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bloss, Roscoe L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88642269
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Orloski, Mary J.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: 300v8
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

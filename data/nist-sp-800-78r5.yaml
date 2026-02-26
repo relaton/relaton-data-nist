@@ -1,0 +1,74 @@
+---
+id: NISTSP80078r5
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Cryptographic algorithms and key sizes for personal identity verification
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-78-5
+docidentifier:
+- content: NIST SP 800-78r5
+  type: NIST
+  primary: true
+- content: NIST.SP.800-78-5
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Regenscheid, Andrew
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3930-527X"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'Federal Information Processing Standard 201-3 (FIPS 201-3) defines the
+    requirements for Personal Identity Verification (PIV) life cycle activities, including
+    identity proofing, registration, PIV Card issuance, and PIV Card usage. FIPS 201-3
+    also defines the structure of an identity credential that includes cryptographic
+    keys. This document contains the technical specifications needed for the mandatory
+    and optional cryptographic keys specified in FIPS 201-3, as well as the supporting
+    infrastructure specified in FIPS 201-3 and the related NIST Special Publication
+    (SP) 800-73, Interfaces for Personal Identity Verification, and SP 800-76, Biometric
+    Specifications for Personal Identity Verification, which rely on cryptographic
+    functions. [Supersedes SP 800-78-4 (May 2015): https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=918499]'
+relation:
+- type: updates
+  bibitem:
+    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x00000003b385af50>"
+    docidentifier:
+    - content: NIST SP 800-78r4
+      type: NIST
+series:
+- title:
+  - content: NIST special publication
+  number: 800-78-5
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-78-5
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

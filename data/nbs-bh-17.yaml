@@ -1,0 +1,80 @@
+---
+id: NBSBH17
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: How to own your home
+  type: title-main
+- language: en
+  script: Latn
+  content: a handbook for prospective home owners (2d edition, August 1931)
+  type: title-part
+- language: en
+  script: Latn
+  content: How to own your home - a handbook for prospective home owners (2d edition,
+    August 1931)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.BH.17
+docidentifier:
+- content: NBS BH 17
+  type: NIST
+  primary: true
+- content: NBS.BH.17
+  type: DOI
+date:
+- type: issued
+  at: '1931'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gries, John M. (John Matthew),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n91072306
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Taylor, James S.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83004574
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hoover, Herbert.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS building and housing; NBS BH
+  number: '17'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

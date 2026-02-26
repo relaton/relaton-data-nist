@@ -1,0 +1,110 @@
+---
+id: NISTTN1820
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Model-based enterprise summit report
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1820
+docidentifier:
+- content: NIST TN 1820
+  type: NIST
+  primary: true
+- content: NIST.TN.1820
+  type: DOI
+date:
+- type: issued
+  at: '2013'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lubell, Joshua.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021113187
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Frechette, Simon P.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lipman, Robert R.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021113188
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Proctor, Frederick M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nr97008529
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Horst, John.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2020102859
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Carlisle, Mark.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021149382
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Huang, Paul J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022030722
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1820'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

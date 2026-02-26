@@ -1,0 +1,94 @@
+---
+id: NISTIR8259
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Foundational cybersecurity activities for IoT device manufacturers
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8259
+docidentifier:
+- content: NIST IR 8259
+  type: NIST
+  primary: true
+- content: NIST.IR.8259
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fagan, James Michael.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80045567
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Megas, Katerina N.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, Karen.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2007017003
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Smith, Matthew.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n93118616
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no97056762
+abstract:
+- language: en
+  script: Latn
+  content: Internet of Things (IoT) devices often lack device cybersecurity capabilities
+    their customers organizations and individuals can use to help mitigate their cybersecurity
+    risks. Manufacturers can help their customers by improving how securable the IoT
+    devices they make are by providing necessary cybersecurity functionality and by
+    providing customers with the cybersecurity-related information they need. This
+    publication describes recommended activities related to cybersecurity that manufacturers
+    should consider performing before their IoT devices are sold to customers. These
+    foundational cybersecurity activities can help manufacturers lessen the cybersecurity-related
+    efforts needed by customers, which in turn can reduce the prevalence and severity
+    of IoT device compromises and the attacks performed using compromised devices.
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8259'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

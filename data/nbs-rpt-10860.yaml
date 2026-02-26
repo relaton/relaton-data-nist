@@ -1,0 +1,78 @@
+---
+id: NBSRPT10860
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The enthalpies of hydrolysis of arsenious oxide and arsenic trichloride
+    in 1N-sodium hydroxide
+  type: title-main
+- language: en
+  script: Latn
+  content: the enthalpy of formation of arsenic trichloride
+  type: title-part
+- language: en
+  script: Latn
+  content: The enthalpies of hydrolysis of arsenious oxide and arsenic trichloride
+    in 1N-sodium hydroxide - the enthalpy of formation of arsenic trichloride
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.RPT.10860
+docidentifier:
+- content: NBS RPT 10860
+  type: NIST
+  primary: true
+- content: NBS.RPT.10860
+  type: DOI
+date:
+- type: issued
+  at: '1971'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Minor, J. I.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gilliland, A. A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wagman, Donald D.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79065674
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS report
+  number: '10860'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

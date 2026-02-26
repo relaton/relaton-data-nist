@@ -1,0 +1,79 @@
+---
+id: NISTIR6142
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST Manufacturing Process Planning and CAME Workshop
+  type: title-main
+- language: en
+  script: Latn
+  content: workshop proceedings, Marriott Hotel, Gaithersburg, MD, June 10-11, 1996
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST Manufacturing Process Planning and CAME Workshop - workshop proceedings,
+    Marriott Hotel, Gaithersburg, MD, June 10-11, 1996
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.6142
+docidentifier:
+- content: NIST IR 6142
+  type: NIST
+  primary: true
+- content: NIST.IR.6142
+  type: DOI
+date:
+- type: issued
+  at: '1998'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Smith, Mike.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n93058306
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Leong, Swee.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2011046556
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Regli, William.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '6142'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

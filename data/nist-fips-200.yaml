@@ -1,0 +1,61 @@
+---
+id: NISTFIPS200
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Minimum security requirements for federal information and information systems
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.FIPS.200
+docidentifier:
+- content: NIST FIPS 200
+  type: NIST
+  primary: true
+- content: NIST.FIPS.200
+  type: DOI
+date:
+- type: issued
+  at: '2006'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: FIPS 200 is the second standard that was specified by the Information Technology
+    Management Reform Act of 1996 (FISMA). It is an integral part of the risk management
+    framework that the National Institute of Standards and Technology (NIST) has developed
+    to assist federal agencies in providing levels of information security based on
+    levels of risk. FIPS 200 specifies minimum security requirements for federal information
+    and information systems and a risk-based process for selecting the security controls
+    necessary to satisfy the minimum requirements.
+series:
+- title:
+  - content: Federal information processing standards publication; FIPS
+  number: '200'
+place:
+- city: Washington
+  region:
+  - iso: D
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

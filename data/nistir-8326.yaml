@@ -1,0 +1,65 @@
+---
+id: NISTIR8326
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A model-driven approach to interoperability between simulation and optimization
+    for production and logistics systems
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8326
+docidentifier:
+- content: NIST IR 8326
+  type: NIST
+  primary: true
+- content: NIST.IR.8326
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sprock, Timothy.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Simulation and optimization must be used together to design and operate
+    large-scale, complex systems. Integrating them presents a number of conceptual
+    and technical problems, which can be addressed with more expressive, computer-interpretable
+    system models. This paper presents a model-driven approach to integrating simulation
+    and optimization methods by exchanging system designs that specialize analysis
+    abstractions, both defined in the Systems Modeling Language (SysML). The analysis
+    abstractions enable translation of system models to corresponding analysis models
+    and tool interfaces. This approach (model-driven system-analysis integration)
+    is demonstrated by developing a multi-fidelity, multi-method simulation optimization
+    methodology and applying it to a supply chain design case study.
+series:
+- title:
+  - content: NISTIR
+  number: '8326'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8326'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

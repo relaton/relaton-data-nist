@@ -1,0 +1,72 @@
+---
+id: NISTSP8007
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Security in open systems
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-7
+docidentifier:
+- content: NIST SP 800-7
+  type: NIST
+  primary: true
+- content: NIST.SP.800-7
+  type: DOI
+date:
+- type: issued
+  at: '1994'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barkley, John.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n87912676
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: The Public Switched Network (PSN) provides National Security and Emergency
+    Preparedness (NS/EP) telecommunications. Service vendors, equipment manufacturers,
+    and the federal government are concerned that vulnerabilities in the PSN could
+    be exploited and result in disruptions or degradation of service. To address these
+    threats, NIST is assisting the Office of the Manager, National Communications
+    System (OMNCS), in the areas of computer and network security research and development.
+    NIST is investigating the vulnerabilities and related security issues that result
+    from the use of open systems platforms, i.e., products based on open standards
+    such as POSIX and OSI, in the telecommunications industry. This report is intended
+    to provide information for the practicing programmer involved in development of
+    telecommunications application software. In short, it provides answers to the
+    question, How do I build security into software based on open system platforms?
+    It is not intended to be tutorial in nature and assumes some knowledge of open
+    systems and Unix. Many of the references cited are tutorial and may be used to
+    obtain any background information required.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-7
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

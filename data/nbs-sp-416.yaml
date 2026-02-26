@@ -1,0 +1,72 @@
+---
+id: NBSSP416
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Attacking the fire problem
+  type: title-main
+- language: en
+  script: Latn
+  content: a plan for action
+  type: title-part
+- language: en
+  script: Latn
+  content: Attacking the fire problem - a plan for action
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.416
+docidentifier:
+- content: NBS SP 416
+  type: NIST
+  primary: true
+- content: NBS.SP.416
+  type: DOI
+date:
+- type: issued
+  at: '1975'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Giles, Kenneth,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2008059271
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Powell, Pam,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n84048261
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: '416'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

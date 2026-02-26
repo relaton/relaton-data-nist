@@ -1,0 +1,72 @@
+---
+id: NISTSP260142
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Standard reference materials
+  type: title-main
+- language: en
+  script: Latn
+  content: primary standards and standard reference materials for electrolytic conductivity
+  type: title-part
+- language: en
+  script: Latn
+  content: Standard reference materials - primary standards and standard reference
+    materials for electrolytic conductivity
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-142
+docidentifier:
+- content: NIST SP 260-142
+  type: NIST
+  primary: true
+- content: NIST.SP.260-142
+  type: DOI
+date:
+- type: issued
+  at: '2000'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jameel, R. H. (Rubina H.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022036046
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wu, Y. C. (Yung Chi)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022052915
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 260-142
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

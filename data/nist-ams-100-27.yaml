@@ -1,0 +1,110 @@
+---
+id: NISTAMS10027
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Influence of optical system operation on stability of single tracks in
+    selective laser melting
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-27
+docidentifier:
+- content: NIST AMS 100-27
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-27
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zhirnov, Ivan.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yadroitsev, Igor.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lane, Brandon.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mekhontsev, Sergey.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grantham, Steven.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yadroitsava, Ina.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.)).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2019028800
+abstract:
+- language: en
+  script: Latn
+  content: 'Additive manufacturing (AM) technologies are increasingly being studied
+    and introduced into the modern industry, but for wide applications there exists
+    some ''lack of confidence'' about the quality of the parts produced by AM. This
+    distrust has an objective basis: it was shown that the final 3D object is a superposition
+    of a huge number of tracks and layers, and deviations from the optimal process
+    parameters can lead to non-regular shape, unmelted places (lack of fusion) and
+    porosity. Experiments with different bare substrates were performed to classify
+    instabilities and artifacts in single tracks derived from laser beam characteristics,
+    the optical system, scanning strategy, etc. demonstrating an adjustment scheme
+    for testing and verifying LPBF equipment. An important point is that this research
+    can be useful for the custom experimental setup. The paper describes the importance
+    of checking the system before each build to identify problems caused by optical
+    system operation. Also, possible deviations from the stable process, methods of
+    their diagnostics and solutions are described. The proposed method is a cost-free
+    way to diagnose the stability of the selective laser melting, which does not imply
+    the necessity of having additional systems for detecting problems. The diagnostic
+    scheme was used to evaluate in situ diagnostics of the LPBF processes on the Additive
+    Manufacturing Metrology Testbed (AMMT) at the National Institute of Standards
+    and Technology (NIST).'
+series:
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 100-27
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

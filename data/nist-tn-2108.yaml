@@ -1,0 +1,104 @@
+---
+id: NISTTN2108
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Towards measurement of advanced mobile manipulator performance for assembly
+    applications
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2108
+docidentifier:
+- content: NIST TN 2108
+  type: NIST
+  primary: true
+- content: NIST.TN.2108
+  type: DOI
+date:
+- type: issued
+  at: '2020'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bostelman, Roger.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Li-Baboud, Ya-Shian.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yoon, Soocheol.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Shah, Mili.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Aboul-Enein, Omar.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
+abstract:
+- language: en
+  script: Latn
+  content: Advanced mobile manipulators offer the manufacturing industry the potential
+    of a highly adaptive system to perform precision assembly tasks in agile environments.
+    Developing performance measurement capabilities for mobile manipulator systems
+    will support the advancement of manipulator-vehicle coordination, precision, accuracy,
+    and robustness. The National Institute of Standards and Technology (NIST) developed
+    a measurement methodology for advanced mobile manipulators, which are mobile robots
+    with an onboard robot arm, each from a different manufacturer and with a different
+    controller. The measurement methodology is designed to assess the performance
+    of mobile manipulators for manufacturing applications such as assembly, where
+    position and orientation accuracy are critically important. The proposed methodology
+    used an artifact designed at NIST to simulate an assembly task station. An optical
+    tracking system measured the location of the targets, the mobile base position
+    and orientation, and the position of a manipulator end-of-arm tool. The experimental
+    data collected, using three different system computers, were timestamped using
+    local clocks synchronized via the NIST internal and local area networks to align
+    the data streams. The mobile manipulator system, the experimental methodology,
+    the data analysis, and the results of the measurement methodology uncertainty
+    and mobile manipulator positioning uncertainty using the novel artifacts are described
+    in this paper. For the system tested, the mobile manipulator detection of 2 mm
+    diameter fiducials can be achieved after registration. With validation from the
+    optical tracking system, the study demonstrated that the Reconfigurable Mobile
+    Manipulator Artifact (RMMA) has potential for serving as a novel standalone, low-cost
+    test method for measuring the positioning uncertainty of mobile manipulators within
+    a measurement uncertainty of 2 mm.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2108'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

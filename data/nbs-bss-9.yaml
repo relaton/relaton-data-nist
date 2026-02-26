@@ -1,0 +1,64 @@
+---
+id: NBSBSS9
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Thermal-shock resistance for built-up membranes
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.BSS.9
+docidentifier:
+- content: NBS BSS 9
+  type: NIST
+  primary: true
+- content: NBS.BSS.9
+  type: DOI
+date:
+- type: issued
+  at: '1967'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cullen, William C.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83163250
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Boone, Thomas H.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n81098814
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS building science series; NBS building science; NBS BSS
+  number: '9'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

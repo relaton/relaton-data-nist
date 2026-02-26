@@ -1,0 +1,91 @@
+---
+id: NBSMP123
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Production of pressboard from cornstalks
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.MP.123
+docidentifier:
+- content: NBS MP 123
+  type: NIST
+  primary: true
+- content: NBS.MP.123
+  type: DOI
+date:
+- type: issued
+  at: '1936'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Naffziger, T. R. (Theodore Roosevelt),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nr2003026555
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Overman, C. B.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sweeney, O. R. (Orland Russel),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nr2003005320
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Acree, S. F. (Solomon Farley),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2004022461
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wingfield, Baker,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022011002
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS miscellaneous publication; NBS miscellaneous pub; NBS MP
+  number: '123'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

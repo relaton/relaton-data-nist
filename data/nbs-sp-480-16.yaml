@@ -1,0 +1,82 @@
+---
+id: NBSSP48016
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Emergency vehicle warning lights
+  type: title-main
+- language: en
+  script: Latn
+  content: state of the art
+  type: title-part
+- language: en
+  script: Latn
+  content: Emergency vehicle warning lights - state of the art
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.480-16
+docidentifier:
+- content: NBS SP 480-16
+  type: NIST
+  primary: true
+- content: NBS.SP.480-16
+  type: DOI
+date:
+- type: issued
+  at: '1978'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Howett, Gerald Leonard,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80032001
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kelly, Kenneth L.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n50048153
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pierce, E. Thomas.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n78026962
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: 480-16
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,78 @@
+---
+id: NISTTN2295
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Public safety communications research, uncrewed aircraft systems program
+    challenge overview
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2295
+docidentifier:
+- content: NIST TN 2295
+  type: NIST
+  primary: true
+- content: NIST.TN.2295
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Manley, Terese.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0001-5325-2610"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Layman, Stephanie.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0006-7858-5194"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Communications Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The Middle-Class Tax Relief and Job Creation Act created the Public Safety
+    Communications Research (PSCR) Division at the National Institute of Standards
+    and Technology (NIST) to investigate interoperability for public safety by improving
+    wireless and broadband communications for first responders. The Public Safety
+    Trust Fund (PSTF) established from this legislation and subsequent congressional
+    funds enabled PSCR to conduct research through prize challenges to explore the
+    potential of technology and the impact of Uncrewed Aircraft Systems (UAS) on public
+    safety operations. Prize challenges help bring together industry leaders and experts
+    to solve technology problems for first responders. Challenges have focused on
+    performance, endurance, and technology-specific use case scenarios with requirements
+    specific to first responder needs. This report provides a general overview of
+    the PSCR UAS Portfolio, the history of PSCR UAS prize challenges, and the UAS
+    prize challenge structure.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2295'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

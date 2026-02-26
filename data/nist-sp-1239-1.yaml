@@ -1,0 +1,95 @@
+---
+id: NISTSP12391
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NIST conference papers fiscal year 2017
+  type: title-main
+- language: en
+  script: Latn
+  content: 'volume 1: Engineering Laboratory'
+  type: title-part
+- language: en
+  script: Latn
+  content: 'NIST conference papers fiscal year 2017 - volume 1: Engineering Laboratory'
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1239-1
+docidentifier:
+- content: NIST SP 1239-1
+  type: NIST
+  primary: true
+- content: NIST.SP.1239-1
+  type: DOI
+date:
+- type: issued
+  at: '2019'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Medina-Smith, Andrea.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-1217-701X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Miller, Kathryn.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-8005-089X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wick, Karen.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: National Institute of Standards and Technology.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: NIST is committed to the idea that results of federally funded research
+    are a valuable national resource and a strategic asset. To the extent feasible
+    and consistent with law, agency mission, resource constraints, and U.S. national,
+    homeland, and economic security, NIST will promote the deposit of scientific data
+    arising from unclassified research and programs, funded wholly or in part by NIST,
+    except for Standard Reference Data, free of charge in publicly accessible databases.
+    Subject to the same conditions and constraints listed above, NIST also intends
+    to make freely available to the public, in publicly accessible repositories, all
+    peer-reviewed scholarly publications arising from unclassified research and programs
+    funded wholly or in part by NIST. This Special Publication represents the work
+    of Engineering Laboratory researchers at professional conferences, as reported
+    in Fiscal Year 2017. More information on public access to NIST research is available
+    at https://www.nist.gov/open.
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1239-1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

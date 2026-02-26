@@ -1,0 +1,65 @@
+---
+id: NBSMP194
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Research and development in applied optics and optical glass at the National
+    Bureau of Standards
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.MP.194
+docidentifier:
+- content: NBS MP 194
+  type: NIST
+  primary: true
+- content: NBS.MP.194
+  type: DOI
+date:
+- type: issued
+  at: '1949'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gardner, Irvine C. (Irvine Clifton),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/nr00001349
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hahner, C. H. (Clarence Herman),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022128973
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS miscellaneous publication; NBS miscellaneous pub; NBS MP
+  number: '194'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

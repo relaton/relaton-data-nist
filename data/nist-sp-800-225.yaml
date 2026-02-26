@@ -1,0 +1,100 @@
+---
+id: NISTSP800225
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 2022 cybersecurity & privacy annual report
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-225
+docidentifier:
+- content: NIST SP 800-225
+  type: NIST
+  primary: true
+- content: NIST.SP.800-225
+  type: DOI
+date:
+- type: issued
+  at: '2023'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: O'Reilly, Patrick D.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-8289-0390"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rigopoulos, Kristina.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-5223-8801"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Feldman, Larry.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-3888-027X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Witte, Greg.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-5425-1097"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'During Fiscal Year 2022 (FY 2022) – from October 1, 2021, through September
+    30, 2022 –the NIST Information Technology Laboratory (ITL) Cybersecurity and Privacy
+    Program successfully responded to numerous challenges and opportunities in security
+    and privacy. This Annual Report highlights the FY 2022 research activities for
+    the ITL Cybersecurity and Privacy Program, including: the ongoing participation
+    and development of international standards; research and practical applications
+    in several key priority areas (e.g., Post Quantum Cryptography, updating the NIST
+    Cybersecurity Framework (CSF 2.0) and some new CSF profiles); accomplishments
+    in the area of improving software and supply chain cybersecurity; IoT cybersecurity
+    guidelines work; National Cybersecurity Center of Excellence (NCCoE) projects,
+    and setting up a new comment site for NIST’s Risk Management Framework work. NIST
+    also celebrated a 50th anniversary in cybersecurity and the NCCoE celebrated a
+    10-year anniversary since inception.'
+series:
+- title:
+  - content: NIST special publication
+  number: 800-225
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-225
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

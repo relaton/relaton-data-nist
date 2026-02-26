@@ -1,0 +1,63 @@
+---
+id: NBSSP48015
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The Police patrol car
+  type: title-main
+- language: en
+  script: Latn
+  content: economic efficiency in acquisition, operation, and disposition
+  type: title-part
+- language: en
+  script: Latn
+  content: The Police patrol car - economic efficiency in acquisition, operation,
+    and disposition
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.SP.480-15
+docidentifier:
+- content: NBS SP 480-15
+  type: NIST
+  primary: true
+- content: NBS.SP.480-15
+  type: DOI
+date:
+- type: issued
+  at: '1978'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ruegg, Rosalie T.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80086288
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBS special publication; NBS special pub; NBS SP
+  number: 480-15
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

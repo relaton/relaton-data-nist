@@ -1,0 +1,69 @@
+---
+id: NISTIR5101
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: ONR-sponsored research in ultrasonic measurements at NIST
+  type: title-main
+- language: en
+  script: Latn
+  content: 1982-92
+  type: title-part
+- language: en
+  script: Latn
+  content: ONR-sponsored research in ultrasonic measurements at NIST - 1982-92
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.5101
+docidentifier:
+- content: NIST IR 5101
+  type: NIST
+  primary: true
+- content: NIST.IR.5101
+  type: DOI
+date:
+- type: issued
+  at: '1992'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hsu, N. N.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Blessing, G. V.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Breckenridge, F. R.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '5101'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

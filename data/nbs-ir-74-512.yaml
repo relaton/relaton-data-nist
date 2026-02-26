@@ -1,0 +1,79 @@
+---
+id: NBSIR74512
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The proof testing of porcelain insulators and the application of acoustic
+    emission
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IR.74-512
+docidentifier:
+- content: NBS IR 74-512
+  type: NIST
+  primary: true
+- content: NBS.IR.74-512
+  type: DOI
+date:
+- type: issued
+  at: '1974'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Evans, A. G.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wiederhorn, S. M.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n82227146
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Linzer, Melvin.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79078758
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fuller, E. R., Jr.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBSIR; NBS IR; NBS interagency report; NBS internal report
+  number: 74-512
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: nilst

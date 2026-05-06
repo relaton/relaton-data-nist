@@ -2,4 +2,4 @@
 
 source 'https://rubygems.org'
 
-gem 'relaton-nist', "~> 2.0.0.alpha.3" # github: 'relaton/relaton-nist', branch: 'main'
+gem 'relaton-nist', github: 'relaton/relaton-nist', branch: 'lutaml-integration'

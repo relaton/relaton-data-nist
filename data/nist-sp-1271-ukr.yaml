@@ -1,7 +1,7 @@
 ---
 id: NISTSP1271ukr
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -80,7 +80,8 @@ abstract:
 relation:
 - type: editionOf
   bibitem:
-    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x000000037da9e1a8>"
+    formattedref:
+      content: NIST SP 1271
     docidentifier:
     - content: NIST SP 1271
       type: NIST
@@ -93,7 +94,7 @@ place:
   region:
   - iso: MD
 ext:
-  schema_version: v1.0.0
+  schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nilst

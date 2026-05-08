@@ -1,7 +1,7 @@
 ---
 id: NISTTN2150Upd1202102
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -110,7 +110,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x000000039f8153d8>"
+    formattedref:
+      content: NIST TN 2150
     docidentifier:
     - content: NIST TN 2150
       type: NIST
@@ -123,7 +124,7 @@ place:
   region:
   - iso: MD
 ext:
-  schema_version: v1.0.0
+  schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nilst

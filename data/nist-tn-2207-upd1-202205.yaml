@@ -1,7 +1,7 @@
 ---
 id: NISTTN2207Upd1202205
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -56,7 +56,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: "#<Relaton::Bib::LocalizedMarkedUpString:0x000000038ed52e60>"
+    formattedref:
+      content: NIST TN 2207
     docidentifier:
     - content: NIST TN 2207
       type: NIST
@@ -69,7 +70,7 @@ place:
   region:
   - iso: MD
 ext:
-  schema_version: v1.0.0
+  schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nilst

@@ -1,24 +1,32 @@
 ---
-id: NBSRPT3156
+id: NBSRPT3996pt2
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Construction details for NBS modification of AN/AVQ-2A aircraft searchlight
+  content: Statistical investigation of fatigue life of ball bearings
+  type: title-main
+- language: en
+  script: Latn
+  content: continued
+  type: title-part
+- language: en
+  script: Latn
+  content: Statistical investigation of fatigue life of ball bearings - continued
   type: main
 source:
 - type: doi
-  content: https://doi.org/10.6028/NBS.RPT.3156p2
+  content: https://doi.org/10.6028/NBS.RPT.3996p2
 docidentifier:
-- content: NBS RPT 3156
+- content: NBS RPT 3996pt2
   type: NIST
   primary: true
-- content: NBS.RPT.3156p2
+- content: NBS.RPT.3996p2
   type: DOI
 date:
 - type: issued
-  at: '1954'
+  at: '1955'
 contributor:
 - role:
   - type: author
@@ -26,14 +34,7 @@ contributor:
     name:
       completename:
         language: en
-        content: Projector, T. H.
-- role:
-  - type: author
-  person:
-    name:
-      completename:
-        language: en
-        content: Lane, J. W.
+        content: Lieblein, Julius.
 - role:
   - type: publisher
   organization:
@@ -42,7 +43,7 @@ contributor:
 series:
 - title:
   - content: NBS report
-  number: 3156p2
+  number: 3996p2
 place:
 - city: Gaithersburg
   region:

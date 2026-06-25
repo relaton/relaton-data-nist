@@ -50910,6 +50910,19 @@
 - :id:
     _type: pubid:nist:report
     number:
+      value: '2447'
+    part:
+      type: pt
+      value: '7'
+    publisher: NBS
+    series:
+      value: RPT
+    first_number:
+      value: '2447'
+  :file: data/nbs-rpt-2447pt7.yaml
+- :id:
+    _type: pubid:nist:report
+    number:
       value: '2449'
     publisher: NBS
     series:
@@ -59086,6 +59099,18 @@
       value: '277'
   :file: data/nbs-mp-277.yaml
 - :id:
+    _type: pubid:nist:miscellaneous-publication
+    number:
+      value: '277'
+    publisher: NBS
+    series:
+      value: MP
+    first_number:
+      value: '277'
+    supplement:
+      number: '1'
+  :file: data/nbs-mp-277sup1.yaml
+- :id:
     _type: pubid:nist:circular
     number:
       value: '277'
@@ -59125,6 +59150,18 @@
     first_number:
       value: '278'
   :file: data/nbs-circ-278.yaml
+- :id:
+    _type: pubid:nist:miscellaneous-publication
+    number:
+      value: '278'
+    publisher: NBS
+    series:
+      value: MP
+    first_number:
+      value: '278'
+    supplement:
+      number: '1'
+  :file: data/nbs-mp-278sup1.yaml
 - :id:
     _type: pubid:nist:miscellaneous-publication
     number:
@@ -63400,12 +63437,15 @@
     _type: pubid:nist:report
     number:
       value: '3156'
+    part:
+      type: pt
+      value: '2'
     publisher: NBS
     series:
       value: RPT
     first_number:
       value: '3156'
-  :file: data/nbs-rpt-3156.yaml
+  :file: data/nbs-rpt-3156pt2.yaml
 - :id:
     _type: pubid:nist:letter-circular
     number:
@@ -70913,12 +70953,28 @@
     _type: pubid:nist:report
     number:
       value: '3996'
+    part:
+      type: pt
+      value: '2'
     publisher: NBS
     series:
       value: RPT
     first_number:
       value: '3996'
-  :file: data/nbs-rpt-3996.yaml
+  :file: data/nbs-rpt-3996pt2.yaml
+- :id:
+    _type: pubid:nist:report
+    number:
+      value: '3996'
+    part:
+      type: pt
+      value: '1'
+    publisher: NBS
+    series:
+      value: RPT
+    first_number:
+      value: '3996'
+  :file: data/nbs-rpt-3996pt1.yaml
 - :id:
     _type: pubid:nist:interagency-report
     number:
@@ -101706,9 +101762,47 @@
     publisher: NIST
     series:
       value: FIPS
+    volume:
+      value: '1'
     first_number:
       value: '55'
-  :file: data/nist-fips-55.yaml
+  :file: data/nist-fips-55v1.yaml
+- :id:
+    _type: pubid:nist:federal-information-processing-standards
+    number:
+      value: '55'
+    publisher: NIST
+    series:
+      value: FIPS
+    volume:
+      value: '2'
+    first_number:
+      value: '55'
+  :file: data/nist-fips-55v2.yaml
+- :id:
+    _type: pubid:nist:federal-information-processing-standards
+    number:
+      value: '55'
+    publisher: NIST
+    series:
+      value: FIPS
+    volume:
+      value: '3'
+    first_number:
+      value: '55'
+  :file: data/nist-fips-55v3.yaml
+- :id:
+    _type: pubid:nist:federal-information-processing-standards
+    number:
+      value: '55'
+    publisher: NIST
+    series:
+      value: FIPS
+    volume:
+      value: '4'
+    first_number:
+      value: '55'
+  :file: data/nist-fips-55v4.yaml
 - :id:
     _type: pubid:nist:handbook
     number:
@@ -115548,6 +115642,19 @@
     second_number:
       value: '1'
   :file: data/nbs-fips-63-1.yaml
+- :id:
+    _type: pubid:nist:federal-information-processing-standards
+    number:
+      value: 63-1
+      part: '1'
+    publisher: NBS
+    series:
+      value: FIPS
+    first_number:
+      value: '63'
+    second_number:
+      value: 1sup
+  :file: data/nbs-fips-63-1sup.yaml
 - :id:
     _type: pubid:nist:commercial-standard
     number:
@@ -170432,6 +170539,26 @@
       value: 800-38
       part: '38'
     part:
+      value: B
+    edition:
+      type: e
+      id: '2005'
+    publisher: NIST
+    series:
+      value: SP
+    edition_component:
+      type: e
+      id: '2005'
+    revision: e2005
+    first_number:
+      value: '800'
+  :file: data/nist-sp-800-38be2005.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number:
+      value: 800-38
+      part: '38'
+    part:
       value: A
     publisher: NIST
     series:
@@ -219131,12 +219258,54 @@
     _type: pubid:nist:report
     number:
       value: '9981'
+    part:
+      type: pt
+      value: '5'
     publisher: NBS
     series:
       value: RPT
     first_number:
       value: '9981'
-  :file: data/nbs-rpt-9981.yaml
+  :file: data/nbs-rpt-9981pt5.yaml
+- :id:
+    _type: pubid:nist:report
+    number:
+      value: '9981'
+    part:
+      type: pt
+      value: '2'
+    publisher: NBS
+    series:
+      value: RPT
+    first_number:
+      value: '9981'
+  :file: data/nbs-rpt-9981pt2.yaml
+- :id:
+    _type: pubid:nist:report
+    number:
+      value: '9981'
+    part:
+      type: pt
+      value: '1'
+    publisher: NBS
+    series:
+      value: RPT
+    first_number:
+      value: '9981'
+  :file: data/nbs-rpt-9981pt1.yaml
+- :id:
+    _type: pubid:nist:report
+    number:
+      value: '9981'
+    part:
+      type: pt
+      value: '7'
+    publisher: NBS
+    series:
+      value: RPT
+    first_number:
+      value: '9981'
+  :file: data/nbs-rpt-9981pt7.yaml
 - :id:
     _type: pubid:nist:report
     number:

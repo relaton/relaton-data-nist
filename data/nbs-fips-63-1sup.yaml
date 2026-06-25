@@ -1,34 +1,35 @@
 ---
-id: NISTFIPS55
+id: NBSFIPS631sup
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Codes for named pupulated places primary county divisions and other locational
-    entities (Tennessee - Virgin Islands)
+  content: Additional operational specifications for variable block rotating mass
+    storage device
   type: main
 source:
 - type: doi
-  content: https://doi.org/10.6028/NIST.FIPS.55v4
+  content: https://doi.org/10.6028/NBS.FIPS.63-1sup
 docidentifier:
-- content: NIST FIPS 55
+- content: NBS FIPS 63-1sup
   type: NIST
   primary: true
-- content: NIST.FIPS.55v4
+- content: NBS.FIPS.63-1sup
   type: DOI
 date:
 - type: issued
-  at: '1994'
+  at: '1983'
 contributor:
 - role:
   - type: publisher
   organization:
     name:
-    - content: National Institute of Standards and Technology (U.S.)
+    - content: United States.
+    - content: National Bureau of Standards.
     identifier:
     - type: uri
-      content: https://id.loc.gov/authorities/names/n88112126
+      content: https://id.loc.gov/authorities/names/n79021148
 - role:
   - type: publisher
   organization:
@@ -40,7 +41,7 @@ contributor:
 series:
 - title:
   - content: Federal information processing standards publication; FIPS
-  number: 55v4
+  number: 63-1sup
 place:
 - city: Washington
   region:

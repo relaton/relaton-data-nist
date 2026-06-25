@@ -1,0 +1,80 @@
+---
+id: NBSNSRDS73pt1
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Compilation of chemical kinetic data for combustion chemistry
+  type: title-main
+- language: en
+  script: Latn
+  content: part 1. non-aromatic C, H, O, N, and S containing compounds. (1971-1982)
+  type: title-part
+- language: en
+  script: Latn
+  content: Compilation of chemical kinetic data for combustion chemistry - part 1.
+    non-aromatic C, H, O, N, and S containing compounds. (1971-1982)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.NSRDS.73p1
+docidentifier:
+- content: NBS NSRDS 73pt1
+  type: NIST
+  primary: true
+- content: NBS.NSRDS.73p1
+  type: DOI
+date:
+- type: issued
+  at: '1987'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Westley, Francis.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79148240
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Herron, John T.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cvetanović, Ratimir J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n86118313
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NIST NSRDS; NSRDS-NIST; National standard reference data series
+  number: 73p1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

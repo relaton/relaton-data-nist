@@ -5,26 +5,16 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Report on battery additives by the National Bureau of Standards April 16,
-    1953 (cont'd) part VII
-  type: title-main
-- language: en
-  script: Latn
-  content: appendices
-  type: title-part
-- language: en
-  script: Latn
-  content: Report on battery additives by the National Bureau of Standards April 16,
-    1953 (cont'd) part VII - appendices
+  content: Report on battery additives
   type: main
 source:
 - type: doi
-  content: https://doi.org/10.6028/NBS.RPT.2447
+  content: https://doi.org/10.6028/NBS.RPT.2447p7
 docidentifier:
 - content: NBS RPT 2447
   type: NIST
   primary: true
-- content: NBS.RPT.2447
+- content: NBS.RPT.2447p7
   type: DOI
 date:
 - type: issued
@@ -34,32 +24,11 @@ contributor:
   - type: publisher
   organization:
     name:
-    - content: United States.
-    - content: National Bureau of Standards.
-    identifier:
-    - type: uri
-      content: https://id.loc.gov/authorities/names/n79021148
-- role:
-  - type: publisher
-  organization:
-    name:
-    - content: United States.
-    - content: National Bureau of Standards.
-    identifier:
-    - type: uri
-      content: https://id.loc.gov/authorities/names/n79021148
-- role:
-  - type: publisher
-  organization:
-    name:
     - content: National Institute of Standards and Technology (U.S.)
-    identifier:
-    - type: uri
-      content: https://id.loc.gov/authorities/names/n88112126
 series:
 - title:
   - content: NBS report
-  number: '2447'
+  number: 2447p7
 place:
 - city: Gaithersburg
   region:

@@ -1,0 +1,50 @@
+---
+id: NISTIR903940pt7
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Time & frequency bulletin No. 392
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.90-3940-7
+docidentifier:
+- content: NIST IR 90-3940pt7
+  type: NIST
+  primary: true
+- content: NIST.IR.90-3940-7
+  type: DOI
+date:
+- type: issued
+  at: '1990'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bennett, Gwen E.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 90-3940-7
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

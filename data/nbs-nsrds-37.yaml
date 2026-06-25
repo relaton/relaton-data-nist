@@ -1,0 +1,61 @@
+---
+id: NBSNSRDS37
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: JANAF thermochemical tables, second edition
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.NSRDS.37
+docidentifier:
+- content: NBS NSRDS 37
+  type: NIST
+  primary: true
+- content: NBS.NSRDS.37
+  type: DOI
+date:
+- type: issued
+  at: '1971'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stull, Daniel R. (Daniel Richard),
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83195137
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Prophet, H.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NIST NSRDS; NSRDS-NIST; National standard reference data series
+  number: '37'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

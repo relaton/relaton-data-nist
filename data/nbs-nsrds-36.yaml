@@ -1,0 +1,61 @@
+---
+id: NBSNSRDS36
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Critical micelle concentrations of aqueous surfactant systems
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.NSRDS.36
+docidentifier:
+- content: NBS NSRDS 36
+  type: NIST
+  primary: true
+- content: NBS.NSRDS.36
+  type: DOI
+date:
+- type: issued
+  at: '1971'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mukerjee, Pasupati,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no96005245
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mysels, Karol.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NIST NSRDS; NSRDS-NIST; National standard reference data series
+  number: '36'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

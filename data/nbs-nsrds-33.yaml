@@ -1,0 +1,64 @@
+---
+id: NBSNSRDS33
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Electrolytic conductance and the conductances of the halogen acids in water
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.NSRDS.33
+docidentifier:
+- content: NBS NSRDS 33
+  type: NIST
+  primary: true
+- content: NBS.NSRDS.33
+  type: DOI
+date:
+- type: issued
+  at: '1970'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hamer, Walter J. (Walter Jay)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83827325
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: DeWane, Harold J.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2011147833
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NIST NSRDS; NSRDS-NIST; National standard reference data series
+  number: '33'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

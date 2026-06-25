@@ -1,0 +1,82 @@
+---
+id: NISTSP800781
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Cryptographic algorithms and key sizes for personal identity verification
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-78-1
+docidentifier:
+- content: NIST SP 800-78-1
+  type: NIST
+  primary: true
+- content: NIST.SP.800-78-1
+  type: DOI
+date:
+- type: issued
+  at: '2007'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Polk, W. T.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dodson, Donna F.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021110726
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Burr, W. E.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: 'SP 800-78-1 has been modified to enhance interoperability, simplify the
+    development of relying party applications, and enhance alignment with the National
+    Security Agency''s Suite B Cryptography [SUITE B]. Revision 1 reduces the set
+    of elliptic curves approved for use with PIV cards and the supporting infrastructure
+    from six curves to two. Also, SHA-384 has been added for use with Curve P-384
+    in this revision. And finally, this revision eliminates the largest size of RSA
+    keys (3072 bits) on PIV cards. These changes simplify applications that require
+    maximum interoperability: the number of OIDs that must be recognized (e.g., in
+    certificates) has been significantly reduced; and elliptic curve implementations
+    of elliptic curve cryptography can be optimized for operations over two specific
+    curves.'
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-78-1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

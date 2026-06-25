@@ -1,0 +1,86 @@
+---
+id: NISTNSRDS73e2018
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: 'REFLEAK: NIST leak/recharge simulation model for refrigerant blends'
+  type: title-main
+- language: en
+  script: Latn
+  content: version 5.1 user's guide
+  type: title-part
+- language: en
+  script: Latn
+  content: 'REFLEAK: NIST leak/recharge simulation model for refrigerant blends -
+    version 5.1 user''s guide'
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.NSRDS.73-2018
+docidentifier:
+- content: NIST NSRDS 73e2018
+  type: NIST
+  primary: true
+- content: NIST.NSRDS.73-2018
+  type: DOI
+date:
+- type: issued
+  at: '2018'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brown, J. Steven.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2012077756
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Domanski, Piotr A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022001138
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: As alternatives to refrigerants with a high global warming potential, blends
+    of two or more refrigerants are being utilized as working fluids in heat-pump,
+    air-conditioning, and refrigeration systems. Generally, these blends form zeotropes,
+    which show temperature and composition changes during evaporation, condensation,
+    or flashing process whether it be intended (i.e., through an expansion device)
+    or unintended (e.g., a leak from a container or system). REFLEAK simulates leak
+    and recharge processes for refrigerant zeotropic blends. This Windows- based simulation
+    model provides an easy-to-use package that allows estimation of composition changes
+    of zeotropic blends in leak and recharge processes for either vapor or liquid
+    leaks under isothermal or adiabatic conditions.
+series:
+- title:
+  - content: NIST NSRDS; NSRDS-NIST; National standard reference data series
+  number: 73-2018
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,114 @@
+---
+id: NISTSP80080073pt15
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Interfaces for personal identity verification
+  type: title-main
+- language: en
+  script: Latn
+  content: part 1-PIV card application namespace, data model, and representation
+  type: title-part
+- language: en
+  script: Latn
+  content: Interfaces for personal identity verification - part 1-PIV card application
+    namespace, data model, and representation
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-800-73pt1-5
+docidentifier:
+- content: NIST SP 800-800-73pt1-5
+  type: NIST
+  primary: true
+- content: NIST.SP.800-800-73pt1-5
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mehta, Ketan.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0001-1191-8656"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Francomacaro, Salvatore.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0009-0487-2520"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chandramouli, Ramaswamy.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7387-5858"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gupta, Sarbari.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1101-0856"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'FIPS 201 defines the requirements and characteristics of government-wide
+    interoperable identity credentials for use in applications that provide access
+    to federally controlled facilities and information systems. FIPS 201 supports
+    multiple types of authenticators, including authenticators on smart cards (also
+    known as PIV Cards). The 3-part SP 800-73 contains the technical specifications
+    to interface with PIV Cards to retrieve and use identity credentials.This document
+    — SP 800-73pt1-5, Interfaces for Personal Identity Verification: Part 1 – PIV
+    Card Application Namespace, Data Model, and Representation specifies the PIV Card
+    Application Namespace, the PIV Data Model, and its logical representation on the
+    PIV Card. [Supersedes SP 800-73-4 (February 2016): https://www.nist.gov/manuscript-publication-search.cfm?pub_id=920323]'
+relation:
+- type: updates
+  bibitem:
+    formattedref:
+      content: NIST SP 800-800-73-4
+    docidentifier:
+    - content: NIST SP 800-800-73-4
+      type: NIST
+series:
+- title:
+  - content: NIST special publication
+  number: 800-800-73pt1-5
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-73pt1-5
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

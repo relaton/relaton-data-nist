@@ -1,0 +1,75 @@
+---
+id: NBSNSRDS18
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Critical analysis of the heat-capacity data of the literature and evaluation
+    of thermodynamic properties of copper, silver, and gold from 0 to 300 oK
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.NSRDS.18
+docidentifier:
+- content: NBS NSRDS 18
+  type: NIST
+  primary: true
+- content: NBS.NSRDS.18
+  type: DOI
+date:
+- type: issued
+  at: '1968'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Furukawa, George T.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n83001400
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Saba, William G.,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003023198
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Reilly, Martin L.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2003023199
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NIST NSRDS; NSRDS-NIST; National standard reference data series
+  number: '18'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

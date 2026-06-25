@@ -1,0 +1,52 @@
+---
+id: NBSNSRDS45
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Radiation chemistry of nitrous oxide gas, primary processes, elementary
+    reactions, and yields
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.NSRDS.45
+docidentifier:
+- content: NBS NSRDS 45
+  type: NIST
+  primary: true
+- content: NBS.NSRDS.45
+  type: DOI
+date:
+- type: issued
+  at: '1973'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Johnson, George R. A.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NIST NSRDS; NSRDS-NIST; National standard reference data series
+  number: '45'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

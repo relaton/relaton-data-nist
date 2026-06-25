@@ -1,0 +1,62 @@
+---
+id: NISTSP955Suppl
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Responding to national needs
+  type: title-main
+- language: en
+  script: Latn
+  content: supplement to appendices 1994-2009
+  type: title-part
+- language: en
+  script: Latn
+  content: Responding to national needs - supplement to appendices 1994-2009
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.955.Suppl
+docidentifier:
+- content: NIST SP 955-S uppl
+  type: NIST
+  primary: true
+- content: NIST.SP.955.Suppl
+  type: DOI
+date:
+- type: issued
+  at: '2010'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Martin, Keith.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Silcox, Barbara P.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '955'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

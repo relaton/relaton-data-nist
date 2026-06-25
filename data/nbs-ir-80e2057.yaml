@@ -1,0 +1,61 @@
+---
+id: NBSIR80e2057
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: The NBS semiconductor technology program and VLSI
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.IR.80-2057
+docidentifier:
+- content: NBS IR 80e2057
+  type: NIST
+  primary: true
+- content: NBS.IR.80-2057
+  type: DOI
+date:
+- type: issued
+  at: '1980'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bullis, W. Murray,
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n80090215
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scace, R. I.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: United States.
+    - content: National Bureau of Standards.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n79021148
+series:
+- title:
+  - content: NBSIR; NBS IR; NBS interagency report; NBS internal report
+  number: 80-2057
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

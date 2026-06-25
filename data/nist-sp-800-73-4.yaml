@@ -1,0 +1,114 @@
+---
+id: NISTSP800734
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Interfaces for personal identity verification - part 1
+  type: title-main
+- language: en
+  script: Latn
+  content: PIV card application namespace, data model and representation
+  type: title-part
+- language: en
+  script: Latn
+  content: Interfaces for personal identity verification - part 1 - PIV card application
+    namespace, data model and representation
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-73-4
+docidentifier:
+- content: NIST SP 800-73-4
+  type: NIST
+  primary: true
+- content: NIST.SP.800-73-4
+  type: DOI
+date:
+- type: issued
+  at: '2015'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cooper, David.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n77001780
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ferraiolo, Hildegard.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2007017398
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mehta, Ketan.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88161940
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Francomacaro, Salvatore.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022010886
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chandramouli, Ramaswamy.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2003002931
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mohler, Jason.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2022062236
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology).
+    - content: Computer Security Division.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2008015449
+series:
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-73-4
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

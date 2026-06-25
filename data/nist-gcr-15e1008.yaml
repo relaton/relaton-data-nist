@@ -1,0 +1,75 @@
+---
+id: NISTGCR15e1008
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: NIST disaster and failure studies data repository
+  type: title-main
+- language: en
+  script: Latn
+  content: the Chile earthquake database - ground motion and building performance
+    data from the 2010 Chile earthquake - user manual
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST disaster and failure studies data repository - the Chile earthquake
+    database - ground motion and building performance data from the 2010 Chile earthquake
+    - user manual
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.GCR.15-1008
+docidentifier:
+- content: NIST GCR 15e1008
+  type: NIST
+  primary: true
+- content: NIST.GCR.15-1008
+  type: DOI
+date:
+- type: issued
+  at: '2015'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Catlin, Ann Christine.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2021149485
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pujol, Santiago.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n2014013321
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+series:
+- title:
+  - content: NIST GCR; NIST grant-contract report; NIST grant contract report
+  number: 15-1008
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

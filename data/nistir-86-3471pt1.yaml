@@ -1,0 +1,74 @@
+---
+id: NISTIR863471pt1
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: The Internal Revenue Service Post-of-Duty location modeling system - user's
+    manual version 4.0
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.86-3471-1
+docidentifier:
+- content: NIST IR 86-3471pt1
+  type: NIST
+  primary: true
+- content: NIST.IR.86-3471-1
+  type: DOI
+date:
+- type: issued
+  at: '1988'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Domich, P. D. (Paul D.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n86085927
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jackson, Richard Henry Frymuth.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n86822535
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McClain, Marjorie A.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88098711
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 86-3471-1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

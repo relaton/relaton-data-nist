@@ -1,14 +1,12 @@
 # frozen_string_literal: true
 
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-git 'https://github.com/relaton/relaton', branch: 'main',
-    glob: 'gems/{relaton-nist,relaton-bib,relaton-core,relaton-index,relaton-logger}/*.gemspec' do
-  gem 'relaton-nist'
-  gem 'relaton-bib'
-  gem 'relaton-core'
-  gem 'relaton-index'
-  gem 'relaton-logger'
-end
+# relaton is now a single unpublished gem in the relaton/relaton monorepo. Pull
+# it from main (HTTPS so the crawler GH action can clone the public repo
+# anonymously, without an SSH key).
+gem "relaton", git: "https://github.com/relaton/relaton.git", branch: "main"
 
-gem 'pubid', github: 'metanorma/pubid', branch: 'rt-new-lutaml-model'
+# pubid 2.x is unpublished; track the branch carrying the lean NIST to_hash/from_hash
+# for the index-v2 generation.
+gem "pubid", git: "https://github.com/metanorma/pubid.git", branch: "rt-new-lutaml-model"

@@ -1,0 +1,70 @@
+---
+id: NISTGCR24055
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: InSAR analysis over the eastern coastline of Florida
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.GCR.24-055
+docidentifier:
+- content: NIST GCR 24-055
+  type: NIST
+  primary: true
+- content: NIST.GCR.24-055
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: TRE Altamira, Inc.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+abstract:
+- language: en
+  script: Latn
+  content: The National Institute of Standards and Technology (NIST) contracted TRE
+    ALTAMIRA (TREA) for a historical Interferometric Synthetic Aperture Radar (InSAR)
+    analysis to produce surface displacement measurements over a wide Area Of Interest
+    (AOI) of approximately 709.6 square miles (1,838 km2) along the eastern coastline
+    of Florida. The main scope of the study was to identify potential regional displacement
+    trends affecting the area. TREA processed historical Sentinel-1 (SNT) imagery
+    available over the AOI up to the end of January 2023, using its proprietary SqueeSAR®
+    algorithm. Transects specifically required by NIST were also generated and attached
+    to this document in Appendix 1. The current document constitutes the final Technical
+    Report and includes a detailed description of the imagery (Section 2), an introduction
+    to InSAR technology (Section 3), an overview of the SqueeSAR results obtained
+    (Section 4), and the findings of the data analysis and interpretation (Section
+    5), which aimed to characterize and quantify observed trends in ground surface
+    displacement across the AOI. The analysis and interpretation of the InSAR results
+    was performed in collaboration with Exponent Failure Analysis (EX). This effort
+    included “ground truthing” of the InSAR time series, identification of potential
+    sources of error, and the documentation and evaluation of observed spatial and
+    temporal data trends in the context of geological, hydrological, and anthropogenic
+    conditions (primarily construction related).
+series:
+- title:
+  - content: NIST GCR
+  number: 24-055
+- title:
+  - content: NIST GCR; NIST grant-contract report; NIST grant contract report
+  number: 24-055
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

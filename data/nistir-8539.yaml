@@ -1,0 +1,72 @@
+---
+id: NISTIR8539
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Security property verification by transition model
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8539
+docidentifier:
+- content: NIST IR 8539
+  type: NIST
+  primary: true
+- content: NIST.IR.8539
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hu, Vincent C.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-1646-0584"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Verifying the security properties of access control policies is a complex
+    and critical task. The policies and their implementation often do not explicitly
+    express their underlying semantics, which may be implicitly embedded in the logic
+    flows of policy rules, especially when policies are combined. Instead of evaluating
+    and analyzing access control policies solely at the mechanism level, formal transition
+    models are used to describe these policies and verify the system’s security properties.
+    This approach ensures that access control mechanisms can be designed to meet security
+    requirements. This document explains how to apply model-checking techniques to
+    verify security properties in transition models of access control policies. It
+    provides a brief introduction to the fundamentals of model checking and demonstrates
+    how access control policies are converted into automata from their transition
+    models. The document then focuses on discussing property specifications in terms
+    of linear temporal logic (LTL) and computation tree logic (CTL) languages with
+    comparisons between the two. Finally, the verification process and available tools
+    are described and compared.
+series:
+- title:
+  - content: NISTIR
+  number: '8539'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8539'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

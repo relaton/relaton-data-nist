@@ -1,0 +1,83 @@
+---
+id: NISTIR8349
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Methodology for characterizing network behavior of internet of things devices
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8349
+docidentifier:
+- content: NIST IR 8349
+  type: NIST
+  primary: true
+- content: NIST.IR.8349
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Souppaya, Murugiah
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8055-8527"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Klosterman, Joshua
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-0026-5522"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barker, William
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4113-8861"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: This report describes an approach to capturing and documenting the network
+    communication behavior of Internet of Things (IoT) devices. From this information,
+    manufacturers, network administrators, and others can create and use files based
+    on the Manufacturer Usage Description (MUD) specification to manage access to
+    and from those IoT devices. The report also describes the current state of implementation
+    of the approach and proposals for future development.
+series:
+- title:
+  - content: NISTIR
+  number: '8349'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8349'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

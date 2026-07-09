@@ -1,0 +1,84 @@
+---
+id: NISTSP1301spa
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: NIST cybersecurity framework 2.0
+  type: title-main
+- language: en
+  script: Latn
+  content: quick-start guide for creating and using organizational profiles (Spanish
+    translation)
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST cybersecurity framework 2.0 - quick-start guide for creating and using
+    organizational profiles (Spanish translation)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1301.spa
+docidentifier:
+- content: NIST SP 1301-s pa
+  type: NIST
+  primary: true
+- content: NIST.SP.1301.spa
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Quinn, Stephen.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1436-684X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, Karen.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-6334-9486"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Computer Science Division.
+abstract:
+- language: en
+  script: Latn
+  content: The CSF 2.0 represents a suite of resources (documents and applications)
+    that can be used individually, together, or in combination over time as cybersecurity
+    needs change and capabilities evolve. NIST’s materials are designed to reach all
+    audiences and to span across industries and organization types—and this new set
+    of Quick Start Guides focus on popular ways ‘how’ the CSF can be implemented for
+    the goal of implementing and accessing security solutions quickly. This Quick
+    Start Guide covers the creation and use of CSF Organizational Profiles.
+series:
+- title:
+  - content: NIST special publication
+  number: 1301 spa
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1301 spa
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

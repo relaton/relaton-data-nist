@@ -1,0 +1,151 @@
+---
+id: NISTSP80063A4
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Digital identity guidelines
+  type: title-main
+- language: en
+  script: Latn
+  content: identity proofing and enrollment
+  type: title-part
+- language: en
+  script: Latn
+  content: Digital identity guidelines - identity proofing and enrollment
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-63A-4
+docidentifier:
+- content: NIST SP 800-63A-4
+  type: NIST
+  primary: true
+- content: NIST.SP.800-63A-4
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Abruzzi, Christine.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-8904-930X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Choong, Yee-Yin.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3889-6047"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fenton, James L.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-2344-4291"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Galluzzo, Ryan.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-0304-4239"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: LaSalle, Connie.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-6031-7550"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lefkovitz, Naomi.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-3777-3106"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Regenscheid, Andrew.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3930-527X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Vachino, Maria.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3494-5307"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: First NIST author's lab name.
+abstract:
+- language: en
+  script: Latn
+  content: This guideline focuses on identity proofing and enrollment for use in digital
+    authentication. During the process of identity proofing, an applicant provides
+    evidence to a credential service provider (CSP) reliably identifying themselves,
+    thereby allowing the CSP to assert that identification at a useful identity assurance
+    level. This document defines technical requirements for each of three identity
+    assurance levels. The guidelines are not intended to constrain the development
+    or use of standards outside of this purpose. This publication supersedes NIST
+    Special Publication (SP) 800-63A.
+relation:
+- type: updates
+  bibitem:
+    formattedref:
+      content: NIST SP 800-63A
+    docidentifier:
+    - content: NIST SP 800-63A
+      type: NIST
+series:
+- title:
+  - content: NIST special publication
+  number: 800-63A-4
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-63A-4
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

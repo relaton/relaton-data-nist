@@ -5,8 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Guia para os requisitos de conformidade de produtos cosmeticos dos estados
-    unidos
+  content: Guia para os Requisitos de Conformidade de Produtos Cosméticos dos Estados
+    Unidos
   type: main
 source:
 - type: doi
@@ -27,13 +27,6 @@ contributor:
     name:
       completename:
         language: en
-        content: Benson, Lisa M.
-- role:
-  - type: author
-  person:
-    name:
-      completename:
-        language: en
         content: Reczek, Karen K.
 - role:
   - type: publisher
@@ -48,6 +41,14 @@ abstract:
   script: Latn
   content: This is a Portuguese translation of the cosmetics guide that addresses
     the compliance requirements for basic cosmetics and soap.
+relation:
+- type: editionOf
+  bibitem:
+    formattedref:
+      content: NIST IR 8178
+    docidentifier:
+    - content: NIST IR 8178
+      type: NIST
 series:
 - title:
   - content: NISTIR; NIST IR; NIST interagency report; NIST internal report

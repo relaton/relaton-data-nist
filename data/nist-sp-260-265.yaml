@@ -1,0 +1,145 @@
+---
+id: NISTSP260265
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Microbial whole cell characterizations
+  type: title-main
+- language: en
+  script: Latn
+  content: in support of the NIST rapid microbial testing methods consortium – reference
+    materials working group
+  type: title-part
+- language: en
+  script: Latn
+  content: Microbial whole cell characterizations - in support of the NIST rapid microbial
+    testing methods consortium – reference materials working group
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-265
+docidentifier:
+- content: NIST SP 260-265
+  type: NIST
+  primary: true
+- content: NIST.SP.260-265
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Da Silva, Sandra
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7121-7544"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dootz, Jennifer
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dunkers, Joy
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-9833-7650"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hunter, Monique
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0005-5490-2557"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Servetas, Stephanie
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4924-4511"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lin, Nancy J.
+    identifier:
+    - type: uri
+      content: "(orcid) 0000-0002-6980-3288"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Materials Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Validation of rapid sterility testing technologies is critical for their
+    implementation in supporting safety of cell and gene therapy products. However,
+    many rapid sterility testing methods rely on newer measurands versus traditional
+    growth-based methods, and no ground-truth, fit-forpurpose reference materials
+    currently exist for rapid methods, especially molecular methods based on nucleic
+    acid measurements. Microbial cell count and genome copy count are key properties
+    that can support the adoption of molecular methods but are challenging to quantify.
+    In the feasibility studies described herein, NIST performed multiple characterizations
+    of commercially available microbial cell materials commonly used for qualification
+    and validation of sterility testing to identify potential paths forward for additional
+    certified values on these materials. Samples consisted of viable, single-strain
+    microbial reference materials certified by the manufacturer for number of colony-forming
+    units (CFU). NIST performed cell count and characterization experiments using
+    CFU (culturable cells), Coulter counting (total cells), fluorescence flow cytometry
+    (total cells, total genome copies), and impedance flow cytometry(total cells)
+    methods. Only materials with relatively high cell concentrations (cell number
+    > 105per mL) were found to be suitable for the methods performed herein, and acellular
+    material varied across products and sometimes interfered with measurements. It
+    was concluded that factors including acellular material, cell aggregation, and
+    dead cells contributed to discrepancies among CFU counts, total cell counts, and
+    genome copy counts, likely stemming from both strain-specific cell characteristics
+    and manufacturer-specific processes. Based on these results, a draft roadmap on
+    optimizing characterization methods for a given material was developed to assist
+    stakeholders interested in assigning total cell count and genome copy count to
+    microbial cell reference materials. The results and lessons learned were shared
+    with the Working Group 1 – Reference Materials of the NIST Rapid Microbial Testing
+    Methods (RMTM) Consortium to support understanding of challenges and opportunities
+    related to adding new certified values to existing reference materials. Experimental
+    details and a results summary are provided here to help inform all RMTM stakeholders
+    developing or using microbial cell reference materials for molecular rapid microbial
+    testing methods.
+series:
+- title:
+  - content: NIST special publication
+  number: 260-265
+- title:
+  - content: NIST special publication
+  number: 260-265
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,113 @@
+---
+id: NISTSP260258
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Certification of Standard Reference Material 927g bovine serum albumin
+    (7 % solution)(total protein standard)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-258
+docidentifier:
+- content: NIST SP 260-258
+  type: NIST
+  primary: true
+- content: NIST.SP.260-258
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lowenthal, Mark.
+    identifier:
+    - type: uri
+      content: "(orcid) 0000-0001-5795-8824"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Green, Ashley Beasley.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8430-6757"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bunk, David.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0007-2187-4224"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kilpatrick, Lisa.
+    identifier:
+    - type: uri
+      content: "(orcid0000-0002-8762-5657"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yen, James.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-5242-7629"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kilpatrick, Eric.
+    identifier:
+    - type: uri
+      content: "(orcid) 0000-0002-6145-2145"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Standard Reference Material (SRM) 927g is intended for use in the standardization
+    of procedures employed in clinical analyses for total serum protein, for critical
+    evaluation of daily working standards used in these procedures, and as a reference
+    standard for assays of total protein by colorimetric methods. A unit of SRM 927g
+    consists of 10 ampoules, each containing approximately 2.2 mL of solution.
+series:
+- title:
+  - content: NIST special publication
+  number: 260-258
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 260-258
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

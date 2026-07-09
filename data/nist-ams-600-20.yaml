@@ -1,0 +1,105 @@
+---
+id: NISTAMS60020
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Analysis of the manufacturing USA occupation and competency framework
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.600-20
+docidentifier:
+- content: NIST AMS 600-20
+  type: NIST
+  primary: true
+- content: NIST.AMS.600-20
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Conrad, Brad
+    identifier:
+    - type: uri
+      content: "(orcid) 0000-0001-5192-2441"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stephens, Amelia
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-6356-4546"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bell, Aaron
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Forshey, Jeremiah
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Foy, Robert
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Smith-Schoettker, Ashley
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Office of Advanced Manufacturing .
+abstract:
+- language: en
+  script: Latn
+  content: This analysis describes the most common entry-level occupations in advanced
+    manufacturing across the technology areas associated with the Manufacturing USA
+    network through 2030. This review identifies 132 occupations connected to 235
+    KSAs (knowledge, skills, and abilities) that workers need, as of 2025 and into
+    the future, to work with cutting-edge manufacturing technologies across technology
+    areas (biomanufacturing, digital/automation, electronics, energy/processes, materials).
+    This report uses data collected in 2025 to propose organizing the identified KSAs
+    into 13 competencies and 68 sub-competencies as an extension of existing competency
+    models. The objective of this framework is to provide a common language for and
+    improve collaboration between industry, training providers, and workers.
+series:
+- title:
+  - content: NIST advanced manufacturing series
+  number: 600-20
+- title:
+  - content: NIST advanced manufacturing series
+  number: 600-20
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

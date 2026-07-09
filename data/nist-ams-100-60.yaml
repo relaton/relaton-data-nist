@@ -1,0 +1,82 @@
+---
+id: NISTAMS10060
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: A reference activity model for additive manufacturing
+  type: title-main
+- language: en
+  script: Latn
+  content: powder bed fusion
+  type: title-part
+- language: en
+  script: Latn
+  content: A reference activity model for additive manufacturing - powder bed fusion
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-60
+docidentifier:
+- content: NIST AMS 100-60
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-60
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Witherell, Paul W.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-6375-9482"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Additive manufacturing is a complex and inherently digitally orientated
+    manufacturing technology. This technology has become popular as it offers certain
+    benefits when compared with traditional manufacturing technologies such as the
+    ability to produce unique and complex geometries, reduced turnaround time from
+    design to final product, reduced material waste, and the ability to process a
+    wide range of materials. There are however challenges to the qualification and
+    industrialization on this technology. These include the potential variability
+    in both inputs and outputs, control of the many variables and process parameters,
+    and the lack of process understanding, guidance material, and the steep learning
+    curve for new users. This report proposes a reference activity model that defines
+    generic activities and data items across the additive manufacturing workflow,
+    from design through to part evaluation. The reference activity model is modeled
+    in accordance with the IDEF0 language. Data items are defined and mapped against
+    industry standards to provide users with the required information to develop their
+    specific production processes and controls. This model aims to improve additive
+    manufacturing product and production data exchange and detail a reference architecture
+    for the development of digital twins and threads.
+series:
+- title:
+  - content: NIST advanced manufacturing series
+  number: 100-60
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 100-60
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

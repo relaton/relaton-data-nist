@@ -1,0 +1,94 @@
+---
+id: NISTIR8259r1
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Foundational cybersecurity activity for IoT product manufacturers
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8259r1
+docidentifier:
+- content: NIST IR 8259r1
+  type: NIST
+  primary: true
+- content: NIST.IR.8259r1
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Megas, Katerina.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-2815-5448"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cuthill, Barbara.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-2588-6165"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Marron, Jeffrey.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7871-683X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brad, Hoehn.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Internet of Things (IoT) products often lack product cybersecurity capabilities
+    their customers—organizations and individuals—can use to help mitigate their cybersecurity
+    risks. Manufacturers can help their customers by improving the securability of
+    their IoT products by providing necessary cybersecurity functionality and by providing
+    customers with the cybersecurity-related information they need. This publication
+    describes recommended activities related to cybersecurity that manufacturers should
+    consider performing before their IoT products are sold to customers. These foundational
+    cybersecurity activities can help manufacturers lessen the cybersecurity-related
+    efforts needed by customers, which in turn can reduce the prevalence and severity
+    of compromises.
+series:
+- title:
+  - content: NISTIR
+  number: 8259r1
+- title:
+  - content: NISTIR
+  number: 8259r1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

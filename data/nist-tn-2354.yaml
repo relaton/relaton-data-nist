@@ -1,0 +1,94 @@
+---
+id: NISTTN2354
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Polycyclic aromatic hydrocarbons and select inorganics in smoke from various
+    WUI fire fuels
+  type: title-main
+- language: en
+  script: Latn
+  content: vehicles, trees, and construction materials
+  type: title-part
+- language: en
+  script: Latn
+  content: Polycyclic aromatic hydrocarbons and select inorganics in smoke from various
+    WUI fire fuels - vehicles, trees, and construction materials
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2354
+docidentifier:
+- content: NIST TN 2354
+  type: NIST
+  primary: true
+- content: NIST.TN.2354
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Falkenstein-Smith, Ryan
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-7039-5835"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cleary, Thomas
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-8785-2035"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: 'Wildland-Urban Interface (WUI) fire smoke is complex since it contains
+    anthropogenic and biogenic fuel sources, and emissions from WUI fire are not yet
+    well characterized. We have conducted a comprehensive study to characterize polycyclic
+    aromatic hydrocarbon (PAH) emission yields from select WUI fire fuels: internal
+    combustion vehicles, trees, and construction materials in a stacked array to mimic
+    a structure. The mixed fuel cribs (about 30 cm on each side, constructed in a
+    cube) consisted of sticks of wood, gypsum board, oriented strand board (OSB),
+    acrylonitrile butadiene styrene (ABS), polyvinyl chloride (PVC), and polyurethane
+    (PU). These WUI fire fuels were burned under oxygen consumption calorimeters to
+    measure mass loss, heat release rate, and other combustion characteristic measurements
+    throughout each test. The calorimeter’s exhaust hood captured the fire plume,
+    and smoke samples were continuously collected from the exhaust duct at a well-mixed
+    location for the test duration. Sampling pumps pulled smoke samples from the duct
+    through 47.0 mm quartz filters at 5 SLPM to 45 SLPM at nominally isokinetic sampling
+    conditions. Particulate matter (PM) collected on filters was extracted with dichloromethane
+    (DCM) and analyzed by gas chromatography-mass spectrometry (GC-MS) for PAHs. The
+    PM samples were also analyzed on a combustion ion chromatography (CIC) for select
+    halogens and phosphorus analyses. Total PAH yields (per combusted mass loss) are
+    comparable among the three WUI fire fuels, with differences not being statistically
+    significant. However, the composition of the particulates differed by fuel sources.'
+series:
+- title:
+  - content: NIST technical note
+  number: '2354'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

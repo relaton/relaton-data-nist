@@ -1,0 +1,232 @@
+---
+id: NISTIR8545
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Status report on the fourth round of the NIST post-quantum cryptography
+    standardization process
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8545
+docidentifier:
+- content: NIST IR 8545
+  type: NIST
+  primary: true
+- content: NIST.IR.8545
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bros, Maxime.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-7838-2529"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ciadoux, Pierre.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0001-2272-681X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cooper, David.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0001-2410-5830"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dang, Quynh.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0005-9801-6805"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dang, Thinh.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-9705-0925"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kelsey, John.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3427-1744"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lichtinger, Jacob.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-2407-5309"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Liu, Yi-Kai.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-7458-4721"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Miller, Carl.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1917-1531"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Moody, Dustin.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4868-6684"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Peralta, Rene.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-2318-7563"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Perlner, Ray.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-8793-2238"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Robinson, Angela.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-1209-0379"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Silberg, Hamilton.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0004-4178-8954"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Smith-Tone, Daniel.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7995-8734"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Waller, Noah.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-6979-9725"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'The National Institute of Standards and Technology is selecting public-key
+    cryptographic algorithms through a public, competition-like process. The new public-key
+    cryptography standards will specify additional digital signatures, public-key
+    encryption, and key-establishment algorithms to supplement Federal Information
+    Processing Standard (FIPS) 186-5, Digital Signature Standard (DSS), as well as
+    NIST Special Publication (SP) 800-56A Revision 3, Recommendation for Pair-Wise
+    Key-Establishment Schemes Using Discrete Logarithm Cryptography, and SP 800-56B
+    Revision 2, Recommendation for Pair-Wise Key Establishment Using Integer Factorization
+    Cryptography. It is intended that these algorithms will be capable of protecting
+    sensitive information well into the foreseeable future, including after the advent
+    of quantum computers. After three rounds of evaluation and analysis, NIST announced
+    the selection of the first algorithms to be standardized \cite {NISTIR8413}. The
+    public-key encapsulation mechanism (KEM) selected for standardization was CRYSTALS-Kyber
+    (ML-KEM). The digital signatures selected were CRYSTALS-Di lithium (ML-DSA), Falcon
+    (FN-DSA), and SPHINCS+ (SLH-DSA). In August 2024, NIST published the first three
+    post-quantum cryptography standards based on these algorithms \cite {FIPS203,
+    FIPS204, FIPS205}. Four candidate algorithms for key establishment have continued
+    to be studied in a fourth round of analysis: BIKE, Classic McEliece, HQC, and
+    SIKE. This report describes the evaluation and selection process of these fourth-round
+    candidates based on public feedback and internal review. The report summarizes
+    each of the candidate algorithms and identifies those selected for standardization.
+    The only key-establishment algorithm that will be standardized is HQC. NIST will
+    develop a standard based on HQC to augment and diversify its key-establishment
+    portfolio.'
+series:
+- title:
+  - content: NISTIR
+  number: '8545'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8545'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

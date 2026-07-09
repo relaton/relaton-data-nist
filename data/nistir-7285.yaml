@@ -5,7 +5,7 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Computer Security Division 2005 annual report
+  content: Computer security division, 2005 annual report
   type: main
 source:
 - type: doi
@@ -21,13 +21,12 @@ date:
   at: '2006'
 contributor:
 - role:
-  - type: publisher
-  organization:
+  - type: author
+  person:
     name:
-    - content: National Institute of Standards and Technology (U.S.)
-    identifier:
-    - type: uri
-      content: https://id.loc.gov/authorities/names/n88112126
+      completename:
+        language: en
+        content: Scholl, Matthew.
 - role:
   - type: publisher
   organization:

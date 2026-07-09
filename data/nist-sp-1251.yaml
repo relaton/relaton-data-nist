@@ -21,20 +21,21 @@ date:
   at: '2020'
 contributor:
 - role:
-  - type: author
-  person:
+  - type: publisher
+  organization:
     name:
-      completename:
-        language: en
-        content: NIST Food Safety Working Group.
+    - content: NIST Food Safety Working Group.
 - role:
   - type: publisher
   organization:
     name:
     - content: Material Measurement Laboratory (U.S.)
-    identifier:
-    - type: uri
-      content: https://id.loc.gov/authorities/names/no2012096740
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory
 abstract:
 - language: en
   script: Latn

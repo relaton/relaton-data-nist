@@ -1,0 +1,115 @@
+---
+id: NISTTN2327r1
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: The burning characteristics of 3 m to 6 m dry Douglas-Fir trees
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2327r1
+docidentifier:
+- content: NIST TN 2327r1
+  type: NIST
+  primary: true
+- content: NIST.TN.2327r1
+  type: DOI
+date:
+- type: issued
+  at: '2009'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Di Cristina Torres , Giovanni.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-0799-3418"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mueller, Eric.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-0838-6820"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bundy, Matthew.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-1138-0307"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chakalis, Anthony.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0004-4331-7101"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fernandez, Marco.
+    identifier:
+    - type: uri
+      content: "(orcid) 0000-0002-4227-8866"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hamins, Anthony.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-7531-4256"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This report summarizes the results of NIST research on the use of elevators
+    during fire emergencies conducted as part of a cooperative effort funded in part
+    by the U.S. General Services Administration (GSA).
+relation:
+- type: updates
+  bibitem:
+    formattedref:
+      content: NIST TN 2327
+    docidentifier:
+    - content: NIST TN 2327
+      type: NIST
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: 2327r1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,62 @@
+---
+id: NISTIR8459
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Report on the block cipher modes of operation in the NIST SP 800-38 series
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8459
+docidentifier:
+- content: NIST IR 8459
+  type: NIST
+  primary: true
+- content: NIST.IR.8459
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dworkin, Morris.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-2745-9906"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This report focuses on the NIST-recommended block cipher modes of operation
+    specified in NIST Special Publications (SP) 800-38A through 800-38F. The goal
+    is to provide a concise survey of relevant research results about the algorithms
+    and their implementations. Based on these findings, the report concludes with
+    a set of recommendations to improve the corresponding standards.
+series:
+- title:
+  - content: NISTIR
+  number: '8459'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8459'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

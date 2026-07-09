@@ -1,0 +1,93 @@
+---
+id: NISTSP260257
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Certification of 3180 series Standard Reference Materials® anions in solution
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-257
+docidentifier:
+- content: NIST SP 260-257
+  type: NIST
+  primary: true
+- content: NIST.SP.260-257
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Vetter, Thomas W.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1442-2530"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Molloy, John L.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0003-8901-5494"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Possolo, Antonio
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8691-4190"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Materials Measurement Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: 'The 3180 series Standard Reference Materials (SRMs) are single anion solutions
+    intended for use as primary calibration standards for the quantitative determination
+    of a single anion and are a key link in the traceability chain for analysis measurements
+    of those anions made worldwide. The mass fraction of the anions in these materials
+    are traceable to the International System of Units (SI). The 3180 series SRMs
+    are calibration standards gravimetrically prepared from carefully assayed, high-purity
+    materials dissolved in a water-based matrix with nominal mass fractions of 1 mg/g.
+    The certified values and expanded uncertainties of these SRMs are determined by
+    combining a gravimetric preparation value and a carefully measured ion chromatography
+    instrumental value, taking their associated uncertainties into account. Over the
+    course of its shelf life, an anion solution standard undergoes stability testing
+    to monitor the continued validity of its certified value. Currently, NIST offers
+    seven anion standard solutions: bromide, chloride, fluoride, iodide, nitrate,
+    phosphate, and sulfate. New lots of these SRMs are produced continuously to meet
+    demand and certificates of analysis are issued for each new lot to accurately
+    reflect the anion mass fraction and associated uncertainty.'
+series:
+- title:
+  - content: NIST special publication
+  number: 260-257
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 260-257
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

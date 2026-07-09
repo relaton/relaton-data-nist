@@ -1,0 +1,87 @@
+---
+id: NISTSP800126r4
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Technical specification for the security content automation protocol (SCAP)
+  type: title-main
+- language: en
+  script: Latn
+  content: SCAP Version 1.4
+  type: title-part
+- language: en
+  script: Latn
+  content: Technical specification for the security content automation protocol (SCAP)
+    - SCAP Version 1.4
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-126r4
+docidentifier:
+- content: NIST SP 800-126r4
+  type: NIST
+  primary: true
+- content: NIST.SP.800-126r4
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Quinn, Stephen.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1436-684X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Vander Pol, Jack.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Harris, Daniel.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The Security Content Automation Protocol (SCAP) is a suite of specifications
+    that standardize the format and nomenclature by which software flaw and security
+    configuration information is communicated, both to machines and humans. This publication,
+    along with its annex (NIST Special Publication 800-126Ar4) and a set of schemas,
+    collectively define the technical composition of SCAP version 1.4 in terms of
+    its component specifications, their interrelationships and interoperation, and
+    the requirements for SCAP content.
+series:
+- title:
+  - content: NIST special publication
+  number: 800-126r4
+- title:
+  - content: NIST special publication
+  number: 800-126r4
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

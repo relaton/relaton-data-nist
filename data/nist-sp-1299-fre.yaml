@@ -1,0 +1,116 @@
+---
+id: NISTSP1299fre
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: NIST cybersecurity framework 2.0
+  type: title-main
+- language: en
+  script: Latn
+  content: resource & overview guide (Spanish translation)
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST cybersecurity framework 2.0 - resource & overview guide (Spanish translation)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1299.fre
+docidentifier:
+- content: NIST SP 1299-fre
+  type: NIST
+  primary: true
+- content: NIST.SP.1299.fre
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Quinn, Stephen.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1436-684X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pascoe, Cherilyn.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0009-6216-4864"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Marron, Jeffrey.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7871-683X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mahn, Amy.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Topper, Daniel.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-2612-7547"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Computer Science Division.
+abstract:
+- language: en
+  script: Latn
+  content: The NIST Cybersecurity Framework (CSF) 2.0 can help organizations manage
+    and reduce their cybersecurity risks as they start or improve their cybersecurity
+    program. The CSF outlines specific outcomes that organizations can achieve to
+    address risk. Other NIST resources help explain specific actions that can be taken
+    to achieve each outcome. This guide is a supplement to the NIST CSF and is not
+    intended to replace it.
+relation:
+- type: editionOf
+  bibitem:
+    formattedref:
+      content: NIST SP 1299
+    docidentifier:
+    - content: NIST SP 1299
+      type: NIST
+series:
+- title:
+  - content: NIST special publication
+  number: 1299 fre
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1299 fre
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

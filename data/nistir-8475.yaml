@@ -1,0 +1,66 @@
+---
+id: NISTIR8475
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: A security perspective on the Web3 paradigm
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8475
+docidentifier:
+- content: NIST IR 8475
+  type: NIST
+  primary: true
+- content: NIST.IR.8475
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mell, Peter.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-2938-897X"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Web3 is a proposed vision for the future of the internet that is restructured
+    to be more user-centric with an emphasis on decentralized data. Users would own
+    and manage their personal data, and systems would be decentralized and distributed.
+    Digital tokens would be used to represent assets, and web-native currencies (e.g.,
+    cryptocurrencies) would be used for payments. This document provides a high-level
+    technical overview of Web3 and discusses proposed technologies to implement it.
+    The integration of these developing technologies may present novel security challenges,
+    so this paper presents security considerations that should be addressed when considering
+    Web3 technology and adoption.
+series:
+- title:
+  - content: NISTIR
+  number: '8475'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8475'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,112 @@
+---
+id: NISTTN2359
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Citizen’s Broadband Radio Service (CBRS) Sharing Ecosystem Assessment (SEA)
+    sensor data manual
+  type: title-main
+- language: en
+  script: Latn
+  content: a guide to using and understanding sensor data produced by the NASCTN CBRS
+    SEA program
+  type: title-part
+- language: en
+  script: Latn
+  content: Citizen’s Broadband Radio Service (CBRS) Sharing Ecosystem Assessment (SEA)
+    sensor data manual - a guide to using and understanding sensor data produced by
+    the NASCTN CBRS SEA program
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2359
+docidentifier:
+- content: NIST TN 2359
+  type: NIST
+  primary: true
+- content: NIST.TN.2359
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Romaniello, Anthony W
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-8437-6504"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kuester, Daniel G.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-0711-5700"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schumann, Todd R.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0000-6127-9357"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wunderlich, Adam
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8463-9156"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Institute for Telecommunication Sciences, National Telecommunications
+        and Information.
+abstract:
+- language: en
+  script: Latn
+  content: 'The purpose of the National Advanced Spectrum and Communications Test
+    Network (NASCTN) Citizens Broadband Radio Service (CBRS) Sharing Ecosystem Assessment
+    (SEA) project is to provide data-driven insight into the CBRS sharing ecosystem’s
+    effectiveness between commercial and Department of Defense (DoD) incumbent systems,
+    and to track changes in the spectrum environment over time. CBRS is the “first
+    of a kind” nationwide shared spectrum ecosystem in the 3550-3700 MHz band. The
+    implementation of this project included the installation of sensor systems at
+    selected sites on the east and the west coast of the United States, along with
+    a control and prototyping system in Boulder, Colorado. This data manual provides:
+    1. Introduction: A brief description of the NASCTN CBRS SEA program, installed
+    sensor sites and scope. 2. Data Repository: A description of the the active data
+    sharing program. 3. Data Structures and Manipulation Code: An in-depth description
+    of the data structure and code used to interact with the data. 4. Sensor Data
+    and Signal Processing: A discussion of the signal processing of collected in-phase
+    - quadrature data that results in the published data product.'
+series:
+- title:
+  - content: NIST technical note
+  number: '2359'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

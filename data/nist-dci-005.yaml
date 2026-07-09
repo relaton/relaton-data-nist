@@ -1,0 +1,110 @@
+---
+id: NISTDCI005
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Practical guide for collecting feedback from NIST SRM & RM users
+  type: title-main
+- language: en
+  script: Latn
+  content: survey development process
+  type: title-part
+- language: en
+  script: Latn
+  content: Practical guide for collecting feedback from NIST SRM & RM users - survey
+    development process
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.DCI.005
+docidentifier:
+- content: NIST DCI 005
+  type: NIST
+  primary: true
+- content: NIST.DCI.005
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Camara, Johanna.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-9415-8452"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schock, Tracey.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-1808-7816"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Davis, Clay.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-9076-2620"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: One way NIST ensures that measurements are accurate and compatible is by
+    certifying and providing over 1 300 Standard Reference Materials® (SRM®) with
+    well-characterized composition, properties, or both. Customers use these materials
+    to calibrate instruments, verify specific measurements, and develop new measurement
+    methods. However, sales data alone is insufficient to determine when to update
+    or restock these materials. Collecting customer data systematically can help make
+    informed decisions and reduce waste and missed opportunities. In 2023, NIST SRM
+    1950, Metabolites in Frozen Human Plasma, had a supply remaining for approximately
+    4 years. A decision was needed on whether to renew SRM 1950 and/or develop new
+    reference materials in the coming years–a process that typically takes 5 to 7
+    years. The Information Technology Laboratory (ITL) Information Access Division
+    (IAD) and the Material Measurement Laboratory (MML) Chemical Sciences Division
+    (CSD) collaborated to conduct an online customer and stakeholder survey following
+    established and rigorous methodology and process. The survey development process
+    and the artifacts produced can serve as a model with templates for future measurement
+    services projects to gather market research data and inform planning and development
+    in a repeatable and consistent way. This document provides a practical, step-by-step
+    guide to the survey development process for collecting feedback from NIST reference
+    materials users and customers. It aims to provide concise guidance, complete with
+    artifacts and templates, using the 2023 NIST SRM 1950 customer feedback survey
+    project to illustrate how to conduct a user feedback survey following an 8-step
+    survey development process. This practical guide outlines a process for developing
+    surveys incorporating stakeholder feedback into decision-making for new measurement
+    service projects, which can be reused or adapted.
+series:
+- title:
+  - content: NIST data collection instruments and best practices
+  number: '005'
+- title:
+  - content: NIST data collection instruments and best practices; NIST DCI
+  number: '005'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

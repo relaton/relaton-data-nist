@@ -1,0 +1,122 @@
+---
+id: NISTFIPS203
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Module-lattice-based key-encapsulation mechanism standard
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.FIPS.203
+docidentifier:
+- content: NIST FIPS 203
+  type: NIST
+  primary: true
+- content: NIST.FIPS.203
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Alagic, Gorjan.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dang, Quynh.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0005-9801-6805"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Moody, Dustin.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4868-6684"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Robinson, Angela.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-1209-0379"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Silberg, Hamilton.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Smith-Tone, Daniel.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7995-8734"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+abstract:
+- language: en
+  script: Latn
+  content: A key-encapsulation mechanism (KEM) is a set of algorithms that, under
+    certain conditions, can be used by two parties to establish a shared secret key
+    over a public channel. A shared secret key that is securely established using
+    a KEM can then be used with symmetric-key cryptographic algorithms to perform
+    basic tasks in secure communications, such as encryption and authentication. This
+    standard specifies a key-encapsulation mechanism called ML-KEM. The security of
+    ML-KEM is related to the computational difficulty of the Module Learning with
+    Errors problem. At present,ML-KEM is believed to be secure, even against adversaries
+    who possess a quantum computer. This standard specifies three parameter sets for
+    ML-KEM. In order of increasing security strength and decreasing performance, these
+    are ML-KEM-512, ML-KEM-768, and ML-KEM-1024.
+series:
+- title:
+  - content: NIST federal information processing standards publication
+  number: '203'
+- title:
+  - content: NIST federal information processing standards publication; NIST FIPS
+  number: '203'
+place:
+- city: Washington
+  region:
+  - iso: D
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

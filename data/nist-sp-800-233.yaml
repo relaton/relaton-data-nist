@@ -1,0 +1,70 @@
+---
+id: NISTSP800233
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Service mesh proxy models for cloud-native applications
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-233
+docidentifier:
+- content: NIST SP 800-233
+  type: NIST
+  primary: true
+- content: NIST.SP.800-233
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Butcher, Zack.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Callaghan, James.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The service mesh has become the de facto application services infrastructure
+    for cloud-native applications. It enables the various runtime functions of an
+    application through proxies that form the data plane of the service mesh. Depending
+    on the distribution of the network layer functions and the granularity of association
+    of the proxies to individual services and computing nodes, different proxy models
+    or data plane architectures have emerged. This document describes a threat profile
+    for each of the data plane architectures with a detailed threat analysis to make
+    recommendations on their applicability for cloud-native applications with different
+    security risk profiles.
+series:
+- title:
+  - content: NIST special publication
+  number: 800-233
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-233
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

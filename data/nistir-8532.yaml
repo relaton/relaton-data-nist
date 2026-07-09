@@ -1,0 +1,139 @@
+---
+id: NISTIR8532
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Workshop on enhancing security of devices and components across the supply
+    chain
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8532
+docidentifier:
+- content: NIST IR 8532
+  type: NIST
+  primary: true
+- content: NIST.IR.8532
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kuhn, D. Richard.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-0050-1596"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schaffer, Kim.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-3073-2395"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Souppaya, Murugiah.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8055-8527"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stein, A.J.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1092-2642"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Waller, Noah.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-6979-9725"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hastings, Nelson.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-2444-6413"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ogata, Michael.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8457-2430"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barker, William C.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4113-8861"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: NIST hosted an in-person, all-day workshop on February 27, 2024, to discuss
+    existing and emerging cybersecurity threats and mitigation techniques for semiconductors
+    throughout their life cycle. The workshop obtained valuable feedback from industry,
+    academia, and government to inform NIST’s development of cybersecurity and supply
+    chain standards, guidance, and recommended practices. The discussion focused on
+    semiconductor development and highlighted cybersecurity measurements and metrics
+    that utilize reference data sets to facilitate the testing, attestation, certification,
+    verification, and validation of semiconductor components. It also emphasized the
+    use of automated cybersecurity tools and techniques to secure manufacturing environments
+    throughout the development life cycle. This report summarizes the content that
+    was presented and discussed at the workshop.
+series:
+- title:
+  - content: NISTIR
+  number: '8532'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8532'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,74 @@
+---
+id: NISTSP800228Upd1
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Guidelines for API protection for cloud-native systems
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-228-upd1
+docidentifier:
+- content: NIST SP 800-228/Upd1
+  type: NIST
+  primary: true
+- content: NIST.SP.800-228-upd1
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Butcher, Zack
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'Modern enterprise IT systems rely on a family of application programming
+    interfaces (APIs) for integration to support organizational business processes.
+    Hence, a secure deployment of APIs is critical for overall enterprise security.
+    This, in turn, requires the identification of risk factors or vulnerabilities
+    in various phases of the API life cycle and the development of controls or protection
+    measures. This document addresses the following aspects of achieving that goal:
+    (a) the identification and analysis of risk factors or vulnerabilities during
+    various activities of API development and runtime, (b) recommended basic and advanced
+    controls and protection measures during the pre-runtime and runtime stages of
+    APIs, and (c) an analysis of the advantages and disadvantages of various implementation
+    options for those controls to enable security practitioners to adopt an incremental,
+    risk-based approach to securing their APIs.'
+relation:
+- type: updates
+  bibitem:
+    formattedref:
+      content: NIST SP 800-228
+    docidentifier:
+    - content: NIST SP 800-228
+      type: NIST
+series:
+- title:
+  - content: NIST special publication
+  number: 800-228-upd1
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-228-upd1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

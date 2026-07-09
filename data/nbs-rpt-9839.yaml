@@ -1,0 +1,79 @@
+---
+id: NBSRPT9839
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Electromagnetic pulse signal classification and identification of nearby
+    sferics in the High Altitude Nuclear Detection Studies (HANDS) program
+  type: title-main
+- language: en
+  script: Latn
+  content: volume 2
+  type: title-part
+- language: en
+  script: Latn
+  content: Electromagnetic pulse signal classification and identification of nearby
+    sferics in the High Altitude Nuclear Detection Studies (HANDS) program - volume
+    2
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NBS.RPT.9839
+docidentifier:
+- content: NBS RPT 9839
+  type: NIST
+  primary: true
+- content: NBS.RPT.9839
+  type: DOI
+date:
+- type: issued
+  at: '1968'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gray, K. M.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+abstract:
+- language: en
+  script: Latn
+  content: Electromagnetic pulse signals from certain classes of nuclear events, in
+    terms of height of burst and distance, have features which afford a means of recognition.
+    Similar features are also observed in atmospherics, but these have a smaller normalized
+    source function amplitude. An experiment was conducted to investigate the feasibility
+    of measuring the distance to nearby sferics using azimuth and amplitude data observed
+    at two sites separated by a few kilometers. Knowledge of the distance to the source
+    and the observed amplitude would permit calculation of the normalized source function
+    amplitude which might be used as a discriminant. Data were also collected on the
+    frequency of simultaneous (within equipment and propagation delay) observation
+    at both sites, of signals exceeding 10 V/m amplitude and 10 V/m/µs rate of rise
+    which persisted for one microsecond or less. Transients from lightning would not
+    be expected to meet these criteria over propagation distances of more than a few
+    kilometers. The distance ranging experiment did not yield results which were within
+    acceptable limits in accuracy based on the locations and dispersion of fixes plotted
+    during a period of activity from a presumably isolated thunderstorm region whose
+    position was established by weather radar. Results from the spaced transient detectors
+    were favorable and this technique appears sufficiently promising to warrant further
+    investigation under the HANDS program.
+series:
+- title:
+  - content: NBS report
+  number: '9839'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

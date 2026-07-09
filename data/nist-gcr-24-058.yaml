@@ -1,0 +1,50 @@
+---
+id: NISTGCR24058
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Implementation guidance for common data formats
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.GCR.24-058
+docidentifier:
+- content: NIST GCR 24-058
+  type: NIST
+  primary: true
+- content: NIST.GCR.24-058
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+abstract:
+- language: en
+  script: Latn
+  content: This document discusses various topics related to the practical implementation
+    of the NIST Voting Common Data Formats. This includes materials on how the CDFs
+    are constructed, cross-referencing data inside and outside CDF instances, handling
+    of geopolitical geography and low-level processing.
+series:
+- title:
+  - content: NIST GCR
+  number: 24-058
+- title:
+  - content: NIST GCR; NIST grant-contract report; NIST grant contract report
+  number: 24-058
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

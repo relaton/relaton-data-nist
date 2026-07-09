@@ -1,0 +1,108 @@
+---
+id: NISTSP1299por
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: NIST Cybersecurity Framework 2.0
+  type: title-main
+- language: en
+  script: Latn
+  content: resource & overview guide (Portuguese translation)
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST Cybersecurity Framework 2.0 - resource & overview guide (Portuguese
+    translation)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1299.por
+docidentifier:
+- content: NIST SP 1299-p or
+  type: NIST
+  primary: true
+- content: NIST.SP.1299.por
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Quinn, Stephen.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1436-684X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pascoe, Cherilyn.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0009-6216-4864"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Marron, Jeffrey.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7871-683X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mahn, Amy.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Topper, Daniel.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-2612-7547"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Computer Science Division.
+relation:
+- type: editionOf
+  bibitem:
+    formattedref:
+      content: NIST SP 1299
+    docidentifier:
+    - content: NIST SP 1299
+      type: NIST
+series:
+- title:
+  - content: NIST special publication
+  number: 1299 por
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1299 por
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

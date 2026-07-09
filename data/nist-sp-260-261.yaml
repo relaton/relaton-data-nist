@@ -1,0 +1,83 @@
+---
+id: NISTSP260261
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Standard reference materials
+  type: title-main
+- language: en
+  script: Latn
+  content: SRM 1453a, expanded polystyrene board for thermal conductivity from 282
+    K to 314 K
+  type: title-part
+- language: en
+  script: Latn
+  content: Standard reference materials - SRM 1453a, expanded polystyrene board for
+    thermal conductivity from 282 K to 314 K
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-261
+docidentifier:
+- content: NIST SP 260-261
+  type: NIST
+  primary: true
+- content: NIST.SP.260-261
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pintar, Adam L.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-5021-2576"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: 'Thermal conductivity measurements at and near room temperature are presented
+    as the basis for certified values of thermal conductivity for SRM 1453a, Expanded
+    Polystyrene board. The measurements have been collected according to a split-plot
+    experiment design with two factors , bulk density, the whole-plot factor and temperature,
+    the split-plot factor using the NIST 1016 mm line-heat-source guarded-hot-plate
+    apparatus. The thermal conductivities of the SRM specimens were measured over
+    a range of bulk densities from 43 kg/m3 to 53 kg/m3 and mean temperatures from
+    282 K to 314 K. Uncertainties for the measurements, consistent in format with
+    current international guidelines, have been prepared. Statistical analyses of
+    the physical properties from the SRM are presented and include variations between
+    boards. Each unit of SRM 1453a is individually certified for bulk density, ρ,
+    and batch certified for thermal conductivity with the following equation: λ= -0.1238+2.9367×10^(-5)×ρ+1.3280×10^(-3)×Tm-3.9977×10^(-6)×Tm^2+4.3384×10^(-9)
+    ×Tm^3 where λ is the predicted thermal conductivity (W‧m-1‧K-1) and Tm is the
+    mean temperature (K) valid over the bulk density and temperature ranges of 43
+    kg/m3 to 53 kg/m3 and 282 K to 314 K, respectively. The expanded uncertainty for
+    λ from the above equation is 1.9 % with a coverage factor of approximately k=2.'
+series:
+- title:
+  - content: NIST special publication
+  number: 260-261
+- title:
+  - content: NIST special publication
+  number: 260-261
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

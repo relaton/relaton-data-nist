@@ -1,0 +1,86 @@
+---
+id: NISTIR8388Upd1
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Verifying executability of sysML behavior models using alloy analyzer
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8388-upd1
+docidentifier:
+- content: NIST IR 8388/Upd1
+  type: NIST
+  primary: true
+- content: NIST.IR.8388-upd1
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bock, Conrad
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0009-3172-120X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barbau, Raphael
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-0331-2929"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Communications Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: This report presents an approach to verifying executability of system behavior
+    models bytreating them as logical constraint problems solved using Alloy Analyzer,
+    a non-proprietarysoftware tool supporting a textual language for logical constraints
+    and underlying solvers.With behavior models interpreted as constraints on execution
+    order, Alloy can determinewhether the models are executable by attempting to find
+    executions that meet those constraints. The approach relies on a logical interpretation
+    of behavior modeling in the SystemsModeling Language (SysML) by Ontological Behavior
+    Modeling method that unifies SysMLbehavior modeling based on its classification
+    elements. This paper proposes translation between logical versions of SysML behavioral
+    models and logical constructs in Alloy. Finally,the approach is demonstrated by
+    translating and solving example SysML behavior models.
+relation:
+- type: updates
+  bibitem:
+    formattedref:
+      content: NIST IR 8388
+    docidentifier:
+    - content: NIST IR 8388
+      type: NIST
+series:
+- title:
+  - content: NISTIR
+  number: 8388-upd-1
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 8388-upd-1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

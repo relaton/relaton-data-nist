@@ -1,0 +1,78 @@
+---
+id: NISTTN2281
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Formulating, fitting and fusing fragility functions (F5)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2281
+docidentifier:
+- content: NIST TN 2281
+  type: NIST
+  primary: true
+- content: NIST.TN.2281
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sattar, Siamak.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1096-7015"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Fragility functions derived from nonlinear dynamic analysis are a central
+    ingredient in seismic performance assessment and risk analysis of structural systems.
+    This technical report revisits fragility functions from a unified perspective
+    that addresses their formulation, fitting, uncertainty propagation, and fusion
+    across multiple modeling assumptions. The report reviews a range of analytical
+    and semi-/non-parametric fitting strategies, including maximum likelihood, generalized
+    linear models, minimum-distance estimators, generalized additive models, and kernel-based
+    approaches. The report further examines how fragility estimates are affected by
+    key modeling decisions, including the definition of failure, the treatment of
+    limit states, the choice of intensity measure, and the incorporation of multiple
+    uncertainty sources. Particular emphasis is placed on the propagation of ground
+    motion record-to-record variability, material randomness, and modeling uncertainty
+    using a benchmark reinforced concrete bridge-column case study. The results show
+    that, for the benchmark problem considered herein, modeling uncertainty produces
+    substantially larger changes in fragility estimates than material uncertainty,
+    especially at higher limit-state levels. Beyond the derivation of individual fragility
+    functions, the report evaluates several approaches for combining multiple candidate
+    fragility functions, including decision-trees election, uniform and non-uniform
+    weighting, mixed-EDP strategies, and variance–bias based fusion. Additional topics
+    such as intensity-measure transformation, smoothing of non-smoothed fragility
+    functions, and treatment of crossing fragility curves are also discussed. Overall,
+    the report provides a practical framework for developing, comparing, and unifying
+    fragility functions, with the goal of improving transparency, consistency, and
+    risk relevance in fragility-based seismic assessment
+series:
+- title:
+  - content: NIST technical note
+  number: '2281'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

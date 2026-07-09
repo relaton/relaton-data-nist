@@ -1,0 +1,78 @@
+---
+id: NISTNCSTAR15D
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Reaction of ceiling tile systems to shocks
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.NCSTAR.1-5d
+docidentifier:
+- content: NIST NCSTAR 1-5D
+  type: NIST
+  primary: true
+- content: NIST.NCSTAR.1-5d
+  type: DOI
+date:
+- type: issued
+  at: '2005'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Riley, Michael A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Repp, Joshua M.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Whittaker, Andrew S.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Reinhorn, Andrei M.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hough, Paul A.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST NCSTAR; National Construction Safety Team Act report
+  number: 1-5d
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

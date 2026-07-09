@@ -1,0 +1,105 @@
+---
+id: NISTIR8560
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Towards adversary-resilient interference management in O-RAN
+  type: title-main
+- language: en
+  script: Latn
+  content: requirements and gap analysis
+  type: title-part
+- language: en
+  script: Latn
+  content: Towards adversary-resilient interference management in O-RAN - requirements
+    and gap analysis
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8560
+docidentifier:
+- content: NIST IR 8560
+  type: NIST
+  primary: true
+- content: NIST.IR.8560
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Garey, Wesley D.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1572-8208"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rouil, Richard A.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-0387-0880"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kowdley, Sridhar.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Communication Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The Open Radio Access Network (RAN) (O-RAN) Alliance seeks to establish
+    a more open, intelligent, and flexible Radio Access Network (RAN) architecture
+    for Fourth Generation (4G), Fifth Generation (5G), and future Sixth Generation
+    (6G) networks. By leveraging O-RAN's standardized ecosystem, along with Artificial
+    Intelligence (AI) and Machine Learning (ML) technologies, network operators can
+    address complex challenges like interference management in 4GLong Term Evolution
+    (LTE) and 5GNew Radio (NR), with future applicability to 6G. A key innovation
+    within O-RAN is its potential for enhanced interference management, particularly
+    through the "Interference Detection, Prediction, and Optimization" use case, which
+    builds on legacy Inter-Cell Interference Coordination (ICIC) techniques from 4G.
+    This promises more granular control and real-time optimization in coordinated
+    environments. However, public safety entities such as the U.S. Department of Homeland
+    Security (DHS) and Department of Defense (DoD) face unique interference challenges,
+    including uncoordinated interference from external or malicious sources. This
+    paper examines state-of-the-art interference management techniques in cellular
+    networks and explores whether O-RAN's current capabilities can effectively manage
+    interference in coordinated scenarios, as well as whether they can be extended
+    to address non-ideal situations involving uncoordinated entities, faulty equipment,
+    or malicious actors. Through a gap analysis, we com-pare existing O-RAN specifications
+    with real-world interference scenarios. Our findings underscore the need for enhanced
+    O-RAN-based solutions to manage diverse interference cases, critical for both
+    commercial and public safety networks.
+series:
+- title:
+  - content: NISTIR
+  number: '8560'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8560'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

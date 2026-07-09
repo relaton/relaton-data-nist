@@ -1,0 +1,82 @@
+---
+id: NISTIR8554
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Workshop on compositional structures in systems engineering and design
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8554
+docidentifier:
+- content: NIST IR 8554
+  type: NIST
+  primary: true
+- content: NIST.IR.8554
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Moeller, Joe
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-5306-3502"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Varshinee Srinivasan, Priyaa
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-6983-073X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Subrahmanian, Eswaran
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4639-627X"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: The focus of this workshop is to foster the development of applications
+    of category theory to systems engineering and design. We are interested in bringing
+    together experts from engineering and applied category theory, and those involved
+    in software tools development. There were be several talks/demos showcasing existing
+    approaches as well as ample time for discussion.
+series:
+- title:
+  - content: NISTIR
+  number: '8554'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8554'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

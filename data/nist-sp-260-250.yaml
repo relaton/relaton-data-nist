@@ -1,0 +1,96 @@
+---
+id: NISTSP260250
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Certification of standard reference material® 1641f mercury in water
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-250
+docidentifier:
+- content: NIST SP 260-250
+  type: NIST
+  primary: true
+- content: NIST.SP.260-250
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Butler, Therese
+    identifier:
+    - type: uri
+      content: "(orcid) 0009-0005-7294-3539"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Klingsick, Jenna
+    identifier:
+    - type: uri
+      content: "(orcid) 0009-0000-8793-1016"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Molloy, John
+    identifier:
+    - type: uri
+      content: "(orcid) 0009-0003-8901-5494"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yen, James
+    identifier:
+    - type: uri
+      content: "(orcid) 0000-0001-5242-7629"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: Standard Reference Material (SRM) 1641f Mercury in Water is intended for
+    the calibration of instruments and techniques used for the determination of mercury
+    in natural waters. It is designed for the preparation of calibration solutions
+    and for use as a “spike” sample in a “method-of-additions” analytical procedure.
+    A unit of SRM 1641f consists of ten ampoules, each ampoule containing approximately
+    10 mL of solution consisting of a trace amount of mercury in approximately 3%
+    mass fraction nitric acid and 2% mass fraction hydrochloric acid. This publication
+    documents the production, analytical methods, and computations involved in characterizing
+    this product.
+series:
+- title:
+  - content: NIST special publication
+  number: 260-250
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 260-250
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

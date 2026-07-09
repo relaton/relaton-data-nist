@@ -1,0 +1,95 @@
+---
+id: NISTSP260242
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Certification of Standard Reference Material® 2232a
+  type: title-main
+- language: en
+  script: Latn
+  content: indium for DSC temperature and enthalpy calibration
+  type: title-part
+- language: en
+  script: Latn
+  content: Certification of Standard Reference Material® 2232a - indium for DSC temperature
+    and enthalpy calibration
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-242
+docidentifier:
+- content: NIST SP 260-242
+  type: NIST
+  primary: true
+- content: NIST.SP.260-242
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Herman, Tobias K.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-4296-6957"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Koepke, Amanda A.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-9515-0383"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Splett, Jolene D.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory; Physical Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: A new Standard Reference Material® (SRM®), designated SRM 2232a, has been
+    certified for the temperature and enthalpy calibration of differential scanning
+    calorimeters (DSCs). This is a replacement for the previously sold out version,
+    SRM 2232. SRM 2232a was sourced from a single lot of high-purity ( 99.99999%
+    metals basis, by weight) indium. The melting point of SRM 2232a has been certified
+    to be equal to (156.5985 ± 0.00032) °C using a fixed-point cell and direct comparisons
+    with the NIST laboratory reference cell that constitutes NIST’s primary realization
+    of the indium freezing point. The enthalpy of fusion of SRM 2232a has been certified
+    to be equal to (28.58 ± 0.17) J·g-1 via DSC measurements using an instrument calibrated
+    with certified reference materials obtained from another national metrology institute.
+    This document provides all relevant measurement and analysis details for the certification
+    of SRM 2232a.
+series:
+- title:
+  - content: NIST special publication
+  number: 260-242
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 260-242
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

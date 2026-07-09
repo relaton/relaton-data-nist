@@ -1,0 +1,129 @@
+---
+id: NISTIR2311
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Blueprint for deploying 5G O-RAN testbeds
+  type: title-main
+- language: en
+  script: Latn
+  content: a guide to using diverse O-RAN software stacks
+  type: title-part
+- language: en
+  script: Latn
+  content: Blueprint for deploying 5G O-RAN testbeds - a guide to using diverse O-RAN
+    software stacks
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.2311
+docidentifier:
+- content: NIST IR 2311
+  type: NIST
+  primary: true
+- content: NIST.IR.2311
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lee, Kyehwan.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0002-0649-4235"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cintrón, Fernando J.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-5602-1068"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wuthier, Simeon.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-4088-7518"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Savaliya, Bhadresh.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0007-9407-4287"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Montgomery, Douglas.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-5364-9474"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rouil, Richard.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-0387-0880"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Communications Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This documentation serves as a blueprint for new researchers, offering
+    a comprehensive guide on establishing an Open Radio Access Network (O-RAN) testbed
+    from scratch. It details the O-RAN architecture and the supporting software stacks
+    required for each component, and provides both aggregated and disaggregated deployment
+    scenarios tested on our testbeds. The guide provides thorough installation instructions
+    for each software stack we tested. In addition, a testbed example of a disaggregated
+    scenario is used to demonstrate proper configurations and practical operations
+    to test the connection and interoperation between the deployed O-RAN components.
+    Moreover, this documentation introduces our innovative automation tool, designed
+    to streamline the installation and configuration of some O-RAN components, ensuring
+    a more efficient deployment process. This publication aims to equip researchers
+    with the foundational knowledge and practical steps needed to initiate and manage
+    their own O-RAN testbeds effectively.
+series:
+- title:
+  - content: NIST technical note
+  number: '2311'
+- title:
+  - content: NIST technical note; NIST TN
+  number: '2311'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

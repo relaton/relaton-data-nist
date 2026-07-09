@@ -1,0 +1,85 @@
+---
+id: NISTTN2325
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: The NIST 20 MW calorimetry measurement system
+  type: title-main
+- language: en
+  script: Latn
+  content: exhaust flow characterization and calibration
+  type: title-part
+- language: en
+  script: Latn
+  content: The NIST 20 MW calorimetry measurement system - exhaust flow characterization
+    and calibration
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2325
+docidentifier:
+- content: NIST TN 2325
+  type: NIST
+  primary: true
+- content: NIST.TN.2325
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chernovsky, Artur A.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-1215-7350"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: Accurate flow measurements at the exhaust systems of large fire test facilities
+    are critical for achieving accurate measurements of heat release rate. A detailed
+    characterization of exhaust flow for the National Fire Research Laboratory (NFRL)
+    has been conducted to verify the accuracy of its routine flow monitoring devices.
+    Following the procedures of standard test methods for determining average flow
+    in exhaust ducts and stacks, experiments were conducted using S-probes to measure
+    the flow distribution on two orthogonal chords of the exhaust ducts. The results
+    characterize the distribution of near-axial velocity, flow angle, and gas temperature
+    at each of the exhaust ducts, and provide data to evaluate the impact of the fire
+    and off-axis flow on the flow distribution. Routine flow monitoring during large
+    fire experiments in the NFRL is provided by averaging pitot probes installed in
+    the exhaust ducts. Average velocity computed from the flow distributions served
+    as a reference measurement and was used to determine flow calibration constants
+    with estimates of expanded uncertainty ranging from 6 % to 7 %. Agreement with
+    calibration constants determined previously using tracer gas dilution was confirmed,
+    completing the goal of conducting in-line calibrations of NFRL’s averaging pitot
+    probes using independent reference measurements to verify measurement accuracy.
+    This effort has established a benchmark for the accuracy of NFRL’s exhaust flow
+    measurement and exhaust flow characterization. It has also provided additional
+    evidence that in-situ calibration of the flow monitoring devices used for large
+    fire calorimetry is best practice. Procedures for the flow calibration exist as
+    consensus standards and can be applied for similar large fire test facilities.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2325'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

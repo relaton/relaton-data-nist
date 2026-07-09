@@ -1,0 +1,78 @@
+---
+id: NISTTN2315
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: C-V2X interoperability testing datasets
+  type: title-main
+- language: en
+  script: Latn
+  content: description and use
+  type: title-part
+- language: en
+  script: Latn
+  content: C-V2X interoperability testing datasets - description and use
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2315
+docidentifier:
+- content: NIST TN 2315
+  type: NIST
+  primary: true
+- content: NIST.TN.2315
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pesavento, Davide.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7136-1888"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Li-Baboud, Ya-Shian.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-3234-4345"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Communications Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This paper introduces a set of cellular vehicle-to-everything (C-V2X) datasets
+    collected at the National Institute of Standards and Technology (NIST) Internet
+    of Thing (IoT) Devices Interoperability Testbed. These datasets can be used to
+    examine, analyze, and assess C-V2X compatibility and interoperability among commercial
+    on-board units (OBUs) and road-side units (RSUs) based on IEEE 1609.2, 1609.3,
+    and SAE J2735 standards.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2315'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,110 @@
+---
+id: NISTSP1302
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: NIST Cybersecurity Framework 2.0
+  type: title-main
+- language: en
+  script: Latn
+  content: quick-start guide for using the CSF tiers
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST Cybersecurity Framework 2.0 - quick-start guide for using the CSF
+    tiers
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1302
+docidentifier:
+- content: NIST SP 1302
+  type: NIST
+  primary: true
+- content: NIST.SP.1302
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Quinn, Stephen.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1436-684X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pascoe, Cherilyn.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0009-6216-4864"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barrett, Matthew.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7689-427X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: "Scarfone, \tKaren."
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-6334-9486"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Witte, Gregory.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This Quick-Start Guide describes how to apply the CSF 2.0 Tiers. CSF Tiers
+    can be applied to CSF Organizational Profiles to characterize the rigor of an
+    organization’s cybersecurity risk governance and management outcomes. This can
+    help provide context on how an organization views cybersecurity risks and the
+    processes in place to manage those risks.​ The Tiers can also be valuable when
+    reviewing processes and practices to determine needed improvements and monitor
+    progress made through those improvements.
+series:
+- title:
+  - content: NIST special publication
+  number: '1302'
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '1302'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

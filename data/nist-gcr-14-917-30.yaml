@@ -21,21 +21,22 @@ date:
   at: '2014'
 contributor:
 - role:
-  - type: author
-  person:
+  - type: publisher
+  organization:
     name:
-      completename:
-        language: en
-        content: NEHRP Consultants Joint Venture.
+    - content: NEHRP Consultants Joint Venture.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory
 - role:
   - type: publisher
   organization:
     name:
     - content: National Institute of Standards and Technology (U.S.).
     - content: Engineering Laboratory.
-    identifier:
-    - type: uri
-      content: https://id.loc.gov/authorities/names/no2015040956
 abstract:
 - language: en
   script: Latn

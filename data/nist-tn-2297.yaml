@@ -1,0 +1,59 @@
+---
+id: NISTTN2297
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Similarity measures of mass spectra in Hilbert spaces
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2297
+docidentifier:
+- content: NIST TN 2297
+  type: NIST
+  primary: true
+- content: NIST.TN.2297
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Roberts, Mathew J.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Mass spectrometry (MS) is an analytic tool for measuring mass-to-charge
+    ratios of molecules or molecular fragments. It is often used to identify and classify
+    compounds. A mass spectrometer measures the mass of molecules and produces a signal
+    proportional to the number detected fragments, thus, intensity can be interpreted
+    as a function of mass-to-charge. One objective in mass spectrometry is distinguishing
+    compounds using their measured mass spectra. In this technical report we describe
+    the mathematical machinery required to compute a new similarity measure posed
+    in a Hilbert space.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2297'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

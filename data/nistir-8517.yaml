@@ -1,0 +1,66 @@
+---
+id: NISTIR8517
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Hardware security failure scenarios
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8517
+docidentifier:
+- content: NIST IR 8517
+  type: NIST
+  primary: true
+- content: NIST.IR.8517
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bojanova, Irena
+    identifier:
+    - type: uri
+      content: "(orcid) 0000-0002-3198-7026"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: Historically, hardware has been assumed to be inherently secure. However,
+    chips are both created with software and contain complex encodings (e.g., circuit
+    designs and firmware). This leads to bugs, some of which compromise security.
+    This publication evaluates the types of vulnerabilities that can occur and leverages
+    existing work on hardware weaknesses. For each type, a security failure scenario
+    is provided that describes how the weakness could be exploited, where the weakness
+    typically occurs, and what kind of damage could be done by an attacker. The 98
+    failure scenarios provided demonstrate the extensive and broadly distributed possibilities
+    for hardware-related security failures.
+series:
+- title:
+  - content: NISTIR
+  number: '8517'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8517'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

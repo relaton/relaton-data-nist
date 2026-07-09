@@ -1,0 +1,75 @@
+---
+id: NISTIR8584
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Face Analysis Technology Evaluation (FATE) MORPH
+  type: title-main
+- language: en
+  script: Latn
+  content: '4B: considerations for implementing morph detection in operations'
+  type: title-part
+- language: en
+  script: Latn
+  content: 'Face Analysis Technology Evaluation (FATE) MORPH - 4B: considerations
+    for implementing morph detection in operations'
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8584
+docidentifier:
+- content: NIST IR 8584
+  type: NIST
+  primary: true
+- content: NIST.IR.8584
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grother, Patrick.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1996-4363"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Morphing of face photographs present a threat to identity processes; for
+    example, two people being able to use one passport. The threat exists in applications
+    that allow users to submit their own photos where digital history is unknown.
+    The threat can be reduced significantly if photo capture is trusted. When that
+    cannot be implemented, software-based morph detection algorithms can be deployed.
+    While automated morph detection has its strengths and weaknesses, independent
+    benchmarks suggest that some morph detectors are now accurate enough to have operational
+    utility. This document guides organizations in detecting, then investigating morphed
+    face photographs in their operational settings.
+series:
+- title:
+  - content: NISTIR
+  number: '8584'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8584'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

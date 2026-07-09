@@ -1,0 +1,61 @@
+---
+id: NISTIR8549
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: temo
+  type: title-main
+- language: en
+  script: Latn
+  content: teqp‐based model optimization
+  type: title-part
+- language: en
+  script: Latn
+  content: temo - teqp‐based model optimization
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8549
+docidentifier:
+- content: NIST IR 8549
+  type: NIST
+  primary: true
+- content: NIST.IR.8549
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The temo library is a set of building blocks that facilitate the automation
+    of fitting models to experimental data for thermodynamic properties. The library
+    is written in Python to enable broad re‐use and is based upon the suite of thermodynamic
+    equations of state and modeling tools available in the teqp library. The flexibility
+    of the provided methods allow the user to extend the capabilities of temo for
+    their own particular problems.
+series:
+- title:
+  - content: NISTIR
+  number: '8549'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8549'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

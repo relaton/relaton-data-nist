@@ -1,0 +1,115 @@
+---
+id: NISTTN2162r1
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: The global and local structure of medium-scale pool fires
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2162r1
+docidentifier:
+- content: NIST TN 2162r1
+  type: NIST
+  primary: true
+- content: NIST.TN.2162r1
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Falkenstein-Smith, Ryan.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-7039-5835"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bundy, Matthew.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-1138-0307"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fernandez, Marco.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4227-8866"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hamins, Anthony.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-7531-4256"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: A series of experiments are reported that characterize key features of
+    the structure of eight medium-scale pool fires (0.3 m to 0. 4 m) steadily burning
+    a variety of liquid and gaseous fuel types, including 30 cm diameter liquid pool
+    fires burning methanol, ethanol, acetone and heptane, and 37 cm diameter methane
+    (34 kW) and propane (20 kW, 34 kW, and 50 kW) gaseous pool fires. The measurements
+    and their uncertainty help establish a data repository for use in the rigorous
+    evaluation of computational fluid dynamics fire models. Steadily burning liquid
+    and gaseous pool fires were established on water-cooled burners. After a 5 min
+    to 10 min warm-up period, global and local measurements of the fires were conducted.
+    The global measurements reported here include flame height, puffing frequency,
+    mass burning rate, heat release rate, CO and soot yields, radiative fraction,
+    and total heat feedback fraction to the burner. The local measurements reported
+    here include the profiles of radiative and total heat flux onto the liquid pool
+    surface, the radiative heat flux distribution to an array of flux gauges forming
+    a cylindrical control surface around the fire, the fuel surface temperature, in-depth
+    temperature at select locations inside the liquid pools, and the vertical and
+    temperature centerline profiles above the fuel surface. Many of the measurements
+    reported here are new; some have been previously reported but are included here
+    for completeness. Measurements of the centerline soot mass fractions and gas species
+    profiles for these fires are available in complementary publications. In summary,
+    the measurement results provide a comprehensive data set for the evaluation of
+    computational fire models and offer insight on the complex structure of medium-scale
+    pool fires.
+relation:
+- type: updates
+  bibitem:
+    formattedref:
+      content: NIST TN 2162
+    docidentifier:
+    - content: NIST TN 2162
+      type: NIST
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: 2162r1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

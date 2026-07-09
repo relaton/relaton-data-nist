@@ -1,0 +1,84 @@
+---
+id: NISTTN1680
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: A review of building evacuation models
+  type: title-main
+- language: en
+  script: Latn
+  content: 2nd Edition
+  type: title-part
+- language: en
+  script: Latn
+  content: A review of building evacuation models - 2nd Edition
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1680
+docidentifier:
+- content: NIST TN 1680
+  type: NIST
+  primary: true
+- content: NIST.TN.1680
+  type: DOI
+date:
+- type: issued
+  at: '2010'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Peacock, Richard D.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-0599-5134"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hoskins, Bryan L.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Evacuation calculations are increasingly becoming a part of performance-based
+    analyses to assess the level of life safety provided in buildings. In some cases,
+    engineers are using back-of-the-envelope (hand) calculations to assess life safety,
+    and in others, evacuation models are being used. This paper presents a review
+    of 25 current computer evacuation models, and is an updated version of a previous
+    review published in 2005. Models are categorized by their availability, overarching
+    method of simulating occupants, purpose, type of grid/structure, perspective of
+    the occupants, perspective of the building, internal algorithms for simulating
+    occupant behavior and movement, the incorporation of fire effects, the use of
+    computer-aided design drawings, visualization methods, and validation techniques.
+    Models are also categorized based upon whether they simulate special features
+    of an evacuation, including counterflow, exit blockages, fire conditions that
+    affect behavior, incapacitation of the occupants due to toxic smoke products,
+    groups, disabled or slower-moving occupant, pre-evacuation delays, elevator usage,
+    and occupant route choice.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1680'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

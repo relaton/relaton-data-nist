@@ -1,0 +1,79 @@
+---
+id: NISTAMS10077
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: On the physical interpretation of adjoint methods for sensitivity analysis,
+    part I
+  type: title-main
+- language: en
+  script: Latn
+  content: self-adjoint linear systems
+  type: title-part
+- language: en
+  script: Latn
+  content: On the physical interpretation of adjoint methods for sensitivity analysis,
+    part I - self-adjoint linear systems
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-77
+docidentifier:
+- content: NIST AMS 100-77
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-77
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Engineers and scientists rely on computational models not just to predict
+    outcomes, but tounderstand which input parameters most influence those outcomes.
+    However, answering thisquestion for models with thousands of inputs is computationally
+    prohibitive using standardbrute-force perturbation methods. Adjoint methods provide
+    an efficient means for such localsensitivity analysis, which is a critical component
+    of uncertainty quantification for complexcomputational modeling and simulation.
+    While powerful, their application is often maskedby a purely mathematical presentation
+    that obscures the underlying physical principles. Thisreport, the first in a series,
+    aims to demystify the adjoint method by grounding it in physicalprinciples, such
+    as that of structural mechanics. Using a simple Warren truss as a recurringexample,
+    we demonstrate that the adjoint vector has profound physical interpretations:acting
+    as a “receptivity map,” a discrete Green’s function, a row of the flexibility
+    matrix, or alinear combination thereof. This perspective unifies the stiffness-based
+    formulation (fromthe principle of virtual work) with the flexibility-based formulation
+    (from the complementaryenergy principle). This mechanical analogy provides a tangible
+    basis for understanding the adjoint vector in a broader class of self-adjoint
+    physical systems. Furthermore, we extend the analysis using the principles of
+    similitude, developing dimensionless Pi groups to create more general methodology
+    for comparing parameter sensitivities. Ultimately, this report clarifies how the
+    adjoint method serves as more than a computational shortcut; it is an analytical
+    tool that elegantly combines various physical principles, making it attractive
+    for insightful uncertainty quantification.
+series:
+- title:
+  - content: NIST advanced manufacturing series
+  number: 100-77
+- title:
+  - content: NIST advanced manufacturing series
+  number: 100-77
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

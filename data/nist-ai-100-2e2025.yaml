@@ -1,0 +1,106 @@
+---
+id: NISTAI1002e2025
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Adversarial machine learning
+  type: title-main
+- language: en
+  script: Latn
+  content: a taxonomy and terminology of attacks and mitigations
+  type: title-part
+- language: en
+  script: Latn
+  content: Adversarial machine learning - a taxonomy and terminology of attacks and
+    mitigations
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AI.100-2e2025
+docidentifier:
+- content: NIST AI 100-2e2025
+  type: NIST
+  primary: true
+- content: NIST.AI.100-2e2025
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Oprea, Alina.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4979-5292"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fordyce, Alie.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Anderson, Hyrum.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Davies, Xander.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hamin, Maia.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0009-3834-6553"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This NIST Trustworthy and Responsible AI report provides a taxonomy of
+    concepts and defines terminology in the field of adversarial machine learning
+    (AML). The taxonomy is arranged in a conceptual hierarchy that includes key types
+    of ML methods, life cycle stages of attack, and attacker goals, objectives, capabilities,
+    and knowledge. This report also identifies current challenges in the life cycle
+    of AI systems and describes corresponding methods for mitigating and managing
+    the consequences of those attacks. The terminology used in this report is consistent
+    with the literature on AML and is complemented by a glossary of key terms associated
+    with the security of AI systems. Taken together, the taxonomy and terminology
+    are meant to inform other standards and future practice guides for assessing and
+    managing the security of AI systems by establishing a common language for the
+    rapidly developing AML landscape.
+series:
+- title:
+  - content: NIST trustworthy and responsible AI; NIST AI
+  number: 100-2e2025
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

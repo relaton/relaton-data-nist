@@ -1,0 +1,91 @@
+---
+id: NISTTN2330
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Guía Breve sobre la Incertidumbre de Medición
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2330
+docidentifier:
+- content: NIST TN 2330
+  type: NIST
+  primary: true
+- content: NIST.TN.2330
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: 'Gelabert, Maria Victoria.:'
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0000-5444-2902"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: 'Hibbert, David Brynn.:'
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-9210-2941"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: 'Stohner, Jürgen.:'
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-0079-7083"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: 'Bodnar, Olha.:'
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1359-3311"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: 'Meija, Juris.:'
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3349-5535"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2330'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

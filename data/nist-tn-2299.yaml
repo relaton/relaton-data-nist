@@ -1,0 +1,66 @@
+---
+id: NISTTN2299
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Data assimilation in 2D incompressible Navier-Stokes equations, using a
+    stabilized explicit O(∆t)2 leapfrog finite difference scheme run backward in time
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2299
+docidentifier:
+- content: NIST TN 2299
+  type: NIST
+  primary: true
+- content: NIST.TN.2299
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: "For the 2D incompressible Navier-Stokes equations, with given hypothetical
+    non smooth data at time \U0001D447 > 0 that may not correspond to an actual solution
+    at time \U0001D447, a previously developed stabilized backward marching explicit
+    leapfrog finite difference scheme is applied to these data, to find initial values
+    at time \U0001D461 = 0 that can evolve into useful approximations to the given
+    data at time \U0001D447. That may not always be possible. Similar data assimilation
+    problems, involving other dissipative systems, are of considerable interest in
+    the geophysical sciences, and are commonly solved using computationally intensive
+    methods based on neural networks informed by machine learning. Successful solution
+    of ill-posed timereversed Navier-Stokes equations is limited by uncertainty estimates,
+    based on logarithmic convexity, that place limits on the value of \U0001D447 >
+    0. In computational experiments involving satellite images of hurricanes and other
+    meteorological phenomena, the present method is shown to produce successful solutions
+    at values of \U0001D447 > 0, that are several orders of magnitude larger than
+    would be expected, based on the best-known uncertainty estimates. However, unsuccessful
+    examples are also given. The present self-contained paper outlines the stabilizing
+    technique, based on applying a compensating smoothing operator at each time step,
+    and stressesthe important differences between data assimilation, and backward
+    recovery, in ill-posed time reversed problems for dissipative equations. While
+    theorems are stated without proof, the reader is referred to a previous paper,
+    on Navier-Stokes backward recovery, where these proofs can be found."
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2299'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

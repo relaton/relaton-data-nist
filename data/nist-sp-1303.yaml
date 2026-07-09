@@ -1,0 +1,109 @@
+---
+id: NISTSP1303
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: NIST cybersecurity framework 2.0
+  type: title-main
+- language: en
+  script: Latn
+  content: enterprise risk management quick-start guide
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST cybersecurity framework 2.0 - enterprise risk management quick-start
+    guide
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1303
+docidentifier:
+- content: NIST SP 1303
+  type: NIST
+  primary: true
+- content: NIST.SP.1303
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Quinn, Stephen.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1436-684X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pillitteri, Victoria.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7446-7506"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barrett, Matthew.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7689-427X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Smith, Matthew.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1004-7171"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Witte, Gregory.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: National Institute of Standards and Technology.
+abstract:
+- language: en
+  script: Latn
+  content: This guide provides an introduction to using the NIST Cybersecurity Framework
+    (CSF) 2.0 for planning and integrating an enterprise-wide process for integrating
+    cybersecurity risk management information, as a subset of information and communications
+    technology risk management, into enterprise risk management. The use of CSF common
+    language and outcomes supports the integration of risk monitoring, evaluation,
+    and adjustment across various organizational units and programs.
+series:
+- title:
+  - content: NIST special publication
+  number: '1303'
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '1303'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

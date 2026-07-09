@@ -1,0 +1,93 @@
+---
+id: NISTTN2339
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: C-V2X interoperability analyzer software tool
+  type: title-main
+- language: en
+  script: Latn
+  content: description and use
+  type: title-part
+- language: en
+  script: Latn
+  content: C-V2X interoperability analyzer software tool - description and use
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2339
+docidentifier:
+- content: NIST TN 2339
+  type: NIST
+  primary: true
+- content: NIST.TN.2339
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pesavento, Davide.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7136-1888"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Roth, Thomas.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-9986-7784"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wong, Tyler.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Communications Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Autonomous vehicles (AVs) can perform driving tasks without any human intervention,
+    relying on advanced technologies to sense their surroundings, exchange information
+    with digital road-side infrastructure, make decisions, and control the vehicle.
+    AVs use vehicle-to-everything (V2X) communication methods to exchange and share
+    data with infrastructure, other vehicles, and other road users such as pedestrians
+    for improved efficiency and safety. One of the main challenges of AVs is the interoperability
+    of V2X communications. To address and overcome AV’s interoperability challenge,
+    this paper introduces a cellular vehicle-to-everything (C-V2X) interoperability
+    analyzer software tool developed at the National Institute of Standards and Technology
+    (NIST). This paper describes C-V2X interoperability analyzer software design,
+    functional description, installation, usage instructions, and software execution
+    example. This software tool can be used to automatically analyze and assess C-V2X
+    conformance and interoperability among commercial on-board units (OBUs) and road-side
+    units (RSUs) based on the IEEE 1609.2, IEEE 1609.3, and SAE J2735 standards.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2339'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

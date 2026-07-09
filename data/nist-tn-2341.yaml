@@ -1,0 +1,155 @@
+---
+id: NISTTN2341
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Eave and vent experiments (EaVE) phase a
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2341
+docidentifier:
+- content: NIST TN 2341
+  type: NIST
+  primary: true
+- content: NIST.TN.2341
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Maranghides, Alexander.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3545-2475"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Di Cristina Torres, Giovanni.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-0799-3418"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bailey, Diana.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-6273-3830"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: "Fox, \tLucy."
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0004-7725-708X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Link, Eric.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7784-5023"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ramesh, Selvarajah.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-9525-6767"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Flores, Monica.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0003-1101-5961"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This report documents a series of full-scale fire experiments conducted
+    at the National Institute of Standards and Technology (NIST) to characterize the
+    performance of select wildland-urban interface (WUI) eave vents exposed to fire
+    from noncombustible steel sheds of different sizes and fuel loads (wood cribs).
+    The experiments were conducted indoors under the 20 MW exhaust hood in the National
+    Fire Research Laboratory (NFRL) with the noncombustible steel sheds at varying
+    fuel loads and structure separation distances (SSDs) from the target structure.
+    The target structure included an assembly of an exterior residential wall, a roof,
+    and an eave vent. A range of measurements were taken during the experiments including
+    heat release rate, heat flux, temperature, gas flow velocity, and gas species
+    concentration using open-path absorption spectroscopy. Video and infrared cameras
+    recorded the experiments. Thermal exposures from different types of sheds with
+    different fuel loadings were found to be very repeatable when quantified in terms
+    of heat release rate (HRR), heat fluxes and temperatures measured at the eaves.
+    In the case of thermal exposures from the noncombustible steel sheds, ignition
+    of the eaves was a function of flame jetting from the door opening and sustained
+    incident peak heat flux at the eaves. Higher fuel packing density in the shed
+    resulted in focused flame jetting and increased the likelihood of an eave ignition.
+    The same fuel loading in different types of sheds resulted in different thermal
+    exposures on the target structure. Thermal exposures to the target structure increased
+    linearly with the fuel mass, however, the eave ignition was a function of flame
+    jetting. Eave ignition started with glowing ignition in thermally vulnerable locations
+    including sharp edges, corners, and joints of the rafters. The performance of
+    three commercially available fire-resistant eave vents was assessed when subjected
+    to much larger fire exposures (1.5 MW to 2.5 MW) compared to the fire exposure
+    (300 kW) specified in the existing test methods. The vent performance was assessed
+    primarily for flame penetration and temperature rise on the unexposed side of
+    the vent. Amongst the commercially available vents tested in this experimental
+    series, the performance of the intumescent coated baffle vents was superior compared
+    to the intumescent coated honeycomb core vents during very high thermal exposures.
+    Intumescent coated honeycomb core vents that comply with ASTM E2886 and are listed
+    as WUI compliant products, failed to prevent flame penetration when exposed to
+    large thermal exposures, particularly when eave ignition occurs. The current standardized
+    eave vent test methods may not adequately expose the eave vents to real-WUI fire
+    type of exposures. The knowledge generated from this experimental series will
+    inform standards development organizations to consider revising the existing test
+    methods for qualifying the vents for usage in WUI constructions. The exposure
+    quantification data generated from this experimental series will be useful for
+    hazard mitigation and reducing structure ignitions from large thermal exposures.
+    The exposure quantification information will be useful in managing thermal exposures
+    from auxiliary fuels and other exposures, particularly in WUI communities.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2341'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,80 @@
+---
+id: NISTRB10
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: 'Community resilience systems modeling : research overview'
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.RB.10
+docidentifier:
+- content: NIST RB 10
+  type: NIST
+  primary: true
+- content: NIST.RB.10
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ibn Faiz, Tasnim
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1987-9863"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hughes, William
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-9957-137X"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: The National Institute of Standards and Technology (NIST) manages the Community
+    Resilience Program (CRP), which assists communities and other interested and affected
+    parties on developing solutions for resilience and recovery at the nexus of buildings
+    and built infrastructure systems and the socioeconomic functions they support.
+    The CRP, part of NIST’s broader disaster resilience work, complements efforts
+    by others in the public and private sectors. By providing science-based tools,
+    guidance, and metrics, NIST seeks to empower communities to better prepare for,
+    withstand, and recover from acute shocks, chronic stressors, and compound impacts.
+    The Community Resilience Systems Modeling project develops tools designed to assist
+    communities in identifying viable community-scale resilience plans. The tools
+    address specific challenges related to the breadth, large scale, and interdependencies
+    of the community resilience planning system—those elements of our physical, social,
+    and economic systems that determine a community’s resilience.
+series:
+- title:
+  - content: NIST research brief
+  number: '10'
+- title:
+  - content: NIST research brief
+  number: '10'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

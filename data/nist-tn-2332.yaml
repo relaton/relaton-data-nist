@@ -1,0 +1,73 @@
+---
+id: NISTTN2332
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Fire Data Generator (FD-Gen) v1.0.0
+  type: title-main
+- language: en
+  script: Latn
+  content: an automated tool to generate multiple FDS input files
+  type: title-part
+- language: en
+  script: Latn
+  content: Fire Data Generator (FD-Gen) v1.0.0 - an automated tool to generate multiple
+    FDS input files
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2332
+docidentifier:
+- content: NIST TN 2332
+  type: NIST
+  primary: true
+- content: NIST.TN.2332
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tam, Wai Cheong
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-3913-0243"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This document serves as the documentation for the Fire Data Generator (FD-Gen),
+    an automated tool designed to streamline the creation of multiple Fire Dynamics
+    Simulator (FDS) input files. By employing Monte Carlo methods to sample relevant
+    fire parameters, FD-Gen creates diverse fire scenarios and seamlessly integrates
+    them into FDS case input files. This tool is designed to efficiently produce large
+    volumes of synthetic fire data, supporting the development and training of machine
+    learning models for smart fire detection and forecasting applications. Additionally,
+    FD-Gen may offer practical benefits for applications such as fire risk assessment
+    and fire investigation, broadening its impact across fire safety and research
+    domains.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2332'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

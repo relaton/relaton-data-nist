@@ -1,0 +1,103 @@
+---
+id: NISTIR8606
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: The national marine mammal tissue bank specimen inventory report
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8606
+docidentifier:
+- content: NIST IR 8606
+  type: NIST
+  primary: true
+- content: NIST.IR.8606
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ellisor, Debra.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-5980-1887"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hoguet, Jennifer.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0001-9584-9166"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Moors, Amanda.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-0864-8464"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Capuano, Amanda.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0008-8270-8251"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pugh, Rebecca.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-3124-1045"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This report provides a brief background of the National Marine Mammal Tissue
+    Bank (NMMTB), information on the composition of the collection, policies for specimen
+    use, and links to a downloadable and searchable specimen inventory. The inventory
+    covers specimens collected from the Alaska Marine Mammal Tissue Archival Program
+    (AMMTAP) and the Marine Mammal Health and Stranding Response Program (MMHSRP)
+    by contributors between 1987 and April 2025.
+series:
+- title:
+  - content: NISTIR
+  number: '8606'
+- title:
+  - content: NISTIR
+  number: '8606'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

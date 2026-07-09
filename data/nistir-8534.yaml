@@ -1,0 +1,102 @@
+---
+id: NISTIR8534
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Feature description for assessing autonomous vehicle performance
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8534
+docidentifier:
+- content: NIST IR 8534
+  type: NIST
+  primary: true
+- content: NIST.IR.8534
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gamage, Thoshitha T.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0002-2797-2929"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Griffor, Edward R.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-5241-7551"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Roth, Thomas P.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-9986-7784"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Guo, Wenqi W.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-9712-8363"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Communication Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This technical report presents a structured methodology for describing
+    and assessing auto-mated vehicle (AV) features, with a focus on ensuring consistent
+    and reproducible testing across various scenarios. The document delineates a systematic
+    approach to integrating operational design domains (ODD), levels of automation,
+    and vehicle behaviors into AV feature descriptions. Through the development of
+    a feature description framework and a corresponding testing template, the report
+    provides guidance on how to measure and validate the performance of AV features
+    under controlled and variable conditions. Key elements of the methodology include
+    detailed behavior specifications, performance metrics, and scenario-based testing,
+    which are essential for evaluating the effectiveness and safety of AV technologies.
+    The report also explores the application of simulation-based testing to assess
+    AV feature behaviors in a dynamic and virtual environment, providing a critical
+    link between theoretical frameworks and practical implementation. The outcomes
+    aim to enhance communication among manufacturers, regulators, and other stakeholders,
+    promoting a unified understanding of AV capabilities and compliance.
+series:
+- title:
+  - content: NISTIR
+  number: '8534'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8534'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

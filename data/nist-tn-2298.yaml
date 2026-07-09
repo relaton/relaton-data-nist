@@ -1,0 +1,56 @@
+---
+id: NISTTN2298
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Development of a simulation tool for the intelligent building agents project
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2298
+docidentifier:
+- content: NIST TN 2298
+  type: NIST
+  primary: true
+- content: NIST.TN.2298
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: In the U.S., commercial buildings are responsible for approximately 36
+    % of total energy consumption, and the heating, ventilation, and air-conditioning
+    (HVAC) systems make up about 52 % of that total. Improving building operations
+    can significantly reduce the amount and cost of the energy used in the commercial
+    building sector. The Intelligent Building Agents Laboratory (IBAL) at the National
+    Institute of Standards and Technology (NIST) was designed to emulate the air and
+    hydronic systems in a small commercial building primarily to develop and study
+    advanced control approaches for HVAC systems. This report focuses on the calibration
+    and validation of a simulation tool that couples a model of the IBAL with a virtual
+    building model. That tool, IBASIM, will be used to quickly evaluate different
+    control approaches before selecting and implementing the most promising approaches
+    in the IBAL
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2298'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

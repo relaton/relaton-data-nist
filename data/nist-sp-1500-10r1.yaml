@@ -30,21 +30,22 @@ date:
   at: '2019'
 contributor:
 - role:
-  - type: author
-  person:
+  - type: publisher
+  organization:
     name:
-      completename:
-        language: en
-        content: NIST Big Data Public Working Group.
+    - content: NIST Big Data Public Working Group.
+    - content: Definitions and Taxonomies Subgroup.
 - role:
   - type: publisher
   organization:
     name:
     - content: Information Technology Laboratory (National Institute of Standards
         and Technology)
-    identifier:
-    - type: uri
-      content: https://id.loc.gov/authorities/names/no97056762
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
 abstract:
 - language: en
   script: Latn

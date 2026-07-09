@@ -1,0 +1,81 @@
+---
+id: NISTTN2320r1
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Thermal exposure of objects near burning electrical enclosures
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2320r1
+docidentifier:
+- content: NIST TN 2320r1
+  type: NIST
+  primary: true
+- content: NIST.TN.2320r1
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Leventon, Isaac.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8835-8087"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bareham, Scott.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-6667-7055"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Taylor, Gabriel.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0001-0098-0075"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This report documents a series of fire experiments performed within steel
+    electrical enclosures and on open “ladder back” cable trays. The first objective
+    is to measure the heat release rates and qualitatively understand the burning
+    behavior of circuit breaker fires within closed steel enclosures when ignited
+    by a source representative of a high energy arc fault (HEAF). The second objective
+    of this report is to quantify the thermal exposure of electrical cables that typically
+    are installed in-trays above an enclosure.
+series:
+- title:
+  - content: NIST technical note
+  number: 2320r1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

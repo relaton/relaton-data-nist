@@ -1,0 +1,85 @@
+---
+id: NISTTN2331
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: HDCMS
+  type: title-main
+- language: en
+  script: Latn
+  content: a package for computing high-dimensional consensus mass spectral similarity
+    scores
+  type: title-part
+- language: en
+  script: Latn
+  content: HDCMS - a package for computing high-dimensional consensus mass spectral
+    similarity scores
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2331
+docidentifier:
+- content: NIST TN 2331
+  type: NIST
+  primary: true
+- content: NIST.TN.2331
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Moorthy, Arun S.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-5988-1389"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kearsley, Anthony J.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-9576-0621"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'Identification of unknown mass spectra is a fundamental task in analytical
+    chemistry. The unambiguous identification of mass spectra remains a challenge
+    for compounds similar in structure. A novel mathematical approach incorporating
+    measurement variability in replicate mass spectra was proposed in Roberts et al.,
+    [1]. The method shows potential in discriminating similar compounds given replicate
+    mass spectra and has been implemented in a software package called HDCMS (high
+    dimensional consensus mass spectra). In this work, we describe the algorithmic
+    considerations underpinning the HDCMS package, including: data preprocessing,
+    constructing HDCMS from replicate measurements, and comparing pairs of HDCMS.
+    We then demonstrate use of the software and summarize the performance on two lab
+    collected data sets.'
+series:
+- title:
+  - content: NIST technical note
+  number: '2331'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,131 @@
+---
+id: NISTSP1340
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: TRIP$ - transportation risk-recovery investment planning solutions
+  type: title-main
+- language: en
+  script: Latn
+  content: optimizing earthquake resilience & functional recovery of highways
+  type: title-part
+- language: en
+  script: Latn
+  content: TRIP$ - transportation risk-recovery investment planning solutions - optimizing
+    earthquake resilience & functional recovery of highways
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1340
+docidentifier:
+- content: NIST SP 1340
+  type: NIST
+  primary: true
+- content: NIST.SP.1340
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tsatsis, Angelos.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fung, Juan.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-0820-787X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Antoniou, Maria.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Saadat, Yalda.
+    identifier:
+    - type: uri
+      content: "(orcid) 0000-0003-3959-1808"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gelogoti, Fani.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kourkoulis, Rallis.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McCabe, Steven.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The United States (US) faces significant challenges in maintaining and
+    modernizing its aging infrastructure, particularly in the transportation sector,
+    which includes roadways, bridges, rail, air, ports, and pipelines. Infrastructure
+    vulnerabilities continue to be exacerbated by maintenance backlogs, inefficient
+    resource allocation, and increasing risks from natural hazards and extreme weather
+    events. In response, recent initiatives have sought to enhance infrastructure
+    resilience, including the Functional Recovery framework, developed by the National
+    Institute of Standards and Technology (NIST) and the Federal Emergency Management
+    Agency (FEMA), which establishes recovery-based objectives to improve post-disaster
+    performance of lifeline infrastructure systems. Building on this evolving landscape,
+    this report introduces a first-generation decision-support framework, TRIP$ (Transportation
+    Risk/Recovery Investment Planning Solutions). TRIP$ integrates developments for
+    highway infrastructure resilience with advanced methodologies for risk assessment
+    and resilience-based investment planning. Initially focused on earthquake resilience
+    of highway infrastructure, the modular framework can incorporate multiple hazards,
+    such as flood, and be adapted to other lifeline systems. An end-to-end technical
+    implementation focused on the seismic resilience of US highway bridge portfolios
+    illustrates the framework’s scope, functionality, and potential applications.
+    The report concludes with a discussion of limitations, ongoing research, and future
+    development directions.
+series:
+- title:
+  - content: NIST special publication
+  number: '1340'
+- title:
+  - content: NIST special publication
+  number: '1340'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

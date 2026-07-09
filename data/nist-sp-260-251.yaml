@@ -1,0 +1,69 @@
+---
+id: NISTSP260251
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Determination of certified values and uncertainties for SRM 2942a
+  type: title-main
+- language: en
+  script: Latn
+  content: 'relative intensity correction standard for fluorescence spectroscopy:
+    ultraviolet emission'
+  type: title-part
+- language: en
+  script: Latn
+  content: 'Determination of certified values and uncertainties for SRM 2942a - relative
+    intensity correction standard for fluorescence spectroscopy: ultraviolet emission'
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-251
+docidentifier:
+- content: NIST SP 260-251
+  type: NIST
+  primary: true
+- content: NIST.SP.260-251
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Standard Reference Material (SRM) 2942a is a cuvette-shaped, Ce-ion-doped
+    glass, recommended for use for relative spectral correction of emission from 320
+    to 430 nm and day-to-day performance verification of steady-state fluorescence
+    spectrometers. It was certified for relative intensity of fluorescence as a function
+    of emission wavelength. SRM 2942a is a renewal of SRM 2942, which was originally
+    released by NIST in 2009. The techniques and methods used to determine the certified
+    values and uncertainties are described here. Material properties that were explored
+    include photostability, absorbance, dissolution rate in water, anisotropy and
+    temperature coefficient of fluorescence intensity. The expanded uncertainties
+    in the certified spectrum are about 5% around the peak maximum at 330 nm, using
+    an excitation wavelength of 310 nm. The SRM also exhibits a strong resistance
+    to photodegradation.
+series:
+- title:
+  - content: NIST special publication
+  number: 260-251
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 260-251
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

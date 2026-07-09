@@ -1,0 +1,79 @@
+---
+id: NISTSP80055v2
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Measurement guide for information security volume 2
+  type: title-main
+- language: en
+  script: Latn
+  content: developing an Information security measurement program
+  type: title-part
+- language: en
+  script: Latn
+  content: Measurement guide for information security volume 2 - developing an Information
+    security measurement program
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-55v2
+docidentifier:
+- content: NIST SP 800-55v2
+  type: NIST
+  primary: true
+- content: NIST.SP.800-55v2
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Trinh, Hung.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3323-0836"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pillitteri, Victoria Yan.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7446-7506"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This document provides guidance on how an organization can develop an information
+    security measurement program with a flexible structure for approaching activities
+    around the development and implementation of information security measures.
+series:
+- title:
+  - content: NIST special publication
+  number: 800-55v2
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-55v2
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

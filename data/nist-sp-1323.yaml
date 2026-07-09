@@ -1,0 +1,96 @@
+---
+id: NISTSP1323
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Methods for elicitation of risk preferences and perceptions
+  type: title-main
+- language: en
+  script: Latn
+  content: an examination of individual and group risk preferences
+  type: title-part
+- language: en
+  script: Latn
+  content: Methods for elicitation of risk preferences and perceptions - an examination
+    of individual and group risk preferences
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1323
+docidentifier:
+- content: NIST SP 1323
+  type: NIST
+  primary: true
+- content: NIST.SP.1323
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gore, Christina.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3586-6918"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Helgeson, Jennifer.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3692-7874"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Risk fundamentally influences strategic planning, investment management,
+    and policy formulation across businesses, governments, and communities. Accurately
+    measuring risk preferences and perceptions at both individual and community levels
+    is indispensable for informed decision-making, particularly in community resilience
+    planning. This NIST Special Publication explores the definition of risk, its application
+    and importance in the community resilience domain and disentangles relative aspects
+    of risk, including risk behavior, risk preference, risk perception, and risk attitude.
+    We delve into how risk preferences and risk perceptions influence decision-making
+    and outline various methods for eliciting associated values. These methods include
+    but are not limited to incentivized games and data collection instruments, highlighting
+    the different techniques used to gauge how individuals perceive risks. We report
+    on various methods to measure and aggregate risk preferences within groups. Current
+    methods are insufficient in deriving accurate group risk preferences from individual
+    data and fail to fully address the complexities of group interactions. Addressing
+    this gap requires the development of more refined and robust methods to ensure
+    accurate representation of group risk preferences, thereby enhancing community
+    resilience strategies. This NIST Special Publication underscores the critical
+    role of risk preference elicitation, highlights challenges in aggregating individual
+    preferences to the group level, and advocates for improved aggregation methods
+    to support resilient community planning.
+series:
+- title:
+  - content: NIST special publication
+  number: '1323'
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '1323'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,104 @@
+---
+id: NISTSP80050r1
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Building a cybersecurity and privacy learning program
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-50r1
+docidentifier:
+- content: NIST SP 800-50r1
+  type: NIST
+  primary: true
+- content: NIST.SP.800-50r1
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hansche, Susan.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ellis, Brenda.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sanchez-Cherry, Kevin.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Snyder, Julie Nethery.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0004-6352-2831"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Walden, Donald.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This publication provides guidance for federal agencies and organizations
+    to develop and manage a life cycle approach to building a Cybersecurity and Privacy
+    Learning Program (CPLP). The approach is intended to address the needs of large
+    and small organizations as well as those building an entirely new program. The
+    information leverages broadly accepted standards, regulations, legislation, and
+    best practices. The recommendations are customizable and may be implemented as
+    part of an organization-wide process that manages awareness, training, and education
+    programs for a diverse set of federal employee audiences. The program should encourage
+    behavior change as part of risk management and lead to developing a privacy and
+    security culture in the organization. The guidance also includes suggested metrics
+    and evaluation methods to regularly improve and update the program as needs evolve.
+relation:
+- type: updates
+  bibitem:
+    formattedref:
+      content: NIST SP 800-50
+    docidentifier:
+    - content: NIST SP 800-50
+      type: NIST
+series:
+- title:
+  - content: NIST special publication
+  number: 800-50r1
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-50r1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

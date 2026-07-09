@@ -1,0 +1,75 @@
+---
+id: NISTSP210007
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Neutrons for the future
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.2100-07
+docidentifier:
+- content: NIST SP 2100-07
+  type: NIST
+  primary: true
+- content: NIST.SP.2100-07
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hore, Mike.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kline, Steven.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1726-5542"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: NIST Center for Neutron Research.
+abstract:
+- language: en
+  script: Latn
+  content: Producing neutrons in quantities sufficient for most applications is challenging
+    and requires centralized facilities that develop and deploy cutting-edge instrumentation
+    for the Nation’s scientific and engineering communities. For over 50 years, the
+    NIST Center for Neutron Research (NCNR) has been at the forefront of neutron science,
+    serving the Nation’s need for these essential measurement capabilities. However,
+    as the current reactor ages, planning has begun for a replacement facility. This
+    2023 workshop titled “Neutrons for the Future,” attended by over 200 participants
+    from across the US, produced critical insights into the future of neutron measurement
+    science and, therefore, the requirements for a future NIST Neutron Source (NNS).
+    The conceptual design of the NNS, accompanying facilities, equipment, and staffing,
+    will be directed by key findings and priorities identified in this workshop.
+series:
+- title:
+  - content: NIST special publication
+  number: 2100-07
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 2100-07
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

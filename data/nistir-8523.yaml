@@ -1,0 +1,115 @@
+---
+id: NISTIR8523
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Multi-factor authentication for criminal justice information systems
+  type: title-main
+- language: en
+  script: Latn
+  content: implementation considerations for protecting criminal justice information
+  type: title-part
+- language: en
+  script: Latn
+  content: Multi-factor authentication for criminal justice information systems -
+    implementation considerations for protecting criminal justice information
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8523
+docidentifier:
+- content: NIST IR 8523
+  type: NIST
+  primary: true
+- content: NIST.IR.8523
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ajmo, Jason.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0007-4046-6146"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Umarji, Sudhi.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-6842-8167"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dog, Spike E.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0000-0201-6776"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Russell, Mark.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0004-1273-392X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, Karen.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-6334-9486"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Most recent cybersecurity breaches have involved compromised credentials.
+    Migrating from single-factor to multi-factor authentication (MFA) reduces the
+    risk of compromised credentials and unauthorized access. Both criminal and noncriminal
+    justice agencies need to access criminal justice information (CJI); to reduce
+    the risk of unauthorized access, the Criminal Justice Information Services (CJIS)
+    Security Policy now requires the use of MFA when accessing CJI. This document
+    provides practical information to agencies that are implementing MFA, reflecting
+    on lessons learned from agencies around the country and from CJI-related technology
+    vendors.
+series:
+- title:
+  - content: NISTIR
+  number: '8523'
+- title:
+  - content: NISTIR
+  number: '8523'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

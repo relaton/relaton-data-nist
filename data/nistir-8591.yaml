@@ -1,0 +1,102 @@
+---
+id: NISTIR8591
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Quasistatic crack formation in multiphase materials driven by internal
+    phases expansion mechanisms
+  type: title-main
+- language: en
+  script: Latn
+  content: application to cement-based materials
+  type: title-part
+- language: en
+  script: Latn
+  content: Quasistatic crack formation in multiphase materials driven by internal
+    phases expansion mechanisms - application to cement-based materials
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8591
+docidentifier:
+- content: NIST IR 8591
+  type: NIST
+  primary: true
+- content: NIST.IR.8591
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Garboczi, Edward.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8973-1330"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Martys, Nicos.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7884-6028"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Watson, Stephanie.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0003-2003-5592"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Internal crack formation and propagation are often found in concrete undergoing
+    expansion of some internal phase or phases, driven by deterioration mechanisms
+    such as pyrrhotite oxidation or alkali-silica reaction. This study employs a 2-D
+    finite element-based coarse-grained quasistatic approach to model crack formation
+    and propagation when selected internal phases expand. Idealized cases of composite
+    materials are first analyzed. The computational model is then applied to microstructure
+    images of cement-based materials to demonstrate its effectiveness. This model
+    enables the testing of various hypotheses regarding internal degradation mechanisms
+    in composite materials, aiding in the development of a conceptual framework and
+    identifying key elements of degradation. An analysis of crack initiation site
+    location, number, and size was conducted, and crack propagation simulations were
+    generated. A semi-empirical relationship between mechanical properties and crack
+    area was proposed. This 2-D model provides a valuable tool to help understand
+    internal cracking due to various deterioration mechanisms driven by expansive
+    material phases.
+series:
+- title:
+  - content: NISTIR
+  number: '8591'
+- title:
+  - content: NISTIR
+  number: '8591'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,93 @@
+---
+id: NISTHB1503e2025
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: NVLAP
+  type: title-main
+- language: en
+  script: Latn
+  content: bulk asbestos analysis
+  type: title-part
+- language: en
+  script: Latn
+  content: NVLAP - bulk asbestos analysis
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.HB.150-3-2025
+docidentifier:
+- content: NIST HB 150-3e2025
+  type: NIST
+  primary: true
+- content: NIST.HB.150-3-2025
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ho, Derek.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0003-0168-3309"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Williamson, Shelby.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0007-4554-0480"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Standards Coordination Office.
+abstract:
+- language: en
+  script: Latn
+  content: NIST Handbook 150-3 presents the technical requirements and guidance for
+    the accreditation of laboratories under the National Voluntary Laboratory Accreditation
+    Program (NVLAP) Bulk Asbestos Fiber Analysis program. It is intended for information
+    and use by accredited laboratories, laboratories seeking accreditation, laboratory
+    accreditation systems, users of laboratory services, and others needing information
+    on the requirements for accreditation under this program. The 2024 edition of
+    NIST Handbook 150-3 aligns with ISO/IEC 17025:2017. The requirements of NIST Handbook
+    150 and the specific requirements and interpretations in the NIST Handbook 150-3
+    must be combined to produce the criteria for accreditation in the NVLAP Bulk Asbestos
+    Fiber Analysis program. For more information visit the NVLAP website (http://www.nist.gov/nvlap).
+relation:
+- type: updates
+  bibitem:
+    formattedref:
+      content: NIST HB 150-3e2006
+    docidentifier:
+    - content: NIST HB 150-3e2006
+      type: NIST
+series:
+- title:
+  - content: NIST handbook
+  number: 150-3 2025
+- title:
+  - content: NIST handbook; NIST HB
+  number: 150-3 2025
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

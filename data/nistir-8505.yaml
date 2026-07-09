@@ -1,0 +1,62 @@
+---
+id: NISTIR8505
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: A data protection approach for cloud-native applications
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8505
+docidentifier:
+- content: NIST IR 8505
+  type: NIST
+  primary: true
+- content: NIST.IR.8505
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hales, Wesley.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This document addresses the need for effective data protection strategies
+    in the evolving realm of cloud-native network architectures, including multi-cloud
+    environments, service mesh networks, and hybrid infrastructures. By extending
+    foundational data categorization concepts, it provides a framework for aligning
+    data protection approaches with the unknowns of data in transit. Specifically,
+    it explores service mesh architecture, leveraging and emphasizing the capabilities
+    of Web Assembly (WASM) in ensuring robust data protection as sensitive data is
+    transmitted through east-west and north-south communication paths.
+series:
+- title:
+  - content: NISTIR
+  number: '8505'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8505'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

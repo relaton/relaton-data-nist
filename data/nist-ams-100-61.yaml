@@ -1,0 +1,60 @@
+---
+id: NISTAMS10061
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: 'Economics of digital twins: costs, benefits, and economic decision making'
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-61
+docidentifier:
+- content: NIST AMS 100-61
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-61
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This report examines the economics of digital twins in the manufacturing
+    industry, including the costs, benefits, and economic decision to invest in the
+    adoption of a digital twin. It characterizes the costs and benefits along with
+    the circumstances under which digital twins are likely to be cost effective. The
+    report develops a proposed 5-step method for investment analysis in digital twins.
+    Finally, it provides an approximated estimate of the potential impact of the adoption
+    of digital twins in the manufacturing industry to be $37.9 billion. A Monte Carlo
+    simulation varying key factors of this estimate by -50 % and +20 % (i.e., biasing
+    it downwards) and assuming that digital twins account for between the 80th and
+    95th percentile of data tracking and analytics investments by cost, puts the 90
+    % confidence interval between $16.1 billion and $38.6 billion with a median of
+    $27.2 billion. From these estimates, one could reasonably surmise that the potential
+    impact of digital twins is likely in the low tens of billions of dollars.
+series:
+- title:
+  - content: NIST advanced manufacturing series
+  number: 100-61
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 100-61
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

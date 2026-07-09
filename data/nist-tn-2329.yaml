@@ -1,0 +1,91 @@
+---
+id: NISTTN2329
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: A collection of dwellings to represent the U.S. housing stock
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2329
+docidentifier:
+- content: NIST TN 2329
+  type: NIST
+  primary: true
+- content: NIST.TN.2329
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Persily, Andrew K.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-9542-3318"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Emmerich, Steven J.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3848-9249"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This report presents a comprehensive update to the collection of dwellings
+    used to represent the U.S. housing stock, reflecting changes and trends up to
+    the year 2024. This update aims to ensure the collection remains relevant and
+    accurately mirrors the diverse characteristics of residential buildings across
+    the country, facilitating more precise modeling and analysis of indoor air quality,
+    energy usage, and ventilation requirements. Through a thorough examination of
+    current data sources, including recent Residential Energy Consumption Surveys
+    (RECS 2020) and the Department of Housing and Urban Development’s (HUD) American
+    House Housing Survey (AHS 2021), gaps from the previous 1997 collection were identified
+    and addressed. A systematic approach was adopted to select a representative sample
+    of dwellings, considering various parameters such as year of construction, types
+    of households, number of stories, floor area, and specific architectural and mechanical
+    features. The report also delves into the CONTAM modeling metrology used to analyze
+    multizone building representations, facilitating detailed studies on airflow patterns,
+    contaminant dispersion, and energy implications of various ventilation strategies.
+    Key findings underscore the evolving nature of the U.S. housing stock, particularly
+    in terms of increased energy efficiency, shifts in heating equipment types, and
+    variations in dwelling design that impact indoor air quality. The updated collection
+    is expected to be a robust tool for researchers, policymakers, and industry professionals
+    in developing more effective building codes, standards, and practices that ensure
+    healthier and more sustainable residential environments. The report concludes
+    with recommendations for future updates to the collection, advocating for ongoing
+    research and data collection efforts to capture emerging trends, advancements
+    in building technologies, and changes in occupancy behaviors. This ongoing refinement
+    process is essential to maintain the relevance and utility of the collection in
+    supporting the design and evaluation of buildings that meet the changing needs
+    and preferences of the U.S. population.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2329'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

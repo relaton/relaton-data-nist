@@ -1,0 +1,79 @@
+---
+id: NISTSP800236
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Fiscal year 2024 annual report for NIST cybersecurity and privacy program
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-236
+docidentifier:
+- content: NIST SP 800-236
+  type: NIST
+  primary: true
+- content: NIST.SP.800-236
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: O'Reilly, Patrick.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-8289-0390"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rigopoulos, Kristina.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-5223-8801"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+abstract:
+- language: en
+  script: Latn
+  content: Throughout Fiscal Year 2024 (FY 2024) — from October 1, 2023, through September
+    30, 2024 — the NIST Information Technology Laboratory (ITL) Cybersecurity and
+    Privacy Program successfully responded to numerous challenges and opportunities
+    in security and privacy. This Annual Report highlights the ITL Cybersecurity and
+    Privacy Program’s FY 2024 research activities, including the ongoing participation
+    and development of international standards, research and practical applications
+    in several key priority areas (e.g., post-quantum cryptography, NIST Cybersecurity
+    Framework [CSF 2.0], and new CSF profiles), improved software and supply chain
+    cybersecurity, work on IoT cybersecurity guidelines, National Cybersecurity Center
+    of Excellence (NCCoE) projects, a new comment site for NIST’s Risk Management
+    Framework, the release of a Phish scale, progress in the Identity and Access Management
+    program, and Strategic and Emerging Research Initiatives (SERI) for autonomous
+    vehicles.
+series:
+- title:
+  - content: NIST special publication
+  number: 800-236
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-236
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

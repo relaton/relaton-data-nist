@@ -1,0 +1,132 @@
+---
+id: NISTIR8538
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: In-process monitoring and non-destructive evaluation for metal additive
+    manufacturing processes
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8538
+docidentifier:
+- content: NIST IR 8538
+  type: NIST
+  primary: true
+- content: NIST.IR.8538
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fox, Jason.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4585-8284"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kim, Felix.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-1042-9500"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lane, Brandon.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-5153-1678"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Praniewicz, Maxwell.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-8800-4126"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tondare, Vipin.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-0483-1990"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Weaver, Jordan.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-4857-5164"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Witherell, Paul.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-6375-9482"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The rapid pace of maturation of metal additive manufacturing (AM) technologies,
+    makes them an excellent candidate for the fabrication of nuclear power plant (NPP)
+    components. However, the current levels of process variations create numerous
+    challenges yet to be overcome for industrial acceptance of AM for NPP applications.
+    One of those challenges is associated with the qualification and certification
+    of fabricated components for mission-critical applications such as NPPs. To reduce
+    the cost of qualification and certification, in-process monitoring and in-process
+    non-destructive evaluation (NDE) are considered essential tools. This report aims
+    to support the efforts of the U.S. Nuclear Regulatory Commission (NRC) to meet
+    the challenges of the certification of the NPP components fabricated by AM technologies.
+    It provides a review of the current state-of-the-art in the areas of in-process
+    monitoring and in-process NDE methods, instruments, and relevant standards, identifying
+    gaps in knowledge, technologies, and standards to achieve the goal of using them
+    as robust tools for the AM process and part qualification.
+series:
+- title:
+  - content: NISTIR
+  number: '8538'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8538'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

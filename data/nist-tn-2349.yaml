@@ -1,0 +1,64 @@
+---
+id: NISTTN2349
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Topological initialization for multidimensional scaling
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2349
+docidentifier:
+- content: NIST TN 2349
+  type: NIST
+  primary: true
+- content: NIST.TN.2349
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kearsley, Anthony J.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-9576-0621"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Multidimensional scaling is a popular technique for visualizing dissimilarities
+    between objects in complex datasets. For a single dataset, different initial configurations
+    for multidimensional scaling may produce representations with qualitatively different
+    features. This presents both challenges and opportunities for those who use these
+    methods. We introduce the new technique Topological Initialization for Multidimensional
+    Scaling (TIMDS) which employs cycle representatives, a tool from topological data
+    analysis, to generate multidimensional scaling initializations. We show that for
+    some datasets, TIMDS produces representations with competitive stress values and
+    better visualization of key dataset attributes compared to random or classical
+    initialization methods.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2349'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

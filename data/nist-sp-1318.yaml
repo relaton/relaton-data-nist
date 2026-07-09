@@ -1,0 +1,67 @@
+---
+id: NISTSP1318
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Protecting controlled unclassified information (CUI)
+  type: title-main
+- language: en
+  script: Latn
+  content: NIST Special Publication 800-171, revision 3 small business primer
+  type: title-part
+- language: en
+  script: Latn
+  content: Protecting controlled unclassified information (CUI) - NIST Special Publication
+    800-171, revision 3 small business primer
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1318
+docidentifier:
+- content: NIST SP 1318
+  type: NIST
+  primary: true
+- content: NIST.SP.1318
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: This introductory guide provides small businesses with a high level overview
+    of NIST Special Publication (SP) 800-171 Revision 3, Protecting Controlled Unclassified
+    Information in Nonfederal Systems and Organizations. The document is broken up
+    into two separate sections. The first few pages provide a general overview tailored
+    to business leaders or those new to SP 800-171 R3 The second section is written
+    for those who are tasked with implementing the security requirements in SP 800-171
+    R3 (whether doing it themselves or engaging a vendor), or those who want to gain
+    an introductory understanding of each of the control families. This primer is
+    not all-encompassing and serves as a bridge to the larger SP 800-171 R3 publication.
+    The guide includes an overview of SP 800-171 R3, frequently asked questions, tips
+    for getting started, related resources, definitions and examples, and more.
+series:
+- title:
+  - content: NIST special publication
+  number: '1318'
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '1318'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

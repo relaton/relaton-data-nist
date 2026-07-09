@@ -1,0 +1,90 @@
+---
+id: NISTNCSTAR19A
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Global structural analysis of the response of World Trade Center Building
+    7 to fires and debris impact damage
+  type: title-main
+- language: en
+  script: Latn
+  content: federal building and fire safety investigation of the World Trade Center
+    disaster
+  type: title-part
+- language: en
+  script: Latn
+  content: Global structural analysis of the response of World Trade Center Building
+    7 to fires and debris impact damage - federal building and fire safety investigation
+    of the World Trade Center disaster
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.NCSTAR.1-9a
+docidentifier:
+- content: NIST NCSTAR 1-9A
+  type: NIST
+  primary: true
+- content: NIST.NCSTAR.1-9a
+  type: DOI
+date:
+- type: issued
+  at: '2008'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kirkpatrick, Steven.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Peterson, Brian.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bocchieri, Robert.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/no2015040956
+abstract:
+- language: en
+  script: Latn
+  content: This report analyzes the global response of WTC 7 to fire-induced structural
+    failures and the resulting sequence of component and subsystem failures to determine
+    the events that led to the global collapse of the building. The analysis involved
+    a finite element model of the entire building, which was developed in LS-DYNA.
+    Preliminary work involved two-story and 14 story subassemblies. The 47 story global
+    model was based on the original structural drawings as well as construction fabrication
+    shop drawings for connections. The model included the primary structural components
+    throughout the building, including exterior and core columns, floor framing beams
+    and girders, floor slabs, column transfer truss structures, wind bracing truss
+    members, and penthouse structures.
+series:
+- title:
+  - content: NIST NCSTAR; National Construction Safety Team Act report
+  number: 1-9A
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

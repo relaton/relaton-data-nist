@@ -1,0 +1,151 @@
+---
+id: NISTIR8551
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: High pressure heat treatment development for laser powder bed fusion Ti-6Al-4V
+    alloy
+  type: title-main
+- language: en
+  script: Latn
+  content: observations and findings
+  type: title-part
+- language: en
+  script: Latn
+  content: High pressure heat treatment development for laser powder bed fusion Ti-6Al-4V
+    alloy - observations and findings
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8551
+docidentifier:
+- content: NIST IR 8551
+  type: NIST
+  primary: true
+- content: NIST.IR.8551
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Benzing, Jake T.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7266-870X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Moser, Newell.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3346-6427"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kafka, Orion L.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-2333-8154"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Joress, Howie.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-6552-2972"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McDannald, Austin.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3767-926X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Newton, David.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Koepke, Lucas.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-6705-8774"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hrabe, Nik.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-7585-0980"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This report summarizes a year long study carried out by NIST into the processing-structure-properties-performance
+    (PSPP) relationships in laser powder bed fusion (PBF-L) additively manufactured
+    (AM) Ti-6Al-4V alloy. In this study, the effects of heat treatments as the influence
+    microstructure is investigated with respect to uniaxial tensile properties and
+    rotating bending fatigue. Given that slight differences in chemistry can drastically
+    influence mechanical properties, this study utilized a single PBF-L build to construct
+    90 specimens for characterization. These 90 specimens were split up into 15 groups,
+    14 of which were subjected to novel heat treatments in order to investigate the
+    effects of different microstructures achieved through these heat treatments on
+    the mechanical properties. Microstructural characterization techniques included
+    scanning electron microscopy measurements via secondary electron (SE) and backscatter
+    electron (BSE) imaging, and electron backscatter diffraction (EBSD). Additional
+    measurements were taken via X-ray diffraction, X-ray computed tomography, and
+    synchrotron X-ray diffraction. Mechanical characterization included uniaxial tension
+    testing of miniaturized (mini) tensile specimens, Rockwell hardness. Three of
+    the test conditions were down selected for fully reversed (R = -1) rotating bending
+    fatigue testing.
+series:
+- title:
+  - content: NISTIR
+  number: '8551'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8551'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

@@ -5,8 +5,16 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: User's guide to the NIST virtual cement and concrete testing laboratory.
-    Version 1.0
+  content: User's guide to the virtual cement and concrete testing laboratory
+  type: title-main
+- language: en
+  script: Latn
+  content: version 1.0
+  type: title-part
+- language: en
+  script: Latn
+  content: User's guide to the virtual cement and concrete testing laboratory - version
+    1.0
   type: main
 source:
 - type: doi
@@ -27,20 +35,7 @@ contributor:
     name:
       completename:
         language: en
-        content: Bentz, Dale P.
-    identifier:
-    - type: uri
-      content: https://id.loc.gov/authorities/names/no2002057595
-- role:
-  - type: author
-  person:
-    name:
-      completename:
-        language: en
         content: Forney, Glenn P.
-    identifier:
-    - type: uri
-      content: https://id.loc.gov/authorities/names/n88098650
 - role:
   - type: publisher
   organization:

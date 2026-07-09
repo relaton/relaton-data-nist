@@ -1,0 +1,118 @@
+---
+id: NISTTN2340
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Network threat event detection
+  type: title-main
+- language: en
+  script: Latn
+  content: experimental & evaluation strategies
+  type: title-part
+- language: en
+  script: Latn
+  content: Network threat event detection - experimental & evaluation strategies
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2340
+docidentifier:
+- content: NIST TN 2340
+  type: NIST
+  primary: true
+- content: NIST.TN.2340
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Richards, Anne Marie
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Garcia, Wilberto
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Martinez, Jason
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Frey, Michael
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-2368-9106"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mumford, M. Dodge
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Broberg, Robert
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Communication Technology Laboratory, .
+abstract:
+- language: en
+  script: Latn
+  content: A novel hybrid network combines quantum communications with classical,
+    non-quantum, networks to strengthen the security of modern networks. Event detection
+    using quantum states as sensors offers a promising method for identifying malicious
+    activities of a deployed, dynamic, multi-node network, distinguishing irregular
+    physical layer behavior from benign network changes. These quantum-augmented detectors
+    are sensitive to network-based threat events like unwanted listeners, route injection,
+    and other malicious actions commonly caused by adversaries. However, environmental
+    factors - network congestion, interference, and signal fluctuations - can impact
+    detection accuracy. These necessitates the use of experimental and evaluation
+    strategies to measure the detector’s performance and protocols when they are operating
+    within real-world networks. Experimental and evaluation strategies are crucial
+    for assessing and advancing these detection methods while maintaining flexibility
+    within the detection methodology. Well-designed experiments offer valuable insights
+    into the detector performance and response time, which are essential for estimating
+    error rates associated with false alarms, missed detections, and misclassifications
+    (e.g., threat event misclassification) across various types of threat events.
+    The goal of the strategies is to achieve sufficiently low uncertainty in these
+    error rate estimates, ensuring the detector operates reliably under different
+    network conditions. By incorporating a variety of events, these strategies contribute
+    to enhancing detector performance, resulting in robust and adaptive solutions
+    for safeguarding modern communication network infrastructures.
+series:
+- title:
+  - content: NIST technical note
+  number: '2340'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

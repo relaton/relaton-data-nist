@@ -1,0 +1,82 @@
+---
+id: NISTTN2338
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Public Life Cycle Inventory Data Gap Analysis through Process Modeling
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2338
+docidentifier:
+- content: NIST TN 2338
+  type: NIST
+  primary: true
+- content: NIST.TN.2338
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rodriguez-Garcia, Gonzalo.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-8084-8236"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ranganath, Sindhu.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0005-8689-4336"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Given the increasing prevalence of using Environmental Product Declarations
+    (EPDs) for product comparisons and selection, both domestically and globally,
+    there is a need to ensure the results reported in EPDs are useful for such comparisons
+    (i.e., transparent and standardized to ensure quality decision making). One challenge
+    that was identified more than a decade ago was the lack of common data sources,
+    which could undermine the comparability of EPDs and similar claims. Federal agencies
+    have targeted this issue through the development of public secondary datasets
+    and gap assessments of currently available public life cycle inventory (LCI) datasets.This
+    study complements public data gap assessments completed by the Environmental Protection
+    Agency (EPA) and Department of Energy (DOE) by providing a framework for a more
+    in-depth approach to identify and quantify the impacts from public data gaps that
+    can be implemented across any product category to assist in prioritizing data
+    gaps to address. The scope of this study is to (1) develop a robust framework
+    to identify public life cycle assessment (LCA) data gaps, (2) identify and quantify
+    the impact of each data gap across each product category, and (3) provide qualitative
+    rankings of data gaps within and across the product categories considered. Additionally,
+    there is a brief comparison across data gap assessments from this study to those
+    of EPA and DOE.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2338'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

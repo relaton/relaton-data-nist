@@ -1,0 +1,63 @@
+---
+id: NISTSP1317
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: NIST conference papers
+  type: title-main
+- language: en
+  script: Latn
+  content: fiscal year 2023 / National Institute of Standards and Technology (U.S.)
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST conference papers - fiscal year 2023 / National Institute of Standards
+    and Technology (U.S.)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1317
+docidentifier:
+- content: NIST SP 1317
+  type: NIST
+  primary: true
+- content: NIST.SP.1317
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+abstract:
+- language: en
+  script: Latn
+  content: This Special Publication represents the work of researchers at professional
+    conferences, as reported by NIST employees in Fiscal Year 2023 (October 1, 2022–September
+    30, 2023).
+series:
+- title:
+  - content: NIST special publication
+  number: '1317'
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '1317'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

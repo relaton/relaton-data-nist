@@ -1,0 +1,116 @@
+---
+id: NISTTN2367
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: NIST special database 302
+  type: title-main
+- language: en
+  script: Latn
+  content: annotated latent distal phalanxes
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST special database 302 - annotated latent distal phalanxes
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2367
+docidentifier:
+- content: NIST TN 2367
+  type: NIST
+  primary: true
+- content: NIST.TN.2367
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schwarz, Matthew.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0005-7717-9728"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Heising, Jessica.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0006-6773-3817"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Peterson, Jennifer.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0003-9145-3493"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ko, Kenneth.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-6409-1592"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Marshall, Karen.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0008-7726-4852"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Flanagan, Patricia.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: National Institute of Standards and Technology (NIST) Special Database
+    302 contains 10000latent impression distal phalanx images. This collection of
+    data came from the Intelligence Advanced Research Projects Activity’s Nail to
+    Nail Fingerprint Challenge. NIST worked with Certified Latent Print Examiners
+    to annotate these images with features (e.g., minutiae, orientation, ridge quality
+    maps) and determine their ground truth finger positions. The fully-annotated collection
+    of data is made freely available for research purposes
+series:
+- title:
+  - content: NIST technical note
+  number: '2367'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

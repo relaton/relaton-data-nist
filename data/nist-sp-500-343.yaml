@@ -1,0 +1,85 @@
+---
+id: NISTSP500343
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Face Recognition Technology Evaluation (FRTE)
+  type: title-main
+- language: en
+  script: Latn
+  content: preparation of compact face images for 2D barcodes
+  type: title-part
+- language: en
+  script: Latn
+  content: Face Recognition Technology Evaluation (FRTE) - preparation of compact
+    face images for 2D barcodes
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.500-343
+docidentifier:
+- content: NIST SP 500-343
+  type: NIST
+  primary: true
+- content: NIST.SP.500-343
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ngan, Mei
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0008-3438-7756"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hom, Austin
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0000-4890-199X"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: Compact face photographs, stored and digitally signed in 2D barcodes, form
+    a low-cost tamper-resistant identity credential. The cryptographic signature allows
+    binding of the 2D barcode to the issuer, and biometric authentication binds a
+    live photograph of the user to the photo stored in the barcode. This report documents
+    options for the detection, cropping, resizing, and compression steps needed to
+    instantiate a barcode-ready photograph. The compression step is necessarily lossy,
+    removing fine spatial structure from the face photograph. The report documents
+    the accuracy consequences and provides assurance that fully open standards-based
+    compact faces can be verified with very high accuracy.
+series:
+- title:
+  - content: NIST special publication
+  number: 500-343
+- title:
+  - content: NIST special publication
+  number: 500-343
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

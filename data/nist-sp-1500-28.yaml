@@ -1,0 +1,84 @@
+---
+id: NISTSP150028
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Informational scientific primers for officers of the court
+  type: title-main
+- language: en
+  script: Latn
+  content: intended to strengthen use of forensic science evidence
+  type: title-part
+- language: en
+  script: Latn
+  content: Informational scientific primers for officers of the court - intended to
+    strengthen use of forensic science evidence
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1500-28
+docidentifier:
+- content: NIST SP 1500-28
+  type: NIST
+  primary: true
+- content: NIST.SP.1500-28
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Farrell, Laurel J.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-5772-585X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Benson, Lisa M.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0008-4430-6649"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Laboratory Programs.
+abstract:
+- language: en
+  script: Latn
+  content: Officers of the Court including judges and attorneys can benefit from receiving
+    information from neutral sources to inform their understanding of foundational
+    scientific and forensic science principles. Inspired by a request from Congress
+    and a National Research Council report, the National Institute of Standards and
+    Technology (NIST) Forensic Science Program has prepared 17 short primers covering
+    aspects of quality, statistics, and communication. This information is intended
+    as an entry point for Officers of the Court on scientific topics that can enable
+    more informed use of forensic science evidence in cases they encounter.
+series:
+- title:
+  - content: NIST special publication
+  number: 1500-28
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1500-28
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,114 @@
+---
+id: NISTTN2335
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: MEMSDuino
+  type: title-main
+- language: en
+  script: Latn
+  content: an arduino-based MEMS switch controller
+  type: title-part
+- language: en
+  script: Latn
+  content: MEMSDuino - an arduino-based MEMS switch controller
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2335
+docidentifier:
+- content: NIST TN 2335
+  type: NIST
+  primary: true
+- content: NIST.TN.2335
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sirois, Adam.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-4421-2817"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Flowers-Jacobs, Nathan.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-9081-5187"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hopkins, Peter.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-4353-0901"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Benz, Samuel.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8679-0765"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Waltman, Steve.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Communications Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Radio frequency cryogenic switches are a critical enabling technology for
+    quantum information science, both for calibration and high throughput testing
+    of samples. Traditionally solenoid-based switches have been used, but transition
+    is being made to MEMS-based switches due to their lower power dissipation, smaller
+    size, and the tendency of solenoid switches to produce current pulses which destroy
+    expensive cryogenic amplifiers. These MEMS switches require a 90-volt signal to
+    be applied to the control lines which determine the state of the switches. Switches
+    exist which have built in CMOS-based control electronics to drive the 90 V, but
+    these do not work at the cryogenic temperatures used in quantum information science.
+    The instrument presented here is a 19-inch rack-mount controller for a cryogenic
+    MEMS switch network which allows a human operator to see the state of the switch
+    via a row of clearly marked indicator lights, and to change the state manually
+    via buttons on an LED-based indicator board or automatically via Python-based
+    serial port commands. The design can also be modified for to control other switches
+    that require either a large voltage or current to switch.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2335'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

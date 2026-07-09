@@ -1,0 +1,197 @@
+---
+id: NISTIR8570
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Refrigerant properties development R&D
+  type: title-main
+- language: en
+  script: Latn
+  content: final report to U.S. Department of Energy on interagency agreements 892434-19-S-EE000031
+    and 892434-23-S-EE000120
+  type: title-part
+- language: en
+  script: Latn
+  content: Refrigerant properties development R&D - final report to U.S. Department
+    of Energy on interagency agreements 892434-19-S-EE000031 and 892434-23-S-EE000120
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8570
+docidentifier:
+- content: NIST IR 8570
+  type: NIST
+  primary: true
+- content: NIST.IR.8570
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Avery, Katrina N.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0005-9707-2098"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bazyleva, Ala.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-3018-2020"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bell, Ian H.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1091-9080"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fortin, Tara J.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-6150-8930"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Huber, Marcia L.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7976-741X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kazakov, Andrei F.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0008-6964-3086"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lemmon, Eric W.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-0974-0203"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Outcalt, Stephanie L.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-8143-7316"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Perkins, Richard A.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8526-6742"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rasmussen, Elizabeth G.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-2871-6599"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Riccardi, Demian.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-8095-7803"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rowane, Aaron J.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-7605-0774"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The HVAC&R industry is facing the challenge of phasing down the use of
+    the HFC (hydrofluorocarbon) refrigerants. New energy-efficient refrigerants are
+    required, and accurate property data for them are needed to design and operate
+    new HVAC equipment using the new refrigerants. The present work has measured property
+    data on key mixtures among the olefins R-1234yf, R-1234ze(E), R-1130(E), R-1132a,
+    R-1132(E), and R-1336mzz(Z), together with the HFCs R-152a, R-32, and R-227ea.
+    Measurements were also carried out on pure R-1130(E). Included were vapor-liquid
+    equilibrium (VLE) measurements, pressure-density-temperature-composition (p, ρ,
+    T, x) data, and speed of sound. This report summarizes the measurements carried
+    out, describes the experimental techniques used, and gives examples of the results.
+    These data were then used to develop models of the thermodynamic properties; these
+    are expressed in terms of “equations of state” (EOS). In addition to the mixture
+    models, EOS are presented for pure R-1130(E) and R-1132(E). The main output of
+    the project takes the form of the numerical parameters for the pure-fluid and
+    mixture models, which are reported here and in the form of data files for use
+    with the NIST REFPROP database of refrigerant properties. Full details of both
+    the experimental and modeling efforts are given in papers published in archival
+    journals, which are linked in the report. The present work has added important
+    new refrigerants and refrigerant blends to the existing data set. As a result,
+    industry is able to evaluate a wider range of options.
+series:
+- title:
+  - content: NISTIR
+  number: '8570'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8570'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

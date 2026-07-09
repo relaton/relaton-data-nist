@@ -21,21 +21,22 @@ date:
   at: '2010'
 contributor:
 - role:
-  - type: author
-  person:
+  - type: publisher
+  organization:
     name:
-      completename:
-        language: en
-        content: Smart Grid Cybersecurity Committee.
+    - content: Smart Grid Cybersecurity Committee.
 - role:
   - type: publisher
   organization:
     name:
     - content: National Institute of Standards and Technology (U.S.).
     - content: Engineering Laboratory.
-    identifier:
-    - type: uri
-      content: https://id.loc.gov/authorities/names/no2015040956
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory
 abstract:
 - language: en
   script: Latn

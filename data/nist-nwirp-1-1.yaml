@@ -1,0 +1,107 @@
+---
+id: NISTNWIRP11
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Hurricane Ian research study volume 1
+  type: title-main
+- language: en
+  script: Latn
+  content: Hurricane Ian data synthesis workshop report
+  type: title-part
+- language: en
+  script: Latn
+  content: Hurricane Ian research study volume 1 - Hurricane Ian data synthesis workshop
+    report
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.NWIRP.1-1
+docidentifier:
+- content: NIST NWIRP 1-1
+  type: NIST
+  primary: true
+- content: NIST.NWIRP.1-1
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Levitan, Marc.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8053-2546"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Amini, Mershad.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1854-0737"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cox, Daniel.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Figueira, Sebastião.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This report documents the results of the Hurricane Ian Data Synthesis Workshop,
+    held on June 6, 2023, at the American Society of Civil Engineers headquarters
+    in Reston, Virginia. The purpose of the workshop, which was conducted in collaboration
+    between NIST, Oregon State University, and ASCE, was to share information and
+    data within the hurricane research community to build awareness of recent, ongoing,
+    and planned data collection activities, methods and availability of such data.
+    The workshop included presentations by representatives of a dozen governmental
+    agencies, academic institutions, and private sector organizations, followed by
+    breakout sessions and discussion. The main focus areas of the workshop included
+    data sharing on wind and storm surge hazards and building damage. Secondary areas
+    of emphasis included quantification of storm-generated debris and data collection
+    for studies of hurricane recovery. Workshop participants developed several recommendations
+    for data collection and related research in themed areas of natural, built and
+    human environments, as well as a few more overarching recommendations. Key among
+    those was to foster a more collaborative effort in structuring improved data-sharing
+    platforms and holding a second workshop to explore the most challenging measurement
+    and data collection problems and share research results.
+series:
+- title:
+  - content: National Windstorm Impact Reduction Program series
+  number: 1-1
+- title:
+  - content: National Windstorm Impact Reduction Program series
+  number: 1-1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

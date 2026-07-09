@@ -1,0 +1,85 @@
+---
+id: NISTAMS10073
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Generative modeling of additive manufacturing lack-of-fusion defects using
+    three-dimensional adversarial network
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-73
+docidentifier:
+- content: NIST AMS 100-73
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-73
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kim, Felix H.
+    identifier:
+    - type: uri
+      content: "(orcid) 0000-0002-1042-9500"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This paper presents a three-dimensional generative adversarial network
+    (3D-GAN) framework to generate synthetic pore structures representative of lack-of-fusion
+    (LOF) defects found in additively manufactured (AM) parts. The framework is trained
+    on pores segmented from X-ray computed tomography (XCT) scans of four cobalt chromium
+    (CoCr) disk samples produced by varying laser powder bed fusion (LPBF) process
+    parameters (scan speed and hatch spacing). Synthetic pores of varying sizes and
+    shapes are generated. A component aware loss module is incorporated into the adversarial
+    learning process of the 3D-GAN to reduce fragmentation of generated pore structures.
+    This method led to improved structural coherence relative to post-processing morphological
+    closing operations. The synthetic pores' principal axis length ratio (PAR) and
+    shape parameter (SP) are measured for morphometric analysis. Their distributions
+    approximate the statistical trends observed in the training pore population. A
+    registration approach was applied at the pore level to compare the similarity
+    between synthetic pores. This ensured accurate calculation of intersection over
+    union (IoU) to quantify shape similarity and structural uniqueness. Observed IoU
+    values reflect low overlap between the different synthetic pores, suggesting the
+    model synthesizes structurally distinct pores while maintaining the morphological
+    realism of LOF defects. An additional experiment demonstrated the model’s capacity
+    to interpolate between known pore volumes and moderately extrapolate beyond the
+    training distribution. A pore seeding framework is implemented to illustrate an
+    application of synthetic pores in XCT simulation. Synthetic pores of specified
+    sizes and quantities are embedded into an example AM part design, generating ground
+    truth (GT) images with controlled defect populations. The study generated 3 503
+    synthetic and training pores. The framework can be adapted to generate synthetic
+    data sets for other types of AM defects. Consequently, this work lays a foundation
+    for advancing non-destructive evaluation (NDE) techniques, improving defect detection,
+    and enabling development of digital twin frameworks for AM applications.
+series:
+- title:
+  - content: NIST advanced manufacturing series
+  number: 100-73
+- title:
+  - content: NIST advanced manufacturing series
+  number: 100-73
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

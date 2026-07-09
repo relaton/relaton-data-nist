@@ -1,0 +1,123 @@
+---
+id: NISTIR8535
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Mechanical metallurgy on Columbia gas X100 experimental pipe
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8535
+docidentifier:
+- content: NIST IR 8535
+  type: NIST
+  primary: true
+- content: NIST.IR.8535
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: White, Ryan.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-9023-4713"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Benzing, Jake.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7266-870X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lucon, Enrico.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3021-4785"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Derimow, Nicholas.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-7526-1836"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kroon, Ashley.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Smith, Robert.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This study evaluates the material properties of an X100 pipeline steel
+    extracted from an experimental transmission pipeline section placed into service
+    in the 1960s. The purpose is to compare these properties with current X100 steel
+    standards. Comprehensive chemical characterization, microstructure analysis, and
+    a series of mechanical tests—including tensile, Charpy impact, and indentation
+    tests—were conducted to assess the long-term stability and reliability of these
+    early high-strength steels. The analysis involved seven different welded sections
+    of the pipeline to account for potential variations within the material and welding
+    procedures. The findings indicate significant differences in chemical composition
+    across the various pipe sections, suggesting that these sections may represent
+    different experimental materials. The base metal predominantly exhibited a bainite-ferrite
+    microstructure, with noticeable variations near the pipe surfaces. Unannealed
+    girth welds demonstrated higher toughness and increased hardness in their heat-affected
+    zones compared to seam welds. While most sections of the vintage X100 steel met
+    the modern tensile property requirements, several sections did not meet the impact
+    toughness criteria. In conclusion, the experimental X100 steel aligns with current
+    tensile property requirements, however the steel fails to meet current toughness
+    related requirements. The observed differences in testing methods between current
+    standards and those published in the 1960s were minor, and therefore not a convincing
+    source for observed property differences considering all sources of uncertainty.
+    The absence of original pre-service mechanical testing data prevents conclusions
+    about time-dependent property changes.
+series:
+- title:
+  - content: NISTIR
+  number: '8535'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8535'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,134 @@
+---
+id: NISTIR8552
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Requirements for Cryptographic Accordions
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8552
+docidentifier:
+- content: NIST IR 8552
+  type: NIST
+  primary: true
+- content: NIST.IR.8552
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Davidson, Michael.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4862-5697"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dworkin, Morris.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-2745-9906"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kelsey, John.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3427-1744"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sasaki, Yu.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-1273-2394"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Turan, Meltem Sönmez.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-1950-7130"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chang, Donghoon.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0000-8496-703X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mouha, Nicky.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-8861-782X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Thompson, Alyssa.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0009-8137-2589"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This report introduces the cryptographic accordion as a tweakable, variable-input-length
+    strong pseudorandom permutation (VIL-SPRP) that is constructed from an underlying
+    block cipher. An accordion facilitates the cryptographic processing of messages
+    of various sizes while offering enhanced security compared to the approved block
+    cipher modes of operation that are specified in the NIST SP 800-38 series. This
+    report introduces associated terminology, outlines design requirements for accordions,
+    and describes three categories of applications for them.
+series:
+- title:
+  - content: NISTIR
+  number: '8552'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8552'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

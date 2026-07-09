@@ -1,0 +1,133 @@
+---
+id: NISTIR8414
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Making semantic structures explicit
+  type: title-main
+- language: en
+  script: Latn
+  content: developing and evaluating tools and techniques to support understanding
+    of large cybersecurity corpora
+  type: title-part
+- language: en
+  script: Latn
+  content: Making semantic structures explicit - developing and evaluating tools and
+    techniques to support understanding of large cybersecurity corpora
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8414
+docidentifier:
+- content: NIST IR 8414
+  type: NIST
+  primary: true
+- content: NIST.IR.8414
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Monarch, Ira.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-2587-173X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sriram, Ram.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-8602-4748"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Shin, Sangjin.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-3687-7587"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Subrahmanian, Eswaran.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4794-8363"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bhat, Talapady N.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8396-6622"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This report describes the adaptation, composition and use of natural language
+    processing, machine learningand other computational tools to help make implicit
+    informational structures in very large technicalcorpora explicit. The tools applied
+    to the corpora automatically build normalized multi-word termstructures, which
+    in turn are used to build taxonomies, semantic schema, topic models, and knowledgegraphs.
+    In our cybersecurity use case, we apply these tools to help us understand the
+    threat landscape asexhibited in the Common Vulnerabilities and Exposures (CVE)
+    and the National Vulnerability Database(https://nvd.nist.gov/) corpora with the
+    aim of proactively anticipating threats. The use case provides thecontext for
+    the development, use, and evaluation of the automated tools and processes based
+    on them. Thelatter are incrementally and iteratively evaluated and improved as
+    they are developed and used. Localevaluation and improvement come before global
+    evaluation. We believe that performing a globalevaluation of text processing methodologies
+    and processes currently exemplified by the Text REtrievalConference (TREC), Document
+    Understanding Conference (DUC), and Text Analysis Conference (TAC) isworth pursuing,
+    and we have done so using TREC. However, this report will mostly focus on localdevelopment,
+    evaluation, and improvement. We will articulate various aspects of our approach
+    by describing and showing 1) how the multi-word term based process for topic modeling
+    is supported by semantic schema, taxonomic structures, and knowledge graphs; 2)
+    the heuristic methods for performance evaluation of this modeling that include
+    suggestions for measuring how well a topic is represented in the documents that
+    are indexed to it; 3) how these local heuristic methods might be transformed into
+    a new full-blown rigorous evaluation standard like TREC, DUC, and TAC, but with
+    emphasis on their contribution to interpretation and understanding of very large
+    corpora. With respect to 3), we will also briefly explore what parts of the heuristic
+    process would need to be automated and an indication of the algorithms needed.
+series:
+- title:
+  - content: NISTIR
+  number: '8414'
+- title:
+  - content: NISTIR
+  number: '8414'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

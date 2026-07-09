@@ -1,0 +1,60 @@
+---
+id: NISTTN1664
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Occupant behavior in a high-rise office building fire
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1664
+docidentifier:
+- content: NIST TN 1664
+  type: NIST
+  primary: true
+- content: NIST.TN.1664
+  type: DOI
+date:
+- type: issued
+  at: '2010'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hoskins, Bryan L.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Building and Fire Research Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Survey responses from occupants involved in a 32-story high-rise building
+    evacuation during an actual fire were collected and analyzed to study the pre-evacuation
+    period. Multiple regression models were used to test whether specific occupant,
+    building, and environmental factors predicted pre-evacuation times. This study
+    found that the main influential factors of pre-evacuation times were actions taken
+    during this period, especially by certain groups of occupants, and floor (mostly
+    likely due to the information that occupants received on these floors). This study
+    also quantified the relationships between factors and pre-evacuation time, showing
+    how much pre-evacuation time was required for each factor.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1664'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

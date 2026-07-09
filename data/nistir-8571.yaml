@@ -1,0 +1,76 @@
+---
+id: NISTIR8571
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: SysML extension for logistics modeling and analysis (SysLMA)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8571
+docidentifier:
+- content: NIST IR 8571
+  type: NIST
+  primary: true
+- content: NIST.IR.8571
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bock, Conrad.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0009-3172-120X"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Communication Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Many engineers use analysis tools to predict behavior or find optimal values
+    for properties of systems built to proposed designs, informing system design work
+    by identifying cases where a design will perform incorrectly or in suboptimal
+    ways. Design and analysis tools encode descriptions of systems in a variety of
+    ways that are typically inconsistent, significantly slowing engineering processes
+    due to the additional effort resolving these problems. Systems engineering addresses
+    this by establishing a single source for system descriptions, typically expressed
+    in the Systems Modeling Language (SysML®). Systems engineering models intentionally
+    do not cover all aspects of other engineering disciplines, but must integrate
+    with their tools to prevent adding to inconsistency in engineering information.
+    Coordinating systems information across engineering analysis this way requires
+    automated translation between systems models and discipline-specific analysis
+    tools, based on adding information in systems models needed for analysis. This
+    report takes this approach for logistics analysis, which predicts and optimizes
+    movement of separate things between activities that potentially modify them, in
+    particular, multi-commodity flow optimization, queuing analysis, and discrete
+    event simulation. It presents a SysML extension for modeling systems to be analyzed,
+    along with translation patterns to widely-used logistics analysis tools, examples
+    of modeling logistics systems, as well as translation and analysis of these models.
+series:
+- title:
+  - content: NISTIR
+  number: '8571'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8571'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,110 @@
+---
+id: NISTSP800232
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Ascon-based lightweight cryptography standards for constrained devices
+  type: title-main
+- language: en
+  script: Latn
+  content: authenticated encryption, hash, and extendable output functions
+  type: title-part
+- language: en
+  script: Latn
+  content: Ascon-based lightweight cryptography standards for constrained devices
+    - authenticated encryption, hash, and extendable output functions
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-232
+docidentifier:
+- content: NIST SP 800-232
+  type: NIST
+  primary: true
+- content: NIST.SP.800-232
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McKay, Kerry A.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-5956-587X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chang, Donghoon.
+    identifier:
+    - type: uri
+      content: "(orcid) 0000-0003-1249-2869"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kang, Jinkeon.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-2142-8236"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kelsey, John.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3427-1744"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: In 2023, the National Institute of Standards and Technology (NIST) announced
+    the selectionof the Ascon family of algorithms designed by Dobraunig, Eichlseder,
+    Mendel, and Schläfferto provide efficient cryptographic solutions for resource-constrained
+    devices. This decisionemerged from a rigorous, multi-round lightweight cryptography
+    standardization process.The Ascon family includes a suite of cryptographic primitives
+    that provide AuthenticatedEncryption with Associated Data (AEAD), hash function,
+    and eXtendable Output Function(XOF) capabilities. The Ascon family is characterized
+    by lightweight, permutation-basedprimitives and providesrobustsecurity, efficiency,
+    and flexibility, making it ideal for resourceconstrained environments, such as
+    Internet of Things (IoT) devices, embedded systems,and low-power sensors. The
+    family is developed to offer a viable alternative when theAdvanced Encryption
+    Standard (AES) may not perform optimally. This standard outlinesthe technical
+    specifications and security properties of Ascon-AEAD128, Ascon-Hash256,Ascon-XOF128,
+    and Ascon-CXOF128.
+series:
+- title:
+  - content: NIST special publication
+  number: 800-232
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-232
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

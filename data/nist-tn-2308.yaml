@@ -1,0 +1,113 @@
+---
+id: NISTTN2308
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Database-assisted design
+  type: title-main
+- language: en
+  script: Latn
+  content: performance-based approach for dynamically sensitive steel and reinforced
+    concrete structures
+  type: title-part
+- language: en
+  script: Latn
+  content: Database-assisted design - performance-based approach for dynamically sensitive
+    steel and reinforced concrete structures
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2308
+docidentifier:
+- content: NIST TN 2308
+  type: NIST
+  primary: true
+- content: NIST.TN.2308
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yeo, DongHun.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8019-9624"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mashnad, Mehedy.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Carman, Brian.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Clay, Charys.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'This NIST Technical Note presents the User’s Manual for the DAD_PBD version
+    2.0 software, a user-friendly tool for the advanced structural design of dynamically
+    sensitive steel and reinforced concrete buildings. The software utilizes the Database-Assisted
+    Design (DAD) procedure, which was developed and continuously improved at NIST.
+    The method employs time-domain analysis, directional aerodynamic pressure data,
+    and wind climatological data specific to a local site to design a structure in
+    the site for wind, demonstrating superior performance in the estimation of the
+    peak from combined wind effects and the consideration of wind directionality effects.
+    The DAD method has been advanced over the past decade, improving its accuracy
+    and practicality. The most recent work at NIST includes Python-based DAD_PBD software
+    incorporating ETABS software to enhance accessibility for practicing structural
+    engineers and improve computational efficiency. However, the previous software
+    was only applicable to rectangular-shaped steel-framed buildings. To address these
+    limitations, the DAD_PBD software was further enhanced with the following additional
+    features: 1) expansion of its application to reinforced concrete buildings consisting
+    of shear walls, columns, and link beams 2) assignment of distributed wind loads
+    to building envelope, which is more appropriate for irregular-shaped buildings
+    and buildings with asymmetric structural systems, 4) use of commercial design
+    software for calculating the PMM interaction diagrams for reinforced concrete
+    members with various shapes, 4) parallel run of ETABS analyses, which significantly
+    reduces the computational time required for constructing response surfaces for
+    design parameters. Also, any features previously introduced in the DAD_PBD version
+    1.0 software for steel-framed buildings remain relevant to this updated version.
+    The DAD_PBD version 2.0 software empowers structural engineering practitioners
+    to execute advanced structural design of irregular-shaped tall buildings with
+    steel and reinforced concrete members under the concept of performance-based wind
+    design. This report also showcases a design example of 45-story reinforced concrete
+    buildings, illustrating the software’s practical application.'
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2308'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

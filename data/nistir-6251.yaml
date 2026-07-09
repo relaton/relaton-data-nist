@@ -5,7 +5,15 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: NIST Center for Neutron Research, 1998 programs and accomplishments
+  content: NIST Center for Neutron Research
+  type: title-main
+- language: en
+  script: Latn
+  content: 1998 programs and accomplishments
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST Center for Neutron Research - 1998 programs and accomplishments
   type: main
 source:
 - type: doi
@@ -20,13 +28,6 @@ date:
 - type: issued
   at: '1999'
 contributor:
-- role:
-  - type: author
-  person:
-    name:
-      completename:
-        language: en
-        content: Rowel, J. Michael.
 - role:
   - type: author
   person:

@@ -1,0 +1,106 @@
+---
+id: NISTIR8286Ar1
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Identifying and estimating cybersecurity risk for enterprise risk management
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8286Ar1
+docidentifier:
+- content: NIST IR 8286Ar1
+  type: NIST
+  primary: true
+- content: NIST.IR.8286Ar1
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ivy, Nahla.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-4741-422X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barrett, Matthew.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7689-427X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Feldman, Larry.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-3888-027X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Witte, Greg.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-5425-1097"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gardner, Robert.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This document supplements NIST Interagency Report (IR) 8286, Integrating
+    Cybersecurity and Enterprise Risk Management (ERM), by providing additional detail
+    regarding risk guidance, identification, and analysis. This report offers examples
+    and information to illustrate risk tolerance, risk appetite, and methods for determining
+    risks in that context. To support the development of an Enterprise Risk Register,
+    this report describes documentation of various scenarios based on the potential
+    impact of threats and vulnerabilities on enterprise assets. Documenting the likelihood
+    and impact of various threat events through cybersecurity risk registers integrated
+    into an enterprise risk profile helps to later prioritize and communicate enterprise
+    cybersecurity risk response and monitoring. This document has been updated to
+    reflect changes in other NIST documentation (IR 8286 series, Special Publication
+    [SP] 800-221/221A, and Cybersecurity Framework 2.0 [CSF]).
+series:
+- title:
+  - content: NISTIR
+  number: 8286Ar1
+- title:
+  - content: NISTIR
+  number: 8286Ar1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

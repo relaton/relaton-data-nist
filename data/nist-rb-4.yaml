@@ -1,0 +1,82 @@
+---
+id: NISTRB4
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Infographic on post-earthquake functional recovery performance
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.RB.4
+docidentifier:
+- content: NIST RB 4
+  type: NIST
+  primary: true
+- content: NIST.RB.4
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Siamak, Sattar.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1096-7015"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cook, Dustin.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4841-4515"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Aher, Sandesh.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0005-8697-1936"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: This research brief provides a research summary and research advancement
+    details for the functional recovery post-earthquake performance objective being
+    advanced by NIST's Engineering Laboratory. A current update on the status of functional
+    recovery development is provided, as well as an infographic illustrating functional
+    recovery performance compared to life safety design.
+series:
+- title:
+  - content: NIST research brief
+  number: '4'
+- title:
+  - content: NIST research brief ; NIST RB
+  number: '4'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

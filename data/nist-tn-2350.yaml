@@ -1,0 +1,76 @@
+---
+id: NISTTN2350
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Public life cycle inventory data gap analysis for silicon-based photovoltaic
+    panels
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2350
+docidentifier:
+- content: NIST TN 2350
+  type: NIST
+  primary: true
+- content: NIST.TN.2350
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kneifel, Joshua.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3114-5531"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Given the increasing prevalence of using product declarations issued by
+    manufacturing companies for product comparisons and selection in the private and
+    public construction sectors, both domestically and globally, there is a need to
+    ensure the results reported in product declarations are useful for such comparisons
+    (i.e., transparent and standardized to ensure quality decision making). One challenge
+    that was identified more than a decade ago was the lack of common data sources,
+    which could undermine the comparability of product declarations and similar claims.
+    Federal agencies have begun to address this issue through the development of public
+    secondary datasets and gap assessments of currently available public life cycle
+    inventory (LCI) datasets. This study follows and expands the framework for the
+    identification and quantification of public data gaps developed in NIST Technical
+    Note 2338. The scope of this study is to (1) expand the framework to identify
+    public life cycle assessment (LCA) data gaps by evaluating multiple impact categories,
+    (2) identify and quantify the impact of each data gap across the production supply
+    chain of single-crystalline photovoltaic (PV) panels, and (3) provide qualitative
+    rankings of data gaps within the stage of the production supply chain, and for
+    the assembled panel. Additionally, there is a brief assessment of potential data
+    gaps based on commercial inventories, and of data gaps in the production supply
+    chain of multi-crystalline silicon PV. This study concludes with a series of research
+    recommendations to strengthen to further develop public LCI datasets, indicating
+    future work to continue this effort.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2350'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

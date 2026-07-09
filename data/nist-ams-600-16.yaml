@@ -1,0 +1,59 @@
+---
+id: NISTAMS60016
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Annual report on the U.S. manufacturing economy
+  type: title-main
+- language: en
+  script: Latn
+  content: '2024'
+  type: title-part
+- language: en
+  script: Latn
+  content: Annual report on the U.S. manufacturing economy - 2024
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.600-16
+docidentifier:
+- content: NIST AMS 600-16
+  type: NIST
+  primary: true
+- content: NIST.AMS.600-16
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'This report provides a statistical review of the U.S. manufacturing industry.
+    There are threeaspects of U.S. manufacturing that are considered: (1) how the
+    U.S. industry compares to othercountries, (2) the trends in the domestic industry,
+    and (3) the industry trends compared to thosein other countries.'
+series:
+- title:
+  - content: NIST advanced manufacturing series
+  number: 600-16
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 600-16
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

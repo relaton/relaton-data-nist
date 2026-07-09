@@ -1,0 +1,70 @@
+---
+id: NISTSP365e2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Metric conversion card
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.365-2024
+docidentifier:
+- content: NIST SP 365e2024
+  type: NIST
+  primary: true
+- content: NIST.SP.365-2024
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dill, Kristen.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0008-7551-7676"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Physical Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: NIST SP 365, Metric Conversion Card is a laminated wallet size card includes
+    an 8 cm and 80 mm ruler with approximate unit conversion factors between common
+    International System of Units (SI) and U.S. customary measurement units for length,
+    area, mass, volume, and temperature (exact formula). This job aid is useful for
+    making quick mathematical unit conversion calculations.
+relation:
+- type: updates
+  bibitem:
+    formattedref:
+      content: NBS SP 365r1976
+    docidentifier:
+    - content: NBS SP 365r1976
+      type: NIST
+series:
+- title:
+  - content: NIST special publication
+  number: 365-2024
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 365-2024
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

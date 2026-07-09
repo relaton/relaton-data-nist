@@ -1,0 +1,74 @@
+---
+id: NISTSP80081r3
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Secure domain name system (DNS) deployment guide
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-81r3
+docidentifier:
+- content: NIST SP 800-81r3
+  type: NIST
+  primary: true
+- content: NIST.SP.800-81r3
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Liu, Cricket.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0004-3351-4734"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gibson, Ross.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0008-4433-1705"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Communications Technology Lab.
+abstract:
+- language: en
+  script: Latn
+  content: The Domain Name System (DNS) is an integral part of any enterprise network
+    architecture. An attack against the DNS infrastructure of an enterprise threatens
+    every network operation in that enterprise. DNS operations are composed of different
+    roles that each have their own set of security considerations. This document provides
+    DNS deployment guidelines to secure the DNS protocol and infrastructure, mitigate
+    misuse or misconfiguration, and provide an additional layer of network security
+    as part of a zero trust and/or defense-in-depth security risk management approach.
+series:
+- title:
+  - content: NIST special publication
+  number: 800-81r3
+- title:
+  - content: NIST special publication
+  number: 800-81r3
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

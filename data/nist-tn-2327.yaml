@@ -1,0 +1,121 @@
+---
+id: NISTTN2327
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: The burning characteristics of 3 m to 6 m dry Douglas-fir trees
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2327
+docidentifier:
+- content: NIST TN 2327
+  type: NIST
+  primary: true
+- content: NIST.TN.2327
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Di Cristina, Giovanni.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-0799-3418"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mueller, Eric.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-0838-6820"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bundy, Matthew.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-1138-0307"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chakalis, Anthony.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0004-4331-7101"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fernandez, Marco.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4227-8866"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hamins, Anthony.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-7531-4256"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: A series of experiments are reported on the burning behavior of dry, 3
+    m to 6 m tall, Douglas fir trees. The measurements were conducted in the open
+    under quasi-quiescent conditions. The global measurements reported include the
+    transient, peak, and total heat release rates, the yields of CO and soot, the
+    mass loss, and near and far-field heat fluxes. The appearance of the trees was
+    captured by photogrammetry. The fires were documented by video cameras from several
+    perspectives. Measurements of the heat flux to the surroundings from the specimens
+    were used to estimate the radiative fraction of the fires. The total heat release
+    measured by calorimetry and the ideal heat release calculated from the product
+    of the total mass loss and the heat of combustion were found to be in reasonable
+    agreement. The ratio of the CO yield to the soot yield was measured as nearly
+    constant over a wide range of total heat release rates. A first pass at a rescaling
+    methodology is presented, which corrects the transient heat release rate for system
+    time response. The results provide unique calorimetric data which can be useful
+    for development of design fire scenarios by fire protection engineers. The data
+    from the study is available on the NIST Fire Calorimetry Database (FCD), which
+    links to this report.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2327'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

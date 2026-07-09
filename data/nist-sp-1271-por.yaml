@@ -1,0 +1,88 @@
+---
+id: NISTSP1271por
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Getting started with the NIST cybersecurity framework
+  type: title-main
+- language: en
+  script: Latn
+  content: a quick start guide (Portuguese translation)
+  type: title-part
+- language: en
+  script: Latn
+  content: Getting started with the NIST cybersecurity framework - a quick start guide
+    (Portuguese translation)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1271pt
+docidentifier:
+- content: NIST SP 1271 por
+  type: NIST
+  primary: true
+- content: NIST.SP.1271pt
+  type: DOI
+date:
+- type: issued
+  at: '2022'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Marron1, Jeffrey.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7871-683X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Quinn, Stephen.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1436-684X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Topper, Daniel.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+relation:
+- type: editionOf
+  bibitem:
+    formattedref:
+      content: NIST SP 1271 por
+    docidentifier:
+    - content: NIST SP 1271 por
+      type: NIST
+series:
+- title:
+  - content: NIST special publication
+  number: 1271pt
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1271pt
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

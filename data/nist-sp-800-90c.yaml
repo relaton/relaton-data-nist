@@ -1,0 +1,98 @@
+---
+id: NISTSP80090C
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Recommendation for random bit generator (RBG) constructions
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-90C
+docidentifier:
+- content: NIST SP 800-90C
+  type: NIST
+  primary: true
+- content: NIST.SP.800-90C
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kelsey, John
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3427-1744"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McKay, Kerry
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-5956-587X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Roginsky, Allen
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-2684-6736"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sönmez Turan, Meltem
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-1950-7130"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: The NIST Special Publication (SP) 800-90 series of documents supports the
+    generation of high quality random bits for cryptographic and non-cryptographic
+    use. SP 800-90A, Recommendation for Random Number Generation Using Deterministic
+    Random Bit Generators, specifies several deterministic random bit generator (DRBG)
+    mechanisms based on cryptographic algorithms. SP 800-90B, Recommendation for the
+    Entropy Sources Used for Random Bit Generation, provides guidelines for the development
+    and validation of entropy sources. This document (SP 800-90C) specifies constructions
+    for the implementation of random bit generators (RBGs) that include DRBG mechanisms
+    as specified in SP 800-90A and that use entropy sources as specified in SP 800-
+    90B. Constructions for four classes of RBGs — namely, RBG1, RBG2, RBG3, and RBGC
+    — are specified in this document.
+series:
+- title:
+  - content: NIST special publication
+  number: 800-90C
+- title:
+  - content: NIST special publication
+  number: 800-90C
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

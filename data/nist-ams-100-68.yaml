@@ -1,0 +1,100 @@
+---
+id: NISTAMS10068
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Digital Twin Lab
+  type: title-main
+- language: en
+  script: Latn
+  content: supporting research and development for standards and implementations
+  type: title-part
+- language: en
+  script: Latn
+  content: Digital Twin Lab - supporting research and development for standards and
+    implementations
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-68
+docidentifier:
+- content: NIST AMS 100-68
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-68
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kibira, Deogratias
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0002-7796-2518"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Shao, Guodong
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-8856-3622"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Triebe, Matthew J.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-5964-1078"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: Digitalization in manufacturing is a concept that, while having existed
+    for some time, can now be realized because of advancements in IIoT (Industrial
+    Internet of Things) enabling technologies and data standardization. Digital twins
+    are at the forefront of this trend and are being implemented by many manufacturers
+    worldwide. To further encourage the adoption of digital twins by United States
+    (U.S.) manufacturing enterprises, the Systems Integration Division (SID) at the
+    National Institute of Standards and Technology (NIST) has established a Digital
+    Twin Laboratory (DTL). In this report, we outline the vision and objectives of
+    the DTL and provide fundamental information on digital twins within the context
+    of manufacturing. We provide a detailed description of the DTL setup and case
+    studies implemented in the lab. Additionally, the relevant standards implemented
+    in the DTL are listed and their contexts in digital twins for manufacturing are
+    briefly summarized. Lastly, we explore possible research areas that can be supported
+    by the DTL and identify future efforts to accomplish research objectives.
+series:
+- title:
+  - content: NIST advanced manufacturing series
+  number: 100-68
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 100-68
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,82 @@
+---
+id: NISTTN1694
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Experimental characterization of helium dispersion in a 1/4-scale two-car
+    residential garage
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1694
+docidentifier:
+- content: NIST TN 1694
+  type: NIST
+  primary: true
+- content: NIST.TN.1694
+  type: DOI
+date:
+- type: issued
+  at: '2011'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yang, Jiann C.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-2024-0899"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fernandez, Marco G.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4227-8866"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: A series of experiments are described in which helium was released at constant
+    rates into a 1.5 m 1.5 m 0.75 m enclosure designed as a -scale model of a two
+    car garage. The purpose was to provide reference data sets for testing and validating
+    computational fluid dynamics (CFD) models and to experimentally characterize the
+    effects of a number of variables on the mixing behavior within an enclosure and
+    the exchange of helium with the surroundings. Helium was used as a surrogate for
+    hydrogen, and the total volume released was scaled as the amount that could be
+    released by a typical hydrogen-fueled automobile with a full fuel tank. Temporal
+    profiles of helium were measured at seven vertical locations within the enclosure
+    during and following one hour and four hour releases. Idealized vents in one wall
+    sized to provide air exchange rates typical of actual garages were used. The effects
+    of vent size, number, and location were investigated using three different vent
+    combinations. The dependence on leak location was considered by releasing helium
+    from three different points within the enclosure. A number of tabulated quantitative
+    measures are used to characterize the experiments. The complete experimental measurement
+    results for each condition are available on the internet as described in Appendix
+    A (http://www.nist.gov/el/fire_protection/buildings/upload/HeliumDispersionDataSets.zip.)
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1694'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

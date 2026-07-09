@@ -1,0 +1,87 @@
+---
+id: NISTSP1351
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Critical mineral & material research at NIST
+  type: title-main
+- language: en
+  script: Latn
+  content: A review and future directions
+  type: title-part
+- language: en
+  script: Latn
+  content: Critical mineral & material research at NIST - A review and future directions
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1351
+docidentifier:
+- content: NIST SP 1351
+  type: NIST
+  primary: true
+- content: NIST.SP.1351
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Baumann, Avery.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-8513-8049"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Weaver, Jamie.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-6762-0568"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'The United States is actively addressing significant challenges in securing
+    a reliable supply of Critical Minerals and Materials (CMMs) essential to modern
+    technology and national security. With 63 unique CMMs currently identified by
+    the USGS and DOE as having high supply-chain risk, the federal government is responding
+    to bridge historical gaps in the domestic value chain. As the national metrology
+    institute, NIST supports this federal effort by advancing the measurement science,
+    standards, and data infrastructure necessary to underpin a resilient and circular
+    domestic supply chain. Following a July 2025 internal workshop, this report synthesizes
+    Nist’s active research and potential capabilities across four key pillars: material
+    substitution, traceability, characterization, and recovery. These strategic efforts
+    aim to provide the validated benchmarks required to empower U.S. manufacturers
+    to substitute, recover, and utilize materials with precision and confidence.'
+series:
+- title:
+  - content: NIST special publication
+  number: '1351'
+- title:
+  - content: NIST special publication
+  number: '1351'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

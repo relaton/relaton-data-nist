@@ -1,0 +1,120 @@
+---
+id: NISTTN2314
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Global Burning Properties of Little Bluestem, Excelsior and Douglas Fir
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2314
+docidentifier:
+- content: NIST TN 2314
+  type: NIST
+  primary: true
+- content: NIST.TN.2314
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sung, Kunhyuk.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-0937-2332"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mueller, Eric.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-0838-6820"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bundy, Matthew.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-1138-0307"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fernandez, Marco.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4227-8866"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'A series of experiments was conducted to better understand the burning
+    characteristics of three types of vegetative fuels: little bluestem grass, excelsior
+    wood fibers, and Douglas fir trees. The measurements included the transient heat
+    release rate (HRR) determined using oxygen consumption calorimetry, the mass loss
+    rate, carbon monoxide (CO) and smoke yields, and the radiative emission to the
+    surroundings. An estimate of the average radiative fraction during the fires was
+    obtained from radiative heat flux measurements made in the far field. Experiments
+    were also conducted on constructed excelsior bundles with controlled bulk density.
+    The measurement results characterize the global combustion properties of the vegetative
+    samples and offer insight into their complex burning behavior. Several key findings
+    are reported: 1. The ratio of the peak heat release rate to the initial mass of
+    the test specimens as a function of their moisture content was consistent with
+    previously published fire measurements on a variety of trees and bushes. A fit
+    to all the data showed that a power law adequately represented the results. 2.
+    The moisture content significantly affected the radiative fraction of the Douglas
+    fir tree fires. The radiative fraction of the Douglas fir tree fires decreased
+    from 0.41 to 0.15 as the dry basis moisture content increased from 7 % to 85 %.
+    3. The mean radiative fractions for little bluestem, excelsior, and Douglas fir
+    fires were 0.34, 0.33, and 0.29, respectively. Considering the overlapping error
+    bars, there was no statistically significant difference among the fuel types.
+    For the three fuel types, the average radiative fraction was 0.32. 4. The radiative
+    fraction was observed to increase as the fire progressed from the flaming phase
+    to the smoldering phase during the fires, suggesting that the radiative emission
+    from the hot charring solid significantly contributed to the total radiative emission
+    of the fire. For the excelsior fires, this effect became more significant for
+    higher bulk densities. 5. The soot yields had a high degree of scatter with mean
+    values of 0.46 % for bluestem, 0.11 % for excelsior, and 0.24 % for Douglas fir.
+    The CO yields varied as a function of specimen type, with mean values of 6.2 %,
+    3.3 %, and 8.9 % for bluestem, excelsior, and Douglas fir, respectively. Further
+    work is needed to improve the estimate of the soot yield since it is calculated
+    using a mass-specific extinction coefficient typical of soot and not a value more
+    typical of particulate matter produced during pyrolysis and smoldering combustion.
+    6. The peak HRR of the excelsior fires was a function of ignition orientation
+    and bulk density. As expected, the upward spreading fires gave rise to larger
+    peak HRRs than those spreading downward. These measurements of global burning
+    properties can help provide guidance to the development of wildland fire models.'
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2314'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

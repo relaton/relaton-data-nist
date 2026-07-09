@@ -1,0 +1,97 @@
+---
+id: NISTAMS10063
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: 'X-ray computed tomography flaw phantom development: stepper photolithography
+    and deep reactive ion etching'
+  type: title-main
+- language: en
+  script: Latn
+  content: fabrication and reference measurements
+  type: title-part
+- language: en
+  script: Latn
+  content: 'X-ray computed tomography flaw phantom development: stepper photolithography
+    and deep reactive ion etching - fabrication and reference measurements'
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-63
+docidentifier:
+- content: NIST AMS 100-63
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-63
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Robinson, Sarah.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-5189-3900"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Klimov, Nikolai N.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-4678-2565"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scott, John Henry J.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3796-2110"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Stepper photolithography combined with deep reactive ion etching was used
+    to generate controlled flaws to assess X-ray computed tomography (XCT) flaw detectability.
+    Holes ranging in sizes from a few micrometers to hundreds of micrometer level
+    were generated. Various shapes and distribution patterns of holes were demonstrated.
+    Capabilities to generate simple cylindrical holes to more complex cavities with
+    scalloping surfaces representative of metal additive manufacturing lack-of-fusion
+    pores were also demonstrated. Silicon direct bonding method was demonstrated to
+    encapsulate the generated holes into pores. Scanning electron microscopic images
+    were acquired to assess the manufacturing quality and to calibrate the flaw sizes.
+    Reference measurement processes and results are discussed.
+series:
+- title:
+  - content: NIST advanced manufacturing series
+  number: 100-63
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 100-63
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

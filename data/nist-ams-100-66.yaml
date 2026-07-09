@@ -1,0 +1,81 @@
+---
+id: NISTAMS10066
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Design and calibration of the Fundamentals of Laser-Matter Interaction
+    (FLaMI) powder bed fusion testbed at the National Institute of Standards and Technology
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-66
+docidentifier:
+- content: NIST AMS 100-66
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-66
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mekhontsev, Sergey.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-7764-630X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grantham, Steven.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8218-512X"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The advantages of additive manufacturing of metal components through laser-based
+    powder bed fusion of metals (PBF-LB/M) have been increasingly embraced across
+    a variety of industries and applications. But, broader adoption of this manufacturing
+    technology requires that computational models and in-situ monitoring of such processes
+    be experimentally validated under highly controlled conditions with advanced metrology.
+    Such validation of models and in-situ monitoring systems are especially important
+    for critical applications that require qualification and certification. Such controlled
+    conditions and advanced metrology cannot be readily implemented in commercial
+    PBF-LB/M machines due to a variety of constraints and unknowns about machine performance.
+    Therefore, a laboratory testbed has been developed to study the Fundamentals of
+    Laser-Matter Interaction (FLaMI) at the National Institute of Standards and Technology
+    (NIST). This paper outlines the materials and methods to develop such a system,
+    as well as to accurately calibrate and characterize the machine performance.
+series:
+- title:
+  - content: NIST advanced manufacturing series
+  number: 100-66
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 100-66
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

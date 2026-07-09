@@ -1,0 +1,57 @@
+---
+id: NISTNCSTAR15av1
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Visual evidence, damage estimates, and timeline analysis (Chapters 1-8)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.NCSTAR.1-5av1
+docidentifier:
+- content: NIST NCSTAR 1-5av1
+  type: NIST
+  primary: true
+- content: NIST.NCSTAR.1-5av1
+  type: DOI
+date:
+- type: issued
+  at: '2005'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Butler, Kathryn M.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Junker, Valentine.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST NCSTAR; National Construction Safety Team Act report
+  number: 1-5av1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

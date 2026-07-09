@@ -1,0 +1,81 @@
+---
+id: NISTSP260264
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Assignment of fluorescence intensity values to calibration microspheres
+    and nanospheres for flow cytometry
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-264
+docidentifier:
+- content: NIST SP 260-264
+  type: NIST
+  primary: true
+- content: NIST.SP.260-264
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tian, Linhua
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-8848-1790"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Xu, Ningchun
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wang, Lili
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-2456-898X"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: The latest protocols are described for the NIST assignment of fluorescence
+    intensity to calibration spheres or beads, which are used primarily for the accurate
+    measurement of particle intensity in quantitative flow cytometry. Procedures for
+    measuring fluorescence intensity and bead concentration are described and the
+    history of these assignments for the NIST Flow Cytometry Standards Consortium
+    and its members are reviewed.
+series:
+- title:
+  - content: NIST special publication
+  number: 260-264
+- title:
+  - content: NIST special publication
+  number: 260-264
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

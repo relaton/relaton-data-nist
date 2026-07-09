@@ -1,0 +1,93 @@
+---
+id: NISTSP150037
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Advancing technical language processing and large
+  type: title-main
+- language: en
+  script: Latn
+  content: insights from TLP COI events in 2024
+  type: title-part
+- language: en
+  script: Latn
+  content: Advancing technical language processing and large - insights from TLP COI
+    events in 2024
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1500-37
+docidentifier:
+- content: NIST SP 1500-37
+  type: NIST
+  primary: true
+- content: NIST.SP.1500-37
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lukens, Sarah
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1514-8721"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sharp, Michael E.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8014-3612"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Communications Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'It remains challenging to integrate artificial intelligence (AI) and natural
+    language processing (NLP) into complex engineering systems. Popular models and
+    techniques are designed for use with everyday, non-technical text, and therefore
+    perform poorly when attempting to interpret language containing specialized terminology
+    or context-specific meanings. Technical Language Processing (TLP) attempts to
+    address these challenges by tailoring NLP approaches for use in technical and
+    engineering domains. As a nascent field, community-driven events have played a
+    crucial role in facilitating dialogue on emerging issues and potential solutions.
+    In 2024, the TLP Community of Interest (COI), overseen by the National Institute
+    of Standards and Technology (NIST), organized two events: a two day virtual workshop
+    hosted by NIST, and a panel at the Annual Conference of the Prognostics and Health
+    Management (PHM) Society. These two events provided opportunities for experts
+    from academia, industry, and government to discuss the application of TLP and
+    Large Language Models (LLMs) in industrial settings. This paper summarizes the
+    key discussions and insights from the events, while highlighting the community''s
+    collective efforts to advance the application of TLP and LLMs in the industrial
+    sector.'
+series:
+- title:
+  - content: NIST special publication
+  number: 1500-37
+- title:
+  - content: NIST special publication
+  number: 1500-37
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

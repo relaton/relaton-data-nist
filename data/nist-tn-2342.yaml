@@ -1,0 +1,90 @@
+---
+id: NISTTN2342
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Measurement and uncertainty analysis of pressure losses in a push-to-connect
+    elbows and couplings
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2342
+docidentifier:
+- content: NIST TN 2342
+  type: NIST
+  primary: true
+- content: NIST.TN.2342
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ferretti, Natascha Milesi.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0007-7273-0925"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Glaeser, Glen.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0007-9383-5224"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kim, Kyu Young.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Measurement and Uncertainty Analysis of Pressure Losses in a Push-to-Connect
+    Elbow and Coupling The data on pressure losses in an elbow and a coupling are
+    reported for Reynolds number (Re) from approximately 104 to 105. Both fittings
+    selected for testing are commercially available, made of lead-free brass, with
+    a push-to-connect design for use with copper or plastic pipe, and have a nominal
+    tube size (NTS) of ¾. The pressure loss was determined by measuring the pressure
+    distribution upstream and downstream of the fitting, from which hydraulic grade
+    lines were established. The results show that the pressure loss coefficient of
+    the elbow decreases with Re before leveling off at 1.0 when Re exceeds 40000.
+    A corresponding correlation was developed. In contrast, the pressure loss coefficient
+    of the coupling is independent of Re, with an average value of 0.007. The equivalent
+    lengths for both fittings are also reported. The equivalent length of the elbow
+    ranges between (0.8 to 1.1) m, while that of the coupling ranges between (4.5
+    to 7.5) mm. An extensive uncertainty analysis is provided. The uncertainty tends
+    to be larger at smaller Re. A key finding is that additional tapping locations
+    upstream are recommended to reduce the uncertainty associated with the pressure
+    loss measurement. Increasing the upstream tapping locations from three to five
+    can result in a reduction of the expanded uncertainty by up to 75 %.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: TN 2342
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

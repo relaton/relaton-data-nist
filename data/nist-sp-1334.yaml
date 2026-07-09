@@ -1,0 +1,67 @@
+---
+id: NISTSP1334
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Reducing the cyber security risks of portable storage media in OT environments
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1334
+docidentifier:
+- content: NIST SP 1334
+  type: NIST
+  primary: true
+- content: NIST.SP.1334
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Philip, Fenimore
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Saravia, Stephanie
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: National Cybersecurity Center of Excellence.
+abstract:
+- language: en
+  script: Latn
+  content: Though portable storage media are convenient, their unregulated use poses
+    cybersecurity risks for organizations utilizing them in their OT environments.
+    Procedural, physical, and technical controls are important because they can minimize
+    the likelihood of a cyberattack from portable storage media usage. The National
+    Cybersecurity Center of Excellence (NCCoE) has developed recommendations to help
+    OT personnel use portable storage media securely
+series:
+- title:
+  - content: NIST special publication
+  number: '1334'
+- title:
+  - content: NIST special publication
+  number: '1334'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

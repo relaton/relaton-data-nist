@@ -1,0 +1,102 @@
+---
+id: NISTRB11
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Accounting for the slow pace buildings are brought up to current code in
+    benefit-cost studies
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.RB.11
+docidentifier:
+- content: NIST RB 11
+  type: NIST
+  primary: true
+- content: NIST.RB.11
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Faiz, Tasnim
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1987-9863"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hughes, William
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-9957-137X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Helgeson, Jennifer
+    identifier:
+    - type: uri
+      content: "(orcid)\t0000-0002-3692-7874"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Benefit-cost analysis of building codes has revealed significant long-term
+    benefits. Prior traditional BCA mainly contemplates the benefits of a building
+    or set of buildings adhering to a new building code at a single point in time,
+    e.g., in the current year. This work, in contrast, focuses on a broader spatial
+    scale (e.g., community), recognizing that the benefits of code compliance across
+    the community will occur over time, driven by the typically slow pace of replacement
+    or improvement of existing buildings and of new construction. A new Community
+    Benefit Discount Factor (CBDF) is introduced that can be used to adjust a traditional
+    BCA to account for the timing of building code compliance for existing buildings.
+    The CDBF addresses the economic discounting of the future costs and benefits of
+    code compliance as they occur over time. The focus is on existing buildings undergoing
+    replacement or substantial improvements that require compliance with current building
+    codes for new construction. Building life (time to demolition), has previously
+    been modeled stochastically with survival functions, the approach taken here to
+    model the timing until replacement or substantial improvement. Assuming the common
+    Weibull survival function, new formulas are developed for computing the CBDF.
+    The formulas are developed for a single building, which can be extended to each
+    building in the community. The application of the CBDF is demonstrated under differing
+    discount rates. Finally, limitations and potential future directions of this research
+    are discussed. The CBDF approach can be used to assess the benefit of adopting
+    new building codes, or adding new local provisions to the model codes. Additionally,
+    outputs of this process can be used as inputs to other assessment tools, such
+    as the NIST Alternatives for Resilient Communities (ARC) Tool and the NIST Economic
+    Decision Guide Software (EDGe$) Tool.
+series:
+- title:
+  - content: NIST research brief
+  number: '11'
+- title:
+  - content: NIST research brief
+  number: '11'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

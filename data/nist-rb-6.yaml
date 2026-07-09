@@ -1,0 +1,126 @@
+---
+id: NISTRB6
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Community-informed Decisions for Efficient, Costeffective, and Integrative
+    Disaster Resilience planning (Co-DECIDR)
+  type: title-main
+- language: en
+  script: Latn
+  content: implementation with natural language processing and large language models
+  type: title-part
+- language: en
+  script: Latn
+  content: Community-informed Decisions for Efficient, Costeffective, and Integrative
+    Disaster Resilience planning (Co-DECIDR) - implementation with natural language
+    processing and large language models
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.RB.6
+docidentifier:
+- content: NIST RB 6
+  type: NIST
+  primary: true
+- content: NIST.RB.6
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gray, Steven A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zareei, Mahdi.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Knox, Carissa.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sadler, Richard.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Olabisi, Laura Schmitt.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wentworth, Chelsea.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brugnone, Nathan.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: Evaluating community resilience planning in the face of natural hazards
+    and disasters presents significant challenges, including limited system clarity,
+    diverging community priorities, resource constraints, and inherent uncertainties.
+    Traditional methods—often reliant on economic metrics through benefit-cost analysis—may
+    overlook critical factors. In response, the increasing shift towards transdisciplinary
+    methods underscores the importance of integrating local community priorities into
+    resilience planning. This research leverages the Community-informed Decisions
+    for Efficient, Cost-effective, and Integrative Disaster Resilience planning (Co-DECIDR)
+    modeling framework. By merging Fuzzy Cognitive Mapping (FCM), to account for qualitative
+    considerations, with Benefit-Cost Analysis (BCA) for quantitative rigor, Co-DECIDR
+    enables a comprehensive understanding of complex socioeconomic systems that support
+    built and natural infrastructure. The framework can be operationalized via accessible
+    online tools—Mental Modeler for FCM and Economic Decision Guide Software (EDGe$)
+    for BCA—to enhance user engagement and model efficacy. There is increasing use
+    of Natural Language Processing (NLP) and Large Language Models (LLMs) to more
+    efficiently populate a baseline dataset for inclusion in modeling frameworks,
+    such as Co-DECIDR. This approach is especially promising leveraging human-in-the-loop
+    techniques and considering data from the widespread use of multimodal communication
+    technologies.
+series:
+- title:
+  - content: NIST research brief
+  number: '6'
+- title:
+  - content: NIST research brief ; NIST RB
+  number: '6'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

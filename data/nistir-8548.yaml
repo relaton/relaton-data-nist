@@ -1,0 +1,109 @@
+---
+id: NISTIR8548
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Feasibility study on measurement system interoperability of the national
+    integrated ballistic information network (NIBIN)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8548
+docidentifier:
+- content: NIST IR 8548
+  type: NIST
+  primary: true
+- content: NIST.IR.8548
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zheng, Xiaoyu.
+    identifier:
+    - type: uri
+      content: "(orcid) 0000-0003-3122-5651"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Thompson, Robert.
+    identifier:
+    - type: uri
+      content: "(orcid) 0000-0003-2578-8845"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Physical Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'This report describes a feasibility study on realizing interoperability
+    of the National Integrated Ballistic Information Network (NIBIN) with third-party
+    data acquisition systems, focusing on cartridge case data. NIBIN is the only national
+    network in the United States for the acquisition, archiving, and search of ballistic
+    images. NIBIN aids in solving and preventing crimes by identifying connections
+    between crime scenes or between crime scenes and confiscated firearms. NIBIN is
+    managed by the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF).NIBIN
+    relies on a commercial product: the Integrated Ballistic Identification System
+    (IBIS®). Due to a lack of standards for data exchange and image quality, the ATF
+    cannot integrate third-party imaging systems into NIBIN. Interoperability may
+    promote innovation and competition, while avoiding possible gaps in NIBIN coverage
+    due to local deployment of third-party systems not connected to NIBIN. In theory,
+    interoperability is facilitated by the proliferation of systems that acquire three-dimensional
+    (3D) topography images. Compared to traditional 2D microscope images, 3D images
+    are less affected by differences in sample setup, lighting, and reflectivity.
+    A data exchange specification was developed for systems that are not part of the
+    NIBIN-IBIS ecosystem. Interoperability experiments were conducted at NIST using
+    an IBIS 3.1 system, modified to enable the import/export of images that meet the
+    specification. The testbed was used to evaluate the impact on search performance
+    of differences in instruments and sample setup. The evaluation focused on 9 mm
+    caliber test fires obtained from approximately 90 pistols each from 4 major manufacturing
+    brands. Test fires were measured by four different instruments, including the
+    IBIS BRASSTRAX HD3D system. The project database was seeded by Forensic Technology
+    with IBIS HD3D images from 4,136 cartridge cases with a Glock-type firing pin
+    impression and 23,461 cartridge cases with a circle-type firing pin impression.
+    The observed third-party, intra-instrument, search performance was similar to
+    that for IBIS images. Inter-system performance was up to 17 % lower for top-30
+    ranking results and up to 21 % for top-5 ranking results. The reduced performance
+    is due to: 1) differences in 3D images, mainly of the firing pin impression, and
+    2) the importance of 2D (side light) images for IBIS search performance. Current
+    instruments require modifications to replicate IBIS (side) lighting conditions
+    for 2D images. Exploratory experiments with 2D images rendered from 3D images
+    indicate that the 3D images contain information for improving the reduction in
+    search performance when 2D images are omitted. Visible differences in 3D images
+    from different instruments may affect the comparison of high-ranking images during
+    correlation review. Increased accuracy requirements, both for search and 1-1 case
+    work comparisons, are expected to reduce differences in 3D images through improved
+    measurement and calibration methods. Experiments were conducted during August
+    2017 – November 2020 using an IBIS 3.1 system for cartridge case imaging and search.
+    Results cannot be used to make inferences about bullets and do not address advances
+    in metrology and search of newer IBIS or third-party systems.'
+series:
+- title:
+  - content: NISTIR
+  number: '8548'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8548'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

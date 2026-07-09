@@ -1,0 +1,79 @@
+---
+id: NISTAMS10079
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: On the physical interpretation of adjoint methods for sensitivity analysis,
+    part II
+  type: title-main
+- language: en
+  script: Latn
+  content: non-self-adjoint linear systems
+  type: title-part
+- language: en
+  script: Latn
+  content: On the physical interpretation of adjoint methods for sensitivity analysis,
+    part II - non-self-adjoint linear systems
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-79
+docidentifier:
+- content: NIST AMS 100-79
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-79
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'Adjoint methods have gained prominence in science and engineering as the
+    preferred approach for sensitivity analysis of mechanistic models involving a
+    large number of parameters. Part I of this series explored adjoint methods for
+    self-adjoint (symmetric) linear systems, which possess a mathematically symmetric
+    structure. In such systems, the adjoint vector has a direct physical interpretation
+    as a system response (e.g., a displacement field), and the mathematical symmetry
+    is a manifestation of the physical concept of reciprocity. This direct interpretation
+    is lost in non-self-adjoint (non-symmetric) linear systems, where the matrix operator
+    (A) and its transpose (A^T) are distinct. Such systems, common in engineering,
+    are characterized by directional transport in space and directional evolution
+    in time. This report, the second in the series, explores the physical meaning
+    of the adjoint vector in these non-self-adjoint systems by analyzing two fundamental
+    examples: (1) a one-dimensional convection-diffusion problem, which exhibits spatial
+    asymmetry, and (2) a one-dimensional damped structural dynamics problem, which
+    exhibits temporal asymmetry. We demonstrate that in both cases, the adjoint operator
+    represents a reversed physical system. The adjoint equation for convection reverses
+    the flow velocity, while the adjoint equation for dynamics reverses the direction
+    of time (solving backward from a final condition). Consequently, the adjoint vector
+    v is interpreted not as a physical response of the original system, but as a general
+    influence map representing receptivity. It quantifies how a local perturbation
+    in space or time affects the final quantity of interest, providing a unified principle
+    for sensitivity analysis and uncertainty quantification.'
+series:
+- title:
+  - content: NIST advanced manufacturing series
+  number: 100-79
+- title:
+  - content: NIST advanced manufacturing series
+  number: 100-79
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

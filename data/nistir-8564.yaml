@@ -1,0 +1,88 @@
+---
+id: NISTIR8564
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Project clearprint
+  type: title-main
+- language: en
+  script: Latn
+  content: examining the impact of fingerprint transaction anomalies on matcher performance
+  type: title-part
+- language: en
+  script: Latn
+  content: Project clearprint - examining the impact of fingerprint transaction anomalies
+    on matcher performance
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8564
+docidentifier:
+- content: NIST IR 8564
+  type: NIST
+  primary: true
+- content: NIST.IR.8564
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ko, Kenneth.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-6409-1592"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Libert, John M.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-0796-6871"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Watson, Craig I.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This study examines quality related issues for seemingly high-quality fingerprint
+    submissions inan operational setting that were resulting in submission failures
+    and determined that thepredominant root cause of most failures was improper packaging
+    of the transmitted images orother controllable conditions beyond the inherent
+    quality of the fingerprints.
+series:
+- title:
+  - content: NISTIR
+  number: '8564'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8564'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

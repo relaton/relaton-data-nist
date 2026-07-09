@@ -1,0 +1,78 @@
+---
+id: NISTIR8604
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: An improved robotic workcell for Operational Technology (OT) research
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8604
+docidentifier:
+- content: NIST IR 8604
+  type: NIST
+  primary: true
+- content: NIST.IR.8604
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pease, Michael J.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-6489-2621"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dawson, Michael K.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7151-5664"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Communications Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The National Institute of Standards and Technology (NIST) has constructed
+    a discrete manufacturing workcell to support its operational technology (OT) and
+    critical infrastructure research. This work is an improvement on the “Collaborative
+    Robotics Testbed” that has been in-use by NIST for almost ten years, and described
+    in the report NIST IR 8089. The primary intent of the workcell is to emulate a
+    real-world discrete manufacturing system as closely as possible without replicating
+    an entire manufacturing production line or facility. This paper describes the
+    goals, objectives, design, implementation, measurement systems, and operational
+    use of the workcell in support of NIST’s research mission, specifically in the
+    topics of cybersecurity, digital twins, supply chain traceability, and industrial
+    artificial intelligence.
+series:
+- title:
+  - content: NISTIR
+  number: '8604'
+- title:
+  - content: NISTIR
+  number: '8604'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

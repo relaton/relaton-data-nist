@@ -1,0 +1,66 @@
+---
+id: NISTSP180037
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Addressing visibility challenges with TLS 1.3 within the enterprise high-level
+    document
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1800-37
+docidentifier:
+- content: NIST SP 1800-37
+  type: NIST
+  primary: true
+- content: NIST.SP.1800-37
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: William Newhouse.
+abstract:
+- language: en
+  script: Latn
+  content: The Transport Layer Security (TLS) protocol is widely deployed to secure
+    network traffic. TLS 1.3 has been strengthened so that even if a TLS-enabled server
+    is compromised, the contents of its previous TLS communications are still protected—also
+    known as forward secrecy. The approach used to achieve forward secrecy may interfere
+    with passive decryption techniques that enterprises use to gain more visibility
+    into their TLS 1.2 traffic. Enterprises’ authorized network security staff rely
+    on that visibility to implement controls that conform to cybersecurity, operational,
+    and regulatory requirements—forcing them to choose between using the TLS 1.2 protocol
+    or adopting the more secure TLS 1.3 to gain an alternative method for internal
+    traffic visibility. The NCCoE, in collaboration with technology providers and
+    enterprise customers, initiated a project to demonstrate options for maintaining
+    visibility within the TLS 1.3 protocol using several standards-compliant builds
+    that enterprises can use for real-time and post-facto systems monitoring and analytics
+    capabilities. This publication contains demonstrated proofs of concept along with
+    links to detailed technical information on Github. You can use this guidance to
+    implement the builds described in this document. This guide also includes links
+    to mappings of TLS 1.3 visibility principles to commonly used security standards
+    and guidance.
+series:
+- title:
+  - content: NIST special publication
+  number: 1800-37
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1800-37
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,97 @@
+---
+id: NISTDCI008
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Data collection instrument
+  type: title-main
+- language: en
+  script: Latn
+  content: 'consumer valuation of battery health information in used electric vehicle
+    markets : a discrete choice experiment'
+  type: title-part
+- language: en
+  script: Latn
+  content: 'Data collection instrument - consumer valuation of battery health information
+    in used electric vehicle markets : a discrete choice experiment'
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.DCI.008
+docidentifier:
+- content: NIST DCI 008
+  type: NIST
+  primary: true
+- content: NIST.DCI.008
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Iogansen, Xiatian
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4851-1323"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kneifel, Joshua
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3114-5531"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Helveston, John Paul
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-2657-9191"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: This data collection instrument provides guideline and some example survey
+    questions aimed at understanding consumer preferences and willingness to pay for
+    battery health information in the used battery electric vehicle (BEV) market.
+    The potential survey design includes questions about current vehicle information,
+    future vehicle preferences, a discrete choice experiment (DCE), EV knowledge,
+    and demographics. The DCE systematically varies both standard vehicle attributes
+    (e.g., price, mileage) and battery-specific features (e.g., state-of-health, refurbishment
+    history) to quantify the economic value consumers place on battery-related information.
+    Findings from this research project will improve the understanding of second-life
+    battery markets, and guide future research in the evolving used EV landscape.
+series:
+- title:
+  - content: NIST data collection instruments and best practices
+  number: '008'
+- title:
+  - content: NIST data collection instruments and best practices
+  number: '008'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,63 @@
+---
+id: NISTTN2317
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Self-diffusion and binary-diffusion coefficients in gases, 2025 update
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2317
+docidentifier:
+- content: NIST TN 2317
+  type: NIST
+  primary: true
+- content: NIST.TN.2317
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Burgess, Donald.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3428-6540"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This NIST Technical Note expands last year’s version and presents a comprehensive
+    compilation and evaluation of both self-diffusion and binary diffusion coefficients
+    (D) for species in the gas phase as a function of temperature. Recommended diffusion
+    coefficients are provided with uncertainties at a standard reference temperature
+    (usually 298.15 K) and one atmosphere pressure (101.325 kPa). When data are available,
+    we also give analytical expressions that describe the temperature dependence of
+    the coefficients. In total, around 600 recommended diffusion coefficients for
+    self- and binary pairs involving approximately 240 atoms and molecules are presented,
+    approximately doubling the number of diffusion coefficients in the previous release.
+series:
+- title:
+  - content: NIST technical note
+  number: '2317'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

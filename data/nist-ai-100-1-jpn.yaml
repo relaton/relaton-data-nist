@@ -1,0 +1,60 @@
+---
+id: NISTAI1001jpn
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Artificial Intelligence Risk Management Framework (AI RMF 1.0)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AI.100-1.jpn
+docidentifier:
+- content: NIST AI 100-1 .jpn
+  type: NIST
+  primary: true
+- content: NIST.AI.100-1.jpn
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tabassi, Elham.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This is the Japanese translation of the NIST AI RMF.
+relation:
+- type: editionOf
+  bibitem:
+    formattedref:
+      content: NIST AI 100-1
+    docidentifier:
+    - content: NIST AI 100-1
+      type: NIST
+series:
+- title:
+  - content: NIST trustworthy and responsible AI; NIST AI
+  number: 100-1.jpn
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

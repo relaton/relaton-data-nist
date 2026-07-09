@@ -1,0 +1,73 @@
+---
+id: NISTDCI006
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Data collection instrument
+  type: title-main
+- language: en
+  script: Latn
+  content: consumer preferences for battery electric vehicles and battery information
+  type: title-part
+- language: en
+  script: Latn
+  content: Data collection instrument - consumer preferences for battery electric
+    vehicles and battery information
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.DCI.006
+docidentifier:
+- content: NIST DCI 006
+  type: NIST
+  primary: true
+- content: NIST.DCI.006
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Helgeson, Jennifer.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3692-7874"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kneifel, Joshua.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3114-5531"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+series:
+- title:
+  - content: NIST data collection instruments and best practices
+  number: '006'
+- title:
+  - content: NIST data collection instruments and best practices; NIST DCI
+  number: '006'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

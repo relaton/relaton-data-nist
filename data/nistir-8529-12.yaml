@@ -1,0 +1,50 @@
+---
+id: NISTIR852912
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: NIST time and frequency bulletin
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8529-12
+docidentifier:
+- content: NIST IR 8529-12
+  type: NIST
+  primary: true
+- content: NIST.IR.8529-12
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Physical Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The Time and Frequency Bulletin provides information on performance of
+    time scales and a variety of broadcasts (and related information) to users of
+    the NIST services.
+series:
+- title:
+  - content: NISTIR
+  number: 8529-12
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 8529-12
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

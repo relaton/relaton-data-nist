@@ -1,0 +1,93 @@
+---
+id: NISTSP1343
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Survey on smart home users’ security and privacy perceptions and actions
+  type: title-main
+- language: en
+  script: Latn
+  content: a device category perspective
+  type: title-part
+- language: en
+  script: Latn
+  content: Survey on smart home users’ security and privacy perceptions and actions
+    - a device category perspective
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1343
+docidentifier:
+- content: NIST SP 1343
+  type: NIST
+  primary: true
+- content: NIST.SP.1343
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Acar, Yasemin
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Li, Anna
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Haney, Faith
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'Although smart home adoption in the United States (U.S.) is growing, smart
+    home users may harbor security and privacy concerns or uncertainty about how to
+    best protect their devices and the data those collect. Further, there have been
+    few insights into how users’ perspectives on smart home security and privacy differ
+    depending on device category. This may leave the smart home community at a disadvantage
+    in knowing how to focus user education efforts to address device- specific misunderstandings
+    or concerns. As a result, consumers may remain uninformed or lack motivation to
+    protect some device categories, leaving devices and data vulnerable. Towards closing
+    this gap, we conducted a survey of 401 U.S. smart home users with devices in five
+    categories: lighting, security devices, sensors, thermostats, and voice assistants.
+    Participants viewed voice assistants as most problematic and were most confident
+    about security devices and thermostats. We also report novel results related to
+    perceptions of smart home security and privacy responsibility and users’ thoughts
+    on device categories seldom explored in research. Our identification of differences
+    across device categories can contribute to greater user empowerment through tailored
+    smart home user education materials.'
+series:
+- title:
+  - content: NIST special publication
+  number: '1343'
+- title:
+  - content: NIST special publication
+  number: '1343'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,68 @@
+---
+id: NISTTN1960
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Using photoelectric smoke detection to warn of pre-ignition conditions
+    of unattended cooking fires
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.1960
+docidentifier:
+- content: NIST TN 1960
+  type: NIST
+  primary: true
+- content: NIST.TN.1960
+  type: DOI
+date:
+- type: issued
+  at: '2017'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zarzecki, Mariusz.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: A series of 21 experiments was conducted to examine the potential to use
+    kitchen-installed photoelectric smoke detection devices to warn of approaching
+    ignition of food during unattended cooking. An electric range, range hood, and
+    cabinets were installed in a mock-up kitchen. Research smoke meters and standard
+    off-the-shelf photoelectric smoke detectors were installed above the food, on
+    the ceiling, and on the upper wall. In addition to smoke meter and smoke detector
+    outputs, pan and food temperatures along with digital videos of the experiments
+    were recorded. Cooking oils and bacon were heated to ignition in frying pans on
+    the range top. Thestandard-threshold smoke alarms activated minutes before ignition.
+    Typically, smoke production reached alarm levels at least 2 min before ignition.
+    Frying hamburger tests were also conducted to compare smoke levels from attended,
+    but smoky, cooking to the unattended cooking smokelevels. Analysis indicates that
+    there is an extensive time window of elevated smoke obscuration during the unattended
+    cooking above smoky attended cooking and prior to ignition sufficient to allow
+    warning that would either alert the cook to return and de-energize the range or
+    to interface with an automatic de-energizing device connected to the range.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '1960'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

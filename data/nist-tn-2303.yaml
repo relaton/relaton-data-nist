@@ -1,0 +1,125 @@
+---
+id: NISTTN2303
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: The character of burning residential and office items
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2303
+docidentifier:
+- content: NIST TN 2303
+  type: NIST
+  primary: true
+- content: NIST.TN.2303
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Di Cristina, Giovanni.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-0799-3418"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bundy, Matthew.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-1138-0307"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chakalis, Tony.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0004-4331-7101"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fernandez, Marco.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4227-8866"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kim, Ickchan.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-9089-0403"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ramesh, Selvarajah.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-9525-6767"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zammarano, Mauro.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-5145-7110"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This report of test describes a series of experiments that investigated
+    the burning behavior of single items and assemblies commonly found in offices
+    and residences, including chairs, sofas, mattresses with pillows and bedclothes,
+    and some miscellaneous items such as laptops, bookshelves, and side tables. The
+    measurements were conducted in the open under fully-ventilated and quasi-quiescent
+    conditions. The global measurements reported include the transient, peak and total
+    heat release rates, the yields of CO and soot, and the mass loss. The appearance
+    of the fires was captured by video cameras from two orthogonal views. Measurements
+    of the heat flux to the surroundings from the test specimens were used to estimate
+    the radiative fraction of the fires. The data generated from the study are included
+    in the NIST Fire Calorimetry Database (FCD), which links to this report.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2303'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

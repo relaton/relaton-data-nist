@@ -1,0 +1,98 @@
+---
+id: NISTSP260238Upd2
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Certification of standard reference material® 3666
+  type: title-main
+- language: en
+  script: Latn
+  content: albumin and creatinine in frozen human urine
+  type: title-part
+- language: en
+  script: Latn
+  content: Certification of standard reference material® 3666 - albumin and creatinine
+    in frozen human urine
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-238-upd2
+docidentifier:
+- content: NIST SP 260-238/Upd2
+  type: NIST
+  primary: true
+- content: NIST.SP.260-238-upd2
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Camara, Johanna.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-9415-8452"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Heckert, N. Alan.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8430-6757"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: The National Institute of Standards and Technology (NIST) Standard Reference
+    Material® (SRM®) 3666 Albumin and Creatinine in Frozen Human Urine is a secondary
+    measurement standard for albumin and creatinine in human urine. The material is
+    intended for use in a calibration hierarchy, in the validation of measurement
+    procedures, or as quality control material for the determination of albumin, creatinine,
+    or the albumin-to-creatinine ratio (ACR) in human urine. A unit of SRM 3666 consists
+    of four (4) vials of frozen pooled human urine with four (4) different levels
+    (Level I to Level IV) of endogenous albumin determined using the NIST candidate
+    reference measurement procedure (RMP) for albumin in urine [1]; and creatinine
+    determined using a modification of the NIST RMP for creatinine in serum [2]. The
+    certified values and associated uncertainties for albumin and creatinine were
+    used to calculate the ACR for each level (Level I to Level IV). This publication
+    documents the production, measurement processes, results, and statistical evaluations
+    involved in the production and certification of SRM 3666.
+relation:
+- type: updates
+  bibitem:
+    formattedref:
+      content: NIST SP 260-238/Upd1
+    docidentifier:
+    - content: NIST SP 260-238/Upd1
+      type: NIST
+series:
+- title:
+  - content: NIST special publication
+  number: 260-238-upd2
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 260-238-upd2
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

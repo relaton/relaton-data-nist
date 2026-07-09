@@ -1,0 +1,69 @@
+---
+id: NISTTN2310
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Elastic shape registration of surfaces in 3D space with gradient descent
+    and dynamic programming
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2310
+docidentifier:
+- content: NIST TN 2310
+  type: NIST
+  primary: true
+- content: NIST.TN.2310
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lawrence, James F.
+    identifier:
+    - type: uri
+      content: "(orcid)0000‐0003‐0638‐2559"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Algorithms based on gradient descent for computing the elastic shape registration
+    of two simple surfaces in 3‐dimensional space and therefore the elastic shape
+    distance between them have been proposed by Kurtek, Jermyn, et al., and more recently
+    by Riseth. Their algorithms are designed to minimize a distance function between
+    the surfaces by rotating and reparametrizing one of the surfaces, the minimization
+    for reparametrizing based on a gradient descent approach that may terminate at
+    a local solution. On the other hand, Bernal and Lawrence have proposed a similar
+    algorithm, the minimization for reparametrizing based on dynamic programming thus
+    producing a partial not necessarily optimal elastic shape registration of the
+    surfaces. Accordingly, Bernal and Lawrence have proposed to use the rotation and
+    reparameterization computed with their algorithm as the initial solution to any
+    algorithm based on a gradient descent approach for reparametrizing. Here we present
+    results from doing exactly that. We also describe and justify the gradient descent
+    approach that is used for reparametrizing one of the surfaces.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2310'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

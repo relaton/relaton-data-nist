@@ -1,0 +1,96 @@
+---
+id: NISTSP1333
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Guidelines for seismic design and evaluation of concrete members retrofitted
+    using externally applied FRP part I
+  type: title-main
+- language: en
+  script: Latn
+  content: FRP jacketed concrete columns
+  type: title-part
+- language: en
+  script: Latn
+  content: Guidelines for seismic design and evaluation of concrete members retrofitted
+    using externally applied FRP part I - FRP jacketed concrete columns
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1333
+docidentifier:
+- content: NIST SP 1333
+  type: NIST
+  primary: true
+- content: NIST.SP.1333
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brena, Sergio.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7159-7401"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ghannoum, Wassim.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-2631-7690"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kim, Insung.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0005-6441-4960"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This document contains provisions for the design and detailing of fiber
+    reinforced polymer (FRP) systems used to jacket concrete columns in seismic retrofit
+    applications. Provisions to determine load-deformation parameters used for linear
+    and nonlinear analysis of retrofitted columns are presented. Modeling parameters
+    and acceptance criteria for concrete columns jacketed using FRP systems are provided
+    in a format that allows their evaluation within the ASCE/SEI 41 and ACI 369.1
+    frameworks. The provisions of this document are not intended to be used outside
+    the framework of ASCE/SEI 41 and ACI 369.1. Only carbon and glass FRP systems
+    are treated in this document.
+series:
+- title:
+  - content: NIST special publication
+  number: '1333'
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '1333'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

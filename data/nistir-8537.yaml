@@ -1,0 +1,71 @@
+---
+id: NISTIR8537
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: NIST workshop on the requirements for an accordion cipher mode 2024
+  type: title-main
+- language: en
+  script: Latn
+  content: workshop report
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST workshop on the requirements for an accordion cipher mode 2024 - workshop
+    report
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8537
+docidentifier:
+- content: NIST IR 8537
+  type: NIST
+  primary: true
+- content: NIST.IR.8537
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sonmez Turan, Meltem
+    identifier:
+    - type: uri
+      content: "(orcid) 0000-0002-1950-7130"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: NIST hosted the NIST Workshop on the Requirements for an Accordion Cipher
+    Mode 2024 on June 20–21, 2024 at the National Cybersecurity Center of Excellence
+    in Rockville, Maryland. This report summarizes the discussions, feedback from
+    participants, the key takeaways, and the future directions discussed during the
+    event.
+series:
+- title:
+  - content: NISTIR
+  number: '8537'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8537'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

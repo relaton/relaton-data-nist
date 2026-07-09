@@ -1,0 +1,134 @@
+---
+id: NISTSP800634
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: NIST SP 800-63-4
+  type: title-main
+- language: en
+  script: Latn
+  content: digital identity guidelines
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST SP 800-63-4 - digital identity guidelines
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-63-4
+docidentifier:
+- content: NIST SP 800-63-4
+  type: NIST
+  primary: true
+- content: NIST.SP.800-63-4
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Proud-Madruga, Diana.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8972-7809"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Choong, Yee-Yin.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3889-6047"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Galluzzo, Ryan.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-0304-4239"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gupta, Sarbari.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1101-0856"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: LaSalle, Connie.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-6031-7550"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lefkovitz, Naomi.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-3777-3106"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Regenscheid, Andrew.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3930-527X"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: These guidelines cover the identity proofing, authentication, and federation
+    of users (e.g., employees, contractors, or private individuals) who interact with
+    government information systems over networks. They define technical requirements
+    in each of the areas of identity proofing, enrollment, authenticators, management
+    processes, authentication protocols, federation, and related assertions. They
+    also offer technical recommendations and other informative text as helpful suggestions.
+    The guidelines are not intended to constrain the development or use of standards
+    outside of this purpose. This publication supersedes NIST Special Publication
+    (SP) 800-63-3.
+series:
+- title:
+  - content: NIST special publication
+  number: 800-63-4
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-63-4
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

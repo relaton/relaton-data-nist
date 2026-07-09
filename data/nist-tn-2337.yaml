@@ -1,0 +1,75 @@
+---
+id: NISTTN2337
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: ZandrEA Software in Research to Automate Fault Detection and Diagnostics
+    of Mechanical Systems in Large Commercial Buildings
+  type: title-main
+- language: en
+  script: Latn
+  content: ": a primer"
+  type: title-part
+- language: en
+  script: Latn
+  content: 'ZandrEA Software in Research to Automate Fault Detection and Diagnostics
+    of Mechanical Systems in Large Commercial Buildings - : a primer'
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2337
+docidentifier:
+- content: NIST TN 2337
+  type: NIST
+  primary: true
+- content: NIST.TN.2337
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Mechanical systems in large commercial buildings, particularly their heating,
+    ventilating, and air-conditioning (HVAC) systems, routinely waste significant
+    amounts of energy and thus levy significant unnecessary economic costs upon building
+    owners. This happens due to “faults”—improper design or installation, improper
+    control actions, or operational equipment malfunctions—occurring within the HVAC
+    systems. Saying a commercial building is “large” refers not only to its size,
+    but that it has an automatic control system continually generating large amounts
+    of data from operation of its HVAC system. Those data are resources that software
+    exercising well-developed techniques of artificial intelligence can leverage for
+    automated fault detection and diagnosis (AFDD) done in real time. Ongoing research
+    and development is necessary to ensure novel, “cutting-edge” ideas that can improve
+    AFDD actually become, as just stated, “well-developed techniques” in their effectiveness.
+    That requires software having distinctly research-oriented capabilities that go
+    beyond what is available from AFDD software commercially marketed to building
+    owners. This document first introduces, and then broadly details, new software
+    having the research-oriented capabilities the AFDD industry needs. The software
+    is offered in the public domain as the foundation for an ongoing, collaborative,
+    open-source software development project named ZandrEA. The ZandrEA project welcomes
+    collaboration from stakeholders throughout the academic and industrial communities
+    interested in advancing the technology of AFDD, and in supporting the transfer
+    of that technology into marketable products and services.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2337'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

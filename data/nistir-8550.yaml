@@ -1,0 +1,114 @@
+---
+id: NISTIR8550
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Spectral characteristics and indoor air quality effects of germicidal 254
+    nm and 222 nm ultraviolet light
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8550
+docidentifier:
+- content: NIST IR 8550
+  type: NIST
+  primary: true
+- content: NIST.IR.8550
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Shore, Andrew.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-1860-1600"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Robertson, Rileigh.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hamadani, Behrang H.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-2410-9444"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Poppendieck, Dustin.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-1100-511X"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'Current Germicidal Ultraviolet (GUV) devices are designed to inactivate
+    pathogens in air at either 222 nm or 254 nm wavelengths. Previous research has
+    demonstrated both wavelengths can produce oxidants in air (222 nm: ozone, 254
+    nm: hydroxyl radicals) and potentially directly photolyze some chemicals. This
+    study sought to determine the impacts of GUV devices on indoor air chemistry in
+    both laboratory chamber and field settings. To ensure the devices were operating
+    using wavelengths and intensities of interest, spatial spectral irradiance measurements
+    of one 222 nm (GUV222) and one 254 nm (GUV254) device were performed. Chamber
+    testing to determine air quality impacts consisted of operating the above devices
+    for four hours in a sealed chamber containing six challenge chemicals. Field testing
+    consisted of operating the devices in an unoccupied restroom on the campus of
+    the National Institute of Standards and Technology (NIST). Ozone, formaldehyde,
+    other volatile organic compound (VOC) oxidation products and ultrafine particles
+    were measured for each device in both the chamber and restroom. In chamber experiments
+    GUV254 generated formaldehyde and likely directly photolyzed an equivalent amount
+    of acetone, contributing to a minimal net change in VOC oxidation products. In
+    addition, GUV254 generated measurable ultrafine particles in the chamber experiments,
+    albeit less than GUV222. For GUV254, formaldehyde, VOC oxidation products, ultrafine
+    particles and ozone generation were not measurable in the restroom. In both the
+    chamber and restroom installation GUV222 generated ozone, VOC oxidation products
+    and ultrafine particles. GUV222 generated quantifiable formaldehyde in chamber
+    testing only. GUV222 was demonstrated to directly photolyze tetrachloroethylene
+    in the chamber. Lastly, to better understand the irradiance spectrum in indoor
+    spaces where GUV devices may be deployed, spatial and temporal changes to the
+    375 nm to 850 nm spectrum were examined at the NIST Net-Zero Energy Residential
+    Test Facility (NZERTF). A measurement location near a window was compared to one
+    close to an interior ceiling. Indoor diurnal total irradiance and spectrums collected
+    near the spring equinox and summer solstice were compared. This work was funded
+    by the U. S. Environmental Protection Agency via contract DW1392571901.'
+series:
+- title:
+  - content: NISTIR
+  number: '8550'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8550'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

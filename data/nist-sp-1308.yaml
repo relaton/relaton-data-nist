@@ -1,0 +1,104 @@
+---
+id: NISTSP1308
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: NIST cybersecurity framework 2.0
+  type: title-main
+- language: en
+  script: Latn
+  content: cybersecurity, enterprise risk management, and workforce management quick-start
+    guide
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST cybersecurity framework 2.0 - cybersecurity, enterprise risk management,
+    and workforce management quick-start guide
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1308
+docidentifier:
+- content: NIST SP 1308
+  type: NIST
+  primary: true
+- content: NIST.SP.1308
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Eliot, Daniel.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0006-3078-555X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Witte, Greg.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-5425-1097"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Smith, Matthew.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1004-7171"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Prebil, Michael.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This Quick-Start Guide (QSG) draws on concepts and practices from enterprise
+    risk management, cybersecurity risk management, and workforce management to help
+    organizations improve communication about cybersecurity risks and to plan and
+    implement workforce decisions based upon risk reality and planned risk responses.
+    The scope of this QSG will vary depending on the user, but generally applies at
+    the organization level, where cybersecurity risks of multiple systems are managed,
+    and at the enterprise level, where senior leaders take on unique risk management
+    responsibilities spanning multiple organizations. This QSG addresses the need
+    for agile, continuous workforce adaptation to rapidly evolve for emerging threats
+    and technologies.
+series:
+- title:
+  - content: NIST special publication
+  number: '1308'
+- title:
+  - content: NIST special publication
+  number: '1308'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

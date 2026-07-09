@@ -1,0 +1,79 @@
+---
+id: NISTAMS10062
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: A guide to the smart investment tools
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-62
+docidentifier:
+- content: NIST AMS 100-62
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-62
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kneifel, Joshua.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3114-5531"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Parek, Purav.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0009-3250-5306"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'This report serves as a guide to the Smart Investment Tool and Smart Investment
+    Tool Express (SITExpress). These tools aid a user in conducting an investment
+    analysis with a focus on those in the manufacturing industry; however, the methods
+    can be used for any investment. The Smart Investment Tool is an Excel tool that
+    allows users to specify detailed cash flows and estimates net present value, internal
+    rate of return, payback period, and examines sensitivity using Monte Carlo analysis.
+    SITExpress is an express version of the Smart Investment Tool where it estimates
+    similar metrics (net present value, internal rate of return, payback period, and
+    the benefit cost ratio) from user data. The express version, however, is an online
+    tool where the user enters aggregated total annual cash inflows and outflows;
+    that is, the user only enters two values for each year: cash inflow and cash outflow.
+    The express version also does not have the ability to conduct sensitivity analysis.'
+series:
+- title:
+  - content: NIST advanced manufacturing series
+  number: 100-62
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 100-62
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,78 @@
+---
+id: NISTSP1345
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: NIST conference papers
+  type: title-main
+- language: en
+  script: Latn
+  content: fiscal year 2025
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST conference papers - fiscal year 2025
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1345
+docidentifier:
+- content: NIST SP 1345
+  type: NIST
+  primary: true
+- content: NIST.SP.1345
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jew, Julie.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0003-5031-9992"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Miller, Kathryn.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-8005-089X"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: NIST Research Library and Museum.
+abstract:
+- language: en
+  script: Latn
+  content: This Special Publication represents the work of researchers at professional
+    conferences, as reported by NIST employees in Fiscal Year 2025 (October 1, 2024–September
+    30, 2025).
+series:
+- title:
+  - content: NIST special publication
+  number: '1345'
+- title:
+  - content: NIST special publication
+  number: '1345'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

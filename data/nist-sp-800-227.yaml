@@ -1,0 +1,108 @@
+---
+id: NISTSP800227
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Recommendations for key-encapsulation mechanisms
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-227
+docidentifier:
+- content: NIST SP 800-227
+  type: NIST
+  primary: true
+- content: NIST.SP.800-227
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barker, Elaine
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chen, Lily
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Moody, Dustin
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4868-6684"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Robinson, Angela
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-1209-0379"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Silberg, Hamilton
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0004-4178-8954"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Waller, Noah
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-6979-9725"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: A key-encapsulation mechanism (KEM) is a set of algorithms that can be
+    used by two par-ties under certain conditions to securely establish a shared secret
+    key over a public channel. A shared secret key that is established using a KEM
+    can then be used with symmetric-key cryptographic algorithms to perform essential
+    tasks in secure communications, such as encryption and authentication. This document
+    describes the basic definitions, properties, and applications of KEMs. It also
+    provides recommendations for implementing and using KEMs in a secure manner.
+series:
+- title:
+  - content: NIST special publication
+  number: 800-227
+- title:
+  - content: NIST special publication
+  number: 800-227
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,139 @@
+---
+id: NISTAMS10072
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Artificial intelligence with open and scaled data sharing in semiconductor
+    manufacturing
+  type: title-main
+- language: en
+  script: Latn
+  content: workshop report / Sthitie Bom; Jim Davis; Said Jahanmir; Bruce Kramer;
+    Don Ufford; Gregory W. Vogl
+  type: title-part
+- language: en
+  script: Latn
+  content: Artificial intelligence with open and scaled data sharing in semiconductor
+    manufacturing - workshop report / Sthitie Bom; Jim Davis; Said Jahanmir; Bruce
+    Kramer; Don Ufford; Gregory W. Vogl
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-72
+docidentifier:
+- content: NIST AMS 100-72
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-72
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Davis, Jim
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0001-6340-6310"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jahanmir, Said
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kramer, Bruce
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ufford, Don
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Vogl, Gregory W.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-4238-851X"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Office of Advanced Manufacturing
+abstract:
+- language: en
+  script: Latn
+  content: The processing of manufacturing data is still not yet a priority. It is
+    often not done well or consistently for use with artificial intelligence (AI).
+    It is rarely scaled across applications or operations and remains largely closed
+    for cost-effective application and training development. Like mined minerals,
+    raw operational data in manufacturing has little value until it is qualified,
+    refined, concentrated, and readied in sufficient amounts for use. The Workshop,
+    “Artificial Intelligence with Open and Scaled Data Sharing in the Semiconductor
+    Industry,” sponsored by the National Science Foundation (NSF award 2334590) and
+    supported by the National Institute of Standards and Technology (NIST), was organized
+    to evaluate the promise of Scaled Data Sharing in manufacturing ecosystems while
+    also addressing how to overcome barriers. This report articulates and benchmarks
+    significant industry-defined economic opportunities, many untapped, with scaled
+    and more open, but managed and cost-effective data sharing for producing AI-Ready
+    data, and AI, Machine Learning (ML) and Digital Twin (DT) applications. The report
+    also describes how to proceed with factory and company data ecosystems. It further
+    lays out important business principles for Data-First strategies, as well as how
+    and when to share data for individual company benefit. Workforce training will
+    eventually be driven by the business value of data sharing. Starting out, however,
+    on-the-job workforce training programs on data processing are needed to drive
+    the ability to build out all facets of data sharing value. A coalition of manufacturers
+    in the semiconductor industry addressed how to pool and process data for current
+    and new operational opportunities and the greater orchestration and scaling of
+    AI/ML/DT solutions. A Seagate Technology/UCLA (University of California, Los Angeles)
+    team benchmarked multiple economic value points when processing and using data
+    from multiple machines as a Collaborative Data Ecosystem (CDE) for an AI/ML metrology
+    application. The result is a scalable, cross-factory/company approach that greatly
+    expands the value of Scaled Data Sharing. The economies of consistently processed
+    data, data aggregation, and application when acting together are maximized. Model
+    performance is improved. The Workshop demonstrated that manufacturers, even competitors,
+    can agree on a meaningful process for Scaled Data Sharing to achieve significant
+    factory and company operational benefits. Factories and companies can act together
+    to prepare data consistently and build collaborative AI/ML models, e.g., for wafer
+    operations, while acting separately on their own products and applications. Importantly,
+    data, processed consistently from operations at different sites, leads to more
+    robust modeling, open cross-operational opportunities and insights, and suggests
+    new data service possibilities, as well as a grand market-driven vision for implementing
+    AI/ML systems that draw value from cross-company data. All of this was accomplished
+    cost effectively by working with industrial participants as a CDE using existing
+    workforces and known technologies.
+series:
+- title:
+  - content: NIST advanced manufacturing series
+  number: 100-72
+- title:
+  - content: NIST advanced manufacturing series
+  number: 100-72
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

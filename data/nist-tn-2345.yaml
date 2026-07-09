@@ -1,0 +1,98 @@
+---
+id: NISTTN2345
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: User’s manual of DAD_PBD
+  type: title-main
+- language: en
+  script: Latn
+  content: 3D viewer graphical user interface
+  type: title-part
+- language: en
+  script: Latn
+  content: User’s manual of DAD_PBD - 3D viewer graphical user interface
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2345
+docidentifier:
+- content: NIST TN 2345
+  type: NIST
+  primary: true
+- content: NIST.TN.2345
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yeo, DongHun.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8019-9624"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gorton, Tyler.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Clay, Charys.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The DAD_PBD is a user-friendly structural design tool for mid- and high-rise
+    buildings. It incorporates commercial software ETABS for structural and dynamic
+    analysis and applies the Database-Assisted Design (DAD) approach, utilizing time-domain
+    analysis, directional aerodynamic pressure data, and site-specific wind climatological
+    data to advance the structural design under wind loads. Over the past years, the
+    DAD_PBD has continuously improved by expanding both its applications and capabilities.
+    In previous versions, however, only text-based results were available, as the
+    design parameters were calculated independently from ETABS and the results could
+    not be integrated into the ETABS interface. This lack of visualization capability
+    made interpreting the DAD results particularly challenging for high-rise structures
+    with numerous structural elements. To address the visualization limitation, DAD_PBD
+    version 2.1 included a three-dimensional (3D) viewer designed to improve user
+    comprehension of the DAD results. The 3D viewer and structural member modeling
+    were developed using Helix-Toolkit, an open-source library for 3D components within
+    the .NET framework. The 3D viewer features 3D building modeling, structural member
+    filtering, and color-coding based on design results. Additionally, a view cube
+    facilitates navigation and viewing from various angles. This NIST Technical Note
+    provides a User’s Manual for the DAD_PBD software (version 2.1) and outlines its
+    most recent enhancements. To demonstrate the software’s versatility, three design
+    examples of buildings with diverse structural systems and shapes are included.
+    The scope of this report is limited to the 3D viewer manual. Users are advised
+    to consult other NIST Technical Notes for information regarding DAD analysis.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2345'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

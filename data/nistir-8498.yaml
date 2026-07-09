@@ -1,0 +1,104 @@
+---
+id: NISTIR8498
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Cybersecurity for smart inverters
+  type: title-main
+- language: en
+  script: Latn
+  content: guidelines for residential and light commercial solar energy systems
+  type: title-part
+- language: en
+  script: Latn
+  content: Cybersecurity for smart inverters - guidelines for residential and light
+    commercial solar energy systems
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8498
+docidentifier:
+- content: NIST IR 8498
+  type: NIST
+  primary: true
+- content: NIST.IR.8498
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Marron, Jeffrey
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7871-683X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Faatz, Don
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rebori-Carretero, Daniel
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wiltberger, Jonathan
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Urlaub, Nik
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: This report provides practical cybersecurity guidance for small-scale solar
+    inverter implementations that are typically used in homes and small businesses.
+    These guidelines are informed by a review of known smart inverter vulnerabilities
+    documented in the National Vulnerability Database (NVD), a review of information
+    about known smart inverter cyber-attacks, and testing five example smart inverters.
+    The report also provides recommendations to smart inverter manufacturers on the
+    cybersecurity capabilities needed in their products to implement the seven guidelines.
+    These recommendations build on the Internet of Things (IoT) cybersecurity capability
+    baselines defined in NIST IR 8259A and IR 8259B by providing smart-inverter specific
+    information for some of the baseline cybersecurity capabilities.
+series:
+- title:
+  - content: NISTIR
+  number: '8498'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8498'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

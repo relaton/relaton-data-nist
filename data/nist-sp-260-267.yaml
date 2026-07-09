@@ -1,0 +1,74 @@
+---
+id: NISTSP260267
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Certification of standard reference material 1474c, a polyethylene resin
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-267
+docidentifier:
+- content: NIST SP 260-267
+  type: NIST
+  primary: true
+- content: NIST.SP.260-267
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Heckert, N. Alan
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8430-6757"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Thornton, Suzanne
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8221-3792"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Materials Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The melt flow rate of Standard Reference Material (SRM) 1474c, a linear
+    polyethylene (narrow MWD ethylene-hexene copolymer) resin, was determined to be
+    5.04 g/10 min at 190 °C under a load of 2.16 kg using the ASTM Method D 1238-23a.
+    The average is a result from 30 determinations on samples with a standard deviation
+    of 0.016 g/10 min. The overall expanded uncertainty, including type A and type
+    B uncertainties, is estimated as 0.20 g/10 min. This document describes details
+    of the measurement and analysis.
+series:
+- title:
+  - content: NIST special publication
+  number: 260-267
+- title:
+  - content: NIST special publication
+  number: 260-267
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

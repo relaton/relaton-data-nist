@@ -1,0 +1,112 @@
+---
+id: NISTAMS10067
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Laser beam metrology for AM-Bench 2022
+  type: title-main
+- language: en
+  script: Latn
+  content: approaches, results, and lessons learned
+  type: title-part
+- language: en
+  script: Latn
+  content: Laser beam metrology for AM-Bench 2022 - approaches, results, and lessons
+    learned
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-67
+docidentifier:
+- content: NIST AMS 100-67
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-67
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Weaver, Jordan.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-4857-5164"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mekhontsev, Sergey.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-7764-630X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Grantham, Steven.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8218-512X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Moylan, Shawn.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-3927-1118"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: One of key parameters of additive manufacturing by laser powder bed fusion
+    of metal parts (PBF-LB/M) is the power density distribution (PDD) of the process
+    laser beam. This paper describes the methods used to measure the beam PDD, discussing
+    well-established metrology of laser beams, and also establishing a reliable location
+    of the build plane in relation to the beam caustic, which is a non-trivial metrology
+    challenge when handling power densities on the order of 10 MW/cm2. Additionally,
+    several sources of variability of the PDD of nominally axisymmetric Gaussian beams
+    in the PBF-LB/M additive manufacturing environment are discussed. Methods for
+    quantifying measurement uncertainties associated with camera-based beam metrology
+    are also detailed. The sources of variability and measurement uncertainty are
+    then quantified for the specific case of the beam in the NIST Additive Manufacturing
+    Metrology Testbed (AMMT) that was used to generate test artifacts for the 2022
+    Additive Manufacturing Benchmark Series (AM Bench 2022). The combined statistical
+    variability, measurement uncertainty, and the measured value of the beam diameter
+    are reported for two camera-based instruments as a function of distance relative
+    to the build plane as documentation of the beam caustic used in AM Bench 2022.
+series:
+- title:
+  - content: NIST advanced manufacturing series
+  number: 100-67
+- title:
+  - content: NIST advanced manufacturing series; NIST AMS
+  number: 100-67
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

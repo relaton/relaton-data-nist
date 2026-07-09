@@ -1,0 +1,136 @@
+---
+id: NISTSP260233r1
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Value assignment of Standard Reference Material® 1849b infant/adult nutritional
+    formula I
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-233r1
+docidentifier:
+- content: NIST SP 260-233r1
+  type: NIST
+  primary: true
+- content: NIST.SP.260-233r1
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wood, Laura J.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4294-7636"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barber, Charles A.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4968-7486"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scruggs, Bruce E.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-0303-4148"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sieber, John R.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1748-3718"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wood, Elena S.C.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0000-8537-3006"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yen, James H.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-5242-7629"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yu, Lee L.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8043-6853"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The National Institute of Standards and Technology (NIST) Standard Reference
+    Material® (SRM®)1849b Infant/Adult Nutritional Formula I delivers certified or
+    non-certified values for over 100 analytes. This material is intended to be used
+    for the evaluation of methods for the determination of elements, amino acids,
+    fatty acids, nucleotides, proximates, sugars, and vitamins and in this and similar
+    matrices. The material was purchased pre-packaged from a commercial vendor. The
+    measurement results used to assign values to the measurands were provided by NIST
+    staff, the manufacturer, and/or interlaboratory comparison exercises. This document
+    describes the material, measurement processes and results, and data analysis used
+    to produce SRM 1849b.
+relation:
+- type: updates
+  bibitem:
+    formattedref:
+      content: NIST SP 260-233
+    docidentifier:
+    - content: NIST SP 260-233
+      type: NIST
+series:
+- title:
+  - content: NIST special publication
+  number: 260-233r1
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 260-233r1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

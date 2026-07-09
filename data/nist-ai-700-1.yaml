@@ -1,0 +1,110 @@
+---
+id: NISTAI7001
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: 2024 NIST GenAI (pilot study)
+  type: title-main
+- language: en
+  script: Latn
+  content: text-to-text evaluation overview and results
+  type: title-part
+- language: en
+  script: Latn
+  content: 2024 NIST GenAI (pilot study) - text-to-text evaluation overview and results
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AI.700-1
+docidentifier:
+- content: NIST AI 700-1
+  type: NIST
+  primary: true
+- content: NIST.AI.700-1
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Seo, Seungmin.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Diduch, Lukas.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Peterson, Kay.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0009-9134-5699"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Awad, George.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lee, Yooyoung.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The 2024 NIST Generative AI (GenAI) Pilot Study focuses on evaluating text-to-text
+    (T2T) generation and discrimination tasks to assess the capabilities and limitations
+    of generative AI models and AI detectors. The study aims to measure the effectiveness
+    of AI-generated text in mimicking human writing and the ability of AI-based discriminators
+    to distinguish between human- and AI-generated content. A curated dataset of article
+    groups and associated human- and machine-generated summaries served as the benchmark,
+    with performance assessed using statistical and machine learning-based metrics,
+    including AUC (Area Under the Curve) and Brier scores. The results indicate that
+    while AI-generated summaries increasingly resemble human writing, detection models
+    remain reasonably effective in distinguishing between them. Performance varies
+    significantly depending on the systems used, but there are some generators that
+    could deceive most discriminators, and there are discriminators that could detect
+    AI-generated content from almost all generators. There is certainly room for improvement
+    for both generator and discriminator systems. We also found that discriminator
+    systems improved over the multiple rounds of testing. Moving forward, future work
+    will focus on refining evaluation methodologies, expanding multi-modal assessments
+    across text, image, and audio domains, and developing standardized benchmarking
+    protocols. These efforts aim to provide a robust test and evaluation framework
+    for assessing generative AI technologies and AI detector technologies, guiding
+    both researchers and policymakers in understanding their evolving impact.
+series:
+- title:
+  - content: NIST trustworthy and responsible AI; NIST AI
+  number: 700-1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,70 @@
+---
+id: NISTSP260176e2025
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: SRM NIST Standard Reference Materials
+  type: title-main
+- language: en
+  script: Latn
+  content: 2025 catalog
+  type: title-part
+- language: en
+  script: Latn
+  content: SRM NIST Standard Reference Materials - 2025 catalog
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-176-2025
+docidentifier:
+- content: NIST SP 260-176e2025
+  type: NIST
+  primary: true
+- content: NIST.SP.260-176-2025
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Potts, Emily.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bercik, Ilse.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: First NIST author's lab name.
+abstract:
+- language: en
+  script: Latn
+  content: SRM Catalog listing all SRMs for sale
+series:
+- title:
+  - content: NIST special publication
+  number: 260-176-2025
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 260-176-2025
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

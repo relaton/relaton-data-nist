@@ -1,0 +1,115 @@
+---
+id: NISTTN2365
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Understanding the risk of lithium-ion battery fires
+  type: title-main
+- language: en
+  script: Latn
+  content: multi-source data analysis
+  type: title-part
+- language: en
+  script: Latn
+  content: Understanding the risk of lithium-ion battery fires - multi-source data
+    analysis
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2365
+docidentifier:
+- content: NIST TN 2365
+  type: NIST
+  primary: true
+- content: NIST.TN.2365
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fang, Hongqiang
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-9508-0853"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Butry, David T.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-5134-9419"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tam, Wai Cheong
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-3913-0243"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Donnelly, Michelle
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1800-5515"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fung, Juan F
+    identifier:
+    - type: uri
+      content: "(orcid)\t0000-0002-0820-787X"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'Lithium ion battery (LIB) fires are a growing problem that extends across
+    the supply chain, including mining, production, warehousing, shipping, and waste
+    disposal, as well as the consumer side. But data on such fires is fragmented and
+    mostly incomplete. Many are secondary data sources, and for NFIRS and the CPSC
+    data sets identification of LIB fires is difficult. Multiple independent data
+    sources make it possible to estimate numbers on some types of fires. There have
+    been an estimated 5718 (95 %CI: 2866 – 10 846) electric vehicle and plugin hybrid
+    fires, and an estimated 198 000 (95 %CI: 84 000 – 465 000) LIB fires in structures
+    since 2011. Plugin electric vehicle fires are growing at the rate of about 45
+    % (± 11.3 %) per year. Consumer LIB fires appear to be growing at a rate of 10
+    % (CI: 7.1 – 13.0) per year. The findings indicate a substantial underestimation
+    in current reporting.'
+series:
+- title:
+  - content: NIST technical note
+  number: '2365'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

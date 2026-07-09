@@ -1,0 +1,96 @@
+---
+id: NISTIR8425por
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Perfil da linha de base principal de IoT para produtos de IoT para consumidores
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8425.por
+docidentifier:
+- content: NIST IR 8425-p or
+  type: NIST
+  primary: true
+- content: NIST.IR.8425.por
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Megas, Katerina.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Watrobski, Paul.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Marron, Jeffery.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cuthill, Barbara.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: 'Portuguese Translation of NIST IR 8425: Esta publicação documenta o perfil
+    do consumidor da linha de base principal da Internet das Coisas (IoT) do NIST
+    e identifica os recursos de segurança cibernética normalmente necessários para
+    o setor de IoT do consumidor (ou seja, produtos de IoT para uso doméstico ou pessoal).
+    Ela também pode ser um ponto de partida para as empresas considerarem a compra
+    de produtos de IoT. O perfil do consumidor foi desenvolvido como parte da resposta
+    do NIST à Ordem Executiva 14028 e foi publicado inicialmente em Recommended Criteria
+    for Cybersecurity Labeling for Consumer Internet of Things (IoT) Products (Critérios
+    recomendados para rotulagem de segurança cibernética para produtos de Internet
+    das Coisas (IoT) para consumidores). Os recursos do perfil do consumidor são formulados
+    como resultados de segurança cibernética que devem ser aplicados a todo o produto
+    de IoT. Este documento também discute os fundamentos para o desenvolvimento do
+    perfil de consumidor recomendado e considerações relacionadas. O NIST analisou
+    um conjunto de documentos relevantes para informar o perfil do consumidor e se
+    envolveu com as partes interessadas em um esforço de um ano para desenvolver as
+    recomendações.'
+relation:
+- type: editionOf
+  bibitem:
+    formattedref:
+      content: NIST IR 8425
+    docidentifier:
+    - content: NIST IR 8425
+      type: NIST
+series:
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 8425.por
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

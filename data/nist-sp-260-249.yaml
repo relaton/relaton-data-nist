@@ -1,0 +1,118 @@
+---
+id: NISTSP260249
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Certification of Standard Reference Material 2323
+  type: title-main
+- language: en
+  script: Latn
+  content: step height standard for areal surface topography measurement
+  type: title-part
+- language: en
+  script: Latn
+  content: Certification of Standard Reference Material 2323 - step height standard
+    for areal surface topography measurement
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-249
+docidentifier:
+- content: NIST SP 260-249
+  type: NIST
+  primary: true
+- content: NIST.SP.260-249
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Renegar, Thomas.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0000-3842-9126"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Soons, Johannes A.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-9485-1636"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Griesmann, Ulf.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-6882-9729"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Young, Sandra W.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0008-5502-8963"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stoudt, Mark R.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-8316-6193"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Physical Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: A set of 64 step height standards were made each containing three steps
+    of 10 µm, 50 µm, and 100 µm. The form factor of this standard makes it conducive
+    for introduction into general and ballistics-specific areal three-dimensional
+    (3D) surface topography microscopes used in forensic firearm and toolmark evaluations.
+    It is an aluminum cylinder 21.5 mm in diameter and 25 mm tall, simulating a 12-gauge
+    shotgun shell. The calibrated step heights enable customers to calibrate and maintain
+    statistical control of their 3D microscopes This SRM provides the means to calibrate
+    a microscope’s Z-axis (vertical) amplification coefficient (scale) and linearity
+    deviation. This NIST SP-260 provides details on the source and preparation of
+    the step height standards as well as the analytical approach to use coherence
+    scanning interference microscopy to calibrate the step heights. The statistical
+    approach and uncertainty budget is described.
+series:
+- title:
+  - content: NIST special publication
+  number: 260-249
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 260-249
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

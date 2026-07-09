@@ -1,0 +1,70 @@
+---
+id: NISTSP376e2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Metric ruler
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.376-2024
+docidentifier:
+- content: NIST SP 376e2024
+  type: NIST
+  primary: true
+- content: NIST.SP.376-2024
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dill; Kristen.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0008-7551-7676"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Physical Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: NIST SP 376, Metric Ruler is an educational tool designed to teach the
+    International System of Units (SI) length measurements. The design includes approximate
+    scales of 300 mm and 30 cm. One edge is graduated in centimeters by alternating
+    solid markings in the style of a forensic photo scale. One edge is divided into
+    1 dm, 10 cm, and 100 mm sections.
+relation:
+- type: updates
+  bibitem:
+    formattedref:
+      content: NBS SP 376
+    docidentifier:
+    - content: NBS SP 376
+      type: NIST
+series:
+- title:
+  - content: NIST special publication
+  number: 376-2024
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 376-2024
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

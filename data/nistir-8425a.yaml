@@ -1,0 +1,115 @@
+---
+id: NISTIR8425A
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Recommended cybersecurity requirements for consumer-grade router products
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8425A
+docidentifier:
+- content: NIST IR 8425A
+  type: NIST
+  primary: true
+- content: NIST.IR.8425A
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Megas, Katerina.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-2815-5448"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Watrobski, Paul.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-6449-3030"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Marron, Jeffrey.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7871-683X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cuthill, Barbara.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-2588-6165"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lemire, David.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hoehn, Brad.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Evans, Christopher.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Ensuring the security of routers is crucial for safeguarding not only individuals’
+    data but also the integrity and availability of entire networks. With the increasing
+    prevalence of smart home IoT devices and remote work setups, the significance
+    of consumer-grade router cybersecurity has expanded, as these devices and applications
+    often rely on routers in the home to connect to the internet. This report presents
+    the consumer-grade router profile, which includes cybersecurity outcomes for consumer-grade
+    router products and associated requirements from router standards.
+series:
+- title:
+  - content: NISTIR
+  number: 8425A
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 8425A
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

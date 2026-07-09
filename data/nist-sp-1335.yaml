@@ -1,0 +1,80 @@
+---
+id: NISTSP1335
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: A method for assessing and communicating the quality of evidence used in
+    establishing community resilience frameworks
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1335
+docidentifier:
+- content: NIST SP 1335
+  type: NIST
+  primary: true
+- content: NIST.SP.1335
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dillard, Maria.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1772-8914"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Community resilience refers to the concept of a community being able to
+    prepare, respond, recover, and adapt to disruptions in a way that does not compromise
+    long-term community functionality and well-being. While it is not directly measurable,
+    the concept is increasingly used in planning and management. Consequently, creating
+    indicators that can provide information about unmeasurable concepts is a common
+    methodological choice for quantifying resilience and tracking changes due to mitigation
+    actions, investments, and recovery. Developing community resilience indicators
+    can be challenging because resilience covers many different subject areas and
+    sectors (e.g., infrastructure, health, economics), leading to researchers needing
+    a broad knowledge base to justify indicator choices. One option is to rely on
+    expert panels to provide input, but panels can be resource-intensive and infeasible
+    for many indicator projects. As an alternative, resilience indicator frameworks
+    usually use non-systematic literature reviews to provide theoretical and empirical
+    backing. Relying on this approach can lead to problems in assessing and communicating
+    indicator credibility because non-systematic methods generally lack established
+    procedures for appraising the quality of evidence provided by selected literature;
+    these procedures are especially important in cases where indicators undergo no
+    further construct validation. This study proposes a method based on Bayesian confirmation
+    theory for appraising and communicating the informativeness of literature used
+    to make indicator inclusion choices. In a test application to commonly suggested
+    resilience indicators, the work illustrates the utility of the method over other
+    options, as it allows for transparent judgment and aggregation of limited data.
+series:
+- title:
+  - content: NIST special publication
+  number: '1335'
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '1335'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,81 @@
+---
+id: NISTSP800226
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Guidelines for evaluating differential privacy guarantees
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-226
+docidentifier:
+- content: NIST SP 800-226
+  type: NIST
+  primary: true
+- content: NIST.SP.800-226
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Darais, David
+    identifier:
+    - type: uri
+      content: "(orcid)0000‐0002‐3203‐3742"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lefkovitz, Naomi
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Howarth, Gary S.
+    identifier:
+    - type: uri
+      content: "(orcid)0000‐0002‐3587‐0546"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This publication describes differential privacy — a mathematical framework
+    that quantifies privacy loss to entities when their data appears in a dataset.
+    The primary goal of this publication isto help practitioners of all backgrounds
+    better understand how to think about differentially private software solutions.
+    Multiple factorsfor consideration are identified in a differential privacy pyramid
+    along with several privacy hazards, which are common pitfalls that arise as the
+    mathematical framework of differential privacy is realized in practice.
+series:
+- title:
+  - content: NIST special publication
+  number: 800-226
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-226
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

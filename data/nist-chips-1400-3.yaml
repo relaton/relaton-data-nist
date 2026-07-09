@@ -1,0 +1,75 @@
+---
+id: NISTCHIPS14003
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Summary report
+  type: title-main
+- language: en
+  script: Latn
+  content: CHIPS R&D semiconductor supply chain trust and assurance data standards
+    & digital twin data interoperability standards workshops
+  type: title-part
+- language: en
+  script: Latn
+  content: Summary report - CHIPS R&D semiconductor supply chain trust and assurance
+    data standards & digital twin data interoperability standards workshops
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.CHIPS.1400-3
+docidentifier:
+- content: NIST CHIPS 1400-3
+  type: NIST
+  primary: true
+- content: NIST.CHIPS.1400-3
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Obrzut, Jan
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-6667-9712"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bedner, Mary.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-2183-7008"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: CHIPS Program Office.
+series:
+- title:
+  - content: NIST CHIPS
+  number: 1400-3
+- title:
+  - content: NIST CHIPS; NIST Creating Helpful Incentives to Produce Semiconductors
+      for America (CHIPS) Series
+  number: 1400-3
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

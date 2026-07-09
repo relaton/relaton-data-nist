@@ -1,0 +1,77 @@
+---
+id: NISTCHIPS14001
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Summary report
+  type: title-main
+- language: en
+  script: Latn
+  content: CHIPS R&D program standards summit
+  type: title-part
+- language: en
+  script: Latn
+  content: Summary report - CHIPS R&D program standards summit
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.CHIPS.1400-1
+docidentifier:
+- content: NIST CHIPS 1400-1
+  type: NIST
+  primary: true
+- content: NIST.CHIPS.1400-1
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Greer, Chris
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-6669-3941"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: CHIPS Program.
+abstract:
+- language: en
+  script: Latn
+  content: 'The mission of the National Institute of Standards and Technology’s (NIST)
+    CHIPS Research and Development Office (CHIPS R&D) under the Department of Commerce’s
+    CHIPS for America Program is to accelerate the development and commercial deployment
+    of foundational semiconductor technologies by establishing, connecting, and providing
+    access to domestic research efforts, tools, resources, workers, and facilities.
+    A key element in achieving these CHIPS R&D goals is to accelerate the private
+    sector-led development and deployment by industry of effective technical standards.
+    This report describes the outcomes of the CHIPS R&D Standards Summit held in September
+    2023, in Washington D.C. in four topic areas: Identifying strategic standards
+    priorities; enabling innovation in standards development; promoting a diverse,
+    standards-capable workforce; and linking standards and research.'
+series:
+- title:
+  - content: NIST CHIPS
+  number: 1400-1
+- title:
+  - content: NIST CHIPS; NIST Creating Helpful Incentives to Produce Semiconductors
+      for America (CHIPS) Series
+  number: 1400-1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,110 @@
+---
+id: NISTTN2374
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Probabilistic carbon assessment of post-disaster building repairs using
+    pelicun-LCA
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2374
+docidentifier:
+- content: NIST TN 2374
+  type: NIST
+  primary: true
+- content: NIST.TN.2374
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cook, Dustin.
+    identifier:
+    - type: uri
+      content: "(orcid)\t0000-0002-4841-4515"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fung, Juan.
+    identifier:
+    - type: uri
+      content: "(orcid) 0000-0002-0820-787X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sattar, Siamak.
+    identifier:
+    - type: uri
+      content: "(orcid) 0000-0003-1096-7015"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nema, Arpit.
+    identifier:
+    - type: uri
+      content: "(orcid) 0009-0002-5400-6435"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'Assessing embodied carbon can drive innovation in materials, structural
+    systems, and design practices that strengthen both disaster resilience and resource
+    efficiency. This project aims to enhance the industry''s capacity to assess the
+    embodied carbon of resilient buildings by delivering a new method and tool. This
+    can improve the competitiveness of U.S. industry in the global market. Pelicun
+    is an open-source software package developed by the Natural Hazards Engineering
+    Research Infrastructure’s (NHERI) Computational Modeling and Simulation Center
+    (SimCenter) to evaluate building damage and losses resulting from natural hazard
+    events. Based on the Pelicun framework, we develop a Python library, Pelicun-LCA,
+    which utilizes a hybrid method to probabilistically quantify the embodied carbon
+    associated with post-disaster building repairs. This method considers the direct
+    impact of repair materials and the indirect impact of repair processes, including
+    construction equipment, labor travel, debris disposal, and occupant displacement.
+    This method combines detailed process analysis with comprehensive input-output
+    analysis to improve the accuracy and completeness of carbon assessments. However,
+    due to its added complexity and substantial computational workload, automated
+    calculation tools are essential for practical application. This report presents
+    the technical details of Pelicun-LCA, a tool that streamlines the probabilistic
+    assessment of embodied carbon in post disaster building repairs. Pelicun-LCA has
+    three key features: detailed embodied carbon breakdowns, built-in design databases
+    for various building archetypes, and parallel processing for cross-building comparisons.
+    Eighteen design variants targeting different seismic performances are examined
+    to demonstrate the capabilities of Pelicun-LCA. Finally, this report discusses
+    the potential applications and limitations of Pelicun-LCA to help users develop
+    effective case studies'
+series:
+- title:
+  - content: NIST technical note
+  number: '2374'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

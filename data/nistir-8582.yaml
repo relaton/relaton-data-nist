@@ -1,0 +1,155 @@
+---
+id: NISTIR8582
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Priming additively manufactured cobalt-free maraging steels for improved
+    properties through changes to as-built microstructure
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8582
+docidentifier:
+- content: NIST IR 8582
+  type: NIST
+  primary: true
+- content: NIST.IR.8582
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Benzing, Jake.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7266-870X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zhang, Fang.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1248-0278"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Weaver, Jordan.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-4857-5164"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: R. Colby, Evans.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-2134-238X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Derimow, Nicholas.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-7526-1836"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hrabe, Nik.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-7585-0980"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Moser, Newell.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3346-6427"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Martin, May L.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-5153-9597"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Supply chain challenges and health concerns have spurred the development
+    of new Co-free, Cr-containing maraging steels with several new alloys already
+    commercialized. These alloys are a less expensive and more sustainable form of
+    the currently used Co-containing maraging steels C300 and C350. However, Co-free,
+    Cr-containing maraging steels exhibit reduced strengths after heat treatment compared
+    to current Co-containing alloys. New processing pathways are required to create
+    microstructures able to reach parity with existing Co-containing or Ti-strengthened
+    maraging steels and enable their replacement with sustainable alternatives. This
+    work looks at using changes to laser beam powder bed fusion (PBF-LB) build parameters
+    of the Co-free, Cr-containing maraging steel M789 to alter the as-built microstructure
+    and provide new avenues for reaching parity with existing Co-containing maraging
+    steels. Modelling of the PBF-LB build process suggests considerable changes in
+    thermal history, and thereby likely unique evolution in solidification and solid
+    state microstructures. Characterization of as-built material however showed little-to-no
+    impact of build parameters on the solid state or solidification microstructures,
+    suggesting M789 and other alloys experience phase transformations that are resilient
+    to build parameter selection. Differences in porosity content between parameter
+    sets obscured any changes in material properties during uniaxial tension and hardness
+    testing. Despite these defects, multiple parameter sets produced material with
+    as-built tensile strengths comparable to C300 maraging steels, demonstrating M789
+    can be a feasible alternative of C300 in as-built material applications. Future
+    considerations on using heat treatments and implementing HIP to remove porosity
+    defects are discussed as avenues to identify processing routes which boost the
+    mechanical properties of M789 and other Co-free, Cr-containing alloys. Future
+    work on better understanding the solid state transformations of M789 are also
+    discussed, especially with implications on the resilience of this alloy to changes
+    in build parameters and the development of other AM-resilient alloys.
+series:
+- title:
+  - content: NISTIR
+  number: '8582'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8582'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

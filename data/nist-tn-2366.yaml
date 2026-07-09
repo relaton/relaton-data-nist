@@ -1,0 +1,66 @@
+---
+id: NISTTN2366
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: NIST special database 303
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2366
+docidentifier:
+- content: NIST TN 2366
+  type: NIST
+  primary: true
+- content: NIST.TN.2366
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ko, Kenneth.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0005-7717-9728"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wertheim, Kasey.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Thousands of latent impression distal phalanx images and associated exemplar
+    fingerprint images were collected for a study of forensic fingerprint examiner’s
+    ability to make suitability determinations. These images are being released for
+    free to the research community in a new dataset from the National Institute of
+    Standards and Technology entitled Special Database (SD) 303.
+series:
+- title:
+  - content: NIST technical note
+  number: '2366'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,96 @@
+---
+id: NISTIR8374r1
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Ransomware risk management
+  type: title-main
+- language: en
+  script: Latn
+  content: A cybersecurity framework 2.0 community profile
+  type: title-part
+- language: en
+  script: Latn
+  content: Ransomware risk management - A cybersecurity framework 2.0 community profile
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8374r1
+docidentifier:
+- content: NIST IR 8374r1
+  type: NIST
+  primary: true
+- content: NIST.IR.8374r1
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Souppaya, Murugiah.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8055-8527"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barker, William.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4113-8861"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kent, Karen.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-6334-9486"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Ransomware is a type of malicious attack where attackers encrypt an organization’s
+    data and demand payment to restore access. Attackers may also steal an organization’s
+    information and demand an additional payment in return for not disclosing the
+    information to authorities, competitors, or the public. This Cybersecurity Framework
+    (CSF) 2.0 Community Profile identifies the security outcomes from the NIST CSF
+    2.0 that support governing management of, identifying, protecting against, detecting,
+    responding to, and recovering from ransomware events. The Profile can be used
+    as a guide to managing the risk of ransomware events. That includes helping to
+    gauge an organization’s level of readiness to counter ransomware threats and to
+    deal with the potential consequences of events. This Profile can be leveraged
+    in developing a ransomware countermeasure playbook.
+series:
+- title:
+  - content: NISTIR
+  number: 8374r1
+- title:
+  - content: NISTIR
+  number: 8374r1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

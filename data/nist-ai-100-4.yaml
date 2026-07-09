@@ -1,0 +1,57 @@
+---
+id: NISTAI1004
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Reducing risk posed by synthetic content an overview of technical approaches
+    to digital content transparency
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AI.100-4
+docidentifier:
+- content: NIST AI 100-4
+  type: NIST
+  primary: true
+- content: NIST.AI.100-4
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.).
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+abstract:
+- language: en
+  script: Latn
+  content: 'This report examines the existing standards, tools, methods, and practices,
+    as well as the potential development of further science-backed standards and techniques,
+    for: authenticating content and tracking its provenance; labeling synthetic content,
+    such as using watermarking; detecting synthetic content; preventing generative
+    AI (GAI) from producing child sexual abuse material or producing non-consensual
+    intimate imagery of real individuals (to include intimate digital depictions of
+    the body or body parts of an identifiable individual); testing software used for
+    the above purposes; and auditing and maintaining synthetic content.'
+series:
+- title:
+  - content: NIST trustworthy and responsible AI; NIST AI
+  number: 100-4
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

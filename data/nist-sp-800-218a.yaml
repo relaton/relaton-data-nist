@@ -1,0 +1,101 @@
+---
+id: NISTSP800218A
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Secure software development practices for generative AI and dual-use foundation
+    models
+  type: title-main
+- language: en
+  script: Latn
+  content: an SSDF community profile
+  type: title-part
+- language: en
+  script: Latn
+  content: Secure software development practices for generative AI and dual-use foundation
+    models - an SSDF community profile
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-218A
+docidentifier:
+- content: NIST SP 800-218A
+  type: NIST
+  primary: true
+- content: NIST.SP.800-218A
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Souppaya, Murugiah.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8055-8527"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Vassilev, Apostol.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-9081-3042"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ogata, Michael.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8457-2430"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stanley, Martin.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Scarfone, Karen.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-6334-9486"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+series:
+- title:
+  - content: NIST special publication
+  number: 800-218A
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-218A
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

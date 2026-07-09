@@ -1,0 +1,94 @@
+---
+id: NISTTN2353
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Environmental Product Declaration (EPD) database creation and public life
+    cycle inventory (LCI) data gap assessment
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2353
+docidentifier:
+- content: NIST TN 2353
+  type: NIST
+  primary: true
+- content: NIST.TN.2353
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Parekh, Purav
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0009-3250-5306"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ranganath, Sindhu
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0005-8689-4336"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rodriguez-Garcia, Gonzalo
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-8084-8236"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: 'Given the increasing prevalence of using Environmental Product Declarations
+    (EPDs) for product comparisons and selection, both domestically and globally,
+    there is a need to ensure the results reported in EPDs are useful for such comparisons
+    (i.e., transparent and standardized to ensure quality decision making). One challenge
+    that was identified more than a decade ago was the lack of common data sources,
+    which could undermine the comparability of EPDs and similar claims. Federal agencies
+    have targeted this issue through the development of public secondary datasets
+    and gap assessments of currently available public life cycle inventory (LCI) datasets.
+    This study complements public data gap assessments completed by the Environmental
+    Protection Agency (EPA), Department of Energy (DOE), and NIST by focusing on three
+    goals. First, develop and implement a repeatable process to create a machine-readable
+    database of information reported in EPDs for a product category. Second, analyze
+    the database to review reported data sources for various processes in all EPDs
+    within the product category to determine which data sources are currently in use
+    and assess whether public sources can replace commercial data sources while identifying
+    any gaps in public LCI data. Third, use the results of the LCI data analysis to
+    provide insights on developing representative inventories for common practice
+    in existing EPDs for a product category. This study provides results for four
+    product categories: cement, concrete, asphalt, and gypsum.'
+series:
+- title:
+  - content: NIST technical note
+  number: '2353'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

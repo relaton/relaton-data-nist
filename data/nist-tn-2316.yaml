@@ -1,0 +1,104 @@
+---
+id: NISTTN2316
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Pre-conceptual design activities of the NIST neutron source
+  type: title-main
+- language: en
+  script: Latn
+  content: preliminary neutronics assessments
+  type: title-part
+- language: en
+  script: Latn
+  content: Pre-conceptual design activities of the NIST neutron source - preliminary
+    neutronics assessments
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2316
+docidentifier:
+- content: NIST TN 2316
+  type: NIST
+  primary: true
+- content: NIST.TN.2316
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Weiss, Abdullah G.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1134-1735"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Şahin, Dağıstan.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-5256-1809"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: NIST Center for Neutron Research.
+abstract:
+- language: en
+  script: Latn
+  content: The NIST Center for Neutron Research (NCNR) hosts the National Bureau of
+    Standards Reactor (NBSR), which has been operational since 1967. The NBSR is aging,
+    and current NCNR facilities fall short of accommodating scientific demand. Therefore,
+    NIST is pursuing a replacement reactor, namely the NIST Neutron Source, or NNS.
+    The NNS is proposed as a 20 Megawatt thermal (MWth) compact-core-reactor, cooled
+    and moderated by light water (H2O). The core is fueled by nine high-assay low-enriched
+    uranium-molybdenum (U-10Mo) monolithic curved plate fuel assemblies in a three-row
+    by three-column square lattice. The NNS core is encased in a chimney surrounded
+    by a heavy water (D2O) filled reflector tank where two liquid deuterium (LD2)
+    cold neutron sources lie. This work discusses the neutronics of the NNS’s pre-conceptual
+    equilibrium core design, which includes its safety aspects. Descriptions of the
+    design targets as well as anticipated reactor materials used, are included alongside
+    the Monte Carlo N-Particle® (MCNP) model setup. A list of assumptions and model
+    development details are shown to clearly illustrate the limitations of the analyses
+    in this work. The equilibrium core computation process is shown alongside the
+    converged fuel management scheme, which predicts a cycle length of 40 days with
+    three fresh fuel assemblies each cycle. Neutron flux distributions illustrate
+    the high leakage of thermal neutrons out of the core, which is desirable. Two
+    critical parameters describe reactor utilization and fuel performance, namely
+    the maximum power density and the maximum local integral fission density, or in
+    short fission density. For the NNS, the maximum power density is estimated to
+    be 18 kW/cm3, and the maximum local fission density is about 4.5 x 1021 fissions/cm3.
+    The same parameters are 4.88 kW/cm3 and 2.0 x 1021 fissions/cm3 for the existing
+    NBSR. Please note that NBSR currently utilizes high-enriched U3O8 fuel and plans
+    to use low-enriched U-10Mo fuel by 2030. For comparison, the maximum power density
+    and the maximum local fission density values for the NBSR utilizing U-10Mo fuel
+    are estimated as 12.6 kW/cm3 and 6.2 x 1021 fissions/cm3, respectively. Criticality
+    safety assessments demonstrate negative reactivity coefficients for the moderator
+    temperature, void, and H2O to D2O mixing from accidents involving the reflector
+    tank. This technical note demonstrates that the current pre-conceptual NNS design
+    is feasible and safe from a neutronics perspective.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2316'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

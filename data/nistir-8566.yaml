@@ -1,0 +1,79 @@
+---
+id: NISTIR8566
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: A QoE-based method for quantifying and comparing LTE coverage
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8566
+docidentifier:
+- content: NIST IR 8566
+  type: NIST
+  primary: true
+- content: NIST.IR.8566
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sun, Yishen.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-6334-253X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rouil, Richard A.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-0387-0880"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Communication Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: To determine the coverage of an LTE system, measurements such as the Reference
+    Signal Received Power (RSRP), Reference Signal Received Quality (RSRQ), and Signal
+    to Interference and Noise Ratio (SINR) are often used. However, RSRP and RSRQ
+    are only relevant to LTE, and all three measurements are representative of signal
+    quality but not user experience. In this paper, we propose a method that relates
+    signal quality to Quality of Experience (QoE) using simulation. With this method,
+    the coverage of an LTE system is quantified using speech intelligibility which
+    is agnostic to an underlying technology making it possible to compare different
+    technologies while also allowing users to directly relate speech intelligibility
+    scores to sampled audio. In addition to the proposed method, this paper also describes
+    an implementation of the method, a case study of the method using drive test data,
+    and validation of the proposed method.
+series:
+- title:
+  - content: NISTIR
+  number: '8566'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8566'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

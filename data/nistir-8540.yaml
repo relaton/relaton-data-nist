@@ -1,0 +1,64 @@
+---
+id: NISTIR8540
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Report on Secure Hardware Assurance Reference Dataset (SHARD) program
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8540
+docidentifier:
+- content: NIST IR 8540
+  type: NIST
+  primary: true
+- content: NIST.IR.8540
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Okun, Vadim.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-2391-3681"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Significant vulnerabilities have been found in chips. Computer programs
+    and methods have been developed to prevent, find, and mitigate them. We proposed
+    Secure Hardware Assurance Reference Dataset (SHARD) as a repository of reference
+    examples (test cases) of both vulnerable and “clean” hardware IC designs. SHARD
+    test cases will enable tool makers to test their techniques and allow chip designers
+    to evaluate those tools. SHARD received preliminary funding through NIST Building
+    The Future (BTF). This reports what we have achieved with that funding.
+series:
+- title:
+  - content: NISTIR
+  number: '8540'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8540'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,92 @@
+---
+id: NISTSP500290e4
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Information technology
+  type: title-main
+- language: en
+  script: Latn
+  content: data format for the interchange of fingerprint, facial and other biometric
+    information ANSI/NIST-ITL 1-2025 revision of ANSI/NIST-ITL 1-2011 update 2015
+  type: title-part
+- language: en
+  script: Latn
+  content: Information technology - data format for the interchange of fingerprint,
+    facial and other biometric information ANSI/NIST-ITL 1-2025 revision of ANSI/NIST-ITL
+    1-2011 update 2015
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.500-290e4
+docidentifier:
+- content: NIST SP 500-290e4
+  type: NIST
+  primary: true
+- content: NIST.SP.500-290e4
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fiumara, Gregory.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4853-8315"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Orandi, Shahram.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0005390-6119"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Marshall, Karen.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0008-7726-4852"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This document is an open voluntary consensus standard governing the transmission
+    of biometric data and metadata to and from biometric systems. It is produced using
+    the Canvassee method. This standard promotes interoperability in the exchange
+    of such data.
+series:
+- title:
+  - content: NIST special publication
+  number: 500-290e4
+- title:
+  - content: NIST special publication
+  number: 500-290e4
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

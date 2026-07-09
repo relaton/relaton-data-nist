@@ -1,0 +1,74 @@
+---
+id: NISTTN2343
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Comparison of interference impacts from synthetic and real mobile phone
+    signals on COTS communication devices
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2343
+docidentifier:
+- content: NIST TN 2343
+  type: NIST
+  primary: true
+- content: NIST.TN.2343
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wunderlich, Adam.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8463-9156"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Communications Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'This work provides recommendations for best practices that enable simplified,
+    cost-effective interference testing that incorporates relevant aspects of realistic
+    cellular emissions. Experimental impacts from three broad classes of interference
+    waveforms are compared: 1) synthetic 4G frequency division duplexing (FDD) uplink
+    long term evolution (LTE) signals 2) recordings of real 4G FDD uplink LTE emissions
+    from commercial off-the-shelf (COTS) hardware and 3) artificial pulse modulated
+    noise (PMN). Two COTS communication systems are used as victim links, an IEEE
+    802.11n Wi-Fi link and a point-to-point (PTP) microwave link, and tests are performed
+    with interference targeting either side of the link. We find that synthetic 4G
+    FDD LTE signals generated using three different commercial products produce similar
+    interference outcomes when the noise floor and channel power are consistent. Further,
+    we observe that the interference effects of synthetic LTE signals, recorded LTE
+    Signals from COTS hardware, and artificial PMN signals result in similar impacts
+    on each victim system. We conclude that synthetic 4G LTE and PMN signals are both
+    valid strategies to produce realistic interference on a victim system that avoid
+    the complexity of using real world recordings for test waveforms. In particular,
+    these findings provide further support for the utility of PMN as a class of interference
+    test signals that is easy to generate and has only two test parameters (period
+    and duty cycle). Data for this report are available athttps://doi.org/10.18434/mds2-3888.'
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2343'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

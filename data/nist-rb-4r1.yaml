@@ -1,0 +1,100 @@
+---
+id: NISTRB4r1
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Infographic on post-earthquake functional recovery performance
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.RB.4r1
+docidentifier:
+- content: NIST RB 4r1
+  type: NIST
+  primary: true
+- content: NIST.RB.4r1
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Siamak, Sattar.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1096-7015"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cook, Dustin.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4841-4515"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Aher, Sandesh.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0005-8697-1936"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: In the U.S., building codes and standards have been developed to reduce
+    the likelihood of building collapse but do not address the loss of building functions
+    or recovery times due to earthquakes. When scaled to the community level, negative
+    consequences, such as lack of access to jobs and schools and, ultimately, population
+    displacement, may occur. Buildings and infrastructure systems can be improved
+    to better meet the needs of users and occupants after natural hazard events. These
+    needs include the ability to reoccupy and resume functions and services across
+    the assets that most benefit society. Research in earthquake engineering and social
+    science has advanced a new performance objective called functional recovery that
+    supports the design of assets to meet needs beyond what is currently required
+    by codes and standards. Implementation of functional recovery design will enable
+    buildings and infrastructure systems to sustain less damage in earthquake events
+    and return to a basic level of service more quickly, reducing downtime for key
+    societal activities as well as direct and indirect costs of damages, repairs,
+    or demolition.
+relation:
+- type: updates
+  bibitem:
+    formattedref:
+      content: NIST RB 4
+    docidentifier:
+    - content: NIST RB 4
+      type: NIST
+series:
+- title:
+  - content: NIST research brief
+  number: 4r1
+- title:
+  - content: NIST research brief ; NIST RB
+  number: 4r1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

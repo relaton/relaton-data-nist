@@ -1,0 +1,210 @@
+---
+id: NISTIR8610
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Status report on the second round of the additional digital signature schemes
+    for the NIST post-quantum cryptography standardization process
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8610
+docidentifier:
+- content: NIST IR 8610
+  type: NIST
+  primary: true
+- content: NIST.IR.8610
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Moody, Dustin.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4868-6684"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bros, Maxime.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-7838-2529"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ciadoux, Pierre.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0001-2272-681X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dang, Quynh.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0005-9801-6805"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dang, Thinh.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-9705-0925"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kelsey, John.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3427-1744"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lichtinger, Jacob.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-2407-5309"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Liu, Yi-Kai.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-7458-4721"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Miller, Carl.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1917-1531"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Peralta, Rene.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-2318-7563"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Perlner, Ray.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-8793-2238"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Robinson, Angela.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-1209-0379"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Silberg, Hamilton.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0004-4178-8954"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Smith-Tone, Daniel.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7995-8734"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Waller, Noah.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-6979-9725"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'This report describes the evaluation criteria and selection process of
+    the Second Round of the Additional Digital Signatures for the NIST Post-Quantum
+    Cryptography (PQC)Standardization Process, which will identify public-key digital
+    signature algorithms for potential standardization to protect sensitive information
+    into the foreseeable future, including after the advent of quantum computers.
+    Any signature scheme that is eventually selected will augment FIPS 204, Module-Lattice-Based
+    Digital Signature Standard; FIPS205, Stateless Hash-Based Digital Signature Standard;
+    FIPS 186-5, Digital Signature Standard (DSS); and SP 800-208, Recommendation for
+    Stateful Hash-Based Signature Schemes. Based on public feedback and internal reviews
+    of the second-round candidates, NIST has selected nine candidate algorithms to
+    move forward to the third round ofevaluation: FAEST, HAWK, MAYO, MQOM, QR-UOV,
+    SDitH, SNOVA, SQIsign, and UOV.'
+series:
+- title:
+  - content: NISTIR
+  number: '8610'
+- title:
+  - content: NISTIR
+  number: '8610'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

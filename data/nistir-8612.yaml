@@ -1,0 +1,131 @@
+---
+id: NISTIR8612
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Experimental setup for the comfort evaluation in automated vehicle
+  type: title-main
+- language: en
+  script: Latn
+  content: design and implementation framework/ Wenqi Guo; Sanchit Kedia; Thomas Roth;
+    Zeid Kootbally; Ninad Harishchandrakar; Edward Griffor; Hadhoum Hajjaj
+  type: title-part
+- language: en
+  script: Latn
+  content: Experimental setup for the comfort evaluation in automated vehicle - design
+    and implementation framework/ Wenqi Guo; Sanchit Kedia; Thomas Roth; Zeid Kootbally;
+    Ninad Harishchandrakar; Edward Griffor; Hadhoum Hajjaj
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8612
+docidentifier:
+- content: NIST IR 8612
+  type: NIST
+  primary: true
+- content: NIST.IR.8612
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kedia, Sanchit S.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0006-5476-4390"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Roth, Thomas P.
+    identifier:
+    - type: uri
+      content: "(orcid) 0000-0002-9986-7784"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kootbally, Zeid
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-6323-1824"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Harishchandrakar, Ninad
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0009-7217-6981"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Griffor, Edward R.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-5241-7551"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hajjaj, Hadhoum
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0001-4237-4874"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Communication Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This technical report outlines the design and implementation of a structured
+    experimental framework to evaluate passenger comfort during braking in automated
+    vehicles (AVs). The study focuses on how initial velocity and available stopping
+    distance influence deceleration profiles and perceived ride quality. Using a controlled
+    test environment, a series of trials were conducted across a range of speeds and
+    distances, with repeatable braking event to simulate realistic AV operations.
+    Quantitative measures such as acceleration, jerk, and braking duration were recorded
+    using an instrumented test vehicle to assess the comfort level of the brakes.
+    The experimental protocol emphasizes repeatability and scalability to support
+    future studies involving connected infrastructure, and ensures repeatability,
+    minimizes external variability, and allows comparison across braking force levels.
+    This framework is intended to serve as a standardized test plan for evaluating
+    AV braking comfort in real-world or closed-course environments.
+series:
+- title:
+  - content: NISTIR
+  number: '8612'
+- title:
+  - content: NISTIR
+  number: '8612'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

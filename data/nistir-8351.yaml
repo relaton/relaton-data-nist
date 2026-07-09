@@ -1,0 +1,122 @@
+---
+id: NISTIR8351
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: DNA mixture interpretation
+  type: title-main
+- language: en
+  script: Latn
+  content: a NIST scientific foundation review
+  type: title-part
+- language: en
+  script: Latn
+  content: DNA mixture interpretation - a NIST scientific foundation review
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8351
+docidentifier:
+- content: NIST IR 8351
+  type: NIST
+  primary: true
+- content: NIST.IR.8351
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Iyer, Hari.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-5198-9945"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Press, Rich.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0006-5953-4404"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Taylor, Melissa K.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4204-3864"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Vallone, Peter M.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8019-6204"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Willis, Sheila.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-6213-6486"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Laboratory Programs.
+abstract:
+- language: en
+  script: Latn
+  content: 'This report explores DNA mixture interpretation in six chapters, a bibliography
+    of cited references, an appendix with glossary and acronyms, and two supplemental
+    documents. Chapter 1 introduces the topic of DNA mixtures, the difficulties behind
+    their interpretations, and discusses the relevance of issues explored in the other
+    chapters of this scientific foundation review. Chapter 2 provides background information
+    on the use of DNA testing in forensic casework and describes principles and practices
+    underlying mixture measurement and interpretation. The likelihood ratio (LR) framework
+    and probabilistic genotyping software (PGS) are also discussed. Chapter 3 lists
+    data sources used in this study and strategies used to locate them. Chapter 4
+    and Chapter 5 cover the report’s core concepts: reliability and relevance issues
+    in DNA mixture interpretation when seeking to answer “who” and “how” questions
+    at the sub-source and activity levels of the hierarchy of propositions, respectively.
+    Chapter 6 explores the potential of new technologies to assist in mixture interpretation
+    and considerations for implementation. Two supplemental documents provide context
+    on how the field has progressed (NISTIR 8351sup1) and summarized information from
+    publicly accessible validation and proficiency test results covering DNA mixture
+    interpretation (NISTIR 8351sup2). There are 498 references cited in this report.'
+series:
+- title:
+  - content: NISTIR
+  number: '8351'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8351'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

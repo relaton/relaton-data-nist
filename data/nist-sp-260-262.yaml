@@ -1,0 +1,98 @@
+---
+id: NISTSP260262
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Extent-of-equivalence assessment of certified reference materials for albumin
+    and creatinine in human urine
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-262
+docidentifier:
+- content: NIST SP 260-262
+  type: NIST
+  primary: true
+- content: NIST.SP.260-262
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Camara, Johanna.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-9415-8452"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wood, Elena.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0000-8537-3006"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Heckert, Nathanael.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8430-6757"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Accurate urine albumin test results are crucial for diagnosing and managing
+    kidney disease. Toensure accuracy and consistency, clinical lab results need to
+    be standardized. This can beachieved by establishing a calibration hierarchy that
+    links clinical results to the foundational unitof measure, the International System
+    of Units (SI). The National Institute of Standards andTechnology (NIST) and the
+    Health Sciences Authority (HSA), Singapore, have developed twocertified reference
+    materials (CRMs) for albumin and creatinine in human urine. An extent-ofequivalence
+    assessment was performed to compare the certified values of urine albumin andcreatinine
+    in the two human urine CRMs (NIST SRM 3666 and HRM-3004A). The overlap observedin
+    the equivalence assessment between the measured [Xi ± U95(Xi)] and certified[Ci
+    ± U95(Ci)] intervals indicate that the intervals agree within their assigned uncertainties
+    withabout a 95 % level of confidence. Therefore, the CRMs were deemed equivalent
+    at a 95 % levelof confidence for measuring urine albumin and creatinine. The equivalence
+    of these CRMsensures that their interchangeable use in a calibration hierarchy
+    does not introduce additionalbias, thereby maintaining the integrity of the calibration
+    hierarchy and ensuring thatmeasurement results remain reliable and without significant
+    impacts on uncertainty or quality.By establishing a robust calibration hierarchy
+    for urine albumin and creatinine measurements,we can enhance the reliability and
+    accuracy of clinical laboratory measurements for kidneydisease diagnosis and monitoring,
+    ultimately leading to better patient outcomes and moreeffective healthcare management.
+series:
+- title:
+  - content: NIST special publication
+  number: 260-262
+- title:
+  - content: NIST special publication
+  number: 260-262
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

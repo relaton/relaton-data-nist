@@ -1,0 +1,70 @@
+---
+id: NISTSP995
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Ignition of weathered and emulsified oils
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.995
+docidentifier:
+- content: NIST SP 995
+  type: NIST
+  primary: true
+- content: NIST.SP.995
+  type: DOI
+date:
+- type: issued
+  at: '2003'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Evans, David D.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tennyson, Edward J.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: In situ burning of oil spills has been shown to be a rapid means of removing
+    oil from the water surface. Although fresh oil is usually easily ignited, the
+    ability to ignite weathered oils and water-in-oil emulsions is less certain. This
+    paper presents results from laboratory experiments that measure the ignition times
+    for oils and emulsions when heated by thermal radiation. Measurements of thermal
+    radiation for diesel fuel pool fires of various sizes likely to be used for oil
+    spill ignition are combined with the laboratory measurements of ignition times
+    to provide a guide for ignition of weathered and emulsified oils under no wind
+    conditions.
+series:
+- title:
+  - content: NIST special publication
+  number: '995'
+- title:
+  - content: NIST special publication
+  number: '995'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

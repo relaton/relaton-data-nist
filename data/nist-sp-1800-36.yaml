@@ -1,0 +1,164 @@
+---
+id: NISTSP180036
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Trusted internet of things (IoT) device network-layer onboarding and lifecycle
+    management
+  type: title-main
+- language: en
+  script: Latn
+  content: enhancing internet protocol-based IoT device and network security
+  type: title-part
+- language: en
+  script: Latn
+  content: Trusted internet of things (IoT) device network-layer onboarding and lifecycle
+    management - enhancing internet protocol-based IoT device and network security
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1800-36
+docidentifier:
+- content: NIST SP 1800-36
+  type: NIST
+  primary: true
+- content: NIST.SP.1800-36
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Marron, Jeffrey
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7871-683X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Souppaya, Murugiah
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8055-8527"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Watrobski, Paul
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-6449-3030"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Barker, William
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Deane, Chelsea
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Klosterman, Joshua
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mulugeta, Blaine
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0004-1299-7482"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rearick, Charlie
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Symington, Susan
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Harkins, Dan
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jump, Danny
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Establishing trust between a network and an Internet of Things (IoT) device
+    (as defined in NIST Internal Report 8425) prior to providing the device with the
+    credentials it needs to join the network is crucial for mitigating the risk of
+    potential attacks. There are two possibilities for attack. One happens when a
+    device is convinced to join an unauthorized network, which would take control
+    of the device. The other occurs when a malicious device infiltrates a network.
+    Trust is achieved by attesting and verifying the identity and posture of the device
+    and the network before providing the device with its network credentials—a process
+    known as network-layer onboarding. In addition, scalable, automated mechanisms
+    are needed to safely manage IoT devices throughout their lifecycles, such as safeguards
+    that verify the security posture of a device before the device is permitted to
+    execute certain operations. In this practice guide, the National Cybersecurity
+    Center of Excellence (NCCoE) applies standards, best practices, and commercially
+    available technology to demonstrate various mechanisms for trusted network-layer
+    onboarding of IoT devices in Internet Protocol-based environments. This guide
+    shows how to provide network credentials to IoT devices in a trusted manner and
+    maintain a secure device posture throughout the device lifecycle, thereby enhancing
+    IoT security.
+series:
+- title:
+  - content: NIST special publication
+  number: 1800-36
+- title:
+  - content: NIST special publication
+  number: 1800-36
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

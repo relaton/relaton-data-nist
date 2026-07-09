@@ -1,0 +1,94 @@
+---
+id: NISTAMS10071
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Supply chain disruption and agent-based modeling
+  type: title-main
+- language: en
+  script: Latn
+  content: a literature review and model
+  type: title-part
+- language: en
+  script: Latn
+  content: Supply chain disruption and agent-based modeling - a literature review
+    and model
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-71
+docidentifier:
+- content: NIST AMS 100-71
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-71
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Helgeson, Jennifer
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3692-7874"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Crowther, Ireland
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: This report provides a literature review of supply chain disruption and
+    agent-based models. It also develops an agent-based model proof of concept to
+    examine emergent phenomena in supply chain disruption. This model will eventually
+    be used to 1) examine how supply chain disruptions might propagate downstream,
+    demonstrating the findings of previous papers and 2) identify emergent behavior
+    or patterns in supply chains as it relates to disruptions. Supply chain disruption
+    can be classified by scale (micro vs macro), chronology (short-term vs long-term),
+    and point-of-loss (upstream vs downstream). There is a literature gap relating
+    to macro short term downstream losses; that is, there is a literature gap in understanding
+    the aggregated losses that occur when goods fail to arrive at the next point in
+    the supply chain. There is also a limited understanding of the frequency and magnitude
+    of supply chain disruptions that makes it difficult to estimate annualized losses,
+    which are useful for guiding investment in mitigation. Finally, there is a literature
+    gap in understanding supply chains from a network-level perspective. This report
+    presents a flexible agent-based model that allows various aspects of the model
+    to fluctuate, including the number of tiers, establishment per tier, products
+    per tier, flow time, substitutability, and potentially other aspects. This flexibility
+    allows for the exploration of diverse supply chain structures and supports network-based
+    analysis— addressing the gap identified in the existing literature. The model
+    further facilitates examining other establishment characteristics (e.g., inventory
+    level) to understand how they interact with network design.
+series:
+- title:
+  - content: NIST advanced manufacturing series
+  number: 100-71
+- title:
+  - content: NIST advanced manufacturing series
+  number: 100-71
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

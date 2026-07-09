@@ -1,0 +1,127 @@
+---
+id: NISTAI7002
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Assessing risks and impacts of AI (ARIA)
+  type: title-main
+- language: en
+  script: Latn
+  content: pilot evaluation report
+  type: title-part
+- language: en
+  script: Latn
+  content: Assessing risks and impacts of AI (ARIA) - pilot evaluation report
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AI.700-2
+docidentifier:
+- content: NIST AI 700-2
+  type: NIST
+  primary: true
+- content: NIST.AI.700-2
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Godil, Afzal
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-9016-6677"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Greenberg, Craig
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-6005-8189"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Greene, Kristen
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-7034-3672"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hall, Patrick
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0009-0260-7571"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jensen, Theodore
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-4969-4456"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fiscus, Jonathan
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schulman, Noah
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0005-4235-8726"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'This document describes the procedure used for a pilot of NIST’s Assessing
+    Risks and Impacts of AI (ARIA) evaluation: ARIA 0.1. Five organizations participated,
+    submitting a total of 7 AI applications to be evaluated. In this document, we
+    first describe the design of the three evaluation scenarios (TV Spoilers, Meal
+    Planner, Pathfinder) and the three testing levels (model testing, red teaming,
+    field testing). We then discuss the methods used for assessment via dialogue annotation
+    and tester questionnaires. Finally, we describe our approach to measuring validity
+    of AI applications using measurement trees.'
+series:
+- title:
+  - content: NIST trustworthy and responsible AI
+  number: 700-2
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

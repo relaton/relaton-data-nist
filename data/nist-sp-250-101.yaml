@@ -1,0 +1,68 @@
+---
+id: NISTSP250101
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Ultraviolet to short-wave infrared spectral reflectance
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.250-101
+docidentifier:
+- content: NIST SP 250-101
+  type: NIST
+  primary: true
+- content: NIST.SP.250-101
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Zarobila, Clarence.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-4547-0754"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Physical Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The National Institute of Standards and Technology performs calibrations
+    of spectral reflectance measurements in the ultraviolet (UV) to short-wave infrared
+    (SWIR) spectral regions using the Robotic Optical Scattering Instrument (ROSI)
+    and its associated Reference Integrating Sphere (RIS). This special publication
+    gives a comprehensive overview of the design, operation, and capabilities of this
+    facility. Measurement methods for spectral reflectance, the elements of the uncertainty
+    budget, and validation of the reflectance scale through comparison with NIST’s
+    previous reference instrument, the Spectral Tri-function Automated Reference Reflectometer
+    (STARR), are described. Examples of calibration measurements, including specular
+    reflectance of mirrors, bidirectional reflectance of diffuse reflectors, and directional-hemispherical
+    reflectance, are given. Examples of typical calibration reports are also provided.
+series:
+- title:
+  - content: NIST special publication
+  number: 250-101
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 250-101
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

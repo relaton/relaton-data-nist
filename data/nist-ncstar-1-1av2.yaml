@@ -1,0 +1,57 @@
+---
+id: NISTNCSTAR11av2
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Design and construction of structural systems (Appendices A-G)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.NCSTAR.1-1av2
+docidentifier:
+- content: NIST NCSTAR 1-1av2
+  type: NIST
+  primary: true
+- content: NIST.NCSTAR.1-1av2
+  type: DOI
+date:
+- type: issued
+  at: '2005'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Derecho, Amaldo T.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ghosh, S. K.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
+series:
+- title:
+  - content: NIST NCSTAR; National Construction Safety Team Act report
+  number: 1-1av2
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

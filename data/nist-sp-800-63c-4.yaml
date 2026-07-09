@@ -1,0 +1,122 @@
+---
+id: NISTSP80063C4
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Digital identity guidelines
+  type: title-main
+- language: en
+  script: Latn
+  content: federation and assertions
+  type: title-part
+- language: en
+  script: Latn
+  content: Digital identity guidelines - federation and assertions
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-63C-4
+docidentifier:
+- content: NIST SP 800-63C-4
+  type: NIST
+  primary: true
+- content: NIST.SP.800-63C-4
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Richer, Justin P.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-2130-5180"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Choong, Yee-Yin.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3889-6047"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fenton, James L.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-2344-4291"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lefkovitz, Naomi.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-3777-3106"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Regenscheid, Andrew.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3930-527X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Galluzzo, Ryan.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-0304-4239"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This guideline focuses on the use of federated identity and the use of
+    assertions to implement identity federations. Federation allows a given credential
+    service provider to provide authentication attributes and (optionally) subscriber
+    attributes to a number of separately-administered relying parties. Similarly,
+    relying parties may use more than one credential service provider. The guidelines
+    are not intended to constrain the development or use of standards outside of this
+    purpose. This publication supersedes NIST Special Publication (SP) 800-63C.
+series:
+- title:
+  - content: NIST special publication
+  number: 800-63C-4
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-63C-4
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

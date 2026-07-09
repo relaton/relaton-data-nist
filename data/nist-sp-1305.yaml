@@ -1,0 +1,102 @@
+---
+id: NISTSP1305
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: NIST cybersecurity framework 2.0
+  type: title-main
+- language: en
+  script: Latn
+  content: quick-start guide for cybersecurity supply chain risk management (C-SCRM)
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST cybersecurity framework 2.0 - quick-start guide for cybersecurity
+    supply chain risk management (C-SCRM)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1305
+docidentifier:
+- content: NIST SP 1305
+  type: NIST
+  primary: true
+- content: NIST.SP.1305
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Boyens, Jon.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-5666-8750"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McWhite, Rebecca.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Calloway, Laura.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bartol, Nadya.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: "Scarfone, \tKaren."
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-6334-9486"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: National Institute of Standards and Technology.
+abstract:
+- language: en
+  script: Latn
+  content: 'Use the CSF to Improve Your C-SCRM Processes. The CSF can help an organization
+    become a smart acquirer and supplier of technology products and services. This
+    guide focuses on two ways the CSF can help you: 1) Use the CSF’s GV.SC Category
+    to establish and operate a C-SCRM capability. 2) Define and communicate supplier
+    requirements using the CSF.'
+series:
+- title:
+  - content: NIST special publication
+  number: '1305'
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '1305'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

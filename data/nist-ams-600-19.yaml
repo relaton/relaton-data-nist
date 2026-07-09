@@ -1,0 +1,75 @@
+---
+id: NISTAMS60019
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Manufacturing USA 2025 annual report
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.600-19
+docidentifier:
+- content: NIST AMS 600-19
+  type: NIST
+  primary: true
+- content: NIST.AMS.600-19
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tran, Mai.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7942-8610"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stephens, Amelia.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-6356-4546"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: National Institute of Standards and Technology.
+abstract:
+- language: en
+  script: Latn
+  content: The Manufacturing USA 2025 Annual Report (covering activities from October
+    1, 2022, to September 30, 2023) highlights the impact of the national network
+    of 17 public-private manufacturing innovation institutes. Coordinated by the Advanced
+    Manufacturing National Program Office and sponsored by the Departments of Commerce,
+    Defense, and Energy, the program helps secure U.S. global leadership in advanced
+    manufacturing. Its mission is to connect people, ideas, and technology to solve
+    industry-relevant advanced manufacturing challenges, thereby enhancing industrial
+    competitiveness.
+series:
+- title:
+  - content: NIST advanced manufacturing series
+  number: 600-19
+- title:
+  - content: NIST advanced manufacturing series
+  number: 600-19
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

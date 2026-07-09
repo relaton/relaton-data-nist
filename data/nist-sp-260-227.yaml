@@ -5,7 +5,15 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Certification of Standard Reference Material 3461 reference cantilevers
+  content: Certification of Standard Reference Material 3461
+  type: title-main
+- language: en
+  script: Latn
+  content: reference cantilevers for AFM spring constant calibration
+  type: title-part
+- language: en
+  script: Latn
+  content: Certification of Standard Reference Material 3461 - reference cantilevers
     for AFM spring constant calibration
   type: main
 source:
@@ -21,13 +29,6 @@ date:
 - type: issued
   at: '2022'
 contributor:
-- role:
-  - type: author
-  person:
-    name:
-      completename:
-        language: en
-        content: Gates, Richard S.
 - role:
   - type: author
   person:

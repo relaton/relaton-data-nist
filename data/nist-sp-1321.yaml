@@ -1,0 +1,77 @@
+---
+id: NISTSP1321
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: A technical framework to map functional recovery performance objectives
+    to prescriptive seismic design provisions for buildings
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1321
+docidentifier:
+- content: NIST SP 1321
+  type: NIST
+  primary: true
+- content: NIST.SP.1321
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sattar, Siamak.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1096-7015"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Designing building for improved functional recovery represents a major
+    shift in the current design paradigm. Given the novelty of the functional recovery
+    building performance objective, current design provisions may be ineffective at
+    controlling the underlying damage mechanisms that influence building function
+    and recovery. Therefore, new design provisions, developed based on a fundamental
+    understanding of building recovery behavior, are needed to meet target performance
+    objectives for new buildings. In this report, we present a technical framework
+    to quantify minimum prescriptive design requirements that satisfy target functional
+    recovery performance objectives for new buildings. At its core, the framework
+    utilizes a machine learning algorithm, trained on the simulated performance outcomes
+    of a set of archetype building models, to identify building characteristics that
+    form the boundary between acceptable and unacceptable building performance. The
+    trained algorithm serves as a decision support tool for subject matter experts
+    in making recommendations to update building code provisions through a consensus-based
+    process. In this report, the framework is exercised on a case study archetype
+    design space to illustrate the framework's implementation and interpretation of
+    results. The goal of the proposed framework is to provide a technical link between
+    probabilistic functional recovery models and practical design implementation strategies
+    for improving community resilience and reducing disaster impacts.
+series:
+- title:
+  - content: NIST special publication
+  number: '1321'
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '1321'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,110 @@
+---
+id: NISTAI8003
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Expanding the AI evaluation toolbox with statistical models
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AI.800-3
+docidentifier:
+- content: NIST AI 800-3
+  type: NIST
+  primary: true
+- content: NIST.AI.800-3
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kwegyir-Aggrey, Kweku.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-6971-7355"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Steed, Ryan.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-2345-2670"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rao, Anita K.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0009-6459-6425"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sharp, Julia L.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-9428-6518"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bergman, A. Stevie.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4331-1357"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Center for AI Standards and Innovation.
+abstract:
+- language: en
+  script: Latn
+  content: Benchmarks are widely used to evaluate and compare the performance of artificial
+    intelligence systems. However, some approaches to computing benchmark metrics
+    produce invalid uncertainty estimates or make unrecognized assumptions about the
+    evaluation setting. We leverage statistical modeling to make two contributions
+    to the practice of AI benchmarking. First, we formally distinguish measurements
+    of benchmark accuracy (performance conditioned on a fixed benchmark) from generalized
+    accuracy (performance on all potential test items similar to those included in
+    the benchmark). Then, in a simulated setting and with large-scale evaluation of
+    22 API-access frontier large language models on 3 popular benchmarks, we show
+    how analysis via generalized linear mixed models can accurately estimate generalized
+    accuracy while more efficiently quantifying uncertainty compared to existing regression-free
+    approaches. We also show how this approach can equip evaluators with important
+    context on evaluation results, including variance decomposition and item difficulty
+    estimates that illuminate important aspects of LLM performance and benchmark construction.
+    Our findings highlight the benefits of explicitly specifying a statistical model
+    for more accurate and reliable AI benchmarking.
+series:
+- title:
+  - content: NIST trustworthy and responsible AI
+  number: 800-3
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

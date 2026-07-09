@@ -1,0 +1,83 @@
+---
+id: NISTSP12305
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: The Lumberton, North Carolina flood of 2016, wave 5
+  type: title-main
+- language: en
+  script: Latn
+  content: understanding recovery from sequential disasters
+  type: title-part
+- language: en
+  script: Latn
+  content: The Lumberton, North Carolina flood of 2016, wave 5 - understanding recovery
+    from sequential disasters
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1230-5
+docidentifier:
+- content: NIST SP 1230-5
+  type: NIST
+  primary: true
+- content: NIST.SP.1230-5
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Duenas-Osorio, Leonardo.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7138-7746"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dillard, Maria.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1772-8914"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sutley, Elaina.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4749-2538"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+series:
+- title:
+  - content: NIST special publication
+  number: 1230-5
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1230-5
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

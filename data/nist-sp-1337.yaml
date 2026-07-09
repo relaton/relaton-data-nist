@@ -1,0 +1,63 @@
+---
+id: NISTSP1337
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Assessing support structures for early career researchers at NIST
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1337
+docidentifier:
+- content: NIST SP 1337
+  type: NIST
+  primary: true
+- content: NIST.SP.1337
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dalka, Robert P.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4793-1094"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: This report summarizes the findings of the workforce preparation assessment
+    initiative at the National Institute of Standards and Technology (NIST) using
+    the Aspects of Postdoctoral Researcher Experience Scale survey. It provides an
+    assessment of the current state of the support systems available to postdoctoral
+    and early career researchers in the Information Technology Laboratory at NIST
+    during FY24 and FY25.
+series:
+- title:
+  - content: NIST special publication
+  number: '1337'
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '1337'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

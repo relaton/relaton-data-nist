@@ -1,0 +1,88 @@
+---
+id: NISTTN2346
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Building Life-Cycle Cost (BLCC) userguide
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2346
+docidentifier:
+- content: NIST TN 2346
+  type: NIST
+  primary: true
+- content: NIST.TN.2346
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Donmoyer, Luke.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-6274-0029"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sauder, Victoria.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0003-3811-0205"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Parekh, Purav.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0009-3250-5306"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This user guide for the Building Life-Cycle Cost (BLCC) software explains
+    how to use the software to complete life-cycle cost analysis (LCCA) for federal
+    capital investments that is consistent with the methodology and criteria established
+    by the Federal Energy Management Program (FEMP). BLCC uses the life-cycle cost
+    methods, assumptions, and criteria contained in the FEMP rules published in 10
+    CFR 436, Subpart A and documented in NIST Handbook 135. An annual supplement to
+    Handbook 135, Energy Price Indices and Discount Factors for LCC Analysis (NISTIR
+    85-3273), provides data for the discount rates, discount factors, and energy escalation
+    factors used for conducting an LCC analysis in accordance with the FEMP rules,
+    and is provided as default values in BLCC based on the type of analysis being
+    completed. This version of the user guide is based on BLCC Version 0.3.19-beta.
+    The authors will update the user guide on a regular basis, but there may be a
+    delay relative to changes to the web application due to the review and approval
+    processes and requirements for publications.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2346'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

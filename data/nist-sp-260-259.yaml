@@ -1,0 +1,74 @@
+---
+id: NISTSP260259
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Certification of Standard Reference Material® 2890a water in 1-octanol
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-259
+docidentifier:
+- content: NIST SP 260-259
+  type: NIST
+  primary: true
+- content: NIST.SP.260-259
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Murray, Jacolin A.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-8063-3139"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pintar, Adam L.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-5021-2576"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Materials Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Standard Reference Material (SRM) 2890a Water in 1-Octanol is intended
+    for use in validating methods and calibrating instruments for the measurement
+    of trace concentration levels of water. SRM 2890a is a solution of water in 1-octanol
+    which is certified for its water content. A unit of SRM 2890a consists of five
+    5 mL ampoules, each containing approximately 2 mL of water in 1-octanol. This
+    publication documents the production, analytical methods, and computations involved
+    in characterizing this product.
+series:
+- title:
+  - content: NIST special publication
+  number: 260-259
+- title:
+  - content: NIST special publication
+  number: 260-259
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

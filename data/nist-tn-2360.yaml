@@ -1,0 +1,75 @@
+---
+id: NISTTN2360
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Burning rates of individual firebrands on shredded paper beds
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2360
+docidentifier:
+- content: NIST TN 2360
+  type: NIST
+  primary: true
+- content: NIST.TN.2360
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yang, Jiann.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-2024-0899"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Every year, homes and buildings are destroyed by wildland fires. In most
+    situations, the structures are ignited by firebrands landing on a combustible
+    surface within or in the direct vicinity of the structure. The mass burning rate,
+    which is directly proportional to the energy produced through combustion, provides
+    an indication of the ignition hazard posed by firebrands to nearby materials or
+    structures. In this study, the combined burning rates of firebrands and fuel beds
+    were measured under different air flow conditions. Two types of firebrands (birch
+    and cedar) were used, and the fuel bed was made of shredded printer paper. The
+    bulk fuel bed density and the fuel moisture content were varied in the experiments.
+    An infrared (IR) camera was used to measure initial firebrand temperatures immediately
+    after deposition on the fuel bed and to record the surface temperatures of the
+    fuel bed. The IR measurement was used to calculate the reacting area within the
+    fuel bed throughout the experiments. It was found that the air flow condition
+    had the greatest effect on the combined mass burning rate and the reacting area
+    growth rate within the fuel bed. The initial temperature was also correlated with
+    the air flow condition. The birch firebrands tended to exhibit higher mass loss
+    rates and higher reacting area growth rates than the cedar cases. The initial
+    cedar firebrand temperatures were higher than those of the birch firebrands. There
+    was no clear trend in the burning rate, reacting area growth, or initial firebrand
+    temperature with the bulk fuel bed density and fuel moisture content under the
+    experimental conditions used in this study.
+series:
+- title:
+  - content: NIST technical note
+  number: '2360'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,70 @@
+---
+id: NISTTN2302
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Mapping industrial wireless deployments onto individual use cases
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2302
+docidentifier:
+- content: NIST TN 2302
+  type: NIST
+  primary: true
+- content: NIST.TN.2302
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Candell, Richard.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-6679-8823"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Communications Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Industrial wireless is crucial for the vision of increased intelligence
+    in industrial automation and enhanced connectivity in various industrial scenarios.
+    Although general requirements are usually defined for deploying industrial wireless
+    networks in various application classes, the process for individual deployments
+    in specific industrial use cases cannot be directly deduced. It still requires
+    the exact knowledge of the different industrial process data points and their
+    parameters in order to specify the corresponding wireless technology and the deployed
+    network specifics. In this work, we introduce an entity relationship diagram (ERD)
+    for the mapping between individual wireless use cases, their operational environments,
+    the various wireless technology limits, and the deployed wireless technology specifications
+    including the network configuration, the deployed wireless nodes parameters, and
+    the corresponding radio frequency (RF) setup. This ERD represents the initial
+    step to understand the mapping between various industrial use cases and realistic
+    deployed wireless networks and build a corresponding database that can be helpful
+    in facilitating the procedure for specifying new deployments of industrial wireless
+    networks.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2302'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

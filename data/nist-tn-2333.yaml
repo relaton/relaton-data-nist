@@ -1,0 +1,63 @@
+---
+id: NISTTN2333
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Test results prepared for DuPont explosion hazard lab
+  type: title-main
+- language: en
+  script: Latn
+  content: burning velocity tests of halocarbons in air
+  type: title-part
+- language: en
+  script: Latn
+  content: Test results prepared for DuPont explosion hazard lab - burning velocity
+    tests of halocarbons in air
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2333
+docidentifier:
+- content: NIST TN 2333
+  type: NIST
+  primary: true
+- content: NIST.TN.2333
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The laminar burning velocities of were measured for Trans-1,2-dichloroethylene
+    (DCE), Perfluorobutylethylene (PFBE), a DCE/PFBE of 0.77/0.723 mass fractions
+    , a DCE/PFBE blend of 0.60/0.40 mass fraction, 1,1-difluoroethane (HFC-152a),
+    and C2H5F (vinyl fluoride). Two methods were developed for the measurements. In
+    the first, a Mache-Hebra nozzle burner produces a premixed, conical, Bunsen-type
+    flame, from which the average burning velocity is determined from quotient of
+    the total flow and the Schlieren image area. In the second method, based on the
+    work of Powling and Egerton, a flat flame is stabilized between a honeycomb matrix
+    and a wire mesh screen, and the average burning velocity is determined from the
+    visible flame diameter and the total flow.
+series:
+- title:
+  - content: NIST technical note
+  number: '2333'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

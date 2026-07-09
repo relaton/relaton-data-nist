@@ -1,0 +1,93 @@
+---
+id: NISTTN2323
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: 'Pre-conceptual design activities of the NIST Neutron Source: preliminary
+    thermal-hydraulics assessments'
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2323
+docidentifier:
+- content: NIST TN 2323
+  type: NIST
+  primary: true
+- content: NIST.TN.2323
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gurgen, Anil.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-2304-8061"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bures, Evan.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Shen, Joy.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0004-8046-8945"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: NIST Center for Neutron Research.
+abstract:
+- language: en
+  script: Latn
+  content: The NIST Neutron Source (NNS) is the proposed reactor for ensuring continued
+    future availability of neutrons for the United States’ scientific needs. The NNS
+    would allow the aging National Bureau of Standards Reactor (NBSR) at the NIST
+    Center for Neutron Research (NCNR) to be decommissioned without affecting the
+    availability of neutrons in the United States. This work describes preliminary
+    thermal-hydraulics assessments of the preconceptual design of the NNS, and the
+    NNS’s behavior during nominal operating conditions and various accident scenarios.
+    Core-level and system-level analyses are conducted via models using the United
+    States Nuclear Regulatory Commission’s (NRC’s) TRAC/RELAP Advanced Computational
+    Engine (TRACE) code. The TRACE code allows for an adequate understanding of the
+    thermal and hydraulic characteristics of the reactor and its components during
+    various analyzed conditions. Safety analyses revealed that the proposed NNS operation
+    maintains adequate margins to ONB, OFI, and CHF. In addition, accident analyses
+    indicated that NNS remains within the safety criterion of blistering temperature
+    throughout all analyzed conditions. Computational fluid dynamics (CFD) analyses
+    revealed the opportunity for various design optimizations, including the design
+    of the inlet to the reactor, the fuel assemblies, and the outlet to the reactor
+    for improved performance and enhanced safety margins. The analyses in this work
+    serve as a first step toward defining a holistic understanding of the thermal
+    hydraulics in the NNS, and it provides a valuable reference for future design
+    iterations.
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2323'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

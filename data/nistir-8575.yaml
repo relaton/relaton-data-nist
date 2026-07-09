@@ -1,0 +1,95 @@
+---
+id: NISTIR8575
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Common practices for quantifying methane emissions from plumes detected
+    by remote sensing
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8575
+docidentifier:
+- content: NIST IR 8575
+  type: NIST
+  primary: true
+- content: NIST.IR.8575
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Green, Paul.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1543-1658"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Eldering, Annmarie.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1080-9922"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sherwin, Evan.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-2180-4297"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Laboratory Programs.
+abstract:
+- language: en
+  script: Latn
+  content: This document provides a set of community-accepted practices for quantifying
+    methane emissions based on plumes detected via spectroscopic remote sensing. Its
+    primary goal is to promote consistency in the generation, validation, reporting,
+    and quality assessment of methane emission estimates derived from remote sensing
+    radiances. Developed by subject matter experts with deep experience across all
+    stages of the measurement process, this guidance reflects a critical evaluation
+    of current methodologies and highlights key practices needed to produce reliable,
+    interoperable, and traceable products. The focus is specifically on methane emissions
+    quantified from distinct plumes originating from localized sources, rather than
+    diffuse emissions spread over large regions, which are beyond the scope of this
+    work. This document is intended to serve both data producers and users. For producers,
+    it offers a framework for aligning with field-recognized standards to ensure their
+    outputs meet rigorous quality and transparency criteria. For users, it provides
+    a reference to assess dataset fitness-for-purpose by highlighting essential metadata,
+    assumptions, and methodological choices that underpin emission estimates. By fostering
+    a shared understanding of best practices, this work aims to enhance comparability,
+    confidence, and utility of remotely sensed methane emission products.
+series:
+- title:
+  - content: NISTIR
+  number: '8575'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '8575'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

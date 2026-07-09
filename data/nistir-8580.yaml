@@ -1,0 +1,123 @@
+---
+id: NISTIR8580
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Database of diffusion MRI brain scans at 64 mT and 3 T
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8580
+docidentifier:
+- content: NIST IR 8580
+  type: NIST
+  primary: true
+- content: NIST.IR.8580
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gimbutas, Zydrunas
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-3209-8228"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Chalfoun, Joe
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-8901-7076"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Peskin, Adele
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-4913-5566"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jordanova, Kalina V.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-9097-3863"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Keenan, Kathryn E.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-9070-5255"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ogier, Stephen E.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1098-1693"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: Low-field magnetic resonance imaging offers the promise to significantly
+    increase access to in vivo soft tissue imaging. The technology is both portable
+    and low-cost in relation to the high-field scanners in clinical use today. However,
+    these gains are accompanied by a degradation in image resolution and contrast.
+    Many researchers are investigating machine learning processing pipelines to help
+    restore image quality. Such studies require a well-curated data collection to
+    train their models. In the following we describe a database of brain scans designed
+    for this task. Diffusion-weighted brain scans were acquired for twenty participants
+    on both a 3 T and a 64 mT scanner. In addition, a T1-weighted scan was acquired
+    on the 3 T system for morphological tissue identification. The data from both
+    systems are co-registered and processed in a consistent manner. The resulting
+    database contains diffusion-weighted images, mean diffusivity maps, and tissue
+    parcellation all reported at a resolution consistent with low-field scanners in
+    use today. This database is made available to the public in its entirety to provide
+    a foundation for training and validating machine learning approaches to enhance
+    the quality of low-field magnetic resonance imaging. [1]
+series:
+- title:
+  - content: NISTIR
+  number: '8580'
+- title:
+  - content: NISTIR
+  number: '8580'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

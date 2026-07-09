@@ -1,0 +1,110 @@
+---
+id: NISTSP180035
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Implementing a zero trust architecture
+  type: title-main
+- language: en
+  script: Latn
+  content: high-level document
+  type: title-part
+- language: en
+  script: Latn
+  content: Implementing a zero trust architecture - high-level document
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1800-35
+docidentifier:
+- content: NIST SP 1800-35
+  type: NIST
+  primary: true
+- content: NIST.SP.1800-35
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Howell, Gema.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-0428-5045"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kerman, Alper.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0000-5880-8369"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rose, Scott.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3105-7427"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Souppaya, Murugiah.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8055-8527"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Communications Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: A zero trust architecture (ZTA) enables secure authorized access to enterprise
+    resources that are distributed across on-premises and multiple cloud environments,
+    while enabling a hybrid workforce and partners to access resources from anywhere,
+    at any time, from any device in support of the organization’s mission. This NIST
+    Cybersecurity Practice Guide explains how organizations can implement ZTA consistent
+    with the concepts and principles outlined in NIST Special Publication (SP) 800-207,
+    Zero Trust Architecture. The NCCoE worked with 24 collaborators under Cooperative
+    Research and Development Agreements (CRADAs) to integrate commercially available
+    technology to build 19 ZTA example implementations and demonstrate a number of
+    common use cases. The Guide includes detailed technical information on each example
+    ZTA implementation, providing models that organizations can emulate. The guide
+    also summarizes best practices and lessons learned from the implementations and
+    integrations to make it easier and more cost-effective to implement ZTA. Additionally,
+    this guide includes mappings of ZTA principles and technologies to commonly used
+    security standards and guidelines.
+series:
+- title:
+  - content: NIST special publication
+  number: 1800-35
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 1800-35
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

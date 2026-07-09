@@ -1,0 +1,85 @@
+---
+id: NISTSP260241
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Development of Reference Material 8103
+  type: title-main
+- language: en
+  script: Latn
+  content: adamantane for subambient DSC temperature and enthalpy calibration
+  type: title-part
+- language: en
+  script: Latn
+  content: Development of Reference Material 8103 - adamantane for subambient DSC
+    temperature and enthalpy calibration
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-241
+docidentifier:
+- content: NIST SP 260-241
+  type: NIST
+  primary: true
+- content: NIST.SP.260-241
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Koepke, Amanda A.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-9515-0383"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Splett, Jolene D.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory; Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: A new Reference Material (RM), designated RM 8013, has been developed for
+    the temperature and enthalpy calibration of differential scanning calorimeters
+    (DSCs). The addition of this new RM expands the applicable range of NIST’s DSC-related
+    calibration standards to include sub-ambient temperatures and represents an attractive
+    alternative to the previous option, Standard Reference Material® (SRM®) 2225,
+    which was discontinued in 2017. RM 8103 was sourced from a single lot of high-purity
+    ( 99%) adamantane. The transition temperature of RM 8103 has been determined
+    to be equal to (-64.58 ± 0.20) °C, while the enthalpy of transition has been determined
+    to be equal to (21.64 ± 0.34) J·g-1. Both values were determined via DSC measurements
+    using an instrument calibrated with certified reference materials obtained from
+    two different national metrology institutes. This document provides all relevant
+    measurement and analysis details for the development of RM 8103.
+series:
+- title:
+  - content: NIST special publication
+  number: 260-241
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 260-241
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

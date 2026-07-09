@@ -1,0 +1,60 @@
+---
+id: NISTTN2322
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Data assimilation in 2D nonlinear coupled sound and heat flow, using a
+    stabilized explicit finite difference scheme marched backward in time
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2322
+docidentifier:
+- content: NIST TN 2322
+  type: NIST
+  primary: true
+- content: NIST.TN.2322
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: "This paper considers the ill-posed data assimilation problem associated
+    with hyperbolic/parabolic systems describing 2D coupled sound and heat flow. Given
+    hypothetical data at time \U0001D447 > 0, that may not correspond to an actual
+    solution of the dissipative system at time \U0001D447, initial data at time \U0001D461
+    = 0 are sought that can evolve, through the dissipative system, into a useful
+    approximation to the desired data at time \U0001D447. That may not always be possible.
+    A stabilized explicit finite difference scheme, marching backward in time, is
+    developed and applied to nonlinear examples in non-rectangular regions. Stabilization
+    is achieved by applying a compensating smoothing operator at each time step, to
+    quench the instability. Analysis of convergence is restricted to the transparent
+    case of linear, autonomous, self-adjoint spatial differential operators. However,
+    the actual computational scheme can be applied to more general problems. Data
+    assimilation is illustrated using512 × 512-pixel images. Such images are associated
+    with highly irregular non smooth intensity data that severely challenge ill-posed
+    reconstruction procedures. Successful and unsuccessful examples are presented."
+series:
+- title:
+  - content: NIST technical note; NIST tech note; NIST TN
+  number: '2322'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

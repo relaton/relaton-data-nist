@@ -1,0 +1,99 @@
+---
+id: NISTIR8478e2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: CCQM_retrospectoscope reference manual
+  type: title-main
+- language: en
+  script: Latn
+  content: a detailed reference to the CCQM_retrospectoscope, a suite of graphical
+    tools for the meta-analysis of measurement results from CCQM studies
+  type: title-part
+- language: en
+  script: Latn
+  content: CCQM_retrospectoscope reference manual - a detailed reference to the CCQM_retrospectoscope,
+    a suite of graphical tools for the meta-analysis of measurement results from CCQM
+    studies
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8478e2024
+docidentifier:
+- content: NIST IR 8478e2024
+  type: NIST
+  primary: true
+- content: NIST.IR.8478e2024
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cecelski, Christina
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-6782-3106"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nelson, Michael.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-0503-4501"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'This document is a detailed reference manual for the 1-September-2024
+    version of the CCQM_Retrospectoscope system. The CCQM_Retrospectoscope combines
+    a nominally complete database of results from Consultative Committee for the Amount
+    of Substance: Metrology in Chemistry and Biology (CCQM) studies with a number
+    of graphical tools for trying to make sense of the data. CCQM_Retrospectoscope
+    supports a diverse collection of sometimes eye-opening appraisals of participation
+    and measurement performance throughout the history of CCQM activities. The appraisals
+    include the bias, uncertainty, and degrees of equivalence of results submitted
+    by individual national metrology or designated institutes (NMI/DIs); the relative
+    performance of NMI/DIs, and the uncertainty function characteristic of entire
+    Working Groups (WGs). The CCQM_Retrospectoscope is implemented in Excel using
+    Microsoft Visual Basic for Applications (VBA) programs. It runs on both Windows
+    and Macintosh platforms.'
+relation:
+- type: updates
+  bibitem:
+    formattedref:
+      content: NIST IR 8478
+    docidentifier:
+    - content: NIST IR 8478
+      type: NIST
+series:
+- title:
+  - content: NISTIR
+  number: 8478e2024
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 8478e2024
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

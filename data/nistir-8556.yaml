@@ -1,0 +1,77 @@
+---
+id: NISTIR8556
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Using “off-the-shelf” AISI 4340 steel for the production of NIST reference
+    Charpy specimens
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8556
+docidentifier:
+- content: NIST IR 8556
+  type: NIST
+  primary: true
+- content: NIST.IR.8556
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Eckhardt, Allen
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Santoyo, Raymond
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: We investigated the suitability of using readily available (“off-the-shelf”),
+    as opposite to made-to-order, AISI 4340 steel for the production of NIST reference
+    Charpy specimens of low- and high-energy level. This study was preceded by technical
+    discussions inside and outside NIST, which lead to the streamlining and simplification
+    of the technical specifications for the procurement of 4340 steel, as well as
+    9310 steel (used for the production of super-high-energy reference specimens).
+    Charpy tests were performed on the three reference machines in Boulder, on trial
+    lots of 75 specimens, heat treated and machined according to the same procedures
+    used by our current Vendors for reference specimens. Four of the six “off-the-shelf”
+    4340 steel heats were found immediately acceptable according to the NIST criterion
+    (sample size ≤ 5.0). The remaining two heats yielded sample sizes between 5 and
+    6, and after re-tempering and machining the few remaining blanks, the corresponding
+    Charpy tests provided relatively low sample sizes. The outcome of this investigation
+    supports the validity of our revised steel specifications and the acceptability
+    of “off-the-shelf” 4340 steel batches for the Charpy Machine Verification Program.
+series:
+- title:
+  - content: NISTIR
+  number: '8556'
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: '6552'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,122 @@
+---
+id: NISTIR8446
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Bridging the gap between standards on random number generation
+  type: title-main
+- language: en
+  script: Latn
+  content: comparison of SP 800-90 series and AIS 20/31
+  type: title-part
+- language: en
+  script: Latn
+  content: Bridging the gap between standards on random number generation - comparison
+    of SP 800-90 series and AIS 20/31
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8446
+docidentifier:
+- content: NIST IR 8446
+  type: NIST
+  primary: true
+- content: NIST.IR.8446
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kelsey, John.
+    identifier:
+    - type: uri
+      content: "(orcid)0000‐0002‐3427‐1744"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McKay, Kerry.
+    identifier:
+    - type: uri
+      content: "(orcid)0000‐0002‐5956‐ 587X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mittmann, Johannes.
+    identifier:
+    - type: uri
+      content: "(orcid)0000‐0002‐9307‐1494"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Peter, Matthias.
+    identifier:
+    - type: uri
+      content: "(orcid)0000‐0003‐1080‐3432"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Schindler, Werner.
+    identifier:
+    - type: uri
+      content: "(orcid)0000‐0002‐3073‐0106"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sönmez Turan, Meltem.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-1950-7130"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratories.
+abstract:
+- language: en
+  script: Latn
+  content: This report studies the cryptographic random number generation standards
+    and guidelines written by BSI and NIST, namely AIS 20/31 and the SP 800‐90 series.
+    The aim of this report is to compare these publications, focusing on the similarities
+    and differences of their terminology, assumptions, and requirements. This report
+    also aims to improve the communications between all involved parties, promote
+    a shared understanding, and reduce and resolve inconsistencies in related standards.
+series:
+- title:
+  - content: NISTIR
+  number: '8446'
+- title:
+  - content: NISTIR
+  number: '8446'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

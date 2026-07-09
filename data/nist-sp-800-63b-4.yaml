@@ -1,0 +1,124 @@
+---
+id: NISTSP80063B4
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: NIST SP 800-63B-4
+  type: title-main
+- language: en
+  script: Latn
+  content: Digital identity guidelines - authentication and authenticator management
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST SP 800-63B-4 - Digital identity guidelines - authentication and authenticator
+    management
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-63B-4
+docidentifier:
+- content: NIST SP 800-63B-4
+  type: NIST
+  primary: true
+- content: NIST.SP.800-63B-4
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fenton, James L.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-2344-4291"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Choong, Yee-Yin.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3889-6047"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Lefkovitz, Naomi.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-3777-3106"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Regenscheid, Andrew.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3930-527X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Galluzzo, Ryan.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-0304-4239"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Richer, Justin P.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-2130-5180"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: This guideline focuses on the authentication of subjects who interact with
+    government information systems over networks to establish that a given claimant
+    is a subscriber who has been previously authenticated. The result of the authentication
+    process maybe used locally by the system performing the authentication or asserted
+    elsewhere in a federated identity system. This document defines technical requirements
+    for each of the three authentication assurance levels. The guidelines are not
+    intended to constrain the development or use of standards outside of this purpose.
+    This publication supersedes NIST Special Publication (SP) 800-63B
+series:
+- title:
+  - content: NIST special publication
+  number: 800-63B-4
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-63B-4
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

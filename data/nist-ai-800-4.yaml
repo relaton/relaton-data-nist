@@ -1,0 +1,140 @@
+---
+id: NISTAI8004
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Challenges to the monitoring of deployed AI systems
+  type: title-main
+- language: en
+  script: Latn
+  content: Center for AI Standards and Innovation
+  type: title-part
+- language: en
+  script: Latn
+  content: Challenges to the monitoring of deployed AI systems - Center for AI Standards
+    and Innovation
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AI.800-4
+docidentifier:
+- content: NIST AI 800-4
+  type: NIST
+  primary: true
+- content: NIST.AI.800-4
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Keller, Drew.
+    identifier:
+    - type: uri
+      content: "(orcid) 0009-0000-1715-9219"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kalra, Neha.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0004-3826-9248"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Steed, Ryan.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-2345-2670"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kwegyir-Aggrey, Kweku.
+    identifier:
+    - type: uri
+      content: "(orcid) 0000-0002-6971-7355"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Klyman, Kevin.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0003-2130-3529"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Staheli, Diane.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0006-4242-5201"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bergman, Stevie.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4331-135"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: As artificial intelligence (AI) systems are increasingly integrated into
+    commercial and government applications, there is a growing need to monitor these
+    systems in real-world settings. Although pre-deployment evaluations are valuable
+    for assessing AI system capabilities at multiple points prior to release, they
+    are predominantly conducted in controlled testing environments. Post-deployment
+    monitoring is crucial for (1) validating that AI systems operate reliably as expected
+    in real-world scenarios, (2) tracking unforeseen outputs that occur due to, e.g.,
+    model non-determinism or dynamic input conditions, and (3) visibility into unexpected
+    consequences of AI systems in deployment contexts. Stakeholders across the AI
+    ecosystem agree on the need for post-deployment monitoring; however, monitoring
+    best practices, validated methodologies, and common terminology are still nascent
+    and scattered across the field. This report proposes monitoring categories and
+    surfaces challenges to robust post-deployment AI system monitoring, rooted in
+    practitioner workshops and a literature review. The identified gaps, barriers,
+    and open questions highlight opportunities for further investigation and innovation.
+    Notably, this report quotes practitioners’ repeated calls for guidance on post-deployment
+    AI system monitoring methods.
+series:
+- title:
+  - content: NIST trustworthy and responsible AI
+  number: 800-4
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

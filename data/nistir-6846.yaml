@@ -5,7 +5,18 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Fourth annual report on Federal agency use of voluntary consensus standards
+  content: Fourth annual report on federal agency use of voluntary consensus standards
+  type: title-main
+- language: en
+  script: Latn
+  content: implementation of public law 104-113 and OMB circular a-119 for the period
+    October 1, 1999, through September 30, 2000
+  type: title-part
+- language: en
+  script: Latn
+  content: Fourth annual report on federal agency use of voluntary consensus standards
+    - implementation of public law 104-113 and OMB circular a-119 for the period October
+    1, 1999, through September 30, 2000
   type: main
 source:
 - type: doi
@@ -21,20 +32,15 @@ date:
   at: '2002'
 contributor:
 - role:
-  - type: author
-  person:
+  - type: publisher
+  organization:
     name:
-      completename:
-        language: en
-        content: Johnsen, K. J.
+    - content: National Institute of Standards and Technology (U.S.)
 - role:
   - type: publisher
   organization:
     name:
     - content: National Institute of Standards and Technology (U.S.)
-    identifier:
-    - type: uri
-      content: https://id.loc.gov/authorities/names/n88112126
 series:
 - title:
   - content: NISTIR; NIST IR; NIST interagency report; NIST internal report

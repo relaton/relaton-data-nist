@@ -1,0 +1,116 @@
+---
+id: NISTSP800201
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: NIST cloud computing forensic reference architecture
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-201
+docidentifier:
+- content: NIST SP 800-201
+  type: NIST
+  primary: true
+- content: NIST.SP.800-201
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Iorga, Michaela.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-7880-6045"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Salim, Ahsen Michael.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jackson, Robert H.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hurst, Mark R.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Leo, Ross A.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Mishra, Anand Kumar.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Landreville, Nancy M.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wang, Yien.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This document summarizes the research performed by the NIST Cloud Computing
+    Forensic Science Working Group and presents the NIST Cloud Computing Forensic
+    Reference Architecture (CC FRA or FRA), whose goal is to provide support for a
+    cloud system’s forensic readiness. The CC FRA helps users understand the cloud
+    forensic challenges that might exist for an organization’s cloud system. It identifies
+    challenges that require at least partial mitigation strategies and how a forensic
+    investigator would apply those strategies to a particular forensic investigation.
+    The CC FRA presented here is both a methodology and an initial implementation.
+    Users are encouraged to customize this initial implementation for their specific
+    situations and needs.
+series:
+- title:
+  - content: NIST special publication
+  number: 800-201
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: 800-201
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

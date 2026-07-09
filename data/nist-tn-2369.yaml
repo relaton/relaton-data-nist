@@ -1,0 +1,81 @@
+---
+id: NISTTN2369
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Parametrization of LCA models
+  type: title-main
+- language: en
+  script: Latn
+  content: regional benchmark concrete mix designs
+  type: title-part
+- language: en
+  script: Latn
+  content: Parametrization of LCA models - regional benchmark concrete mix designs
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2369
+docidentifier:
+- content: NIST TN 2369
+  type: NIST
+  primary: true
+- content: NIST.TN.2369
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kneifel, Joshua
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3114-5531"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: As part of its efforts in the Federal Life Cycle Assessment Commons (Federal
+    LCA Commons), NIST is expanding its Construction Materials (CONMAT) repository
+    to include 72 regional benchmark mix designs for concrete initially published
+    by the National Ready Mix Concrete Association (NRMCA). These models account for
+    variations in the composition across regions as well as for different electricity
+    and transportation providers as modeled in public datasets. In total, 873 unique
+    concrete models were developed. A Life Cycle Impact Assessment (LCIA) was conducted
+    on these models to evaluate the importance of the different factors affecting
+    a regionalized mix design. Key among them is the mix design itself, defined by
+    compressive strength and the type of aggregate used, while location specific variables
+    played a much smaller role. The NRMCA region, which defines the quantities of
+    materials used a concrete mix design, is the most important of these geographical
+    variables, followed by electricity and transport. Despite the small effect the
+    latter two have on the total impact of mix designs, its inclusion in the CONMAT
+    repository represents a first step towards region-specific models and can support
+    the development of more accurate product claims. In addition, the resources developed
+    to generate these models are presented. They can assist in automating bulk or
+    parametric LCA models for concrete and could be adapted for developing LCA models
+    for other materials, products, or services
+series:
+- title:
+  - content: NIST technical note
+  number: '2369'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

@@ -1,0 +1,142 @@
+---
+id: NISTSP1327
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: NIST neutron source pre-conceptual design
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1327
+docidentifier:
+- content: NIST SP 1327
+  type: NIST
+  primary: true
+- content: NIST.SP.1327
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Weiss, Abdullah G.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1134-1735"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Celikten, Osman S.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4499-8699"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cook, Jeremy C.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-6348-1812"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sahin, Dagistan.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-5256-1809"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: King, Hubert E.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-9536-3802"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gurgen, Anil.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-2304-8061"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Shen, Joy S.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0004-8046-8945"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: NIST Center for Neutron Research.
+abstract:
+- language: en
+  script: Latn
+  content: A pre-conceptual design has been completed for a NIST Neutron Source (NNS).
+    It would replace the existing facility at the NIST Center for Neutron Research
+    (NCNR) to enable significantly more thermal and cold neutrons to be used in many
+    more experiments than possible currently. The scientific community through several
+    organizations has made recommendations to improve access to neutrons and Congress
+    has requested that a strategic plan for the future of the NCNR be written. This
+    report is in support of that plan. At the heart of the NNS is a 20 MW compact
+    reactor core cooled and moderated by light water. The fuel assemblies use uranium-molybdenum
+    plates and reactivity is controlled with hafnium blades. The core is surrounded
+    by a reflector tank containing heavy water and cold neutron sources (CNSs) which
+    use liquid deuterium. Cold neutron guides extend out from the reflector tank to
+    experimental stations as do thermal neutron beams. The reactor has a 40-day fuel
+    cycle and is cooled with three out of the four pumps that are part of the design.
+    The design has acceptable reactivity feedback from increases in temperature or
+    voiding and is within thermal limits for both normal operation and transients
+    or accidents where the instrumentation and control system protects the reactor.
+    The cold neutrons (wavelengths greater than 4 Å) that this design will deliver
+    have an integral neutron brightness 3.5 times that at the present NCNR facility.
+    For the two CNSs at least 15 kW of cooling would be necessary. Neutron currents
+    at instruments will depend on future guide tube design. However, calculations
+    of neutron currents entering guides from one CNS show that there will be a factor
+    of 10 increase relative to the current NCNR cold source. The number of cold neutron
+    guides from each CNS will increase to 16 whereas the single large CNS at the NCNR
+    currently has 12. A proposed set of instruments for both cold and thermal neutron
+    beams is presented as part of the design.
+series:
+- title:
+  - content: NIST special publication
+  number: '1327'
+- title:
+  - content: NIST special publication; NIST special pub; NIST SP
+  number: '1327'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

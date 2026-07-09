@@ -1,0 +1,111 @@
+---
+id: NISTIR8259Bspa
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Base de referencia de las capacidades de apoyo no técnicas del IoT
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8259B.spa
+docidentifier:
+- content: NIST IR 8259B-s pa
+  type: NIST
+  primary: true
+- content: NIST.IR.8259B.spa
+  type: DOI
+date:
+- type: issued
+  at: '2024'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Marron, Jeffrey.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7871-683X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Brady, Kevin.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cuthill, Barbara.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-2588-6165"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Megas, Katerina.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-2815-5448"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Herold, Rebecca.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Non-technical supporting capabilities are actions a manufacturer or third-party
+    organization performs in support of the cybersecurity of an IoT device. This publication
+    defines an Internet of Things (IoT) device manufacturers’ non-technical supporting
+    capability core baseline, which is a set of non-technical supporting capabilities
+    generally needed from manufacturers or other third-parties to support common cybersecurity
+    controls that protect an organization’s devices as well as device data, systems,
+    and ecosystems. The purpose of this publication is to provide organizations a
+    starting point to use in identifying the non-technical supporting capabilities
+    needed in relation to IoT devices they will manufacture, integrate, or acquire.
+    This publication is intended to be used in conjunction with NISTIR 8259, Foundational
+    Cybersecurity Activities for IoT Device Manufacturers and NISTIR 8259A, IoT Device
+    Cybersecurity Capability Core Baseline.
+relation:
+- type: editionOf
+  bibitem:
+    formattedref:
+      content: NIST IR 8259B
+    docidentifier:
+    - content: NIST IR 8259B
+      type: NIST
+series:
+- title:
+  - content: NISTIR
+  number: 8259B.spa
+- title:
+  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
+  number: 8259B.spa
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nilst

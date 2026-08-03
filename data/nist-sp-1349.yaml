@@ -1,0 +1,85 @@
+---
+id: NISTSP1349
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Economic decision guide software (EDGe$) case study
+  type: title-main
+- language: en
+  script: Latn
+  content: droughts in riverside county, california
+  type: title-part
+- language: en
+  script: Latn
+  content: Economic decision guide software (EDGe$) case study - droughts in riverside
+    county, california
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1349
+docidentifier:
+- content: NIST SP 1349
+  type: NIST
+  primary: true
+- content: NIST.SP.1349
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Helgeson, Jennifer.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3692-7874"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sha, Anabel.
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'This study uses the Economic Decision Guide Software (EDGe$) Online Tool
+    to evaluate a use case involving three potential drought resilience strategies
+    in Riverside County, California: 1. urban landscape conversion, 2. stormwater
+    capture and reuse, and 3. purple pipe water recycling. The analysis relies on
+    publicly available data to compare the costs, benefits (no disaster and disaster-related),
+    and externalities of each investment over a 20-year period. Results show that
+    urban landscape conversion provides the highest overall return. These findings
+    highlight the value of accounting for non-disaster benefits and externalities
+    in economic evaluations of resilience projects with a use case addressing slow
+    and persistent stressors based on weather extremes (e.g., drought conditions).
+    The study shows how tools like Edge$ can support informed decision-making by helping
+    communities compare costs and benefits when planning for drought resilience'
+series:
+- title:
+  - content: NIST special publication
+  number: '1349'
+- title:
+  - content: NIST special publication
+  number: '1349'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist

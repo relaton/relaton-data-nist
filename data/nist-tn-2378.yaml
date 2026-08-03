@@ -1,0 +1,84 @@
+---
+id: NISTTN2378
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Data gap filling in NIST’s building systems repository with USEEIO bridging
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2378
+docidentifier:
+- content: NIST TN 2378
+  type: NIST
+  primary: true
+- content: NIST.TN.2378
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rodriguez-Garcia, Gonzalo.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-8084-8236"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kneifel, Joshua.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3114-5531"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Given the increasing prevalence of using Environmental Product Declarations
+    (EPDs) for product comparisons and selection, both domestically and globally,
+    there is a need to ensure the results reported in EPDs are useful for such comparisons
+    (i.e., transparent and standardized to ensure quality decision making). One challenge
+    that was identified more than a decade ago was the lack of common data sources,
+    which could undermine the comparability of EPDs and similar claims. Federal agencies
+    have targeted this issue through the development of public secondary datasets
+    and gap assessments of currently available public life cycle inventory (LCI) datasets.
+    This study follows the framework for the identification and quantification of
+    public data gaps developed and applied to construction materials in NIST TN 2338
+    and expanded in and applied to a building system component in NIST TN 2350 and
+    NIST TN 2355. This last technical note addressed the final application of one
+    semiconductor, a residential photovoltaic system. In this study, those data gaps
+    identified in TN 2350 and TN 2355 that contributed to more than 1 % to an impact
+    category are filled using the United States Extended Environmental Input Output
+    (USEEIO) repository. The scope of this study is to (1) systematize data gap prioritization,
+    (2) fill those data gaps using bridges to the USEEIO repository, and (3) evaluate
+    the effect of filling those gaps has on select impact categories. The study concludes
+    with a series of recommendations to use USEEIO as means of filling data gaps in
+    other repositories.
+series:
+- title:
+  - content: NIST technical note
+  number: '2378'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist

@@ -1,0 +1,62 @@
+---
+id: NISTTN2358
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Melting points, binary eutectic points, and heats of melting for the metal
+    halides
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2358
+docidentifier:
+- content: NIST TN 2358
+  type: NIST
+  primary: true
+- content: NIST.TN.2358
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Burgess, Donald
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3428-6540"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: In this work, we provide recommended normal melting points, binary eutectic
+    melting points, and heats of fusion for the metal halides. Recommended melting
+    points are provided for about 320 compounds. Recommended temperatures are provided
+    for about 750 individual binary eutectic transitions for about 540 binary pairs.
+    A eutectic point is a temperature where a liquid phase is in equilibrium with
+    two solid phases (Liquid A + B). Eutectics are minimums in the equilibrium phase
+    diagrams – melting at lower temperatures than the individual components.
+series:
+- title:
+  - content: NIST technical note
+  number: '2358'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist

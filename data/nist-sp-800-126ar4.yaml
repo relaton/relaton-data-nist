@@ -1,0 +1,92 @@
+---
+id: NISTSP800126Ar4
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: SCAP 1.4 component specification version updates
+  type: title-main
+- language: en
+  script: Latn
+  content: an annex to NIST SP 800-126r4
+  type: title-part
+- language: en
+  script: Latn
+  content: SCAP 1.4 component specification version updates - an annex to NIST SP
+    800-126r4
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-126Ar4
+docidentifier:
+- content: NIST SP 800-126Ar4
+  type: NIST
+  primary: true
+- content: NIST.SP.800-126Ar4
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Prisaca, Dragos
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0007-7361-8433"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Quinn, Stephen
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1436-684X"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The Security Content Automation Protocol (SCAP) is a multi-purpose framework
+    of component specifications that support automated configuration, vulnerability,
+    patch checking, security measurement, and technical control compliance activities.
+    The SCAP version 1.4 specification is defined by the combination of NIST SP 800-126r4,
+    a set of schemas, and this document. This document allows the use of specific
+    minor version updates to SCAP 1.4 component specifications and particular Open
+    Vulnerability and Assessment Language (OVAL) schema versions to provide additional
+    functionality for SCAP 1.4 without causing any loss of existing functionality.
+relation:
+- type: updates
+  bibitem:
+    formattedref:
+      content: NIST 800-126A; 10 6028/NIST 800-126Ar2; 10 6028/NIST 800-126Ar3
+    docidentifier:
+    - content: NIST 800-126A; 10 6028/NIST 800-126Ar2; 10 6028/NIST 800-126Ar3
+      type: NIST
+series:
+- title:
+  - content: NIST special publication
+  number: 800-126Ar4
+- title:
+  - content: NIST special publication
+  number: 800-126Ar4
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist

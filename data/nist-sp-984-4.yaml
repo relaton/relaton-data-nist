@@ -5,20 +5,28 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Papers from 1991-2006 Halon Options Technical Working Conferences (HOTWC)
+  content: Suppression effectiveness of aerosols
+  type: title-main
+- language: en
+  script: Latn
+  content: the effect of size and flame type
+  type: title-part
+- language: en
+  script: Latn
+  content: Suppression effectiveness of aerosols - the effect of size and flame type
   type: main
 source:
 - type: doi
-  content: https://doi.org/10.6028/NIST.SP.984-4
+  content: https://doi.org/10.6028/NIST.SP.984.4
 docidentifier:
 - content: NIST SP 984-4
   type: NIST
   primary: true
-- content: NIST.SP.984-4
+- content: NIST.SP.984.4
   type: DOI
 date:
 - type: issued
-  at: '2006'
+  at: '2002'
 contributor:
 - role:
   - type: author
@@ -26,41 +34,33 @@ contributor:
     name:
       completename:
         language: en
-        content: Gann, R. G.
+        content: Fleming, James W.
 - role:
   - type: author
   person:
     name:
       completename:
         language: en
-        content: Burgess, S. R.
+        content: Williams, Bradley A.
 - role:
   - type: author
   person:
     name:
       completename:
         language: en
-        content: Whisner, K. B.
-- role:
-  - type: author
-  person:
-    name:
-      completename:
-        language: en
-        content: Reneke, P. A.
+        content: Sheinson, Ronald S. (Ronald Swiren)
 - role:
   - type: publisher
   organization:
     name:
     - content: National Institute of Standards and Technology (U.S.)
-    - content: Engineering Laboratory.
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
 series:
 - title:
-  - content: NIST special publication
-  number: 984-4
-- title:
   - content: NIST special publication; NIST special pub; NIST SP
-  number: 984-4
+  number: '984.4'
 place:
 - city: Gaithersburg
   region:

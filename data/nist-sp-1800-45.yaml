@@ -1,0 +1,126 @@
+---
+id: NISTSP180045
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Cybersecurity for the water and wastewater sector
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1800-45
+docidentifier:
+- content: NIST SP 1800-45
+  type: NIST
+  primary: true
+- content: NIST.SP.1800-45
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tang, CheeYee
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0000-2847-1443"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Marron, Jeffrey
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7871-683X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fenimore, Philip
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Saravia, Stephanie
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0006-5907-4380"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stea, Bob
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0000-0514-7085"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: White, Chalessa
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wiltberger, John
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-6412-8105"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The Water and Wastewater Systems (WWS) sector plays an important role in
+    our national critical infrastructure in supplying clean water to our communities
+    and removing harmful materials from wastewater. The WWS sector is undergoing a
+    digital transformation, increasing its dependence on connectivity to systems that,
+    for instance, monitor pumping stations, evaluate water quality, or analyze data
+    to support more efficient operations and improve service. This increased reliance
+    on an internet-connected ecosystem, however, increases the opportunity for malicious
+    actors to introduce vulnerabilities into a water or wastewater utility’s systems
+    and networks. It is important that the water utilities are equipped with resources
+    to help them address and mitigate their cybersecurity risks. The NCCoE project,
+    “Cybersecurity for the Water and Wastewater Sector” is intended to demonstrate
+    practical solutions for the water and wastewater utilities of all sizes to mitigate
+    cybersecurity risks. This publication describes the build architecture and provides
+    three reference designs that demonstrate secure remote access solutions using
+    commercially available technologies.
+series:
+- title:
+  - content: NIST special publication
+  number: 1800-45
+- title:
+  - content: NIST special publication
+  number: 1800-45
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist

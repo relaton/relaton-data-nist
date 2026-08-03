@@ -1,0 +1,120 @@
+---
+id: NISTGCR12
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: 'Hurricane Ian workshop #2'
+  type: title-main
+- language: en
+  script: Latn
+  content: report
+  type: title-part
+- language: en
+  script: Latn
+  content: 'Hurricane Ian workshop #2 - report'
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.GCR.1-2
+docidentifier:
+- content: NIST GCR 1-2
+  type: NIST
+  primary: true
+- content: NIST.GCR.1-2
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cox, Daniel
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8270-361X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Roueche, David
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4329-6759"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Amini, Mehrshad
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0001-1548-2407"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Anton, Aaron
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1884-2479"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Meselhe, Amina
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1854-0737"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+abstract:
+- language: en
+  script: Latn
+  content: 'This report summarizes the second Hurricane Ian workshop, held on March
+    17 and 18, 2025, in Fort Myers, Florida. This second Ian workshop focused on the
+    state of research for coastal surge and wave hazards and impacts on the built
+    environment. Participants highlighted lessons learned and technologies developed
+    or leveraged for reconnaissance efforts. Novel experimental campaigns and numerical
+    model simulations were also presented, sharing integrated approaches to capture
+    primary and cascading hazards and preliminary work applying these to interactions
+    with the built environment. A common thread was found using Fort Myers Beach as
+    a test bed to communicate the urgency and importance for collaborative approaches,
+    to share data and information among agencies, researchers, practitioners, and
+    to develop better understanding of model capabilities for prediction storm impacts
+    from coastal surge and waves. The report concludes with strategies to be considered
+    and potential avenues for future research including: the exploration and continued
+    development of new technologies (e.g., sensors), methods for capturing data (e.g.,
+    surveys), continued testing either in a laboratory (e.g., scaled hurricane surge
+    experiment), or in-situ opportunities (e.g., Rodanthe testbed).'
+series:
+- title:
+  - content: NIST GCR
+  number: 1-2
+- title:
+  - content: NIST GCR
+  number: 1-2
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist

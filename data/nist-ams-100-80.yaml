@@ -1,0 +1,66 @@
+---
+id: NISTAMS10080
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: A framework for economic decision making in advancing manufacturing industry
+    competitiveness
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-80
+docidentifier:
+- content: NIST AMS 100-80
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-80
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Thomas, Douglas
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8600-4795"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This report proposes an organization-wide system of continuous improvement
+    to increase impact in advancing U.S. manufacturing competitiveness. To maximize
+    the impact of each dollar invested in research and development (R&D), change agents
+    (i.e., those who invest in advancing manufacturing competitiveness such as governments
+    or trade organizations) will likely need to transition from intuition-based selection
+    to rigorous measurement science. By treating each R&D project as an experiment
+    with a clear hypothesis and measurable outcome, organizations can create a feedback
+    loop that systematically improves future investment accuracy.
+series:
+- title:
+  - content: NIST advanced manufacturing series
+  number: 100-80
+- title:
+  - content: NIST advanced manufacturing series
+  number: 100-80
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist

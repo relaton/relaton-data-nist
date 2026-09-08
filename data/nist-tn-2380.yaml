@@ -1,0 +1,116 @@
+---
+id: NISTTN2380
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Thermo-hydrogen refinement and precipitation hardening of laser powder
+    bed fusion Ti-6Al-4V
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2380
+docidentifier:
+- content: NIST TN 2380
+  type: NIST
+  primary: true
+- content: NIST.TN.2380
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Derimow, Nicholas.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-7526-1836"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Butler, Brady.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7677-9685"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Levin, Zachary.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-0704-5538"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Benzing, Jake.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7266-870X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cline, Joshua.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0007-6140-0234"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hrabe, Nikolas.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-7585-0980"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This work investigates the efficacy of solution treatment and over-aging
+    (STOA) as a postprocessing step to improve the mechanical properties of laser
+    powder bed fusion (PBFL) Ti-6Al-4V that has been subjected to a thermo-hydrogen
+    refinement of microstructure (THRM) treatment. THRM was used to promote ductility
+    and globalization of the PBF-LTi-6Al-4V microstructure, whereas STOA was leveraged
+    to increase the strength through precipitation hardening from coherent Ti3Al particles
+    within the α phase, known as the α2phase. An increase in hardness across the α
+    phase was measured via nanoindentation, and a small increase in strength was measured
+    as a result of over-aging via quasi-static tensile testing, with no loss of ductility.
+    Both of these occurrences are consistent with previous studies of Ti3Al precipitation
+    leading to increased strength without loss of ductility.
+series:
+- title:
+  - content: NIST technical note
+  number: '2380'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist

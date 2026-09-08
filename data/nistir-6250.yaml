@@ -5,7 +5,16 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Metallurgy, 1998 programs and accomplishments
+  content: Materials Science and Engineering Laboratory, Metallurgy Division
+  type: title-main
+- language: en
+  script: Latn
+  content: 1998 programs and accomplishments
+  type: title-part
+- language: en
+  script: Latn
+  content: Materials Science and Engineering Laboratory, Metallurgy Division - 1998
+    programs and accomplishments
   type: main
 source:
 - type: doi
@@ -18,30 +27,13 @@ docidentifier:
   type: DOI
 date:
 - type: issued
-  at: '1999'
+  at: '1998'
 contributor:
-- role:
-  - type: author
-  person:
-    name:
-      completename:
-        language: en
-        content: Handwerker, Carol A.
-- role:
-  - type: author
-  person:
-    name:
-      completename:
-        language: en
-        content: Schaefer, R. J. (Robert J.)
 - role:
   - type: publisher
   organization:
     name:
     - content: National Institute of Standards and Technology (U.S.)
-    identifier:
-    - type: uri
-      content: https://id.loc.gov/authorities/names/n88112126
 series:
 - title:
   - content: NISTIR; NIST IR; NIST interagency report; NIST internal report

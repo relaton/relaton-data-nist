@@ -1,0 +1,88 @@
+---
+id: NISTIR8620
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Digital twins workshops summary report
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8620
+docidentifier:
+- content: NIST IR 8620
+  type: NIST
+  primary: true
+- content: NIST.IR.8620
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Frechette, Simon
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0008-4454-9659"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Shao, Guodong.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-8856-3622"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Pease, Michael.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-6489-2621"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This report summarizes the outcomes of a three-part NIST workshop series
+    on digital twins for manufacturing. The workshops convened experts from industry,
+    academia, and government to establish a shared understanding of digital twin fundamentals,
+    identify barriers and opportunities, and prioritize future directions for research
+    and standards development. Discussions emphasized the transformative potential
+    of digital twins to improve design, production, and lifecycle management, while
+    also highlighting persistent challenges in interoperability; verification, validation,
+    and uncertainty quantification (VVUQ); cybersecurity; and workforce readiness.
+    The report synthesizes these findings into research priorities and standards needs
+    that will guide coordinated efforts to advance trustworthy and scalable digital
+    twins in U.S. manufacturing.
+series:
+- title:
+  - content: NISTIR
+  number: '8620'
+- title:
+  - content: NISTIR
+  number: '8620'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist

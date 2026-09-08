@@ -1,0 +1,85 @@
+---
+id: NISTAMS10081
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Literature review of fabricated artifacts for X-ray computed tomography
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-81
+docidentifier:
+- content: NIST AMS 100-81
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-81
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Wu, John A.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-7708-3551"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kim, Felix H.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-1042-9500"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'This report provides a comprehensive literature review of fabricated artifacts,
+    commonly referred to as phantoms, used for the performance evaluation of X-ray
+    computed tomography (XCT) systems. As XCT is increasingly adopted for high-precision
+    metrology in the industrial sectors, including semiconductor manufacturing, establishing
+    confidence in measurement results through well-characterized references is essential.
+    This review categorizes available artifacts into two primary groups: those developed
+    for spatial resolution assessment—such as line-pair gratings and Siemens stars—and
+    those designed for defect detection studies. We reviewed the designs of commercial
+    phantoms alongside recent research-driven developments at the National Institute
+    of Standards and Technology (NIST). Special emphasis is placed on advanced microfabrication
+    techniques, including focused ion beam (FIB) milling, laser micromachining, and
+    deep reactive ion etching (DRIE), which enables the creation of controlled internal
+    flaws with sub-micrometer precision. The report identifies critical challenges
+    in the field, such as the complexities of non-destructive characterization, and
+    the need for artifacts that better represent complex 3D geometries and multi-material
+    composition. We conclude with recommendations for future phantom development,
+    highlighting the necessity of standardized metrology to ensure reproducibility
+    and compatibility across diverse XCT platforms.'
+series:
+- title:
+  - content: NIST advanced manufacturing series
+  number: 100-81
+- title:
+  - content: NIST advanced manufacturing series
+  number: 100-81
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist

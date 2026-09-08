@@ -1,0 +1,99 @@
+---
+id: NISTIR8607
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: 'Workshop summary report for “Cyber AI Profile” hybrid workshop #2'
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8607
+docidentifier:
+- content: NIST IR 8607
+  type: NIST
+  primary: true
+- content: NIST.IR.8607
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Megas, Katerina N.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-2815-5448"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Cuthill, Barbara.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-2588-6165"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Sames, Christina.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0003-1817-8333"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Snyder, Julie.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0004-6352-2831"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This report summarizes the discussion at the second “Cyber AI Profile Workshop,”
+    in January20506 during which focused on the Preliminary Draft of the NIST Cybersecurity
+    Framework Profile for Artificial Intelligence (Cyber AI Profile). The workshop
+    gathered input across government, industry, and academia to provide guidance for
+    managing cybersecurity risks associated with AI systems and for leveraging AI
+    to enhance cybersecurity capabilities to inform the next draft of the NIST Cyber
+    AI Profile. NIST also provided an update on its work to develop the Special Publication
+    (SP) 800-53 Control Overlays for Securing AI Systems (COSAiS). The report highlights
+    key themes raised during the discussions, including governance challenges, stability
+    of the Profile over time, AI attack surfaces, the need for consistent AI taxonomy,
+    ideas for specific risk-based guidance and resources to support usability (e.g.,
+    use cases), and AI enabled cyber defense opportunities.
+series:
+- title:
+  - content: NISTIR
+  number: '8607'
+- title:
+  - content: NISTIR
+  number: '8607'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist

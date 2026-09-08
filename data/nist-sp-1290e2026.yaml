@@ -1,0 +1,120 @@
+---
+id: NISTSP1290e2026
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: NIST metric recipes
+  type: title-main
+- language: en
+  script: Latn
+  content: measure. mix. learn
+  type: title-part
+- language: en
+  script: Latn
+  content: NIST metric recipes - measure. mix. learn
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.1290e2026
+docidentifier:
+- content: NIST SP 1290e2026
+  type: NIST
+  primary: true
+- content: NIST.SP.1290e2026
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Benham, Elizabeth
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-2751-7881"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Dill, Kristen
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0008-7551-7676"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Nguyen, Tanna
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-1666-2880"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tehrani, Angie
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-6648-3592"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Bekele, Lloyd
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-0857-2957"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Transform your K-12 classroom or home kitchen into a hands-on culinary
+    laboratory by swapping volume cups for a digital scale. Explore this metric recipe
+    series, hands-on activities, printable worksheets, and videos to build and reinforce
+    interdisciplinary math, science, engineering, art, and mathematics (STEAM) skills.
+    Apply the metric system in daily life to build confidence, develop proportional
+    reasoning, and practice measurement techniques. Companion resources are available
+    on the NIST Metric Kitchen website.
+relation:
+- type: updatedBy
+  bibitem:
+    formattedref:
+      content: NIST SP 1290e2023
+    docidentifier:
+    - content: NIST SP 1290e2023
+      type: NIST
+series:
+- title:
+  - content: NIST special publication
+  number: 1290e2026
+- title:
+  - content: NIST special publication
+  number: 1290e2026
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist

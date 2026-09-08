@@ -1,0 +1,100 @@
+---
+id: NISTAMS10082
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Reference model for lithium-based traction battery recovery
+  type: title-main
+- language: en
+  script: Latn
+  content: NIST TLB-R model
+  type: title-part
+- language: en
+  script: Latn
+  content: Reference model for lithium-based traction battery recovery - NIST TLB-R
+    model
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-82
+docidentifier:
+- content: NIST AMS 100-82
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-82
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Triebe, Matthew J.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-5964-1078"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Morris, KC
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-5206-5525"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Weaver, Jamie L.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-6762-0568"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Traction batteries, or electric-drive battery pack systems, rely on critical
+    materials and minerals that are vulnerable to supply chain disruptions, making
+    recovery and recycling crucial to reducing reliance on raw, mined resources and
+    bolstering domestic inventories of critical minerals. In response, stakeholders
+    from across the EVB supply chain are collaborating to drive changes to existing
+    material flow systems. The Engineering Laboratory (EL) and Material Measurement
+    Laboratory (MML) at the National Institute of Standards and Technology (NIST)
+    have developed a baseline, open-source EVB recovery material flow reference model
+    to facilitate communication and clarity around the technical processes and information
+    needs for battery recovery. This model has the potential to support the development
+    of a nascent and emerging industry, enabling more efficient and sustainable EVB
+    recovery and material recovery practices. By providing a common reference point,
+    the model can help stakeholders to identify new opportunities, inform decision-making,
+    and drive innovation in the field.
+series:
+- title:
+  - content: NIST advanced manufacturing series
+  number: 100-82
+- title:
+  - content: NIST advanced manufacturing series
+  number: 100-82
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist

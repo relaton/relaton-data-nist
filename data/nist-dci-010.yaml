@@ -1,0 +1,121 @@
+---
+id: NISTDCI010
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Data collection instrument
+  type: title-main
+- language: en
+  script: Latn
+  content: evaluating methodological differences in discrete choice experiments
+  type: title-part
+- language: en
+  script: Latn
+  content: Data collection instrument - evaluating methodological differences in discrete
+    choice experiments
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.DCI.010
+docidentifier:
+- content: NIST DCI 010
+  type: NIST
+  primary: true
+- content: NIST.DCI.010
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Iogansen, Xiatian.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4851-1323"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Crowther, Ireland.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gore, Christina.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3586-6918"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kneifel, Joshua.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3114-5531"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Helveston, John.
+    identifier:
+    - type: uri
+      content: "(orcid) 0000-0002-2657-9191"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'This Data Collection Instrument (DCI) establishes a guideline and survey
+    framework for quantifying consumer preferences and willingness-to-pay (WTP) for
+    commodities that containing recycled plastic. The instrument combines behavioral
+    experience metrics, attitudinal scales, and a Discrete Choice Experiment (DCE).
+    The DCE employs a multi-dimensional split-sample design that varies across three
+    critical axes: (1) product context, contrasting low-cost discretionary items (phone
+    cases) with high-cost functional goods (sneakers); (2) valuation methodology,
+    comparing baseline attribute-based valuations against information treatment valuations;
+    and (3) the information framing, which provides respondents with external data
+    showing either a significant decrease or increase in the energy required for production.
+    By isolating the causal effect of sustainability disclosures through a within-subject
+    "information shock" mechanism, this research estimates how stated preferences
+    and WTP for attributes associated with recycled plastic products shift after information
+    is provided. Beyond the expected empirical findings, this DCI provides a reproducible
+    methodological blueprint for researchers and practitioners, enhancing the reliability
+    of stated preference studies for emerging circular economy technologies. Additionally,
+    this DC contains a series of questions aimed at validating that the data is from
+    human subjects rather than synthetic data.'
+series:
+- title:
+  - content: NIST data collection instruments and best practices
+  number: '010'
+- title:
+  - content: NIST data collection instruments and best practices
+  number: '010'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist

@@ -1,0 +1,101 @@
+---
+id: NISTIR8601
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Investigation into NCNR Valve DWV 284
+  type: title-main
+- language: en
+  script: Latn
+  content: subtitle
+  type: title-part
+- language: en
+  script: Latn
+  content: Investigation into NCNR Valve DWV 284 - subtitle
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8601
+docidentifier:
+- content: NIST IR 8601
+  type: NIST
+  primary: true
+- content: NIST.IR.8601
+  type: DOI
+date:
+- type: issued
+  at: '2025'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Creuziger, Adam
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-9772-2066"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stoudt, Mark
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-8316-6193"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Young, Sandra
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0008-5502-8963"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ahure Powell, Louise
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4629-517X"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory
+abstract:
+- language: en
+  script: Latn
+  content: A valve at the NIST Center for Neutron Research (NCNR) failed during maintenance.
+    The authors were asked to support or rule out possible causes of failure, identify
+    alloy type, and measure material hardness. The investigation determined the alloy
+    was likely a A413.0 or 413.0 aluminum cast alloy. The likely cause of failure
+    was mechanical overload. No evidence of fatigue, corrosion, or stress-corrosion
+    failure were observed. The microstructure of the cross section showed numerous
+    voids distributed throughout the cross section. There were Si and Al-Fe-Si intermetallics
+    observed that make an interconnected brittle network across the sample. Both of
+    these factors likely contributed to a small elongation at failure.
+series:
+- title:
+  - content: NISTIR
+  number: '8601'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist

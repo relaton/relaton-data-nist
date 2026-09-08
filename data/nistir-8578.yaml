@@ -1,0 +1,83 @@
+---
+id: NISTIR8578
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: 'Workshop summary report for “Cyber AI Profile” hybrid workshop #1'
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.IR.8578
+docidentifier:
+- content: NIST IR 8578
+  type: NIST
+  primary: true
+- content: NIST.IR.8578
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Megas, Katerina N.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-2815-5448"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Snyder, Julie Nethery.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0004-6352-2831"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Patrick, Bronwyn.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0001-7885-4773"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This report summarizes the discussion at the April 2025 “Cyber AI Profile
+    Workshop” in which NIST sought feedback toward the development of a NIST Cybersecurity
+    Framework Community Profile for AI. The Cyber AI Profile will provide guidelines
+    for managing cybersecurity risk related to AI systems and security capabilities.
+    Discussions at the workshop explored questions and comments received based on
+    the Cybersecurity and AI Workshop Concept Paper.
+series:
+- title:
+  - content: NISTIR
+  number: '8578'
+- title:
+  - content: NISTIR
+  number: '8578'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist

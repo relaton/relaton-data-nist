@@ -1,0 +1,118 @@
+---
+id: NISTSP260269
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Certification report for SRM 2810a,2811a, and 2812a
+  type: title-main
+- language: en
+  script: Latn
+  content: rockwell C scale hardness – low, medium, and high ranges
+  type: title-part
+- language: en
+  script: Latn
+  content: Certification report for SRM 2810a,2811a, and 2812a - rockwell C scale
+    hardness – low, medium, and high ranges
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.260-269
+docidentifier:
+- content: NIST SP 260-269
+  type: NIST
+  primary: true
+- content: NIST.SP.260-269
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Ahure Powell, Louise.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4629-517X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Beauchamp, Carlos.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-4109-2824"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Machado, Renato.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8696-282X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Possolo, Antonio.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8691-4190"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'The procedures used by the National Institute of Standards and Technology
+    (NIST) to establish certified Rockwell C hardness (HRC) values for three Standard
+    Reference Materials (SRMs): SRM2810a (low range, nominal 25 HRC), SRM 2811a (medium
+    range, nominal 45 HRC), and SRM 2812a (high range, nominal 63 HRC), are documented.
+    These materials serve as the primary transfer standards of NIST’s realization
+    of the Rockwell C Hardness Scale. These standards are used for the calibration
+    and verification of Rockwell C hardness testing machines, and they provide a direct
+    link in the traceability chain through the International System of Units or SI-traceable
+    force and depth measurements. Certified values were obtained using the NIST Primary
+    Hardness Standard Machine (PHSM) under conditions consistent with ASTM E18-25
+    (2025), ISO 6508-1 to -3 (2023), and the Consultative Committee for Mass and Related
+    Quantities (CCM) Working Group on Hardness (WGH) definition of the Rockwell C
+    hardness scale. The certification process included the direct verification of
+    the test forces using calibrated force measuring instruments (load cells) and
+    the calibration of the depth measuring system using laser interferometry with
+    gauge block stacks, both traceable to the SI. It also incorporated a statistical
+    evaluation of hardness measurements across multiple blocks spanning the low, medium,
+    and high hardness ranges. Comparisons with historical NIST certifications and
+    international key comparison results confirmed continuity of traceability. The
+    resulting certified values and expanded uncertainties provide industry and the
+    hardness metrology community with reliable reference standards that ensure accuracy
+    and global comparability of Rockwell C scale hardness measurements.'
+series:
+- title:
+  - content: NIST special publication
+  number: 260-269
+- title:
+  - content: NIST special publication
+  number: 260-269
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist

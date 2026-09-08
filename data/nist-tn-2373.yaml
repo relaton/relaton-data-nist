@@ -1,0 +1,117 @@
+---
+id: NISTTN2373
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Thermophysical property of 2,3,3,4,4,4-hexafluoro-1-butene [R-1336yf]
+  type: title-main
+- language: en
+  script: Latn
+  content: measurements and an equation of state
+  type: title-part
+- language: en
+  script: Latn
+  content: Thermophysical property of 2,3,3,4,4,4-hexafluoro-1-butene [R-1336yf] -
+    measurements and an equation of state
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2373
+docidentifier:
+- content: NIST TN 2373
+  type: NIST
+  primary: true
+- content: NIST.TN.2373
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Fortin, Tara J.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-6150-8930"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Huber, Marcia.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-7976-741X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Outcalt, Stephanie.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-8143-7316"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Rowane, Aaron.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-7605-0774"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kazakov, Andrei.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0008-6964-3086"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: "We report thermodynamic property measurements for the refrigerant R-1336yf
+    (2,3,3,4,4,4-hexafluoro-1-butene), which is being considered as a replacement
+    for existing refrigerants. Density (\U0001D70C) data were measured in the compressed
+    liquid phase at temperatures from 270 K to410 K and pressures from 0.5 MPa to
+    30 MPa. Vapor pressure (\U0001D45D!\"#) data were measured from265 K to 360 K.
+    Speed of sound (\U0001D464) data were measured in the liquid phase from 230 K
+    to 373 Kand pressures up to 10 MPa. Relative combined, expanded (95% confidence
+    level) uncertainties ranged from 0.04 % to 0.18 % for density, from 0.31 % to
+    0.59 % for vapor pressure, and from0.27 % to 0.97 % for speed of sound. These
+    reported uncertainties are larger than our typical pure fluid results due to the
+    presence of significant sample impurities. These data have been used to develop
+    a new equation of state explicit in the Helmholtz energy. The equation of state
+    represents the experimental data with an average absolute relative deviation (AARD)
+    of 0.16 %for density, 1.15 % for vapor pressure, and 0.27 % for speed of sound."
+series:
+- title:
+  - content: NIST technical note
+  number: '2373'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist

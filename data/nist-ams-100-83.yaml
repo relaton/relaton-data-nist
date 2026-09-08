@@ -1,0 +1,95 @@
+---
+id: NISTAMS10083
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: The manufacturing cost guide
+  type: title-main
+- language: en
+  script: Latn
+  content: version 2.0 primer
+  type: title-part
+- language: en
+  script: Latn
+  content: The manufacturing cost guide - version 2.0 primer
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AMS.100-83
+docidentifier:
+- content: NIST AMS 100-83
+  type: NIST
+  primary: true
+- content: NIST.AMS.100-83
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Thomas, Douglas.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8600-4795"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Webb, David.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-5638-7230"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'This primer provides an overview for using the Manufacturing Cost Guide
+    2.0: (https://www.nist.gov/services-resources/software/manufacturing-cost-guide)
+    by explaining how to use the tool and providing documentation on how the estimates
+    are calculated. This tool executes economic input-output analysis to examine industry
+    supply chains. It provides estimates of value added and measures of various externalities
+    throughout a selected industry’s supply chain and answers questions about how
+    industries supply each other and where in the supply chain externalities occur.
+    The estimates are made at the industry level using the North American Industry
+    Classification System (NAICS). The tool facilitates examining upstream supply
+    chains and to a limited extent downstream supply chains. Although this is based
+    on a static model, it allows flexibility in examining different industries and
+    magnitudes of an industry (e.g., total industry output vs. a portion thereof).
+    Results are provided for multiple years; thus, a user could compare supply chains
+    between years. Results can also be calculated at varying levels of granularity.
+    For instance, a user might be interested in the supply chain for all of manufacturing
+    or they might be interested in a subsector of manufacturing such as automobile
+    parts. The tool facilitates both levels of granularity. The results of the tool
+    can aid governments, planners, and practitioners in rapidly and cost-effectively
+    understanding potential outcomes of policy decisions, infrastructure projects,
+    efficiency improvements, and supply chain disruptions.'
+series:
+- title:
+  - content: NIST advanced manufacturing series
+  number: 100-83
+- title:
+  - content: NIST advanced manufacturing series
+  number: 100-83
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist

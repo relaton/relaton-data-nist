@@ -1,0 +1,121 @@
+---
+id: NISTTN2379
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Determination of per- and polyfluoroalkyl substances and other halogenated
+    compounds using combustion ion chromatography
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2379
+docidentifier:
+- content: NIST TN 2379
+  type: NIST
+  primary: true
+- content: NIST.TN.2379
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Solomon, Halen D.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8664-9577"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Maizel, Andrew.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-2981-5241"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tombaugh, Audrey.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0008-4656-2742"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Stinger, Brittany.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0000-7231-8307"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Thompson, Andre.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-5717-6902"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Davis, Rick.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-2264-0490"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: This NIST Technical Note describes the use of combustion ion chromatography
+    to measure halogen content (fluorine, chlorine, and bromine) in a variety of solid
+    and liquid matrices, with a particular focus on materials containing per- and
+    polyfluoroalkyl substances (PFAS). The research examines the major contributors
+    to measurement uncertainty, including sample combustion mass, calibration curve
+    development, background contamination, matrix effects, and instrument response.
+    Method performance was improved through instrument calibration, blank subtraction
+    and approaches to account for matrix-dependent behavior. The use of a partial
+    loop injection system was also evaluated as an approach to extend the effective
+    measurement range, including its impact on uncertainties. The effects of cations,
+    variabilities in fluoride sensitivity, and incomplete PFAS combustion were studied
+    using NIST SRM 2143, 3181, 3182, 3183, 3184, 3186, NIST RM 8446, and additional
+    3rd-party reference standards. Concurrent determination of sulfur was also determined.
+    This Technical Note provides new combustion efficiency and fluorine recovery values
+    for selected NIST SRMs and RMs, along with several fluorotelomer alcohol and fluorotelomer
+    acrylate compounds.
+series:
+- title:
+  - content: NIST technical note
+  number: '2379'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist

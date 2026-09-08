@@ -5,7 +5,15 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: The NIST RS274NGS interpreter - version 3
+  content: The NIST RS274NGC interpreter
+  type: title-main
+- language: en
+  script: Latn
+  content: version 3
+  type: title-part
+- language: en
+  script: Latn
+  content: The NIST RS274NGC interpreter - version 3
   type: main
 source:
 - type: doi
@@ -40,7 +48,7 @@ contributor:
     name:
       completename:
         language: en
-        content: Messna, Elena.
+        content: Messina, Elena.
 - role:
   - type: publisher
   organization:

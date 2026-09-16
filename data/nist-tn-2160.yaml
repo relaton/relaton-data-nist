@@ -1,4 +1,3 @@
----
 id: NISTTN2160
 schema_version: v1.5.6
 type: standard
@@ -51,19 +50,7 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: Similarity and dissimilarity metrics are a fundamental component of many
-    tasks requiring the analysis and comparison of complex, often visual data. Applications
-    from deep learning to forensics require ways to effectively identify images, find
-    clusters or outliers in data sets, or retrieve data items similar to a query item.
-    However, finding an effective metric for a specific task is challenging due to
-    the complexity of modern datasets and the myriad possible similarity metrics arising
-    from that complexity. We present VEMOS, a Python package that provides an accessible
-    graphical user interface (GUI) for the evaluation of comparison metrics. VEMOS
-    provides user-friendly ways to examine individual data items or groups in a data
-    set alongside analyses of metrics' performance on the whole data set, such as
-    clustering, multi-dimensional scaling, and retrieval performance analyses. VEMOS
-    aims to help researchers and practitioners evaluate multiple comparison metrics
-    on rich, diverse data sets.
+  content: Similarity and dissimilarity metrics are a fundamental component of many tasks requiring the analysis and comparison of complex, often visual data. Applications from deep learning to forensics require ways to effectively identify images, find clusters or outliers in data sets, or retrieve data items similar to a query item. However, finding an effective metric for a specific task is challenging due to the complexity of modern datasets and the myriad possible similarity metrics arising from that complexity. We present VEMOS, a Python package that provides an accessible graphical user interface (GUI) for the evaluation of comparison metrics. VEMOS provides user-friendly ways to examine individual data items or groups in a data set alongside analyses of metrics' performance on the whole data set, such as clustering, multi-dimensional scaling, and retrieval performance analyses. VEMOS aims to help researchers and practitioners evaluate multiple comparison metrics on rich, diverse data sets.
 series:
 - title:
   - content: NIST technical note; NIST tech note; NIST TN

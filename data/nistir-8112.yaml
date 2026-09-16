@@ -1,4 +1,3 @@
----
 id: NISTIR8112
 schema_version: v1.5.6
 type: standard
@@ -67,24 +66,14 @@ contributor:
   - type: publisher
   organization:
     name:
-    - content: Information Technology Laboratory (National Institute of Standards
-        and Technology)
+    - content: Information Technology Laboratory (National Institute of Standards and Technology)
     identifier:
     - type: uri
       content: https://id.loc.gov/authorities/names/no97056762
 abstract:
 - language: en
   script: Latn
-  content: This NIST Internal Report contains a metadata schema for attributes that
-    may be asserted about an individual during an online transaction. The schema can
-    be used by relying parties to enrich access control policies, as well as during
-    run-time evaluation of an individual's ability to access protected resources.
-    Attribute metadata could also create the possibility for data sharing permissions
-    and limitations on individual data elements. There are other possible applications
-    of attribute metadata, such as evaluation and execution of business logic in decision
-    support systems or associated with devices or non-person entities; however, the
-    metadata contained herein is focused on supporting an organization's risk-informed
-    authorization policies and evaluation for individuals.
+  content: This NIST Internal Report contains a metadata schema for attributes that may be asserted about an individual during an online transaction. The schema can be used by relying parties to enrich access control policies, as well as during run-time evaluation of an individual's ability to access protected resources. Attribute metadata could also create the possibility for data sharing permissions and limitations on individual data elements. There are other possible applications of attribute metadata, such as evaluation and execution of business logic in decision support systems or associated with devices or non-person entities; however, the metadata contained herein is focused on supporting an organization's risk-informed authorization policies and evaluation for individuals.
 series:
 - title:
   - content: NISTIR; NIST IR; NIST interagency report; NIST internal report

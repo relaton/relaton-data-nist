@@ -1,12 +1,10 @@
----
 id: NBSRPT6032
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Predicting the performance of long distance tropospheric communication
-    circuits
+  content: Predicting the performance of long distance tropospheric communication circuits
   type: main
 source:
 - type: doi
@@ -62,29 +60,7 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: Comparison of calculated and measured values of transmission loss for tropospheric
-    propagation paths shows that there is an appreciable amount of uncertainty in
-    the prediction process. Departures of observed from predicted values may be regarded
-    as normally distributed when expressed in decibels, and this paper considers methods
-    of estimating these standard deviations. In order to predict the performance of
-    a communication system over a given path, it is necessary to define the grade
-    of service, the time availability of this grade of service and the reliability
-    of the predictions. The short-term (within-the-hour) signal fading is conveniently
-    included in the definition of the grade of service, in terms of a required hourly
-    median r.m.s.-carrier to r.m.s.-noise ratio. Next, the time availability of a
-    given grade of service is specified in terms of the percentage of hours in a year
-    that this minimum carrier-to-noise ratio is exceeded. To determine the time availability
-    it is necessary to obtain the distributions with time of hourly medians for the
-    path with given geometrical and meteorological characteristics. In this paper
-    the three concepts, grade of service, time availability, and reliability of prediction
-    are brought together in a single graphical representation. The graph has two probability
-    scales; the ordinate shows the percentage of hours service is available (time
-    availability), and the abscissa shows the service probability (reliability of
-    the prediction), where each curve corresponds to a system with given operating
-    characteristics such as transmitter power, antenna size, etc. Each curve could
-    therefore be labeled by a figure representing installation and operating costs,
-    and various systems may thus be compared on the basis of cost versus probability
-    of successful operation.
+  content: Comparison of calculated and measured values of transmission loss for tropospheric propagation paths shows that there is an appreciable amount of uncertainty in the prediction process. Departures of observed from predicted values may be regarded as normally distributed when expressed in decibels, and this paper considers methods of estimating these standard deviations. In order to predict the performance of a communication system over a given path, it is necessary to define the grade of service, the time availability of this grade of service and the reliability of the predictions. The short-term (within-the-hour) signal fading is conveniently included in the definition of the grade of service, in terms of a required hourly median r.m.s.-carrier to r.m.s.-noise ratio. Next, the time availability of a given grade of service is specified in terms of the percentage of hours in a year that this minimum carrier-to-noise ratio is exceeded. To determine the time availability it is necessary to obtain the distributions with time of hourly medians for the path with given geometrical and meteorological characteristics. In this paper the three concepts, grade of service, time availability, and reliability of prediction are brought together in a single graphical representation. The graph has two probability scales; the ordinate shows the percentage of hours service is available (time availability), and the abscissa shows the service probability (reliability of the prediction), where each curve corresponds to a system with given operating characteristics such as transmitter power, antenna size, etc. Each curve could therefore be labeled by a figure representing installation and operating costs, and various systems may thus be compared on the basis of cost versus probability of successful operation.
 series:
 - title:
   - content: NBS report

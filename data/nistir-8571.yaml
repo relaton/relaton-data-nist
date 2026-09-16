@@ -1,4 +1,3 @@
----
 id: NISTIR8571
 schema_version: v1.5.6
 type: standard
@@ -49,25 +48,7 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: Many engineers use analysis tools to predict behavior or find optimal values
-    for properties of systems built to proposed designs, informing system design work
-    by identifying cases where a design will perform incorrectly or in suboptimal
-    ways. Design and analysis tools encode descriptions of systems in a variety of
-    ways that are typically inconsistent, significantly slowing engineering processes
-    due to the additional effort resolving these problems. Systems engineering addresses
-    this by establishing a single source for system descriptions, typically expressed
-    in the Systems Modeling Language (SysML®). Systems engineering models intentionally
-    do not cover all aspects of other engineering disciplines, but must integrate
-    with their tools to prevent adding to inconsistency in engineering information.
-    Coordinating systems information across engineering analysis this way requires
-    automated translation between systems models and discipline-specific analysis
-    tools, based on adding information in systems models needed for analysis. This
-    report takes this approach for logistics analysis, which predicts and optimizes
-    movement of separate things between activities that potentially modify them, in
-    particular, multi-commodity flow optimization, queuing analysis, and discrete
-    event simulation. It presents a SysML extension for modeling systems to be analyzed,
-    along with translation patterns to widely-used logistics analysis tools, examples
-    of modeling logistics systems, as well as translation and analysis of these models.
+  content: Many engineers use analysis tools to predict behavior or find optimal values for properties of systems built to proposed designs, informing system design work by identifying cases where a design will perform incorrectly or in suboptimal ways. Design and analysis tools encode descriptions of systems in a variety of ways that are typically inconsistent, significantly slowing engineering processes due to the additional effort resolving these problems. Systems engineering addresses this by establishing a single source for system descriptions, typically expressed in the Systems Modeling Language (SysML®). Systems engineering models intentionally do not cover all aspects of other engineering disciplines, but must integrate with their tools to prevent adding to inconsistency in engineering information. Coordinating systems information across engineering analysis this way requires automated translation between systems models and discipline-specific analysis tools, based on adding information in systems models needed for analysis. This report takes this approach for logistics analysis, which predicts and optimizes movement of separate things between activities that potentially modify them, in particular, multi-commodity flow optimization, queuing analysis, and discrete event simulation. It presents a SysML extension for modeling systems to be analyzed, along with translation patterns to widely-used logistics analysis tools, examples of modeling logistics systems, as well as translation and analysis of these models.
 series:
 - title:
   - content: NISTIR

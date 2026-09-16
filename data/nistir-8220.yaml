@@ -1,12 +1,10 @@
----
 id: NISTIR8220
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Performance evaluation of LTE device-to-device out-of-coverage communication
-    with frequency hopping resource scheduling
+  content: Performance evaluation of LTE device-to-device out-of-coverage communication with frequency hopping resource scheduling
   type: main
 source:
 - type: doi
@@ -40,15 +38,7 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: This document presents a performance evaluation of Long Term Evolution
-    (LTE) Deviceto-device (D2D) communication when enabling frequency hopping resource
-    scheduling. Moreover, as secondary objective, this document serves as a compendium
-    for frequency hopping related procedures over D2D communications as defined by
-    The 3rd Generation Partnership Project (3GPP) for the LTE standard. D2D communication
-    is modeled and simulated using discrete event network simulator (ns-3). Simulated
-    scenarios are designed to capture communication conditions occurring outside network
-    infrastructure coverage, alike those experienced by authorized network users,
-    such as public safety first responders, during network outages.
+  content: This document presents a performance evaluation of Long Term Evolution (LTE) Deviceto-device (D2D) communication when enabling frequency hopping resource scheduling. Moreover, as secondary objective, this document serves as a compendium for frequency hopping related procedures over D2D communications as defined by The 3rd Generation Partnership Project (3GPP) for the LTE standard. D2D communication is modeled and simulated using discrete event network simulator (ns-3). Simulated scenarios are designed to capture communication conditions occurring outside network infrastructure coverage, alike those experienced by authorized network users, such as public safety first responders, during network outages.
 series:
 - title:
   - content: NISTIR; NIST IR; NIST interagency report; NIST internal report

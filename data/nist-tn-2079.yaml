@@ -1,12 +1,10 @@
----
 id: NISTTN2079
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Theoretical basis of the direct-comparison system for power calibration
-    including equivalent source mismatch
+  content: Theoretical basis of the direct-comparison system for power calibration including equivalent source mismatch
   type: main
 source:
 - type: doi
@@ -78,26 +76,7 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: In this report, we provide derivations for two equations that serve as
-    the basis for the direct-comparison system, a transfer technique for comparing
-    microwave power sensors. The system consists of a synthesizer that provides a
-    signal to the input of a power divider. A monitor power sensor is connected to
-    one of the divider's output ports. During the first portion of the measurement,
-    a transfer standard is connected to the other output port of the divider, and
-    the powers of the transfer standard and monitor are measured. Next, the transfer
-    standard is replaced with an unknown power sensor to be calibrated, and the powers
-    of the unknown device and monitor are measured. Utilizing rules governing flow-diagrams
-    for scattering-parameters and definitions of delivered power, we derive the effective
-    efficiency of an unknown power sensor as a function of the transfer standard's
-    effective efficiency in conjunction with power readings of both sensors and a
-    monitor sensor, as well as reflection coefficients of the sensors and the equivalent
-    source reflection coefficient of the power divider. Our derivation provides the
-    definition of the equivalent source reflection coefficient. We also derive a correction
-    term for the case when an adapter is connected to the transfer standard. Finally,
-    we review the most widely-accepted approach for determining the equivalent source
-    reflection coefficient of a three-port device, such as a power divider, and provide
-    simplistic and comprehensive derivations that demonstrate its independence of
-    external impedance mismatches at two of its ports.
+  content: In this report, we provide derivations for two equations that serve as the basis for the direct-comparison system, a transfer technique for comparing microwave power sensors. The system consists of a synthesizer that provides a signal to the input of a power divider. A monitor power sensor is connected to one of the divider's output ports. During the first portion of the measurement, a transfer standard is connected to the other output port of the divider, and the powers of the transfer standard and monitor are measured. Next, the transfer standard is replaced with an unknown power sensor to be calibrated, and the powers of the unknown device and monitor are measured. Utilizing rules governing flow-diagrams for scattering-parameters and definitions of delivered power, we derive the effective efficiency of an unknown power sensor as a function of the transfer standard's effective efficiency in conjunction with power readings of both sensors and a monitor sensor, as well as reflection coefficients of the sensors and the equivalent source reflection coefficient of the power divider. Our derivation provides the definition of the equivalent source reflection coefficient. We also derive a correction term for the case when an adapter is connected to the transfer standard. Finally, we review the most widely-accepted approach for determining the equivalent source reflection coefficient of a three-port device, such as a power divider, and provide simplistic and comprehensive derivations that demonstrate its independence of external impedance mismatches at two of its ports.
 series:
 - title:
   - content: NIST technical note; NIST tech note; NIST TN

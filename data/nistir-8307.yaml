@@ -1,4 +1,3 @@
----
 id: NISTIR8307
 schema_version: v1.5.6
 type: standard
@@ -74,28 +73,14 @@ contributor:
   - type: publisher
   organization:
     name:
-    - content: Information Technology Laboratory (National Institute of Standards
-        and Technology)
+    - content: Information Technology Laboratory (National Institute of Standards and Technology)
     identifier:
     - type: uri
       content: https://id.loc.gov/authorities/names/no97056762
 abstract:
 - language: en
   script: Latn
-  content: This report describes computational comparison measurements as well as
-    match error analysis applied to fingerprint images collected by researchers of
-    the National Institute of Standards and Technology (NIST) in May of 2019. Fingerprint
-    images from 200 Federal Employees were collected using both contact and contactless
-    acquisition devices, including both stationary devices and mobile smartphone devices.
-    Match scores from two different matchers were used to calculate False Negative
-    Identification Rate (FNIR) and False Positive Identification Rate (FPIR) at two
-    operational thresholds appropriate to each of the matchers. These values are displayed
-    in graphical form across eight devices for each of ten finger combinations. Overall
-    error performance is compared via Area Under Curve across devices for each of
-    ten finger combinations as well as across finger combinations separately for each
-    of the eight devices. Contact-to-contact interoperability remains superior to
-    contactless-to-contact, but multiple finger combinations improve match performance
-    of contactless devices.
+  content: This report describes computational comparison measurements as well as match error analysis applied to fingerprint images collected by researchers of the National Institute of Standards and Technology (NIST) in May of 2019. Fingerprint images from 200 Federal Employees were collected using both contact and contactless acquisition devices, including both stationary devices and mobile smartphone devices. Match scores from two different matchers were used to calculate False Negative Identification Rate (FNIR) and False Positive Identification Rate (FPIR) at two operational thresholds appropriate to each of the matchers. These values are displayed in graphical form across eight devices for each of ten finger combinations. Overall error performance is compared via Area Under Curve across devices for each of ten finger combinations as well as across finger combinations separately for each of the eight devices. Contact-to-contact interoperability remains superior to contactless-to-contact, but multiple finger combinations improve match performance of contactless devices.
 series:
 - title:
   - content: NISTIR; NIST IR; NIST interagency report; NIST internal report

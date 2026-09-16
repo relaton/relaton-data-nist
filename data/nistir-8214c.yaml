@@ -1,4 +1,3 @@
----
 id: NISTIR8214C
 schema_version: v1.5.6
 type: standard
@@ -49,26 +48,7 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: 'This is the NIST Threshold Call, calling for public submissions of multi-party
-    threshold schemes, and other related crypto-systems, to support the United States’
-    National Institute of Standards and Technology (NIST) in gathering a public body
-    of reference materials unadvanced cryptography. In a threshold scheme, a reference
-    cryptographic primitive (e.g., signing, encryption, decryption, key generation)
-    is computed in a distributed manner, while its private/secret key is or becomes
-    secret-shared across various parties. The threshold schemes submitted in reply
-    to this call will be interchangeable with a reference no threshold primitive of
-    interest, in the sense that their outputs can be used interchangeably in a subsequent
-    operation. The primitives of interest are organized into various categories, across
-    two classes: Class N, for selected NIST-specified primitives; and Class S, for
-    special primitives that are not specified by NIST but are threshold friendly or
-    have useful functional features. The scope of Class S also includes fully homomorphic
-    encryption, zero-knowledge proofs, and auxiliary gadgets. This document specifies
-    submission phases, and the requirements for submitting a package, including a
-    technical specification, a reference implementation, and a report on experimental
-    evaluation. A subsequent phase of public analysis will support the elaboration
-    of a characterization report, which may help assess new interests beyond the cryptographic
-    techniques currently standardized by NIST, and may include recommendations for
-    future processes.'
+  content: 'This is the NIST Threshold Call, calling for public submissions of multi-party threshold schemes, and other related crypto-systems, to support the United States’ National Institute of Standards and Technology (NIST) in gathering a public body of reference materials unadvanced cryptography. In a threshold scheme, a reference cryptographic primitive (e.g., signing, encryption, decryption, key generation) is computed in a distributed manner, while its private/secret key is or becomes secret-shared across various parties. The threshold schemes submitted in reply to this call will be interchangeable with a reference no threshold primitive of interest, in the sense that their outputs can be used interchangeably in a subsequent operation. The primitives of interest are organized into various categories, across two classes: Class N, for selected NIST-specified primitives; and Class S, for special primitives that are not specified by NIST but are threshold friendly or have useful functional features. The scope of Class S also includes fully homomorphic encryption, zero-knowledge proofs, and auxiliary gadgets. This document specifies submission phases, and the requirements for submitting a package, including a technical specification, a reference implementation, and a report on experimental evaluation. A subsequent phase of public analysis will support the elaboration of a characterization report, which may help assess new interests beyond the cryptographic techniques currently standardized by NIST, and may include recommendations for future processes.'
 series:
 - title:
   - content: NISTIR

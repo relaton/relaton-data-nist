@@ -1,4 +1,3 @@
----
 id: NISTSP15009
 schema_version: v1.5.6
 type: standard
@@ -13,8 +12,7 @@ title:
   type: title-part
 - language: en
   script: Latn
-  content: NIST Big Data Interoperability Framework - volume 8, reference architecture
-    interfaces
+  content: NIST Big Data Interoperability Framework - volume 8, reference architecture interfaces
   type: main
 source:
 - type: doi
@@ -38,8 +36,7 @@ contributor:
   - type: publisher
   organization:
     name:
-    - content: Information Technology Laboratory (National Institute of Standards
-        and Technology)
+    - content: Information Technology Laboratory (National Institute of Standards and Technology)
 - role:
   - type: publisher
   organization:
@@ -48,21 +45,7 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: 'This document summarizes interfaces that are instrumental for the interaction
-    with Clouds, Containers, and High Performance Computing (HPC) systems to manage
-    virtual clusters to support the NIST Big Data Reference Architecture (NBDRA).
-    The REpresentational State Transfer (REST) paradigm is used to define these interfaces,
-    allowing easy integration and adoption by a wide variety of frameworks. Big Data
-    is a term used to describe extensive datasets, primarily in the characteristics
-    of volume, variety, velocity, and/or variability. While opportunities exist with
-    Big Data, the data characteristics can overwhelm traditional technical approaches,
-    and the growth of data is outpacing scientific and technological advances in data
-    analytics. To advance progress in Big Data, the NIST Big Data Public Working Group
-    (NBD-PWG) is working to develop consensus on important fundamental concepts related
-    to Big Data. The results are reported in the NIST Big Data Interoperability Framework
-    (NBDIF) series of volumes. This volume, Volume 8, uses the work performed by the
-    NBD-PWG to identify objects instrumental for the NIST Big Data Reference Architecture
-    (NBDRA) which is introduced in the NBDIF: Volume 6, Reference Architecture.'
+  content: 'This document summarizes interfaces that are instrumental for the interaction with Clouds, Containers, and High Performance Computing (HPC) systems to manage virtual clusters to support the NIST Big Data Reference Architecture (NBDRA). The REpresentational State Transfer (REST) paradigm is used to define these interfaces, allowing easy integration and adoption by a wide variety of frameworks. Big Data is a term used to describe extensive datasets, primarily in the characteristics of volume, variety, velocity, and/or variability. While opportunities exist with Big Data, the data characteristics can overwhelm traditional technical approaches, and the growth of data is outpacing scientific and technological advances in data analytics. To advance progress in Big Data, the NIST Big Data Public Working Group (NBD-PWG) is working to develop consensus on important fundamental concepts related to Big Data. The results are reported in the NIST Big Data Interoperability Framework (NBDIF) series of volumes. This volume, Volume 8, uses the work performed by the NBD-PWG to identify objects instrumental for the NIST Big Data Reference Architecture (NBDRA) which is introduced in the NBDIF: Volume 6, Reference Architecture.'
 series:
 - title:
   - content: NIST special publication; NIST special pub; NIST SP

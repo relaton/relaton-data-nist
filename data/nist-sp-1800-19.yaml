@@ -1,4 +1,3 @@
----
 id: NISTSP180019
 schema_version: v1.5.6
 type: standard
@@ -9,13 +8,11 @@ title:
   type: title-main
 - language: en
   script: Latn
-  content: security practice guide for VMware hybrid cloud infrastructure as a service
-    (IaaS) environments
+  content: security practice guide for VMware hybrid cloud infrastructure as a service (IaaS) environments
   type: title-part
 - language: en
   script: Latn
-  content: Trusted cloud - security practice guide for VMware hybrid cloud infrastructure
-    as a service (IaaS) environments
+  content: Trusted cloud - security practice guide for VMware hybrid cloud infrastructure as a service (IaaS) environments
   type: main
 source:
 - type: doi
@@ -189,20 +186,7 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: A cloud workload is an abstraction of the actual instance of a functional
-    application that is virtualized or containerized to include compute, storage,
-    and network resources. Organizations need to be able to monitor, track, apply,
-    and enforce their security and privacy policies on their cloud workloads, based
-    on business requirements, in a consistent, repeatable, and automated way. The
-    goal of this project is to develop a trusted cloud solution that will demonstrate
-    how trusted compute pools leveraging hardware roots of trust can provide the necessary
-    security capabilities. These capabilities not only provide assurance that cloud
-    workloads are running on trusted hardware and in a trusted geolocation or logical
-    boundary, but also improve the protections for the data in the workloads and in
-    the data flows between workloads. The example solution leverages modern commercial
-    off-the-shelf technology and cloud services to address lifting and shifting a
-    typical multi-tier application between an organization-controlled private cloud
-    and a hybrid/public cloud over the internet.
+  content: A cloud workload is an abstraction of the actual instance of a functional application that is virtualized or containerized to include compute, storage, and network resources. Organizations need to be able to monitor, track, apply, and enforce their security and privacy policies on their cloud workloads, based on business requirements, in a consistent, repeatable, and automated way. The goal of this project is to develop a trusted cloud solution that will demonstrate how trusted compute pools leveraging hardware roots of trust can provide the necessary security capabilities. These capabilities not only provide assurance that cloud workloads are running on trusted hardware and in a trusted geolocation or logical boundary, but also improve the protections for the data in the workloads and in the data flows between workloads. The example solution leverages modern commercial off-the-shelf technology and cloud services to address lifting and shifting a typical multi-tier application between an organization-controlled private cloud and a hybrid/public cloud over the internet.
 series:
 - title:
   - content: NIST special publication; NIST special pub; NIST SP

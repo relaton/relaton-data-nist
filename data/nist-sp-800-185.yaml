@@ -1,4 +1,3 @@
----
 id: NISTSP800185
 schema_version: v1.5.6
 type: standard
@@ -45,23 +44,14 @@ contributor:
   - type: publisher
   organization:
     name:
-    - content: Information Technology Laboratory (National Institute of Standards
-        and Technology)
+    - content: Information Technology Laboratory (National Institute of Standards and Technology)
     identifier:
     - type: uri
       content: https://id.loc.gov/authorities/names/no97056762
 abstract:
 - language: en
   script: Latn
-  content: 'This Recommendation specifies four types of SHA-3-derived functions: cSHAKE,
-    KMAC, TupleHash, and ParallelHash, each defined for a 128- and 256-bit security
-    strength. cSHAKE is a customizable variant of the SHAKE function, as defined in
-    Federal Information Processing Standard (FIPS) 202. KMAC (for KECCAK Message Authentication
-    Code) is a variable-length message authentication code algorithm based on KECCAK;
-    it can also be used as a pseudorandom function. TupleHash is a variable-length
-    hash function designed to hash tuples of input strings without trivial collisions.
-    ParallelHash is a variable-length hash function that can hash very long messages
-    in parallel.'
+  content: 'This Recommendation specifies four types of SHA-3-derived functions: cSHAKE, KMAC, TupleHash, and ParallelHash, each defined for a 128- and 256-bit security strength. cSHAKE is a customizable variant of the SHAKE function, as defined in Federal Information Processing Standard (FIPS) 202. KMAC (for KECCAK Message Authentication Code) is a variable-length message authentication code algorithm based on KECCAK; it can also be used as a pseudorandom function. TupleHash is a variable-length hash function designed to hash tuples of input strings without trivial collisions. ParallelHash is a variable-length hash function that can hash very long messages in parallel.'
 series:
 - title:
   - content: NIST special publication; NIST special pub; NIST SP

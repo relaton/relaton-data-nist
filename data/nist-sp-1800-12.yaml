@@ -1,4 +1,3 @@
----
 id: NISTSP180012
 schema_version: v1.5.6
 type: standard
@@ -9,14 +8,11 @@ title:
   type: title-main
 - language: en
   script: Latn
-  content: includes executive summary (A); approach, architecture, and security characteristics
-    (B); and how-to guides (C)
+  content: includes executive summary (A); approach, architecture, and security characteristics (B); and how-to guides (C)
   type: title-part
 - language: en
   script: Latn
-  content: Derived Personal Identity Verification (PIV) credentials - includes executive
-    summary (A); approach, architecture, and security characteristics (B); and how-to
-    guides (C)
+  content: Derived Personal Identity Verification (PIV) credentials - includes executive summary (A); approach, architecture, and security characteristics (B); and how-to guides (C)
   type: main
 source:
 - type: doi
@@ -110,38 +106,14 @@ contributor:
   - type: publisher
   organization:
     name:
-    - content: Information Technology Laboratory (National Institute of Standards
-        and Technology)
+    - content: Information Technology Laboratory (National Institute of Standards and Technology)
     identifier:
     - type: uri
       content: https://id.loc.gov/authorities/names/no97056762
 abstract:
 - language: en
   script: Latn
-  content: Federal Information Processing Standards (FIPS) Publication 201-2, 'Personal
-    Identity Verification (PIV) of Federal Employees and Contractors,' establishes
-    a standard for a PIV system based on secure and reliable forms of identity credentials
-    issued by the federal government to its employees and contractors. These credentials
-    are intended to authenticate individuals to federally controlled facilities, information
-    systems, and applications as part of access management. With the emergence of
-    computing devices, such as tablets, hybrid computers, and, in particular, mobile
-    devices, the use of Personal Identity Verification (PIV) Cards has proved to be
-    challenging. To extend the value of PIV systems into mobile devices that do not
-    have PIV Card readers, NIST developed technical guidelines on the implementation
-    and life cycle of identity credentials that are issued by federal departments
-    and agencies to individuals who possess and prove control over a valid PIV Card.
-    These NIST guidelines, published in 2014, describe Derived PIV Credentials (DPCs)
-    that leverage identity proofing and vetting results of current and valid PIV credentials.
-    To demonstrate the DPC guidelines, the NCCoE at NIST built two security architectures
-    by using commercial technology to enable the issuance of a Derived PIV Credential
-    to mobile devices that use Federal Identity Credentialing and Access Management
-    shared services. One option uses a software-only solution while the other leverages
-    hardware built into many computing devices used today. This project resulted in
-    a freely available NIST Cybersecurity Practice Guide that demonstrates how an
-    organization can continue to provide multifactor authentication for users with
-    a mobile device that leverages the strengths of the PIV standard. Although this
-    project is aimed primarily at the federal sector's needs, it is also relevant
-    to mobile device users with smart- card-based credentials in the private sector.
+  content: Federal Information Processing Standards (FIPS) Publication 201-2, 'Personal Identity Verification (PIV) of Federal Employees and Contractors,' establishes a standard for a PIV system based on secure and reliable forms of identity credentials issued by the federal government to its employees and contractors. These credentials are intended to authenticate individuals to federally controlled facilities, information systems, and applications as part of access management. With the emergence of computing devices, such as tablets, hybrid computers, and, in particular, mobile devices, the use of Personal Identity Verification (PIV) Cards has proved to be challenging. To extend the value of PIV systems into mobile devices that do not have PIV Card readers, NIST developed technical guidelines on the implementation and life cycle of identity credentials that are issued by federal departments and agencies to individuals who possess and prove control over a valid PIV Card. These NIST guidelines, published in 2014, describe Derived PIV Credentials (DPCs) that leverage identity proofing and vetting results of current and valid PIV credentials. To demonstrate the DPC guidelines, the NCCoE at NIST built two security architectures by using commercial technology to enable the issuance of a Derived PIV Credential to mobile devices that use Federal Identity Credentialing and Access Management shared services. One option uses a software-only solution while the other leverages hardware built into many computing devices used today. This project resulted in a freely available NIST Cybersecurity Practice Guide that demonstrates how an organization can continue to provide multifactor authentication for users with a mobile device that leverages the strengths of the PIV standard. Although this project is aimed primarily at the federal sector's needs, it is also relevant to mobile device users with smart- card-based credentials in the private sector.
 series:
 - title:
   - content: NIST special publication; NIST special pub; NIST SP

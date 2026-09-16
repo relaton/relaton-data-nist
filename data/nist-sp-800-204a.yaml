@@ -1,4 +1,3 @@
----
 id: NISTSP800204A
 schema_version: v1.5.6
 type: standard
@@ -41,29 +40,14 @@ contributor:
   - type: publisher
   organization:
     name:
-    - content: Information Technology Laboratory (National Institute of Standards
-        and Technology)
+    - content: Information Technology Laboratory (National Institute of Standards and Technology)
     identifier:
     - type: uri
       content: https://id.loc.gov/authorities/names/no97056762
 abstract:
 - language: en
   script: Latn
-  content: 'The increasing trend in building microservices-based applications calls
-    for addressing security in all aspects of service-to-service interactions due
-    to their unique characteristics. The distributed cross-domain nature of microservices
-    needs secure token service (STS), key management and encryption services for authentication
-    and authorization, and secure communication protocols. The ephemeral nature of
-    clustered containers (by which microservices are implemented) calls for secure
-    service discovery. The availability requirement calls for: (a) resiliency techniques,
-    such as load balancing, circuit breaking, and throttling, and (b) continuous monitoring
-    (for the health of the service). The service mesh is the best-known approach that
-    can facilitate specification of these requirements at a level of abstraction such
-    that it can be uniformly and consistently defined while also being effectively
-    implemented without making changes to individual microservice code. The purpose
-    of this document is to provide deployment guidance for proxy-based Service Mesh
-    components that collectively form a robust security infrastructure for supporting
-    microservices-based applications.'
+  content: 'The increasing trend in building microservices-based applications calls for addressing security in all aspects of service-to-service interactions due to their unique characteristics. The distributed cross-domain nature of microservices needs secure token service (STS), key management and encryption services for authentication and authorization, and secure communication protocols. The ephemeral nature of clustered containers (by which microservices are implemented) calls for secure service discovery. The availability requirement calls for: (a) resiliency techniques, such as load balancing, circuit breaking, and throttling, and (b) continuous monitoring (for the health of the service). The service mesh is the best-known approach that can facilitate specification of these requirements at a level of abstraction such that it can be uniformly and consistently defined while also being effectively implemented without making changes to individual microservice code. The purpose of this document is to provide deployment guidance for proxy-based Service Mesh components that collectively form a robust security infrastructure for supporting microservices-based applications.'
 series:
 - title:
   - content: NIST special publication; NIST special pub; NIST SP

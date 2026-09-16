@@ -1,4 +1,3 @@
----
 id: NISTAMS3006
 schema_version: v1.5.6
 type: standard
@@ -13,8 +12,7 @@ title:
   type: title-part
 - language: en
   script: Latn
-  content: Securing the digital threat for smart manufacturing - a reference model
-    for blockchain-based product data traceability
+  content: Securing the digital threat for smart manufacturing - a reference model for blockchain-based product data traceability
   type: main
 source:
 - type: doi
@@ -68,23 +66,7 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: Manufacturing is moving to a digital paradigm where data is produced and
-    consumed faster than ever. Managing this quantity of data is critical to daily
-    operations and requires access to trustworthy data. Data management is an rapidly-evolving
-    field that is adapting to support new requirements and the exponentially increasing
-    quantity of data. The technologies and strategies to manage data are diverse--from
-    a centralized database and single source of truth, to distributed systems and
-    cloud storage/computing--and each with their own strengths and flaws. While a
-    single-source-of-truth can easily be corrupted or tampered with, distributed systems
-    often face synchronization issues. Organizations that deal with large amounts
-    of data must identify these strengths and flaws accurately to find the best solutions.
-    In this paper, we discuss blockchain, the foundation of the bitcoin electronic
-    currency, as a data management technology. Blockchain is a distributed storage
-    framework that is virtually tamper resistant, has a native synchronization-discrepancy-resistance
-    mechanism and is already highly praised in the financial world. We explore opportunities
-    in the manufacturing area where digital product data is becoming a critical asset
-    and present our initial assessment and early recommendations on how to record
-    product data transactions on a blockchain.
+  content: Manufacturing is moving to a digital paradigm where data is produced and consumed faster than ever. Managing this quantity of data is critical to daily operations and requires access to trustworthy data. Data management is an rapidly-evolving field that is adapting to support new requirements and the exponentially increasing quantity of data. The technologies and strategies to manage data are diverse--from a centralized database and single source of truth, to distributed systems and cloud storage/computing--and each with their own strengths and flaws. While a single-source-of-truth can easily be corrupted or tampered with, distributed systems often face synchronization issues. Organizations that deal with large amounts of data must identify these strengths and flaws accurately to find the best solutions. In this paper, we discuss blockchain, the foundation of the bitcoin electronic currency, as a data management technology. Blockchain is a distributed storage framework that is virtually tamper resistant, has a native synchronization-discrepancy-resistance mechanism and is already highly praised in the financial world. We explore opportunities in the manufacturing area where digital product data is becoming a critical asset and present our initial assessment and early recommendations on how to record product data transactions on a blockchain.
 series:
 - title:
   - content: NIST advanced manufacturing series; NIST AMS

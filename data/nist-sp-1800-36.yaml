@@ -1,12 +1,10 @@
----
 id: NISTSP180036
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Trusted internet of things (IoT) device network-layer onboarding and lifecycle
-    management
+  content: Trusted internet of things (IoT) device network-layer onboarding and lifecycle management
   type: title-main
 - language: en
   script: Latn
@@ -14,8 +12,7 @@ title:
   type: title-part
 - language: en
   script: Latn
-  content: Trusted internet of things (IoT) device network-layer onboarding and lifecycle
-    management - enhancing internet protocol-based IoT device and network security
+  content: Trusted internet of things (IoT) device network-layer onboarding and lifecycle management - enhancing internet protocol-based IoT device and network security
   type: main
 source:
 - type: doi
@@ -138,24 +135,7 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: Establishing trust between a network and an Internet of Things (IoT) device
-    (as defined in NIST Internal Report 8425) prior to providing the device with the
-    credentials it needs to join the network is crucial for mitigating the risk of
-    potential attacks. There are two possibilities for attack. One happens when a
-    device is convinced to join an unauthorized network, which would take control
-    of the device. The other occurs when a malicious device infiltrates a network.
-    Trust is achieved by attesting and verifying the identity and posture of the device
-    and the network before providing the device with its network credentials—a process
-    known as network-layer onboarding. In addition, scalable, automated mechanisms
-    are needed to safely manage IoT devices throughout their lifecycles, such as safeguards
-    that verify the security posture of a device before the device is permitted to
-    execute certain operations. In this practice guide, the National Cybersecurity
-    Center of Excellence (NCCoE) applies standards, best practices, and commercially
-    available technology to demonstrate various mechanisms for trusted network-layer
-    onboarding of IoT devices in Internet Protocol-based environments. This guide
-    shows how to provide network credentials to IoT devices in a trusted manner and
-    maintain a secure device posture throughout the device lifecycle, thereby enhancing
-    IoT security.
+  content: Establishing trust between a network and an Internet of Things (IoT) device (as defined in NIST Internal Report 8425) prior to providing the device with the credentials it needs to join the network is crucial for mitigating the risk of potential attacks. There are two possibilities for attack. One happens when a device is convinced to join an unauthorized network, which would take control of the device. The other occurs when a malicious device infiltrates a network. Trust is achieved by attesting and verifying the identity and posture of the device and the network before providing the device with its network credentials—a process known as network-layer onboarding. In addition, scalable, automated mechanisms are needed to safely manage IoT devices throughout their lifecycles, such as safeguards that verify the security posture of a device before the device is permitted to execute certain operations. In this practice guide, the National Cybersecurity Center of Excellence (NCCoE) applies standards, best practices, and commercially available technology to demonstrate various mechanisms for trusted network-layer onboarding of IoT devices in Internet Protocol-based environments. This guide shows how to provide network credentials to IoT devices in a trusted manner and maintain a secure device posture throughout the device lifecycle, thereby enhancing IoT security.
 series:
 - title:
   - content: NIST special publication

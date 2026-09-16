@@ -1,12 +1,10 @@
----
 id: NISTIR8240
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Status report on the first round of the NIST post-quantum cryptography
-    standardization process
+  content: Status report on the first round of the NIST post-quantum cryptography standardization process
   type: main
 source:
 - type: doi
@@ -118,38 +116,14 @@ contributor:
   - type: publisher
   organization:
     name:
-    - content: Information Technology Laboratory (National Institute of Standards
-        and Technology)
+    - content: Information Technology Laboratory (National Institute of Standards and Technology)
     identifier:
     - type: uri
       content: https://id.loc.gov/authorities/names/no97056762
 abstract:
 - language: en
   script: Latn
-  content: The National Institute of Standards and Technology is in the process of
-    selecting one or more public-key cryptographic algorithms through a public competition-like
-    process. The new public-key cryptography standards will specify one or more additional
-    digital signature, public-key encryption, and key-establishment algorithms to
-    augment FIPS 186-4, Digital Signature Standard (DSS), as well as special publications
-    SP 800-56A Revision 2, Recommendation for Pair-Wise Key Establishment Schemes
-    Using Discrete Logarithm Cryptography, and SP 800-56B, Recommendation for Pair-Wise
-    Key-Establishment Schemes Using Integer Factorization. It is intended that these
-    algorithms will be capable of protecting sensitive information well into the foreseeable
-    future, including after the advent of quantum computers. In November 2017, 82
-    candidate algorithms were submitted to NIST for consideration. Among these, 69
-    met both the minimum acceptance criteria and our submission requirements, and
-    were accepted as First-Round Candidates on Dec. 20, 2017, marking the beginning
-    of the First Round of the NIST Post-Quantum Cryptography Standardization Process.
-    This report describes the evaluation criteria and selection process, based on
-    public feedback and internal review of the first-round candidates, and summarizes
-    the 26 candidate algorithms announced on January 30, 2019 for moving forward to
-    the second round of the competition. The 17 Second-Round Candidate public-key
-    encryption and key-establishment algorithms are BIKE, Classic McEliece, CRYSTALS-KYBER,
-    FrodoKEM, HQC, LAC, LEDAcrypt (merger of LEDAkem/LEDApkc), NewHope, NTRU (merger
-    of NTRUEncrypt/NTRU-HRSS-KEM), NTRU Prime, NTS-KEM, ROLLO (merger of LAKE/LOCKER/Ouroboros-R),
-    Round5 (merger of Hila5/Round2), RQC, SABER, SIKE, and Three Bears. The 9 Second-Round
-    Candidates for digital signatures are CRYSTALS-DILITHIUM, FALCON, GeMSS, LUOV,
-    MQDSS, Picnic, qTESLA, Rainbow, and SPHINCS+.
+  content: The National Institute of Standards and Technology is in the process of selecting one or more public-key cryptographic algorithms through a public competition-like process. The new public-key cryptography standards will specify one or more additional digital signature, public-key encryption, and key-establishment algorithms to augment FIPS 186-4, Digital Signature Standard (DSS), as well as special publications SP 800-56A Revision 2, Recommendation for Pair-Wise Key Establishment Schemes Using Discrete Logarithm Cryptography, and SP 800-56B, Recommendation for Pair-Wise Key-Establishment Schemes Using Integer Factorization. It is intended that these algorithms will be capable of protecting sensitive information well into the foreseeable future, including after the advent of quantum computers. In November 2017, 82 candidate algorithms were submitted to NIST for consideration. Among these, 69 met both the minimum acceptance criteria and our submission requirements, and were accepted as First-Round Candidates on Dec. 20, 2017, marking the beginning of the First Round of the NIST Post-Quantum Cryptography Standardization Process. This report describes the evaluation criteria and selection process, based on public feedback and internal review of the first-round candidates, and summarizes the 26 candidate algorithms announced on January 30, 2019 for moving forward to the second round of the competition. The 17 Second-Round Candidate public-key encryption and key-establishment algorithms are BIKE, Classic McEliece, CRYSTALS-KYBER, FrodoKEM, HQC, LAC, LEDAcrypt (merger of LEDAkem/LEDApkc), NewHope, NTRU (merger of NTRUEncrypt/NTRU-HRSS-KEM), NTRU Prime, NTS-KEM, ROLLO (merger of LAKE/LOCKER/Ouroboros-R), Round5 (merger of Hila5/Round2), RQC, SABER, SIKE, and Three Bears. The 9 Second-Round Candidates for digital signatures are CRYSTALS-DILITHIUM, FALCON, GeMSS, LUOV, MQDSS, Picnic, qTESLA, Rainbow, and SPHINCS+.
 series:
 - title:
   - content: NISTIR; NIST IR; NIST interagency report; NIST internal report

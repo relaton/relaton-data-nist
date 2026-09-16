@@ -1,4 +1,3 @@
----
 id: NISTIR8262
 schema_version: v1.5.6
 type: standard
@@ -60,29 +59,7 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: System models and model-based engineering methods have the promise of transforming
-    the way that industrial engineers interact with production and logistics systems.
-    Model-based methods play a role in improving communication between stakeholders,
-    interoperability between systems, automated access to consistent analysis models,
-    and multi-disciplinary design methods for complex systems. However, there remains
-    a need for a foundation for modeling these kinds of systems ⁰₃ a foundation that
-    tailors methods and tools developed in other engineering domains to the unique
-    concepts and semantics of production and logistics. This foundation is the topic
-    of this report. This report documents a framework and model libraries for modeling
-    discrete event logistics systems (DELS), an abstraction that covers manufacturing
-    plants, material handling and transportation systems, warehouses, supply chains,
-    etc. The DELS abstraction was created by identifying and modeling commonalities
-    across the kinds of systems that industrial engineers typically encounter, and
-    analysis models they use to analyze those system. It extends well-known product,
-    process, and resource (PPR) ontologies to incorporate a library of operational
-    control model components, and is connected to Commodity Flow Network (CFN), modeling
-    networks, flow networks, and process networks. The relationship between DELS and
-    CFN formally links system models to abstractions used to create analysis models,
-    such as discrete event simulation. This report is the first public release of
-    models and documentation capturing many years of refinement and application by
-    the authors. As a first release, the goal is to solicit additional use cases and
-    feedback from the community to improve the models and make them the foundation
-    for the model-based industrial and systems engineering community.
+  content: System models and model-based engineering methods have the promise of transforming the way that industrial engineers interact with production and logistics systems. Model-based methods play a role in improving communication between stakeholders, interoperability between systems, automated access to consistent analysis models, and multi-disciplinary design methods for complex systems. However, there remains a need for a foundation for modeling these kinds of systems ⁰₃ a foundation that tailors methods and tools developed in other engineering domains to the unique concepts and semantics of production and logistics. This foundation is the topic of this report. This report documents a framework and model libraries for modeling discrete event logistics systems (DELS), an abstraction that covers manufacturing plants, material handling and transportation systems, warehouses, supply chains, etc. The DELS abstraction was created by identifying and modeling commonalities across the kinds of systems that industrial engineers typically encounter, and analysis models they use to analyze those system. It extends well-known product, process, and resource (PPR) ontologies to incorporate a library of operational control model components, and is connected to Commodity Flow Network (CFN), modeling networks, flow networks, and process networks. The relationship between DELS and CFN formally links system models to abstractions used to create analysis models, such as discrete event simulation. This report is the first public release of models and documentation capturing many years of refinement and application by the authors. As a first release, the goal is to solicit additional use cases and feedback from the community to improve the models and make them the foundation for the model-based industrial and systems engineering community.
 series:
 - title:
   - content: NISTIR; NIST IR; NIST interagency report; NIST internal report

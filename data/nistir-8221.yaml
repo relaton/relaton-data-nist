@@ -1,12 +1,10 @@
----
 id: NISTIR8221
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Methodology for enabling forensic analysis using hypervisor vulnerabilities
-    data
+  content: Methodology for enabling forensic analysis using hypervisor vulnerabilities data
   type: main
 source:
 - type: doi
@@ -56,29 +54,14 @@ contributor:
   - type: publisher
   organization:
     name:
-    - content: Information Technology Laboratory (National Institute of Standards
-        and Technology)
+    - content: Information Technology Laboratory (National Institute of Standards and Technology)
     identifier:
     - type: uri
       content: https://id.loc.gov/authorities/names/no97056762
 abstract:
 - language: en
   script: Latn
-  content: Hardware/Server Virtualization is a key feature of data centers used for
-    cloud computing services and enterprise computing that enables ubiquitous access
-    to shared system resources. Server virtualization is typically performed by a
-    hypervisor, which provides mechanisms to abstract hardware and system resources
-    from an operating system. Hypervisors are large pieces of software with several
-    thousand lines of code and are therefore known to have vulnerabilities. This document
-    analyzes the recent vulnerabilities associated with two open- source hypervisors
-    - Xen and KVM - as reported by the National Institute of Standards and Technology's
-    (NIST) National Vulnerability Database (NVD), and develops a profile of those
-    vulnerabilities in terms of hypervisor functionality, attack type, and attack
-    source. Based on the predominant number of vulnerabilities in a hypervisor functionality
-    (attack vector), two sample attacks using those attack vectors were launched to
-    exploit those vulnerabilities, and the associated system calls were logged. The
-    objective was to determine the evidence coverage for detecting and reconstructing
-    those attacks and identify techniques required to gather missing evidence.
+  content: Hardware/Server Virtualization is a key feature of data centers used for cloud computing services and enterprise computing that enables ubiquitous access to shared system resources. Server virtualization is typically performed by a hypervisor, which provides mechanisms to abstract hardware and system resources from an operating system. Hypervisors are large pieces of software with several thousand lines of code and are therefore known to have vulnerabilities. This document analyzes the recent vulnerabilities associated with two open- source hypervisors - Xen and KVM - as reported by the National Institute of Standards and Technology's (NIST) National Vulnerability Database (NVD), and develops a profile of those vulnerabilities in terms of hypervisor functionality, attack type, and attack source. Based on the predominant number of vulnerabilities in a hypervisor functionality (attack vector), two sample attacks using those attack vectors were launched to exploit those vulnerabilities, and the associated system calls were logged. The objective was to determine the evidence coverage for detecting and reconstructing those attacks and identify techniques required to gather missing evidence.
 series:
 - title:
   - content: NISTIR; NIST IR; NIST interagency report; NIST internal report

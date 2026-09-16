@@ -1,12 +1,10 @@
----
 id: NISTTN1944
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: OpenFOAM large-eddy simulations of atmospheric boundary layer turbulence
-    for wind engineering applications
+  content: OpenFOAM large-eddy simulations of atmospheric boundary layer turbulence for wind engineering applications
   type: main
 source:
 - type: doi
@@ -53,18 +51,7 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: Statistical properties such as the spectral density and spatial coherence
-    of boundary layer turbulence affect bluff body aerodynamics and structural responses.
-    In this report, the open-source toolbox OpenFOAM is employed to perform LES simulations
-    of boundary layer flows with rough ground and to obtain turbulence statistics.
-    The one-equation-eddy SGS model is used for the subgrid-scale motions while the
-    wall shear model is applied at the ground. The mean velocity profiles follow the
-    logarithmic law except the near-ground region owing to the limited accuracy of
-    the SGS model. The Reynolds stresses, the third-order moments and the energy budgets
-    are reasonably well represented. The power spectra agree with the modified Kaimal
-    expressions at low frequencies. Additional research is planned on the simulation
-    of higher frequency turbulence spectra. The spatial coherence functions are exponential
-    and consistent with the expressions commonly used in wind engineering applications.
+  content: Statistical properties such as the spectral density and spatial coherence of boundary layer turbulence affect bluff body aerodynamics and structural responses. In this report, the open-source toolbox OpenFOAM is employed to perform LES simulations of boundary layer flows with rough ground and to obtain turbulence statistics. The one-equation-eddy SGS model is used for the subgrid-scale motions while the wall shear model is applied at the ground. The mean velocity profiles follow the logarithmic law except the near-ground region owing to the limited accuracy of the SGS model. The Reynolds stresses, the third-order moments and the energy budgets are reasonably well represented. The power spectra agree with the modified Kaimal expressions at low frequencies. Additional research is planned on the simulation of higher frequency turbulence spectra. The spatial coherence functions are exponential and consistent with the expressions commonly used in wind engineering applications.
 series:
 - title:
   - content: NIST technical note; NIST tech note; NIST TN

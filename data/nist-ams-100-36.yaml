@@ -1,4 +1,3 @@
----
 id: NISTAMS10036
 schema_version: v1.5.6
 type: standard
@@ -43,21 +42,7 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: Machine tool models play an important role to support decision-making for
-    machine tool procurement, process planning, and production scheduling in manufacturing.
-    However, it is challenging to have a machine model that is accurately and dynamically
-    representing the real machine due to modeling uncertainties. Modeling uncertainties
-    and errors can be introduced during the model development process (i.e., when
-    a machine model is created from scratch) and the model conversion process (i.e.,
-    when a machine model in one format needs to be converted into another format,
-    e.g., from a vendor-specific format to a neutral format such as STandard Exchange
-    of Product Data (STEP)). This paper identifies these uncertainties and particularly
-    provides a methodology to help ensure correctly converting the coordinate system
-    from one definition to another. Examples are provided to explain the methodology.
-    We also discuss digital twins of machine tools, which would be an integrated solution
-    for addressing most of the modeling uncertainties to constantly monitor the status
-    of the machine tool, dynamically update the model parameters, and in turn optimally
-    control the machine tool.
+  content: Machine tool models play an important role to support decision-making for machine tool procurement, process planning, and production scheduling in manufacturing. However, it is challenging to have a machine model that is accurately and dynamically representing the real machine due to modeling uncertainties. Modeling uncertainties and errors can be introduced during the model development process (i.e., when a machine model is created from scratch) and the model conversion process (i.e., when a machine model in one format needs to be converted into another format, e.g., from a vendor-specific format to a neutral format such as STandard Exchange of Product Data (STEP)). This paper identifies these uncertainties and particularly provides a methodology to help ensure correctly converting the coordinate system from one definition to another. Examples are provided to explain the methodology. We also discuss digital twins of machine tools, which would be an integrated solution for addressing most of the modeling uncertainties to constantly monitor the status of the machine tool, dynamically update the model parameters, and in turn optimally control the machine tool.
 series:
 - title:
   - content: NIST advanced manufacturing series; NIST AMS

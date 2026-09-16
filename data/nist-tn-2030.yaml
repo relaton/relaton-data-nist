@@ -1,4 +1,3 @@
----
 id: NISTTN2030
 schema_version: v1.5.6
 type: standard
@@ -98,20 +97,7 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: We propose a general methodology for assessing the time accuracy and uncertainties,
-    and report results from a project to calibrate timing in the NIST Cyber-Physical
-    System (CPS) and Smart Grid Testbeds. We measured clock synchronization accuracy
-    and stability as well as latencies for potential experiments in the testbeds.
-    We determined calibrations of GPS receivers to UTC(NIST) with an uncertainty of
-    16 ns. However, an anomaly occurred coincident with a power shutdown, which resulted
-    in a total uncertainty of receiver calibrations against UTC(NIST) of 100 ns. Synchronization
-    at testbed locations relative to an IEEE 1588 Precision Time Protocol (PTP) grandmaster
-    was found to have a max offset of 36 ns ± 6 ns one sigma from the grandmaster
-    through two transparent clocks (TCs). Finally, we measured the time error relative
-    to the grandmaster of an embedded device attached to a switch without PTP support
-    with a mean offset of 50 Âèys ± 10 Âèys, and at 8 ms ± 500 Âèys for timestamping
-    at the general-purpose input/output (GPIO). We report the methodology used, as
-    well as some of the challenges encountered and solutions developed in the process.
+  content: We propose a general methodology for assessing the time accuracy and uncertainties, and report results from a project to calibrate timing in the NIST Cyber-Physical System (CPS) and Smart Grid Testbeds. We measured clock synchronization accuracy and stability as well as latencies for potential experiments in the testbeds. We determined calibrations of GPS receivers to UTC(NIST) with an uncertainty of 16 ns. However, an anomaly occurred coincident with a power shutdown, which resulted in a total uncertainty of receiver calibrations against UTC(NIST) of 100 ns. Synchronization at testbed locations relative to an IEEE 1588 Precision Time Protocol (PTP) grandmaster was found to have a max offset of 36 ns ± 6 ns one sigma from the grandmaster through two transparent clocks (TCs). Finally, we measured the time error relative to the grandmaster of an embedded device attached to a switch without PTP support with a mean offset of 50 Âèys ± 10 Âèys, and at 8 ms ± 500 Âèys for timestamping at the general-purpose input/output (GPIO). We report the methodology used, as well as some of the challenges encountered and solutions developed in the process.
 series:
 - title:
   - content: NIST technical note; NIST tech note; NIST TN

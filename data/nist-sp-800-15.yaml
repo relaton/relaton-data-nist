@@ -1,4 +1,3 @@
----
 id: NISTSP80015
 schema_version: v1.5.6
 type: standard
@@ -60,27 +59,7 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: 'The Minimum Interoperability Specification for PKI Components (MISPC)
-    supports interoperability for a large scale public key infrastructure (PKI) that
-    issues, revokes and manages X.509 version 3 digital signature public key certificates
-    and version 2 certificate revocation lists (CRLs). To the extent possible, this
-    document adopts data formats and transaction sets defined in existing and evolving
-    standards, such as ITU X.509 and the IETF''s Internet Public Key Infrastructure
-    Using X.509 Certificates (PKIX) series. In this specification a PKI is broken
-    into five components: certification authorities (CAs) that issue and revoke certificates;
-    organizational registration authorities (ORAs) that vouch for the binding between
-    public keys and certificate holder identities and other attributes; certificate
-    holders that are issued certificates and can sign digital documents; clients that
-    validate digital signatures and their certification paths from a known public
-    key of a trusted CA; and repositories that store and make available certificates
-    and CRLs.The MISPC supports both hierarchical and network trust models. In hierarchical
-    models, trust is delegated by a CA when it certifies a subordinate CA. Trust delegation
-    starts at a root CA that is trusted by every node in the infrastructure. IN network
-    models, trust is established between any two CAs. The MISPC specifies the use
-    of X.509 v3 extensions in certificates to explicitly manage trust relationships.This
-    specification consists primarily of a profile of certificate and CRL extensions
-    and a set of transactions. The transactions include: certification requests, certificate
-    renewal, certificate revocation, and retrieval of certificates and CRLs from repositories.'
+  content: 'The Minimum Interoperability Specification for PKI Components (MISPC) supports interoperability for a large scale public key infrastructure (PKI) that issues, revokes and manages X.509 version 3 digital signature public key certificates and version 2 certificate revocation lists (CRLs). To the extent possible, this document adopts data formats and transaction sets defined in existing and evolving standards, such as ITU X.509 and the IETF''s Internet Public Key Infrastructure Using X.509 Certificates (PKIX) series. In this specification a PKI is broken into five components: certification authorities (CAs) that issue and revoke certificates; organizational registration authorities (ORAs) that vouch for the binding between public keys and certificate holder identities and other attributes; certificate holders that are issued certificates and can sign digital documents; clients that validate digital signatures and their certification paths from a known public key of a trusted CA; and repositories that store and make available certificates and CRLs.The MISPC supports both hierarchical and network trust models. In hierarchical models, trust is delegated by a CA when it certifies a subordinate CA. Trust delegation starts at a root CA that is trusted by every node in the infrastructure. IN network models, trust is established between any two CAs. The MISPC specifies the use of X.509 v3 extensions in certificates to explicitly manage trust relationships.This specification consists primarily of a profile of certificate and CRL extensions and a set of transactions. The transactions include: certification requests, certificate renewal, certificate revocation, and retrieval of certificates and CRLs from repositories.'
 series:
 - title:
   - content: NIST special publication; NIST special pub; NIST SP

@@ -1,3 +1,4 @@
+---
 id: NISTSP80070r2
 schema_version: v1.5.6
 type: standard
@@ -12,7 +13,8 @@ title:
   type: title-part
 - language: en
   script: Latn
-  content: National checklist program for IT products - guidelines for checklist users and developers
+  content: National checklist program for IT products - guidelines for checklist users
+    and developers
   type: main
 source:
 - type: doi
@@ -71,7 +73,14 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: Special Publication 800-70 Revision 2, National Checklist Program for IT Products Guidelines for Checklist Users and Developers, describes security configuration checklists and their benefits, and it explains how to use the NIST National Checklist Program (NCP) to find and retrieve checklists. The publication also describes the policies, procedures, and general requirements for participation in the NCP. SP 800-70 Revision 2 updates the previous version of the document, which was released in 2009, primarily by adding additional SCAP-oriented guidance and content related to the United States Government Configuration Baseline (USGCB).
+  content: Special Publication 800-70 Revision 2, National Checklist Program for IT
+    Products Guidelines for Checklist Users and Developers, describes security configuration
+    checklists and their benefits, and it explains how to use the NIST National Checklist
+    Program (NCP) to find and retrieve checklists. The publication also describes
+    the policies, procedures, and general requirements for participation in the NCP.
+    SP 800-70 Revision 2 updates the previous version of the document, which was released
+    in 2009, primarily by adding additional SCAP-oriented guidance and content related
+    to the United States Government Configuration Baseline (USGCB).
 series:
 - title:
   - content: NIST special publication; NIST special pub; NIST SP

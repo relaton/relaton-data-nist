@@ -1,10 +1,12 @@
+---
 id: NBSRPT6043
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: The use of measurements in predicting the performance of tropospheric communication circuits
+  content: The use of measurements in predicting the performance of tropospheric communication
+    circuits
   type: main
 source:
 - type: doi
@@ -60,7 +62,21 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: The uncertainty in predicting the performance of tropospheric communication circuits may be expressed by a variance, assuming a log-normal distribution of the differences between calculated and measured values of field strength or basic transmission loss, if a number of paths with identical geometrical and other prediction parameters are considered. It is shown to what extent this variance may be reduced by taking into account transmission loss measurements over the same path for which the prediction is intended, or over a similar path. The improved prediction is obtained by assigning weights to calculated and observed values, respectively, and forming a weighted average. The method is demonstrated by examples, and the results are used to calculate new values of service probability on the basis of the improved prediction. Comparison of service probabilities for predictions based on the cal¿̐¿ culation above, and for predictions taking into account the results of transmission loss measurements, enables the designer to judge whether the cost of a measurement program is justified in terms of possible savings in equipment for a final installation.
+  content: The uncertainty in predicting the performance of tropospheric communication
+    circuits may be expressed by a variance, assuming a log-normal distribution of
+    the differences between calculated and measured values of field strength or basic
+    transmission loss, if a number of paths with identical geometrical and other prediction
+    parameters are considered. It is shown to what extent this variance may be reduced
+    by taking into account transmission loss measurements over the same path for which
+    the prediction is intended, or over a similar path. The improved prediction is
+    obtained by assigning weights to calculated and observed values, respectively,
+    and forming a weighted average. The method is demonstrated by examples, and the
+    results are used to calculate new values of service probability on the basis of
+    the improved prediction. Comparison of service probabilities for predictions based
+    on the cal¿̐¿ culation above, and for predictions taking into account the results
+    of transmission loss measurements, enables the designer to judge whether the cost
+    of a measurement program is justified in terms of possible savings in equipment
+    for a final installation.
 series:
 - title:
   - content: NBS report

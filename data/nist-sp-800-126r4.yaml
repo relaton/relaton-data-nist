@@ -1,3 +1,4 @@
+---
 id: NISTSP800126r4
 schema_version: v1.5.6
 type: standard
@@ -12,7 +13,8 @@ title:
   type: title-part
 - language: en
   script: Latn
-  content: Technical specification for the security content automation protocol (SCAP) - SCAP version 1.4
+  content: Technical specification for the security content automation protocol (SCAP)
+    - SCAP version 1.4
   type: main
 source:
 - type: doi
@@ -70,14 +72,22 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: The Security Content Automation Protocol (SCAP) is a suite of specifications that standardize the format and nomenclature by which software flaw and security configuration information is communicated, both to machines and humans. This publication, along with its annex (NIST Special Publication 800-126Ar4) and a set of schemas, collectively define the technical composition of SCAP version 1.4 in terms of its component specifications, their interrelationships and interoperation, and the requirements for SCAP content.
+  content: The Security Content Automation Protocol (SCAP) is a suite of specifications
+    that standardize the format and nomenclature by which software flaw and security
+    configuration information is communicated, both to machines and humans. This publication,
+    along with its annex (NIST Special Publication 800-126Ar4) and a set of schemas,
+    collectively define the technical composition of SCAP version 1.4 in terms of
+    its component specifications, their interrelationships and interoperation, and
+    the requirements for SCAP content.
 relation:
 - type: updates
   bibitem:
     formattedref:
-      content: NIST 800-126; 10 6028/NIST 800-126r1; 10 6028/NIST 800-126r2; 10 6028/NIST 800-126r3
+      content: NIST 800-126; 10 6028/NIST 800-126r1; 10 6028/NIST 800-126r2; 10 6028/NIST
+        800-126r3
     docidentifier:
-    - content: NIST 800-126; 10 6028/NIST 800-126r1; 10 6028/NIST 800-126r2; 10 6028/NIST 800-126r3
+    - content: NIST 800-126; 10 6028/NIST 800-126r1; 10 6028/NIST 800-126r2; 10 6028/NIST
+        800-126r3
       type: NIST
 series:
 - title:

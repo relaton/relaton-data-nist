@@ -1,10 +1,12 @@
+---
 id: NISTIR8528
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Status report on the first round of the additional digital signature schemes for the NIST post-quantum cryptography standardization process
+  content: Status report on the first round of the additional digital signature schemes
+    for the NIST post-quantum cryptography standardization process
   type: main
 source:
 - type: doi
@@ -198,7 +200,19 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: 'NIST is in the process of evaluating public-key digital signature algorithms for potential standardization to protect sensitive information into the foreseeable future, including after the advent of quantum computers. Any signature scheme that is eventually selected would augment FIPS 204, Module-Lattice-Based Digital Signature Standard; FIPS 205, Stateless Hash-Based Digital Signature Standard; FIPS 186-5, Digital Signature Standard (DSS); and SP 800-208, Recommendation for Stateful Hash-Based Signature Schemes. This report describes the evaluation criteria and selection process of the First Round of the Additional Digital Signatures for the NIST Post-Quantum Cryptography (PQC) Standardization Process. Based on public feedback and internal reviews of the first-round candidates, NIST selected14 candidate algorithms to move forward to the second round of evaluation: CROSS, FAEST, HAWK, LESS, MAYO, Mirath (merger of MIRA/MiRitH), MQOM, PERK, QR-UOV, RYDE, SDitH, SNOVA, SQIsign, and UOV.'
+  content: 'NIST is in the process of evaluating public-key digital signature algorithms
+    for potential standardization to protect sensitive information into the foreseeable
+    future, including after the advent of quantum computers. Any signature scheme
+    that is eventually selected would augment FIPS 204, Module-Lattice-Based Digital
+    Signature Standard; FIPS 205, Stateless Hash-Based Digital Signature Standard;
+    FIPS 186-5, Digital Signature Standard (DSS); and SP 800-208, Recommendation for
+    Stateful Hash-Based Signature Schemes. This report describes the evaluation criteria
+    and selection process of the First Round of the Additional Digital Signatures
+    for the NIST Post-Quantum Cryptography (PQC) Standardization Process. Based on
+    public feedback and internal reviews of the first-round candidates, NIST selected14
+    candidate algorithms to move forward to the second round of evaluation: CROSS,
+    FAEST, HAWK, LESS, MAYO, Mirath (merger of MIRA/MiRitH), MQOM, PERK, QR-UOV, RYDE,
+    SDitH, SNOVA, SQIsign, and UOV.'
 series:
 - title:
   - content: NISTIR

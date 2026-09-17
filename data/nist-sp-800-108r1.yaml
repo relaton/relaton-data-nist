@@ -1,3 +1,4 @@
+---
 id: NISTSP800108r1
 schema_version: v1.5.6
 type: standard
@@ -35,7 +36,10 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: 'This Recommendation specifies techniques for the derivation of additional keying material from a secret key either established through a key-establishment scheme or shared through some other manner using pseudorandom functions: HMAC, CMAC, and KMAC.'
+  content: 'This Recommendation specifies techniques for the derivation of additional
+    keying material from a secret key either established through a key-establishment
+    scheme or shared through some other manner using pseudorandom functions: HMAC,
+    CMAC, and KMAC.'
 relation:
 - type: updates
   bibitem:

@@ -1,3 +1,4 @@
+---
 id: NISTTN2257
 schema_version: v1.5.6
 type: standard
@@ -55,7 +56,15 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: In this report, we introduce a framework to analyze, monitor, and identify the state of industrial wireless networks and their impact on industrial use cases. This framework is based on a deep learning approach for modeling the interactions between the wireless network and industrial use cases. The framework uses the information from different system layers including the spectrum measurements, physical layer metrics, network layer packets, and application layer production-related metrics in order to study the industrial wireless network behavior. The output of the framework can be generally used to improve system management and optimization functions.
+  content: In this report, we introduce a framework to analyze, monitor, and identify
+    the state of industrial wireless networks and their impact on industrial use cases.
+    This framework is based on a deep learning approach for modeling the interactions
+    between the wireless network and industrial use cases. The framework uses the
+    information from different system layers including the spectrum measurements,
+    physical layer metrics, network layer packets, and application layer production-related
+    metrics in order to study the industrial wireless network behavior. The output
+    of the framework can be generally used to improve system management and optimization
+    functions.
 series:
 - title:
   - content: NIST technical note; NIST tech note; NIST TN

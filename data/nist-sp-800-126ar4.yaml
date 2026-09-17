@@ -1,3 +1,4 @@
+---
 id: NISTSP800126Ar4
 schema_version: v1.5.6
 type: standard
@@ -12,7 +13,8 @@ title:
   type: title-part
 - language: en
   script: Latn
-  content: SCAP 1.4 component specification version updates - an annex to NIST SP 800-126r4
+  content: SCAP 1.4 component specification version updates - an annex to NIST SP
+    800-126r4
   type: main
 source:
 - type: doi
@@ -56,7 +58,14 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: The Security Content Automation Protocol (SCAP) is a multi-purpose framework of component specifications that support automated configuration, vulnerability, patch checking, security measurement, and technical control compliance activities. The SCAP version 1.4 specification is defined by the combination of NIST SP 800-126r4, a set of schemas, and this document. This document allows the use of specific minor version updates to SCAP 1.4 component specifications and particular Open Vulnerability and Assessment Language (OVAL) schema versions to provide additional functionality for SCAP 1.4 without causing any loss of existing functionality.
+  content: The Security Content Automation Protocol (SCAP) is a multi-purpose framework
+    of component specifications that support automated configuration, vulnerability,
+    patch checking, security measurement, and technical control compliance activities.
+    The SCAP version 1.4 specification is defined by the combination of NIST SP 800-126r4,
+    a set of schemas, and this document. This document allows the use of specific
+    minor version updates to SCAP 1.4 component specifications and particular Open
+    Vulnerability and Assessment Language (OVAL) schema versions to provide additional
+    functionality for SCAP 1.4 without causing any loss of existing functionality.
 relation:
 - type: updates
   bibitem:

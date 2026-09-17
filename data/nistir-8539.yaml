@@ -1,3 +1,4 @@
+---
 id: NISTIR8539
 schema_version: v1.5.6
 type: standard
@@ -45,7 +46,21 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: Verifying the security properties of access control policies is a complex and critical task. The policies and their implementation often do not explicitly express their underlying semantics, which may be implicitly embedded in the logic flows of policy rules, especially when policies are combined. Instead of evaluating and analyzing access control policies solely at the mechanism level, formal transition models are used to describe these policies and verify the system’s security properties. This approach ensures that access control mechanisms can be designed to meet security requirements. This document explains how to apply model-checking techniques to verify security properties in transition models of access control policies. It provides a brief introduction to the fundamentals of model checking and demonstrates how access control policies are converted into automata from their transition models. The document then focuses on discussing property specifications in terms of linear temporal logic (LTL) and computation tree logic (CTL) languages with comparisons between the two. Finally, the verification process and available tools are described and compared.
+  content: Verifying the security properties of access control policies is a complex
+    and critical task. The policies and their implementation often do not explicitly
+    express their underlying semantics, which may be implicitly embedded in the logic
+    flows of policy rules, especially when policies are combined. Instead of evaluating
+    and analyzing access control policies solely at the mechanism level, formal transition
+    models are used to describe these policies and verify the system’s security properties.
+    This approach ensures that access control mechanisms can be designed to meet security
+    requirements. This document explains how to apply model-checking techniques to
+    verify security properties in transition models of access control policies. It
+    provides a brief introduction to the fundamentals of model checking and demonstrates
+    how access control policies are converted into automata from their transition
+    models. The document then focuses on discussing property specifications in terms
+    of linear temporal logic (LTL) and computation tree logic (CTL) languages with
+    comparisons between the two. Finally, the verification process and available tools
+    are described and compared.
 series:
 - title:
   - content: NISTIR

@@ -1,3 +1,4 @@
+---
 id: NISTIR8358
 schema_version: v1.5.6
 type: standard
@@ -64,7 +65,18 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: In this paper we analyze elements of the Unified Modeling Language (UML), specifically the class diagram, and propose an simplified alternative language based on a branch of mathematics called category theory (CT). We argue that modeling in CT provides a richer and more precise formal structure than UML, while still supporting many of the intuitive and diagrammatic features which engineers appreciate in UML. Deep ties connect CT to formal logic, physics and computer science, helping to connect our CT-based models to simulation and implementation. We proceed by walking through the constructs of the class diagram and showing how the same information can be captured using CT constructions. As we do, we see that some UML constructs are redundant while others smuggle in assumptions which ought to be made explicit. Thus we argue that the use of CT in information modeling can make our models less ambiguous, more precise and more formal.
+  content: In this paper we analyze elements of the Unified Modeling Language (UML),
+    specifically the class diagram, and propose an simplified alternative language
+    based on a branch of mathematics called category theory (CT). We argue that modeling
+    in CT provides a richer and more precise formal structure than UML, while still
+    supporting many of the intuitive and diagrammatic features which engineers appreciate
+    in UML. Deep ties connect CT to formal logic, physics and computer science, helping
+    to connect our CT-based models to simulation and implementation. We proceed by
+    walking through the constructs of the class diagram and showing how the same information
+    can be captured using CT constructions. As we do, we see that some UML constructs
+    are redundant while others smuggle in assumptions which ought to be made explicit.
+    Thus we argue that the use of CT in information modeling can make our models less
+    ambiguous, more precise and more formal.
 series:
 - title:
   - content: NISTIR; NIST IR; NIST interagency report; NIST internal report

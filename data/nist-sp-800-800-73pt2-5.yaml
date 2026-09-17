@@ -1,3 +1,4 @@
+---
 id: NISTSP80080073pt25
 schema_version: v1.5.6
 type: standard
@@ -12,7 +13,8 @@ title:
   type: title-part
 - language: en
   script: Latn
-  content: Interfaces for personal identity verification - part 2-PIV card application card command interface
+  content: Interfaces for personal identity verification - part 2-PIV card application
+    card command interface
   type: main
 source:
 - type: doi
@@ -86,7 +88,17 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: 'FIPS 201 defines the requirements and characteristics of government-wide interoperable identity credentials for use in applications that provide access to federally controlled facilities and information systems. FIPS 201 supports multiple types of authenticators, including authenticators on smart cards (also known as PIV Cards). The 3-part SP 800-73 contains the technical specifications to interface with PIV Cards to retrieve and use identity credentials. This document — SP 800-73pt2-5 Interfaces for Personal Identity Verification: Part 2 – PIV Card Application Card Command Interface — contains the technical specifications for the PIV Card command interface to the PIV Card. The specifications define the set of commands surfaced by the PIV Card Application at the card edge of the ICC. [Supersedes SP 800-73-4 (February 2016): https://www.nist.gov/manuscript-publication-search.cfm?pub_id=920323]'
+  content: 'FIPS 201 defines the requirements and characteristics of government-wide
+    interoperable identity credentials for use in applications that provide access
+    to federally controlled facilities and information systems. FIPS 201 supports
+    multiple types of authenticators, including authenticators on smart cards (also
+    known as PIV Cards). The 3-part SP 800-73 contains the technical specifications
+    to interface with PIV Cards to retrieve and use identity credentials. This document
+    — SP 800-73pt2-5 Interfaces for Personal Identity Verification: Part 2 – PIV Card
+    Application Card Command Interface — contains the technical specifications for
+    the PIV Card command interface to the PIV Card. The specifications define the
+    set of commands surfaced by the PIV Card Application at the card edge of the ICC.
+    [Supersedes SP 800-73-4 (February 2016): https://www.nist.gov/manuscript-publication-search.cfm?pub_id=920323]'
 relation:
 - type: updates
   bibitem:

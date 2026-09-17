@@ -1,3 +1,4 @@
+---
 id: NISTIR8580
 schema_version: v1.5.6
 type: standard
@@ -98,7 +99,22 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: Low-field magnetic resonance imaging offers the promise to significantly increase access to in vivo soft tissue imaging. The technology is both portable and low-cost in relation to the high-field scanners in clinical use today. However, these gains are accompanied by a degradation in image resolution and contrast. Many researchers are investigating machine learning processing pipelines to help restore image quality. Such studies require a well-curated data collection to train their models. In the following we describe a database of brain scans designed for this task. Diffusion-weighted brain scans were acquired for twenty participants on both a 3 T and a 64 mT scanner. In addition, a T1-weighted scan was acquired on the 3 T system for morphological tissue identification. The data from both systems are co-registered and processed in a consistent manner. The resulting database contains diffusion-weighted images, mean diffusivity maps, and tissue parcellation all reported at a resolution consistent with low-field scanners in use today. This database is made available to the public in its entirety to provide a foundation for training and validating machine learning approaches to enhance the quality of low-field magnetic resonance imaging. [1]
+  content: Low-field magnetic resonance imaging offers the promise to significantly
+    increase access to in vivo soft tissue imaging. The technology is both portable
+    and low-cost in relation to the high-field scanners in clinical use today. However,
+    these gains are accompanied by a degradation in image resolution and contrast.
+    Many researchers are investigating machine learning processing pipelines to help
+    restore image quality. Such studies require a well-curated data collection to
+    train their models. In the following we describe a database of brain scans designed
+    for this task. Diffusion-weighted brain scans were acquired for twenty participants
+    on both a 3 T and a 64 mT scanner. In addition, a T1-weighted scan was acquired
+    on the 3 T system for morphological tissue identification. The data from both
+    systems are co-registered and processed in a consistent manner. The resulting
+    database contains diffusion-weighted images, mean diffusivity maps, and tissue
+    parcellation all reported at a resolution consistent with low-field scanners in
+    use today. This database is made available to the public in its entirety to provide
+    a foundation for training and validating machine learning approaches to enhance
+    the quality of low-field magnetic resonance imaging. [1]
 series:
 - title:
   - content: NISTIR

@@ -1,3 +1,4 @@
+---
 id: NISTSP80080073pt15
 schema_version: v1.5.6
 type: standard
@@ -12,7 +13,8 @@ title:
   type: title-part
 - language: en
   script: Latn
-  content: Interfaces for personal identity verification - part 1-PIV card application namespace, data model, and representation
+  content: Interfaces for personal identity verification - part 1-PIV card application
+    namespace, data model, and representation
   type: main
 source:
 - type: doi
@@ -86,7 +88,16 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: 'FIPS 201 defines the requirements and characteristics of government-wide interoperable identity credentials for use in applications that provide access to federally controlled facilities and information systems. FIPS 201 supports multiple types of authenticators, including authenticators on smart cards (also known as PIV Cards). The 3-part SP 800-73 contains the technical specifications to interface with PIV Cards to retrieve and use identity credentials.This document — SP 800-73pt1-5, Interfaces for Personal Identity Verification: Part 1 – PIV Card Application Namespace, Data Model, and Representation specifies the PIV Card Application Namespace, the PIV Data Model, and its logical representation on the PIV Card. [Supersedes SP 800-73-4 (February 2016): https://www.nist.gov/manuscript-publication-search.cfm?pub_id=920323]'
+  content: 'FIPS 201 defines the requirements and characteristics of government-wide
+    interoperable identity credentials for use in applications that provide access
+    to federally controlled facilities and information systems. FIPS 201 supports
+    multiple types of authenticators, including authenticators on smart cards (also
+    known as PIV Cards). The 3-part SP 800-73 contains the technical specifications
+    to interface with PIV Cards to retrieve and use identity credentials.This document
+    — SP 800-73pt1-5, Interfaces for Personal Identity Verification: Part 1 – PIV
+    Card Application Namespace, Data Model, and Representation specifies the PIV Card
+    Application Namespace, the PIV Data Model, and its logical representation on the
+    PIV Card. [Supersedes SP 800-73-4 (February 2016): https://www.nist.gov/manuscript-publication-search.cfm?pub_id=920323]'
 relation:
 - type: updates
   bibitem:

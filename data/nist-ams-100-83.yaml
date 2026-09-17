@@ -1,3 +1,4 @@
+---
 id: NISTAMS10083
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,26 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: 'This primer provides an overview for using the Manufacturing Cost Guide 2.0: (https://www.nist.gov/services-resources/software/manufacturing-cost-guide) by explaining how to use the tool and providing documentation on how the estimates are calculated. This tool executes economic input-output analysis to examine industry supply chains. It provides estimates of value added and measures of various externalities throughout a selected industry’s supply chain and answers questions about how industries supply each other and where in the supply chain externalities occur. The estimates are made at the industry level using the North American Industry Classification System (NAICS). The tool facilitates examining upstream supply chains and to a limited extent downstream supply chains. Although this is based on a static model, it allows flexibility in examining different industries and magnitudes of an industry (e.g., total industry output vs. a portion thereof). Results are provided for multiple years; thus, a user could compare supply chains between years. Results can also be calculated at varying levels of granularity. For instance, a user might be interested in the supply chain for all of manufacturing or they might be interested in a subsector of manufacturing such as automobile parts. The tool facilitates both levels of granularity. The results of the tool can aid governments, planners, and practitioners in rapidly and cost-effectively understanding potential outcomes of policy decisions, infrastructure projects, efficiency improvements, and supply chain disruptions.'
+  content: 'This primer provides an overview for using the Manufacturing Cost Guide
+    2.0: (https://www.nist.gov/services-resources/software/manufacturing-cost-guide)
+    by explaining how to use the tool and providing documentation on how the estimates
+    are calculated. This tool executes economic input-output analysis to examine industry
+    supply chains. It provides estimates of value added and measures of various externalities
+    throughout a selected industry’s supply chain and answers questions about how
+    industries supply each other and where in the supply chain externalities occur.
+    The estimates are made at the industry level using the North American Industry
+    Classification System (NAICS). The tool facilitates examining upstream supply
+    chains and to a limited extent downstream supply chains. Although this is based
+    on a static model, it allows flexibility in examining different industries and
+    magnitudes of an industry (e.g., total industry output vs. a portion thereof).
+    Results are provided for multiple years; thus, a user could compare supply chains
+    between years. Results can also be calculated at varying levels of granularity.
+    For instance, a user might be interested in the supply chain for all of manufacturing
+    or they might be interested in a subsector of manufacturing such as automobile
+    parts. The tool facilitates both levels of granularity. The results of the tool
+    can aid governments, planners, and practitioners in rapidly and cost-effectively
+    understanding potential outcomes of policy decisions, infrastructure projects,
+    efficiency improvements, and supply chain disruptions.'
 series:
 - title:
   - content: NIST advanced manufacturing series

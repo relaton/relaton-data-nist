@@ -1,3 +1,4 @@
+---
 id: NISTTN2144
 schema_version: v1.5.6
 type: standard
@@ -49,7 +50,15 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: User Equipment (UE)-to-Network Relay functionality was introduced in Release 13 of the Third Generation Partnership Project (3GPP) Long Term Evolution (LTE) to extend and improve user connectivity using the sidelink (SL) channels. The UE-to-Network Relay signalling allows the establishment and maintenance of a direct connection between the relay UE and the remote UE. Different procedures and timers are linked to these processes. In this paper, we focus on describing and evaluating the PC5 Signalling Protocol performance through system-level simulations. We also propose recommended timer values to increase the probability of successfully establishing and maintaining the connection between a remote UE and a relay UE.
+  content: User Equipment (UE)-to-Network Relay functionality was introduced in Release
+    13 of the Third Generation Partnership Project (3GPP) Long Term Evolution (LTE)
+    to extend and improve user connectivity using the sidelink (SL) channels. The
+    UE-to-Network Relay signalling allows the establishment and maintenance of a direct
+    connection between the relay UE and the remote UE. Different procedures and timers
+    are linked to these processes. In this paper, we focus on describing and evaluating
+    the PC5 Signalling Protocol performance through system-level simulations. We also
+    propose recommended timer values to increase the probability of successfully establishing
+    and maintaining the connection between a remote UE and a relay UE.
 series:
 - title:
   - content: NIST technical note; NIST tech note; NIST TN

@@ -1,10 +1,12 @@
+---
 id: NISTIR8198r1
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Improving automated insertion applications by restoring rigid-body condition in point-based registration
+  content: Improving automated insertion applications by restoring rigid-body condition
+    in point-based registration
   type: main
 source:
 - type: doi
@@ -71,7 +73,24 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: Accurate knowledge of an object's location is essential in automated robotic applications such as machine tending, pick-and-place operations, and part assembly. Perception systems are used to acquire the object's location, and this information is then passed on to the robot. However, the measured location of the object is in the coordinate frame of the perception system. For the robot to act on the object, the location of the object must be transformed relative to the coordinate frame of the robot. In manufacturing applications that involve industrial robots, a common way to register coordinate frames to each other or to a global frame is by rigid-body, point-based registration using at least three common points or fiducials that are measured in both frames. Researchers at the National Institute of Standards and Technology (NIST) have developed a method to improve this registration method. The new method restores the rigid-body condition (RRBC). This report presents an assessment of the NIST RRBC method by conducting practical robotic peg-in-hole experiments. In these experiments, a robot arm was used to insert a peg into a hole. A simple Pass/Fail metric was used to evaluate the effectiveness of the method. Two other metrics involving registration errors were also used. The results show that the RRBC reduces the number of failed insertions, especially with tight tolerances.
+  content: Accurate knowledge of an object's location is essential in automated robotic
+    applications such as machine tending, pick-and-place operations, and part assembly.
+    Perception systems are used to acquire the object's location, and this information
+    is then passed on to the robot. However, the measured location of the object is
+    in the coordinate frame of the perception system. For the robot to act on the
+    object, the location of the object must be transformed relative to the coordinate
+    frame of the robot. In manufacturing applications that involve industrial robots,
+    a common way to register coordinate frames to each other or to a global frame
+    is by rigid-body, point-based registration using at least three common points
+    or fiducials that are measured in both frames. Researchers at the National Institute
+    of Standards and Technology (NIST) have developed a method to improve this registration
+    method. The new method restores the rigid-body condition (RRBC). This report presents
+    an assessment of the NIST RRBC method by conducting practical robotic peg-in-hole
+    experiments. In these experiments, a robot arm was used to insert a peg into a
+    hole. A simple Pass/Fail metric was used to evaluate the effectiveness of the
+    method. Two other metrics involving registration errors were also used. The results
+    show that the RRBC reduces the number of failed insertions, especially with tight
+    tolerances.
 series:
 - title:
   - content: NISTIR; NIST IR; NIST interagency report; NIST internal report

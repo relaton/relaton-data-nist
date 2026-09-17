@@ -1,3 +1,4 @@
+---
 id: NISTSP800124r2
 schema_version: v1.5.6
 type: standard
@@ -72,7 +73,16 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: Mobile devices were initially personal consumer communication devices, but they are now permanent fixtures in enterprises and are used to access modern networks and systems to process sensitive data. This publication assists organizations in managing and securing these devices by describing available technologies and strategies. Security concerns inherent to the usage of mobile devices are explored alongside mitigations and countermeasures. Recommendations are provided for the deployment, use, and disposal of devices throughout the mobile-device life cycle. The scope of this publication includes mobile devices, centralized device management, and endpoint protection technologies, as well as both organization-provided and personally owned deployment scenarios.
+  content: Mobile devices were initially personal consumer communication devices,
+    but they are now permanent fixtures in enterprises and are used to access modern
+    networks and systems to process sensitive data. This publication assists organizations
+    in managing and securing these devices by describing available technologies and
+    strategies. Security concerns inherent to the usage of mobile devices are explored
+    alongside mitigations and countermeasures. Recommendations are provided for the
+    deployment, use, and disposal of devices throughout the mobile-device life cycle.
+    The scope of this publication includes mobile devices, centralized device management,
+    and endpoint protection technologies, as well as both organization-provided and
+    personally owned deployment scenarios.
 relation:
 - type: updates
   bibitem:

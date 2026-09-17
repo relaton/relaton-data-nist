@@ -1,3 +1,4 @@
+---
 id: NISTTN2159
 schema_version: v1.5.6
 type: standard
@@ -63,7 +64,22 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: The focus of this work provides a library of actual long-term evolution (LTE) user equipment (UE) emissions with sufficient time resolution and dynamic range for use in spectrum sharing, and interference susceptibility studies. National Advanced Spectrum and Communications Test Network (NASCTN)'s AWS-3 LTE impacts on AMT study required the use of LTE waveforms from advanced wireless services 3 (AWS-3) equipment for playback in a susceptibility analysis. Thus, National Institute of Standards and Technology (NIST) and the NASCTN program office commissioned the work as part of the Edwards Air Force Base (EAFB) proposed and NASCTN steering committee approved test request to investigate the impact of LTE activities on aeronautical mobile telemetry (AMT) links. The recordings of the UE emissions are performed in the NIST Broadband Interoperability Testbed (NBIT) facility, where under laboratory conditions, a single UE (and subsequently a second UE) are in connection to a fully emulated LTE network with a carrier grade evolved Node B (eNB). NBIT's hybrid radio frequency (RF) testbed allows for a radiated free-space connection to the UE in conjunction with a cabled user equipment traffic generator (UTG) for control of cell loading conditions.
+  content: The focus of this work provides a library of actual long-term evolution
+    (LTE) user equipment (UE) emissions with sufficient time resolution and dynamic
+    range for use in spectrum sharing, and interference susceptibility studies. National
+    Advanced Spectrum and Communications Test Network (NASCTN)'s AWS-3 LTE impacts
+    on AMT study required the use of LTE waveforms from advanced wireless services
+    3 (AWS-3) equipment for playback in a susceptibility analysis. Thus, National
+    Institute of Standards and Technology (NIST) and the NASCTN program office commissioned
+    the work as part of the Edwards Air Force Base (EAFB) proposed and NASCTN steering
+    committee approved test request to investigate the impact of LTE activities on
+    aeronautical mobile telemetry (AMT) links. The recordings of the UE emissions
+    are performed in the NIST Broadband Interoperability Testbed (NBIT) facility,
+    where under laboratory conditions, a single UE (and subsequently a second UE)
+    are in connection to a fully emulated LTE network with a carrier grade evolved
+    Node B (eNB). NBIT's hybrid radio frequency (RF) testbed allows for a radiated
+    free-space connection to the UE in conjunction with a cabled user equipment traffic
+    generator (UTG) for control of cell loading conditions.
 series:
 - title:
   - content: NIST technical note; NIST tech note; NIST TN

@@ -1,3 +1,4 @@
+---
 id: NBSRPT5593
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,13 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: This report describes a phase detector circuit capable of providing a large DC output voltage isolated from ground. The Circuit employs a gated beam vacuum tube or similar coincidence device to produce a carrier signal amplitude-modulated as a function of the relative phase shift between two input signals. The resulting carrier may be coupled across any desired DC potential, and then demodulated with a simple AM detector. Output voltages as high as 500 volts have been obtained with the circuit.
+  content: This report describes a phase detector circuit capable of providing a large
+    DC output voltage isolated from ground. The Circuit employs a gated beam vacuum
+    tube or similar coincidence device to produce a carrier signal amplitude-modulated
+    as a function of the relative phase shift between two input signals. The resulting
+    carrier may be coupled across any desired DC potential, and then demodulated with
+    a simple AM detector. Output voltages as high as 500 volts have been obtained
+    with the circuit.
 series:
 - title:
   - content: NBS report

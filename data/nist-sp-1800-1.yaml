@@ -1,3 +1,4 @@
+---
 id: NISTSP18001
 schema_version: v1.5.6
 type: standard
@@ -72,14 +73,35 @@ contributor:
   - type: publisher
   organization:
     name:
-    - content: Information Technology Laboratory (National Institute of Standards and Technology)
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
     identifier:
     - type: uri
       content: https://id.loc.gov/authorities/names/no97056762
 abstract:
 - language: en
   script: Latn
-  content: Health care providers increasingly use mobile devices to receive, store, process, and transmit patient clinical information. According to our own risk analysis, discussed here, and in the experience of many health care providers, mobile devices can present vulnerabilities in a health care organization's networks. At the 2012 Health and Human Services Mobile Devices Roundtable, participants stressed that mobile devices are being used by many providers for health care delivery before they have implemented safeguards for privacy and security. This NIST Cybersecurity Practice Guide provides a modular, open, end-to-end reference design that can be tailored and implemented by health care organizations of varying sizes and information technology sophistication. Specifically, the guide shows how health care providers, using open source and commercially available tools and technologies that are consistent with cybersecurity standards, can more securely share patient information among caregivers using mobile devices. The scenario considered is that of a hypothetical primary care physician using her mobile device to perform reoccurring activities such as sending a referral (e.g., clinicalinformation) to another physician, or sending an electronic prescription to a pharmacy. While the design was demonstrated with a certain suite of products, the guide does not endorse these products in particular. Instead, it presents the characteristics and capabilities that an organization's security experts can use to identify similar standards-based products that can be integrated quickly and cost-effectively with a health care provider's existing tools and infrastructure.
+  content: Health care providers increasingly use mobile devices to receive, store,
+    process, and transmit patient clinical information. According to our own risk
+    analysis, discussed here, and in the experience of many health care providers,
+    mobile devices can present vulnerabilities in a health care organization's networks.
+    At the 2012 Health and Human Services Mobile Devices Roundtable, participants
+    stressed that mobile devices are being used by many providers for health care
+    delivery before they have implemented safeguards for privacy and security. This
+    NIST Cybersecurity Practice Guide provides a modular, open, end-to-end reference
+    design that can be tailored and implemented by health care organizations of varying
+    sizes and information technology sophistication. Specifically, the guide shows
+    how health care providers, using open source and commercially available tools
+    and technologies that are consistent with cybersecurity standards, can more securely
+    share patient information among caregivers using mobile devices. The scenario
+    considered is that of a hypothetical primary care physician using her mobile device
+    to perform reoccurring activities such as sending a referral (e.g., clinicalinformation)
+    to another physician, or sending an electronic prescription to a pharmacy. While
+    the design was demonstrated with a certain suite of products, the guide does not
+    endorse these products in particular. Instead, it presents the characteristics
+    and capabilities that an organization's security experts can use to identify similar
+    standards-based products that can be integrated quickly and cost-effectively with
+    a health care provider's existing tools and infrastructure.
 series:
 - title:
   - content: NIST special publication; NIST special pub; NIST SP

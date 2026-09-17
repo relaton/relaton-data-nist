@@ -1,3 +1,4 @@
+---
 id: NISTIR8176
 schema_version: v1.5.6
 type: standard
@@ -33,14 +34,21 @@ contributor:
   - type: publisher
   organization:
     name:
-    - content: Information Technology Laboratory (National Institute of Standards and Technology)
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
     identifier:
     - type: uri
       content: https://id.loc.gov/authorities/names/no97056762
 abstract:
 - language: en
   script: Latn
-  content: In order for security solutions for application container environments to effectively meet their security objectives, it is necessary to analyze those security solutions and detail the metrics they must satisfy in the form of security assurance requirements. Since Linux and its various distributions form the predominant host OS component of the deployed container platforms, the focus of this document is on security assurance requirements for security solutions for application containers hosted on Linux.
+  content: In order for security solutions for application container environments
+    to effectively meet their security objectives, it is necessary to analyze those
+    security solutions and detail the metrics they must satisfy in the form of security
+    assurance requirements. Since Linux and its various distributions form the predominant
+    host OS component of the deployed container platforms, the focus of this document
+    is on security assurance requirements for security solutions for application containers
+    hosted on Linux.
 series:
 - title:
   - content: NISTIR; NIST IR; NIST interagency report; NIST internal report

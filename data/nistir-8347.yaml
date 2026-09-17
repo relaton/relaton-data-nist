@@ -1,3 +1,4 @@
+---
 id: NISTIR8347
 schema_version: v1.5.6
 type: standard
@@ -35,7 +36,15 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: In order to facilitate the development of applications and middleware that support the Personal Identity Verification (PIV) Card, NIST has developed a set of test PIV Cards and a supporting public key infrastructure (PKI). This set of test cards includes not only examples that are similar to cards issued today but also examples of cards with features that are expected to appear in cards that will be issued in the future. This document provides an overview of the test cards, the infrastructure that has been developed to support their use, and detailed specifications for each test card and for each certificate issued by the test PKI.
+  content: In order to facilitate the development of applications and middleware that
+    support the Personal Identity Verification (PIV) Card, NIST has developed a set
+    of test PIV Cards and a supporting public key infrastructure (PKI). This set of
+    test cards includes not only examples that are similar to cards issued today but
+    also examples of cards with features that are expected to appear in cards that
+    will be issued in the future. This document provides an overview of the test cards,
+    the infrastructure that has been developed to support their use, and detailed
+    specifications for each test card and for each certificate issued by the test
+    PKI.
 series:
 - title:
   - content: NISTIR; NIST IR; NIST interagency report; NIST internal report

@@ -1,3 +1,4 @@
+---
 id: NISTTN1876
 schema_version: v1.5.6
 type: standard
@@ -8,11 +9,13 @@ title:
   type: title-main
 - language: en
   script: Latn
-  content: an application for quantitative analysis of cement and clinker microstructure images
+  content: an application for quantitative analysis of cement and clinker microstructure
+    images
   type: title-part
 - language: en
   script: Latn
-  content: MicroChar - an application for quantitative analysis of cement and clinker microstructure images
+  content: MicroChar - an application for quantitative analysis of cement and clinker
+    microstructure images
   type: main
 source:
 - type: doi
@@ -56,7 +59,18 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: Accurate quantitative data on cement and clinker microstructure images can prove valuable for monitoring and controlling the manufacturing of cement-based powders. Furthermore, quantitative characterization of microstructure is an essential input to microstructure-based computer models of cementitious material processing and properties. This document describes the use and operating principles of MicroChar, a computer application for automatically calculating a range of microstructural properties from an indexed 2D image. Among the properties calculated are the volume fraction, mass fraction, and surface area fraction of each phase in the image, as well as two-point correlation functions for quantifying the spatial distribution of the phases throughout the structure. The application also enables the user to package the data obtained on cement powders for uploading to the Virtual Cement and Concrete Testing Laboratory Consortium (VCCTL) software.
+  content: Accurate quantitative data on cement and clinker microstructure images
+    can prove valuable for monitoring and controlling the manufacturing of cement-based
+    powders. Furthermore, quantitative characterization of microstructure is an essential
+    input to microstructure-based computer models of cementitious material processing
+    and properties. This document describes the use and operating principles of MicroChar,
+    a computer application for automatically calculating a range of microstructural
+    properties from an indexed 2D image. Among the properties calculated are the volume
+    fraction, mass fraction, and surface area fraction of each phase in the image,
+    as well as two-point correlation functions for quantifying the spatial distribution
+    of the phases throughout the structure. The application also enables the user
+    to package the data obtained on cement powders for uploading to the Virtual Cement
+    and Concrete Testing Laboratory Consortium (VCCTL) software.
 series:
 - title:
   - content: NIST technical note; NIST tech note; NIST TN

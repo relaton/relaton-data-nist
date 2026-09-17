@@ -1,3 +1,4 @@
+---
 id: NISTIR8549
 schema_version: v1.5.6
 type: standard
@@ -46,7 +47,12 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: The temo library is a set of building blocks that facilitate the automation of fitting models to experimental data for thermodynamic properties. The library is written in Python to enable broad re‐use and is based upon the suite of thermodynamic equations of state and modeling tools available in the teqp library. The flexibility of the provided methods allow the user to extend the capabilities of temo for their own particular problems.
+  content: The temo library is a set of building blocks that facilitate the automation
+    of fitting models to experimental data for thermodynamic properties. The library
+    is written in Python to enable broad re‐use and is based upon the suite of thermodynamic
+    equations of state and modeling tools available in the teqp library. The flexibility
+    of the provided methods allow the user to extend the capabilities of temo for
+    their own particular problems.
 series:
 - title:
   - content: NISTIR

@@ -1,3 +1,4 @@
+---
 id: NISTIR8274
 schema_version: v1.5.6
 type: standard
@@ -33,14 +34,22 @@ contributor:
   - type: publisher
   organization:
     name:
-    - content: Information Technology Laboratory (National Institute of Standards and Technology)
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
     identifier:
     - type: uri
       content: https://id.loc.gov/authorities/names/no97056762
 abstract:
 - language: en
   script: Latn
-  content: Statistical software encompasses several distinct classes of software. This report explains what formal methods, tools, and approaches may be able to increase assurance of results of using statistical software and implementing differential privacy. To provide context, we present an exemplary process for assured results. The parts are data assurance, algorithm design, software production, correctness proofs, postproduction assurance of software, and result checking. We note a workshop we organized to support this paper and finish with recommended formal methods, tools, and researchers doing particularly pertinent work.
+  content: Statistical software encompasses several distinct classes of software.
+    This report explains what formal methods, tools, and approaches may be able to
+    increase assurance of results of using statistical software and implementing differential
+    privacy. To provide context, we present an exemplary process for assured results.
+    The parts are data assurance, algorithm design, software production, correctness
+    proofs, postproduction assurance of software, and result checking. We note a workshop
+    we organized to support this paper and finish with recommended formal methods,
+    tools, and researchers doing particularly pertinent work.
 series:
 - title:
   - content: NISTIR; NIST IR; NIST interagency report; NIST internal report

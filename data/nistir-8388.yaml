@@ -1,3 +1,4 @@
+---
 id: NISTIR8388
 schema_version: v1.5.6
 type: standard
@@ -49,7 +50,18 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: This report presents an approach to verifying executability of system behavior models by treating them as logical constraint problems solved using Alloy Analyzer, a non-proprietary software tool supporting a textual language for logical constraints and underlying solvers. With behavior models interpreted as constraints on execution order, Alloy can determine whether the models are executable by attempting to find executions that meet those constraints. The approach relies on a logical interpretation of behavior modeling in the Systems Modeling Language (SysML) by Ontological Behavior Modeling method that unifies SysML behavior modeling based on its classification elements. This paper proposes translation between logical versions of SysML behavioral models and logical constructs in Alloy. Finally, the approach is demonstrated by translating and solving example SysML behavior models.
+  content: This report presents an approach to verifying executability of system behavior
+    models by treating them as logical constraint problems solved using Alloy Analyzer,
+    a non-proprietary software tool supporting a textual language for logical constraints
+    and underlying solvers. With behavior models interpreted as constraints on execution
+    order, Alloy can determine whether the models are executable by attempting to
+    find executions that meet those constraints. The approach relies on a logical
+    interpretation of behavior modeling in the Systems Modeling Language (SysML) by
+    Ontological Behavior Modeling method that unifies SysML behavior modeling based
+    on its classification elements. This paper proposes translation between logical
+    versions of SysML behavioral models and logical constructs in Alloy. Finally,
+    the approach is demonstrated by translating and solving example SysML behavior
+    models.
 series:
 - title:
   - content: NISTIR; NIST IR; NIST interagency report; NIST internal report

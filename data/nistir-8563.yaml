@@ -1,3 +1,4 @@
+---
 id: NISTIR8563
 schema_version: v1.5.6
 type: standard
@@ -12,7 +13,8 @@ title:
   type: title-part
 - language: en
   script: Latn
-  content: Industrial wireless non-communications aggressor reproduction - a playback approach for TIG welding measurements
+  content: Industrial wireless non-communications aggressor reproduction - a playback
+    approach for TIG welding measurements
   type: main
 source:
 - type: doi
@@ -66,7 +68,19 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: Industrial Wireless system performance can be degraded by various factors (aggressors) found in operational environments. Non-communications electromagnetic aggressors are defined as any over-the-air emissions that lower communications performance of the industrial wireless system under test where those emissions are not produced for communications purposes. Examples may include emissions from microwave ovens, welding stations, and variable speed drivers. In order to test an industrial wireless system prior to deployment, non-communications electromagnetic aggressors should be produced in a repeatable and controllable fashion. In this report, we introduce a playback approach for non-communications electromagnetic aggressor reproduction. The approach include signal measurements, data processing, and radio-based synthesis. Tungsten Inert Gas (TIG) welding emissions at the 2.4 GHz frequency band were reproduced to validate the approach using a software-defined radio for signal reproduction.
+  content: Industrial Wireless system performance can be degraded by various factors
+    (aggressors) found in operational environments. Non-communications electromagnetic
+    aggressors are defined as any over-the-air emissions that lower communications
+    performance of the industrial wireless system under test where those emissions
+    are not produced for communications purposes. Examples may include emissions from
+    microwave ovens, welding stations, and variable speed drivers. In order to test
+    an industrial wireless system prior to deployment, non-communications electromagnetic
+    aggressors should be produced in a repeatable and controllable fashion. In this
+    report, we introduce a playback approach for non-communications electromagnetic
+    aggressor reproduction. The approach include signal measurements, data processing,
+    and radio-based synthesis. Tungsten Inert Gas (TIG) welding emissions at the 2.4
+    GHz frequency band were reproduced to validate the approach using a software-defined
+    radio for signal reproduction.
 series:
 - title:
   - content: NISTIR

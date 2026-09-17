@@ -1,3 +1,4 @@
+---
 id: NISTSP800156
 schema_version: v1.5.6
 type: standard
@@ -68,14 +69,19 @@ contributor:
   - type: publisher
   organization:
     name:
-    - content: Information Technology Laboratory (National Institute of Standards and Technology)
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
     identifier:
     - type: uri
       content: https://id.loc.gov/authorities/names/no97056762
 abstract:
 - language: en
   script: Latn
-  content: This document provides a common XML-based data representation of a chain-of-trust record to facilitate the exchange of Personal Identity Verification (PIV) Card enrollment data. The exchanged record is the basis to personalize a PIV Card for a transferred employee and also for service providers to personalize a PIV Card on behave of client federal agencies.
+  content: This document provides a common XML-based data representation of a chain-of-trust
+    record to facilitate the exchange of Personal Identity Verification (PIV) Card
+    enrollment data. The exchanged record is the basis to personalize a PIV Card for
+    a transferred employee and also for service providers to personalize a PIV Card
+    on behave of client federal agencies.
 series:
 - title:
   - content: NIST special publication; NIST special pub; NIST SP

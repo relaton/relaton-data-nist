@@ -1,3 +1,4 @@
+---
 id: NISTSP800102
 schema_version: v1.5.6
 type: standard
@@ -38,7 +39,13 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: Establishing the time when a digital signature was generated is often a critical consideration. A signed message that includes the (purported) signing time provides no assurance that the private key was used to sign the message at that time unless the accuracy of the time can be trusted. With the appropriate use of digital signature-based timestamps from a Trusted Timestamp Authority (TTA) and/or verifier-supplied data that is included in the signed message, the signatory can provide some level of assurance about the time that the message was signed.
+  content: Establishing the time when a digital signature was generated is often a
+    critical consideration. A signed message that includes the (purported) signing
+    time provides no assurance that the private key was used to sign the message at
+    that time unless the accuracy of the time can be trusted. With the appropriate
+    use of digital signature-based timestamps from a Trusted Timestamp Authority (TTA)
+    and/or verifier-supplied data that is included in the signed message, the signatory
+    can provide some level of assurance about the time that the message was signed.
 series:
 - title:
   - content: NIST special publication; NIST special pub; NIST SP

@@ -1,10 +1,12 @@
+---
 id: NISTAMS10010
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Guide to the NIST PMI CAD models and CAD system PMI modeling capability verification testing results
+  content: Guide to the NIST PMI CAD models and CAD system PMI modeling capability
+    verification testing results
   type: main
 source:
 - type: doi
@@ -46,7 +48,19 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: 'This guide contains supplemental information for the NIST MBE PMI Validation and Conformance Testing Project. It is assumed that the reader has some familiarity with the project including the test cases and test results. The project created a test system to measure conformance of Computer-Aided Design (CAD) software to American Society of Mechanical Engineers (ASME) standards for product and manufacturing information (PMI), specifically geometric dimensioning and tolerancing (GD&T) information. The test system has three main components: test cases, test CAD models, and verification and validation test results. The verification and validation results measure PMI implementation capabilities in CAD software and derivative STEP, JT, and 3D PDF files. The information relating to the test case descriptions and verification results that can be used to: (1) provide insights into the test cases, PMI annotations, and verification testing results, and (2) inform future testing projects in the development of test cases and testing procedures and criteria.'
+  content: 'This guide contains supplemental information for the NIST MBE PMI Validation
+    and Conformance Testing Project. It is assumed that the reader has some familiarity
+    with the project including the test cases and test results. The project created
+    a test system to measure conformance of Computer-Aided Design (CAD) software to
+    American Society of Mechanical Engineers (ASME) standards for product and manufacturing
+    information (PMI), specifically geometric dimensioning and tolerancing (GD&T)
+    information. The test system has three main components: test cases, test CAD models,
+    and verification and validation test results. The verification and validation
+    results measure PMI implementation capabilities in CAD software and derivative
+    STEP, JT, and 3D PDF files. The information relating to the test case descriptions
+    and verification results that can be used to: (1) provide insights into the test
+    cases, PMI annotations, and verification testing results, and (2) inform future
+    testing projects in the development of test cases and testing procedures and criteria.'
 series:
 - title:
   - content: NIST advanced manufacturing series; NIST AMS

@@ -1,3 +1,4 @@
+---
 id: NISTSP802
 schema_version: v1.5.6
 type: standard
@@ -44,7 +45,19 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: The paper is in two parts. In Part I, the SI Green's function is calculated and applied to plane-strain problems in cubic solids. In Part II, an extension of the Green's function method to the generalized-plane-strain problem is described, which enables the calculation of the elastic response of a solid to a prescribed out-of-plane strain. It is applied to calculate the stress distribution in a composite solid subjected to an out-of-plane load. The final results are in the form of an analytical closed integral representation which can be calculated numerically as well as analytically. The analytical evaluation of the integral by using the contour integration method gives the result in the form of a series. The series contains singular as well as non-singular terms. In general, it is difficult to ascertain the convergence of the series representation. The analytical series representation can be used to identify precisely the nature and the weight of each singularity in the stress distribution.
+  content: The paper is in two parts. In Part I, the SI Green's function is calculated
+    and applied to plane-strain problems in cubic solids. In Part II, an extension
+    of the Green's function method to the generalized-plane-strain problem is described,
+    which enables the calculation of the elastic response of a solid to a prescribed
+    out-of-plane strain. It is applied to calculate the stress distribution in a composite
+    solid subjected to an out-of-plane load. The final results are in the form of
+    an analytical closed integral representation which can be calculated numerically
+    as well as analytically. The analytical evaluation of the integral by using the
+    contour integration method gives the result in the form of a series. The series
+    contains singular as well as non-singular terms. In general, it is difficult to
+    ascertain the convergence of the series representation. The analytical series
+    representation can be used to identify precisely the nature and the weight of
+    each singularity in the stress distribution.
 series:
 - title:
   - content: NIST special publication; NIST special pub; NIST SP

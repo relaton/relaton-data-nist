@@ -1,3 +1,4 @@
+---
 id: NISTSP800113
 schema_version: v1.5.6
 type: standard
@@ -59,7 +60,22 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: Secure Sockets Layer (SSL) Virtual Private Networks (VPNs) provide users with secure remote access to an organization's resources. An SSL VPN consists of one or more VPN devices to which users connect using their Web browsers. The traffic between the Web browser and SSL VPN device is encrypted with the SSL protocol. SSL VPNs can provide remote users with access to Web applications and client/server applications, as well as connectivity to internal networks. They offer versatility and ease of use because they use the SSL protocol, which is included with all standard Web browsers, so special client configuration or installation is often not required. In planning a VPN deployment, many organizations are faced with a choice between an IPsec-based VPN and an SSL-based VPN. This document seeks to assist organizations in understanding SSL VPN technologies. The publication also makes recommendations for designing, implementing, configuring, securing, monitoring, and maintaining SSL VPN solutions. SP 800-113 provides a phased approach to SSL VPN planning and implementation that can help in achieving successful SSL VPN deployments. It also includes a comparison with other similar technologies such as Internet Protocol Security (IPsec) VPNs and other VPN solutions.
+  content: Secure Sockets Layer (SSL) Virtual Private Networks (VPNs) provide users
+    with secure remote access to an organization's resources. An SSL VPN consists
+    of one or more VPN devices to which users connect using their Web browsers. The
+    traffic between the Web browser and SSL VPN device is encrypted with the SSL protocol.
+    SSL VPNs can provide remote users with access to Web applications and client/server
+    applications, as well as connectivity to internal networks. They offer versatility
+    and ease of use because they use the SSL protocol, which is included with all
+    standard Web browsers, so special client configuration or installation is often
+    not required. In planning a VPN deployment, many organizations are faced with
+    a choice between an IPsec-based VPN and an SSL-based VPN. This document seeks
+    to assist organizations in understanding SSL VPN technologies. The publication
+    also makes recommendations for designing, implementing, configuring, securing,
+    monitoring, and maintaining SSL VPN solutions. SP 800-113 provides a phased approach
+    to SSL VPN planning and implementation that can help in achieving successful SSL
+    VPN deployments. It also includes a comparison with other similar technologies
+    such as Internet Protocol Security (IPsec) VPNs and other VPN solutions.
 series:
 - title:
   - content: NIST special publication; NIST special pub; NIST SP

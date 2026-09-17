@@ -1,3 +1,4 @@
+---
 id: NISTTN2027
 schema_version: v1.5.6
 type: standard
@@ -82,7 +83,20 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: This report presents the use of a semi-automated commissioning tool for the energy retrocommissioning of the Performing Arts Center at Montgomery College in Rockville, Maryland. Researchers and field practitioners collaborated to implement the HVAC-Cx commissioning software tool in its first full-scale field test. HVAC-Cx aids building operators in decision-making by analyzing data using a set of expert rules governing the operation of the mechanical equipment. This publically-available software program has the capability to communicate with BACnet controllers to command the systems under test into their various modes of operation and to record system responses to facilitate some of the labor-intensive activities of retro-commissioning. These activities included monitoring building data under normal operation (operation monitoring) and active testing using a library of prefunctional tests and functional performance tests developed to evaluate the performance of both air-side and water-side systems. This report presents the results of the commissioning process and examines the effectiveness of the HVAC-Cx commissioning tool.
+  content: This report presents the use of a semi-automated commissioning tool for
+    the energy retrocommissioning of the Performing Arts Center at Montgomery College
+    in Rockville, Maryland. Researchers and field practitioners collaborated to implement
+    the HVAC-Cx commissioning software tool in its first full-scale field test. HVAC-Cx
+    aids building operators in decision-making by analyzing data using a set of expert
+    rules governing the operation of the mechanical equipment. This publically-available
+    software program has the capability to communicate with BACnet controllers to
+    command the systems under test into their various modes of operation and to record
+    system responses to facilitate some of the labor-intensive activities of retro-commissioning.
+    These activities included monitoring building data under normal operation (operation
+    monitoring) and active testing using a library of prefunctional tests and functional
+    performance tests developed to evaluate the performance of both air-side and water-side
+    systems. This report presents the results of the commissioning process and examines
+    the effectiveness of the HVAC-Cx commissioning tool.
 series:
 - title:
   - content: NIST technical note; NIST tech note; NIST TN

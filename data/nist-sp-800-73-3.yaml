@@ -1,3 +1,4 @@
+---
 id: NISTSP800733
 schema_version: v1.5.6
 type: standard
@@ -12,7 +13,8 @@ title:
   type: title-part
 - language: en
   script: Latn
-  content: Interfaces for personal identity verification - end-point PIV card application namespace, data model and representation
+  content: Interfaces for personal identity verification - end-point PIV card application
+    namespace, data model and representation
   type: main
 source:
 - type: doi
@@ -91,7 +93,15 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: FIPS 201, Personal Identity Verification (PIV) of Federal Employees and Contractors, defines procedures for the PIV lifecycle activities including identity proofing, registration, PIV Card issuance, and PIV Card usage. FIPS 201 also specifies that the identity credentials must be stored on a smart card. SP 800-73-3 contains the technical specifications to interface with the smart card to retrieve and use the identity credentials. The specifications reflect the design goals of interoperability and PIV Card functions. The goals are addressed by specifying a PIV data model, card edge interface, and application programming interface. Moreover, SP 800-73-3 enumerates requirements where the standards include options and branches.
+  content: FIPS 201, Personal Identity Verification (PIV) of Federal Employees and
+    Contractors, defines procedures for the PIV lifecycle activities including identity
+    proofing, registration, PIV Card issuance, and PIV Card usage. FIPS 201 also specifies
+    that the identity credentials must be stored on a smart card. SP 800-73-3 contains
+    the technical specifications to interface with the smart card to retrieve and
+    use the identity credentials. The specifications reflect the design goals of interoperability
+    and PIV Card functions. The goals are addressed by specifying a PIV data model,
+    card edge interface, and application programming interface. Moreover, SP 800-73-3
+    enumerates requirements where the standards include options and branches.
 series:
 - title:
   - content: NIST special publication; NIST special pub; NIST SP

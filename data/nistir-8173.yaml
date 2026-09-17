@@ -1,3 +1,4 @@
+---
 id: NISTIR8173
 schema_version: v1.5.6
 type: standard
@@ -44,14 +45,24 @@ contributor:
   - type: publisher
   organization:
     name:
-    - content: Information Technology Laboratory (National Institute of Standards and Technology)
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
     identifier:
     - type: uri
       content: https://id.loc.gov/authorities/names/no97056762
 abstract:
 - language: en
   script: Latn
-  content: This report documents the Face in Video Evaluation (FIVE), an independent, public test of face recognition of non-cooperating subjects who are recorded passively and are mostly oblivious to the presence of cameras. The report enumerates accuracy and speed of face recognition algorithms applied to the identification of persons appearing in video sequences drawn from six different video datasets mostly sequestered at NIST. These datasets represent video surveillance, chokepoint, and social media applications of the technology. In six cases, videos from fixed cameras are searched against portrait-style photographs of up to 48 000 enrolled identities. In one case, videos are searched against faces enrolled from other videos. Additionally, the effect of supplementing enrollment with non-frontal images is examined.
+  content: This report documents the Face in Video Evaluation (FIVE), an independent,
+    public test of face recognition of non-cooperating subjects who are recorded passively
+    and are mostly oblivious to the presence of cameras. The report enumerates accuracy
+    and speed of face recognition algorithms applied to the identification of persons
+    appearing in video sequences drawn from six different video datasets mostly sequestered
+    at NIST. These datasets represent video surveillance, chokepoint, and social media
+    applications of the technology. In six cases, videos from fixed cameras are searched
+    against portrait-style photographs of up to 48 000 enrolled identities. In one
+    case, videos are searched against faces enrolled from other videos. Additionally,
+    the effect of supplementing enrollment with non-frontal images is examined.
 series:
 - title:
   - content: NISTIR; NIST IR; NIST interagency report; NIST internal report

@@ -1,3 +1,4 @@
+---
 id: NISTTN2218
 schema_version: v1.5.6
 type: standard
@@ -64,7 +65,24 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: 'Statistical model checking (SMC) is a formal verification method that combines simulations with statistical techniques to provide quantitative answers on whether a stochastic system satisfies some requirements with a controllable accuracy. SMC takes three inputs: a stochastic model, a linear-time/Metric Temporal Logic property to verify and a set of required confidence parameters. The stochastic model is generally obtained by modeling the functional behavior of a system then adding probabilistic variables to it, which are updated via probability distributions (PD). The latter is, typically, obtained by analyzing measurements from the system''s execution using statistical tests to select the best fit distribution. However, this task requires a good statistical background and familiarity with several distributions which is beyond the expertise of some analysts. Hence, in the case of SMC, assuming an incorrect distributional model for the data can lead to inappropriate statistical analysis as well as inaccurate verification of the system under study. As such, this paper presents DeepFit, a tool that uses deep learning in addition to traditional statistics to automate the distributional modeling process. DeepFit was evaluated against synthetic data and real world data and it can perform comparably to using maximum likelihood estimation with an Anderson-Darling, Kolmogorov-smirnov and Probability plot correlation coefficient plot goodness of fit tests.'
+  content: 'Statistical model checking (SMC) is a formal verification method that
+    combines simulations with statistical techniques to provide quantitative answers
+    on whether a stochastic system satisfies some requirements with a controllable
+    accuracy. SMC takes three inputs: a stochastic model, a linear-time/Metric Temporal
+    Logic property to verify and a set of required confidence parameters. The stochastic
+    model is generally obtained by modeling the functional behavior of a system then
+    adding probabilistic variables to it, which are updated via probability distributions
+    (PD). The latter is, typically, obtained by analyzing measurements from the system''s
+    execution using statistical tests to select the best fit distribution. However,
+    this task requires a good statistical background and familiarity with several
+    distributions which is beyond the expertise of some analysts. Hence, in the case
+    of SMC, assuming an incorrect distributional model for the data can lead to inappropriate
+    statistical analysis as well as inaccurate verification of the system under study.
+    As such, this paper presents DeepFit, a tool that uses deep learning in addition
+    to traditional statistics to automate the distributional modeling process. DeepFit
+    was evaluated against synthetic data and real world data and it can perform comparably
+    to using maximum likelihood estimation with an Anderson-Darling, Kolmogorov-smirnov
+    and Probability plot correlation coefficient plot goodness of fit tests.'
 series:
 - title:
   - content: NIST technical note; NIST tech note; NIST TN

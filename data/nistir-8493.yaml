@@ -1,3 +1,4 @@
+---
 id: NISTIR8493
 schema_version: v1.5.6
 type: standard
@@ -59,7 +60,17 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: 'The Vulnerability Test Suite Generator (VTSG) Version 3 can create vast numbers of synthetic programs with and without specific flaws or vulnerabilities. Such programs are useful for measuring static analysis tools. VTSG was designed by the Software Assurance Metrics and Tool Evaluation (SAMATE) team and originally implemented by students at TELECOM Nancy. The latest version is structured to be able to generate vulnerable and nonvulnerable synthetic programs expressing specific flaws in typical programming languages. It has libraries to generate programs in PHP: Hypertext Preprocessor (PHP), C#, and Python. This document may help if you are trying to generate test cases in PHP, C#, or Python, adding new complexities or flaws or vulnerability, or modifying VTSG to have new capabilities or to generate test cases in other programming languages.'
+  content: 'The Vulnerability Test Suite Generator (VTSG) Version 3 can create vast
+    numbers of synthetic programs with and without specific flaws or vulnerabilities.
+    Such programs are useful for measuring static analysis tools. VTSG was designed
+    by the Software Assurance Metrics and Tool Evaluation (SAMATE) team and originally
+    implemented by students at TELECOM Nancy. The latest version is structured to
+    be able to generate vulnerable and nonvulnerable synthetic programs expressing
+    specific flaws in typical programming languages. It has libraries to generate
+    programs in PHP: Hypertext Preprocessor (PHP), C#, and Python. This document may
+    help if you are trying to generate test cases in PHP, C#, or Python, adding new
+    complexities or flaws or vulnerability, or modifying VTSG to have new capabilities
+    or to generate test cases in other programming languages.'
 series:
 - title:
   - content: NISTIR

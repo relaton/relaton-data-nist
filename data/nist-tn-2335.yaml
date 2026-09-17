@@ -1,3 +1,4 @@
+---
 id: NISTTN2335
 schema_version: v1.5.6
 type: standard
@@ -93,7 +94,21 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: Radio frequency cryogenic switches are a critical enabling technology for quantum information science, both for calibration and high throughput testing of samples. Traditionally solenoid-based switches have been used, but transition is being made to MEMS-based switches due to their lower power dissipation, smaller size, and the tendency of solenoid switches to produce current pulses which destroy expensive cryogenic amplifiers. These MEMS switches require a 90-volt signal to be applied to the control lines which determine the state of the switches. Switches exist which have built in CMOS-based control electronics to drive the 90 V, but these do not work at the cryogenic temperatures used in quantum information science. The instrument presented here is a 19-inch rack-mount controller for a cryogenic MEMS switch network which allows a human operator to see the state of the switch via a row of clearly marked indicator lights, and to change the state manually via buttons on an LED-based indicator board or automatically via Python-based serial port commands. The design can also be modified for to control other switches that require either a large voltage or current to switch.
+  content: Radio frequency cryogenic switches are a critical enabling technology for
+    quantum information science, both for calibration and high throughput testing
+    of samples. Traditionally solenoid-based switches have been used, but transition
+    is being made to MEMS-based switches due to their lower power dissipation, smaller
+    size, and the tendency of solenoid switches to produce current pulses which destroy
+    expensive cryogenic amplifiers. These MEMS switches require a 90-volt signal to
+    be applied to the control lines which determine the state of the switches. Switches
+    exist which have built in CMOS-based control electronics to drive the 90 V, but
+    these do not work at the cryogenic temperatures used in quantum information science.
+    The instrument presented here is a 19-inch rack-mount controller for a cryogenic
+    MEMS switch network which allows a human operator to see the state of the switch
+    via a row of clearly marked indicator lights, and to change the state manually
+    via buttons on an LED-based indicator board or automatically via Python-based
+    serial port commands. The design can also be modified for to control other switches
+    that require either a large voltage or current to switch.
 series:
 - title:
   - content: NIST technical note; NIST tech note; NIST TN

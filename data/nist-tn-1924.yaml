@@ -1,3 +1,4 @@
+---
 id: NISTTN1924
 schema_version: v1.5.6
 type: standard
@@ -61,7 +62,21 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: Automated commissioning tools facilitate the ongoing commissioning process to improve occupant comfort, ensure the persistence of correct system operation, and reduce energy consumption. These tools decrease the time and the skill level required to carry out necessary quality assurance measures and as a result, they enable more thorough testing of building heating, ventilating, and air-conditioning (HVAC) systems. The purpose of the research effort described in this paper is to develop, test and demonstrate an automated commissioning tool that detects common mechanical faults and control errors in air handing units (AHUs). This paper presents the HVAC-Cx software, a tool developed by the U.S. National Institute of Standards and Technology (NIST). It utilizes actual air-handling unit data obtained from a building automation system and analyzes the data for proper operation by comparing the actual performance of the installed system against a set of expert rules for the system. This paper examined the effectiveness of the tool in detecting faults and documents the results from the first field application to air-handling units.
+  content: Automated commissioning tools facilitate the ongoing commissioning process
+    to improve occupant comfort, ensure the persistence of correct system operation,
+    and reduce energy consumption. These tools decrease the time and the skill level
+    required to carry out necessary quality assurance measures and as a result, they
+    enable more thorough testing of building heating, ventilating, and air-conditioning
+    (HVAC) systems. The purpose of the research effort described in this paper is
+    to develop, test and demonstrate an automated commissioning tool that detects
+    common mechanical faults and control errors in air handing units (AHUs). This
+    paper presents the HVAC-Cx software, a tool developed by the U.S. National Institute
+    of Standards and Technology (NIST). It utilizes actual air-handling unit data
+    obtained from a building automation system and analyzes the data for proper operation
+    by comparing the actual performance of the installed system against a set of expert
+    rules for the system. This paper examined the effectiveness of the tool in detecting
+    faults and documents the results from the first field application to air-handling
+    units.
 series:
 - title:
   - content: NIST technical note; NIST tech note; NIST TN

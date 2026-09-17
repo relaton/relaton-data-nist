@@ -1,3 +1,4 @@
+---
 id: NISTTN2141
 schema_version: v1.5.6
 type: standard
@@ -42,7 +43,21 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: In this report, high-Reynolds number turbulent flow around an axisymmetric hill is studied using large eddy and unsteady Reynolds averaged Navier-Stokes simulations and the results are extensively validated against experiment. The boundary-layer thickness of the incoming flow is about half of the height of the hill. In the process, the dynamic Smagorinsky sub-grid scale eddy-viscosity model and a precursor forcing technique to match the experimental mean velocity profile is implemented in the computational toolbox for wind engineering, windOF which is based on the open source computational fluid dynamic solver OpenFOAM. The results show that the windOF is capable of producing reliable results with LES for this complex flow which includes complicated flow topography due to smooth-wall separation, lee-side separation, reattachment and recovery behind the hill, etc. However, URANS predictions demonstrate significant discrepancies in several flow features, specifically in the lee-side separation and recovery that are characteristic of the RANS models which only consider much smaller scale turbulence compared to the mean flow distortion scales relevant to this flow.
+  content: In this report, high-Reynolds number turbulent flow around an axisymmetric
+    hill is studied using large eddy and unsteady Reynolds averaged Navier-Stokes
+    simulations and the results are extensively validated against experiment. The
+    boundary-layer thickness of the incoming flow is about half of the height of the
+    hill. In the process, the dynamic Smagorinsky sub-grid scale eddy-viscosity model
+    and a precursor forcing technique to match the experimental mean velocity profile
+    is implemented in the computational toolbox for wind engineering, windOF which
+    is based on the open source computational fluid dynamic solver OpenFOAM. The results
+    show that the windOF is capable of producing reliable results with LES for this
+    complex flow which includes complicated flow topography due to smooth-wall separation,
+    lee-side separation, reattachment and recovery behind the hill, etc. However,
+    URANS predictions demonstrate significant discrepancies in several flow features,
+    specifically in the lee-side separation and recovery that are characteristic of
+    the RANS models which only consider much smaller scale turbulence compared to
+    the mean flow distortion scales relevant to this flow.
 series:
 - title:
   - content: NIST technical note; NIST tech note; NIST TN

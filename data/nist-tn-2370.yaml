@@ -1,3 +1,4 @@
+---
 id: NISTTN2370
 schema_version: v1.5.6
 type: standard
@@ -76,7 +77,32 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: This study systematically reviews how researchers model Large Format Battery (LFB) Life Cycle Assessments (LCAs) and what information is used to conduct Lithium Iron Phosphate (LFP) LCAs across various life cycle stages. Following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, peer-reviewed articles published between 2015 and 2025 were retrieved from Scopus and Web of Science; 78 studies met the inclusion criteria. A standardized coding framework captured methodological choices (application, chemistry, system boundary, functional unit, life cycle inventory (LCI) sources, life cycle impact assessment (LCIA)methods/indicators, end-of-life pathways, and sensitivity/uncertainty practices), and LFP-specific inventories were additionally extracted and normalized to 1 kWh capacity when feasible. The number of journals published increased sharply after 2022, with studies originating most frequently from Europe (35%), China (22%), and North America (18%). Cradle-to-grave was the most common system boundary (n = 45), but partial boundaries and use-phase exclusions were also frequent, especially in cascading-use studies. Functional units were highly heterogeneous, with variants of “1 kWh” appearing in 35 studies, which alternated between capacity-based and throughput/service-based interpretations, alongside mass-, pack-, and mileage-based units. Predominantly used background database was ecoinvent (n = 57), while foreground inventories relied heavily on modeled or literature-derived inputs. ReCiPe was the frequently used LCIA method (n = 28), although 22 studies reported GWP only. EoL modeling ranged from cutoff assumptions to explicit hydro- and pyrometallurgical routes and system-expansion approaches. Sensitivity analysis was reported in 42 studies, whereas Monte Carlo uncertainty analysis appeared in seven. Overall, the review maps methodological heterogeneity and recurring data gaps, providing a structured evidence base and LFP Bill of Materials (BOM) to support the development of reproducible, open-source LFB LCA models.
+  content: This study systematically reviews how researchers model Large Format Battery
+    (LFB) Life Cycle Assessments (LCAs) and what information is used to conduct Lithium
+    Iron Phosphate (LFP) LCAs across various life cycle stages. Following the Preferred
+    Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines,
+    peer-reviewed articles published between 2015 and 2025 were retrieved from Scopus
+    and Web of Science; 78 studies met the inclusion criteria. A standardized coding
+    framework captured methodological choices (application, chemistry, system boundary,
+    functional unit, life cycle inventory (LCI) sources, life cycle impact assessment
+    (LCIA)methods/indicators, end-of-life pathways, and sensitivity/uncertainty practices),
+    and LFP-specific inventories were additionally extracted and normalized to 1 kWh
+    capacity when feasible. The number of journals published increased sharply after
+    2022, with studies originating most frequently from Europe (35%), China (22%),
+    and North America (18%). Cradle-to-grave was the most common system boundary (n
+    = 45), but partial boundaries and use-phase exclusions were also frequent, especially
+    in cascading-use studies. Functional units were highly heterogeneous, with variants
+    of “1 kWh” appearing in 35 studies, which alternated between capacity-based and
+    throughput/service-based interpretations, alongside mass-, pack-, and mileage-based
+    units. Predominantly used background database was ecoinvent (n = 57), while foreground
+    inventories relied heavily on modeled or literature-derived inputs. ReCiPe was
+    the frequently used LCIA method (n = 28), although 22 studies reported GWP only.
+    EoL modeling ranged from cutoff assumptions to explicit hydro- and pyrometallurgical
+    routes and system-expansion approaches. Sensitivity analysis was reported in 42
+    studies, whereas Monte Carlo uncertainty analysis appeared in seven. Overall,
+    the review maps methodological heterogeneity and recurring data gaps, providing
+    a structured evidence base and LFP Bill of Materials (BOM) to support the development
+    of reproducible, open-source LFB LCA models.
 series:
 - title:
   - content: NIST technical note

@@ -1,3 +1,4 @@
+---
 id: NISTTN1993
 schema_version: v1.5.6
 type: standard
@@ -12,7 +13,8 @@ title:
   type: title-part
 - language: en
   script: Latn
-  content: NIST special database 300 - uncompressed plain and rolled images from fingerprint cards
+  content: NIST special database 300 - uncompressed plain and rolled images from fingerprint
+    cards
   type: main
 source:
 - type: doi
@@ -82,14 +84,18 @@ contributor:
   - type: publisher
   organization:
     name:
-    - content: Information Technology Laboratory (National Institute of Standards and Technology)
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
     identifier:
     - type: uri
       content: https://id.loc.gov/authorities/names/no97056762
 abstract:
 - language: en
   script: Latn
-  content: A new collection of legacy inked rolled and plain fingerprint card scans are being released to the public. The cards were scanned at three resolutions in the 8 bit grayscale colorspace. The data is available as lossless images for free.
+  content: A new collection of legacy inked rolled and plain fingerprint card scans
+    are being released to the public. The cards were scanned at three resolutions
+    in the 8 bit grayscale colorspace. The data is available as lossless images for
+    free.
 series:
 - title:
   - content: NIST technical note; NIST tech note; NIST TN

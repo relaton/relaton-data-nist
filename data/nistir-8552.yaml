@@ -1,3 +1,4 @@
+---
 id: NISTIR8552
 schema_version: v1.5.6
 type: standard
@@ -118,7 +119,13 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: This report introduces the cryptographic accordion as a tweakable, variable-input-length strong pseudorandom permutation (VIL-SPRP) that is constructed from an underlying block cipher. An accordion facilitates the cryptographic processing of messages of various sizes while offering enhanced security compared to the approved block cipher modes of operation that are specified in the NIST SP 800-38 series. This report introduces associated terminology, outlines design requirements for accordions, and describes three categories of applications for them.
+  content: This report introduces the cryptographic accordion as a tweakable, variable-input-length
+    strong pseudorandom permutation (VIL-SPRP) that is constructed from an underlying
+    block cipher. An accordion facilitates the cryptographic processing of messages
+    of various sizes while offering enhanced security compared to the approved block
+    cipher modes of operation that are specified in the NIST SP 800-38 series. This
+    report introduces associated terminology, outlines design requirements for accordions,
+    and describes three categories of applications for them.
 series:
 - title:
   - content: NISTIR

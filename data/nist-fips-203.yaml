@@ -1,3 +1,4 @@
+---
 id: NISTFIPS203
 schema_version: v1.5.6
 type: standard
@@ -84,7 +85,17 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: A key-encapsulation mechanism (KEM) is a set of algorithms that, under certain conditions, can be used by two parties to establish a shared secret key over a public channel. A shared secret key that is securely established using a KEM can then be used with symmetric-key cryptographic algorithms to perform basic tasks in secure communications, such as encryption and authentication. This standard specifies a key-encapsulation mechanism called ML-KEM. The security of ML-KEM is related to the computational difficulty of the Module Learning with Errors problem. At present,ML-KEM is believed to be secure, even against adversaries who possess a quantum computer. This standard specifies three parameter sets for ML-KEM. In order of increasing security strength and decreasing performance, these are ML-KEM-512, ML-KEM-768, and ML-KEM-1024.
+  content: A key-encapsulation mechanism (KEM) is a set of algorithms that, under
+    certain conditions, can be used by two parties to establish a shared secret key
+    over a public channel. A shared secret key that is securely established using
+    a KEM can then be used with symmetric-key cryptographic algorithms to perform
+    basic tasks in secure communications, such as encryption and authentication. This
+    standard specifies a key-encapsulation mechanism called ML-KEM. The security of
+    ML-KEM is related to the computational difficulty of the Module Learning with
+    Errors problem. At present,ML-KEM is believed to be secure, even against adversaries
+    who possess a quantum computer. This standard specifies three parameter sets for
+    ML-KEM. In order of increasing security strength and decreasing performance, these
+    are ML-KEM-512, ML-KEM-768, and ML-KEM-1024.
 series:
 - title:
   - content: NIST federal information processing standards publication

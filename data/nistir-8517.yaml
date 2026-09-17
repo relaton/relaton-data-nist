@@ -1,3 +1,4 @@
+---
 id: NISTIR8517
 schema_version: v1.5.6
 type: standard
@@ -48,7 +49,15 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: Historically, hardware has been assumed to be inherently secure. However, chips are both created with software and contain complex encodings (e.g., circuit designs and firmware). This leads to bugs, some of which compromise security. This publication evaluates the types of vulnerabilities that can occur and leverages existing work on hardware weaknesses. For each type, a security failure scenario is provided that describes how the weakness could be exploited, where the weakness typically occurs, and what kind of damage could be done by an attacker. The 98 failure scenarios provided demonstrate the extensive and broadly distributed possibilities for hardware-related security failures.
+  content: Historically, hardware has been assumed to be inherently secure. However,
+    chips are both created with software and contain complex encodings (e.g., circuit
+    designs and firmware). This leads to bugs, some of which compromise security.
+    This publication evaluates the types of vulnerabilities that can occur and leverages
+    existing work on hardware weaknesses. For each type, a security failure scenario
+    is provided that describes how the weakness could be exploited, where the weakness
+    typically occurs, and what kind of damage could be done by an attacker. The 98
+    failure scenarios provided demonstrate the extensive and broadly distributed possibilities
+    for hardware-related security failures.
 series:
 - title:
   - content: NISTIR

@@ -1,3 +1,4 @@
+---
 id: NISTSP1175
 schema_version: v1.5.6
 type: standard
@@ -8,11 +9,13 @@ title:
   type: title-main
 - language: en
   script: Latn
-  content: 3. reducing uncertainty in estimating source strangth and location through plume inversion models
+  content: 3. reducing uncertainty in estimating source strangth and location through
+    plume inversion models
   type: title-part
 - language: en
   script: Latn
-  content: Greenhouse gas emissions and dispersion - 3. reducing uncertainty in estimating source strangth and location through plume inversion models
+  content: Greenhouse gas emissions and dispersion - 3. reducing uncertainty in estimating
+    source strangth and location through plume inversion models
   type: main
 source:
 - type: doi
@@ -81,7 +84,34 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: Recent development of accurate instruments for measuring greenhouse gas concentrations and the ability to mount them in ground-based vehicles has provided an opportunity to make temporally and spatially resolved measurements in the vicinity of suspected source locations, and for subsequently estimating the source location and strength. The basic approach of using downwind atmospheric measurements in an inversion methodology to predict the source strength and location is an ill-posed problem and results in large uncertainty. In this report, we present a new measurement methodology for reducing the uncertainty in predicting source strength from downwind measurements associated with inverse modeling. In order to demonstrate the approach, an inversion methodology built around a plume dispersion model is developed. Synthetic data derived from an assumed source distribution is used to compare and contrast the predicted source strength and location. The effect of introducing various levels of noise in the synthetic data or uncertainty in meteorological variables on the inversion methodology is studied. Results indicate that the use of noisy measurement data had a small effect on the total predicted source strength, but gave rise to several spurious sources (in many cases 8-10 sources were detected, while the assumed source distribution only consisted of 2 sources). Use of noisy measurement data for inversion also introduced large uncertainty in the location of the predicted sources. A mathematical model for estimating an upper bound on the uncertainty, and a bootstrap statistical approach for determining the variability in the predicted source distribution is demonstrated. The new measurement methodology, which involves using measurement data from two or more wind directions, combined together as part of a single inversion process is presented. Results of the bootstrap process indicated that the uncertainty in locating sources reduced significantly when measurements are made using the new proposed measurement approach. The proposed measurement system can be significant in determining emission inventories in urban domains at a high level of reliability, and for studying the role of remediation measures.
+  content: Recent development of accurate instruments for measuring greenhouse gas
+    concentrations and the ability to mount them in ground-based vehicles has provided
+    an opportunity to make temporally and spatially resolved measurements in the vicinity
+    of suspected source locations, and for subsequently estimating the source location
+    and strength. The basic approach of using downwind atmospheric measurements in
+    an inversion methodology to predict the source strength and location is an ill-posed
+    problem and results in large uncertainty. In this report, we present a new measurement
+    methodology for reducing the uncertainty in predicting source strength from downwind
+    measurements associated with inverse modeling. In order to demonstrate the approach,
+    an inversion methodology built around a plume dispersion model is developed. Synthetic
+    data derived from an assumed source distribution is used to compare and contrast
+    the predicted source strength and location. The effect of introducing various
+    levels of noise in the synthetic data or uncertainty in meteorological variables
+    on the inversion methodology is studied. Results indicate that the use of noisy
+    measurement data had a small effect on the total predicted source strength, but
+    gave rise to several spurious sources (in many cases 8-10 sources were detected,
+    while the assumed source distribution only consisted of 2 sources). Use of noisy
+    measurement data for inversion also introduced large uncertainty in the location
+    of the predicted sources. A mathematical model for estimating an upper bound on
+    the uncertainty, and a bootstrap statistical approach for determining the variability
+    in the predicted source distribution is demonstrated. The new measurement methodology,
+    which involves using measurement data from two or more wind directions, combined
+    together as part of a single inversion process is presented. Results of the bootstrap
+    process indicated that the uncertainty in locating sources reduced significantly
+    when measurements are made using the new proposed measurement approach. The proposed
+    measurement system can be significant in determining emission inventories in urban
+    domains at a high level of reliability, and for studying the role of remediation
+    measures.
 series:
 - title:
   - content: NIST special publication; NIST special pub; NIST SP

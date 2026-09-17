@@ -1,3 +1,4 @@
+---
 id: NISTAI8004
 schema_version: v1.5.6
 type: standard
@@ -12,7 +13,8 @@ title:
   type: title-part
 - language: en
   script: Latn
-  content: Challenges to the monitoring of deployed AI systems - Center for AI Standards and Innovation
+  content: Challenges to the monitoring of deployed AI systems - Center for AI Standards
+    and Innovation
   type: main
 source:
 - type: doi
@@ -116,7 +118,23 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: As artificial intelligence (AI) systems are increasingly integrated into commercial and government applications, there is a growing need to monitor these systems in real-world settings. Although pre-deployment evaluations are valuable for assessing AI system capabilities at multiple points prior to release, they are predominantly conducted in controlled testing environments. Post-deployment monitoring is crucial for (1) validating that AI systems operate reliably as expected in real-world scenarios, (2) tracking unforeseen outputs that occur due to, e.g., model non-determinism or dynamic input conditions, and (3) visibility into unexpected consequences of AI systems in deployment contexts. Stakeholders across the AI ecosystem agree on the need for post-deployment monitoring; however, monitoring best practices, validated methodologies, and common terminology are still nascent and scattered across the field. This report proposes monitoring categories and surfaces challenges to robust post-deployment AI system monitoring, rooted in practitioner workshops and a literature review. The identified gaps, barriers, and open questions highlight opportunities for further investigation and innovation. Notably, this report quotes practitioners’ repeated calls for guidance on post-deployment AI system monitoring methods.
+  content: As artificial intelligence (AI) systems are increasingly integrated into
+    commercial and government applications, there is a growing need to monitor these
+    systems in real-world settings. Although pre-deployment evaluations are valuable
+    for assessing AI system capabilities at multiple points prior to release, they
+    are predominantly conducted in controlled testing environments. Post-deployment
+    monitoring is crucial for (1) validating that AI systems operate reliably as expected
+    in real-world scenarios, (2) tracking unforeseen outputs that occur due to, e.g.,
+    model non-determinism or dynamic input conditions, and (3) visibility into unexpected
+    consequences of AI systems in deployment contexts. Stakeholders across the AI
+    ecosystem agree on the need for post-deployment monitoring; however, monitoring
+    best practices, validated methodologies, and common terminology are still nascent
+    and scattered across the field. This report proposes monitoring categories and
+    surfaces challenges to robust post-deployment AI system monitoring, rooted in
+    practitioner workshops and a literature review. The identified gaps, barriers,
+    and open questions highlight opportunities for further investigation and innovation.
+    Notably, this report quotes practitioners’ repeated calls for guidance on post-deployment
+    AI system monitoring methods.
 series:
 - title:
   - content: NIST trustworthy and responsible AI

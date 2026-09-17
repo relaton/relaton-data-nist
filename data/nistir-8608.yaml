@@ -1,3 +1,4 @@
+---
 id: NISTIR8608
 schema_version: v1.5.6
 type: standard
@@ -58,7 +59,23 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: We present a new fundamental equation of state for fluid carbon dioxide, which is an alternative to the current reference formulation published by Span and Wagner in 1996. The equation of state is formulated as the Helmholtz energy as a function of temperature and density. The ideal-gas term is based on new, high-accuracy results for the ideal-gas heat capacity. The real-gas term is fitted to a variety of critically assessed data sources, including several that were not available in 1996. The range of validity extends to 2000 K and 1000 MPa. The new equation of state performs similarly to that of Span and Wagner for most properties at most conditions but is an improvement for virial coefficients and supercritical densities. It is also free of some minor unphysical behavior near the critical point exhibited by the Span–Wagner equation of state. The more efficient structure makes it faster than the Span–Wagner equation of state by a factor of 1.5–2 when implemented in NIST’s REFPROP software. New auxiliary equations are presented for the melting and sublimation curves. The previously published formulations for the viscosity and thermal conductivity of CO2 were tested with the new equation of state; it was found that use of the new equation did not affect their accuracy so they can continue to be used with the same parameters
+  content: We present a new fundamental equation of state for fluid carbon dioxide,
+    which is an alternative to the current reference formulation published by Span
+    and Wagner in 1996. The equation of state is formulated as the Helmholtz energy
+    as a function of temperature and density. The ideal-gas term is based on new,
+    high-accuracy results for the ideal-gas heat capacity. The real-gas term is fitted
+    to a variety of critically assessed data sources, including several that were
+    not available in 1996. The range of validity extends to 2000 K and 1000 MPa. The
+    new equation of state performs similarly to that of Span and Wagner for most properties
+    at most conditions but is an improvement for virial coefficients and supercritical
+    densities. It is also free of some minor unphysical behavior near the critical
+    point exhibited by the Span–Wagner equation of state. The more efficient structure
+    makes it faster than the Span–Wagner equation of state by a factor of 1.5–2 when
+    implemented in NIST’s REFPROP software. New auxiliary equations are presented
+    for the melting and sublimation curves. The previously published formulations
+    for the viscosity and thermal conductivity of CO2 were tested with the new equation
+    of state; it was found that use of the new equation did not affect their accuracy
+    so they can continue to be used with the same parameters
 series:
 - title:
   - content: NISTIR

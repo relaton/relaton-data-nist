@@ -1,10 +1,12 @@
+---
 id: NISTIR8469
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Laser tracker interim testing per the ASME B89.4.19-2021 and ISO 10360-10:2021 standards
+  content: Laser tracker interim testing per the ASME B89.4.19-2021 and ISO 10360-10:2021
+    standards
   type: main
 source:
 - type: doi
@@ -68,7 +70,17 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: The recently revised ASME B89.4.19-2021 and ISO 10360-10:2021 standards for laser trackers include a new interim test that is comprehensive and more sensitive to systematic errors than the interim tests in the previous versions of the standards, i.e., the ASME B89.4.19-2006 and ISO 10360-10:2016. This interim test can be performed by users periodically in the field to assess the health of their trackers. There are two components to this interim test – the first is designed to detect geometric errors in laser trackers while the second is designed to assess the performance of the inclination sensor. In this report, we present an overview of the interim test for geometry errors, describe four methods of realizing the test, present performance evaluation data on a laser tracker from the different methods, and compare the methods in terms of their advantages and disadvantages.
+  content: The recently revised ASME B89.4.19-2021 and ISO 10360-10:2021 standards
+    for laser trackers include a new interim test that is comprehensive and more sensitive
+    to systematic errors than the interim tests in the previous versions of the standards,
+    i.e., the ASME B89.4.19-2006 and ISO 10360-10:2016. This interim test can be performed
+    by users periodically in the field to assess the health of their trackers. There
+    are two components to this interim test – the first is designed to detect geometric
+    errors in laser trackers while the second is designed to assess the performance
+    of the inclination sensor. In this report, we present an overview of the interim
+    test for geometry errors, describe four methods of realizing the test, present
+    performance evaluation data on a laser tracker from the different methods, and
+    compare the methods in terms of their advantages and disadvantages.
 series:
 - title:
   - content: NISTIR

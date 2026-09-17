@@ -1,3 +1,4 @@
+---
 id: NISTIR8378
 schema_version: v1.5.6
 type: standard
@@ -42,7 +43,23 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: Operations management systems manage flows of work, resources, and information through production and logistics systems, ensuring the correct and efficient execution of requested work. These systems can leverage recent advances in data availability, analytical capabilities, and industrial automation to substantially improve overall system performance. Additional improvements include streamlining flows of work, resources, and information across functionally heterogeneous components of production and logistics systems, which often have their own planning, execution, and data management systems. These smart manufacturing capabilities may simplify system implementation and improve its operation. However, they also introduce additional complexity to the system and design process. This paper proposes a model of operational control capable of supporting an integrated approach to design, analysis, and operation across functionally heterogeneous systems, classified as discrete event logistics systems. The model identifies and formalizes operational control decision-making and actuation functions required by these systems. It then provides logical modeling components that can be reused, specialized, and assembled into operational control system models. These models can be linked and integrated with other models and views of the system as part of an overall model-based engineering effort.
+  content: Operations management systems manage flows of work, resources, and information
+    through production and logistics systems, ensuring the correct and efficient execution
+    of requested work. These systems can leverage recent advances in data availability,
+    analytical capabilities, and industrial automation to substantially improve overall
+    system performance. Additional improvements include streamlining flows of work,
+    resources, and information across functionally heterogeneous components of production
+    and logistics systems, which often have their own planning, execution, and data
+    management systems. These smart manufacturing capabilities may simplify system
+    implementation and improve its operation. However, they also introduce additional
+    complexity to the system and design process. This paper proposes a model of operational
+    control capable of supporting an integrated approach to design, analysis, and
+    operation across functionally heterogeneous systems, classified as discrete event
+    logistics systems. The model identifies and formalizes operational control decision-making
+    and actuation functions required by these systems. It then provides logical modeling
+    components that can be reused, specialized, and assembled into operational control
+    system models. These models can be linked and integrated with other models and
+    views of the system as part of an overall model-based engineering effort.
 series:
 - title:
   - content: NISTIR; NIST IR; NIST interagency report; NIST internal report

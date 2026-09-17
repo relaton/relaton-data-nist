@@ -1,3 +1,4 @@
+---
 id: NISTAMS20010
 schema_version: v1.5.6
 type: standard
@@ -45,7 +46,13 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: The STEP File Analyzer and Viewer opens a STEP (ISO 10303 - STandard for Exchange of Product model data) Part 21 file and (1) generates a spreadsheet or CSV files of all entity and attribute information, (2) creates a visualization (view) of part geometry, sketch geometry, graphical PMI annotations, supplemental geometry, and datum targets that is displayed in a web browser, (3) reports and analyzes any semantic PMI, graphical PMI, and validation properties for conformance to recommended practices, and (4) checks for basic STEP file format errors.
+  content: The STEP File Analyzer and Viewer opens a STEP (ISO 10303 - STandard for
+    Exchange of Product model data) Part 21 file and (1) generates a spreadsheet or
+    CSV files of all entity and attribute information, (2) creates a visualization
+    (view) of part geometry, sketch geometry, graphical PMI annotations, supplemental
+    geometry, and datum targets that is displayed in a web browser, (3) reports and
+    analyzes any semantic PMI, graphical PMI, and validation properties for conformance
+    to recommended practices, and (4) checks for basic STEP file format errors.
 series:
 - title:
   - content: NIST advanced manufacturing series; NIST AMS

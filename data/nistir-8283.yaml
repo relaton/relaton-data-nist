@@ -1,10 +1,12 @@
+---
 id: NISTIR8283
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Verifying executability of SysML behavior models using Satisfiability Modulo Theory solvers
+  content: Verifying executability of SysML behavior models using Satisfiability Modulo
+    Theory solvers
   type: main
 source:
 - type: doi
@@ -45,7 +47,19 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: This report presents an approach to verifying executability of system behavior models by treating them as logical constraint problems solved using Satisfiability Modulo Theory (SMT). With behavior models interpreted as logical constraints on execution order, these solvers can determine whether the models are executable by finding executions that meet those constraints, or not executable because they are overconstrained. The approach relies on Ontological Behavior Modeling (OBM) to unify behavior modeling in the Systems Modeling Language (SysML) under a logical framework based on its structural elements. Translation patterns are proposed between SysML structural models, OBM, and logical constructs in SMT-LIB, a language used as input to SMT solvers. Software developed based on these patterns automatically translates SysML models extended with OBM into SMT-LIB files. Finally, the approach and software are demonstrated by translating and solving example SysML behavior models.
+  content: This report presents an approach to verifying executability of system behavior
+    models by treating them as logical constraint problems solved using Satisfiability
+    Modulo Theory (SMT). With behavior models interpreted as logical constraints on
+    execution order, these solvers can determine whether the models are executable
+    by finding executions that meet those constraints, or not executable because they
+    are overconstrained. The approach relies on Ontological Behavior Modeling (OBM)
+    to unify behavior modeling in the Systems Modeling Language (SysML) under a logical
+    framework based on its structural elements. Translation patterns are proposed
+    between SysML structural models, OBM, and logical constructs in SMT-LIB, a language
+    used as input to SMT solvers. Software developed based on these patterns automatically
+    translates SysML models extended with OBM into SMT-LIB files. Finally, the approach
+    and software are demonstrated by translating and solving example SysML behavior
+    models.
 series:
 - title:
   - content: NISTIR; NIST IR; NIST interagency report; NIST internal report

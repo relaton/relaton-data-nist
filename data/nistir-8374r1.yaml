@@ -1,3 +1,4 @@
+---
 id: NISTIR8374r1
 schema_version: v1.5.6
 type: standard
@@ -73,7 +74,17 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: Ransomware is a type of malicious attack where attackers encrypt an organization’s data and demand payment to restore access. Attackers may also steal an organization’s information and demand an additional payment in return for not disclosing the information to authorities, competitors, or the public. This Cybersecurity Framework (CSF) 2.0 Community Profile identifies the security outcomes from the NIST CSF 2.0 that support governing management of, identifying, protecting against, detecting, responding to, and recovering from ransomware events. The Profile can be used as a guide to managing the risk of ransomware events. That includes helping to gauge an organization’s level of readiness to counter ransomware threats and to deal with the potential consequences of events. This Profile can be leveraged in developing a ransomware countermeasure playbook.
+  content: Ransomware is a type of malicious attack where attackers encrypt an organization’s
+    data and demand payment to restore access. Attackers may also steal an organization’s
+    information and demand an additional payment in return for not disclosing the
+    information to authorities, competitors, or the public. This Cybersecurity Framework
+    (CSF) 2.0 Community Profile identifies the security outcomes from the NIST CSF
+    2.0 that support governing management of, identifying, protecting against, detecting,
+    responding to, and recovering from ransomware events. The Profile can be used
+    as a guide to managing the risk of ransomware events. That includes helping to
+    gauge an organization’s level of readiness to counter ransomware threats and to
+    deal with the potential consequences of events. This Profile can be leveraged
+    in developing a ransomware countermeasure playbook.
 relation:
 - type: updates
   bibitem:

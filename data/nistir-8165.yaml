@@ -1,3 +1,4 @@
+---
 id: NISTIR8165
 schema_version: v1.5.6
 type: standard
@@ -44,14 +45,22 @@ contributor:
   - type: publisher
   organization:
     name:
-    - content: Information Technology Laboratory (National Institute of Standards and Technology)
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
     identifier:
     - type: uri
       content: https://id.loc.gov/authorities/names/no97056762
 abstract:
 - language: en
   script: Latn
-  content: The Software Assurance Metrics and Tool Evaluation (SAMATE) team evaluated approximately 800 000 warnings from static analyzers.We learned that elements that we call code complexities make the detection of warnings more difficult. Most tools cannot not distinguish between the absence of a weakness and the presence of a weakness. That has been obscured in the code. This paper presents classes of code complexities. Understanding code complexity can assist in the development of coding guidelines for assuring that software is fully analyzable by static analyzers.
+  content: The Software Assurance Metrics and Tool Evaluation (SAMATE) team evaluated
+    approximately 800 000 warnings from static analyzers.We learned that elements
+    that we call code complexities make the detection of warnings more difficult.
+    Most tools cannot not distinguish between the absence of a weakness and the presence
+    of a weakness. That has been obscured in the code. This paper presents classes
+    of code complexities. Understanding code complexity can assist in the development
+    of coding guidelines for assuring that software is fully analyzable by static
+    analyzers.
 series:
 - title:
   - content: NISTIR; NIST IR; NIST interagency report; NIST internal report

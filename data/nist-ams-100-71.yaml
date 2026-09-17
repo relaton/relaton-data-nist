@@ -1,3 +1,4 @@
+---
 id: NISTAMS10071
 schema_version: v1.5.6
 type: standard
@@ -12,7 +13,8 @@ title:
   type: title-part
 - language: en
   script: Latn
-  content: Supply chain disruption and agent-based modeling - a literature review and model
+  content: Supply chain disruption and agent-based modeling - a literature review
+    and model
   type: main
 source:
 - type: doi
@@ -63,7 +65,27 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: This report provides a literature review of supply chain disruption and agent-based models. It also develops an agent-based model proof of concept to examine emergent phenomena in supply chain disruption. This model will eventually be used to 1) examine how supply chain disruptions might propagate downstream, demonstrating the findings of previous papers and 2) identify emergent behavior or patterns in supply chains as it relates to disruptions. Supply chain disruption can be classified by scale (micro vs macro), chronology (short-term vs long-term), and point-of-loss (upstream vs downstream). There is a literature gap relating to macro short term downstream losses; that is, there is a literature gap in understanding the aggregated losses that occur when goods fail to arrive at the next point in the supply chain. There is also a limited understanding of the frequency and magnitude of supply chain disruptions that makes it difficult to estimate annualized losses, which are useful for guiding investment in mitigation. Finally, there is a literature gap in understanding supply chains from a network-level perspective. This report presents a flexible agent-based model that allows various aspects of the model to fluctuate, including the number of tiers, establishment per tier, products per tier, flow time, substitutability, and potentially other aspects. This flexibility allows for the exploration of diverse supply chain structures and supports network-based analysis— addressing the gap identified in the existing literature. The model further facilitates examining other establishment characteristics (e.g., inventory level) to understand how they interact with network design.
+  content: This report provides a literature review of supply chain disruption and
+    agent-based models. It also develops an agent-based model proof of concept to
+    examine emergent phenomena in supply chain disruption. This model will eventually
+    be used to 1) examine how supply chain disruptions might propagate downstream,
+    demonstrating the findings of previous papers and 2) identify emergent behavior
+    or patterns in supply chains as it relates to disruptions. Supply chain disruption
+    can be classified by scale (micro vs macro), chronology (short-term vs long-term),
+    and point-of-loss (upstream vs downstream). There is a literature gap relating
+    to macro short term downstream losses; that is, there is a literature gap in understanding
+    the aggregated losses that occur when goods fail to arrive at the next point in
+    the supply chain. There is also a limited understanding of the frequency and magnitude
+    of supply chain disruptions that makes it difficult to estimate annualized losses,
+    which are useful for guiding investment in mitigation. Finally, there is a literature
+    gap in understanding supply chains from a network-level perspective. This report
+    presents a flexible agent-based model that allows various aspects of the model
+    to fluctuate, including the number of tiers, establishment per tier, products
+    per tier, flow time, substitutability, and potentially other aspects. This flexibility
+    allows for the exploration of diverse supply chain structures and supports network-based
+    analysis— addressing the gap identified in the existing literature. The model
+    further facilitates examining other establishment characteristics (e.g., inventory
+    level) to understand how they interact with network design.
 series:
 - title:
   - content: NIST advanced manufacturing series

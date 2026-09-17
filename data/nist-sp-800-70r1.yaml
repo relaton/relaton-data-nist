@@ -1,3 +1,4 @@
+---
 id: NISTSP80070r1
 schema_version: v1.5.6
 type: standard
@@ -12,7 +13,8 @@ title:
   type: title-part
 - language: en
   script: Latn
-  content: National checklist program for IT products - guidelines for checklist users and developers
+  content: National checklist program for IT products - guidelines for checklist users
+    and developers
   type: main
 source:
 - type: doi
@@ -61,7 +63,16 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: A security configuration checklist is a series of instructions for configuring a product to a particular operational environment. Checklists can comprise templates or automated scripts, patches or patch descriptions, XML files, and other procedures. Checklists are intended to be tailored by each organization to meet its particular security and operational requirements. The use of well-written, standardized checklists can markedly reduce the vulnerability exposure of IT products. This publication gives an overview of the NIST National Checklist Program, explains how to retrieve checklists from the NIST National Checklist Repository, and provides general information about threat discussions and baseline technical security practices for associated operational environments.
+  content: A security configuration checklist is a series of instructions for configuring
+    a product to a particular operational environment. Checklists can comprise templates
+    or automated scripts, patches or patch descriptions, XML files, and other procedures.
+    Checklists are intended to be tailored by each organization to meet its particular
+    security and operational requirements. The use of well-written, standardized checklists
+    can markedly reduce the vulnerability exposure of IT products. This publication
+    gives an overview of the NIST National Checklist Program, explains how to retrieve
+    checklists from the NIST National Checklist Repository, and provides general information
+    about threat discussions and baseline technical security practices for associated
+    operational environments.
 series:
 - title:
   - content: NIST special publication; NIST special pub; NIST SP

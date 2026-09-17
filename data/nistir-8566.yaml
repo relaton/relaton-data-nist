@@ -1,3 +1,4 @@
+---
 id: NISTIR8566
 schema_version: v1.5.6
 type: standard
@@ -58,7 +59,18 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: To determine the coverage of an LTE system, measurements such as the Reference Signal Received Power (RSRP), Reference Signal Received Quality (RSRQ), and Signal to Interference and Noise Ratio (SINR) are often used. However, RSRP and RSRQ are only relevant to LTE, and all three measurements are representative of signal quality but not user experience. In this paper, we propose a method that relates signal quality to Quality of Experience (QoE) using simulation. With this method, the coverage of an LTE system is quantified using speech intelligibility which is agnostic to an underlying technology making it possible to compare different technologies while also allowing users to directly relate speech intelligibility scores to sampled audio. In addition to the proposed method, this paper also describes an implementation of the method, a case study of the method using drive test data, and validation of the proposed method.
+  content: To determine the coverage of an LTE system, measurements such as the Reference
+    Signal Received Power (RSRP), Reference Signal Received Quality (RSRQ), and Signal
+    to Interference and Noise Ratio (SINR) are often used. However, RSRP and RSRQ
+    are only relevant to LTE, and all three measurements are representative of signal
+    quality but not user experience. In this paper, we propose a method that relates
+    signal quality to Quality of Experience (QoE) using simulation. With this method,
+    the coverage of an LTE system is quantified using speech intelligibility which
+    is agnostic to an underlying technology making it possible to compare different
+    technologies while also allowing users to directly relate speech intelligibility
+    scores to sampled audio. In addition to the proposed method, this paper also describes
+    an implementation of the method, a case study of the method using drive test data,
+    and validation of the proposed method.
 series:
 - title:
   - content: NISTIR

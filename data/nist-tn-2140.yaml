@@ -1,3 +1,4 @@
+---
 id: NISTTN2140
 schema_version: v1.5.6
 type: standard
@@ -91,7 +92,15 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: This technical report details an effort to design, demonstrate, and validate a test methodology to measure the impacts of Long Term Evolution (LTE) User Equipment (UE) emissions in the advanced wireless services 3 (AWS-3) band on aeronautical mobile telemetry (AMT) systems operating in the adjacent AMT band. Impacts are assessed by collecting and analyzing AMT system-provided key performance indicators (KPIs), such as bit error rate (BER). The validation process includes the capture and analysis for multiple adjacent band emissions (ABE) and AMT transmission combinations and conditions. The analysis here centers around AMT system behavior with and without the presence of ABE.
+  content: This technical report details an effort to design, demonstrate, and validate
+    a test methodology to measure the impacts of Long Term Evolution (LTE) User Equipment
+    (UE) emissions in the advanced wireless services 3 (AWS-3) band on aeronautical
+    mobile telemetry (AMT) systems operating in the adjacent AMT band. Impacts are
+    assessed by collecting and analyzing AMT system-provided key performance indicators
+    (KPIs), such as bit error rate (BER). The validation process includes the capture
+    and analysis for multiple adjacent band emissions (ABE) and AMT transmission combinations
+    and conditions. The analysis here centers around AMT system behavior with and
+    without the presence of ABE.
 series:
 - title:
   - content: NIST technical note; NIST tech note; NIST TN

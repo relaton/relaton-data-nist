@@ -1,3 +1,4 @@
+---
 id: NISTTN2274
 schema_version: v1.5.6
 type: standard
@@ -55,7 +56,24 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: The computation of the elastic shape registration of two simple surfaces in 3−dimensionalspace and therefore of the elastic shape distance between them has been investigated by Kurtek, Jermyn, et al. who have proposed algorithms to carry out this computation. These algorithms accomplish this by minimizing a distance function between the surfaces in terms of rotations and reparametrizations of one of the surfaces, the optimization over reparametrizations using a gradient approach that may produce a local solution. Now minimizing in terms of rotations and a special subset of the set of reparametrizations, we propose an algorithm for minimizing the distance function, the optimization over reparametrizations based on dynamic programming. This approach does not necessarily produce an optimal solution for the registration and distance problem, but perhaps a solution closer to optimal than the local solution that an algorithm with a gradient approach for optimizing over the entire set of reparametrizations may produce. In fact we propose that when computing the elastic shape registration of two simple surfaces and the elastic shape distance between them with an algorithm based on a gradient approach for optimizing over the entire set of reparametrizations, to use as the input initial solution the optimal rotation and reparametrization computed with our proposed algorithm.
+  content: The computation of the elastic shape registration of two simple surfaces
+    in 3−dimensionalspace and therefore of the elastic shape distance between them
+    has been investigated by Kurtek, Jermyn, et al. who have proposed algorithms to
+    carry out this computation. These algorithms accomplish this by minimizing a distance
+    function between the surfaces in terms of rotations and reparametrizations of
+    one of the surfaces, the optimization over reparametrizations using a gradient
+    approach that may produce a local solution. Now minimizing in terms of rotations
+    and a special subset of the set of reparametrizations, we propose an algorithm
+    for minimizing the distance function, the optimization over reparametrizations
+    based on dynamic programming. This approach does not necessarily produce an optimal
+    solution for the registration and distance problem, but perhaps a solution closer
+    to optimal than the local solution that an algorithm with a gradient approach
+    for optimizing over the entire set of reparametrizations may produce. In fact
+    we propose that when computing the elastic shape registration of two simple surfaces
+    and the elastic shape distance between them with an algorithm based on a gradient
+    approach for optimizing over the entire set of reparametrizations, to use as the
+    input initial solution the optimal rotation and reparametrization computed with
+    our proposed algorithm.
 series:
 - title:
   - content: NIST technical note; NIST tech note; NIST TN

@@ -1,3 +1,4 @@
+---
 id: NISTIR8350
 schema_version: v1.5.6
 type: standard
@@ -12,7 +13,8 @@ title:
   type: title-part
 - language: en
   script: Latn
-  content: Foundational concepts in trusted IoT device network-layer onboarding - enhancing internet protocol-based IoT Device and network security
+  content: Foundational concepts in trusted IoT device network-layer onboarding -
+    enhancing internet protocol-based IoT Device and network security
   type: main
 source:
 - type: doi
@@ -83,7 +85,20 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: Internet of Things (IoT) devices are typically connected to a network. The steps performed to provision a device with its network credentials are referred to as network-layer onboarding (or simply, onboarding, assuming the network-layer context is understood). This paper proposes a definition for trusted network-layer onboarding. This paper is intended to introduce the reader to trusted network-layer onboarding; describe its capabilities, characteristics, and benefits; and explain the important role that onboarding can play in the protection of IoT devices and networks throughout the device lifecycle. By providing a common language that describes and clarifies various onboarding capabilities, this paper assists with discussion, characterization, and development of trusted onboarding solutions. This paper also describes a generic trusted onboarding process, defines onboarding functional roles and responsibilities, discusses onboarding-related aspects of IoT device lifecycle management, and explains how onboarding can enhance security capabilities that protect the device throughout its lifecycle.
+  content: Internet of Things (IoT) devices are typically connected to a network.
+    The steps performed to provision a device with its network credentials are referred
+    to as network-layer onboarding (or simply, onboarding, assuming the network-layer
+    context is understood). This paper proposes a definition for trusted network-layer
+    onboarding. This paper is intended to introduce the reader to trusted network-layer
+    onboarding; describe its capabilities, characteristics, and benefits; and explain
+    the important role that onboarding can play in the protection of IoT devices and
+    networks throughout the device lifecycle. By providing a common language that
+    describes and clarifies various onboarding capabilities, this paper assists with
+    discussion, characterization, and development of trusted onboarding solutions.
+    This paper also describes a generic trusted onboarding process, defines onboarding
+    functional roles and responsibilities, discusses onboarding-related aspects of
+    IoT device lifecycle management, and explains how onboarding can enhance security
+    capabilities that protect the device throughout its lifecycle.
 series:
 - title:
   - content: NISTIR

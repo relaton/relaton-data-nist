@@ -1,3 +1,4 @@
+---
 id: NISTSP25097
 schema_version: v1.5.6
 type: standard
@@ -12,7 +13,8 @@ title:
   type: title-part
 - language: en
   script: Latn
-  content: Magnetic resonance imaging biomarker calibration service - proton spin relaxation times
+  content: Magnetic resonance imaging biomarker calibration service - proton spin
+    relaxation times
   type: main
 source:
 - type: doi
@@ -87,7 +89,8 @@ contributor:
   - type: publisher
   organization:
     name:
-    - content: Physical Measurement Laboratory (National Institute of Standards and Technology (U.S.)).
+    - content: Physical Measurement Laboratory (National Institute of Standards and
+        Technology (U.S.)).
     - content: Information Technology Laboratory.
     identifier:
     - type: uri
@@ -95,7 +98,19 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: This document describes the calibration service to measure proton spin relaxation times, T1 and T2, of materials used in phantoms (calibration artifacts) to verify the accuracy of MRI-based quantitative measurements. Proton spin relaxation times are used as image-based biomarkers to assess the state of tissue and quantify the presence of contrast agents. A biomarker, per the FDA definition, refers to a characteristic that is objectively measured and evaluated as an indicator of normal biological processes, pathogenic processes, or biological responses to a therapeutic intervention.(1) Spin relaxation times are phenomenological parameters that need to be carefully defined and measured to enable rigorous quantification and their use as biomarkers for clinical decision making. The relaxation times, in addition to being dependent on local material properties, are dependent on global parameters such as temperature and magnetic field value, which need to be controlled and precisely measured.
+  content: This document describes the calibration service to measure proton spin
+    relaxation times, T1 and T2, of materials used in phantoms (calibration artifacts)
+    to verify the accuracy of MRI-based quantitative measurements. Proton spin relaxation
+    times are used as image-based biomarkers to assess the state of tissue and quantify
+    the presence of contrast agents. A biomarker, per the FDA definition, refers to
+    a characteristic that is objectively measured and evaluated as an indicator of
+    normal biological processes, pathogenic processes, or biological responses to
+    a therapeutic intervention.(1) Spin relaxation times are phenomenological parameters
+    that need to be carefully defined and measured to enable rigorous quantification
+    and their use as biomarkers for clinical decision making. The relaxation times,
+    in addition to being dependent on local material properties, are dependent on
+    global parameters such as temperature and magnetic field value, which need to
+    be controlled and precisely measured.
 series:
 - title:
   - content: NIST special publication; NIST special pub; NIST SP

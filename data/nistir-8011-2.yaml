@@ -1,3 +1,4 @@
+---
 id: NISTIR80112
 schema_version: v1.5.6
 type: standard
@@ -12,7 +13,8 @@ title:
   type: title-part
 - language: en
   script: Latn
-  content: Automation support for security control assessments, volume 2 - hardware asset management
+  content: Automation support for security control assessments, volume 2 - hardware
+    asset management
   type: main
 source:
 - type: doi
@@ -52,14 +54,22 @@ contributor:
   - type: publisher
   organization:
     name:
-    - content: Information Technology Laboratory (National Institute of Standards and Technology)
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
     identifier:
     - type: uri
       content: https://id.loc.gov/authorities/names/no97056762
 abstract:
 - language: en
   script: Latn
-  content: The NISTIR 8011 volumes focus on each individual information security capability, adding tangible detail to the more general overview given in NISTIR 8011 Volume 1, and providing a template for transition to a detailed, NIST standards-compliant automated assessment. This document, Volume 2 of NISTIR 8011, addresses the Hardware Asset Management (HWAM) information security capability. The focus of the HWAM capability is to manage risk created by unmanaged devices on a network. Unmanaged devices are targets that attackers can use to gain and more easily maintain a persistent platform from which to attack the rest of the network.
+  content: The NISTIR 8011 volumes focus on each individual information security capability,
+    adding tangible detail to the more general overview given in NISTIR 8011 Volume
+    1, and providing a template for transition to a detailed, NIST standards-compliant
+    automated assessment. This document, Volume 2 of NISTIR 8011, addresses the Hardware
+    Asset Management (HWAM) information security capability. The focus of the HWAM
+    capability is to manage risk created by unmanaged devices on a network. Unmanaged
+    devices are targets that attackers can use to gain and more easily maintain a
+    persistent platform from which to attack the rest of the network.
 series:
 - title:
   - content: NISTIR; NIST IR; NIST interagency report; NIST internal report

@@ -1,10 +1,12 @@
+---
 id: NISTIR8520
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Report from the 2nd international workshop on FAIR containerized computational software
+  content: Report from the 2nd international workshop on FAIR containerized computational
+    software
   type: main
 source:
 - type: doi
@@ -48,7 +50,18 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: The National Institute of Standards and Technology (NIST) is evaluating and improving the specification for achieving interoperability of containerized computational software. Adherence to a specification for Findable, Accessible, Interoperable, and Reusable (FAIR) Containerized Computational Software (FAIR–CCS) enables better reuse of containerized tools in complex data analyses by chaining tools into computational workflows. NIST requested information from the community on approaches to achieving interoperability of containerized software, designing a container manifest file that meets the community needs, and lowering the barrier for constructing such a manifest file. Responses to this RFI informed a possible revision of the current approach to achieving FAIR–CCS via a manifest file, the entries in the current manifest file specification of FAIR–CCS, and the current tools that aim at automating adherence to the FAIR–CCS manifest specification.
+  content: The National Institute of Standards and Technology (NIST) is evaluating
+    and improving the specification for achieving interoperability of containerized
+    computational software. Adherence to a specification for Findable, Accessible,
+    Interoperable, and Reusable (FAIR) Containerized Computational Software (FAIR–CCS)
+    enables better reuse of containerized tools in complex data analyses by chaining
+    tools into computational workflows. NIST requested information from the community
+    on approaches to achieving interoperability of containerized software, designing
+    a container manifest file that meets the community needs, and lowering the barrier
+    for constructing such a manifest file. Responses to this RFI informed a possible
+    revision of the current approach to achieving FAIR–CCS via a manifest file, the
+    entries in the current manifest file specification of FAIR–CCS, and the current
+    tools that aim at automating adherence to the FAIR–CCS manifest specification.
 series:
 - title:
   - content: NISTIR

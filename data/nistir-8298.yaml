@@ -1,10 +1,12 @@
+---
 id: NISTIR8298
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: A summary of industrial verification, validation, and uncertainty quantification procedures in computational fluid dynamics
+  content: A summary of industrial verification, validation, and uncertainty quantification
+    procedures in computational fluid dynamics
   type: main
 source:
 - type: doi
@@ -38,7 +40,22 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: 'Within a variety of Computational Fluid Dynamics (CFD) applications, maturity levels can vary significantly depending upon modeling approach and the user''s knowledge and skills. Recently, application of CFD techniques for Computational Wind Engineering (CWE) has generated strong interest among wind and structural engineers as a possible substitute for or supplement to wind tunnel experimentation, even though CWE is still in a developmental stage. A necessary step toward advancing CWE simulations in wind and structural engineering applications credible is the development of reliable verification and validation (V&V) procedures. Fundamental factors that determine the degree to which CWE simulations are the credible include: (i) the quality of the mathematical modeling of the physics of interest; (ii) the depth of understanding by the users/analysts of the details of the model and the simulation results; (iii) the quality of the verification and validation (V&V) procedures applied to the simulation results, and (iv) the quality of the uncertainty quantification procedure applied to those results. This report deals in detail with the sources of inaccuracy in CFD simulations, and concepts and procedures used in V&V and uncertainty quantification.'
+  content: 'Within a variety of Computational Fluid Dynamics (CFD) applications, maturity
+    levels can vary significantly depending upon modeling approach and the user''s
+    knowledge and skills. Recently, application of CFD techniques for Computational
+    Wind Engineering (CWE) has generated strong interest among wind and structural
+    engineers as a possible substitute for or supplement to wind tunnel experimentation,
+    even though CWE is still in a developmental stage. A necessary step toward advancing
+    CWE simulations in wind and structural engineering applications credible is the
+    development of reliable verification and validation (V&V) procedures. Fundamental
+    factors that determine the degree to which CWE simulations are the credible include:
+    (i) the quality of the mathematical modeling of the physics of interest; (ii)
+    the depth of understanding by the users/analysts of the details of the model and
+    the simulation results; (iii) the quality of the verification and validation (V&V)
+    procedures applied to the simulation results, and (iv) the quality of the uncertainty
+    quantification procedure applied to those results. This report deals in detail
+    with the sources of inaccuracy in CFD simulations, and concepts and procedures
+    used in V&V and uncertainty quantification.'
 series:
 - title:
   - content: NISTIR; NIST IR; NIST interagency report; NIST internal report

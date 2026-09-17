@@ -1,10 +1,12 @@
+---
 id: NISTTN2286
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Collection method for high-SNR I/Q recordings of FDD LTE user equipment emissions
+  content: Collection method for high-SNR I/Q recordings of FDD LTE user equipment
+    emissions
   type: main
 source:
 - type: doi
@@ -65,7 +67,15 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: This report documents collection methods for high signal-to-noise ratio (SNR) in-phase and quadrature (I/Q) radio frequency (RF) recordings of long-term evolution (LTE) uplink emissions from a commercial-off-the-shelf (COTS) handset in a fully conducted environment. A base station emulator was used to configure the handset to statically transmit over various LTE physical resource block configuration for 1.4 MHz, 3 MHz, 5 MHz, and 10 MHz uplink channels centered at 1770 MHz in LTE Band 66, which is a frequency-division duplex (FDD) band. The aim of this effort was to acquire a dataset that could be used to aid the development of computational models for emissions from real-world communication hardware.
+  content: This report documents collection methods for high signal-to-noise ratio
+    (SNR) in-phase and quadrature (I/Q) radio frequency (RF) recordings of long-term
+    evolution (LTE) uplink emissions from a commercial-off-the-shelf (COTS) handset
+    in a fully conducted environment. A base station emulator was used to configure
+    the handset to statically transmit over various LTE physical resource block configuration
+    for 1.4 MHz, 3 MHz, 5 MHz, and 10 MHz uplink channels centered at 1770 MHz in
+    LTE Band 66, which is a frequency-division duplex (FDD) band. The aim of this
+    effort was to acquire a dataset that could be used to aid the development of computational
+    models for emissions from real-world communication hardware.
 series:
 - title:
   - content: NIST technical note; NIST tech note; NIST TN

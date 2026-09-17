@@ -1,3 +1,4 @@
+---
 id: NISTTN2017r1
 schema_version: v1.5.6
 type: standard
@@ -12,7 +13,8 @@ title:
   type: title-part
 - language: en
   script: Latn
-  content: Assessing the performance of residential energy management control algorithms - multi-criteria decision making using the analytical hierarchy process
+  content: Assessing the performance of residential energy management control algorithms
+    - multi-criteria decision making using the analytical hierarchy process
   type: main
 source:
 - type: doi
@@ -69,7 +71,20 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: For homes to become active participants in a smart grid, intelligent control algorithms are needed to facilitate autonomous interactions that take homeowner preferences into consideration. Many control algorithms for demand response have been proposed in the literature. Comparing the performance of these algorithms has been difficult because each algorithm makes different assumptions or considers different scenarios, i.e., peak load reduction or minimizing cost in response to the variable price of electricity. This work proposes a flexible assessment framework using the Analytical Hierarchy Process to compare and rank residential energy management control algorithms. The framework is a hybrid mechanism that derives a ranking from a combination of subjective user input representing preferences, and objective data from the algorithm performance related to energy consumption, cost and comfort. The Analytical Hierarchy Process results in a single overall score used to rank the alternatives. The approach is illustrated by applying the assessment process to six residential energy management control algorithms.
+  content: For homes to become active participants in a smart grid, intelligent control
+    algorithms are needed to facilitate autonomous interactions that take homeowner
+    preferences into consideration. Many control algorithms for demand response have
+    been proposed in the literature. Comparing the performance of these algorithms
+    has been difficult because each algorithm makes different assumptions or considers
+    different scenarios, i.e., peak load reduction or minimizing cost in response
+    to the variable price of electricity. This work proposes a flexible assessment
+    framework using the Analytical Hierarchy Process to compare and rank residential
+    energy management control algorithms. The framework is a hybrid mechanism that
+    derives a ranking from a combination of subjective user input representing preferences,
+    and objective data from the algorithm performance related to energy consumption,
+    cost and comfort. The Analytical Hierarchy Process results in a single overall
+    score used to rank the alternatives. The approach is illustrated by applying the
+    assessment process to six residential energy management control algorithms.
 series:
 - title:
   - content: NIST technical note; NIST tech note; NIST TN

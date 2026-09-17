@@ -1,3 +1,4 @@
+---
 id: NISTTN1907
 schema_version: v1.5.6
 type: standard
@@ -12,7 +13,8 @@ title:
   type: title-part
 - language: en
   script: Latn
-  content: Temperature-dependent material modeling for structural steels - formulation and application
+  content: Temperature-dependent material modeling for structural steels - formulation
+    and application
   type: main
 source:
 - type: doi
@@ -121,7 +123,29 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: This report presents the formulation and application of a newly developed temperature-dependent material model for structural steels. First it presents a model for computing the stress-strain behavior of structural steel for conditions appropriate to fire. The model accounts for the change in yield strength with temperature, the change in the amount of post-yield strain hardening with both temperature and room-temperature yield strength, and the change in strength with increasing strain rate. Then, this NIST stress-strain model is used for predicting flexural buckling of steel columns subjected to elevated temperature. The main focus of this part of the study is to evaluate the applicability of the NIST model for predicting the behavior of steel gravity columns at elevated temperatures using the finite-element method. Besides the stress-strain behavior, another key issue in evaluating the response of structural systems to fire effects is the modeling of fracture, which is required to capture failure modes such as tear out in connection plates and bolt shear. Fracture can be simulated in explicit finite element analysis using element erosion, in which elements are removed from the analysis when specified failure criteria are satisfied. A finite element material modeling methodology is presented for structural steels and bolts at elevated temperatures that incorporates erosion-based modeling of fracture. The failure criterion was calibrated against high- temperature experimental data on elongation of tensile coupons at fracture, and its dependence on temperature and mesh size was investigated. Finally, these temperature-dependent material models for structural steel and bolts that incorporate erosion-based modeling of fracture were implemented to study the performance of steel moment frame assemblies at elevated temperatures.
+  content: This report presents the formulation and application of a newly developed
+    temperature-dependent material model for structural steels. First it presents
+    a model for computing the stress-strain behavior of structural steel for conditions
+    appropriate to fire. The model accounts for the change in yield strength with
+    temperature, the change in the amount of post-yield strain hardening with both
+    temperature and room-temperature yield strength, and the change in strength with
+    increasing strain rate. Then, this NIST stress-strain model is used for predicting
+    flexural buckling of steel columns subjected to elevated temperature. The main
+    focus of this part of the study is to evaluate the applicability of the NIST model
+    for predicting the behavior of steel gravity columns at elevated temperatures
+    using the finite-element method. Besides the stress-strain behavior, another key
+    issue in evaluating the response of structural systems to fire effects is the
+    modeling of fracture, which is required to capture failure modes such as tear
+    out in connection plates and bolt shear. Fracture can be simulated in explicit
+    finite element analysis using element erosion, in which elements are removed from
+    the analysis when specified failure criteria are satisfied. A finite element material
+    modeling methodology is presented for structural steels and bolts at elevated
+    temperatures that incorporates erosion-based modeling of fracture. The failure
+    criterion was calibrated against high- temperature experimental data on elongation
+    of tensile coupons at fracture, and its dependence on temperature and mesh size
+    was investigated. Finally, these temperature-dependent material models for structural
+    steel and bolts that incorporate erosion-based modeling of fracture were implemented
+    to study the performance of steel moment frame assemblies at elevated temperatures.
 series:
 - title:
   - content: NIST technical note; NIST tech note; NIST TN

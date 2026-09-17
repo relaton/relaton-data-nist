@@ -1,3 +1,4 @@
+---
 id: NISTTN2066
 schema_version: v1.5.6
 type: standard
@@ -37,11 +38,22 @@ contributor:
   - type: publisher
   organization:
     name:
-    - content: Information Technology Laboratory (National Institute of Standards and Technology)
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
 abstract:
 - language: en
   script: Latn
-  content: There is a smart grid messaging framework known as an Open Field Message Bus (OpenFMB), which was ratified by the North American Energy Standards Board (NAESB) in March 2016 and has been released as NAESB RMQ.26, Open Field Message Bus (OpenFMB) Model Business Practices. OpenFMB focuses on describing a publish-and-subscribe model of communication for smart grid devices to enable efficient communication of data. Subsequent analysis of OpenFMB and its possible implementations will focus on threat analyses of the framework, implementations, cybersecurity recommendations, and a proof of concept implementation of OpenFMB. The OpenFMB framework is being explored as a way to implement publishsubscribe communications between smart grid network nodes. This paper focuses on the cybersecurity risk implications of deployments and a proof of concept implementation of OpenFMB.
+  content: There is a smart grid messaging framework known as an Open Field Message
+    Bus (OpenFMB), which was ratified by the North American Energy Standards Board
+    (NAESB) in March 2016 and has been released as NAESB RMQ.26, Open Field Message
+    Bus (OpenFMB) Model Business Practices. OpenFMB focuses on describing a publish-and-subscribe
+    model of communication for smart grid devices to enable efficient communication
+    of data. Subsequent analysis of OpenFMB and its possible implementations will
+    focus on threat analyses of the framework, implementations, cybersecurity recommendations,
+    and a proof of concept implementation of OpenFMB. The OpenFMB framework is being
+    explored as a way to implement publishsubscribe communications between smart grid
+    network nodes. This paper focuses on the cybersecurity risk implications of deployments
+    and a proof of concept implementation of OpenFMB.
 series:
 - title:
   - content: NIST technical note; NIST tech note; NIST TN

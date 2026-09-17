@@ -1,3 +1,4 @@
+---
 id: NISTSP800226
 schema_version: v1.5.6
 type: standard
@@ -65,7 +66,13 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: This publication describes differential privacy — a mathematical framework that quantifies privacy loss to entities when their data appears in a dataset. The primary goal of this publication isto help practitioners of all backgrounds better understand how to think about differentially private software solutions. Multiple factorsfor consideration are identified in a differential privacy pyramid along with several privacy hazards, which are common pitfalls that arise as the mathematical framework of differential privacy is realized in practice.
+  content: This publication describes differential privacy — a mathematical framework
+    that quantifies privacy loss to entities when their data appears in a dataset.
+    The primary goal of this publication isto help practitioners of all backgrounds
+    better understand how to think about differentially private software solutions.
+    Multiple factorsfor consideration are identified in a differential privacy pyramid
+    along with several privacy hazards, which are common pitfalls that arise as the
+    mathematical framework of differential privacy is realized in practice.
 series:
 - title:
   - content: NIST special publication

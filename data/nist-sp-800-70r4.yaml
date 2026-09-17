@@ -1,3 +1,4 @@
+---
 id: NISTSP80070r4
 schema_version: v1.5.6
 type: standard
@@ -12,7 +13,8 @@ title:
   type: title-part
 - language: en
   script: Latn
-  content: National checklist program for IT products - guidelines for checklist users and developers
+  content: National checklist program for IT products - guidelines for checklist users
+    and developers
   type: main
 source:
 - type: doi
@@ -68,14 +70,24 @@ contributor:
   - type: publisher
   organization:
     name:
-    - content: Information Technology Laboratory (National Institute of Standards and Technology)
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
     identifier:
     - type: uri
       content: https://id.loc.gov/authorities/names/no97056762
 abstract:
 - language: en
   script: Latn
-  content: A security configuration checklist is a document that contains instructions or procedures for configuring an information technology (IT) product to an operational environment, for verifying that the product has been configured properly, and/or for identifying unauthorized changes to the product. Using these checklists can minimize the attack surface, reduce vulnerabilities, lessen the impact of successful attacks, and identify changes that might otherwise go undetected. To facilitate development of checklists and to make checklists more organized and usable, NIST established the National Checklist Program (NCP). This publication explains how to use the NCP to find and retrieve checklists, and it also describes the policies, procedures, and general requirements for participation in the NCP.
+  content: A security configuration checklist is a document that contains instructions
+    or procedures for configuring an information technology (IT) product to an operational
+    environment, for verifying that the product has been configured properly, and/or
+    for identifying unauthorized changes to the product. Using these checklists can
+    minimize the attack surface, reduce vulnerabilities, lessen the impact of successful
+    attacks, and identify changes that might otherwise go undetected. To facilitate
+    development of checklists and to make checklists more organized and usable, NIST
+    established the National Checklist Program (NCP). This publication explains how
+    to use the NCP to find and retrieve checklists, and it also describes the policies,
+    procedures, and general requirements for participation in the NCP.
 series:
 - title:
   - content: NIST special publication; NIST special pub; NIST SP

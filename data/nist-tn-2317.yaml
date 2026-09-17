@@ -1,3 +1,4 @@
+---
 id: NISTTN2317
 schema_version: v1.5.6
 type: standard
@@ -48,7 +49,15 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: This NIST Technical Note expands last year’s version and presents a comprehensive compilation and evaluation of both self-diffusion and binary diffusion coefficients (D) for species in the gas phase as a function of temperature. Recommended diffusion coefficients are provided with uncertainties at a standard reference temperature (usually 298.15 K) and one atmosphere pressure (101.325 kPa). When data are available, we also give analytical expressions that describe the temperature dependence of the coefficients. In total, around 600 recommended diffusion coefficients for self- and binary pairs involving approximately 240 atoms and molecules are presented, approximately doubling the number of diffusion coefficients in the previous release.
+  content: This NIST Technical Note expands last year’s version and presents a comprehensive
+    compilation and evaluation of both self-diffusion and binary diffusion coefficients
+    (D) for species in the gas phase as a function of temperature. Recommended diffusion
+    coefficients are provided with uncertainties at a standard reference temperature
+    (usually 298.15 K) and one atmosphere pressure (101.325 kPa). When data are available,
+    we also give analytical expressions that describe the temperature dependence of
+    the coefficients. In total, around 600 recommended diffusion coefficients for
+    self- and binary pairs involving approximately 240 atoms and molecules are presented,
+    approximately doubling the number of diffusion coefficients in the previous release.
 series:
 - title:
   - content: NIST technical note

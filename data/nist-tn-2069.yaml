@@ -1,3 +1,4 @@
+---
 id: NISTTN2069
 schema_version: v1.5.6
 type: standard
@@ -207,7 +208,18 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: Characterizations of long-term evolution (LTE) user equipment (UE) emissions are a key ingredient in models of interference between wireless cellular networks and other systems that must use the same radio frequency spectrum. This report presents (i) a laboratory test methodology for measuring LTE UE emissions under a wide range of conditions, and (ii) the results of a factor screening experiment involving 28 factors (e.g., evolved node B (eNB) power control variables, eNB scheduling algorithms, network loading, traffic type) that aimed to determine which factors have a significant impact on physical uplink shared channel (PUSCH) power per physical resource block (PRB). The results given here demonstrate the validity of the proposed test methodology and illustrate how factor screening experiments can be used to better understand the emissions of typical commercial off-the-shelf LTE UEs.
+  content: Characterizations of long-term evolution (LTE) user equipment (UE) emissions
+    are a key ingredient in models of interference between wireless cellular networks
+    and other systems that must use the same radio frequency spectrum. This report
+    presents (i) a laboratory test methodology for measuring LTE UE emissions under
+    a wide range of conditions, and (ii) the results of a factor screening experiment
+    involving 28 factors (e.g., evolved node B (eNB) power control variables, eNB
+    scheduling algorithms, network loading, traffic type) that aimed to determine
+    which factors have a significant impact on physical uplink shared channel (PUSCH)
+    power per physical resource block (PRB). The results given here demonstrate the
+    validity of the proposed test methodology and illustrate how factor screening
+    experiments can be used to better understand the emissions of typical commercial
+    off-the-shelf LTE UEs.
 series:
 - title:
   - content: NIST technical note; NIST tech note; NIST TN

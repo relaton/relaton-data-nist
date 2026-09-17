@@ -1,10 +1,12 @@
+---
 id: NISTSP260198
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: A retuned horwitz procedure for upgrading certificates of older standard reference materials
+  content: A retuned horwitz procedure for upgrading certificates of older standard
+    reference materials
   type: main
 source:
 - type: doi
@@ -52,7 +54,23 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: Many older certified reference materials have certificates of analysis that do not fully comply with ISO Guide 31. This applies to many NIST Standard Reference Materials (SRM) that have published uncertainty estimates not compliant with the GUM or have no uncertainty estimates at all. When older certification records are sparse and insufficient data are available for a full, modern, statistical analysis, it can be useful to apply the concept of the Horwitz formula relating measurement uncertainty to constituent mass fraction across a population of results from a variety of test methods. Because the quality inherent in results obtained during SRM development projects is likely better than the quality of at least some data used by Horwitz to derive the published relationship, it is sensible to retune the concept, using a large set of results from NIST SRM projects. This approach is described with examples provided, and its utility is discussed in comparison to and in combination with alternative approaches such as Type A evaluation using Student?s t coverage intervals and a Bayesian procedure. A six step process is defined to tackle a variety of situations encountered with older SRMs. NIST is applying this approach to upgrade numerous certificates for metals, ores and related materials.
+  content: Many older certified reference materials have certificates of analysis
+    that do not fully comply with ISO Guide 31. This applies to many NIST Standard
+    Reference Materials (SRM) that have published uncertainty estimates not compliant
+    with the GUM or have no uncertainty estimates at all. When older certification
+    records are sparse and insufficient data are available for a full, modern, statistical
+    analysis, it can be useful to apply the concept of the Horwitz formula relating
+    measurement uncertainty to constituent mass fraction across a population of results
+    from a variety of test methods. Because the quality inherent in results obtained
+    during SRM development projects is likely better than the quality of at least
+    some data used by Horwitz to derive the published relationship, it is sensible
+    to retune the concept, using a large set of results from NIST SRM projects. This
+    approach is described with examples provided, and its utility is discussed in
+    comparison to and in combination with alternative approaches such as Type A evaluation
+    using Student?s t coverage intervals and a Bayesian procedure. A six step process
+    is defined to tackle a variety of situations encountered with older SRMs. NIST
+    is applying this approach to upgrade numerous certificates for metals, ores and
+    related materials.
 series:
 - title:
   - content: NIST special publication; NIST special pub; NIST SP

@@ -1,3 +1,4 @@
+---
 id: NISTIR8300
 schema_version: v1.5.6
 type: standard
@@ -62,7 +63,21 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: 'Good registration between the coordinate frames of a perception system and a robot is important for the efficient operation of autonomous systems in vision-guided assembly lines. Rigid-body registration, which is based on the measurement of corresponding points (fiducials) in both frames, is a commonly used method. Noise and possible bias in the measured points degrade the quality of registration as gauged by the Target Registration Error (TRE). A method to restore the rigid body condition (RRBC) was recently developed to reduce TRE when the bias is larger than the noise. This was achieved by applying corrections to target locations in the vision sensor frame. This paper presents two procedures to improve the performance of the RRBC method by: 1) selecting the location of fiducials used for calculating correction to the target location and 2) selecting the correct arm configuration for fiducial from multiple configurations as calculated by inverse kinematics. Experiments performed with a motion tracking system and two different robot arms show that these two procedures can further reduce the Root Mean Square of TRE (RMST) to less than 20 % of the uncorrected RMST.'
+  content: 'Good registration between the coordinate frames of a perception system
+    and a robot is important for the efficient operation of autonomous systems in
+    vision-guided assembly lines. Rigid-body registration, which is based on the measurement
+    of corresponding points (fiducials) in both frames, is a commonly used method.
+    Noise and possible bias in the measured points degrade the quality of registration
+    as gauged by the Target Registration Error (TRE). A method to restore the rigid
+    body condition (RRBC) was recently developed to reduce TRE when the bias is larger
+    than the noise. This was achieved by applying corrections to target locations
+    in the vision sensor frame. This paper presents two procedures to improve the
+    performance of the RRBC method by: 1) selecting the location of fiducials used
+    for calculating correction to the target location and 2) selecting the correct
+    arm configuration for fiducial from multiple configurations as calculated by inverse
+    kinematics. Experiments performed with a motion tracking system and two different
+    robot arms show that these two procedures can further reduce the Root Mean Square
+    of TRE (RMST) to less than 20 % of the uncorrected RMST.'
 series:
 - title:
   - content: NISTIR; NIST IR; NIST interagency report; NIST internal report

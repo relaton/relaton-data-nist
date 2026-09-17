@@ -1,3 +1,4 @@
+---
 id: NISTTN2076
 schema_version: v1.5.6
 type: standard
@@ -189,7 +190,28 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: Channel modeling often provides a basis for the design and deployment of wireless technology. Engineers design systems to operate under certain expected channel conditions. Channel models are typically based on the statistics of a collection of many measurements performed by channel sounders in nominally similar radio-propagation environments. Channel sounders measure characteristics of a radio propagation channel such as path gain, decay time, and angular dispersion, among other channel model metrics. The models developed from these measurements are typically the first step in standardizing a new wireless technology. While many such models currently exist, wireless technology for new use cases is constantly under development, necessitating continued development of new and improved channel models. For example, in the 3550 MHz to 3650 MHz (3.5 GHz) band, rules for spectrum sharing and systems for implementing those rules are being developed based on specific channel models. Success of the spectrum sharing systems will, in part, depend on the accuracy of those models. As another example, it is anticipated that other next-generation wireless systems will operate in the millimeter-wave bands. Here, developing new channel models will be of paramount importance due to the significantly different impact of the propagation phenomena at these higher frequencies. At both microwave and millimeter-wave frequencies, separating measurement uncertainty from channel variations provides rigor for channel-model development and validation. Such measurement uncertainties can be caused by systematic hardware nonidealities, system noise, and the repeatability and reproducibility of the measurements.
+  content: Channel modeling often provides a basis for the design and deployment of
+    wireless technology. Engineers design systems to operate under certain expected
+    channel conditions. Channel models are typically based on the statistics of a
+    collection of many measurements performed by channel sounders in nominally similar
+    radio-propagation environments. Channel sounders measure characteristics of a
+    radio propagation channel such as path gain, decay time, and angular dispersion,
+    among other channel model metrics. The models developed from these measurements
+    are typically the first step in standardizing a new wireless technology. While
+    many such models currently exist, wireless technology for new use cases is constantly
+    under development, necessitating continued development of new and improved channel
+    models. For example, in the 3550 MHz to 3650 MHz (3.5 GHz) band, rules for spectrum
+    sharing and systems for implementing those rules are being developed based on
+    specific channel models. Success of the spectrum sharing systems will, in part,
+    depend on the accuracy of those models. As another example, it is anticipated
+    that other next-generation wireless systems will operate in the millimeter-wave
+    bands. Here, developing new channel models will be of paramount importance due
+    to the significantly different impact of the propagation phenomena at these higher
+    frequencies. At both microwave and millimeter-wave frequencies, separating measurement
+    uncertainty from channel variations provides rigor for channel-model development
+    and validation. Such measurement uncertainties can be caused by systematic hardware
+    nonidealities, system noise, and the repeatability and reproducibility of the
+    measurements.
 series:
 - title:
   - content: NIST technical note; NIST tech note; NIST TN

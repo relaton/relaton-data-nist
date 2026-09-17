@@ -1,3 +1,4 @@
+---
 id: NISTIR8505
 schema_version: v1.5.6
 type: standard
@@ -45,7 +46,14 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: This document addresses the need for effective data protection strategies in the evolving realm of cloud-native network architectures, including multi-cloud environments, service mesh networks, and hybrid infrastructures. By extending foundational data categorization concepts, it provides a framework for aligning data protection approaches with the unknowns of data in transit. Specifically, it explores service mesh architecture, leveraging and emphasizing the capabilities of Web Assembly (WASM) in ensuring robust data protection as sensitive data is transmitted through east-west and north-south communication paths.
+  content: This document addresses the need for effective data protection strategies
+    in the evolving realm of cloud-native network architectures, including multi-cloud
+    environments, service mesh networks, and hybrid infrastructures. By extending
+    foundational data categorization concepts, it provides a framework for aligning
+    data protection approaches with the unknowns of data in transit. Specifically,
+    it explores service mesh architecture, leveraging and emphasizing the capabilities
+    of Web Assembly (WASM) in ensuring robust data protection as sensitive data is
+    transmitted through east-west and north-south communication paths.
 series:
 - title:
   - content: NISTIR

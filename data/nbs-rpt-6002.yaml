@@ -1,10 +1,12 @@
+---
 id: NBSRPT6002
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Transfer characteristics of radio waves propagated between the ionosphere and the Earth at very low frequencies
+  content: Transfer characteristics of radio waves propagated between the ionosphere
+    and the Earth at very low frequencies
   type: main
 source:
 - type: doi
@@ -60,7 +62,16 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: The transfer characteristics (amplitude and phase as a function of frequency) of the sky wave propagated between the D-region and the E-region of the ionosphere and the earth have been evaluated at low and very low frequencies by the geometrical-optical theory employing the quasi-longitudinal approximation of the ionosphere reflection coefficients. Distances, d/j, up to 1000 statute miles are considered and multiple hops or time-modes (j = 1, 2, 3, ... ) are evaluated for a vertical electric dipole source. The effects of the electron density, collision frequency, intensity of the earth's magnetic field and the geometrical parameters are illustrated. The effect of the vertical lapse of the permittivity of the earth's atmosphere is introduced into the computation.
+  content: The transfer characteristics (amplitude and phase as a function of frequency)
+    of the sky wave propagated between the D-region and the E-region of the ionosphere
+    and the earth have been evaluated at low and very low frequencies by the geometrical-optical
+    theory employing the quasi-longitudinal approximation of the ionosphere reflection
+    coefficients. Distances, d/j, up to 1000 statute miles are considered and multiple
+    hops or time-modes (j = 1, 2, 3, ... ) are evaluated for a vertical electric dipole
+    source. The effects of the electron density, collision frequency, intensity of
+    the earth's magnetic field and the geometrical parameters are illustrated. The
+    effect of the vertical lapse of the permittivity of the earth's atmosphere is
+    introduced into the computation.
 series:
 - title:
   - content: NBS report

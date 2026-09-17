@@ -1,3 +1,4 @@
+---
 id: NISTIR8409
 schema_version: v1.5.6
 type: standard
@@ -119,7 +120,25 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: This work evaluates the validity of the Common Vulnerability Scoring System (CVSS) Version 3 ''base score'' equation in capturing the expert opinion of its maintainers. CVSS is a widely used industry standard for rating the severity of information technology vulnerabilities; it is based on human expert opinion. This study is important because the equation design has been questioned since it has features that are both non-intuitive and unjustified by the CVSS specification. If one can show that the equation reflects CVSS expert opinion, then that study justifies the equation and the security community can treat the equation as an opaque box that functions as described. This work shows that the CVSS base score equation closely though not perfectly represents the CVSS maintainers' expert opinion. The CVSS specification itself provides a measurement of error called ''acceptable deviation'' (with a value of 0.5 points). In this work, the distance between the CVSS base scores and the closest consistent scoring systems (ones that completely conform to the recorded expert opinion) is measured. The authors calculate that the mean scoring distance is 0.13 points and the maximum scoring distance is 0.40 points. The acceptable deviation was also measured to be 0.20 points (lower than claimed by the specification). These findings validate that the CVSS base score equation represents the CVSS maintainers' domain knowledge to the extent described by these measurements.
+  content: This work evaluates the validity of the Common Vulnerability Scoring System
+    (CVSS) Version 3 ''base score'' equation in capturing the expert opinion of its
+    maintainers. CVSS is a widely used industry standard for rating the severity of
+    information technology vulnerabilities; it is based on human expert opinion. This
+    study is important because the equation design has been questioned since it has
+    features that are both non-intuitive and unjustified by the CVSS specification.
+    If one can show that the equation reflects CVSS expert opinion, then that study
+    justifies the equation and the security community can treat the equation as an
+    opaque box that functions as described. This work shows that the CVSS base score
+    equation closely though not perfectly represents the CVSS maintainers' expert
+    opinion. The CVSS specification itself provides a measurement of error called
+    ''acceptable deviation'' (with a value of 0.5 points). In this work, the distance
+    between the CVSS base scores and the closest consistent scoring systems (ones
+    that completely conform to the recorded expert opinion) is measured. The authors
+    calculate that the mean scoring distance is 0.13 points and the maximum scoring
+    distance is 0.40 points. The acceptable deviation was also measured to be 0.20
+    points (lower than claimed by the specification). These findings validate that
+    the CVSS base score equation represents the CVSS maintainers' domain knowledge
+    to the extent described by these measurements.
 series:
 - title:
   - content: NISTIR; NIST IR; NIST interagency report; NIST internal report

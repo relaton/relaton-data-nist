@@ -1,3 +1,4 @@
+---
 id: NISTFIPS197Upd1
 schema_version: v1.5.6
 type: standard
@@ -40,7 +41,13 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: 'In 2000, NIST announced the selection of the Rijndael block cipher family as the winner of the Advanced Encryption Standard (AES) competition. Block ciphers are the foundation for many cryptographic services, especially those that provide assurance of the confidentiality of data. Three members of the Rijndael family are specified in this Standard: AES-128, AES-192, and AES-256. Each of them transforms data in blocks of 128 bits, and the numerical suffix indicates the bit length of the associated cryptographic keys.'
+  content: 'In 2000, NIST announced the selection of the Rijndael block cipher family
+    as the winner of the Advanced Encryption Standard (AES) competition. Block ciphers
+    are the foundation for many cryptographic services, especially those that provide
+    assurance of the confidentiality of data. Three members of the Rijndael family
+    are specified in this Standard: AES-128, AES-192, and AES-256. Each of them transforms
+    data in blocks of 128 bits, and the numerical suffix indicates the bit length
+    of the associated cryptographic keys.'
 relation:
 - type: updates
   bibitem:

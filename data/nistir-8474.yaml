@@ -1,3 +1,4 @@
+---
 id: NISTIR8474
 schema_version: v1.5.6
 type: standard
@@ -69,7 +70,12 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: This report documents the equation of state for fluid helium implemented in Version 10 of NIST’s REFPROP Standard Reference Database. The equation of state is expressed as the molar Helmholtz energy as a function of temperature and density, and is valid for the normal fluid (helium I) up to 1500 K and 2000 MPa. Limited comparisons with experimental data and with virial coefficients calculated by ab initio methods are provided.
+  content: This report documents the equation of state for fluid helium implemented
+    in Version 10 of NIST’s REFPROP Standard Reference Database. The equation of state
+    is expressed as the molar Helmholtz energy as a function of temperature and density,
+    and is valid for the normal fluid (helium I) up to 1500 K and 2000 MPa. Limited
+    comparisons with experimental data and with virial coefficients calculated by
+    ab initio methods are provided.
 series:
 - title:
   - content: NISTIR

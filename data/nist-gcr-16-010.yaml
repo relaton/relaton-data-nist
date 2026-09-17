@@ -1,10 +1,12 @@
+---
 id: NISTGCR16010
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Survey and new directions for physics-based attack detection in control systems
+  content: Survey and new directions for physics-based attack detection in control
+    systems
   type: main
 source:
 - type: doi
@@ -94,7 +96,19 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: 'Monitoring the physics of control systems to detect attacks is a growing area of research. In its basic form a security monitor creates time-series models of sensor readings for an industrial control system and identifies anomalies in these measurements in order to identify potentially false control commands or false sensor readings. In this paper, we review previous work based on a unified taxonomy that allows us to identify limitations, unexplored challenges, and new solutions. In particular, we propose a new adversary model and a way to compare previous work with a new evaluation metric based on the trade-off between false alarms and the negative impact of undetected attacks. We also show the advantages and disadvantages of three experimental scenarios to test the performance of attacks and defenses: real-world network data captured from a large-scale operational facility, a fully-functional testbed that can be used operationally for water treatment, and a simulation of frequency control in the power grid.'
+  content: 'Monitoring the physics of control systems to detect attacks is a growing
+    area of research. In its basic form a security monitor creates time-series models
+    of sensor readings for an industrial control system and identifies anomalies in
+    these measurements in order to identify potentially false control commands or
+    false sensor readings. In this paper, we review previous work based on a unified
+    taxonomy that allows us to identify limitations, unexplored challenges, and new
+    solutions. In particular, we propose a new adversary model and a way to compare
+    previous work with a new evaluation metric based on the trade-off between false
+    alarms and the negative impact of undetected attacks. We also show the advantages
+    and disadvantages of three experimental scenarios to test the performance of attacks
+    and defenses: real-world network data captured from a large-scale operational
+    facility, a fully-functional testbed that can be used operationally for water
+    treatment, and a simulation of frequency control in the power grid.'
 series:
 - title:
   - content: NIST GCR; NIST grant-contract report; NIST grant contract report

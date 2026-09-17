@@ -1,3 +1,4 @@
+---
 id: NISTTN1965
 schema_version: v1.5.6
 type: standard
@@ -72,7 +73,17 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: The National Institute of Standards and Technology, Intelligent Systems Division has collected data detailing the performance measurement of a mobile manipulator, i.e., an automatic guided vehicle (AGV) with onboard robot arm from two different manufacturers. The performance measurement concept uses a novel artifact and method that is verified using an optical tracking system (OTS) to measure the AGV and manipulator motion and position uncertainty. Associated data from each of the three systems (AGV, manipulator, and OTS) was collected during two tests and all tests have corresponding timestamps relative to global positioning system (GPS) time, where the computer clocks are synchronized using the Network Time Protocol. This paper provides detailed explanation of the data from mobile manipulator performance measurement tests.
+  content: The National Institute of Standards and Technology, Intelligent Systems
+    Division has collected data detailing the performance measurement of a mobile
+    manipulator, i.e., an automatic guided vehicle (AGV) with onboard robot arm from
+    two different manufacturers. The performance measurement concept uses a novel
+    artifact and method that is verified using an optical tracking system (OTS) to
+    measure the AGV and manipulator motion and position uncertainty. Associated data
+    from each of the three systems (AGV, manipulator, and OTS) was collected during
+    two tests and all tests have corresponding timestamps relative to global positioning
+    system (GPS) time, where the computer clocks are synchronized using the Network
+    Time Protocol. This paper provides detailed explanation of the data from mobile
+    manipulator performance measurement tests.
 series:
 - title:
   - content: NIST technical note; NIST tech note; NIST TN

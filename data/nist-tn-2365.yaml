@@ -1,3 +1,4 @@
+---
 id: NISTTN2365
 schema_version: v1.5.6
 type: standard
@@ -12,7 +13,8 @@ title:
   type: title-part
 - language: en
   script: Latn
-  content: Understanding the risk of lithium-ion battery fires - multi-source data analysis
+  content: Understanding the risk of lithium-ion battery fires - multi-source data
+    analysis
   type: main
 source:
 - type: doi
@@ -96,7 +98,18 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: 'Lithium ion battery (LIB) fires are a growing problem that extends across the supply chain, including mining, production, warehousing, shipping, and waste disposal, as well as the consumer side. But data on such fires is fragmented and mostly incomplete. Many are secondary data sources, and for NFIRS and the CPSC data sets identification of LIB fires is difficult. Multiple independent data sources make it possible to estimate numbers on some types of fires. There have been an estimated 5718 (95 %CI: 2866 – 10 846) electric vehicle and plugin hybrid fires, and an estimated 198 000 (95 %CI: 84 000 – 465 000) LIB fires in structures since 2011. Plugin electric vehicle fires are growing at the rate of about 45 % (± 11.3 %) per year. Consumer LIB fires appear to be growing at a rate of 10 % (CI: 7.1 – 13.0) per year. The findings indicate a substantial underestimation in current reporting.'
+  content: 'Lithium ion battery (LIB) fires are a growing problem that extends across
+    the supply chain, including mining, production, warehousing, shipping, and waste
+    disposal, as well as the consumer side. But data on such fires is fragmented and
+    mostly incomplete. Many are secondary data sources, and for NFIRS and the CPSC
+    data sets identification of LIB fires is difficult. Multiple independent data
+    sources make it possible to estimate numbers on some types of fires. There have
+    been an estimated 5718 (95 %CI: 2866 – 10 846) electric vehicle and plugin hybrid
+    fires, and an estimated 198 000 (95 %CI: 84 000 – 465 000) LIB fires in structures
+    since 2011. Plugin electric vehicle fires are growing at the rate of about 45
+    % (± 11.3 %) per year. Consumer LIB fires appear to be growing at a rate of 10
+    % (CI: 7.1 – 13.0) per year. The findings indicate a substantial underestimation
+    in current reporting.'
 series:
 - title:
   - content: NIST technical note

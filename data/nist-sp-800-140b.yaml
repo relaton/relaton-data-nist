@@ -1,3 +1,4 @@
+---
 id: NISTSP800140B
 schema_version: v1.5.6
 type: standard
@@ -8,11 +9,13 @@ title:
   type: title-main
 - language: en
   script: Latn
-  content: CMVP validation authority updates to ISO/IEC 24759 and ISO/IEC 19790 Annex B
+  content: CMVP validation authority updates to ISO/IEC 24759 and ISO/IEC 19790 Annex
+    B
   type: title-part
 - language: en
   script: Latn
-  content: CMVP security policy requirements - CMVP validation authority updates to ISO/IEC 24759 and ISO/IEC 19790 Annex B
+  content: CMVP security policy requirements - CMVP validation authority updates to
+    ISO/IEC 24759 and ISO/IEC 19790 Annex B
   type: main
 source:
 - type: doi
@@ -41,14 +44,22 @@ contributor:
   - type: publisher
   organization:
     name:
-    - content: Information Technology Laboratory (National Institute of Standards and Technology)
+    - content: Information Technology Laboratory (National Institute of Standards
+        and Technology)
     identifier:
     - type: uri
       content: https://id.loc.gov/authorities/names/no97056762
 abstract:
 - language: en
   script: Latn
-  content: NIST Special Publication (SP) 800-140B is to be used in conjunction with ISO/IEC 19790 Annex B and ISO/IEC 24759 6.14. The special publication modifies only those requirements identified in this document. SP 800-140B also specifies the content of the tabular and graphical information required in ISO/IEC 19790 Annex B. As a validation authority, the Cryptographic Module Validation Program (CMVP) may modify, add, or delete Vendor Evidence (VE) and/or Test Evidence (TE) specified under paragraph 6.14 of the ISO/IEC 24759 and specify the order of the security policy as specified in ISO/IEC 19790:2012 B.1.
+  content: NIST Special Publication (SP) 800-140B is to be used in conjunction with
+    ISO/IEC 19790 Annex B and ISO/IEC 24759 6.14. The special publication modifies
+    only those requirements identified in this document. SP 800-140B also specifies
+    the content of the tabular and graphical information required in ISO/IEC 19790
+    Annex B. As a validation authority, the Cryptographic Module Validation Program
+    (CMVP) may modify, add, or delete Vendor Evidence (VE) and/or Test Evidence (TE)
+    specified under paragraph 6.14 of the ISO/IEC 24759 and specify the order of the
+    security policy as specified in ISO/IEC 19790:2012 B.1.
 series:
 - title:
   - content: NIST special publication; NIST special pub; NIST SP

@@ -1,3 +1,4 @@
+---
 id: NISTTN1933
 schema_version: v1.5.6
 type: standard
@@ -46,7 +47,19 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: Achieving national goals of net zero energy buildings requires substantial reduction in the energy consumption of commercial building systems. In 2015, commercial buildings consumed 18 % of the total energy consumed in the U.S. [1]. Although significant progress has been made in the integration of building control systems through the development of standard communication protocols, such as BACnet and BACnet/IP, little progress has been made in making them intelligent about optimizing building system-level performance. The purpose of this project is to demonstrate the potential for distributed, intelligent software agents to perform this optimization and to develop a research infrastructure suitable for development and testing of advanced agent-based optimization techniques that can improve the energy and comfort performance of building systems. Towards that goal, the Intelligent Building Agents Laboratory (IBAL) has been constructed to act as a testbed for these intelligent control algorithms. This note describes the design of a portion of that facility.
+  content: Achieving national goals of net zero energy buildings requires substantial
+    reduction in the energy consumption of commercial building systems. In 2015, commercial
+    buildings consumed 18 % of the total energy consumed in the U.S. [1]. Although
+    significant progress has been made in the integration of building control systems
+    through the development of standard communication protocols, such as BACnet and
+    BACnet/IP, little progress has been made in making them intelligent about optimizing
+    building system-level performance. The purpose of this project is to demonstrate
+    the potential for distributed, intelligent software agents to perform this optimization
+    and to develop a research infrastructure suitable for development and testing
+    of advanced agent-based optimization techniques that can improve the energy and
+    comfort performance of building systems. Towards that goal, the Intelligent Building
+    Agents Laboratory (IBAL) has been constructed to act as a testbed for these intelligent
+    control algorithms. This note describes the design of a portion of that facility.
 series:
 - title:
   - content: NIST technical note; NIST tech note; NIST TN

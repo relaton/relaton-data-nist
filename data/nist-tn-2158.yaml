@@ -1,4 +1,3 @@
----
 id: NISTTN2158
 schema_version: v1.5.6
 type: standard
@@ -57,22 +56,7 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: 'NIST has developed a software package that allows users to fit test results
-    obtained from Charpy or toughness tests as a function of test temperature, thereby
-    obtaining so-called transition curves. Non-linear fitting is available for five
-    regression models, two symmetric and three asymmetric, selected from the literature.
-    The NIST software package includes: an Excel spreadsheet to establish initial
-    values for model parameters, allowing users to obtain meaningful results for the
-    asymmetric models, a Shiny App (web-based interface for R code) that provides
-    an advanced analysis, including confidence bounds and uncertainties for the estimated
-    parameters, and a macro-enabled Excel spreadsheet for a basic-level analysis (regressions
-    curves, characteristic temperatures, and model selection statistics). Example
-    data sets are also included in the NIST software package. The NIST software is
-    tested on three Charpy absorbed energy datasets. Two datasets correspond to actual
-    impact test results performed on various pipeline steels, while the third is a
-    simulated dataset generated from predetermined model parameters. These datasets
-    allow a thorough demonstration of the NIST software. The software is freely available
-    to the scientific community for research purposes.'
+  content: 'NIST has developed a software package that allows users to fit test results obtained from Charpy or toughness tests as a function of test temperature, thereby obtaining so-called transition curves. Non-linear fitting is available for five regression models, two symmetric and three asymmetric, selected from the literature. The NIST software package includes: an Excel spreadsheet to establish initial values for model parameters, allowing users to obtain meaningful results for the asymmetric models, a Shiny App (web-based interface for R code) that provides an advanced analysis, including confidence bounds and uncertainties for the estimated parameters, and a macro-enabled Excel spreadsheet for a basic-level analysis (regressions curves, characteristic temperatures, and model selection statistics). Example data sets are also included in the NIST software package. The NIST software is tested on three Charpy absorbed energy datasets. Two datasets correspond to actual impact test results performed on various pipeline steels, while the third is a simulated dataset generated from predetermined model parameters. These datasets allow a thorough demonstration of the NIST software. The software is freely available to the scientific community for research purposes.'
 series:
 - title:
   - content: NIST technical note; NIST tech note; NIST TN

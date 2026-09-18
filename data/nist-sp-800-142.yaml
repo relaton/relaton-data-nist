@@ -1,4 +1,3 @@
----
 id: NISTSP800142
 schema_version: v1.5.6
 type: standard
@@ -53,20 +52,7 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: Combinatorial testing can help detect problems like this early in the testing
-    life cycle. The key insight underlying t-way combinatorial testing is that not
-    every parameter contributes to every fault and most faults are caused by interactions
-    between a relatively small number of parameters. This publication provides a self-contained
-    tutorial on using combinatorial testing for real-world software, including how
-    to use it effectively for system and software assurance. It introduces the key
-    concepts and methods, explains use of software tools for generating combinatorial
-    tests (freely available on the NIST web site csrc.nist.gov/acts), and discusses
-    advanced topics such as the use of formal models of software to determine the
-    expected results for each set of test inputs. With each topic, a section on costs
-    and practical considerations explains tradeoffs and limitations that may impact
-    resources or funding. The material is accessible to an undergraduate student of
-    computer science or engineering, and includes an extensive set of references to
-    papers that provide more depth on each topic.
+  content: Combinatorial testing can help detect problems like this early in the testing life cycle. The key insight underlying t-way combinatorial testing is that not every parameter contributes to every fault and most faults are caused by interactions between a relatively small number of parameters. This publication provides a self-contained tutorial on using combinatorial testing for real-world software, including how to use it effectively for system and software assurance. It introduces the key concepts and methods, explains use of software tools for generating combinatorial tests (freely available on the NIST web site csrc.nist.gov/acts), and discusses advanced topics such as the use of formal models of software to determine the expected results for each set of test inputs. With each topic, a section on costs and practical considerations explains tradeoffs and limitations that may impact resources or funding. The material is accessible to an undergraduate student of computer science or engineering, and includes an extensive set of references to papers that provide more depth on each topic.
 series:
 - title:
   - content: NIST special publication; NIST special pub; NIST SP

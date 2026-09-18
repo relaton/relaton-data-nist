@@ -1,12 +1,10 @@
----
 id: NISTIR8545
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Status report on the fourth round of the NIST post-quantum cryptography
-    standardization process
+  content: Status report on the fourth round of the NIST post-quantum cryptography standardization process
   type: main
 source:
 - type: doi
@@ -200,30 +198,7 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: 'The National Institute of Standards and Technology is selecting public-key
-    cryptographic algorithms through a public, competition-like process. The new public-key
-    cryptography standards will specify additional digital signatures, public-key
-    encryption, and key-establishment algorithms to supplement Federal Information
-    Processing Standard (FIPS) 186-5, Digital Signature Standard (DSS), as well as
-    NIST Special Publication (SP) 800-56A Revision 3, Recommendation for Pair-Wise
-    Key-Establishment Schemes Using Discrete Logarithm Cryptography, and SP 800-56B
-    Revision 2, Recommendation for Pair-Wise Key Establishment Using Integer Factorization
-    Cryptography. It is intended that these algorithms will be capable of protecting
-    sensitive information well into the foreseeable future, including after the advent
-    of quantum computers. After three rounds of evaluation and analysis, NIST announced
-    the selection of the first algorithms to be standardized \cite {NISTIR8413}. The
-    public-key encapsulation mechanism (KEM) selected for standardization was CRYSTALS-Kyber
-    (ML-KEM). The digital signatures selected were CRYSTALS-Di lithium (ML-DSA), Falcon
-    (FN-DSA), and SPHINCS+ (SLH-DSA). In August 2024, NIST published the first three
-    post-quantum cryptography standards based on these algorithms \cite {FIPS203,
-    FIPS204, FIPS205}. Four candidate algorithms for key establishment have continued
-    to be studied in a fourth round of analysis: BIKE, Classic McEliece, HQC, and
-    SIKE. This report describes the evaluation and selection process of these fourth-round
-    candidates based on public feedback and internal review. The report summarizes
-    each of the candidate algorithms and identifies those selected for standardization.
-    The only key-establishment algorithm that will be standardized is HQC. NIST will
-    develop a standard based on HQC to augment and diversify its key-establishment
-    portfolio.'
+  content: 'The National Institute of Standards and Technology is selecting public-key cryptographic algorithms through a public, competition-like process. The new public-key cryptography standards will specify additional digital signatures, public-key encryption, and key-establishment algorithms to supplement Federal Information Processing Standard (FIPS) 186-5, Digital Signature Standard (DSS), as well as NIST Special Publication (SP) 800-56A Revision 3, Recommendation for Pair-Wise Key-Establishment Schemes Using Discrete Logarithm Cryptography, and SP 800-56B Revision 2, Recommendation for Pair-Wise Key Establishment Using Integer Factorization Cryptography. It is intended that these algorithms will be capable of protecting sensitive information well into the foreseeable future, including after the advent of quantum computers. After three rounds of evaluation and analysis, NIST announced the selection of the first algorithms to be standardized \cite {NISTIR8413}. The public-key encapsulation mechanism (KEM) selected for standardization was CRYSTALS-Kyber (ML-KEM). The digital signatures selected were CRYSTALS-Di lithium (ML-DSA), Falcon (FN-DSA), and SPHINCS+ (SLH-DSA). In August 2024, NIST published the first three post-quantum cryptography standards based on these algorithms \cite {FIPS203, FIPS204, FIPS205}. Four candidate algorithms for key establishment have continued to be studied in a fourth round of analysis: BIKE, Classic McEliece, HQC, and SIKE. This report describes the evaluation and selection process of these fourth-round candidates based on public feedback and internal review. The report summarizes each of the candidate algorithms and identifies those selected for standardization. The only key-establishment algorithm that will be standardized is HQC. NIST will develop a standard based on HQC to augment and diversify its key-establishment portfolio.'
 series:
 - title:
   - content: NISTIR

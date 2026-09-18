@@ -1,12 +1,10 @@
----
 id: NISTIR8161
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Recommendation: closed circuit television (CCTV) digital video export
-    profile level 0'
+  content: 'Recommendation: closed circuit television (CCTV) digital video export profile level 0'
   type: main
 source:
 - type: doi
@@ -53,27 +51,14 @@ contributor:
   - type: publisher
   organization:
     name:
-    - content: Information Technology Laboratory (National Institute of Standards
-        and Technology)
+    - content: Information Technology Laboratory (National Institute of Standards and Technology)
     identifier:
     - type: uri
       content: https://id.loc.gov/authorities/names/no97056762
 abstract:
 - language: en
   script: Latn
-  content: This document is a recommendation prescribing a data interchange format
-    for the syntactic representation of information needed to achieve a base Level
-    0 of interoperability when exporting and processing video recordings captured
-    by closed circuit television (CCTV) digital video recording (DVR) systems. In
-    summary, this profile of standards leverages the Moving Picture Experts Group-4
-    (MPEG-4) Part 14 (MP4) digital multimedia file container, storing one H.264 encoded
-    digital video bitstream containing embedded time codes defined by the Motion Industry
-    Standards Board (MISB), and Extensible Metadata Platform (XMP)-formatted metadata
-    that is used to determine a CCTV DVR System Clock Offset. The video output format
-    described in this document has been developed to support law enforcement investigations.
-    This specification was prepared by the National Institute of Standards and Technology
-    (NIST), in collaboration with the Federal Bureau of Investigation, and in conjunction
-    with the CCTV / DVR community.
+  content: This document is a recommendation prescribing a data interchange format for the syntactic representation of information needed to achieve a base Level 0 of interoperability when exporting and processing video recordings captured by closed circuit television (CCTV) digital video recording (DVR) systems. In summary, this profile of standards leverages the Moving Picture Experts Group-4 (MPEG-4) Part 14 (MP4) digital multimedia file container, storing one H.264 encoded digital video bitstream containing embedded time codes defined by the Motion Industry Standards Board (MISB), and Extensible Metadata Platform (XMP)-formatted metadata that is used to determine a CCTV DVR System Clock Offset. The video output format described in this document has been developed to support law enforcement investigations. This specification was prepared by the National Institute of Standards and Technology (NIST), in collaboration with the Federal Bureau of Investigation, and in conjunction with the CCTV / DVR community.
 series:
 - title:
   - content: NISTIR; NIST IR; NIST interagency report; NIST internal report

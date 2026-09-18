@@ -1,12 +1,10 @@
----
 id: NISTIR8454
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Status report on the final round of the NIST lightweight cryptography standardization
-    process
+  content: Status report on the final round of the NIST lightweight cryptography standardization process
   type: main
 source:
 - type: doi
@@ -110,19 +108,7 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: The National Institute of Standards and Technology (NIST) initiated a public
-    standardization process to select one or more schemes that provide Authenticated
-    Encryption with Associated Data (AEAD) and optional hashing functionalities and
-    are suitable for constrained environments. In February 2019, 57 candidates were
-    submitted to NIST for consideration. Among these, 56 were accepted as first-round
-    candidates in April 2019. After four months, NIST selected 32 of the candidates
-    for the second round. In March 2021, NIST announced 10 finalists – namely ASCON,
-    Elephant, GIFT-COFB, Grain-128AEAD, ISAP, PHOTON-Beetle, Romulus, SPARKLE, TinyJAMBU,
-    and Xoodyak – to move forward to the final round of the selection process. On
-    February 7, 2023, NIST announced the decision to standardize the ASCON family
-    for lightweight cryptography applications. This report describes the evaluation
-    criteria and selection process, which is based on public feedback and internal
-    review of the finalists.
+  content: The National Institute of Standards and Technology (NIST) initiated a public standardization process to select one or more schemes that provide Authenticated Encryption with Associated Data (AEAD) and optional hashing functionalities and are suitable for constrained environments. In February 2019, 57 candidates were submitted to NIST for consideration. Among these, 56 were accepted as first-round candidates in April 2019. After four months, NIST selected 32 of the candidates for the second round. In March 2021, NIST announced 10 finalists – namely ASCON, Elephant, GIFT-COFB, Grain-128AEAD, ISAP, PHOTON-Beetle, Romulus, SPARKLE, TinyJAMBU, and Xoodyak – to move forward to the final round of the selection process. On February 7, 2023, NIST announced the decision to standardize the ASCON family for lightweight cryptography applications. This report describes the evaluation criteria and selection process, which is based on public feedback and internal review of the finalists.
 series:
 - title:
   - content: NISTIR

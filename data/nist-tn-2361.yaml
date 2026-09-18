@@ -1,4 +1,3 @@
----
 id: NISTTN2361
 schema_version: v1.5.6
 type: standard
@@ -13,8 +12,7 @@ title:
   type: title-part
 - language: en
   script: Latn
-  content: Validating LLM-generated data grounded in technical documents - an application
-    in community planning
+  content: Validating LLM-generated data grounded in technical documents - an application in community planning
   type: main
 source:
 - type: doi
@@ -78,19 +76,7 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: This report presents a novel approach to generating synthetic variations
-    of technical community planning documents using Large Language Models (LLMs).
-    We developed a comprehensive framework for transforming domain-specific resilience,
-    adaptation, and sustainability (RAS) planning documents into more user-friendly
-    versions while preserving semantic content. Our methodology employs multiple modification
-    strategies including linguistic simplification, jargon removal, content augmentation,
-    and tone adjustment, implemented through parallel processing pipelines. The system
-    generates both individual and cumulative document modifications, which are then
-    validated using a comprehensive framework that includes multiple similarity metrics.
-    This validation framework provides a robust assessment of the semantic preservation
-    achieved by the user-friendly modified documents. The process provides a template
-    for generating and validating rich data while balancing user needs and maintaining
-    technical accuracy in specialized domains.
+  content: This report presents a novel approach to generating synthetic variations of technical community planning documents using Large Language Models (LLMs). We developed a comprehensive framework for transforming domain-specific resilience, adaptation, and sustainability (RAS) planning documents into more user-friendly versions while preserving semantic content. Our methodology employs multiple modification strategies including linguistic simplification, jargon removal, content augmentation, and tone adjustment, implemented through parallel processing pipelines. The system generates both individual and cumulative document modifications, which are then validated using a comprehensive framework that includes multiple similarity metrics. This validation framework provides a robust assessment of the semantic preservation achieved by the user-friendly modified documents. The process provides a template for generating and validating rich data while balancing user needs and maintaining technical accuracy in specialized domains.
 series:
 - title:
   - content: NIST technical note

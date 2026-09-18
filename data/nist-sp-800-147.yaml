@@ -1,4 +1,3 @@
----
 id: NISTSP800147
 schema_version: v1.5.6
 type: standard
@@ -60,24 +59,7 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: This document provides guidelines for preventing the unauthorized modification
-    of Basic Input/Output System (BIOS) firmware on PC client systems. Unauthorized
-    modification of BIOS firmware by malicious software constitutes a significant
-    threat because of the BIOS⁰₉s unique and privileged position within the PC architecture.
-    A malicious BIOS modification could be part of a sophisticated, targeted attack
-    on an organization ⁰₄either a permanent denial of service (if the BIOS is corrupted)
-    or a persistent malware presence (if the BIOS is implanted with malware). As used
-    in this publication, the term BIOS refers to conventional BIOS, Extensible Firmware
-    Interface (EFI) BIOS, and Unified Extensible Firmware Interface (UEFI) BIOS. This
-    document applies to system BIOS firmware (e.g., conventional BIOS or UEFI BIOS)
-    stored in the system flash memory of computer systems, including portions that
-    may be formatted as Option ROMs. However, it does not apply to Option ROMs, UEFI
-    drivers, and firmware stored elsewhere in a computer system. While this document
-    focuses on current and future x86 and x64 client platforms, the controls and procedures
-    are independent of any particular system design. Likewise, although the guide
-    is oriented toward enterprise-class platforms, the necessary technologies are
-    expected to migrate to consumer-grade systems over time. Future efforts may look
-    at boot firmware security for enterprise server platforms.
+  content: This document provides guidelines for preventing the unauthorized modification of Basic Input/Output System (BIOS) firmware on PC client systems. Unauthorized modification of BIOS firmware by malicious software constitutes a significant threat because of the BIOS⁰₉s unique and privileged position within the PC architecture. A malicious BIOS modification could be part of a sophisticated, targeted attack on an organization ⁰₄either a permanent denial of service (if the BIOS is corrupted) or a persistent malware presence (if the BIOS is implanted with malware). As used in this publication, the term BIOS refers to conventional BIOS, Extensible Firmware Interface (EFI) BIOS, and Unified Extensible Firmware Interface (UEFI) BIOS. This document applies to system BIOS firmware (e.g., conventional BIOS or UEFI BIOS) stored in the system flash memory of computer systems, including portions that may be formatted as Option ROMs. However, it does not apply to Option ROMs, UEFI drivers, and firmware stored elsewhere in a computer system. While this document focuses on current and future x86 and x64 client platforms, the controls and procedures are independent of any particular system design. Likewise, although the guide is oriented toward enterprise-class platforms, the necessary technologies are expected to migrate to consumer-grade systems over time. Future efforts may look at boot firmware security for enterprise server platforms.
 series:
 - title:
   - content: NIST special publication; NIST special pub; NIST SP

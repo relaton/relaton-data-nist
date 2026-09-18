@@ -1,4 +1,3 @@
----
 id: NISTSP80038D
 schema_version: v1.5.6
 type: standard
@@ -13,8 +12,7 @@ title:
   type: title-part
 - language: en
   script: Latn
-  content: Recommendation for block cipher modes of operation - Galois/Counter Mode
-    (GCM) and GMAC
+  content: Recommendation for block cipher modes of operation - Galois/Counter Mode (GCM) and GMAC
   type: main
 source:
 - type: doi
@@ -51,11 +49,7 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies the Galois/Counter Mode (GCM), an algorithm
-    for authenticated encryption with associated data, and its specialization, GMAC,
-    for generating a message authentication code (MAC) on data that is not encrypted.
-    GCM and GMAC are modes of operation for an underlying approved symmetric key block
-    cipher.
+  content: This Recommendation specifies the Galois/Counter Mode (GCM), an algorithm for authenticated encryption with associated data, and its specialization, GMAC, for generating a message authentication code (MAC) on data that is not encrypted. GCM and GMAC are modes of operation for an underlying approved symmetric key block cipher.
 series:
 - title:
   - content: NIST special publication; NIST special pub; NIST SP

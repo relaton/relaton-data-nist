@@ -1,4 +1,3 @@
----
 id: NISTIR2311
 schema_version: v1.5.6
 type: standard
@@ -13,8 +12,7 @@ title:
   type: title-part
 - language: en
   script: Latn
-  content: Blueprint for deploying 5G O-RAN testbeds - a guide to using diverse O-RAN
-    software stacks
+  content: Blueprint for deploying 5G O-RAN testbeds - a guide to using diverse O-RAN software stacks
   type: main
 source:
 - type: doi
@@ -108,19 +106,7 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: This documentation serves as a blueprint for new researchers, offering
-    a comprehensive guide on establishing an Open Radio Access Network (O-RAN) testbed
-    from scratch. It details the O-RAN architecture and the supporting software stacks
-    required for each component, and provides both aggregated and disaggregated deployment
-    scenarios tested on our testbeds. The guide provides thorough installation instructions
-    for each software stack we tested. In addition, a testbed example of a disaggregated
-    scenario is used to demonstrate proper configurations and practical operations
-    to test the connection and interoperation between the deployed O-RAN components.
-    Moreover, this documentation introduces our innovative automation tool, designed
-    to streamline the installation and configuration of some O-RAN components, ensuring
-    a more efficient deployment process. This publication aims to equip researchers
-    with the foundational knowledge and practical steps needed to initiate and manage
-    their own O-RAN testbeds effectively.
+  content: This documentation serves as a blueprint for new researchers, offering a comprehensive guide on establishing an Open Radio Access Network (O-RAN) testbed from scratch. It details the O-RAN architecture and the supporting software stacks required for each component, and provides both aggregated and disaggregated deployment scenarios tested on our testbeds. The guide provides thorough installation instructions for each software stack we tested. In addition, a testbed example of a disaggregated scenario is used to demonstrate proper configurations and practical operations to test the connection and interoperation between the deployed O-RAN components. Moreover, this documentation introduces our innovative automation tool, designed to streamline the installation and configuration of some O-RAN components, ensuring a more efficient deployment process. This publication aims to equip researchers with the foundational knowledge and practical steps needed to initiate and manage their own O-RAN testbeds effectively.
 series:
 - title:
   - content: NIST technical note

@@ -1,4 +1,3 @@
----
 id: NISTAI8003
 schema_version: v1.5.6
 type: standard
@@ -89,22 +88,7 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: Benchmarks are widely used to evaluate and compare the performance of artificial
-    intelligence systems. However, some approaches to computing benchmark metrics
-    produce invalid uncertainty estimates or make unrecognized assumptions about the
-    evaluation setting. We leverage statistical modeling to make two contributions
-    to the practice of AI benchmarking. First, we formally distinguish measurements
-    of benchmark accuracy (performance conditioned on a fixed benchmark) from generalized
-    accuracy (performance on all potential test items similar to those included in
-    the benchmark). Then, in a simulated setting and with large-scale evaluation of
-    22 API-access frontier large language models on 3 popular benchmarks, we show
-    how analysis via generalized linear mixed models can accurately estimate generalized
-    accuracy while more efficiently quantifying uncertainty compared to existing regression-free
-    approaches. We also show how this approach can equip evaluators with important
-    context on evaluation results, including variance decomposition and item difficulty
-    estimates that illuminate important aspects of LLM performance and benchmark construction.
-    Our findings highlight the benefits of explicitly specifying a statistical model
-    for more accurate and reliable AI benchmarking.
+  content: Benchmarks are widely used to evaluate and compare the performance of artificial intelligence systems. However, some approaches to computing benchmark metrics produce invalid uncertainty estimates or make unrecognized assumptions about the evaluation setting. We leverage statistical modeling to make two contributions to the practice of AI benchmarking. First, we formally distinguish measurements of benchmark accuracy (performance conditioned on a fixed benchmark) from generalized accuracy (performance on all potential test items similar to those included in the benchmark). Then, in a simulated setting and with large-scale evaluation of 22 API-access frontier large language models on 3 popular benchmarks, we show how analysis via generalized linear mixed models can accurately estimate generalized accuracy while more efficiently quantifying uncertainty compared to existing regression-free approaches. We also show how this approach can equip evaluators with important context on evaluation results, including variance decomposition and item difficulty estimates that illuminate important aspects of LLM performance and benchmark construction. Our findings highlight the benefits of explicitly specifying a statistical model for more accurate and reliable AI benchmarking.
 series:
 - title:
   - content: NIST trustworthy and responsible AI

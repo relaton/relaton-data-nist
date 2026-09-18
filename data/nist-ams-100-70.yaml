@@ -1,12 +1,10 @@
----
 id: NISTAMS10070
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Theory and computation of median straight lines and planes in coordinate
-    metrology
+  content: Theory and computation of median straight lines and planes in coordinate metrology
   type: main
 source:
 - type: doi
@@ -74,20 +72,7 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: This paper presents the theoretical foundation and computational techniques
-    for establishing median straight lines and planes for point-clouds in coordinate
-    metrology. The theoretical foundation is based on an optimization formulation
-    that exploits the invariant and equivariant properties of the point-clouds that
-    reside in a Euclidean metric space. The optimization formulation leads directly
-    to versatile computational approaches. The paper shows that the computational
-    challenges can be easily overcome with readily available, free, and high-quality
-    software packages. Such median fits are advantageous in many areas including when
-    one-sided anomalies (which arise in some advanced manufacturing contexts and in
-    some advanced measurement systems) should be ignored. Additional application of
-    median straight lines and planes involves a standardized approach to handling
-    outliers in coordinate metrology. Further applications involve standardized specification
-    of tolerance zones using quartile and percentile zones, thus introducing rank-order
-    statistics in the field of geometrical tolerancing and related metrological practices.
+  content: This paper presents the theoretical foundation and computational techniques for establishing median straight lines and planes for point-clouds in coordinate metrology. The theoretical foundation is based on an optimization formulation that exploits the invariant and equivariant properties of the point-clouds that reside in a Euclidean metric space. The optimization formulation leads directly to versatile computational approaches. The paper shows that the computational challenges can be easily overcome with readily available, free, and high-quality software packages. Such median fits are advantageous in many areas including when one-sided anomalies (which arise in some advanced manufacturing contexts and in some advanced measurement systems) should be ignored. Additional application of median straight lines and planes involves a standardized approach to handling outliers in coordinate metrology. Further applications involve standardized specification of tolerance zones using quartile and percentile zones, thus introducing rank-order statistics in the field of geometrical tolerancing and related metrological practices.
 series:
 - title:
   - content: NIST advanced manufacturing series

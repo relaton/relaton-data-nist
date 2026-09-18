@@ -1,12 +1,10 @@
----
 id: NISTTN2344
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Measuring the effectiveness of linnik blind deconvolution in nanoscale
-    electron microscopy, by computing image Lipschitz exponents
+  content: Measuring the effectiveness of linnik blind deconvolution in nanoscale electron microscopy, by computing image Lipschitz exponents
   type: main
 source:
 - type: doi
@@ -50,16 +48,7 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: "A large class of images \U0001D453(\U0001D465, \U0001D466), including
-    nanoscale electron microscopy images, are not of bounded variation, but belong
-    to Lipschitz (Besov) spaces Λ(\U0001D6FC, 1, ∞). The parameter\U0001D6FC, where
-    0 < \U0001D6FC < 1, is called the Lipschitz exponent of \U0001D453(\U0001D465,
-    \U0001D466), and it measures the natural unsmoothness of \U0001D453(\U0001D465,
-    \U0001D466), provided that image is largely noise free. The present paper computes
-    the Lipschitz exponents achieved in a previous paper, [1], where several electron
-    microscopy images were deblurred using Linnik blind deconvolution. The present
-    computations show that the Lipschitz exponents in these microscopy images were
-    reduced by more than 33%"
+  content: A large class of images 𝑓(𝑥, 𝑦), including nanoscale electron microscopy images, are not of bounded variation, but belong to Lipschitz (Besov) spaces Λ(𝛼, 1, ∞). The parameter𝛼, where 0 < 𝛼 < 1, is called the Lipschitz exponent of 𝑓(𝑥, 𝑦), and it measures the natural unsmoothness of 𝑓(𝑥, 𝑦), provided that image is largely noise free. The present paper computes the Lipschitz exponents achieved in a previous paper, [1], where several electron microscopy images were deblurred using Linnik blind deconvolution. The present computations show that the Lipschitz exponents in these microscopy images were reduced by more than 33%
 series:
 - title:
   - content: NIST technical note; NIST tech note; NIST TN

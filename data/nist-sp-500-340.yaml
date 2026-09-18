@@ -1,4 +1,3 @@
----
 id: NISTSP500340
 schema_version: v1.5.6
 type: standard
@@ -86,27 +85,7 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: 'Nascent technologies show promise in collecting 500 ppi fingerprints in
-    a contactless fashion while yielding various improvements in the collection process
-    over legacy contact collection methods currently in use throughout the world.
-    While it has been shown that these new devices show promise in producing imagery
-    that may be interoperable with legacy contact collected images [25][31], the contactless
-    devices may be prone to capturing superfluous data (e.g., fingernail, finger background,
-    or other imaging artifacts) pushing existing friction ridge algorithms meant for
-    contact collection beyond those images for which they were originally designed.
-    Image compression algorithms are highly sensitive to information content and complexity
-    of the image being processed [32]. Currently there are two compression algorithms
-    specified for fingerprints: WSQ for 500 ppi and JPEG 2000 for the more information-rich
-    1000 ppi fingerprint imagery [27].It was hypothesized that the more information-rich
-    contactless-collected imagery, while being captured at the same sampling rate
-    as legacy 500 ppi contact collected fingerprint imagery, may be better suited
-    for the JPEG 2000 specification meant for the more information rich 1000 ppi imagery.Analysis
-    of automated comparison scores as well as signal quality metrics showed that there
-    was no significant difference found between the two algorithms when processing
-    contactless imagery. Further examination of signal level metrics showed that WSQ
-    remains better able to preserve spectral power of the image in regions of the
-    frequency spectrum typically associated with level 2 and level 3 fingerprint features
-    and therefore WSQ appears to be better suited for contactless fingerprint imagery.'
+  content: 'Nascent technologies show promise in collecting 500 ppi fingerprints in a contactless fashion while yielding various improvements in the collection process over legacy contact collection methods currently in use throughout the world. While it has been shown that these new devices show promise in producing imagery that may be interoperable with legacy contact collected images [25][31], the contactless devices may be prone to capturing superfluous data (e.g., fingernail, finger background, or other imaging artifacts) pushing existing friction ridge algorithms meant for contact collection beyond those images for which they were originally designed. Image compression algorithms are highly sensitive to information content and complexity of the image being processed [32]. Currently there are two compression algorithms specified for fingerprints: WSQ for 500 ppi and JPEG 2000 for the more information-rich 1000 ppi fingerprint imagery [27].It was hypothesized that the more information-rich contactless-collected imagery, while being captured at the same sampling rate as legacy 500 ppi contact collected fingerprint imagery, may be better suited for the JPEG 2000 specification meant for the more information rich 1000 ppi imagery.Analysis of automated comparison scores as well as signal quality metrics showed that there was no significant difference found between the two algorithms when processing contactless imagery. Further examination of signal level metrics showed that WSQ remains better able to preserve spectral power of the image in regions of the frequency spectrum typically associated with level 2 and level 3 fingerprint features and therefore WSQ appears to be better suited for contactless fingerprint imagery.'
 series:
 - title:
   - content: NIST special publication

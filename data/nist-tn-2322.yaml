@@ -1,12 +1,10 @@
----
 id: NISTTN2322
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Data assimilation in 2D nonlinear coupled sound and heat flow, using a
-    stabilized explicit finite difference scheme marched backward in time
+  content: Data assimilation in 2D nonlinear coupled sound and heat flow, using a stabilized explicit finite difference scheme marched backward in time
   type: main
 source:
 - type: doi
@@ -40,21 +38,7 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: "This paper considers the ill-posed data assimilation problem associated
-    with hyperbolic/parabolic systems describing 2D coupled sound and heat flow. Given
-    hypothetical data at time \U0001D447 > 0, that may not correspond to an actual
-    solution of the dissipative system at time \U0001D447, initial data at time \U0001D461
-    = 0 are sought that can evolve, through the dissipative system, into a useful
-    approximation to the desired data at time \U0001D447. That may not always be possible.
-    A stabilized explicit finite difference scheme, marching backward in time, is
-    developed and applied to nonlinear examples in non-rectangular regions. Stabilization
-    is achieved by applying a compensating smoothing operator at each time step, to
-    quench the instability. Analysis of convergence is restricted to the transparent
-    case of linear, autonomous, self-adjoint spatial differential operators. However,
-    the actual computational scheme can be applied to more general problems. Data
-    assimilation is illustrated using512 × 512-pixel images. Such images are associated
-    with highly irregular non smooth intensity data that severely challenge ill-posed
-    reconstruction procedures. Successful and unsuccessful examples are presented."
+  content: This paper considers the ill-posed data assimilation problem associated with hyperbolic/parabolic systems describing 2D coupled sound and heat flow. Given hypothetical data at time 𝑇 > 0, that may not correspond to an actual solution of the dissipative system at time 𝑇, initial data at time 𝑡 = 0 are sought that can evolve, through the dissipative system, into a useful approximation to the desired data at time 𝑇. That may not always be possible. A stabilized explicit finite difference scheme, marching backward in time, is developed and applied to nonlinear examples in non-rectangular regions. Stabilization is achieved by applying a compensating smoothing operator at each time step, to quench the instability. Analysis of convergence is restricted to the transparent case of linear, autonomous, self-adjoint spatial differential operators. However, the actual computational scheme can be applied to more general problems. Data assimilation is illustrated using512 × 512-pixel images. Such images are associated with highly irregular non smooth intensity data that severely challenge ill-posed reconstruction procedures. Successful and unsuccessful examples are presented.
 series:
 - title:
   - content: NIST technical note; NIST tech note; NIST TN

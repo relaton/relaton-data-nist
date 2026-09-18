@@ -1,4 +1,3 @@
----
 id: NISTIR8320A
 schema_version: v1.5.6
 type: standard
@@ -103,18 +102,7 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: In today's cloud data centers and edge computing, attack surfaces have
-    significantly increased, hacking has become industrialized, and most security
-    control implementations are not coherent or consistent. The foundation of any
-    data center or edge computing security strategy should be securing the platform
-    on which data and workloads will be executed and accessed. The physical platform
-    represents the first layer for any layered security approach and provides the
-    initial protections to help ensure that higher-layer security controls can be
-    trusted. This report explains an approach based on hardware-enabled security techniques
-    and technologies for safeguarding container deployments in multi-tenant cloud
-    environments. It also describes a proof-of-concept implementation of the approach
-    a prototype that is intended to be a blueprint or template for the general security
-    community.
+  content: In today's cloud data centers and edge computing, attack surfaces have significantly increased, hacking has become industrialized, and most security control implementations are not coherent or consistent. The foundation of any data center or edge computing security strategy should be securing the platform on which data and workloads will be executed and accessed. The physical platform represents the first layer for any layered security approach and provides the initial protections to help ensure that higher-layer security controls can be trusted. This report explains an approach based on hardware-enabled security techniques and technologies for safeguarding container deployments in multi-tenant cloud environments. It also describes a proof-of-concept implementation of the approach a prototype that is intended to be a blueprint or template for the general security community.
 relation:
 - type: updates
   bibitem:

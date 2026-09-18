@@ -1,4 +1,3 @@
----
 id: NISTSP800204
 schema_version: v1.5.6
 type: standard
@@ -34,31 +33,14 @@ contributor:
   - type: publisher
   organization:
     name:
-    - content: Information Technology Laboratory (National Institute of Standards
-        and Technology)
+    - content: Information Technology Laboratory (National Institute of Standards and Technology)
     identifier:
     - type: uri
       content: https://id.loc.gov/authorities/names/no97056762
 abstract:
 - language: en
   script: Latn
-  content: Microservices architecture is increasingly being used to develop application
-    systems since its smaller codebase facilitates faster code development, testing,
-    and deployment as well as optimization of the platform based on the type of microservice,
-    support for independent development teams, and the ability to scale each component
-    independently. Microservices generally communicate with each other using Application
-    Programming Interfaces (APIs), which requires several core features to support
-    complex interactions between a substantial number of components. These core features
-    include authentication and access management, service discovery, secure communication
-    protocols, security monitoring, availability/resiliency improvement techniques
-    (e.g., circuit breakers), load balancing and throttling, integrity assurance techniques
-    during induction of new services, and handling of session persistence. Additionally,
-    the core features could be bundled or packaged into architectural frameworks such
-    as API gateways and service mesh. The purpose of this document is to analyze the
-    multiple implementation options available for each individual core feature and
-    configuration options in architectural frameworks, develop security strategies
-    that counter threats specific to microservices, and enhance the overall security
-    profile of the microservices-based application.
+  content: Microservices architecture is increasingly being used to develop application systems since its smaller codebase facilitates faster code development, testing, and deployment as well as optimization of the platform based on the type of microservice, support for independent development teams, and the ability to scale each component independently. Microservices generally communicate with each other using Application Programming Interfaces (APIs), which requires several core features to support complex interactions between a substantial number of components. These core features include authentication and access management, service discovery, secure communication protocols, security monitoring, availability/resiliency improvement techniques (e.g., circuit breakers), load balancing and throttling, integrity assurance techniques during induction of new services, and handling of session persistence. Additionally, the core features could be bundled or packaged into architectural frameworks such as API gateways and service mesh. The purpose of this document is to analyze the multiple implementation options available for each individual core feature and configuration options in architectural frameworks, develop security strategies that counter threats specific to microservices, and enhance the overall security profile of the microservices-based application.
 series:
 - title:
   - content: NIST special publication; NIST special pub; NIST SP

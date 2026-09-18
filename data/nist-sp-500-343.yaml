@@ -1,4 +1,3 @@
----
 id: NISTSP500343
 schema_version: v1.5.6
 type: standard
@@ -13,8 +12,7 @@ title:
   type: title-part
 - language: en
   script: Latn
-  content: Face Recognition Technology Evaluation (FRTE) - preparation of compact
-    face images for 2D barcodes
+  content: Face Recognition Technology Evaluation (FRTE) - preparation of compact face images for 2D barcodes
   type: main
 source:
 - type: doi
@@ -68,15 +66,7 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: Compact face photographs, stored and digitally signed in 2D barcodes, form
-    a low-cost tamper-resistant identity credential. The cryptographic signature allows
-    binding of the 2D barcode to the issuer, and biometric authentication binds a
-    live photograph of the user to the photo stored in the barcode. This report documents
-    options for the detection, cropping, resizing, and compression steps needed to
-    instantiate a barcode-ready photograph. The compression step is necessarily lossy,
-    removing fine spatial structure from the face photograph. The report documents
-    the accuracy consequences and provides assurance that fully open standards-based
-    compact faces can be verified with very high accuracy.
+  content: Compact face photographs, stored and digitally signed in 2D barcodes, form a low-cost tamper-resistant identity credential. The cryptographic signature allows binding of the 2D barcode to the issuer, and biometric authentication binds a live photograph of the user to the photo stored in the barcode. This report documents options for the detection, cropping, resizing, and compression steps needed to instantiate a barcode-ready photograph. The compression step is necessarily lossy, removing fine spatial structure from the face photograph. The report documents the accuracy consequences and provides assurance that fully open standards-based compact faces can be verified with very high accuracy.
 series:
 - title:
   - content: NIST special publication

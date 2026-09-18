@@ -1,12 +1,10 @@
----
 id: NISTAMS10054
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Process-structure-property data alignment for additive manufacturing data
-    registration
+  content: Process-structure-property data alignment for additive manufacturing data registration
   type: main
 source:
 - type: doi
@@ -51,20 +49,7 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: Melt-pool-monitoring, layer-wise-imaging, microstructure-analysis, and
-    mechanical-property test data are becoming increasingly available during the additive
-    manufacturing (AM) fabrication process. These data along with data analytics tools
-    are becoming more important because they are needed to plan and control AM processes,
-    validate part quality, and accelerate the qualification process. A major impediment
-    to using those datasets, however, is that they sets are highly correlated. Even
-    though they are obtained from different sensors, instruments, and testing machines
-    that live in their own local, coordinate systems. Additionally, these correlated
-    datasets must also be aligned with other build data such as process parameters
-    and scan paths. This paper presents an innovative, data-registration procedure,
-    which is the first step towards addressing the correlation problem. This procedure
-    results in a common, reference, coordinate system that provides an effective way
-    to use those datasets as inputs to downstream applications such as simulation,
-    machine learning, and data analytics.
+  content: Melt-pool-monitoring, layer-wise-imaging, microstructure-analysis, and mechanical-property test data are becoming increasingly available during the additive manufacturing (AM) fabrication process. These data along with data analytics tools are becoming more important because they are needed to plan and control AM processes, validate part quality, and accelerate the qualification process. A major impediment to using those datasets, however, is that they sets are highly correlated. Even though they are obtained from different sensors, instruments, and testing machines that live in their own local, coordinate systems. Additionally, these correlated datasets must also be aligned with other build data such as process parameters and scan paths. This paper presents an innovative, data-registration procedure, which is the first step towards addressing the correlation problem. This procedure results in a common, reference, coordinate system that provides an effective way to use those datasets as inputs to downstream applications such as simulation, machine learning, and data analytics.
 series:
 - title:
   - content: NIST advanced manufacturing series

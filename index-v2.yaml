@@ -695,7 +695,7 @@
       id: '2019'
     publisher: NIST
     series: HB
-  :file: data/nist-hb-105-1e2019.yaml
+  :file: data/nist-hb-1e2019.yaml
 - :id:
     _type: pubid:nist:identifier
     number: '1'
@@ -11297,7 +11297,7 @@
   :file: data/nist-tn-1271.yaml
 - :id:
     _type: pubid:nist:special-publication
-    number: 1271-u
+    number: 1271-U
     publisher: NIST
     series: SP
     translation_component:
@@ -11926,17 +11926,7 @@
   :file: data/nist-tn-1299.yaml
 - :id:
     _type: pubid:nist:special-publication
-    number: 1299-f
-    edition:
-      type: r
-      id: e
-      original_prefix: r
-    publisher: NIST
-    series: SP
-  :file: data/nist-sp-1299-fre.yaml
-- :id:
-    _type: pubid:nist:special-publication
-    number: 1299-p
+    number: 1299-P
     publisher: NIST
     series: SP
     translation_component:
@@ -11945,13 +11935,23 @@
   :file: data/nist-sp-1299-p-or.yaml
 - :id:
     _type: pubid:nist:special-publication
-    number: 1299-s
+    number: 1299-S
     publisher: NIST
     series: SP
     translation_component:
       code: pa
     translation: " pa"
   :file: data/nist-sp-1299-s-pa.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 1299-f
+    edition:
+      type: r
+      id: e
+      original_prefix: r
+    publisher: NIST
+    series: SP
+  :file: data/nist-sp-1299-fre.yaml
 - :id:
     _type: pubid:nist:technical-note
     number: '13'
@@ -12724,17 +12724,7 @@
   :file: data/nbs-tn-1300.yaml
 - :id:
     _type: pubid:nist:special-publication
-    number: 1300-f
-    edition:
-      type: r
-      id: e
-      original_prefix: r
-    publisher: NIST
-    series: SP
-  :file: data/nist-sp-1300-fre.yaml
-- :id:
-    _type: pubid:nist:special-publication
-    number: 1300-p
+    number: 1300-P
     publisher: NIST
     series: SP
     translation_component:
@@ -12743,13 +12733,23 @@
   :file: data/nist-sp-1300-p-or.yaml
 - :id:
     _type: pubid:nist:special-publication
-    number: 1300-s
+    number: 1300-S
     publisher: NIST
     series: SP
     translation_component:
       code: pa
     translation: " pa"
   :file: data/nist-sp-1300-s-pa.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 1300-f
+    edition:
+      type: r
+      id: e
+      original_prefix: r
+    publisher: NIST
+    series: SP
+  :file: data/nist-sp-1300-fre.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: '1301'
@@ -12764,17 +12764,7 @@
   :file: data/nbs-tn-1301.yaml
 - :id:
     _type: pubid:nist:special-publication
-    number: 1301-f
-    edition:
-      type: r
-      id: e
-      original_prefix: r
-    publisher: NIST
-    series: SP
-  :file: data/nist-sp-1301-fre.yaml
-- :id:
-    _type: pubid:nist:special-publication
-    number: 1301-p
+    number: 1301-P
     publisher: NIST
     series: SP
     translation_component:
@@ -12783,13 +12773,23 @@
   :file: data/nist-sp-1301-p-or.yaml
 - :id:
     _type: pubid:nist:special-publication
-    number: 1301-s
+    number: 1301-S
     publisher: NIST
     series: SP
     translation_component:
       code: pa
     translation: " pa"
   :file: data/nist-sp-1301-s-pa.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 1301-f
+    edition:
+      type: r
+      id: e
+      original_prefix: r
+    publisher: NIST
+    series: SP
+  :file: data/nist-sp-1301-fre.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: '1302'
@@ -25029,7 +25029,7 @@
       id: '1996'
     publisher: NIST
     series: HB
-  :file: data/nist-hb-105-2e1996.yaml
+  :file: data/nist-hb-2e1996.yaml
 - :id:
     _type: pubid:nist:handbook
     number: '2'
@@ -25047,7 +25047,7 @@
       id: '2019'
     publisher: NIST
     series: HB
-  :file: data/nist-hb-150-2e2019.yaml
+  :file: data/nist-hb-2e2019.yaml
 - :id:
     _type: pubid:nist:nsrds
     number: '2'
@@ -25106,7 +25106,7 @@
       id: '2016'
     publisher: NIST
     series: HB
-  :file: data/nist-hb-150-2e2016.yaml
+  :file: data/nist-hb-2e2016.yaml
 - :id:
     _type: pubid:nist:federal-information-processing-standards
     number: 2-1
@@ -37173,7 +37173,7 @@
       id: '2025'
     publisher: NIST
     series: HB
-  :file: data/nist-hb-150-3e2025.yaml
+  :file: data/nist-hb-3e2025.yaml
 - :id:
     _type: pubid:nist:circular
     number: '3'
@@ -37244,7 +37244,7 @@
       id: '1997'
     publisher: NIST
     series: HB
-  :file: data/nist-hb-105-3e1997.yaml
+  :file: data/nist-hb-3e1997.yaml
 - :id:
     _type: pubid:nist:handbook
     number: '3'
@@ -43134,7 +43134,7 @@
       id: '2016'
     publisher: NIST
     series: HB
-  :file: data/nist-hb-105-4e2016.yaml
+  :file: data/nist-hb-4e2016.yaml
 - :id:
     _type: pubid:nist:identifier
     number: '4'
@@ -43218,7 +43218,7 @@
       id: '2019'
     publisher: NIST
     series: HB
-  :file: data/nist-hb-150-4e2019.yaml
+  :file: data/nist-hb-4e2019.yaml
 - :id:
     _type: pubid:nist:identifier
     number: '4'
@@ -53763,7 +53763,7 @@
       id: '2020'
     publisher: NIST
     series: HB
-  :file: data/nist-hb-150-5e2020.yaml
+  :file: data/nist-hb-5e2020.yaml
 - :id:
     _type: pubid:nist:handbook
     number: '5'
@@ -66337,7 +66337,7 @@
       id: '2020'
     publisher: NIST
     series: HB
-  :file: data/nist-hb-150-6e2020.yaml
+  :file: data/nist-hb-6e2020.yaml
 - :id:
     _type: pubid:nist:letter-circular
     number: '6'
@@ -95879,7 +95879,7 @@
       id: '2018'
     publisher: NIST
     series: HB
-  :file: data/nist-hb-150-8e2018.yaml
+  :file: data/nist-hb-8e2018.yaml
 - :id:
     _type: pubid:nist:identifier
     number: '8'
@@ -95930,7 +95930,7 @@
       id: '2019'
     publisher: NIST
     series: HB
-  :file: data/nist-hb-105-8e2019.yaml
+  :file: data/nist-hb-8e2019.yaml
 - :id:
     _type: pubid:nist:letter-circular
     number: '8'
@@ -109438,7 +109438,7 @@
   :file: data/nistir-8374.yaml
 - :id:
     _type: pubid:nist:interagency-report
-    number: 8374-p
+    number: 8374-P
     publisher: NIST
     series: IR
     translation_component:
@@ -109447,7 +109447,7 @@
   :file: data/nistir-8374-p-or.yaml
 - :id:
     _type: pubid:nist:interagency-report
-    number: 8374-s
+    number: 8374-S
     publisher: NIST
     series: IR
     translation_component:
@@ -111329,7 +111329,7 @@
   :file: data/nistir-8425.yaml
 - :id:
     _type: pubid:nist:interagency-report
-    number: 8425-p
+    number: 8425-P
     publisher: NIST
     series: IR
     translation_component:
@@ -111338,7 +111338,7 @@
   :file: data/nistir-8425-p-or.yaml
 - :id:
     _type: pubid:nist:interagency-report
-    number: 8425-s
+    number: 8425-S
     publisher: NIST
     series: IR
     translation_component:

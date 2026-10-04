@@ -1,0 +1,95 @@
+---
+id: NISTTN2381
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: An istrumented drop tower for impact and stab testing
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2381
+docidentifier:
+- content: NIST TN 2381
+  type: NIST
+  primary: true
+- content: NIST.TN.2381
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Landauer, Alexander K.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-2863-039X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Tao, Ran.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-5208-7895"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Forster, Amanda.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-7397-4429"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Forster, Aaron.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-5323-2468"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Riley, Michael.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-4242-4883"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Material Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'This report describes a 4 m instrumented drop tower (IDT) system in use at the National Institute of Standards and Technology (NIST). Drop tower systems are a relatively common means of testing various impact-like scenarios, often for armor or padding materials, with controlled impacts at known energies. Although originally designed for standardized stab testing, the capabilities of this IDT have been expanded. In this implementation the system is instrumented to measure accelerations, forces and force distribution, impact velocity, and test piece deformation. It is modular, with configurable impactor mass, geometry, drop height, specimen or test artifact type, and fixture. Thus, the drop tower system is suitable for stab testing, impact testing, material characterization, and other related measurements on artifacts ranging from from whole armor and helmeted head forms to specimens of novel impact mitigating materials. Two illustrative examples are provided in this report: characterization of helmet liner foam and stab testing of a novel armor prototype.'
+series:
+- title:
+  - content: NIST technical note
+  number: '2381'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist

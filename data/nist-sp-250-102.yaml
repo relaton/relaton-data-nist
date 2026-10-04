@@ -1,0 +1,58 @@
+---
+id: NISTSP250102
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Optical measurement of radiometric aperture areas
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.250-102
+docidentifier:
+- content: NIST SP 250-102
+  type: NIST
+  primary: true
+- content: NIST.SP.250-102
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Griesmann, Ulf.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-6882-9729"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Physical Measurement Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The National Institute of Standards and Technology (NIST) calibrates the areas of radiometric and photometric apertures using a coordinate measuring microscope, which provides direct traceability of aperture areas to the meter, the length unit of the International System of Units (SI). This measurement system combines a two-dimensional motion stage with laser interferometers for position feedback, and ahigh-magnification optical transmission microscope. For area measurements, apertures are mounted on the motion stage in the focal plane of an illuminator. The microscope is then used to locate points on the edge of the apertures in the coordinate system of the motion stage. The aperture area is calculated from a set of aperture edge positions that have been measured along the full length of an aperture’s edge. This publication describes the measurement instrument, provides a summary of the general measurement procedure, and documents the software algorithms that are applied in the measurements. The traceability of aperture area measurements to the SI, and the components of measurement uncertainty that contribute to the total measurement uncertainty stated in the calibration reports are explained.
+series:
+- title:
+  - content: NIST special publication
+  number: 250-102
+- title:
+  - content: NIST special publication
+  number: 250-102
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist

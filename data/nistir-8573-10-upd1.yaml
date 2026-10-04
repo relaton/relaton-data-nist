@@ -1,32 +1,24 @@
 ---
-id: NISTIR846105
+id: NISTIR857310Upd1
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
   content: NIST time and frequency bulletin
-  type: title-main
-- language: en
-  script: Latn
-  content: May
-  type: title-part
-- language: en
-  script: Latn
-  content: NIST time and frequency bulletin - May
   type: main
 source:
 - type: doi
-  content: https://doi.org/10.6028/NIST.IR.8461-05
+  content: https://doi.org/10.6028/NIST.IR.8573-10-upd1
 docidentifier:
-- content: NIST IR 8461-05
+- content: NIST IR 8573-10/Upd1
   type: NIST
   primary: true
-- content: NIST.IR.8461-05
+- content: NIST.IR.8573-10-upd1
   type: DOI
 date:
 - type: issued
-  at: '2023'
+  at: '2026'
 contributor:
 - role:
   - type: author
@@ -48,13 +40,21 @@ abstract:
 - language: en
   script: Latn
   content: The Time and Frequency Bulletin provides information on performance of time scales and a variety of broadcasts (and related information) to users of the NIST services.
+relation:
+- type: updates
+  bibitem:
+    formattedref:
+      content: NIST IR 8573-10
+    docidentifier:
+    - content: NIST IR 8573-10
+      type: NIST
 series:
 - title:
   - content: NISTIR
-  number: 8461-05
+  number: 8573-10-upd1
 - title:
-  - content: NISTIR; NIST IR; NIST interagency report; NIST internal report
-  number: 8461-05
+  - content: NISTIR
+  number: 8573-10-upd1
 place:
 - city: Gaithersburg
   region:

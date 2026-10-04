@@ -1,0 +1,73 @@
+---
+id: NISTTN2126Upd1
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Heats of combustion and related properties of pure substances
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2126-upd1
+docidentifier:
+- content: NIST TN 2126/Upd1
+  type: NIST
+  primary: true
+- content: NIST.TN.2126-upd1
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Burgess, Donald R.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3428-6540"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hamins, Anthony P.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-7531-4256"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: In this work, we compiled and evaluated various properties pertaining to the heats of combustion of about 420 compounds of physical, chemical, and engineering interest. This includes normal boiling points, melting points, latent heats (enthalpies) of vaporization, heats(enthalpies) of fusion, heats (enthalpies) of formation and combustion, and heat capacities (specific heats).
+relation:
+- type: updates
+  bibitem:
+    formattedref:
+      content: NIST TN 2126
+    docidentifier:
+    - content: NIST TN 2126
+      type: NIST
+series:
+- title:
+  - content: NIST technical note
+  number: 2126-upd1
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist

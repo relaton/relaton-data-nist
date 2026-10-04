@@ -1,0 +1,126 @@
+---
+id: NISTSP80018r2
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Developing security, privacy, and cybersecurity supply chain risk management plans for systems
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-18r2
+docidentifier:
+- content: NIST SP 800-18r2
+  type: NIST
+  primary: true
+- content: NIST.SP.800-18r2
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Licata, Jeremy
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-8793-5471"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: McWhite, Rebecca
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0000-9092-3500"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Calloway, Laura
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-4045-7307"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Gilbert, Dylan
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0003-6061-3757"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Anderson, Meghan
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0004-2875-5672"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Snyder, Julie
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0004-6352-2831"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Miller, Jeremy
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0004-3119-8803"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The system security plan, system privacy plan, and cybersecurity supply chain risk management plan are collectively referred to as system plans. They describe the purpose of the system, the operational status of the controls selected and allocated for meeting risk management requirements, and the responsibilities and expected behavior of all individuals who manage, support, and access the system. This publication identifies essential elements of system plans from security, privacy, and cybersecurity supply chain risk management perspectives to promote consistent information collection across the organization, regardless of the system’s mission or business function.
+relation:
+- type: updates
+  bibitem:
+    formattedref:
+      content: NIST SP 800-18r1
+    docidentifier:
+    - content: NIST SP 800-18r1
+      type: NIST
+series:
+- title:
+  - content: NIST special publication
+  number: 800-18r2
+- title:
+  - content: NIST special publication
+  number: 800-18r2
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist

@@ -5,7 +5,15 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: The national marine mammal tissue bank specimen inventory
+  content: The national marine mammal tissue bank
+  type: title-main
+- language: en
+  script: Latn
+  content: specimen inventory
+  type: title-part
+- language: en
+  script: Latn
+  content: The national marine mammal tissue bank - specimen inventory
   type: main
 source:
 - type: doi
@@ -54,7 +62,7 @@ contributor:
     name:
       completename:
         language: en
-        content: Porter, Barbara J.
+        content: Porter, Barbara J. (Barbara Jean),
 - role:
   - type: author
   person:

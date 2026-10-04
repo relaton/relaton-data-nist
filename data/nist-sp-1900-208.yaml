@@ -5,15 +5,15 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: NIST Workshop Report
+  content: NIST workshop report
   type: title-main
 - language: en
   script: Latn
-  content: Whole Community Preparedness in Smart Cities and Communities
+  content: whole community preparedness in smart cities and communities
   type: title-part
 - language: en
   script: Latn
-  content: NIST Workshop Report - Whole Community Preparedness in Smart Cities and Communities
+  content: NIST workshop report - whole community preparedness in smart cities and communities
   type: main
 source:
 - type: doi
@@ -26,7 +26,7 @@ docidentifier:
   type: DOI
 date:
 - type: issued
-  at: '2022'
+  at: '2025'
 contributor:
 - role:
   - type: author
@@ -73,7 +73,7 @@ contributor:
   organization:
     name:
     - content: National Institute of Standards and Technology (U.S.)
-    - content: '67'
+    - content: Communications Technology Laboratory.
 abstract:
 - language: en
   script: Latn
@@ -83,7 +83,9 @@ series:
   - content: NIST SP
   number: NIST SP 1900-208
 place:
-- region: []
+- city: Gaithersburg
+  region:
+  - iso: MD
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,0 +1,84 @@
+---
+id: NISTSP80070r5
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: National checklist program for IT products
+  type: title-main
+- language: en
+  script: Latn
+  content: guidelines for checklist users and developers
+  type: title-part
+- language: en
+  script: Latn
+  content: National checklist program for IT products - guidelines for checklist users and developers
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-70r5
+docidentifier:
+- content: NIST SP 800-70r5
+  type: NIST
+  primary: true
+- content: NIST.SP.800-70r5
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Quinn, Stephen D.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-1436-684X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Heiserman, Blair.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0003-8779-6231"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: A security configuration checklist is a document that contains instructions, procedures, or machine-readable and executable content to configure an IT product to a specific risk posture for an operational environment, verify that the product has been configured properly, identify unauthorized configuration changes to the product, and/or produce artifacts that show the security posture of the product. Using these checklists can minimize the attack surface, reduce vulnerabilities, lessen the impact of successful attacks, and identify changes that might otherwise go undetected. NIST established the National Checklist Program (NCP) to facilitate the generation of security checklists from authoritative sources, centralize the location of checklists, and make checklists broadly accessible. This publication explains how to use the NCP to find and retrieve checklists and describes the policies, procedures, and general requirements for participation in the NCP.
+relation:
+- type: updates
+  bibitem:
+    formattedref:
+      content: NIST SP 800-70
+    docidentifier:
+    - content: NIST SP 800-70
+      type: NIST
+series:
+- title:
+  - content: NIST special publication
+  number: 800-70r5
+- title:
+  - content: NIST special publication
+  number: 800-70r5
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist

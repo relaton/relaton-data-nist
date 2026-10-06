@@ -1519,24 +1519,6 @@
     series: AMS
   :file: data/nist-ams-100-1.yaml
 - :id:
-    _type: pubid:nist:identifier
-    number: 100-1
-    publisher: NIST
-    series: AI
-    translation_component:
-      code: jpn
-    translation: " jpn"
-  :file: data/nist-ai-100-1-jpn.yaml
-- :id:
-    _type: pubid:nist:identifier
-    number: 100-1
-    publisher: NIST
-    series: AI
-    translation_component:
-      code: ara
-    translation: " ara"
-  :file: data/nist-ai-100-1-ara.yaml
-- :id:
     _type: pubid:nist:federal-information-processing-standards
     number: 100-1
     publisher: NBS
@@ -2324,7 +2306,7 @@
     series: SP
     translation_component:
       code: spa
-    translation: " spa"
+    translation: "(spa)"
   :file: data/nist-sp-1001-spa.yaml
 - :id:
     _type: pubid:nist:report
@@ -6199,7 +6181,7 @@
     series: LCIRC
     translation_component:
       code: spa
-    translation: " spa"
+    translation: "(spa)"
   :file: data/nbs-lc-1088-spa.yaml
 - :id:
     _type: pubid:nist:letter-circular
@@ -11086,7 +11068,7 @@
     series: SP
     translation_component:
       code: spa
-    translation: " spa"
+    translation: "(spa)"
   :file: data/nist-sp-1262-spa.yaml
 - :id:
     _type: pubid:nist:special-publication
@@ -11284,17 +11266,8 @@
     series: SP
     translation_component:
       code: por
-    translation: " por"
+    translation: "(por)"
   :file: data/nist-sp-1271-por.yaml
-- :id:
-    _type: pubid:nist:special-publication
-    number: 1271-U
-    publisher: NIST
-    series: SP
-    translation_component:
-      code: kr
-    translation: " kr"
-  :file: data/nist-sp-1271-u-kr.yaml
 - :id:
     _type: pubid:nist:technical-note
     number: '1272'
@@ -11915,24 +11888,6 @@
     publisher: NIST
     series: SP
   :file: data/nist-sp-1299.yaml
-- :id:
-    _type: pubid:nist:special-publication
-    number: 1299-P
-    publisher: NIST
-    series: SP
-    translation_component:
-      code: or
-    translation: " or"
-  :file: data/nist-sp-1299-p-or.yaml
-- :id:
-    _type: pubid:nist:special-publication
-    number: 1299-S
-    publisher: NIST
-    series: SP
-    translation_component:
-      code: pa
-    translation: " pa"
-  :file: data/nist-sp-1299-s-pa.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 1299-f
@@ -12715,24 +12670,6 @@
   :file: data/nist-sp-1300.yaml
 - :id:
     _type: pubid:nist:special-publication
-    number: 1300-P
-    publisher: NIST
-    series: SP
-    translation_component:
-      code: or
-    translation: " or"
-  :file: data/nist-sp-1300-p-or.yaml
-- :id:
-    _type: pubid:nist:special-publication
-    number: 1300-S
-    publisher: NIST
-    series: SP
-    translation_component:
-      code: pa
-    translation: " pa"
-  :file: data/nist-sp-1300-s-pa.yaml
-- :id:
-    _type: pubid:nist:special-publication
     number: 1300-f
     edition:
       type: r
@@ -12753,24 +12690,6 @@
     publisher: NIST
     series: SP
   :file: data/nist-sp-1301.yaml
-- :id:
-    _type: pubid:nist:special-publication
-    number: 1301-P
-    publisher: NIST
-    series: SP
-    translation_component:
-      code: or
-    translation: " or"
-  :file: data/nist-sp-1301-p-or.yaml
-- :id:
-    _type: pubid:nist:special-publication
-    number: 1301-S
-    publisher: NIST
-    series: SP
-    translation_component:
-      code: pa
-    translation: " pa"
-  :file: data/nist-sp-1301-s-pa.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 1301-f
@@ -60101,8 +60020,8 @@
     number: '54'
     publisher: NBS
     series: CIRC
-    index: index
-  :file: data/nbs-circ-54index.yaml
+    index: indx
+  :file: data/nbs-circ-54indx.yaml
 - :id:
     _type: pubid:nist:circular
     number: '54'
@@ -69319,6 +69238,13 @@
       number: '2'
   :file: data/nbs-nsrds-63sup2.yaml
 - :id:
+    _type: pubid:nist:nsrds
+    number: '63'
+    publisher: NBS
+    series: NSRDS
+    index: indx
+  :file: data/nbs-nsrds-63indx.yaml
+- :id:
     _type: pubid:nist:letter-circular
     number: '63'
     publisher: NBS
@@ -70196,15 +70122,6 @@
     publisher: NIST
     series: IR
   :file: data/nistir-6399.yaml
-- :id:
-    _type: pubid:nist:nsrds
-    number: 63i
-    publisher: NBS
-    series: NSRDS
-    translation_component:
-      code: ndx
-    translation: " ndx"
-  :file: data/nbs-nsrds-63i-ndx.yaml
 - :id:
     _type: pubid:nist:circular
     number: '64'
@@ -75143,7 +75060,7 @@
     series: IR
     translation_component:
       code: spa
-    translation: " spa"
+    translation: "(spa)"
   :file: data/nistir-6867-spa.yaml
 - :id:
     _type: pubid:nist:interagency-report
@@ -98931,32 +98848,6 @@
 - :id:
     _type: pubid:nist:special-publication
     number: 800-181
-    edition:
-      type: r
-      id: '1'
-    publisher: NIST
-    series: SP
-    subseries: '800'
-    translation_component:
-      code: ukr
-    translation: " ukr"
-  :file: data/nist-sp-800-181r1-ukr.yaml
-- :id:
-    _type: pubid:nist:special-publication
-    number: 800-181
-    edition:
-      type: r
-      id: '1'
-    publisher: NIST
-    series: SP
-    subseries: '800'
-    translation_component:
-      code: slo
-    translation: " slo"
-  :file: data/nist-sp-800-181r1-slo.yaml
-- :id:
-    _type: pubid:nist:special-publication
-    number: 800-181
     publisher: NIST
     series: SP
     subseries: '800'
@@ -98972,18 +98863,8 @@
     subseries: '800'
     translation_component:
       code: por
-    translation: " por"
+    translation: "(por)"
   :file: data/nist-sp-800-181r1-por.yaml
-- :id:
-    _type: pubid:nist:special-publication
-    number: 800-181
-    publisher: NIST
-    series: SP
-    subseries: '800'
-    translation_component:
-      code: ukr
-    translation: " ukr"
-  :file: data/nist-sp-800-181-ukr.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-181
@@ -98995,7 +98876,7 @@
     subseries: '800'
     translation_component:
       code: spa
-    translation: " spa"
+    translation: "(spa)"
   :file: data/nist-sp-800-181r1-spa.yaml
 - :id:
     _type: pubid:nist:special-publication
@@ -99005,7 +98886,7 @@
     subseries: '800'
     translation_component:
       code: por
-    translation: " por"
+    translation: "(por)"
   :file: data/nist-sp-800-181-por.yaml
 - :id:
     _type: pubid:nist:special-publication
@@ -99015,7 +98896,7 @@
     subseries: '800'
     translation_component:
       code: spa
-    translation: " spa"
+    translation: "(spa)"
   :file: data/nist-sp-800-181-spa.yaml
 - :id:
     _type: pubid:nist:special-publication
@@ -99289,36 +99170,6 @@
     series: SP
     subseries: '800'
   :file: data/nist-sp-800-218.yaml
-- :id:
-    _type: pubid:nist:special-publication
-    number: 800-218
-    publisher: NIST
-    series: SP
-    subseries: '800'
-    translation_component:
-      code: por
-    translation: " por"
-  :file: data/nist-sp-800-218-por.yaml
-- :id:
-    _type: pubid:nist:special-publication
-    number: 800-218
-    publisher: NIST
-    series: SP
-    subseries: '800'
-    translation_component:
-      code: spa
-    translation: " spa"
-  :file: data/nist-sp-800-218-spa.yaml
-- :id:
-    _type: pubid:nist:special-publication
-    number: 800-218
-    publisher: NIST
-    series: SP
-    subseries: '800'
-    translation_component:
-      code: fre
-    translation: " fre"
-  :file: data/nist-sp-800-218-fre.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-219
@@ -103767,7 +103618,7 @@
     series: IR
     translation_component:
       code: zho
-    translation: " zho"
+    translation: "(zho)"
   :file: data/nistir-8115-zho.yaml
 - :id:
     _type: pubid:nist:interagency-report
@@ -103776,7 +103627,7 @@
     series: IR
     translation_component:
       code: spa
-    translation: " spa"
+    translation: "(spa)"
   :file: data/nistir-8115-spa.yaml
 - :id:
     _type: pubid:nist:interagency-report
@@ -103785,7 +103636,7 @@
     series: IR
     translation_component:
       code: vie
-    translation: " vie"
+    translation: "(vie)"
   :file: data/nistir-8115-vie.yaml
 - :id:
     _type: pubid:nist:interagency-report
@@ -103840,7 +103691,7 @@
     series: IR
     translation_component:
       code: spa
-    translation: " spa"
+    translation: "(spa)"
   :file: data/nistir-8117-spa.yaml
 - :id:
     _type: pubid:nist:interagency-report
@@ -103867,7 +103718,7 @@
     series: IR
     translation_component:
       code: spa
-    translation: " spa"
+    translation: "(spa)"
   :file: data/nistir-8118r1-spa.yaml
 - :id:
     _type: pubid:nist:interagency-report
@@ -103897,7 +103748,7 @@
     series: IR
     translation_component:
       code: zho
-    translation: " zho"
+    translation: "(zho)"
   :file: data/nistir-8119-zho.yaml
 - :id:
     _type: pubid:nist:interagency-report
@@ -103906,7 +103757,7 @@
     series: IR
     translation_component:
       code: vie
-    translation: " vie"
+    translation: "(vie)"
   :file: data/nistir-8119-vie.yaml
 - :id:
     _type: pubid:nist:interagency-report
@@ -103915,7 +103766,7 @@
     series: IR
     translation_component:
       code: spa
-    translation: " spa"
+    translation: "(spa)"
   :file: data/nistir-8119-spa.yaml
 - :id:
     _type: pubid:nist:letter-circular
@@ -104543,7 +104394,7 @@
     series: IR
     translation_component:
       code: por
-    translation: " por"
+    translation: "(por)"
   :file: data/nistir-8178-por.yaml
 - :id:
     _type: pubid:nist:interagency-report
@@ -106333,7 +106184,7 @@
     series: IR
     translation_component:
       code: por
-    translation: " por"
+    translation: "(por)"
   :file: data/nistir-8228-por.yaml
 - :id:
     _type: pubid:nist:interagency-report
@@ -106342,7 +106193,7 @@
     series: IR
     translation_component:
       code: spa
-    translation: " spa"
+    translation: "(spa)"
   :file: data/nistir-8228-spa.yaml
 - :id:
     _type: pubid:nist:interagency-report
@@ -106642,7 +106493,7 @@
     series: IR
     translation_component:
       code: por
-    translation: " por"
+    translation: "(por)"
   :file: data/nistir-8259-por.yaml
 - :id:
     _type: pubid:nist:interagency-report
@@ -106651,7 +106502,7 @@
     series: IR
     translation_component:
       code: spa
-    translation: " spa"
+    translation: "(spa)"
   :file: data/nistir-8259-spa.yaml
 - :id:
     _type: pubid:nist:interagency-report
@@ -106666,7 +106517,7 @@
     series: IR
     translation_component:
       code: por
-    translation: " por"
+    translation: "(por)"
   :file: data/nistir-8259a-por.yaml
 - :id:
     _type: pubid:nist:interagency-report
@@ -106675,7 +106526,7 @@
     series: IR
     translation_component:
       code: spa
-    translation: " spa"
+    translation: "(spa)"
   :file: data/nistir-8259a-spa.yaml
 - :id:
     _type: pubid:nist:interagency-report
@@ -106683,24 +106534,6 @@
     publisher: NIST
     series: IR
   :file: data/nistir-8259b.yaml
-- :id:
-    _type: pubid:nist:interagency-report
-    number: 8259B-p
-    publisher: NIST
-    series: IR
-    translation_component:
-      code: or
-    translation: " or"
-  :file: data/nistir-8259b-p-or.yaml
-- :id:
-    _type: pubid:nist:interagency-report
-    number: 8259B-s
-    publisher: NIST
-    series: IR
-    translation_component:
-      code: pa
-    translation: " pa"
-  :file: data/nistir-8259b-s-pa.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: '826'
@@ -109355,24 +109188,6 @@
     series: IR
   :file: data/nistir-8374.yaml
 - :id:
-    _type: pubid:nist:interagency-report
-    number: 8374-P
-    publisher: NIST
-    series: IR
-    translation_component:
-      code: or
-    translation: " or"
-  :file: data/nistir-8374-p-or.yaml
-- :id:
-    _type: pubid:nist:interagency-report
-    number: 8374-S
-    publisher: NIST
-    series: IR
-    translation_component:
-      code: pa
-    translation: " pa"
-  :file: data/nistir-8374-s-pa.yaml
-- :id:
     _type: pubid:nist:report
     number: '8375'
     publisher: NBS
@@ -111251,24 +111066,6 @@
     publisher: NIST
     series: IR
   :file: data/nistir-8425.yaml
-- :id:
-    _type: pubid:nist:interagency-report
-    number: 8425-P
-    publisher: NIST
-    series: IR
-    translation_component:
-      code: or
-    translation: " or"
-  :file: data/nistir-8425-p-or.yaml
-- :id:
-    _type: pubid:nist:interagency-report
-    number: 8425-S
-    publisher: NIST
-    series: IR
-    translation_component:
-      code: pa
-    translation: " pa"
-  :file: data/nistir-8425-s-pa.yaml
 - :id:
     _type: pubid:nist:interagency-report
     number: 8425A
@@ -124948,15 +124745,6 @@
     supplement:
       year: '2010'
   :file: data/nist-sp-955sup2010.yaml
-- :id:
-    _type: pubid:nist:special-publication
-    number: 955-S
-    publisher: NIST
-    series: SP
-    translation_component:
-      code: uppl
-    translation: " uppl"
-  :file: data/nist-sp-955-s-uppl.yaml
 - :id:
     _type: pubid:nist:technical-note
     number: '956'

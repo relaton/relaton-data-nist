@@ -1,0 +1,148 @@
+---
+id: NISTSP800133r2ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Recommendation for Cryptographic Key Generation
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/133/r2/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-133r2-draft
+docidentifier:
+- content: NIST SP 800-133r2 ipd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-133r2-draft
+  type: DOI
+date:
+- type: published
+  at: '2020-03-05'
+- type: obsoleted
+  at: '2020-06-04'
+- type: issued
+  at: '2020-03-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Elaine
+      surname:
+        language: en
+        script: Latn
+        content: Barker
+      completename:
+        language: en
+        script: Latn
+        content: Elaine B. Barker
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Allen
+      surname:
+        language: en
+        script: Latn
+        content: Roginsky
+      completename:
+        language: en
+        script: Latn
+        content: Allen Roginsky
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Richard
+      surname:
+        language: en
+        script: Latn
+        content: Davis
+      completename:
+        language: en
+        script: Latn
+        content: Richard Davis
+    affiliation:
+    - organization:
+        name:
+        - content: National Security Agency
+        abbreviation:
+          content: NSA
+edition:
+  content: Revision 2
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: asymmetric key
+- vocab:
+    content: key agreement
+- vocab:
+    content: key derivation
+- vocab:
+    content: key generation
+- vocab:
+    content: key wrapping
+- vocab:
+    content: key replacement
+- vocab:
+    content: key transport
+- vocab:
+    content: private key
+- vocab:
+    content: public key
+- vocab:
+    content: symmetric key
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2020-03-05'
+    to: '2020-04-17'

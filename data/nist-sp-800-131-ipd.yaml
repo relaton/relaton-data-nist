@@ -1,11 +1,11 @@
 ---
 id: NISTSP800131ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Recommendation for the Transitioning of Cryptographic Algorithms and Key Sizes
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/131/ipd
@@ -14,8 +14,120 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2010-06-16'
+- type: obsoleted
+  at: '2011-01-13'
 - type: issued
-  at: 2010-06
+  at: '2010-06-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Elaine
+      surname:
+        language: en
+        script: Latn
+        content: Barker
+      completename:
+        language: en
+        script: Latn
+        content: Elaine B. Barker
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Allen
+      surname:
+        language: en
+        script: Latn
+        content: Roginsky
+      completename:
+        language: en
+        script: Latn
+        content: Allen Roginsky
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: retired
+  iteration: '1'
+copyright:
+- from: '2010'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+relation:
+- type: updates
+  bibitem:
+    formattedref:
+      content: NIST SP 800-131 ipd
+    source:
+    - type: src
+      content: https://csrc.nist.gov/pubs/sp/800/131/a/final
+    docidentifier:
+    - content: NIST SP 800-131 ipd
+      type: NIST
+      primary: true
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: Cryptographic algorithm
+- vocab:
+    content: digital signatures
+- vocab:
+    content: encryption
+- vocab:
+    content: hash function
+- vocab:
+    content: key agreement
+- vocab:
+    content: key derivation
+- vocab:
+    content: key management
+- vocab:
+    content: key transport
+- vocab:
+    content: key wrapping
+- vocab:
+    content: message authentication codes
+- vocab:
+    content: random number generation
+- vocab:
+    content: security strength
+- vocab:
+    content: transition.
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,11 +1,11 @@
 ---
 id: NISTSP800103ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
-  content: An Ontology of Identity Credentials - Part 1
-  type: title-main
+  content: An Ontology of Identity Credentials - Part 1 - Background and Formulation
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/103/ipd
@@ -14,10 +14,113 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2006-10-06'
+- type: obsoleted
+  at: '2016-07-05'
 - type: issued
-  at: 2006-10
+  at: '2006-10-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: William
+      surname:
+        language: en
+        script: Latn
+        content: MacGregor
+      completename:
+        language: en
+        script: Latn
+        content: William I. MacGregor
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: William
+      surname:
+        language: en
+        script: Latn
+        content: Dutcher
+      completename:
+        language: en
+        script: Latn
+        content: William Dutcher
+    affiliation:
+    - organization:
+        name:
+        - content: Booz Allen Hamilton
+        abbreviation:
+          content: BAH
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jamil
+      surname:
+        language: en
+        script: Latn
+        content: Khan
+      completename:
+        language: en
+        script: Latn
+        content: Jamil Khan
+    affiliation:
+    - organization:
+        name:
+        - content: Booz Allen Hamilton
+        abbreviation:
+          content: BAH
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: retired
+  iteration: '1'
+copyright:
+- from: '2006'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: identity credentials
+- vocab:
+    content: ontology
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2006-10-06'
+    to: '2006-11-15'

@@ -1,23 +1,144 @@
 ---
 id: NISTSP800217fpd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Guidelines for Personal Identity Verification (PIV) Federation
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/217/fpd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-217.fpd
 docidentifier:
 - content: NIST SP 800-217 fpd
   type: NIST
   primary: true
+- content: NIST.SP.800-217.fpd
+  type: DOI
 date:
+- type: published
+  at: '2024-11-14'
 - type: issued
   at: '2024-11-14'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Hildegard
+      surname:
+        language: en
+        script: Latn
+        content: Ferraiolo
+      completename:
+        language: en
+        script: Latn
+        content: Hildegard Ferraiolo
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Andrew
+      surname:
+        language: en
+        script: Latn
+        content: Regenscheid
+      completename:
+        language: en
+        script: Latn
+        content: Andrew R. Regenscheid
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Justin
+      surname:
+        language: en
+        script: Latn
+        content: Richer
+      completename:
+        language: en
+        script: Latn
+        content: Justin P. Richer
+    affiliation:
+    - organization:
+        name:
+        - content: Bespoke Engineering
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: active
+  iteration: final
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: assertions
+- vocab:
+    content: authentication
+- vocab:
+    content: credential service provider
+- vocab:
+    content: digital authentication
+- vocab:
+    content: electronic authentication
+- vocab:
+    content: electronic credentials
+- vocab:
+    content: federations
+- vocab:
+    content: PIV credentials
+- vocab:
+    content: PIV federation
+- vocab:
+    content: identity providers
+- vocab:
+    content: relying parties
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2024-11-14'
+    to: '2025-01-10'

@@ -1,0 +1,284 @@
+---
+id: NISTSP1800302pd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Securing Telehealth Remote Patient Monitoring Ecosystem
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/1800/30/2pd
+docidentifier:
+- content: NIST SP 1800-30 2pd
+  type: NIST
+  primary: true
+date:
+- type: published
+  at: '2021-05-06'
+- type: obsoleted
+  at: '2022-02-22'
+- type: issued
+  at: '2021-05-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jennifer
+      surname:
+        language: en
+        script: Latn
+        content: Cawthra
+      completename:
+        language: en
+        script: Latn
+        content: Jennifer L. Cawthra
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Nakia
+      surname:
+        language: en
+        script: Latn
+        content: Grayson
+      completename:
+        language: en
+        script: Latn
+        content: Nakia Grayson
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Bronwyn
+      surname:
+        language: en
+        script: Latn
+        content: Hodges
+      completename:
+        language: en
+        script: Latn
+        content: Bronwyn Hodges
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jason
+      surname:
+        language: en
+        script: Latn
+        content: Kuruvilla
+      completename:
+        language: en
+        script: Latn
+        content: Jason Kuruvilla
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kevin
+      surname:
+        language: en
+        script: Latn
+        content: Littlefield
+      completename:
+        language: en
+        script: Latn
+        content: Kevin Littlefield
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Julie
+      surname:
+        language: en
+        script: Latn
+        content: Snyder
+      completename:
+        language: en
+        script: Latn
+        content: Julie Snyder
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Sue
+      surname:
+        language: en
+        script: Latn
+        content: Wang
+      completename:
+        language: en
+        script: Latn
+        content: Sue Wang
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ryan
+      surname:
+        language: en
+        script: Latn
+        content: Williams
+      completename:
+        language: en
+        script: Latn
+        content: Ryan Williams
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kangmin
+      surname:
+        language: en
+        script: Latn
+        content: Zheng
+      completename:
+        language: en
+        script: Latn
+        content: Kangmin Zheng
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '2'
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: access control
+- vocab:
+    content: authentication
+- vocab:
+    content: authorization
+- vocab:
+    content: behavioral analytics
+- vocab:
+    content: cloud storage
+- vocab:
+    content: data privacy
+- vocab:
+    content: data security
+- vocab:
+    content: encryption
+- vocab:
+    content: HDO
+- vocab:
+    content: healthcare
+- vocab:
+    content: healthcare delivery organization
+- vocab:
+    content: remote patient monitoring
+- vocab:
+    content: RPM
+- vocab:
+    content: telehealth
+- vocab:
+    content: zero trust
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2021-05-06'
+    to: '2021-06-07'

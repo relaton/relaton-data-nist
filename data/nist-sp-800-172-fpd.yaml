@@ -1,23 +1,230 @@
 ---
 id: NISTSP800172fpd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
-  content: Enhanced Security Requirements for Protecting Controlled Unclassified Information
-  type: title-main
+  content: Enhanced Security Requirements for Protecting Controlled Unclassified Information - A Supplement to NIST Special Publication 800-171
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/172/fpd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-172-draft
 docidentifier:
 - content: NIST SP 800-172 fpd
   type: NIST
   primary: true
+- content: NIST.SP.800-172-draft
+  type: DOI
 date:
+- type: published
+  at: '2020-07-06'
+- type: obsoleted
+  at: '2021-02-02'
 - type: issued
-  at: 2020-07
+  at: '2020-07-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      prefix:
+      - language: en
+        script: Latn
+        content: Dr.
+      forename:
+      - language: en
+        script: Latn
+        content: Ron
+      surname:
+        language: en
+        script: Latn
+        content: Ross
+      completename:
+        language: en
+        script: Latn
+        content: Ron S. Ross
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Victoria
+      surname:
+        language: en
+        script: Latn
+        content: Pillitteri
+      completename:
+        language: en
+        script: Latn
+        content: Victoria Y. Pillitteri
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Gary
+      surname:
+        language: en
+        script: Latn
+        content: Guissanie
+      completename:
+        language: en
+        script: Latn
+        content: Gary Guissanie
+    affiliation:
+    - organization:
+        name:
+        - content: Institute for Defense Analyses
+        abbreviation:
+          content: IDA
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ryan
+      surname:
+        language: en
+        script: Latn
+        content: Wagner
+      completename:
+        language: en
+        script: Latn
+        content: Ryan Wagner
+    affiliation:
+    - organization:
+        name:
+        - content: Institute for Defense Analyses
+        abbreviation:
+          content: IDA
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Richard
+      surname:
+        language: en
+        script: Latn
+        content: Graubart
+      completename:
+        language: en
+        script: Latn
+        content: Richard Graubart
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Deborah
+      surname:
+        language: en
+        script: Latn
+        content: Bodeau
+      completename:
+        language: en
+        script: Latn
+        content: Deborah Bodeau
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: final
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: Advanced Persistent Threat
+- vocab:
+    content: basic security requirement
+- vocab:
+    content: contractor systems
+- vocab:
+    content: Controlled Unclassified Information
+- vocab:
+    content: CUI Registry
+- vocab:
+    content: derived security requirement
+- vocab:
+    content: enhanced security requirement
+- vocab:
+    content: Executive Order 13556
+- vocab:
+    content: FIPS Publication 199
+- vocab:
+    content: FIPS Publication 200
+- vocab:
+    content: FISMA
+- vocab:
+    content: NIST Special Publication 800-53
+- vocab:
+    content: nonfederal organizations
+- vocab:
+    content: nonfederal systems
+- vocab:
+    content: security assessment
+- vocab:
+    content: security control
+- vocab:
+    content: security requirement
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2020-07-06'
+    to: '2020-08-21'

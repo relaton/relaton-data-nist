@@ -1,0 +1,79 @@
+---
+id: NISTCSWP40ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: NIST Privacy Framework 1.1
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/cswp/40/nist-privacy-framework-11/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.CSWP.40.ipd
+docidentifier:
+- content: NIST CSWP 40 ipd
+  type: NIST
+  primary: true
+- content: NIST.CSWP.40.ipd
+  type: DOI
+date:
+- type: published
+  at: '2025-04-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: National Institute of Standards and Technology
+    abbreviation:
+      content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: active
+  iteration: '1'
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: framework
+- vocab:
+    content: privacy
+- vocab:
+    content: privacy framework
+- vocab:
+    content: privacy risk
+- vocab:
+    content: privacy risk management
+- vocab:
+    content: profiles
+- vocab:
+    content: risk management
+- vocab:
+    content: tiers
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2025-04-14'
+    to: '2025-06-13'

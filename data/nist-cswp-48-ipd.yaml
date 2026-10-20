@@ -1,0 +1,158 @@
+---
+id: NISTCSWP48ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Mappings of Migration to PQC Project Capabilities to NIST Cybersecurity Framework 2.0 and to Security and Privacy Controls for Information Systems and Organizations
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/cswp/48/mapping-migration-to-pqc-project-capabilities-to-r/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.CSWP.48.ipd
+docidentifier:
+- content: NIST CSWP 48 ipd
+  type: NIST
+  primary: true
+- content: NIST.CSWP.48.ipd
+  type: DOI
+date:
+- type: published
+  at: '2025-09-18'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: William
+      surname:
+        language: en
+        script: Latn
+        content: Newhouse
+      completename:
+        language: en
+        script: Latn
+        content: William D. Newhouse
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Murugiah
+      surname:
+        language: en
+        script: Latn
+        content: Souppaya
+      completename:
+        language: en
+        script: Latn
+        content: Murugiah P. Souppaya
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: William
+      surname:
+        language: en
+        script: Latn
+        content: Barker
+      completename:
+        language: en
+        script: Latn
+        content: William C. Barker
+    affiliation:
+    - organization:
+        name:
+        - content: Strativia
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Karen
+      surname:
+        language: en
+        script: Latn
+        content: Scarfone
+      completename:
+        language: en
+        script: Latn
+        content: Karen A. Scarfone
+    affiliation:
+    - organization:
+        name:
+        - content: Scarfone Cybersecurity
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: active
+  iteration: '1'
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: algorithm
+- vocab:
+    content: cryptography
+- vocab:
+    content: encryption
+- vocab:
+    content: identity management
+- vocab:
+    content: key establishment and management
+- vocab:
+    content: post-quantum cryptography
+- vocab:
+    content: public key cryptography
+- vocab:
+    content: quantum-resistant
+- vocab:
+    content: vulnerable cryptography discovery
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2025-09-18'
+    to: '2025-10-20'

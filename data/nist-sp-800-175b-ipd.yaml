@@ -1,11 +1,11 @@
 ---
 id: NISTSP800175Bipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
-  content: Guideline for Using Cryptographic Standards in the Federal Government
-  type: title-main
+  content: Guideline for Using Cryptographic Standards in the Federal Government - Cryptographic Mechanisms
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/175/b/ipd
@@ -14,10 +14,102 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2016-03-11'
+- type: obsoleted
+  at: '2016-08-22'
 - type: issued
-  at: 2016-03
+  at: '2016-03-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Elaine
+      surname:
+        language: en
+        script: Latn
+        content: Barker
+      completename:
+        language: en
+        script: Latn
+        content: Elaine B. Barker
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: cryptography
+- vocab:
+    content: digital signatures
+- vocab:
+    content: encryption
+- vocab:
+    content: integrity
+- vocab:
+    content: key agreement
+- vocab:
+    content: key derivation
+- vocab:
+    content: key management
+- vocab:
+    content: key transport
+- vocab:
+    content: key wrapping
+- vocab:
+    content: message authentication codes
+- vocab:
+    content: non-repudiation
+- vocab:
+    content: Public Key Infrastructure
+- vocab:
+    content: random bit generation
+- vocab:
+    content: confidentiality
+- vocab:
+    content: |-
+      symmetric-key algorithm
+
+      &nbsp
+- vocab:
+    content: authentication
+- vocab:
+    content: asymmetric-key algorithm
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2016-03-11'
+    to: '2016-04-29'

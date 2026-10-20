@@ -1,11 +1,11 @@
 ---
 id: NISTSP18003ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Attribute Based Access Control
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/1800/3/ipd
@@ -14,10 +14,215 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2015-09-29'
+- type: obsoleted
+  at: '2017-09-20'
 - type: issued
-  at: 2015-09
+  at: '2015-09-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: William
+      surname:
+        language: en
+        script: Latn
+        content: Fisher
+      completename:
+        language: en
+        script: Latn
+        content: William J. Fisher
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Norm
+      surname:
+        language: en
+        script: Latn
+        content: Brickman
+      completename:
+        language: en
+        script: Latn
+        content: Norm Brickman
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Santos
+      surname:
+        language: en
+        script: Latn
+        content: Jha
+      completename:
+        language: en
+        script: Latn
+        content: Santos Jha
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Sarah
+      surname:
+        language: en
+        script: Latn
+        content: Weeks
+      completename:
+        language: en
+        script: Latn
+        content: Sarah Weeks
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ted
+      surname:
+        language: en
+        script: Latn
+        content: Kolovos
+      completename:
+        language: en
+        script: Latn
+        content: Ted Kolovos
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Prescott
+      surname:
+        language: en
+        script: Latn
+        content: Burden
+      completename:
+        language: en
+        script: Latn
+        content: Prescott Burden
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Leah
+      surname:
+        language: en
+        script: Latn
+        content: Kauffman
+      completename:
+        language: en
+        script: Latn
+        content: Leah R. Kauffman
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: authorization
+- vocab:
+    content: identity federation
+- vocab:
+    content: identity management
+- vocab:
+    content: identity provider
+- vocab:
+    content: relying party &nbsp
+- vocab:
+    content: access management
+- vocab:
+    content: access control
+- vocab:
+    content: authentication
+- vocab:
+    content: attribute provider
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2015-09-29'
+    to: '2015-12-04'

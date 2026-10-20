@@ -1,23 +1,158 @@
 ---
 id: NISTSP800226ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Guidelines for Evaluating Differential Privacy Guarantees
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/226/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-226.ipd
 docidentifier:
 - content: NIST SP 800-226 ipd
   type: NIST
   primary: true
+- content: NIST.SP.800-226.ipd
+  type: DOI
 date:
+- type: published
+  at: '2023-12-11'
+- type: obsoleted
+  at: '2025-03-06'
 - type: issued
   at: '2023-12-11'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Joseph
+      surname:
+        language: en
+        script: Latn
+        content: Near
+      completename:
+        language: en
+        script: Latn
+        content: Joseph Near
+    affiliation:
+    - organization:
+        name:
+        - content: University of Vermont
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: David
+      surname:
+        language: en
+        script: Latn
+        content: Darais
+      completename:
+        language: en
+        script: Latn
+        content: David Darais
+    affiliation:
+    - organization:
+        name:
+        - content: Galois
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Naomi
+      surname:
+        language: en
+        script: Latn
+        content: Lefkovitz
+      completename:
+        language: en
+        script: Latn
+        content: Naomi B. Lefkovitz
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Gary
+      surname:
+        language: en
+        script: Latn
+        content: Howarth
+      completename:
+        language: en
+        script: Latn
+        content: Gary Howarth
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: anonymization
+- vocab:
+    content: data analytics
+- vocab:
+    content: data privacy
+- vocab:
+    content: de-identification
+- vocab:
+    content: differential privacy
+- vocab:
+    content: privacy
+- vocab:
+    content: privacy-enhancing technologies
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2023-12-11'
+    to: '2024-01-25'

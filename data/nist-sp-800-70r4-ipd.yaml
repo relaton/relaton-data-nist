@@ -1,0 +1,160 @@
+---
+id: NISTSP80070r4ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: National Checklist Program for IT Products - Guidelines for Checklist Users and Developers
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/70/r4/ipd
+docidentifier:
+- content: NIST SP 800-70r4 ipd
+  type: NIST
+  primary: true
+date:
+- type: published
+  at: '2017-08-01'
+- type: obsoleted
+  at: '2018-02-15'
+- type: issued
+  at: '2017-08-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Stephen
+      surname:
+        language: en
+        script: Latn
+        content: Quinn
+      completename:
+        language: en
+        script: Latn
+        content: Stephen D. Quinn
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Murugiah
+      surname:
+        language: en
+        script: Latn
+        content: Souppaya
+      completename:
+        language: en
+        script: Latn
+        content: Murugiah P. Souppaya
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Melanie
+      surname:
+        language: en
+        script: Latn
+        content: Cook
+      completename:
+        language: en
+        script: Latn
+        content: Melanie Richardson Cook
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Karen
+      surname:
+        language: en
+        script: Latn
+        content: Scarfone
+      completename:
+        language: en
+        script: Latn
+        content: Karen A. Scarfone
+    affiliation:
+    - organization:
+        name:
+        - content: Scarfone Cybersecurity
+edition:
+  content: Revision 4
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: retired
+  iteration: '1'
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: change detection
+- vocab:
+    content: checklist
+- vocab:
+    content: information security
+- vocab:
+    content: National Checklist Program (NCP)
+- vocab:
+    content: security configuration checklist
+- vocab:
+    content: Security Content Automation Protocol (SCAP)
+- vocab:
+    content: software configuration
+- vocab:
+    content: vulnerability
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2017-08-01'
+    to: '2017-08-30'

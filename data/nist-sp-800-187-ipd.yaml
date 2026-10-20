@@ -1,11 +1,11 @@
 ---
 id: NISTSP800187ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Guide to LTE Security
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/187/ipd
@@ -14,10 +14,123 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2016-11-21'
+- type: obsoleted
+  at: '2017-12-21'
 - type: issued
-  at: 2016-11
+  at: '2016-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jeffrey
+      surname:
+        language: en
+        script: Latn
+        content: Cichonski
+      completename:
+        language: en
+        script: Latn
+        content: Jeffrey A. Cichonski
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Joshua
+      surname:
+        language: en
+        script: Latn
+        content: Franklin
+      completename:
+        language: en
+        script: Latn
+        content: Joshua M. Franklin
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Bartock
+      completename:
+        language: en
+        script: Latn
+        content: Michael Bartock
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: retired
+  iteration: '1'
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: cellular security
+- vocab:
+    content: networking
+- vocab:
+    content: Long Term Evolution
+- vocab:
+    content: 3rd Generation Partnership Project (3GPP)
+- vocab:
+    content: LTE
+- vocab:
+    content: telecommunications
+- vocab:
+    content: wireless
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2016-11-21'
+    to: '2016-12-22'

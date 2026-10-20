@@ -1,0 +1,186 @@
+---
+id: NISTSP800213r1ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: IoT Product Cybersecurity Guidelines for the Federal Government - Establishing IoT Product Cybersecurity Requirements
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/213/r1/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-213r1.ipd
+docidentifier:
+- content: NIST SP 800-213r1 ipd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-213r1.ipd
+  type: DOI
+date:
+- type: published
+  at: '2026-06-24'
+- type: issued
+  at: '2026-06-24'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Fagan
+      completename:
+        language: en
+        script: Latn
+        content: Michael Fagan
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Katerina
+      surname:
+        language: en
+        script: Latn
+        content: Megas
+      completename:
+        language: en
+        script: Latn
+        content: Katerina N. Megas
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jeffrey
+      surname:
+        language: en
+        script: Latn
+        content: Marron
+      completename:
+        language: en
+        script: Latn
+        content: Jeffrey Marron
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kevin
+      surname:
+        language: en
+        script: Latn
+        content: Brady
+      addition:
+      - language: en
+        script: Latn
+        content: Jr.
+      completename:
+        language: en
+        script: Latn
+        content: Kevin G. Brady Jr.
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Barbara
+      surname:
+        language: en
+        script: Latn
+        content: Cuthill
+      completename:
+        language: en
+        script: Latn
+        content: Barbara B. Cuthill
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+edition:
+  content: Revision 1
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: active
+  iteration: '1'
+copyright:
+- from: '2026'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: cybersecurity baseline
+- vocab:
+    content: Internet of Things (IoT)
+- vocab:
+    content: securable computing devices
+- vocab:
+    content: security requirements
+- vocab:
+    content: Risk Management Framework
+- vocab:
+    content: Cybersecurity Framework
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2026-06-24'
+    to: '2026-08-24'

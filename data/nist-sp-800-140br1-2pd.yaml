@@ -1,0 +1,146 @@
+---
+id: NISTSP800140Br12pd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: CMVP Security Policy Requirements - CMVP Validation Authority Updates to ISO/IEC 24759 and ISO/IEC 19790 Annex B
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/140/b/r1/2pd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-140Br1.2pd
+docidentifier:
+- content: NIST SP 800-140Br1 2pd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-140Br1.2pd
+  type: DOI
+date:
+- type: published
+  at: '2022-10-17'
+- type: obsoleted
+  at: '2023-11-17'
+- type: issued
+  at: '2022-10-17'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: David
+      surname:
+        language: en
+        script: Latn
+        content: Hawes
+      completename:
+        language: en
+        script: Latn
+        content: David Hawes
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Alexander
+      surname:
+        language: en
+        script: Latn
+        content: Calis
+      completename:
+        language: en
+        script: Latn
+        content: Alexander H. Calis
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Roy
+      surname:
+        language: en
+        script: Latn
+        content: Crombie
+      completename:
+        language: en
+        script: Latn
+        content: Roy Crombie
+    affiliation:
+    - organization:
+        name:
+        - content: Canadian Centre for Cyber Security
+edition:
+  content: Revision 1
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '2'
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: Cryptographic Module Validation Program
+- vocab:
+    content: CMVP
+- vocab:
+    content: FIPS 140 testing
+- vocab:
+    content: FIPS 140
+- vocab:
+    content: ISO/IEC 19790
+- vocab:
+    content: ISO/IEC 24759
+- vocab:
+    content: testing requirement
+- vocab:
+    content: vendor evidence
+- vocab:
+    content: vendor documentation
+- vocab:
+    content: security policy
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2022-10-17'
+    to: '2022-12-05'

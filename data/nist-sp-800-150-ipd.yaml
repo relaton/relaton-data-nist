@@ -1,11 +1,11 @@
 ---
 id: NISTSP800150ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Guide to Cyber Threat Information Sharing
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/150/ipd
@@ -14,10 +14,163 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2016-04-21'
+- type: obsoleted
+  at: '2016-10-04'
 - type: issued
-  at: 2016-04
+  at: '2016-04-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Christopher
+      surname:
+        language: en
+        script: Latn
+        content: Johnson
+      completename:
+        language: en
+        script: Latn
+        content: Christopher S. Johnson
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Mark
+      surname:
+        language: en
+        script: Latn
+        content: Badger
+      completename:
+        language: en
+        script: Latn
+        content: Mark Lee Badger
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: David
+      surname:
+        language: en
+        script: Latn
+        content: Waltermire
+      completename:
+        language: en
+        script: Latn
+        content: David A. Waltermire
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Julie
+      surname:
+        language: en
+        script: Latn
+        content: Snyder
+      completename:
+        language: en
+        script: Latn
+        content: Julie Snyder
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Clem
+      surname:
+        language: en
+        script: Latn
+        content: Skorupka
+      completename:
+        language: en
+        script: Latn
+        content: Clem Skorupka
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: cyber threat information sharing
+- vocab:
+    content: indicators
+- vocab:
+    content: information security
+- vocab:
+    content: cyber threat
+- vocab:
+    content: information sharing
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2016-04-21'
+    to: '2016-05-24'

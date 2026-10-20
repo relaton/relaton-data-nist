@@ -1,0 +1,184 @@
+---
+id: NISTSP800126r3ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: The Technical Specification for the Security Content Automation Protocol (SCAP) - SCAP Version 1.3
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/126/r3/ipd
+docidentifier:
+- content: NIST SP 800-126r3 ipd
+  type: NIST
+  primary: true
+date:
+- type: published
+  at: '2016-07-18'
+- type: obsoleted
+  at: '2018-02-14'
+- type: issued
+  at: '2016-07-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: David
+      surname:
+        language: en
+        script: Latn
+        content: Waltermire
+      completename:
+        language: en
+        script: Latn
+        content: David A. Waltermire
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Stephen
+      surname:
+        language: en
+        script: Latn
+        content: Quinn
+      completename:
+        language: en
+        script: Latn
+        content: Stephen D. Quinn
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Harold
+      surname:
+        language: en
+        script: Latn
+        content: Booth
+      addition:
+      - language: en
+        script: Latn
+        content: III
+      completename:
+        language: en
+        script: Latn
+        content: Harold Booth III
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Karen
+      surname:
+        language: en
+        script: Latn
+        content: Scarfone
+      completename:
+        language: en
+        script: Latn
+        content: Karen A. Scarfone
+    affiliation:
+    - organization:
+        name:
+        - content: Scarfone Cybersecurity
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Dragos
+      surname:
+        language: en
+        script: Latn
+        content: Prisaca
+      completename:
+        language: en
+        script: Latn
+        content: Dragos Prisaca
+    affiliation:
+    - organization:
+        name:
+        - content: G2
+edition:
+  content: Revision 3
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: retired
+  iteration: '1'
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: patch verification
+- vocab:
+    content: security automation
+- vocab:
+    content: security checklists
+- vocab:
+    content: security configuration
+- vocab:
+    content: 112 Security Content Automation Protocol (SCAP)
+- vocab:
+    content: software flaws
+- vocab:
+    content: checklists
+- vocab:
+    content: vulnerabilities
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2016-07-18'
+    to: '2016-08-19'

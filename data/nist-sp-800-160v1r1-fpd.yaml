@@ -1,0 +1,196 @@
+---
+id: NISTSP800160v1r1fpd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Engineering Trustworthy Secure Systems
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/160/v1/r1/fpd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-160v1r1.fpd
+docidentifier:
+- content: NIST SP 800-160v1r1 fpd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-160v1r1.fpd
+  type: DOI
+date:
+- type: published
+  at: '2022-06-07'
+- type: obsoleted
+  at: '2022-11-16'
+- type: issued
+  at: '2022-06-07'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      prefix:
+      - language: en
+        script: Latn
+        content: Dr.
+      forename:
+      - language: en
+        script: Latn
+        content: Ron
+      surname:
+        language: en
+        script: Latn
+        content: Ross
+      completename:
+        language: en
+        script: Latn
+        content: Ron S. Ross
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Mark
+      surname:
+        language: en
+        script: Latn
+        content: Winstead
+      completename:
+        language: en
+        script: Latn
+        content: Mark Winstead
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: McEvilley
+      completename:
+        language: en
+        script: Latn
+        content: Michael McEvilley
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+edition:
+  content: Revision 1
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: final
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: assurance
+- vocab:
+    content: developmental engineering
+- vocab:
+    content: engineering trades
+- vocab:
+    content: field engineering
+- vocab:
+    content: implementation
+- vocab:
+    content: information security
+- vocab:
+    content: information security policy
+- vocab:
+    content: inspection
+- vocab:
+    content: integration
+- vocab:
+    content: penetration testing
+- vocab:
+    content: protection needs
+- vocab:
+    content: requirements analysis
+- vocab:
+    content: resilience
+- vocab:
+    content: review
+- vocab:
+    content: risk assessment
+- vocab:
+    content: risk management
+- vocab:
+    content: risk treatment
+- vocab:
+    content: security architecture
+- vocab:
+    content: security design
+- vocab:
+    content: security requirements
+- vocab:
+    content: specifications
+- vocab:
+    content: stakeholders
+- vocab:
+    content: system of systems
+- vocab:
+    content: system component
+- vocab:
+    content: system element
+- vocab:
+    content: system life cycle
+- vocab:
+    content: systems
+- vocab:
+    content: systems engineering
+- vocab:
+    content: systems security engineering
+- vocab:
+    content: trustworthiness
+- vocab:
+    content: validation
+- vocab:
+    content: verification
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2022-06-07'
+    to: '2022-07-08'

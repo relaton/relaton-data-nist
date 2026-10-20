@@ -1,11 +1,11 @@
 ---
 id: NISTSP800199ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Security and Privacy Controls for Fog-based Information Systems
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/199/ipd
@@ -13,6 +13,33 @@ docidentifier:
 - content: NIST SP 800-199 ipd
   type: NIST
   primary: true
+date:
+- type: published
+  at: '2023-12-31'
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: active
+  iteration: '1'
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
 ext:
   schema_version: v1.1.2
   doctype:

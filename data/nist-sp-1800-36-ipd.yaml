@@ -1,11 +1,11 @@
 ---
 id: NISTSP180036ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
-  content: Trusted Internet of Things (IoT) Device Network-Layer Onboarding and Lifecycle Management
-  type: title-main
+  content: Trusted Internet of Things (IoT) Device Network-Layer Onboarding and Lifecycle Management - Enhancing Internet Protocol-Based IoT Device and Network Security
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/1800/36/ipd
@@ -14,10 +14,615 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2024-05-31'
+- type: obsoleted
+  at: '2025-11-25'
 - type: issued
-  at: 2024-05
+  at: '2024-05-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Fagan
+      completename:
+        language: en
+        script: Latn
+        content: Michael Fagan
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jeffrey
+      surname:
+        language: en
+        script: Latn
+        content: Marron
+      completename:
+        language: en
+        script: Latn
+        content: Jeffrey Marron
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Paul
+      surname:
+        language: en
+        script: Latn
+        content: Watrobski
+      completename:
+        language: en
+        script: Latn
+        content: Paul Watrobski
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Murugiah
+      surname:
+        language: en
+        script: Latn
+        content: Souppaya
+      completename:
+        language: en
+        script: Latn
+        content: Murugiah P. Souppaya
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Chelsea
+      surname:
+        language: en
+        script: Latn
+        content: Deane
+      completename:
+        language: en
+        script: Latn
+        content: Chelsea Deane
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Joshua
+      surname:
+        language: en
+        script: Latn
+        content: Klosterman
+      completename:
+        language: en
+        script: Latn
+        content: Joshua Klosterman
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Charlie
+      surname:
+        language: en
+        script: Latn
+        content: Rearick
+      completename:
+        language: en
+        script: Latn
+        content: Charlie Rearick
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Blaine
+      surname:
+        language: en
+        script: Latn
+        content: Mulugeta
+      completename:
+        language: en
+        script: Latn
+        content: Blaine Mulugeta
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Susan
+      surname:
+        language: en
+        script: Latn
+        content: Symington
+      completename:
+        language: en
+        script: Latn
+        content: Susan Symington
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Dan
+      surname:
+        language: en
+        script: Latn
+        content: Harkins
+      completename:
+        language: en
+        script: Latn
+        content: Dan Harkins
+    affiliation:
+    - organization:
+        name:
+        - content: Aruba, a Hewlett Packard Enterprise company
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Danny
+      surname:
+        language: en
+        script: Latn
+        content: Jump
+      completename:
+        language: en
+        script: Latn
+        content: Danny Jump
+    affiliation:
+    - organization:
+        name:
+        - content: Aruba, a Hewlett Packard Enterprise company
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Andy
+      surname:
+        language: en
+        script: Latn
+        content: Dolan
+      completename:
+        language: en
+        script: Latn
+        content: Andy Dolan
+    affiliation:
+    - organization:
+        name:
+        - content: CableLabs
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kyle
+      surname:
+        language: en
+        script: Latn
+        content: Haefner
+      completename:
+        language: en
+        script: Latn
+        content: Kyle Haefner
+    affiliation:
+    - organization:
+        name:
+        - content: CableLabs
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Craig
+      surname:
+        language: en
+        script: Latn
+        content: Pratt
+      completename:
+        language: en
+        script: Latn
+        content: Craig Pratt
+    affiliation:
+    - organization:
+        name:
+        - content: CableLabs
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Darshak
+      surname:
+        language: en
+        script: Latn
+        content: Thakore
+      completename:
+        language: en
+        script: Latn
+        content: Darshak Thakore
+    affiliation:
+    - organization:
+        name:
+        - content: CableLabs
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Peter
+      surname:
+        language: en
+        script: Latn
+        content: Romness
+      completename:
+        language: en
+        script: Latn
+        content: Peter Romness
+    affiliation:
+    - organization:
+        name:
+        - content: Cisco
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Tyler
+      surname:
+        language: en
+        script: Latn
+        content: Baker
+      completename:
+        language: en
+        script: Latn
+        content: Tyler Baker
+    affiliation:
+    - organization:
+        name:
+        - content: Foundries.io
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: David
+      surname:
+        language: en
+        script: Latn
+        content: Griego
+      completename:
+        language: en
+        script: Latn
+        content: David Griego
+    affiliation:
+    - organization:
+        name:
+        - content: Foundries.io
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Brecht
+      surname:
+        language: en
+        script: Latn
+        content: Wyseur
+      completename:
+        language: en
+        script: Latn
+        content: Brecht Wyseur
+    affiliation:
+    - organization:
+        name:
+        - content: Kudelski IoT
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Alexandru
+      surname:
+        language: en
+        script: Latn
+        content: Mereacre
+      completename:
+        language: en
+        script: Latn
+        content: Alexandru Mereacre
+    affiliation:
+    - organization:
+        name:
+        - content: NquiringMinds
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Nick
+      surname:
+        language: en
+        script: Latn
+        content: Allott
+      completename:
+        language: en
+        script: Latn
+        content: Nick Allott
+    affiliation:
+    - organization:
+        name:
+        - content: NquiringMinds
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ashley
+      surname:
+        language: en
+        script: Latn
+        content: Setter
+      completename:
+        language: en
+        script: Latn
+        content: Ashley Setter
+    affiliation:
+    - organization:
+        name:
+        - content: NquiringMinds
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Julien
+      surname:
+        language: en
+        script: Latn
+        content: Delaplanke
+      completename:
+        language: en
+        script: Latn
+        content: Julien Delaplanke
+    affiliation:
+    - organization:
+        name:
+        - content: NXP Semiconductors
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Richardson
+      completename:
+        language: en
+        script: Latn
+        content: Michael Richardson
+    affiliation:
+    - organization:
+        name:
+        - content: Sandelman Software Works
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Steve
+      surname:
+        language: en
+        script: Latn
+        content: Clark
+      completename:
+        language: en
+        script: Latn
+        content: Steve Clark
+    affiliation:
+    - organization:
+        name:
+        - content: SEALSQ, a subsidiary of WISeKey
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Mike
+      surname:
+        language: en
+        script: Latn
+        content: Dow
+      completename:
+        language: en
+        script: Latn
+        content: Mike Dow
+    affiliation:
+    - organization:
+        name:
+        - content: Silicon Labs
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Steve
+      surname:
+        language: en
+        script: Latn
+        content: Egerter
+      completename:
+        language: en
+        script: Latn
+        content: Steve Egerter
+    affiliation:
+    - organization:
+        name:
+        - content: Silicon Labs
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: application-layer onboarding
+- vocab:
+    content: bootstrapping
+- vocab:
+    content: Internet of Things (IoT)
+- vocab:
+    content: Manufacturer Usage Description (MUD)
+- vocab:
+    content: network-layer onboarding
+- vocab:
+    content: onboarding
+- vocab:
+    content: Wi-Fi Easy Connect
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2024-05-31'
+    to: '2024-07-30'

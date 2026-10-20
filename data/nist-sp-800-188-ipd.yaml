@@ -1,11 +1,11 @@
 ---
 id: NISTSP800188ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: De-Identifying Government Datasets
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/188/ipd
@@ -14,10 +14,89 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2016-08-25'
+- type: obsoleted
+  at: '2016-12-15'
 - type: issued
-  at: 2016-08
+  at: '2016-08-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Simson
+      surname:
+        language: en
+        script: Latn
+        content: Garfinkel
+      completename:
+        language: en
+        script: Latn
+        content: Simson L. Garfinkel
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: de-identification
+- vocab:
+    content: re-identification
+- vocab:
+    content: Disclosure Review Board
+- vocab:
+    content: data life cycle
+- vocab:
+    content: the five safes
+- vocab:
+    content: k-anonymity
+- vocab:
+    content: differential privacy
+- vocab:
+    content: pseudonymization
+- vocab:
+    content: direct identifiers
+- vocab:
+    content: quasi-identifiers
+- vocab:
+    content: privacy
+- vocab:
+    content: synthetic data
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2016-08-25'
+    to: '2016-09-26'

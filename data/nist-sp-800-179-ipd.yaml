@@ -1,11 +1,11 @@
 ---
 id: NISTSP800179ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
-  content: Guide to Securing Apple OS X 10.10 Systems for IT Professionals
-  type: title-main
+  content: Guide to Securing Apple OS X 10.10 Systems for IT Professionals - A NIST Security Configuration Checklist
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/179/ipd
@@ -14,10 +14,123 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2016-06-23'
+- type: obsoleted
+  at: '2016-12-08'
 - type: issued
-  at: 2016-06
+  at: '2016-06-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Mark
+      surname:
+        language: en
+        script: Latn
+        content: Trapnell
+      completename:
+        language: en
+        script: Latn
+        content: Mark Trapnell
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Eric
+      surname:
+        language: en
+        script: Latn
+        content: Trapnell
+      completename:
+        language: en
+        script: Latn
+        content: Eric Trapnell
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Karen
+      surname:
+        language: en
+        script: Latn
+        content: Scarfone
+      completename:
+        language: en
+        script: Latn
+        content: Karen A. Scarfone
+    affiliation:
+    - organization:
+        name:
+        - content: Scarfone Cybersecurity
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: endpoint device security
+- vocab:
+    content: hardening guide
+- vocab:
+    content: host security
+- vocab:
+    content: mobile device security
+- vocab:
+    content: operating system security
+- vocab:
+    content: secure configuration
+- vocab:
+    content: checklist
+- vocab:
+    content: Apple OS X
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2016-06-23'
+    to: '2016-08-15'

@@ -1,11 +1,11 @@
 ---
 id: NISTSP800164ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Guidelines on Hardware-Rooted Security in Mobile Devices
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/164/ipd
@@ -14,10 +14,119 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2012-10-31'
+- type: obsoleted
+  at: '2023-03-24'
 - type: issued
-  at: 2012-10
+  at: '2012-10-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Lily
+      surname:
+        language: en
+        script: Latn
+        content: Chen
+      completename:
+        language: en
+        script: Latn
+        content: Lily Chen
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Joshua
+      surname:
+        language: en
+        script: Latn
+        content: Franklin
+      completename:
+        language: en
+        script: Latn
+        content: Joshua M. Franklin
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Andrew
+      surname:
+        language: en
+        script: Latn
+        content: Regenscheid
+      completename:
+        language: en
+        script: Latn
+        content: Andrew R. Regenscheid
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: retired
+  iteration: '1'
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: mobile device security
+- vocab:
+    content: root of trust
+- vocab:
+    content: smartphone
+- vocab:
+    content: information security
+- vocab:
+    content: tablet
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2012-10-31'
+    to: '2012-12-14'

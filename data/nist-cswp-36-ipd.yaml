@@ -1,0 +1,576 @@
+---
+id: NISTCSWP36ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Applying 5G Cybersecurity and Privacy Capabilities - Introduction to the White Paper Series
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/cswp/36/applying-5g-cybersecurity-and-privacy-capabilities/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.CSWP.36.ipd
+docidentifier:
+- content: NIST CSWP 36 ipd
+  type: NIST
+  primary: true
+- content: NIST.CSWP.36.ipd
+  type: DOI
+date:
+- type: published
+  at: '2024-08-15'
+- type: obsoleted
+  at: '2026-03-19'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Bartock
+      completename:
+        language: en
+        script: Latn
+        content: Michael Bartock
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jeffrey
+      surname:
+        language: en
+        script: Latn
+        content: Cichonski
+      completename:
+        language: en
+        script: Latn
+        content: Jeffrey A. Cichonski
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Murugiah
+      surname:
+        language: en
+        script: Latn
+        content: Souppaya
+      completename:
+        language: en
+        script: Latn
+        content: Murugiah P. Souppaya
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Karen
+      surname:
+        language: en
+        script: Latn
+        content: Scarfone
+      completename:
+        language: en
+        script: Latn
+        content: Karen A. Scarfone
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Parisa
+      surname:
+        language: en
+        script: Latn
+        content: Grayeli
+      completename:
+        language: en
+        script: Latn
+        content: Parisa Grayeli
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Sanjeev
+      surname:
+        language: en
+        script: Latn
+        content: Sharma
+      completename:
+        language: en
+        script: Latn
+        content: Sanjeev Sharma
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Thomas
+      surname:
+        language: en
+        script: Latn
+        content: McCarthy
+      completename:
+        language: en
+        script: Latn
+        content: Thomas McCarthy
+    affiliation:
+    - organization:
+        name:
+        - content: AMI
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Muthukkumaran
+      surname:
+        language: en
+        script: Latn
+        content: Ramalingam
+      completename:
+        language: en
+        script: Latn
+        content: Muthukkumaran Ramalingam
+    affiliation:
+    - organization:
+        name:
+        - content: AMI
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Presanna
+      surname:
+        language: en
+        script: Latn
+        content: Raman
+      completename:
+        language: en
+        script: Latn
+        content: Presanna Raman
+    affiliation:
+    - organization:
+        name:
+        - content: AMI
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Stefano
+      surname:
+        language: en
+        script: Latn
+        content: Righi
+      completename:
+        language: en
+        script: Latn
+        content: Stefano Righi
+    affiliation:
+    - organization:
+        name:
+        - content: AMI
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jitendra
+      surname:
+        language: en
+        script: Latn
+        content: Patel
+      completename:
+        language: en
+        script: Latn
+        content: Jitendra Patel
+    affiliation:
+    - organization:
+        name:
+        - content: AT&T
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Bogdan
+      surname:
+        language: en
+        script: Latn
+        content: Ungureanu
+      completename:
+        language: en
+        script: Latn
+        content: Bogdan Ungureanu
+    affiliation:
+    - organization:
+        name:
+        - content: AT&T
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Tao
+      surname:
+        language: en
+        script: Latn
+        content: Wan
+      completename:
+        language: en
+        script: Latn
+        content: Tao Wan
+    affiliation:
+    - organization:
+        name:
+        - content: CableLabs
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Matthew
+      surname:
+        language: en
+        script: Latn
+        content: Hyatt
+      completename:
+        language: en
+        script: Latn
+        content: Matthew Hyatt
+    affiliation:
+    - organization:
+        name:
+        - content: Cisco
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Steve
+      surname:
+        language: en
+        script: Latn
+        content: Vetter
+      completename:
+        language: en
+        script: Latn
+        content: Steve Vetter
+    affiliation:
+    - organization:
+        name:
+        - content: Cisco
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Dan
+      surname:
+        language: en
+        script: Latn
+        content: Carroll
+      completename:
+        language: en
+        script: Latn
+        content: Dan Carroll
+    affiliation:
+    - organization:
+        name:
+        - content: Dell Technologies
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Steve
+      surname:
+        language: en
+        script: Latn
+        content: Orrin
+      completename:
+        language: en
+        script: Latn
+        content: Steve Orrin
+    affiliation:
+    - organization:
+        name:
+        - content: Intel
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Corey
+      surname:
+        language: en
+        script: Latn
+        content: Piggott
+      completename:
+        language: en
+        script: Latn
+        content: Corey Piggott
+    affiliation:
+    - organization:
+        name:
+        - content: Keysight Technologies
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Yeh
+      completename:
+        language: en
+        script: Latn
+        content: Michael Yeh
+    affiliation:
+    - organization:
+        name:
+        - content: MiTAC Computing
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Gary
+      surname:
+        language: en
+        script: Latn
+        content: Atkinson
+      completename:
+        language: en
+        script: Latn
+        content: Gary Atkinson
+    affiliation:
+    - organization:
+        name:
+        - content: Nokia Bell Labs
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Rajasekhar
+      surname:
+        language: en
+        script: Latn
+        content: Bodanki
+      completename:
+        language: en
+        script: Latn
+        content: Rajasekhar Bodanki
+    affiliation:
+    - organization:
+        name:
+        - content: Nokia Bell Labs
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Don
+      surname:
+        language: en
+        script: Latn
+        content: McBride
+      completename:
+        language: en
+        script: Latn
+        content: Don McBride
+    affiliation:
+    - organization:
+        name:
+        - content: Nokia Bell Labs
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Aarin
+      surname:
+        language: en
+        script: Latn
+        content: Buskirk
+      completename:
+        language: en
+        script: Latn
+        content: Aarin Buskirk
+    affiliation:
+    - organization:
+        name:
+        - content: Palo Alto Networks
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Bryan
+      surname:
+        language: en
+        script: Latn
+        content: Wenger
+      completename:
+        language: en
+        script: Latn
+        content: Bryan Wenger
+    affiliation:
+    - organization:
+        name:
+        - content: Palo Alto Networks
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Todd
+      surname:
+        language: en
+        script: Latn
+        content: Gibson
+      completename:
+        language: en
+        script: Latn
+        content: Todd Gibson
+    affiliation:
+    - organization:
+        name:
+        - content: T-Mobile
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: 5G
+- vocab:
+    content: cybersecurity
+- vocab:
+    content: privacy
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2024-08-15'
+    to: '2024-09-16'

@@ -1,0 +1,94 @@
+---
+id: NISTSP800108r1ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Recommendation for Key Derivation Using Pseudorandom Functions
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/108/r1/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-108r1-draft
+docidentifier:
+- content: NIST SP 800-108r1 ipd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-108r1-draft
+  type: DOI
+date:
+- type: published
+  at: '2021-10-18'
+- type: obsoleted
+  at: '2022-08-17'
+- type: issued
+  at: '2021-10-18'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Lily
+      surname:
+        language: en
+        script: Latn
+        content: Chen
+      completename:
+        language: en
+        script: Latn
+        content: Lily Chen
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+edition:
+  content: Revision 1
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: CMAC
+- vocab:
+    content: HMAC
+- vocab:
+    content: key derivation
+- vocab:
+    content: KMAC
+- vocab:
+    content: pseudorandom function
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2021-10-18'
+    to: '2022-01-18'

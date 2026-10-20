@@ -1,0 +1,81 @@
+---
+id: NISTCSWP29ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: The NIST Cybersecurity Framework 2.0
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/cswp/29/the-nist-cybersecurity-framework-20/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.CSWP.29.ipd
+docidentifier:
+- content: NIST CSWP 29 ipd
+  type: NIST
+  primary: true
+- content: NIST.CSWP.29.ipd
+  type: DOI
+date:
+- type: published
+  at: '2023-08-08'
+- type: obsoleted
+  at: '2024-02-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: National Institute of Standards and Technology
+    abbreviation:
+      content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: cybersecurity
+- vocab:
+    content: Cybersecurity Framework
+- vocab:
+    content: cybersecurity risk governance
+- vocab:
+    content: cybersecurity risk management
+- vocab:
+    content: cybersecurity supply chain risk management
+- vocab:
+    content: enterprise risk management
+- vocab:
+    content: Privacy Framework
+- vocab:
+    content: Profiles
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2023-08-08'
+    to: '2023-11-06'

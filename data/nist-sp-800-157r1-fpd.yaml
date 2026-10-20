@@ -1,0 +1,140 @@
+---
+id: NISTSP800157r1fpd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Guidelines for Derived Personal Identity Verification (PIV) Credentials
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/157/r1/fpd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-157r1.fpd
+docidentifier:
+- content: NIST SP 800-157r1 fpd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-157r1.fpd
+  type: DOI
+date:
+- type: published
+  at: '2024-11-14'
+- type: issued
+  at: '2024-11-14'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Hildegard
+      surname:
+        language: en
+        script: Latn
+        content: Ferraiolo
+      completename:
+        language: en
+        script: Latn
+        content: Hildegard Ferraiolo
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Andrew
+      surname:
+        language: en
+        script: Latn
+        content: Regenscheid
+      completename:
+        language: en
+        script: Latn
+        content: Andrew R. Regenscheid
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: James
+      surname:
+        language: en
+        script: Latn
+        content: Fenton
+      completename:
+        language: en
+        script: Latn
+        content: James L. Fenton
+    affiliation:
+    - organization:
+        name:
+        - content: Altmode Networks
+edition:
+  content: Revision 1
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: active
+  iteration: final
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: authentication
+- vocab:
+    content: credentials
+- vocab:
+    content: derived PIV credentials
+- vocab:
+    content: electronic authentication
+- vocab:
+    content: electronic credentials
+- vocab:
+    content: mobile devices
+- vocab:
+    content: personal identity verification
+- vocab:
+    content: PIV
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2024-11-14'
+    to: '2025-01-10'

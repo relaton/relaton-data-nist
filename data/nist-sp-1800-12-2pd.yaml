@@ -1,0 +1,278 @@
+---
+id: NISTSP1800122pd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Derived Personal Identity Verification (PIV) Credentials
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/1800/12/2pd
+docidentifier:
+- content: NIST SP 1800-12 2pd
+  type: NIST
+  primary: true
+date:
+- type: published
+  at: '2018-08-02'
+- type: obsoleted
+  at: '2019-08-27'
+- type: issued
+  at: '2018-08-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: William
+      surname:
+        language: en
+        script: Latn
+        content: Newhouse
+      completename:
+        language: en
+        script: Latn
+        content: William D. Newhouse
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Bartock
+      completename:
+        language: en
+        script: Latn
+        content: Michael Bartock
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jeffrey
+      surname:
+        language: en
+        script: Latn
+        content: Cichonski
+      completename:
+        language: en
+        script: Latn
+        content: Jeffrey A. Cichonski
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Hildegard
+      surname:
+        language: en
+        script: Latn
+        content: Ferraiolo
+      completename:
+        language: en
+        script: Latn
+        content: Hildegard Ferraiolo
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Murugiah
+      surname:
+        language: en
+        script: Latn
+        content: Souppaya
+      completename:
+        language: en
+        script: Latn
+        content: Murugiah P. Souppaya
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Christopher
+      surname:
+        language: en
+        script: Latn
+        content: Brown
+      completename:
+        language: en
+        script: Latn
+        content: Christopher Brown
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Spike
+      surname:
+        language: en
+        script: Latn
+        content: Dog
+      completename:
+        language: en
+        script: Latn
+        content: Spike Dog
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Susan
+      surname:
+        language: en
+        script: Latn
+        content: Prince
+      completename:
+        language: en
+        script: Latn
+        content: Susan Prince
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Julian
+      surname:
+        language: en
+        script: Latn
+        content: Sexton
+      completename:
+        language: en
+        script: Latn
+        content: Julian T. Sexton
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '2'
+copyright:
+- from: '2018'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: enterprise mobility management (EMM)
+- vocab:
+    content: identity
+- vocab:
+    content: mobile&nbsp
+- vocab:
+    content: mobile threat
+- vocab:
+    content: "(multifactor) authentication"
+- vocab:
+    content: network/software vulnerability
+- vocab:
+    content: Personal Identity Verification (PIV)
+- vocab:
+    content: PIV card
+- vocab:
+    content: device
+- vocab:
+    content: smart card
+- vocab:
+    content: derived PIV credential (DPC)
+- vocab:
+    content: cybersecurity
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2018-08-02'
+    to: '2018-10-01'

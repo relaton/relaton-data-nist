@@ -1,0 +1,162 @@
+---
+id: NISTSP80061r3ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Incident Response Recommendations and Considerations for Cybersecurity Risk Management - A CSF 2.0 Community Profile
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/61/r3/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-61r3.ipd
+docidentifier:
+- content: NIST SP 800-61r3 ipd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-61r3.ipd
+  type: DOI
+date:
+- type: published
+  at: '2024-04-03'
+- type: obsoleted
+  at: '2025-04-03'
+- type: issued
+  at: '2024-04-03'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Alexander
+      surname:
+        language: en
+        script: Latn
+        content: Nelson
+      completename:
+        language: en
+        script: Latn
+        content: Alexander J. Nelson
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Sanjay
+      surname:
+        language: en
+        script: Latn
+        content: Rekhi
+      completename:
+        language: en
+        script: Latn
+        content: Sanjay Rekhi
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Murugiah
+      surname:
+        language: en
+        script: Latn
+        content: Souppaya
+      completename:
+        language: en
+        script: Latn
+        content: Murugiah P. Souppaya
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Karen
+      surname:
+        language: en
+        script: Latn
+        content: Scarfone
+      completename:
+        language: en
+        script: Latn
+        content: Karen A. Scarfone
+    affiliation:
+    - organization:
+        name:
+        - content: Scarfone Cybersecurity
+edition:
+  content: Revision 3
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: cyber threat information sharing
+- vocab:
+    content: Cybersecurity Framework
+- vocab:
+    content: cybersecurity incident
+- vocab:
+    content: cybersecurity risk management
+- vocab:
+    content: incident handling
+- vocab:
+    content: incident management
+- vocab:
+    content: incident response
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2024-04-03'
+    to: '2024-05-20'

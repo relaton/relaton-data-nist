@@ -1,0 +1,116 @@
+---
+id: NISTSP80038Gr12pd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Recommendation for Block Cipher Modes of Operation - Methods for Format-Preserving Encryption
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/38/g/r1/2pd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-38Gr1.2pd
+docidentifier:
+- content: NIST SP 800-38Gr1 2pd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-38Gr1.2pd
+  type: DOI
+date:
+- type: published
+  at: '2025-02-03'
+- type: issued
+  at: '2025-02-03'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Morris
+      surname:
+        language: en
+        script: Latn
+        content: Dworkin
+      completename:
+        language: en
+        script: Latn
+        content: Morris J. Dworkin
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Nicky
+      surname:
+        language: en
+        script: Latn
+        content: Mouha
+      completename:
+        language: en
+        script: Latn
+        content: Nicky Mouha
+    affiliation:
+    - organization:
+        name:
+        - content: FedWriters
+edition:
+  content: Revision 1
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: active
+  iteration: '2'
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: block cipher
+- vocab:
+    content: confidentiality
+- vocab:
+    content: encryption
+- vocab:
+    content: FF1
+- vocab:
+    content: format-preserving encryption
+- vocab:
+    content: information security
+- vocab:
+    content: mode of operation
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2025-02-03'
+    to: '2025-04-04'

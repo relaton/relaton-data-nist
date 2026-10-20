@@ -1,0 +1,188 @@
+---
+id: NISTSP8001883pd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: De-Identifying Government Data Sets
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/188/3pd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-188.3pd
+docidentifier:
+- content: NIST SP 800-188 3pd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-188.3pd
+  type: DOI
+date:
+- type: published
+  at: '2022-11-15'
+- type: obsoleted
+  at: '2023-09-14'
+- type: issued
+  at: '2022-11-15'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Simson
+      surname:
+        language: en
+        script: Latn
+        content: Garfinkel
+      completename:
+        language: en
+        script: Latn
+        content: Simson L. Garfinkel
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Phyllis
+      surname:
+        language: en
+        script: Latn
+        content: Singer
+      completename:
+        language: en
+        script: Latn
+        content: Phyllis Singer
+    affiliation:
+    - organization:
+        name:
+        - content: U.S. Census Bureau
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Joseph
+      surname:
+        language: en
+        script: Latn
+        content: Near
+      completename:
+        language: en
+        script: Latn
+        content: Joseph Near
+    affiliation:
+    - organization:
+        name:
+        - content: University of Vermont
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Aref
+      surname:
+        language: en
+        script: Latn
+        content: Dajani
+      completename:
+        language: en
+        script: Latn
+        content: Aref N. Dajani
+    affiliation:
+    - organization:
+        name:
+        - content: U.S. Census Bureau
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Barbara
+      surname:
+        language: en
+        script: Latn
+        content: Guttman
+      completename:
+        language: en
+        script: Latn
+        content: Barbara Guttman
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '3'
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: data life cycle
+- vocab:
+    content: de-identification
+- vocab:
+    content: differential privacy
+- vocab:
+    content: direct identifiers
+- vocab:
+    content: Disclosure Review Board
+- vocab:
+    content: the five safes
+- vocab:
+    content: k-anonymity
+- vocab:
+    content: privacy
+- vocab:
+    content: pseudonymization
+- vocab:
+    content: quasi-identifiers
+- vocab:
+    content: re-identification
+- vocab:
+    content: synthetic data
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2022-11-15'
+    to: '2023-01-15'

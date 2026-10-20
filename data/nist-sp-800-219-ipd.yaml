@@ -1,23 +1,184 @@
 ---
 id: NISTSP800219ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Automated Secure Configuration Guidance from the macOS Security Compliance Project (mSCP)
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/219/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-219-draft
 docidentifier:
 - content: NIST SP 800-219 ipd
   type: NIST
   primary: true
+- content: NIST.SP.800-219-draft
+  type: DOI
 date:
+- type: published
+  at: '2022-02-17'
+- type: obsoleted
+  at: '2022-06-24'
 - type: issued
   at: '2022-02-17'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Mark
+      surname:
+        language: en
+        script: Latn
+        content: Trapnell
+      completename:
+        language: en
+        script: Latn
+        content: Mark Trapnell
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Eric
+      surname:
+        language: en
+        script: Latn
+        content: Trapnell
+      completename:
+        language: en
+        script: Latn
+        content: Eric Trapnell
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Murugiah
+      surname:
+        language: en
+        script: Latn
+        content: Souppaya
+      completename:
+        language: en
+        script: Latn
+        content: Murugiah P. Souppaya
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Bob
+      surname:
+        language: en
+        script: Latn
+        content: Gendler
+      completename:
+        language: en
+        script: Latn
+        content: Bob Gendler
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Karen
+      surname:
+        language: en
+        script: Latn
+        content: Scarfone
+      completename:
+        language: en
+        script: Latn
+        content: Karen A. Scarfone
+    affiliation:
+    - organization:
+        name:
+        - content: Scarfone Cybersecurity
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: Apple
+- vocab:
+    content: baseline
+- vocab:
+    content: configuration management
+- vocab:
+    content: endpoint device security
+- vocab:
+    content: macOS
+- vocab:
+    content: macOS Security Compliance Project (mSCP)
+- vocab:
+    content: operating system security
+- vocab:
+    content: security compliance
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2022-02-17'
+    to: '2022-03-23'

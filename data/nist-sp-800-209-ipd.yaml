@@ -1,23 +1,128 @@
 ---
 id: NISTSP800209ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Security Guidelines for Storage Infrastructure
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/209/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-209-draft
 docidentifier:
 - content: NIST SP 800-209 ipd
   type: NIST
   primary: true
+- content: NIST.SP.800-209-draft
+  type: DOI
 date:
+- type: published
+  at: '2020-07-21'
+- type: obsoleted
+  at: '2020-10-26'
 - type: issued
-  at: 2020-07
+  at: '2020-07-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ramaswamy
+      surname:
+        language: en
+        script: Latn
+        content: Chandramouli
+      completename:
+        language: en
+        script: Latn
+        content: Ramaswamy Chandramouli
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Doron
+      surname:
+        language: en
+        script: Latn
+        content: Pinhas
+      completename:
+        language: en
+        script: Latn
+        content: Doron Pinhas
+    affiliation:
+    - organization:
+        name:
+        - content: Continuity Software
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: storage area network
+- vocab:
+    content: network attached storage
+- vocab:
+    content: storage array
+- vocab:
+    content: file storage service
+- vocab:
+    content: block storage service
+- vocab:
+    content: object storage service
+- vocab:
+    content: storage virtualization
+- vocab:
+    content: software-defined storage
+- vocab:
+    content: hyper-converged storage
+- vocab:
+    content: data protection
+- vocab:
+    content: cloud storage
+- vocab:
+    content: backup
+- vocab:
+    content: replication
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2020-07-21'
+    to: '2020-08-31'

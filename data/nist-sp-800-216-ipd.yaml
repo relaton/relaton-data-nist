@@ -1,23 +1,144 @@
 ---
 id: NISTSP800216ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Recommendations for Federal Vulnerability Disclosure Guidelines
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/216/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-216-draft
 docidentifier:
 - content: NIST SP 800-216 ipd
   type: NIST
   primary: true
+- content: NIST.SP.800-216-draft
+  type: DOI
 date:
+- type: published
+  at: '2021-06-07'
+- type: obsoleted
+  at: '2023-05-24'
 - type: issued
-  at: 2021-06
+  at: '2021-06-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      prefix:
+      - language: en
+        script: Latn
+        content: Dr.
+      forename:
+      - language: en
+        script: Latn
+        content: Kim
+      surname:
+        language: en
+        script: Latn
+        content: Schaffer
+      completename:
+        language: en
+        script: Latn
+        content: Kim Schaffer
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Peter
+      surname:
+        language: en
+        script: Latn
+        content: Mell
+      completename:
+        language: en
+        script: Latn
+        content: Peter M. Mell
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Hung
+      surname:
+        language: en
+        script: Latn
+        content: Trinh
+      completename:
+        language: en
+        script: Latn
+        content: Hung Trinh
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: Federal Coordination Body
+- vocab:
+    content: vulnerability communication
+- vocab:
+    content: Vulnerability Disclosure
+- vocab:
+    content: Vulnerability Disclosure Policy
+- vocab:
+    content: Vulnerability Disclosure Program Office
+- vocab:
+    content: vulnerability processing
+- vocab:
+    content: vulnerability tracking
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2021-06-07'
+    to: '2021-08-09'

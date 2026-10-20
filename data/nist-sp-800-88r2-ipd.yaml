@@ -1,0 +1,116 @@
+---
+id: NISTSP80088r2ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Guidelines for Media Sanitization
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/88/r2/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-88r2.ipd
+docidentifier:
+- content: NIST SP 800-88r2 ipd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-88r2.ipd
+  type: DOI
+date:
+- type: published
+  at: '2025-07-21'
+- type: obsoleted
+  at: '2025-09-26'
+- type: issued
+  at: '2025-07-21'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ramaswamy
+      surname:
+        language: en
+        script: Latn
+        content: Chandramouli
+      completename:
+        language: en
+        script: Latn
+        content: Ramaswamy Chandramouli
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Eric
+      surname:
+        language: en
+        script: Latn
+        content: Hibbard
+      completename:
+        language: en
+        script: Latn
+        content: Eric A. Hibbard
+    affiliation:
+    - organization:
+        name:
+        - content: Samsung Semiconductor
+edition:
+  content: Revision 2
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: cryptographic erase
+- vocab:
+    content: ensuring confidentiality
+- vocab:
+    content: media sanitization
+- vocab:
+    content: media types
+- vocab:
+    content: sanitization tools and methods
+- vocab:
+    content: secure erase
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2025-07-21'
+    to: '2025-08-29'

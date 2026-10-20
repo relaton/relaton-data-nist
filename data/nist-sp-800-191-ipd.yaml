@@ -1,11 +1,11 @@
 ---
 id: NISTSP800191ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: The NIST Definition of Fog Computing
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/191/ipd
@@ -14,10 +14,185 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2017-08-21'
+- type: obsoleted
+  at: '2018-03-14'
 - type: issued
-  at: 2017-08
+  at: '2017-08-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michaela
+      surname:
+        language: en
+        script: Latn
+        content: Iorga
+      completename:
+        language: en
+        script: Latn
+        content: Michaela Iorga
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Larry
+      surname:
+        language: en
+        script: Latn
+        content: Feldman
+      completename:
+        language: en
+        script: Latn
+        content: Larry Feldman
+    affiliation:
+    - organization:
+        name:
+        - content: G2
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Robert
+      surname:
+        language: en
+        script: Latn
+        content: Barton
+      completename:
+        language: en
+        script: Latn
+        content: Robert Barton
+    affiliation:
+    - organization:
+        name:
+        - content: Cisco
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Martin
+      completename:
+        language: en
+        script: Latn
+        content: Michael J. Martin
+    affiliation:
+    - organization:
+        name:
+        - content: IBM Canada
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Nedim
+      surname:
+        language: en
+        script: Latn
+        content: Goren
+      completename:
+        language: en
+        script: Latn
+        content: Nedim Goren
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Charif
+      surname:
+        language: en
+        script: Latn
+        content: Mahmoudi
+      completename:
+        language: en
+        script: Latn
+        content: Charif Mahmoudi
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: cloud computing
+- vocab:
+    content: cloudlet
+- vocab:
+    content: edge computing
+- vocab:
+    content: fluid computing
+- vocab:
+    content: fog computing
+- vocab:
+    content: fluid computing
+- vocab:
+    content: Internet of Things (IoT)
+- vocab:
+    content: mist computing
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2017-08-21'
+    to: '2017-09-21'

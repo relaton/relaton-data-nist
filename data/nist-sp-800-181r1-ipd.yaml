@@ -1,0 +1,172 @@
+---
+id: NISTSP800181r1ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Workforce Framework for Cybersecurity (NICE Framework)
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/181/r1/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-181r1-draft
+docidentifier:
+- content: NIST SP 800-181r1 ipd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-181r1-draft
+  type: DOI
+date:
+- type: published
+  at: '2020-07-15'
+- type: obsoleted
+  at: '2020-11-16'
+- type: issued
+  at: '2020-07-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Rodney
+      surname:
+        language: en
+        script: Latn
+        content: Petersen
+      completename:
+        language: en
+        script: Latn
+        content: Rodney Petersen
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Danielle
+      surname:
+        language: en
+        script: Latn
+        content: Santos
+      completename:
+        language: en
+        script: Latn
+        content: Danielle Santos
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Matthew
+      surname:
+        language: en
+        script: Latn
+        content: Smith
+      completename:
+        language: en
+        script: Latn
+        content: Matthew C. Smith
+    affiliation:
+    - organization:
+        name:
+        - content: Huntington Ingalls Industries
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Gregory
+      surname:
+        language: en
+        script: Latn
+        content: Witte
+      completename:
+        language: en
+        script: Latn
+        content: Gregory A. Witte
+    affiliation:
+    - organization:
+        name:
+        - content: Huntington Ingalls Industries
+edition:
+  content: Revision 1
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: competency
+- vocab:
+    content: cybersecurity
+- vocab:
+    content: cyberspace
+- vocab:
+    content: education
+- vocab:
+    content: knowledge
+- vocab:
+    content: role
+- vocab:
+    content: security
+- vocab:
+    content: skill
+- vocab:
+    content: task
+- vocab:
+    content: team
+- vocab:
+    content: training
+- vocab:
+    content: workforce
+- vocab:
+    content: work role
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2020-07-15'
+    to: '2020-08-28'

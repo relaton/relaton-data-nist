@@ -1,0 +1,198 @@
+---
+id: NISTCSWP17ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Securing Data Integrity Against Ransomware Attacks - Using the NIST Cybersecurity Framework and NIST Cybersecurity Practice Guides
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/cswp/17/securing-data-integrity-against-ransomware-attacks/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.CSWP.17.ipd
+docidentifier:
+- content: NIST CSWP 17 ipd
+  type: NIST
+  primary: true
+- content: NIST.CSWP.17.ipd
+  type: DOI
+date:
+- type: published
+  at: '2020-10-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jennifer
+      surname:
+        language: en
+        script: Latn
+        content: Cawthra
+      completename:
+        language: en
+        script: Latn
+        content: Jennifer L. Cawthra
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Ekstrom
+      completename:
+        language: en
+        script: Latn
+        content: Michael R. Ekstrom
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Lauren
+      surname:
+        language: en
+        script: Latn
+        content: Lusty
+      completename:
+        language: en
+        script: Latn
+        content: Lauren N. Lusty
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Julian
+      surname:
+        language: en
+        script: Latn
+        content: Sexton
+      completename:
+        language: en
+        script: Latn
+        content: Julian T. Sexton
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: John
+      surname:
+        language: en
+        script: Latn
+        content: Sweetnam
+      completename:
+        language: en
+        script: Latn
+        content: John E. Sweetnam
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Anne
+      surname:
+        language: en
+        script: Latn
+        content: Townsend
+      completename:
+        language: en
+        script: Latn
+        content: Anne Townsend
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: active
+  iteration: '1'
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: data integrity
+- vocab:
+    content: data security
+- vocab:
+    content: malware
+- vocab:
+    content: ransomware
+- vocab:
+    content: security architecture
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2020-10-01'
+    to: '2020-11-13'

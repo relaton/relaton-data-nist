@@ -1,23 +1,118 @@
 ---
 id: NISTSP800239ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
-  content: AI Data Center Security Analysis
-  type: title-main
+  content: AI Data Center Security Analysis - A High-Performance Computing (HPC) Driven Approach
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/239/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-239.ipd
 docidentifier:
 - content: NIST SP 800-239 ipd
   type: NIST
   primary: true
+- content: NIST.SP.800-239.ipd
+  type: DOI
 date:
+- type: published
+  at: '2026-07-27'
 - type: issued
   at: '2026-07-27'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Yang
+      surname:
+        language: en
+        script: Latn
+        content: Guo
+      completename:
+        language: en
+        script: Latn
+        content: Yang Guo
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Bennett
+      surname:
+        language: en
+        script: Latn
+        content: Tomlinson
+      completename:
+        language: en
+        script: Latn
+        content: Bennett Tomlinson
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: active
+  iteration: '1'
+copyright:
+- from: '2026'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: AI data center
+- vocab:
+    content: AI data center security
+- vocab:
+    content: AI data center computing environment
+- vocab:
+    content: AI data center reference architecture
+- vocab:
+    content: high-performance computing (HPC)
+- vocab:
+    content: HPC reference architecture
+- vocab:
+    content: HPC security
+- vocab:
+    content: security guideline
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2026-07-27'
+    to: '2026-09-25'

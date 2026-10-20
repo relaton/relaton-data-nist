@@ -1,0 +1,188 @@
+---
+id: NISTSP800163r1ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Vetting the Security of Mobile Applications
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/163/r1/ipd
+docidentifier:
+- content: NIST SP 800-163r1 ipd
+  type: NIST
+  primary: true
+date:
+- type: published
+  at: '2018-07-23'
+- type: obsoleted
+  at: '2019-04-19'
+- type: issued
+  at: '2018-07-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Ogata
+      completename:
+        language: en
+        script: Latn
+        content: Michael A. Ogata
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Joshua
+      surname:
+        language: en
+        script: Latn
+        content: Franklin
+      completename:
+        language: en
+        script: Latn
+        content: Joshua M. Franklin
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jeffrey
+      surname:
+        language: en
+        script: Latn
+        content: Voas
+      completename:
+        language: en
+        script: Latn
+        content: Jeffrey M. Voas
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Vincent
+      surname:
+        language: en
+        script: Latn
+        content: Sritapan
+      completename:
+        language: en
+        script: Latn
+        content: Vincent Sritapan
+    affiliation:
+    - organization:
+        name:
+        - content: U.S. Department of Homeland Security
+        abbreviation:
+          content: DHS
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Stephen
+      surname:
+        language: en
+        script: Latn
+        content: Quirolgico
+      completename:
+        language: en
+        script: Latn
+        content: Stephen Quirolgico
+    affiliation:
+    - organization:
+        name:
+        - content: U.S. Department of Homeland Security
+        abbreviation:
+          content: DHS
+edition:
+  content: Revision 1
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2018'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: app vetting
+- vocab:
+    content: app vetting system
+- vocab:
+    content: malware
+- vocab:
+    content: mobile applications
+- vocab:
+    content: mobile security
+- vocab:
+    content: niap
+- vocab:
+    content: security requirements
+- vocab:
+    content: software assurance
+- vocab:
+    content: software vulnerabilities
+- vocab:
+    content: software testing
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2018-07-23'
+    to: '2018-09-06'

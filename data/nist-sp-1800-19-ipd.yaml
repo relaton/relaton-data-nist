@@ -1,11 +1,11 @@
 ---
 id: NISTSP180019ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
-  content: Trusted Cloud
-  type: title-main
+  content: Trusted Cloud - Security Practice Guide for VMware Hybrid Cloud Infrastructure as a Service (IaaS) Environments
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/1800/19/ipd
@@ -14,10 +14,481 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2021-10-27'
+- type: obsoleted
+  at: '2022-04-20'
 - type: issued
   at: '2021-10-27'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Bartock
+      completename:
+        language: en
+        script: Latn
+        content: Michael Bartock
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Murugiah
+      surname:
+        language: en
+        script: Latn
+        content: Souppaya
+      completename:
+        language: en
+        script: Latn
+        content: Murugiah P. Souppaya
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Donna
+      surname:
+        language: en
+        script: Latn
+        content: Dodson
+      completename:
+        language: en
+        script: Latn
+        content: Donna F. Dodson
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Daniel
+      surname:
+        language: en
+        script: Latn
+        content: Carroll
+      completename:
+        language: en
+        script: Latn
+        content: Daniel Carroll
+    affiliation:
+    - organization:
+        name:
+        - content: Dell/EMC
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Robert
+      surname:
+        language: en
+        script: Latn
+        content: Masten
+      completename:
+        language: en
+        script: Latn
+        content: Robert Masten
+    affiliation:
+    - organization:
+        name:
+        - content: Dell/EMC
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Gina
+      surname:
+        language: en
+        script: Latn
+        content: Scinta
+      completename:
+        language: en
+        script: Latn
+        content: Gina Scinta
+    affiliation:
+    - organization:
+        name:
+        - content: Gemalto
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Paul
+      surname:
+        language: en
+        script: Latn
+        content: Massis
+      completename:
+        language: en
+        script: Latn
+        content: Paul Massis
+    affiliation:
+    - organization:
+        name:
+        - content: Gemalto
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Hemma
+      surname:
+        language: en
+        script: Latn
+        content: Prafullchandra
+      completename:
+        language: en
+        script: Latn
+        content: Hemma Prafullchandra
+    affiliation:
+    - organization:
+        name:
+        - content: HyTrust
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jason
+      surname:
+        language: en
+        script: Latn
+        content: Malnar
+      completename:
+        language: en
+        script: Latn
+        content: Jason Malnar
+    affiliation:
+    - organization:
+        name:
+        - content: HyTrust
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Harmeet
+      surname:
+        language: en
+        script: Latn
+        content: Singh
+      completename:
+        language: en
+        script: Latn
+        content: Harmeet Singh
+    affiliation:
+    - organization:
+        name:
+        - content: IBM
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Rajeev
+      surname:
+        language: en
+        script: Latn
+        content: Ghandi
+      completename:
+        language: en
+        script: Latn
+        content: Rajeev Ghandi
+    affiliation:
+    - organization:
+        name:
+        - content: IBM
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Laura
+      surname:
+        language: en
+        script: Latn
+        content: Storey
+      completename:
+        language: en
+        script: Latn
+        content: Laura E. Storey
+    affiliation:
+    - organization:
+        name:
+        - content: IBM
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Raghuram
+      surname:
+        language: en
+        script: Latn
+        content: Yeluri
+      completename:
+        language: en
+        script: Latn
+        content: Raghuram Yeluri
+    affiliation:
+    - organization:
+        name:
+        - content: Intel
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Tim
+      surname:
+        language: en
+        script: Latn
+        content: Shea
+      completename:
+        language: en
+        script: Latn
+        content: Tim Shea
+    affiliation:
+    - organization:
+        name:
+        - content: RSA
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Dalton
+      completename:
+        language: en
+        script: Latn
+        content: Michael Dalton
+    affiliation:
+    - organization:
+        name:
+        - content: RSA
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Rocky
+      surname:
+        language: en
+        script: Latn
+        content: Weber
+      completename:
+        language: en
+        script: Latn
+        content: Rocky Weber
+    affiliation:
+    - organization:
+        name:
+        - content: RSA
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Karen
+      surname:
+        language: en
+        script: Latn
+        content: Scarfone
+      completename:
+        language: en
+        script: Latn
+        content: Karen A. Scarfone
+    affiliation:
+    - organization:
+        name:
+        - content: Scarfone Cybersecurity
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Carlos
+      surname:
+        language: en
+        script: Latn
+        content: Phoenix
+      completename:
+        language: en
+        script: Latn
+        content: Carlos Phoenix
+    affiliation:
+    - organization:
+        name:
+        - content: VMware
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Anthony
+      surname:
+        language: en
+        script: Latn
+        content: Dukes
+      completename:
+        language: en
+        script: Latn
+        content: Anthony Dukes
+    affiliation:
+    - organization:
+        name:
+        - content: VMware
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jeff
+      surname:
+        language: en
+        script: Latn
+        content: Haskins
+      completename:
+        language: en
+        script: Latn
+        content: Jeff Haskins
+    affiliation:
+    - organization:
+        name:
+        - content: VMware
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Brenda
+      surname:
+        language: en
+        script: Latn
+        content: Swarts
+      completename:
+        language: en
+        script: Latn
+        content: Brenda Swarts
+    affiliation:
+    - organization:
+        name:
+        - content: VMware
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: cloud technology
+- vocab:
+    content: compliance
+- vocab:
+    content: cybersecurity
+- vocab:
+    content: privacy
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: trusted compute pools
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2021-10-27'
+    to: '2021-12-06'

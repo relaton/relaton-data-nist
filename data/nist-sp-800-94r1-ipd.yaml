@@ -1,0 +1,104 @@
+---
+id: NISTSP80094r1ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Guide to Intrusion Detection and Prevention Systems (IDPS)
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/94/r1/ipd
+docidentifier:
+- content: NIST SP 800-94r1 ipd
+  type: NIST
+  primary: true
+date:
+- type: published
+  at: '2012-07-25'
+- type: obsoleted
+  at: '2022-07-15'
+- type: issued
+  at: '2012-07-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Karen
+      surname:
+        language: en
+        script: Latn
+        content: Scarfone
+      completename:
+        language: en
+        script: Latn
+        content: Karen A. Scarfone
+    affiliation:
+    - organization:
+        name:
+        - content: Scarfone Cybersecurity
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Peter
+      surname:
+        language: en
+        script: Latn
+        content: Mell
+      completename:
+        language: en
+        script: Latn
+        content: Peter M. Mell
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+edition:
+  content: Revision 1
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: retired
+  iteration: '1'
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: information security
+- vocab:
+    content: intrusion detection
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2012-07-25'
+    to: '2012-08-31'

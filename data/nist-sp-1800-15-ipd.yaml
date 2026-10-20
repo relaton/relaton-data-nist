@@ -1,11 +1,11 @@
 ---
 id: NISTSP180015ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
-  content: Securing Small Business and Home Internet of Things (IoT) Devices
-  type: title-main
+  content: Securing Small Business and Home Internet of Things (IoT) Devices - Mitigating Network-Based Attacks Using Manufacturer Usage Description (MUD)
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/1800/15/ipd
@@ -14,10 +14,637 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2020-09-16'
+- type: obsoleted
+  at: '2021-05-26'
 - type: issued
-  at: 2020-09
+  at: '2020-09-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Donna
+      surname:
+        language: en
+        script: Latn
+        content: Dodson
+      completename:
+        language: en
+        script: Latn
+        content: Donna F. Dodson
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Douglas
+      surname:
+        language: en
+        script: Latn
+        content: Montgomery
+      completename:
+        language: en
+        script: Latn
+        content: Douglas C. Montgomery
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: W.
+      surname:
+        language: en
+        script: Latn
+        content: Polk
+      completename:
+        language: en
+        script: Latn
+        content: W. Timothy Polk
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Mudumbai
+      surname:
+        language: en
+        script: Latn
+        content: Ranganathan
+      completename:
+        language: en
+        script: Latn
+        content: Mudumbai Ranganathan
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Murugiah
+      surname:
+        language: en
+        script: Latn
+        content: Souppaya
+      completename:
+        language: en
+        script: Latn
+        content: Murugiah P. Souppaya
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Steve
+      surname:
+        language: en
+        script: Latn
+        content: Johnson
+      completename:
+        language: en
+        script: Latn
+        content: Steve Johnson
+    affiliation:
+    - organization:
+        name:
+        - content: CableLabs
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ashwini
+      surname:
+        language: en
+        script: Latn
+        content: Kadam
+      completename:
+        language: en
+        script: Latn
+        content: Ashwini Kadam
+    affiliation:
+    - organization:
+        name:
+        - content: CableLabs
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Craig
+      surname:
+        language: en
+        script: Latn
+        content: Pratt
+      completename:
+        language: en
+        script: Latn
+        content: Craig Pratt
+    affiliation:
+    - organization:
+        name:
+        - content: CableLabs
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Darshak
+      surname:
+        language: en
+        script: Latn
+        content: Thakore
+      completename:
+        language: en
+        script: Latn
+        content: Darshak Thakore
+    affiliation:
+    - organization:
+        name:
+        - content: CableLabs
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Mark
+      surname:
+        language: en
+        script: Latn
+        content: Walker
+      completename:
+        language: en
+        script: Latn
+        content: Mark Walker
+    affiliation:
+    - organization:
+        name:
+        - content: CableLabs
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Eliot
+      surname:
+        language: en
+        script: Latn
+        content: Lear
+      completename:
+        language: en
+        script: Latn
+        content: Eliot Lear
+    affiliation:
+    - organization:
+        name:
+        - content: Cisco
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Brian
+      surname:
+        language: en
+        script: Latn
+        content: Weis
+      completename:
+        language: en
+        script: Latn
+        content: Brian Weis
+    affiliation:
+    - organization:
+        name:
+        - content: Cisco
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: William
+      surname:
+        language: en
+        script: Latn
+        content: Barker
+      completename:
+        language: en
+        script: Latn
+        content: William C. Barker
+    affiliation:
+    - organization:
+        name:
+        - content: Dakota Consulting
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Dean
+      surname:
+        language: en
+        script: Latn
+        content: Coclin
+      completename:
+        language: en
+        script: Latn
+        content: Dean Coclin
+    affiliation:
+    - organization:
+        name:
+        - content: DigiCert
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Avesta
+      surname:
+        language: en
+        script: Latn
+        content: Hojjati
+      completename:
+        language: en
+        script: Latn
+        content: Avesta Hojjati
+    affiliation:
+    - organization:
+        name:
+        - content: DigiCert
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Clint
+      surname:
+        language: en
+        script: Latn
+        content: Wilson
+      completename:
+        language: en
+        script: Latn
+        content: Clint Wilson
+    affiliation:
+    - organization:
+        name:
+        - content: DigiCert
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Tim
+      surname:
+        language: en
+        script: Latn
+        content: Jones
+      completename:
+        language: en
+        script: Latn
+        content: Tim Jones
+    affiliation:
+    - organization:
+        name:
+        - content: ForeScout
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Adnan
+      surname:
+        language: en
+        script: Latn
+        content: Baykal
+      completename:
+        language: en
+        script: Latn
+        content: Adnan Baykal
+    affiliation:
+    - organization:
+        name:
+        - content: Global Cyber Alliance
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Drew
+      surname:
+        language: en
+        script: Latn
+        content: Cohen
+      completename:
+        language: en
+        script: Latn
+        content: Drew Cohen
+    affiliation:
+    - organization:
+        name:
+        - content: MasterPeace Solutions
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kevin
+      surname:
+        language: en
+        script: Latn
+        content: Yeich
+      completename:
+        language: en
+        script: Latn
+        content: Kevin Yeich
+    affiliation:
+    - organization:
+        name:
+        - content: MasterPeace Solutions
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Yemi
+      surname:
+        language: en
+        script: Latn
+        content: Fashina
+      completename:
+        language: en
+        script: Latn
+        content: Yemi Fashina
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Parisa
+      surname:
+        language: en
+        script: Latn
+        content: Grayeli
+      completename:
+        language: en
+        script: Latn
+        content: Parisa Grayeli
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Joshua
+      surname:
+        language: en
+        script: Latn
+        content: Harrington
+      completename:
+        language: en
+        script: Latn
+        content: Joshua Harrington
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Joshua
+      surname:
+        language: en
+        script: Latn
+        content: Klosterman
+      completename:
+        language: en
+        script: Latn
+        content: Joshua Klosterman
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Blaine
+      surname:
+        language: en
+        script: Latn
+        content: Mulugeta
+      completename:
+        language: en
+        script: Latn
+        content: Blaine Mulugeta
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Susan
+      surname:
+        language: en
+        script: Latn
+        content: Symington
+      completename:
+        language: en
+        script: Latn
+        content: Susan Symington
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jaideep
+      surname:
+        language: en
+        script: Latn
+        content: Singh
+      completename:
+        language: en
+        script: Latn
+        content: Jaideep Singh
+    affiliation:
+    - organization:
+        name:
+        - content: Molex
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: access control
+- vocab:
+    content: bootstrapping
+- vocab:
+    content: botnets
+- vocab:
+    content: firewall rules
+- vocab:
+    content: flow rules
+- vocab:
+    content: Internet of Things
+- vocab:
+    content: IoT
+- vocab:
+    content: Manufacturer Usage Description
+- vocab:
+    content: MUD
+- vocab:
+    content: network segmentation
+- vocab:
+    content: onboarding
+- vocab:
+    content: router
+- vocab:
+    content: server
+- vocab:
+    content: software update server
+- vocab:
+    content: threat signaling
+- vocab:
+    content: Wi-Fi Easy Connect
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2020-09-16'
+    to: '2020-10-16'

@@ -1,11 +1,11 @@
 ---
 id: NISTSP180011ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
-  content: Data Integrity
-  type: title-main
+  content: Data Integrity - Recovering from Ransomware and Other Destructive Events
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/1800/11/ipd
@@ -14,10 +14,163 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2017-09-06'
+- type: obsoleted
+  at: '2020-09-22'
 - type: issued
-  at: 2017-09
+  at: '2017-09-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Timothy
+      surname:
+        language: en
+        script: Latn
+        content: McBride
+      completename:
+        language: en
+        script: Latn
+        content: Timothy McBride
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Ekstrom
+      completename:
+        language: en
+        script: Latn
+        content: Michael R. Ekstrom
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Lauren
+      surname:
+        language: en
+        script: Latn
+        content: Lusty
+      completename:
+        language: en
+        script: Latn
+        content: Lauren N. Lusty
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Julian
+      surname:
+        language: en
+        script: Latn
+        content: Sexton
+      completename:
+        language: en
+        script: Latn
+        content: Julian T. Sexton
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Anne
+      surname:
+        language: en
+        script: Latn
+        content: Townsend
+      completename:
+        language: en
+        script: Latn
+        content: Anne Townsend
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: malware
+- vocab:
+    content: ransomware
+- vocab:
+    content: business continuity
+- vocab:
+    content: data recovery
+- vocab:
+    content: data integrity
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2017-09-06'
+    to: '2017-11-06'

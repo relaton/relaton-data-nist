@@ -1,0 +1,140 @@
+---
+id: NISTSP800171r3ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/171/r3/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-171r3.ipd
+docidentifier:
+- content: NIST SP 800-171r3 ipd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-171r3.ipd
+  type: DOI
+date:
+- type: published
+  at: '2023-05-10'
+- type: obsoleted
+  at: '2023-11-09'
+- type: issued
+  at: '2023-05-10'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      prefix:
+      - language: en
+        script: Latn
+        content: Dr.
+      forename:
+      - language: en
+        script: Latn
+        content: Ron
+      surname:
+        language: en
+        script: Latn
+        content: Ross
+      completename:
+        language: en
+        script: Latn
+        content: Ron S. Ross
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Victoria
+      surname:
+        language: en
+        script: Latn
+        content: Pillitteri
+      completename:
+        language: en
+        script: Latn
+        content: Victoria Y. Pillitteri
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+edition:
+  content: Revision 3
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: basic security requirement
+- vocab:
+    content: contractor systems
+- vocab:
+    content: Controlled Unclassified Information
+- vocab:
+    content: CUI Registry
+- vocab:
+    content: derived security requirement
+- vocab:
+    content: Executive Order 13556
+- vocab:
+    content: FIPS Publication 199
+- vocab:
+    content: FIPS Publication 200
+- vocab:
+    content: FISMA
+- vocab:
+    content: NIST Special Publication 800-53
+- vocab:
+    content: nonfederal organizations
+- vocab:
+    content: nonfederal systems
+- vocab:
+    content: security assessment
+- vocab:
+    content: security control
+- vocab:
+    content: security requirement
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2023-05-10'
+    to: '2023-07-14'

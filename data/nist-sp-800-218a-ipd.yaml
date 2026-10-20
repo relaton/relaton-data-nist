@@ -1,23 +1,212 @@
 ---
 id: NISTSP800218Aipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
-  content: Secure Software Development Practices for Generative AI and Dual-Use Foundation Models
-  type: title-main
+  content: Secure Software Development Practices for Generative AI and Dual-Use Foundation Models - An SSDF Community Profile
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/218/a/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-218A.ipd
 docidentifier:
 - content: NIST SP 800-218A ipd
   type: NIST
   primary: true
+- content: NIST.SP.800-218A.ipd
+  type: DOI
 date:
+- type: published
+  at: '2024-04-29'
+- type: obsoleted
+  at: '2024-07-26'
 - type: issued
   at: '2024-04-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Harold
+      surname:
+        language: en
+        script: Latn
+        content: Booth
+      addition:
+      - language: en
+        script: Latn
+        content: III
+      completename:
+        language: en
+        script: Latn
+        content: Harold Booth III
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Murugiah
+      surname:
+        language: en
+        script: Latn
+        content: Souppaya
+      completename:
+        language: en
+        script: Latn
+        content: Murugiah P. Souppaya
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Apostol
+      surname:
+        language: en
+        script: Latn
+        content: Vassilev
+      completename:
+        language: en
+        script: Latn
+        content: Apostol Vassilev
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Ogata
+      completename:
+        language: en
+        script: Latn
+        content: Michael A. Ogata
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Martin
+      surname:
+        language: en
+        script: Latn
+        content: Stanley
+      completename:
+        language: en
+        script: Latn
+        content: Martin Stanley
+    affiliation:
+    - organization:
+        name:
+        - content: Cybersecurity and Infrastructure Security Agency
+        abbreviation:
+          content: CISA
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Karen
+      surname:
+        language: en
+        script: Latn
+        content: Scarfone
+      completename:
+        language: en
+        script: Latn
+        content: Karen A. Scarfone
+    affiliation:
+    - organization:
+        name:
+        - content: Scarfone Cybersecurity
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: artificial intelligence
+- vocab:
+    content: artificial intelligence model
+- vocab:
+    content: cybersecurity risk management
+- vocab:
+    content: generative artificial intelligence
+- vocab:
+    content: secure software development
+- vocab:
+    content: Secure Software Development Framework (SSDF)
+- vocab:
+    content: software acquisition
+- vocab:
+    content: software development
+- vocab:
+    content: software security
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2024-04-29'
+    to: '2024-06-02'

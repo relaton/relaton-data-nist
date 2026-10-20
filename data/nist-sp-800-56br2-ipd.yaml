@@ -1,0 +1,208 @@
+---
+id: NISTSP80056Br2ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Recommendation for Pair-Wise Key-Establishment Using Integer Factorization Cryptography
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/56/b/r2/ipd
+docidentifier:
+- content: NIST SP 800-56Br2 ipd
+  type: NIST
+  primary: true
+date:
+- type: published
+  at: '2018-07-10'
+- type: obsoleted
+  at: '2019-03-21'
+- type: issued
+  at: '2018-07-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Elaine
+      surname:
+        language: en
+        script: Latn
+        content: Barker
+      completename:
+        language: en
+        script: Latn
+        content: Elaine B. Barker
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Lily
+      surname:
+        language: en
+        script: Latn
+        content: Chen
+      completename:
+        language: en
+        script: Latn
+        content: Lily Chen
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Allen
+      surname:
+        language: en
+        script: Latn
+        content: Roginsky
+      completename:
+        language: en
+        script: Latn
+        content: Allen Roginsky
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Apostol
+      surname:
+        language: en
+        script: Latn
+        content: Vassilev
+      completename:
+        language: en
+        script: Latn
+        content: Apostol Vassilev
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Richard
+      surname:
+        language: en
+        script: Latn
+        content: Davis
+      completename:
+        language: en
+        script: Latn
+        content: Richard Davis
+    affiliation:
+    - organization:
+        name:
+        - content: National Security Agency
+        abbreviation:
+          content: NSA
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Scott
+      surname:
+        language: en
+        script: Latn
+        content: Simon
+      completename:
+        language: en
+        script: Latn
+        content: Scott Simon
+    affiliation:
+    - organization:
+        name:
+        - content: National Security Agency
+        abbreviation:
+          content: NSA
+edition:
+  content: Revision 2
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2018'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: assurances
+- vocab:
+    content: integer factorization cryptography
+- vocab:
+    content: key agreement
+- vocab:
+    content: key confirmation
+- vocab:
+    content: key derivation
+- vocab:
+    content: key establishment
+- vocab:
+    content: key management
+- vocab:
+    content: key recovery
+- vocab:
+    content: key transport
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2018-07-10'
+    to: '2018-10-05'

@@ -1,11 +1,11 @@
 ---
 id: NISTSP800178ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
-  content: A Comparison of Attribute Based Access Control (ABAC) Standards for Data Services
-  type: title-main
+  content: A Comparison of Attribute Based Access Control (ABAC) Standards for Data Services - Extensible Access Control Markup Language (XACML) and Next Generation Access Control (NGAC)
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/178/ipd
@@ -14,10 +14,149 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2015-12-02'
+- type: obsoleted
+  at: '2016-10-03'
 - type: issued
-  at: 2015-12
+  at: '2015-12-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: David
+      surname:
+        language: en
+        script: Latn
+        content: Ferraiolo
+      completename:
+        language: en
+        script: Latn
+        content: David F. Ferraiolo
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ramaswamy
+      surname:
+        language: en
+        script: Latn
+        content: Chandramouli
+      completename:
+        language: en
+        script: Latn
+        content: Ramaswamy Chandramouli
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Vincent
+      surname:
+        language: en
+        script: Latn
+        content: Hu
+      completename:
+        language: en
+        script: Latn
+        content: Vincent C. Hu
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Richard
+      surname:
+        language: en
+        script: Latn
+        content: Kuhn
+      completename:
+        language: en
+        script: Latn
+        content: Richard Kuhn
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: access control model
+- vocab:
+    content: access control policy
+- vocab:
+    content: attribute based access control (ABAC)
+- vocab:
+    content: authorization
+- vocab:
+    content: Extensible Access Control Markup Language (XACML)
+- vocab:
+    content: Next Generation Access Control (NGAC)
+- vocab:
+    content: privilege
+- vocab:
+    content: access control mechanism
+- vocab:
+    content: access control
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2015-12-02'
+    to: '2016-01-15'

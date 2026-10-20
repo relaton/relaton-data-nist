@@ -1,23 +1,228 @@
 ---
 id: NISTSP800227ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Recommendations for Key-Encapsulation Mechanisms
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/227/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-227.ipd
 docidentifier:
 - content: NIST SP 800-227 ipd
   type: NIST
   primary: true
+- content: NIST.SP.800-227.ipd
+  type: DOI
 date:
+- type: published
+  at: '2025-01-07'
+- type: obsoleted
+  at: '2025-09-18'
 - type: issued
   at: '2025-01-07'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Gorjan
+      surname:
+        language: en
+        script: Latn
+        content: Alagic
+      completename:
+        language: en
+        script: Latn
+        content: Gorjan Alagic
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Elaine
+      surname:
+        language: en
+        script: Latn
+        content: Barker
+      completename:
+        language: en
+        script: Latn
+        content: Elaine B. Barker
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Lily
+      surname:
+        language: en
+        script: Latn
+        content: Chen
+      completename:
+        language: en
+        script: Latn
+        content: Lily Chen
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      prefix:
+      - language: en
+        script: Latn
+        content: Dr.
+      forename:
+      - language: en
+        script: Latn
+        content: Dustin
+      surname:
+        language: en
+        script: Latn
+        content: Moody
+      completename:
+        language: en
+        script: Latn
+        content: Dustin Moody
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Angela
+      surname:
+        language: en
+        script: Latn
+        content: Robinson
+      completename:
+        language: en
+        script: Latn
+        content: Angela Robinson
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Hamilton
+      surname:
+        language: en
+        script: Latn
+        content: Silberg
+      completename:
+        language: en
+        script: Latn
+        content: Hamilton Silberg
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Noah
+      surname:
+        language: en
+        script: Latn
+        content: Waller
+      completename:
+        language: en
+        script: Latn
+        content: Noah D. Waller
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: cryptography
+- vocab:
+    content: encryption
+- vocab:
+    content: key-encapsulation mechanism
+- vocab:
+    content: key establishment
+- vocab:
+    content: public-key cryptography
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2025-01-07'
+    to: '2025-03-07'

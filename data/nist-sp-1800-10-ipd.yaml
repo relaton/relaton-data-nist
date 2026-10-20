@@ -1,11 +1,11 @@
 ---
 id: NISTSP180010ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
-  content: Protecting Information and System Integrity in Industrial Control System Environments
-  type: title-main
+  content: Protecting Information and System Integrity in Industrial Control System Environments - Cybersecurity for the Manufacturing Sector
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/1800/10/ipd
@@ -14,10 +14,325 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2021-09-23'
+- type: obsoleted
+  at: '2022-03-16'
 - type: issued
   at: '2021-09-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Powell
+      completename:
+        language: en
+        script: Latn
+        content: Michael Powell
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Joseph
+      surname:
+        language: en
+        script: Latn
+        content: Brule
+      completename:
+        language: en
+        script: Latn
+        content: Joseph M. Brule
+    affiliation:
+    - organization:
+        name:
+        - content: National Security Agency
+        abbreviation:
+          content: NSA
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Pease
+      completename:
+        language: en
+        script: Latn
+        content: Michael Pease
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Keith
+      surname:
+        language: en
+        script: Latn
+        content: Stouffer
+      completename:
+        language: en
+        script: Latn
+        content: Keith A. Stouffer
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: CheeYee
+      surname:
+        language: en
+        script: Latn
+        content: Tang
+      completename:
+        language: en
+        script: Latn
+        content: CheeYee Tang
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Timothy
+      surname:
+        language: en
+        script: Latn
+        content: Zimmerman
+      completename:
+        language: en
+        script: Latn
+        content: Timothy Zimmerman
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Chelsea
+      surname:
+        language: en
+        script: Latn
+        content: Deane
+      completename:
+        language: en
+        script: Latn
+        content: Chelsea Deane
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: John
+      surname:
+        language: en
+        script: Latn
+        content: Hoyt
+      completename:
+        language: en
+        script: Latn
+        content: John Hoyt
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Mary
+      surname:
+        language: en
+        script: Latn
+        content: Raguso
+      completename:
+        language: en
+        script: Latn
+        content: Mary Raguso
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Aslam
+      surname:
+        language: en
+        script: Latn
+        content: Sherule
+      completename:
+        language: en
+        script: Latn
+        content: Aslam Sherule
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kangmin
+      surname:
+        language: en
+        script: Latn
+        content: Zheng
+      completename:
+        language: en
+        script: Latn
+        content: Kangmin Zheng
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Matthew
+      surname:
+        language: en
+        script: Latn
+        content: Zopf
+      completename:
+        language: en
+        script: Latn
+        content: Matthew Zopf
+    affiliation:
+    - organization:
+        name:
+        - content: Strativia
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: manufacturing
+- vocab:
+    content: industrial control systems
+- vocab:
+    content: application allowlisting
+- vocab:
+    content: file integrity checking
+- vocab:
+    content: user authentication
+- vocab:
+    content: user authorization
+- vocab:
+    content: behavioral anomaly detection
+- vocab:
+    content: remote access
+- vocab:
+    content: software modification
+- vocab:
+    content: firmware modification
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2021-09-23'
+    to: '2021-11-07'

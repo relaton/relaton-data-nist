@@ -1,11 +1,11 @@
 ---
 id: NISTSP180021ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
-  content: Mobile Device Security
-  type: title-main
+  content: Mobile Device Security - Corporate-Owned Personally-Enabled (COPE)
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/1800/21/ipd
@@ -14,10 +14,323 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2019-07-22'
+- type: obsoleted
+  at: '2020-09-15'
 - type: issued
-  at: 2019-07
+  at: '2019-07-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Joshua
+      surname:
+        language: en
+        script: Latn
+        content: Franklin
+      completename:
+        language: en
+        script: Latn
+        content: Joshua M. Franklin
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Gema
+      surname:
+        language: en
+        script: Latn
+        content: Howell
+      completename:
+        language: en
+        script: Latn
+        content: Gema Howell
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kaitlin
+      surname:
+        language: en
+        script: Latn
+        content: Boeckl
+      completename:
+        language: en
+        script: Latn
+        content: Kaitlin Boeckl
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Naomi
+      surname:
+        language: en
+        script: Latn
+        content: Lefkovitz
+      completename:
+        language: en
+        script: Latn
+        content: Naomi B. Lefkovitz
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ellen
+      surname:
+        language: en
+        script: Latn
+        content: Nadeau
+      completename:
+        language: en
+        script: Latn
+        content: Ellen M. Nadeau
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      prefix:
+      - language: en
+        script: Latn
+        content: Dr.
+      forename:
+      - language: en
+        script: Latn
+        content: Behnam
+      surname:
+        language: en
+        script: Latn
+        content: Shariati
+      completename:
+        language: en
+        script: Latn
+        content: Behnam Shariati
+    affiliation:
+    - organization:
+        name:
+        - content: University of Maryland Baltimore County
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jason
+      surname:
+        language: en
+        script: Latn
+        content: Ajmo
+      completename:
+        language: en
+        script: Latn
+        content: Jason G. Ajmo
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Christopher
+      surname:
+        language: en
+        script: Latn
+        content: Brown
+      completename:
+        language: en
+        script: Latn
+        content: Christopher Brown
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Spike
+      surname:
+        language: en
+        script: Latn
+        content: Dog
+      completename:
+        language: en
+        script: Latn
+        content: Spike Dog
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Frank
+      surname:
+        language: en
+        script: Latn
+        content: Javar
+      completename:
+        language: en
+        script: Latn
+        content: Frank Javar
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Peck
+      completename:
+        language: en
+        script: Latn
+        content: Michael Peck
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kenneth
+      surname:
+        language: en
+        script: Latn
+        content: Sandlin
+      completename:
+        language: en
+        script: Latn
+        content: Kenneth F. Sandlin
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: bring your own device
+- vocab:
+    content: BYOD
+- vocab:
+    content: corporate-owned personally-enabled
+- vocab:
+    content: COPE
+- vocab:
+    content: mobile device management
+- vocab:
+    content: mobile device security
+- vocab:
+    content: on-premise
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2019-07-22'
+    to: '2019-09-23'

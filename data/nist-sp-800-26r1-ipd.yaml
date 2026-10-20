@@ -1,0 +1,152 @@
+---
+id: NISTSP80026r1ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Guide for Information Technology Security Assessments and System Reporting Form
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/26/r1/ipd
+docidentifier:
+- content: NIST SP 800-26r1 ipd
+  type: NIST
+  primary: true
+date:
+- type: published
+  at: '2005-08-15'
+- type: obsoleted
+  at: '2007-02-01'
+- type: issued
+  at: '2005-08-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Marianne
+      surname:
+        language: en
+        script: Latn
+        content: Swanson
+      completename:
+        language: en
+        script: Latn
+        content: Marianne A. Swanson
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Joan
+      surname:
+        language: en
+        script: Latn
+        content: Hash
+      completename:
+        language: en
+        script: Latn
+        content: Joan Hash
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Mark
+      surname:
+        language: en
+        script: Latn
+        content: Wilson
+      completename:
+        language: en
+        script: Latn
+        content: Mark Wilson
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Richard
+      surname:
+        language: en
+        script: Latn
+        content: Kissel
+      completename:
+        language: en
+        script: Latn
+        content: Richard L. Kissel
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+edition:
+  content: Revision 1
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: retired
+  iteration: '1'
+copyright:
+- from: '2005'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: information security program assessment
+- vocab:
+    content: security controls
+- vocab:
+    content: system assessments
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2005-08-15'
+    to: '2005-10-17'

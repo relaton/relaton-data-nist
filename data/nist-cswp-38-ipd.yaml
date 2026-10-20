@@ -1,0 +1,135 @@
+---
+id: NISTCSWP38ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: NIST Privacy Workforce Taxonomy
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/cswp/38/nist-privacy-workforce-taxonomy/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.CSWP.38.ipd
+docidentifier:
+- content: NIST CSWP 38 ipd
+  type: NIST
+  primary: true
+- content: NIST.CSWP.38.ipd
+  type: DOI
+date:
+- type: published
+  at: '2024-11-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: NIST Privacy Workforce Public Working Group
+    abbreviation:
+      content: PWWG
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Dylan
+      surname:
+        language: en
+        script: Latn
+        content: Gilbert
+      completename:
+        language: en
+        script: Latn
+        content: Dylan Gilbert
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Meghan
+      surname:
+        language: en
+        script: Latn
+        content: Anderson
+      completename:
+        language: en
+        script: Latn
+        content: Meghan Anderson
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: active
+  iteration: '1'
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: Privacy Framework
+- vocab:
+    content: Privacy Workforce Public Working Group
+- vocab:
+    content: PWWG
+- vocab:
+    content: privacy workforce
+- vocab:
+    content: NICE Framework
+- vocab:
+    content: Task, Knowledge, and Skill Statements
+- vocab:
+    content: TKS Statements
+- vocab:
+    content: task
+- vocab:
+    content: knowledge
+- vocab:
+    content: skill
+- vocab:
+    content: privacy
+- vocab:
+    content: privacy risk
+- vocab:
+    content: privacy risk management
+- vocab:
+    content: taxonomy
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2024-11-21'
+    to: '2025-01-17'

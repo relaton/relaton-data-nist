@@ -1,11 +1,11 @@
 ---
 id: NISTSP18002ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Identity and Access Management for Electric Utilities
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/1800/2/ipd
@@ -14,10 +14,191 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2015-08-25'
+- type: obsoleted
+  at: '2018-07-13'
 - type: issued
-  at: 2015-08
+  at: '2015-08-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: James
+      surname:
+        language: en
+        script: Latn
+        content: McCarthy
+      completename:
+        language: en
+        script: Latn
+        content: James J. McCarthy
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Don
+      surname:
+        language: en
+        script: Latn
+        content: Faatz
+      completename:
+        language: en
+        script: Latn
+        content: Don Faatz
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Harry
+      surname:
+        language: en
+        script: Latn
+        content: Perper
+      completename:
+        language: en
+        script: Latn
+        content: Harry Perper
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Chris
+      surname:
+        language: en
+        script: Latn
+        content: Peloquin
+      completename:
+        language: en
+        script: Latn
+        content: Chris Peloquin
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: John
+      surname:
+        language: en
+        script: Latn
+        content: Wiltberger
+      completename:
+        language: en
+        script: Latn
+        content: John Wiltberger
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Leah
+      surname:
+        language: en
+        script: Latn
+        content: Kauffman
+      completename:
+        language: en
+        script: Latn
+        content: Leah R. Kauffman
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: energy sector
+- vocab:
+    content: identity and access management
+- vocab:
+    content: physical security
+- vocab:
+    content: operational security
+- vocab:
+    content: information technology
+- vocab:
+    content: cybersecurity
+- vocab:
+    content: electricity subsector
+- vocab:
+    content: cyber security
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2015-08-25'
+    to: '2015-10-23'

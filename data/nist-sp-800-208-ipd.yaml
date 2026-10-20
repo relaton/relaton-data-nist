@@ -1,23 +1,204 @@
 ---
 id: NISTSP800208ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Recommendation for Stateful Hash-Based Signature Schemes
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/208/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-208-draft
 docidentifier:
 - content: NIST SP 800-208 ipd
   type: NIST
   primary: true
+- content: NIST.SP.800-208-draft
+  type: DOI
 date:
+- type: published
+  at: '2019-12-11'
+- type: obsoleted
+  at: '2020-10-29'
 - type: issued
-  at: 2019-12
+  at: '2019-12-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      prefix:
+      - language: en
+        script: Latn
+        content: Dr.
+      forename:
+      - language: en
+        script: Latn
+        content: David
+      surname:
+        language: en
+        script: Latn
+        content: Cooper
+      completename:
+        language: en
+        script: Latn
+        content: David A. Cooper
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Daniel
+      surname:
+        language: en
+        script: Latn
+        content: Apon
+      completename:
+        language: en
+        script: Latn
+        content: Daniel Apon
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Quynh
+      surname:
+        language: en
+        script: Latn
+        content: Dang
+      completename:
+        language: en
+        script: Latn
+        content: Quynh H. Dang
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Davidson
+      completename:
+        language: en
+        script: Latn
+        content: Michael S. Davidson
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Morris
+      surname:
+        language: en
+        script: Latn
+        content: Dworkin
+      completename:
+        language: en
+        script: Latn
+        content: Morris J. Dworkin
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Carl
+      surname:
+        language: en
+        script: Latn
+        content: Miller
+      completename:
+        language: en
+        script: Latn
+        content: Carl A. Miller
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: cryptography
+- vocab:
+    content: digital signatures
+- vocab:
+    content: hash-based signatures
+- vocab:
+    content: public-key cryptography
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2019-12-11'
+    to: '2020-02-28'

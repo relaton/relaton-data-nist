@@ -1,11 +1,11 @@
 ---
 id: NISTSP800633ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Digital Identity Guidelines
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/63/3/ipd
@@ -14,10 +14,145 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2017-01-30'
+- type: obsoleted
+  at: '2017-03-31'
 - type: issued
-  at: 2017-01
+  at: '2017-01-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Paul
+      surname:
+        language: en
+        script: Latn
+        content: Grassi
+      completename:
+        language: en
+        script: Latn
+        content: Paul A. Grassi
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Garcia
+      completename:
+        language: en
+        script: Latn
+        content: Michael E. Garcia
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: James
+      surname:
+        language: en
+        script: Latn
+        content: Fenton
+      completename:
+        language: en
+        script: Latn
+        content: James L. Fenton
+    affiliation:
+    - organization:
+        name:
+        - content: Altmode Networks
+edition:
+  content: Revision 3
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+relation:
+- type: obsoletes
+  description:
+    language: en
+    script: Latn
+    content: supersedes
+  bibitem:
+    formattedref:
+      content: NIST SP 800-63-3 ipd
+    source:
+    - type: src
+      content: https://csrc.nist.gov/pubs/sp/800/63/3/2prd
+    docidentifier:
+    - content: NIST SP 800-63-3 ipd
+      type: NIST
+      primary: true
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: authentication
+- vocab:
+    content: authentication assurance
+- vocab:
+    content: authenticator
+- vocab:
+    content: assertions
+- vocab:
+    content: credential service provider
+- vocab:
+    content: digital authentication
+- vocab:
+    content: digital credentials
+- vocab:
+    content: identity proofing
+- vocab:
+    content: passwords
+- vocab:
+    content: PKI
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2017-01-30'
+    to: '2017-03-31'

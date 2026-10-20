@@ -1,11 +1,11 @@
 ---
 id: NISTSP180027ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Securing Property Management Systems
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/1800/27/ipd
@@ -14,10 +14,151 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2020-09-14'
+- type: obsoleted
+  at: '2021-03-30'
 - type: issued
-  at: 2020-09
+  at: '2020-09-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: William
+      surname:
+        language: en
+        script: Latn
+        content: Newhouse
+      completename:
+        language: en
+        script: Latn
+        content: William D. Newhouse
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Ekstrom
+      completename:
+        language: en
+        script: Latn
+        content: Michael R. Ekstrom
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jeff
+      surname:
+        language: en
+        script: Latn
+        content: Finke
+      completename:
+        language: en
+        script: Latn
+        content: Jeff Finke
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Marisa
+      surname:
+        language: en
+        script: Latn
+        content: Harriston
+      completename:
+        language: en
+        script: Latn
+        content: Marisa Harriston
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: access control
+- vocab:
+    content: hospitality cybersecurity
+- vocab:
+    content: moving target defense
+- vocab:
+    content: PCI DSS
+- vocab:
+    content: PMS
+- vocab:
+    content: privacy
+- vocab:
+    content: property management system
+- vocab:
+    content: role-based authentication
+- vocab:
+    content: tokenization
+- vocab:
+    content: zero trust architecture
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2020-09-14'
+    to: '2020-10-28'

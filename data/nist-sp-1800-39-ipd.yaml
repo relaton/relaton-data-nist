@@ -1,11 +1,11 @@
 ---
 id: NISTSP180039ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Data Classification Practices
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/1800/39/ipd
@@ -14,10 +14,513 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2026-02-12'
 - type: issued
   at: '2026-02-12'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: William
+      surname:
+        language: en
+        script: Latn
+        content: Newhouse
+      completename:
+        language: en
+        script: Latn
+        content: William D. Newhouse
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Murugiah
+      surname:
+        language: en
+        script: Latn
+        content: Souppaya
+      completename:
+        language: en
+        script: Latn
+        content: Murugiah P. Souppaya
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: John
+      surname:
+        language: en
+        script: Latn
+        content: Kent
+      completename:
+        language: en
+        script: Latn
+        content: John Kent
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kenneth
+      surname:
+        language: en
+        script: Latn
+        content: Sandlin
+      completename:
+        language: en
+        script: Latn
+        content: Kenneth F. Sandlin
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ryan
+      surname:
+        language: en
+        script: Latn
+        content: Williams
+      completename:
+        language: en
+        script: Latn
+        content: Ryan Williams
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Karen
+      surname:
+        language: en
+        script: Latn
+        content: Kent
+      completename:
+        language: en
+        script: Latn
+        content: Karen A. Kent
+    affiliation:
+    - organization:
+        name:
+        - content: Trusted Cyber Annex
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Mark
+      surname:
+        language: en
+        script: Latn
+        content: Evans
+      completename:
+        language: en
+        script: Latn
+        content: Mark Evans
+    affiliation:
+    - organization:
+        name:
+        - content: ActiveNav
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jimmy
+      surname:
+        language: en
+        script: Latn
+        content: Katz
+      completename:
+        language: en
+        script: Latn
+        content: Jimmy Katz
+    affiliation:
+    - organization:
+        name:
+        - content: ActiveNav
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: John
+      surname:
+        language: en
+        script: Latn
+        content: Dombroski
+      completename:
+        language: en
+        script: Latn
+        content: John Dombroski
+    affiliation:
+    - organization:
+        name:
+        - content: IBM
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Harmeet
+      surname:
+        language: en
+        script: Latn
+        content: Singh
+      completename:
+        language: en
+        script: Latn
+        content: Harmeet Singh
+    affiliation:
+    - organization:
+        name:
+        - content: IBM
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Neville
+      surname:
+        language: en
+        script: Latn
+        content: Jones
+      completename:
+        language: en
+        script: Latn
+        content: Neville Jones
+    affiliation:
+    - organization:
+        name:
+        - content: Janusnet
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Helen
+      surname:
+        language: en
+        script: Latn
+        content: Farrell
+      completename:
+        language: en
+        script: Latn
+        content: Helen Farrell
+    affiliation:
+    - organization:
+        name:
+        - content: Janusnet
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Pablo
+      surname:
+        language: en
+        script: Latn
+        content: Blasco
+      completename:
+        language: en
+        script: Latn
+        content: Pablo Blasco
+    affiliation:
+    - organization:
+        name:
+        - content: Thales Trusted Cyber Technologies
+        abbreviation:
+          content: Thales TCT
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jane
+      surname:
+        language: en
+        script: Latn
+        content: Gilbert
+      completename:
+        language: en
+        script: Latn
+        content: Jane Gilbert
+    affiliation:
+    - organization:
+        name:
+        - content: Thales Trusted Cyber Technologies
+        abbreviation:
+          content: Thales TCT
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: D'Nan
+      surname:
+        language: en
+        script: Latn
+        content: Godfrey
+      completename:
+        language: en
+        script: Latn
+        content: D'Nan Godfrey
+    affiliation:
+    - organization:
+        name:
+        - content: Thales Trusted Cyber Technologies
+        abbreviation:
+          content: Thales TCT
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Matt
+      surname:
+        language: en
+        script: Latn
+        content: Jochim
+      completename:
+        language: en
+        script: Latn
+        content: Matt Jochim
+    affiliation:
+    - organization:
+        name:
+        - content: Thales Trusted Cyber Technologies
+        abbreviation:
+          content: Thales TCT
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Rich
+      surname:
+        language: en
+        script: Latn
+        content: Johnson
+      completename:
+        language: en
+        script: Latn
+        content: Rich Johnson
+    affiliation:
+    - organization:
+        name:
+        - content: Thales Trusted Cyber Technologies
+        abbreviation:
+          content: Thales TCT
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ludmila
+      surname:
+        language: en
+        script: Latn
+        content: Rinaudo
+      completename:
+        language: en
+        script: Latn
+        content: Ludmila Rinaudo
+    affiliation:
+    - organization:
+        name:
+        - content: Thales Trusted Cyber Technologies
+        abbreviation:
+          content: Thales TCT
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Gina
+      surname:
+        language: en
+        script: Latn
+        content: Scinta
+      completename:
+        language: en
+        script: Latn
+        content: Gina Scinta
+    affiliation:
+    - organization:
+        name:
+        - content: Thales Trusted Cyber Technologies
+        abbreviation:
+          content: Thales TCT
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Patrick
+      surname:
+        language: en
+        script: Latn
+        content: Greer
+      completename:
+        language: en
+        script: Latn
+        content: Patrick Greer
+    affiliation:
+    - organization:
+        name:
+        - content: Trellix
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Wilson
+      surname:
+        language: en
+        script: Latn
+        content: Patton
+      completename:
+        language: en
+        script: Latn
+        content: Wilson Patton
+    affiliation:
+    - organization:
+        name:
+        - content: Trellix
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jason
+      surname:
+        language: en
+        script: Latn
+        content: White
+      completename:
+        language: en
+        script: Latn
+        content: Jason White
+    affiliation:
+    - organization:
+        name:
+        - content: Trellix
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: active
+  iteration: '1'
+copyright:
+- from: '2026'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: synthetic unstructured data
+- vocab:
+    content: data pillar of zero trust
+- vocab:
+    content: data types, data labels
+- vocab:
+    content: data classification practices
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2026-02-12'
+    to: '2026-03-30'

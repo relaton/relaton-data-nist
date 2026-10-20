@@ -1,0 +1,99 @@
+---
+id: NISTSP80053r5ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Security and Privacy Controls for Information Systems and Organizations
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/53/r5/ipd
+docidentifier:
+- content: NIST SP 800-53r5 ipd
+  type: NIST
+  primary: true
+date:
+- type: published
+  at: '2017-08-15'
+- type: obsoleted
+  at: '2020-03-16'
+- type: issued
+  at: '2017-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Joint Task Force
+edition:
+  content: Revision 5
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: privacy controls
+- vocab:
+    content: privacy functions
+- vocab:
+    content: privacy requirements
+- vocab:
+    content: Risk Management Framework
+- vocab:
+    content: security controls
+- vocab:
+    content: security functions
+- vocab:
+    content: security requirements
+- vocab:
+    content: system
+- vocab:
+    content: availability
+- vocab:
+    content: computer security
+- vocab:
+    content: confidentiality
+- vocab:
+    content: FISMA
+- vocab:
+    content: information security
+- vocab:
+    content: system security
+- vocab:
+    content: assurance
+- vocab:
+    content: integrity
+- vocab:
+    content: Privacy Act
+- vocab:
+    content: personally identifiable information
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2017-08-15'
+    to: '2017-09-12'

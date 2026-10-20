@@ -1,11 +1,11 @@
 ---
 id: NISTSP180032ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
-  content: Securing the Industrial Internet of Things
-  type: title-main
+  content: Securing the Industrial Internet of Things - Cybersecurity for Distributed Energy Resources
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/1800/32/ipd
@@ -14,10 +14,187 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2021-09-21'
+- type: obsoleted
+  at: '2022-02-02'
 - type: issued
   at: '2021-09-21'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: James
+      surname:
+        language: en
+        script: Latn
+        content: McCarthy
+      completename:
+        language: en
+        script: Latn
+        content: James J. McCarthy
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Eileen
+      surname:
+        language: en
+        script: Latn
+        content: Division
+      completename:
+        language: en
+        script: Latn
+        content: Eileen Division
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Don
+      surname:
+        language: en
+        script: Latn
+        content: Faatz
+      completename:
+        language: en
+        script: Latn
+        content: Don Faatz
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Nikolas
+      surname:
+        language: en
+        script: Latn
+        content: Urlaub
+      completename:
+        language: en
+        script: Latn
+        content: Nikolas Urlaub
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: John
+      surname:
+        language: en
+        script: Latn
+        content: Wiltberger
+      completename:
+        language: en
+        script: Latn
+        content: John Wiltberger
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Tsion
+      surname:
+        language: en
+        script: Latn
+        content: Yimer
+      completename:
+        language: en
+        script: Latn
+        content: Tsion Yimer
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: data integrity
+- vocab:
+    content: distributed energy resource
+- vocab:
+    content: industrial internet of things
+- vocab:
+    content: malware
+- vocab:
+    content: microgrid
+- vocab:
+    content: smart grid
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2021-09-21'
+    to: '2021-10-20'

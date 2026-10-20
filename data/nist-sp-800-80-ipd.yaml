@@ -1,11 +1,11 @@
 ---
 id: NISTSP80080ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Guide for Developing Performance Metrics for Information Security
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/80/ipd
@@ -14,10 +14,171 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2006-05-04'
+- type: obsoleted
+  at: '2008-11-01'
 - type: issued
-  at: 2006-05
+  at: '2006-05-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Elizabeth
+      surname:
+        language: en
+        script: Latn
+        content: Chew
+      completename:
+        language: en
+        script: Latn
+        content: Elizabeth Chew
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Alicia
+      surname:
+        language: en
+        script: Latn
+        content: Clay
+      completename:
+        language: en
+        script: Latn
+        content: Alicia Clay
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Joan
+      surname:
+        language: en
+        script: Latn
+        content: Hash
+      completename:
+        language: en
+        script: Latn
+        content: Joan Hash
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Nadya
+      surname:
+        language: en
+        script: Latn
+        content: Bartol
+      completename:
+        language: en
+        script: Latn
+        content: Nadya Bartol
+    affiliation:
+    - organization:
+        name:
+        - content: Booz Allen Hamilton
+        abbreviation:
+          content: BAH
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Anthony
+      surname:
+        language: en
+        script: Latn
+        content: Brown
+      completename:
+        language: en
+        script: Latn
+        content: Anthony Brown
+    affiliation:
+    - organization:
+        name:
+        - content: Booz Allen Hamilton
+        abbreviation:
+          content: BAH
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: retired
+  iteration: '1'
+copyright:
+- from: '2006'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+relation:
+- type: updates
+  bibitem:
+    formattedref:
+      content: NIST SP 800-80 ipd
+    source:
+    - type: src
+      content: https://csrc.nist.gov/pubs/sp/800/55/r1/final
+    docidentifier:
+    - content: NIST SP 800-80 ipd
+      type: NIST
+      primary: true
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: information security program
+- vocab:
+    content: performance metrics
+- vocab:
+    content: security metrics
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2006-05-04'
+    to: '2006-06-19'

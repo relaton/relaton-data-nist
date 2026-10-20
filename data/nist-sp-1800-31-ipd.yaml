@@ -1,11 +1,11 @@
 ---
 id: NISTSP180031ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
-  content: Improving Enterprise Patching for General IT Systems
-  type: title-main
+  content: Improving Enterprise Patching for General IT Systems - Utilizing Existing Tools and Performing Processes in Better Ways
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/1800/31/ipd
@@ -14,10 +14,275 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2021-11-17'
+- type: obsoleted
+  at: '2022-04-06'
 - type: issued
   at: '2021-11-17'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Tyler
+      surname:
+        language: en
+        script: Latn
+        content: Diamond
+      completename:
+        language: en
+        script: Latn
+        content: Tyler Diamond
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Alper
+      surname:
+        language: en
+        script: Latn
+        content: Kerman
+      completename:
+        language: en
+        script: Latn
+        content: Alper Kerman
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Murugiah
+      surname:
+        language: en
+        script: Latn
+        content: Souppaya
+      completename:
+        language: en
+        script: Latn
+        content: Murugiah P. Souppaya
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kevin
+      surname:
+        language: en
+        script: Latn
+        content: Stine
+      completename:
+        language: en
+        script: Latn
+        content: Kevin M. Stine
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Brian
+      surname:
+        language: en
+        script: Latn
+        content: Johnson
+      completename:
+        language: en
+        script: Latn
+        content: Brian Johnson
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Chris
+      surname:
+        language: en
+        script: Latn
+        content: Peloquin
+      completename:
+        language: en
+        script: Latn
+        content: Chris Peloquin
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Vanessa
+      surname:
+        language: en
+        script: Latn
+        content: Ruffin
+      completename:
+        language: en
+        script: Latn
+        content: Vanessa Ruffin
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Mark
+      surname:
+        language: en
+        script: Latn
+        content: Simos
+      completename:
+        language: en
+        script: Latn
+        content: Mark Simos
+    affiliation:
+    - organization:
+        name:
+        - content: Microsoft
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Sean
+      surname:
+        language: en
+        script: Latn
+        content: Sweeney
+      completename:
+        language: en
+        script: Latn
+        content: Sean Sweeney
+    affiliation:
+    - organization:
+        name:
+        - content: Microsoft
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Karen
+      surname:
+        language: en
+        script: Latn
+        content: Scarfone
+      completename:
+        language: en
+        script: Latn
+        content: Karen A. Scarfone
+    affiliation:
+    - organization:
+        name:
+        - content: Scarfone Cybersecurity
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: cyber hygiene
+- vocab:
+    content: enterprise patch management
+- vocab:
+    content: firmware
+- vocab:
+    content: patch
+- vocab:
+    content: patch management
+- vocab:
+    content: software
+- vocab:
+    content: update
+- vocab:
+    content: upgrade
+- vocab:
+    content: vulnerability management
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2021-11-17'
+    to: '2022-01-10'

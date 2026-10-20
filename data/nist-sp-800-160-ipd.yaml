@@ -1,11 +1,11 @@
 ---
 id: NISTSP800160ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
-  content: Systems Security Engineering
-  type: title-main
+  content: Systems Security Engineering - An Integrated Approach to Building Trustworthy Resilient Systems
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/160/ipd
@@ -14,10 +14,255 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2014-05-13'
+- type: obsoleted
+  at: '2016-05-04'
 - type: issued
-  at: 2014-05
+  at: '2014-05-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      prefix:
+      - language: en
+        script: Latn
+        content: Dr.
+      forename:
+      - language: en
+        script: Latn
+        content: Ron
+      surname:
+        language: en
+        script: Latn
+        content: Ross
+      completename:
+        language: en
+        script: Latn
+        content: Ron S. Ross
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Janet
+      surname:
+        language: en
+        script: Latn
+        content: Oren
+      completename:
+        language: en
+        script: Latn
+        content: Janet Carrier Oren
+    affiliation:
+    - organization:
+        name:
+        - content: National Security Agency
+        abbreviation:
+          content: NSA
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: McEvilley
+      completename:
+        language: en
+        script: Latn
+        content: Michael McEvilley
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: Systems engineering
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: system life cycle
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: integration
+- vocab:
+    content: implementation
+- vocab:
+    content: stakeholder
+- vocab:
+    content: security requirements
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: security authorization
+- vocab:
+    content: engineering trades
+- vocab:
+    content: systems
+- vocab:
+    content: system-of-systems
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: inspection
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: developmental engineering
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: specifications
+- vocab:
+    content: systems security engineering
+- vocab:
+    content: assurance
+- vocab:
+    content: trustworthiness
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: information security
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: information security policy
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: security architecture
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: security design
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: verification
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: validation
+- vocab:
+    content: disposal
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: protection needs
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: resiliency
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: requirements analysis
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: risk management
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: risk assessment
+- vocab:
+    content: risk treatment
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: system element
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: system component
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: penetration testing
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: review
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: field engineering
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2014-05-13'
+    to: '2014-07-11'

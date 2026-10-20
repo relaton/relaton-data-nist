@@ -1,11 +1,11 @@
 ---
 id: NISTSP18007ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Situational Awareness for Electric Utilities
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/1800/7/ipd
@@ -14,10 +14,79 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2017-02-16'
+- type: obsoleted
+  at: '2019-08-07'
 - type: issued
-  at: 2017-02
+  at: '2017-02-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: James
+      surname:
+        language: en
+        script: Latn
+        content: McCarthy
+      completename:
+        language: en
+        script: Latn
+        content: James J. McCarthy
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: information technology
+- vocab:
+    content: physical access control systems
+- vocab:
+    content: security event and incident management
+- vocab:
+    content: situational awareness
+- vocab:
+    content: operational technology, correlated events
+- vocab:
+    content: energy sector
+- vocab:
+    content: cybersecurity
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2017-02-16'
+    to: '2017-04-17'

@@ -1,0 +1,116 @@
+---
+id: NISTSP80016r13pd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: A Role-Based Model for Federal Information Technology/Cybersecurity Training
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/16/r1/3pd
+docidentifier:
+- content: NIST SP 800-16r1 3pd
+  type: NIST
+  primary: true
+date:
+- type: published
+  at: '2014-03-14'
+- type: obsoleted
+  at: '2024-09-12'
+- type: issued
+  at: '2014-03-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Patricia
+      surname:
+        language: en
+        script: Latn
+        content: Toth
+      completename:
+        language: en
+        script: Latn
+        content: Patricia R. Toth
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Penny
+      surname:
+        language: en
+        script: Latn
+        content: Klein
+      completename:
+        language: en
+        script: Latn
+        content: Penny Klein
+    affiliation:
+    - organization:
+        name:
+        - content: Systegra
+edition:
+  content: Revision 1
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: retired
+  iteration: '3'
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: security literacy
+- vocab:
+    content: cybersecurity
+- vocab:
+    content: learning continuum
+- vocab:
+    content: role-based training
+- vocab:
+    content: security
+- vocab:
+    content: security awareness
+- vocab:
+    content: information assurance
+- vocab:
+    content: security controls
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2014-03-14'
+    to: '2014-04-30'

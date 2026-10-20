@@ -1,0 +1,116 @@
+---
+id: NISTSP80090C2pd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Recommendation for Random Bit Generator (RBG) Constructions
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/90/c/2pd
+docidentifier:
+- content: NIST SP 800-90C 2pd
+  type: NIST
+  primary: true
+date:
+- type: published
+  at: '2016-04-13'
+- type: obsoleted
+  at: '2022-09-07'
+- type: issued
+  at: '2016-04-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Elaine
+      surname:
+        language: en
+        script: Latn
+        content: Barker
+      completename:
+        language: en
+        script: Latn
+        content: Elaine B. Barker
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: John
+      surname:
+        language: en
+        script: Latn
+        content: Kelsey
+      completename:
+        language: en
+        script: Latn
+        content: John M. Kelsey
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '2'
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: non-deterministic random bit generator (NRBG)
+- vocab:
+    content: random number generator
+- vocab:
+    content: |-
+      randomness source
+      &nbsp
+- vocab:
+    content: deterministic random bit generator (DRBG)
+- vocab:
+    content: construction
+- vocab:
+    content: entropy source
+- vocab:
+    content: entropy
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2016-04-13'
+    to: '2016-06-13'

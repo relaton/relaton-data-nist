@@ -1,11 +1,11 @@
 ---
 id: NISTSP180018ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Privileged Account Management for the Financial Services Sector
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/1800/18/ipd
@@ -14,10 +14,281 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2018-09-28'
+- type: obsoleted
+  at: '2022-07-22'
 - type: issued
-  at: 2018-09
+  at: '2018-09-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Karen
+      surname:
+        language: en
+        script: Latn
+        content: Waltermire
+      completename:
+        language: en
+        script: Latn
+        content: Karen Waltermire
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Tom
+      surname:
+        language: en
+        script: Latn
+        content: Conroy
+      completename:
+        language: en
+        script: Latn
+        content: Tom Conroy
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Marisa
+      surname:
+        language: en
+        script: Latn
+        content: Harriston
+      completename:
+        language: en
+        script: Latn
+        content: Marisa Harriston
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Chinedum
+      surname:
+        language: en
+        script: Latn
+        content: Irrechukwu
+      completename:
+        language: en
+        script: Latn
+        content: Chinedum Irrechukwu
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Navaneeth
+      surname:
+        language: en
+        script: Latn
+        content: Krishnan
+      completename:
+        language: en
+        script: Latn
+        content: Navaneeth Krishnan
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: James
+      surname:
+        language: en
+        script: Latn
+        content: Memole-Doodson
+      completename:
+        language: en
+        script: Latn
+        content: James Memole-Doodson
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Benjamin
+      surname:
+        language: en
+        script: Latn
+        content: Nkrumah
+      completename:
+        language: en
+        script: Latn
+        content: Benjamin Nkrumah
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Harry
+      surname:
+        language: en
+        script: Latn
+        content: Perper
+      completename:
+        language: en
+        script: Latn
+        content: Harry Perper
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Susan
+      surname:
+        language: en
+        script: Latn
+        content: Prince
+      completename:
+        language: en
+        script: Latn
+        content: Susan Prince
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Devin
+      surname:
+        language: en
+        script: Latn
+        content: Wynne
+      completename:
+        language: en
+        script: Latn
+        content: Devin Wynne
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: retired
+  iteration: '1'
+copyright:
+- from: '2018'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: access control
+- vocab:
+    content: auditing
+- vocab:
+    content: authentication
+- vocab:
+    content: authorization
+- vocab:
+    content: life-cycle management
+- vocab:
+    content: multifactor authentication
+- vocab:
+    content: PAM
+- vocab:
+    content: privileged account management
+- vocab:
+    content: provisioning management
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2018-09-28'
+    to: '2018-11-30'

@@ -1,0 +1,196 @@
+---
+id: NISTSP800160v2fpd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Developing Cyber Resilient Systems - A Systems Security Engineering Approach
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/160/v2/fpd
+docidentifier:
+- content: NIST SP 800-160v2 fpd
+  type: NIST
+  primary: true
+date:
+- type: published
+  at: '2019-09-04'
+- type: obsoleted
+  at: '2019-11-27'
+- type: issued
+  at: '2019-09-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      prefix:
+      - language: en
+        script: Latn
+        content: Dr.
+      forename:
+      - language: en
+        script: Latn
+        content: Ron
+      surname:
+        language: en
+        script: Latn
+        content: Ross
+      completename:
+        language: en
+        script: Latn
+        content: Ron S. Ross
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Victoria
+      surname:
+        language: en
+        script: Latn
+        content: Pillitteri
+      completename:
+        language: en
+        script: Latn
+        content: Victoria Y. Pillitteri
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Richard
+      surname:
+        language: en
+        script: Latn
+        content: Graubart
+      completename:
+        language: en
+        script: Latn
+        content: Richard Graubart
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Deborah
+      surname:
+        language: en
+        script: Latn
+        content: Bodeau
+      completename:
+        language: en
+        script: Latn
+        content: Deborah Bodeau
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Rosalie
+      surname:
+        language: en
+        script: Latn
+        content: McQuaid
+      completename:
+        language: en
+        script: Latn
+        content: Rosalie McQuaid
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: final
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: advanced persistent threat
+- vocab:
+    content: controls
+- vocab:
+    content: cyber resiliency
+- vocab:
+    content: cyber resiliency approaches
+- vocab:
+    content: cyber resiliency design principles
+- vocab:
+    content: cyber resiliency engineering framework
+- vocab:
+    content: cyber resiliency goals
+- vocab:
+    content: cyber resiliency objectives
+- vocab:
+    content: cyber resiliency techniques
+- vocab:
+    content: risk management strategy
+- vocab:
+    content: system life cycle
+- vocab:
+    content: systems security engineering
+- vocab:
+    content: trustworthy
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2019-09-04'
+    to: '2019-11-01'

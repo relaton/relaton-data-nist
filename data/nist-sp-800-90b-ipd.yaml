@@ -1,11 +1,11 @@
 ---
 id: NISTSP80090Bipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Recommendation for the Entropy Sources Used for Random Bit Generation
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/90/b/ipd
@@ -14,10 +14,101 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2012-09-05'
+- type: obsoleted
+  at: '2016-01-27'
 - type: issued
-  at: 2012-08
+  at: '2012-08-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Elaine
+      surname:
+        language: en
+        script: Latn
+        content: Barker
+      completename:
+        language: en
+        script: Latn
+        content: Elaine B. Barker
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: John
+      surname:
+        language: en
+        script: Latn
+        content: Kelsey
+      completename:
+        language: en
+        script: Latn
+        content: John M. Kelsey
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: deterministic random bit generator (DRBG)
+- vocab:
+    content: entropy
+- vocab:
+    content: hash function
+- vocab:
+    content: random number generator
+- vocab:
+    content: noise source
+- vocab:
+    content: entropy source
+- vocab:
+    content: conditioning component
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2012-09-05'
+    to: '2012-12-05'

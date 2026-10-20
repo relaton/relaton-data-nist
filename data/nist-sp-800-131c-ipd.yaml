@@ -1,11 +1,11 @@
 ---
 id: NISTSP800131Cipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
-  content: Transitions
-  type: title-main
+  content: Transitions - Validating the Transition from FIPS 186-2 to FIPS 186-3
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/131/c/ipd
@@ -14,10 +14,50 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2011-02-10'
+- type: obsoleted
+  at: '2012-04-23'
 - type: issued
-  at: 2011-02
+  at: '2011-02-01'
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: retired
+  iteration: '1'
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: Cryptographic Module Validation Program (CMVP)
+- vocab:
+    content: Digital Signature Standard
+- vocab:
+    content: Cryptographic Algorithm Validation Program (CAVP)
+- vocab:
+    content: validation testing.
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2011-02-10'
+    to: '2011-03-31'

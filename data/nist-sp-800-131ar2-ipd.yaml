@@ -1,0 +1,130 @@
+---
+id: NISTSP800131Ar2ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Transitioning the Use of Cryptographic Algorithms and Key Lengths
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/131/a/r2/ipd
+docidentifier:
+- content: NIST SP 800-131Ar2 ipd
+  type: NIST
+  primary: true
+date:
+- type: published
+  at: '2018-07-19'
+- type: obsoleted
+  at: '2019-03-21'
+- type: issued
+  at: '2018-07-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Elaine
+      surname:
+        language: en
+        script: Latn
+        content: Barker
+      completename:
+        language: en
+        script: Latn
+        content: Elaine B. Barker
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Allen
+      surname:
+        language: en
+        script: Latn
+        content: Roginsky
+      completename:
+        language: en
+        script: Latn
+        content: Allen Roginsky
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+edition:
+  content: Revision 2
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2018'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: cryptographic algorithm
+- vocab:
+    content: digital signatures
+- vocab:
+    content: encryption
+- vocab:
+    content: hash function
+- vocab:
+    content: key agreement
+- vocab:
+    content: key derivation functions
+- vocab:
+    content: key management
+- vocab:
+    content: key transport
+- vocab:
+    content: key wrapping
+- vocab:
+    content: message authentication codes
+- vocab:
+    content: post-quantum algorithms
+- vocab:
+    content: random number generation
+- vocab:
+    content: security strength
+- vocab:
+    content: transition
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2018-07-19'
+    to: '2018-09-07'

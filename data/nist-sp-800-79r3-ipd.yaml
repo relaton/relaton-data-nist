@@ -1,0 +1,160 @@
+---
+id: NISTSP80079r3ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Guidelines for the Authorization of PIV Card and Derived PIV Credential Issuers
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/79/r3/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-79r3.ipd
+docidentifier:
+- content: NIST SP 800-79r3 ipd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-79r3.ipd
+  type: DOI
+date:
+- type: published
+  at: '2023-12-13'
+- type: issued
+  at: '2023-12-13'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Hildegard
+      surname:
+        language: en
+        script: Latn
+        content: Ferraiolo
+      completename:
+        language: en
+        script: Latn
+        content: Hildegard Ferraiolo
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Andrew
+      surname:
+        language: en
+        script: Latn
+        content: Regenscheid
+      completename:
+        language: en
+        script: Latn
+        content: Andrew R. Regenscheid
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Sarbari
+      surname:
+        language: en
+        script: Latn
+        content: Gupta
+      completename:
+        language: en
+        script: Latn
+        content: Sarbari Gupta
+    affiliation:
+    - organization:
+        name:
+        - content: Electrosoft Services
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Nabil
+      surname:
+        language: en
+        script: Latn
+        content: Ghadiali
+      completename:
+        language: en
+        script: Latn
+        content: Nabil Ghadiali
+    affiliation:
+    - organization:
+        name:
+        - content: Electrosoft Services
+edition:
+  content: Revision 3
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: active
+  iteration: '1'
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: assessment
+- vocab:
+    content: authorization
+- vocab:
+    content: compliance
+- vocab:
+    content: derived PIV credentials
+- vocab:
+    content: HSPD-12
+- vocab:
+    content: issuer controls
+- vocab:
+    content: personal identity verification
+- vocab:
+    content: PIV Card
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2023-12-13'
+    to: '2024-01-29'

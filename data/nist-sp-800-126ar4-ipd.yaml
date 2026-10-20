@@ -1,0 +1,114 @@
+---
+id: NISTSP800126Ar4ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: SCAP 1.4 Component Specification Version Updates - An Annex to NIST SP 800-126r4
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/126/a/r4/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-126Ar4.ipd
+docidentifier:
+- content: NIST SP 800-126Ar4 ipd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-126Ar4.ipd
+  type: DOI
+date:
+- type: published
+  at: '2025-12-11'
+- type: obsoleted
+  at: '2026-06-08'
+- type: issued
+  at: '2025-12-11'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Dragos
+      surname:
+        language: en
+        script: Latn
+        content: Prisaca
+      completename:
+        language: en
+        script: Latn
+        content: Dragos Prisaca
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Stephen
+      surname:
+        language: en
+        script: Latn
+        content: Quinn
+      completename:
+        language: en
+        script: Latn
+        content: Stephen D. Quinn
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+edition:
+  content: Revision 4
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: Open Vulnerability and Assessment Language (OVAL)
+- vocab:
+    content: security automation
+- vocab:
+    content: security configuration
+- vocab:
+    content: Security Content Automation Protocol (SCAP)
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2025-12-11'
+    to: '2026-02-11'

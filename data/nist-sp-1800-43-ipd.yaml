@@ -1,11 +1,11 @@
 ---
 id: NISTSP180043ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Genomic Data Threat Modeling
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/1800/43/ipd
@@ -14,10 +14,309 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2025-08-05'
 - type: issued
   at: '2025-08-05'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ronald
+      surname:
+        language: en
+        script: Latn
+        content: Pulivarti
+      completename:
+        language: en
+        script: Latn
+        content: Ronald Pulivarti
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Justin
+      surname:
+        language: en
+        script: Latn
+        content: Wagner
+      completename:
+        language: en
+        script: Latn
+        content: Justin Wagner
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Brett
+      surname:
+        language: en
+        script: Latn
+        content: Kreider
+      completename:
+        language: en
+        script: Latn
+        content: Brett Kreider
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Stuart
+      surname:
+        language: en
+        script: Latn
+        content: Shapiro
+      completename:
+        language: en
+        script: Latn
+        content: Stuart Shapiro
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Julie
+      surname:
+        language: en
+        script: Latn
+        content: Nethery Snyder
+      completename:
+        language: en
+        script: Latn
+        content: Julie Nethery Snyder
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kevin
+      surname:
+        language: en
+        script: Latn
+        content: Wilson
+      completename:
+        language: en
+        script: Latn
+        content: Kevin Wilson
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Martin
+      surname:
+        language: en
+        script: Latn
+        content: Wojtyniak
+      completename:
+        language: en
+        script: Latn
+        content: Martin Wojtyniak
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Phillip
+      surname:
+        language: en
+        script: Latn
+        content: Whitlow
+      completename:
+        language: en
+        script: Latn
+        content: Phillip Whitlow
+    affiliation:
+    - organization:
+        name:
+        - content: HudsonAlpha Institute for Biotechnology
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Scott
+      surname:
+        language: en
+        script: Latn
+        content: Ross
+      completename:
+        language: en
+        script: Latn
+        content: Scott Ross
+    affiliation:
+    - organization:
+        name:
+        - content: HudsonAlpha Institute for Biotechnology
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Isabelle
+      surname:
+        language: en
+        script: Latn
+        content: Brown-Cantrell
+      completename:
+        language: en
+        script: Latn
+        content: Isabelle Brown-Cantrell
+    affiliation:
+    - organization:
+        name:
+        - content: University of Alabama in Huntsville
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Patrick
+      surname:
+        language: en
+        script: Latn
+        content: Pape
+      completename:
+        language: en
+        script: Latn
+        content: Patrick Pape
+    affiliation:
+    - organization:
+        name:
+        - content: University of Alabama in Huntsville
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jared
+      surname:
+        language: en
+        script: Latn
+        content: Sheldon
+      completename:
+        language: en
+        script: Latn
+        content: Jared Sheldon
+    affiliation:
+    - organization:
+        name:
+        - content: University of Alabama in Huntsville
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: active
+  iteration: '1'
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: DNA sequencing
+- vocab:
+    content: genomics
+- vocab:
+    content: genomic data
+- vocab:
+    content: genomic sequencing
+- vocab:
+    content: human genome
+- vocab:
+    content: threat modeling
+- vocab:
+    content: threat mitigation
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2025-08-05'
+    to: '2025-09-04'

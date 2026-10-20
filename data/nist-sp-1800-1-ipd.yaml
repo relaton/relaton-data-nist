@@ -1,11 +1,11 @@
 ---
 id: NISTSP18001ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Securing Electronic Health Records on Mobile Devices
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/1800/1/ipd
@@ -14,10 +14,233 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2015-07-28'
+- type: obsoleted
+  at: '2018-07-27'
 - type: issued
-  at: 2015-07
+  at: '2015-07-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Gavin
+      surname:
+        language: en
+        script: Latn
+        content: O'Brien
+      completename:
+        language: en
+        script: Latn
+        content: Gavin W. O'Brien
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Nate
+      surname:
+        language: en
+        script: Latn
+        content: Lesser
+      completename:
+        language: en
+        script: Latn
+        content: Nate V. Lesser
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Brett
+      surname:
+        language: en
+        script: Latn
+        content: Pleasant
+      completename:
+        language: en
+        script: Latn
+        content: Brett Pleasant
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Sue
+      surname:
+        language: en
+        script: Latn
+        content: Wang
+      completename:
+        language: en
+        script: Latn
+        content: Sue Wang
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kangmin
+      surname:
+        language: en
+        script: Latn
+        content: Zheng
+      completename:
+        language: en
+        script: Latn
+        content: Kangmin Zheng
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Colin
+      surname:
+        language: en
+        script: Latn
+        content: Bowers
+      completename:
+        language: en
+        script: Latn
+        content: Colin Bowers
+    affiliation:
+    - organization:
+        name:
+        - content: Ramparts
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kyle
+      surname:
+        language: en
+        script: Latn
+        content: Kamke
+      completename:
+        language: en
+        script: Latn
+        content: Kyle Kamke
+    affiliation:
+    - organization:
+        name:
+        - content: Ramparts
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Leah
+      surname:
+        language: en
+        script: Latn
+        content: Kauffman
+      completename:
+        language: en
+        script: Latn
+        content: Leah R. Kauffman
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: HIPAA
+- vocab:
+    content: implement standards-based cybersecurity technologies
+- vocab:
+    content: mobile device security standards
+- vocab:
+    content: risk management
+- vocab:
+    content: stolen health records
+- vocab:
+    content: electronic health record security
+- vocab:
+    content: stolen medical information
+- vocab:
+    content: electronic health record system
+- vocab:
+    content: breaches of patient health information
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2015-07-28'
+    to: '2015-09-25'

@@ -1,0 +1,238 @@
+---
+id: NISTCSWP14ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Hardware-Enabled Security for Server Platforms - Enabling a Layered Approach to Platform Security for Cloud and Edge Computing Use Cases
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/cswp/14/hardwareenabled-security-for-server-platforms/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.CSWP.14.ipd
+docidentifier:
+- content: NIST CSWP 14 ipd
+  type: NIST
+  primary: true
+- content: NIST.CSWP.14.ipd
+  type: DOI
+date:
+- type: published
+  at: '2020-04-28'
+- type: obsoleted
+  at: '2021-05-27'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Bartock
+      completename:
+        language: en
+        script: Latn
+        content: Michael Bartock
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Murugiah
+      surname:
+        language: en
+        script: Latn
+        content: Souppaya
+      completename:
+        language: en
+        script: Latn
+        content: Murugiah P. Souppaya
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ryan
+      surname:
+        language: en
+        script: Latn
+        content: Savino
+      completename:
+        language: en
+        script: Latn
+        content: Ryan Savino
+    affiliation:
+    - organization:
+        name:
+        - content: Intel
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Timothy
+      surname:
+        language: en
+        script: Latn
+        content: Knoll
+      completename:
+        language: en
+        script: Latn
+        content: Timothy Knoll
+    affiliation:
+    - organization:
+        name:
+        - content: Intel
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Uttam
+      surname:
+        language: en
+        script: Latn
+        content: Shetty
+      completename:
+        language: en
+        script: Latn
+        content: Uttam Shetty
+    affiliation:
+    - organization:
+        name:
+        - content: Intel
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Mourad
+      surname:
+        language: en
+        script: Latn
+        content: Cherfaoui
+      completename:
+        language: en
+        script: Latn
+        content: Mourad Cherfaoui
+    affiliation:
+    - organization:
+        name:
+        - content: Intel
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Raghuram
+      surname:
+        language: en
+        script: Latn
+        content: Yeluri
+      completename:
+        language: en
+        script: Latn
+        content: Raghuram Yeluri
+    affiliation:
+    - organization:
+        name:
+        - content: Intel
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Karen
+      surname:
+        language: en
+        script: Latn
+        content: Scarfone
+      completename:
+        language: en
+        script: Latn
+        content: Karen A. Scarfone
+    affiliation:
+    - organization:
+        name:
+        - content: Scarfone Cybersecurity
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: confidential computing
+- vocab:
+    content: container
+- vocab:
+    content: hardware-enabled security
+- vocab:
+    content: hardware security module (HSM)
+- vocab:
+    content: secure enclave
+- vocab:
+    content: trusted execution environment (TEE)
+- vocab:
+    content: trusted platform module (TPM)
+- vocab:
+    content: virtualization
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2020-04-28'
+    to: '2020-06-02'

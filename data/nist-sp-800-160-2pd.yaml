@@ -1,0 +1,194 @@
+---
+id: NISTSP8001602pd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Systems Security Engineering Guideline - An Integrated Approach to Building Trustworthy Resilient Systems
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/160/2pd
+docidentifier:
+- content: NIST SP 800-160 2pd
+  type: NIST
+  primary: true
+date:
+- type: published
+  at: '2016-05-04'
+- type: obsoleted
+  at: '2016-05-04'
+- type: issued
+  at: '2016-05-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      prefix:
+      - language: en
+        script: Latn
+        content: Dr.
+      forename:
+      - language: en
+        script: Latn
+        content: Ron
+      surname:
+        language: en
+        script: Latn
+        content: Ross
+      completename:
+        language: en
+        script: Latn
+        content: Ron S. Ross
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: McEvilley
+      completename:
+        language: en
+        script: Latn
+        content: Michael McEvilley
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Janet
+      surname:
+        language: en
+        script: Latn
+        content: Oren
+      completename:
+        language: en
+        script: Latn
+        content: Janet Carrier Oren
+    affiliation:
+    - organization:
+        name:
+        - content: PricewaterhouseCoopers
+        abbreviation:
+          content: PwC
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '2'
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: disposal
+- vocab:
+    content: engineering trades
+- vocab:
+    content: field engineering
+- vocab:
+    content: implementation
+- vocab:
+    content: information security
+- vocab:
+    content: information security policy
+- vocab:
+    content: inspection
+- vocab:
+    content: integration
+- vocab:
+    content: penetration testing
+- vocab:
+    content: protection needs
+- vocab:
+    content: requirements analysis
+- vocab:
+    content: resiliency
+- vocab:
+    content: review
+- vocab:
+    content: risk assessment
+- vocab:
+    content: risk management
+- vocab:
+    content: risk treatment
+- vocab:
+    content: security architecture
+- vocab:
+    content: security authorization
+- vocab:
+    content: security design
+- vocab:
+    content: security requirements
+- vocab:
+    content: specifications
+- vocab:
+    content: stakeholder
+- vocab:
+    content: system-of-systems
+- vocab:
+    content: system component
+- vocab:
+    content: system element
+- vocab:
+    content: system life cycle
+- vocab:
+    content: systems
+- vocab:
+    content: systems engineering
+- vocab:
+    content: systems security engineering
+- vocab:
+    content: trustworthiness
+- vocab:
+    content: validation
+- vocab:
+    content: verification
+- vocab:
+    content: developmental engineering
+- vocab:
+    content: Assurance
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2016-05-04'
+    to: '2016-07-01'

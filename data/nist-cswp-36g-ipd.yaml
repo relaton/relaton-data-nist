@@ -1,0 +1,160 @@
+---
+id: NISTCSWP36Gipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: False Base Station - Applying 5G Cybersecurity and Privacy Capabilities
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/cswp/36/g/false-base-station-applying-5g-cybersecurity-and-p/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.CSWP.36G.ipd
+docidentifier:
+- content: NIST CSWP 36G ipd
+  type: NIST
+  primary: true
+- content: NIST.CSWP.36G.ipd
+  type: DOI
+date:
+- type: published
+  at: '2026-09-30'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Bartock
+      completename:
+        language: en
+        script: Latn
+        content: Michael Bartock
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jeffrey
+      surname:
+        language: en
+        script: Latn
+        content: Cichonski
+      completename:
+        language: en
+        script: Latn
+        content: Jeffrey A. Cichonski
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Parisa
+      surname:
+        language: en
+        script: Latn
+        content: Grayeli
+      completename:
+        language: en
+        script: Latn
+        content: Parisa Grayeli
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Sanjeev
+      surname:
+        language: en
+        script: Latn
+        content: Sharma
+      completename:
+        language: en
+        script: Latn
+        content: Sanjeev Sharma
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: active
+  iteration: '1'
+copyright:
+- from: '2026'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: 3GPP
+- vocab:
+    content: 5G
+- vocab:
+    content: cybersecurity
+- vocab:
+    content: privacy
+- vocab:
+    content: False Base Station
+- vocab:
+    content: Fake Base Station
+- vocab:
+    content: Rogue Base Station
+- vocab:
+    content: Software Defined Radio
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2026-09-30'
+    to: '2026-10-30'

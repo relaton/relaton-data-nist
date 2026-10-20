@@ -1,11 +1,11 @@
 ---
 id: NISTSP180033ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: 5G Cybersecurity
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/1800/33/ipd
@@ -14,10 +14,191 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2025-03-18'
 - type: issued
   at: '2025-03-18'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Bartock
+      completename:
+        language: en
+        script: Latn
+        content: Michael Bartock
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jeffrey
+      surname:
+        language: en
+        script: Latn
+        content: Cichonski
+      completename:
+        language: en
+        script: Latn
+        content: Jeffrey A. Cichonski
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Murugiah
+      surname:
+        language: en
+        script: Latn
+        content: Souppaya
+      completename:
+        language: en
+        script: Latn
+        content: Murugiah P. Souppaya
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Karen
+      surname:
+        language: en
+        script: Latn
+        content: Scarfone
+      completename:
+        language: en
+        script: Latn
+        content: Karen A. Scarfone
+    affiliation:
+    - organization:
+        name:
+        - content: Scarfone Cybersecurity
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Parisa
+      surname:
+        language: en
+        script: Latn
+        content: Grayeli
+      completename:
+        language: en
+        script: Latn
+        content: Parisa Grayeli
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Sanjeev
+      surname:
+        language: en
+        script: Latn
+        content: Sharma
+      completename:
+        language: en
+        script: Latn
+        content: Sanjeev Sharma
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: active
+  iteration: '1'
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: 5G
+- vocab:
+    content: cybersecurity
+- vocab:
+    content: cloud security
+- vocab:
+    content: hardware root of trust (HRoT)
+- vocab:
+    content: network function containerization
+- vocab:
+    content: network function virtualization)
+- vocab:
+    content: privacy
+- vocab:
+    content: secure boot
+- vocab:
+    content: Service Based Architecture (SBA)
+- vocab:
+    content: trusted compute
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2025-03-18'
+    to: '2025-04-16'

@@ -1,21 +1,74 @@
 ---
 id: NISTSP800237ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Modeling and Security Analysis of Attacks on Machine Learning Systems
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/237/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-237.ipd
 docidentifier:
 - content: NIST SP 800-237 ipd
   type: NIST
   primary: true
+- content: NIST.SP.800-237.ipd
+  type: DOI
 date:
+- type: published
+  at: '2025-06-30'
 - type: issued
   at: '2025-06-30'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Anoop
+      surname:
+        language: en
+        script: Latn
+        content: Singhal
+      completename:
+        language: en
+        script: Latn
+        content: Anoop Singhal
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: active
+  iteration: '1'
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
 ext:
   schema_version: v1.1.2
   doctype:

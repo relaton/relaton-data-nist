@@ -1,0 +1,89 @@
+---
+id: NISTSP80053Ar5ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Assessing Security and Privacy Controls in Information Systems and Organizations
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/53/a/r5/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-53Ar5-draft
+docidentifier:
+- content: NIST SP 800-53Ar5 ipd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-53Ar5-draft
+  type: DOI
+date:
+- type: published
+  at: '2021-08-03'
+- type: obsoleted
+  at: '2022-01-25'
+- type: issued
+  at: '2021-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Joint Task Force
+edition:
+  content: Revision 5
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: assessment
+- vocab:
+    content: assessment plan
+- vocab:
+    content: assurance
+- vocab:
+    content: control assessment
+- vocab:
+    content: FISMA
+- vocab:
+    content: Privacy Act
+- vocab:
+    content: privacy controls
+- vocab:
+    content: privacy requirements
+- vocab:
+    content: Risk Management Framework
+- vocab:
+    content: security controls
+- vocab:
+    content: security requirements
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2021-08-03'
+    to: '2021-10-01'

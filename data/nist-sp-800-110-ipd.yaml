@@ -1,11 +1,11 @@
 ---
 id: NISTSP800110ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Information System Security Reference Data Model
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/110/ipd
@@ -14,10 +14,117 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2007-09-28'
+- type: obsoleted
+  at: '2008-11-01'
 - type: issued
-  at: 2007-09
+  at: '2007-09-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Elizabeth
+      surname:
+        language: en
+        script: Latn
+        content: Chew
+      completename:
+        language: en
+        script: Latn
+        content: Elizabeth Chew
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kevin
+      surname:
+        language: en
+        script: Latn
+        content: Stine
+      completename:
+        language: en
+        script: Latn
+        content: Kevin M. Stine
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Marianne
+      surname:
+        language: en
+        script: Latn
+        content: Swanson
+      completename:
+        language: en
+        script: Latn
+        content: Marianne A. Swanson
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: retired
+  iteration: '1'
+copyright:
+- from: '2007'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: information security program
+- vocab:
+    content: reference data model
+- vocab:
+    content: security automation
+- vocab:
+    content: XML
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2007-09-28'
+    to: '2007-10-31'

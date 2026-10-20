@@ -1,11 +1,11 @@
 ---
 id: NISTSP800177ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Trustworthy Email
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/177/ipd
@@ -14,10 +14,151 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2016-03-30'
+- type: obsoleted
+  at: '2016-09-07'
 - type: issued
-  at: 2016-03
+  at: '2016-03-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Scott
+      surname:
+        language: en
+        script: Latn
+        content: Rose
+      completename:
+        language: en
+        script: Latn
+        content: Scott W. Rose
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Stephen
+      surname:
+        language: en
+        script: Latn
+        content: Nightingale
+      completename:
+        language: en
+        script: Latn
+        content: Stephen Nightingale
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Simson
+      surname:
+        language: en
+        script: Latn
+        content: Garfinkel
+      completename:
+        language: en
+        script: Latn
+        content: Simson L. Garfinkel
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ramaswamy
+      surname:
+        language: en
+        script: Latn
+        content: Chandramouli
+      completename:
+        language: en
+        script: Latn
+        content: Ramaswamy Chandramouli
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: Simple Mail Transfer Protocol (SMTP)
+- vocab:
+    content: Transport Layer Security (TLS)
+- vocab:
+    content: Sender Policy Framework (SPF)
+- vocab:
+    content: Domain Keys Identified Mail (DKIM)
+- vocab:
+    content: Domain based Message Authentication
+- vocab:
+    content: Reporting and Conformance (DMARC)
+- vocab:
+    content: Domain Name System (DNS) Authentication of Named Entities (DANE)
+- vocab:
+    content: S/MIME
+- vocab:
+    content: email
+- vocab:
+    content: OpenPGP
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2016-03-30'
+    to: '2016-04-29'

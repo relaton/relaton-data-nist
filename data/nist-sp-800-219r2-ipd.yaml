@@ -1,0 +1,124 @@
+---
+id: NISTSP800219r2ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Automated Secure Configuration Guidance from the macOS Security Compliance Project (mSCP)
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/219/r2/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-219r2.ipd
+docidentifier:
+- content: NIST SP 800-219r2 ipd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-219r2.ipd
+  type: DOI
+date:
+- type: published
+  at: '2026-06-22'
+- type: issued
+  at: '2026-06-22'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Eric
+      surname:
+        language: en
+        script: Latn
+        content: Trapnell
+      completename:
+        language: en
+        script: Latn
+        content: Eric Trapnell
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Bob
+      surname:
+        language: en
+        script: Latn
+        content: Gendler
+      completename:
+        language: en
+        script: Latn
+        content: Bob Gendler
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+edition:
+  content: Revision 2
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: active
+  iteration: '1'
+copyright:
+- from: '2026'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: Apple
+- vocab:
+    content: baseline
+- vocab:
+    content: configuration management
+- vocab:
+    content: endpoint device security
+- vocab:
+    content: iOS
+- vocab:
+    content: macOS
+- vocab:
+    content: macOS Security Compliance Project (mSCP)
+- vocab:
+    content: operating system security
+- vocab:
+    content: security compliance
+- vocab:
+    content: visionOS
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2026-06-22'
+    to: '2026-08-14'

@@ -1,23 +1,122 @@
 ---
 id: NISTSP800224ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
-  content: Keyed-Hash Message Authentication Code (HMAC)
-  type: title-main
+  content: Keyed-Hash Message Authentication Code (HMAC) - Specification of HMAC and Recommendations for Message Authentication
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/224/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-224.ipd
 docidentifier:
 - content: NIST SP 800-224 ipd
   type: NIST
   primary: true
+- content: NIST.SP.800-224.ipd
+  type: DOI
 date:
+- type: published
+  at: '2024-06-28'
 - type: issued
   at: '2024-06-28'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      prefix:
+      - language: en
+        script: Latn
+        content: Dr.
+      forename:
+      - language: en
+        script: Latn
+        content: Meltem
+      surname:
+        language: en
+        script: Latn
+        content: Sönmez Turan
+      completename:
+        language: en
+        script: Latn
+        content: Meltem Sönmez Turan
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Luís T. A. N.
+      surname:
+        language: en
+        script: Latn
+        content: Brandão
+      completename:
+        language: en
+        script: Latn
+        content: Luís T. A. N. Brandão
+    affiliation:
+    - organization:
+        name:
+        - content: Strativia
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: active
+  iteration: '1'
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: cryptography
+- vocab:
+    content: hash function
+- vocab:
+    content: HMAC
+- vocab:
+    content: MAC
+- vocab:
+    content: message authentication code
+- vocab:
+    content: PRF
+- vocab:
+    content: pseudorandom function
+- vocab:
+    content: standard
+- vocab:
+    content: truncation
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2024-06-28'
+    to: '2024-09-06'

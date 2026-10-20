@@ -1,11 +1,11 @@
 ---
 id: NISTSP18006ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Domain Name Systems-Based Electronic Mail Security
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/1800/6/ipd
@@ -14,10 +14,173 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2016-11-02'
+- type: obsoleted
+  at: '2018-01-19'
 - type: issued
-  at: 2016-11
+  at: '2016-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Scott
+      surname:
+        language: en
+        script: Latn
+        content: Rose
+      completename:
+        language: en
+        script: Latn
+        content: Scott W. Rose
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: William
+      surname:
+        language: en
+        script: Latn
+        content: Barker
+      completename:
+        language: en
+        script: Latn
+        content: William C. Barker
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Santos
+      surname:
+        language: en
+        script: Latn
+        content: Jha
+      completename:
+        language: en
+        script: Latn
+        content: Santos Jha
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Chinedum
+      surname:
+        language: en
+        script: Latn
+        content: Irrechukwu
+      completename:
+        language: en
+        script: Latn
+        content: Chinedum Irrechukwu
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Karen
+      surname:
+        language: en
+        script: Latn
+        content: Waltermire
+      completename:
+        language: en
+        script: Latn
+        content: Karen Waltermire
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: retired
+  iteration: '1'
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: encryption
+- vocab:
+    content: domain name system
+- vocab:
+    content: data integrity
+- vocab:
+    content: authentication
+- vocab:
+    content: named entities
+- vocab:
+    content: internet addresses
+- vocab:
+    content: internet protocols
+- vocab:
+    content: privacy
+- vocab:
+    content: digital signature
+- vocab:
+    content: electronic mail
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2016-11-02'
+    to: '2016-12-19'

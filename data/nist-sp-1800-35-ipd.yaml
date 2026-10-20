@@ -1,11 +1,11 @@
 ---
 id: NISTSP180035ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Implementing a Zero Trust Architecture
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/1800/35/ipd
@@ -14,10 +14,56 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2024-12-04'
+- type: obsoleted
+  at: '2025-06-10'
 - type: issued
   at: '2024-12-04'
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: enhanced identity governance (EIG)
+- vocab:
+    content: identity, credential, and access management (ICAM)
+- vocab:
+    content: microsegmentation
+- vocab:
+    content: secure access service edge (SASE)
+- vocab:
+    content: software-defined perimeter (SDP)
+- vocab:
+    content: zero trust
+- vocab:
+    content: zero trust architecture (ZTA)
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2024-12-04'
+    to: '2025-01-31'

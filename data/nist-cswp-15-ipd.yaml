@@ -1,0 +1,140 @@
+---
+id: NISTCSWP15ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Getting Ready for Post-Quantum Cryptography - Explore Challenges Associated with Adoption and Use of Post-Quantum Cryptographic Algorithms
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/cswp/15/getting-ready-for-postquantum-cryptography/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.CSWP.15.ipd
+docidentifier:
+- content: NIST CSWP 15 ipd
+  type: NIST
+  primary: true
+- content: NIST.CSWP.15.ipd
+  type: DOI
+date:
+- type: published
+  at: '2020-05-26'
+- type: obsoleted
+  at: '2021-04-28'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: William
+      surname:
+        language: en
+        script: Latn
+        content: Barker
+      completename:
+        language: en
+        script: Latn
+        content: William C. Barker
+    affiliation:
+    - organization:
+        name:
+        - content: Dakota Consulting
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: W.
+      surname:
+        language: en
+        script: Latn
+        content: Polk
+      completename:
+        language: en
+        script: Latn
+        content: W. Timothy Polk
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Murugiah
+      surname:
+        language: en
+        script: Latn
+        content: Souppaya
+      completename:
+        language: en
+        script: Latn
+        content: Murugiah P. Souppaya
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: cryptography
+- vocab:
+    content: crypto agility
+- vocab:
+    content: crypto transition
+- vocab:
+    content: digital signatures
+- vocab:
+    content: post-quantum cryptography
+- vocab:
+    content: public-key encryption
+- vocab:
+    content: key establishment mechanism (KEM)
+- vocab:
+    content: quantum resistant
+- vocab:
+    content: quantum safe
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2020-05-26'
+    to: '2020-06-30'

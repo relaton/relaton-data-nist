@@ -9391,6 +9391,15 @@
     series: MONO
   :file: data/nbs-mono-12.yaml
 - :id:
+    _type: pubid:nist:identifier
+    number: '12'
+    publisher: NIST
+    stage:
+      id: i
+      type: pd
+    series: CSWP
+  :file: data/nist-cswp-12-ipd.yaml
+- :id:
     _type: pubid:nist:federal-information-processing-standards
     number: 12-2
     publisher: NBS
@@ -14662,6 +14671,15 @@
     series: MONO
   :file: data/nbs-mono-14.yaml
 - :id:
+    _type: pubid:nist:identifier
+    number: '14'
+    publisher: NIST
+    stage:
+      id: i
+      type: pd
+    series: CSWP
+  :file: data/nist-cswp-14-ipd.yaml
+- :id:
     _type: pubid:nist:federal-information-processing-standards
     number: 14-1
     edition:
@@ -14865,6 +14883,15 @@
       type: pd
     series: FIPS
   :file: data/nist-fips-140-3-ipd.yaml
+- :id:
+    _type: pubid:nist:federal-information-processing-standards
+    number: 140-3
+    publisher: NIST
+    stage:
+      id: '2'
+      type: pd
+    series: FIPS
+  :file: data/nist-fips-140-3-2pd.yaml
 - :id:
     _type: pubid:nist:commercial-standard
     number: 140-47
@@ -16503,6 +16530,15 @@
     publisher: NBS
     series: MONO
   :file: data/nbs-mono-15.yaml
+- :id:
+    _type: pubid:nist:identifier
+    number: '15'
+    publisher: NIST
+    stage:
+      id: i
+      type: pd
+    series: CSWP
+  :file: data/nist-cswp-15-ipd.yaml
 - :id:
     _type: pubid:nist:commercial-standard
     number: 15-29
@@ -18817,6 +18853,15 @@
     series: MONO
   :file: data/nbs-mono-16.yaml
 - :id:
+    _type: pubid:nist:identifier
+    number: '16'
+    publisher: NIST
+    stage:
+      id: i
+      type: pd
+    series: CSWP
+  :file: data/nist-cswp-16-ipd.yaml
+- :id:
     _type: pubid:nist:grant-contractor-report
     number: 16-001
     publisher: NIST
@@ -20223,6 +20268,15 @@
     series: MONO
   :file: data/nbs-mono-17.yaml
 - :id:
+    _type: pubid:nist:identifier
+    number: '17'
+    publisher: NIST
+    stage:
+      id: i
+      type: pd
+    series: CSWP
+  :file: data/nist-cswp-17-ipd.yaml
+- :id:
     _type: pubid:nist:grant-contractor-report
     number: 17-012
     publisher: NIST
@@ -21509,6 +21563,15 @@
     series: MONO
   :file: data/nbs-mono-18.yaml
 - :id:
+    _type: pubid:nist:identifier
+    number: '18'
+    publisher: NIST
+    stage:
+      id: i
+      type: pd
+    series: CSWP
+  :file: data/nist-cswp-18-ipd.yaml
+- :id:
     _type: pubid:nist:grant-contractor-report
     number: 18-015
     publisher: NIST
@@ -21856,6 +21919,16 @@
     number: 1800-12
     publisher: NIST
     stage:
+      id: '2'
+      type: pd
+    series: SP
+    subseries: '1800'
+  :file: data/nist-sp-1800-12-2pd.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 1800-12
+    publisher: NIST
+    stage:
       id: i
       type: pd
     series: SP
@@ -21868,6 +21941,16 @@
     series: SP
     subseries: '1800'
   :file: data/nist-sp-1800-13.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 1800-13
+    publisher: NIST
+    stage:
+      id: '2'
+      type: pd
+    series: SP
+    subseries: '1800'
+  :file: data/nist-sp-1800-13-2pd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 1800-13
@@ -22019,6 +22102,16 @@
   :file: data/nist-sp-1800-22-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
+    number: 1800-22
+    publisher: NIST
+    stage:
+      id: '2'
+      type: pd
+    series: SP
+    subseries: '1800'
+  :file: data/nist-sp-1800-22-2pd.yaml
+- :id:
+    _type: pubid:nist:special-publication
     number: 1800-23
     publisher: NIST
     series: SP
@@ -22148,6 +22241,16 @@
   :file: data/nist-sp-1800-3-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
+    number: 1800-3
+    publisher: NIST
+    stage:
+      id: '2'
+      type: pd
+    series: SP
+    subseries: '1800'
+  :file: data/nist-sp-1800-3-2pd.yaml
+- :id:
+    _type: pubid:nist:special-publication
     number: 1800-30
     publisher: NIST
     series: SP
@@ -22163,6 +22266,16 @@
     series: SP
     subseries: '1800'
   :file: data/nist-sp-1800-30-ipd.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 1800-30
+    publisher: NIST
+    stage:
+      id: '2'
+      type: pd
+    series: SP
+    subseries: '1800'
+  :file: data/nist-sp-1800-30-2pd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 1800-31
@@ -23727,6 +23840,15 @@
     series: MONO
   :file: data/nbs-mono-19.yaml
 - :id:
+    _type: pubid:nist:identifier
+    number: '19'
+    publisher: NIST
+    stage:
+      id: i
+      type: pd
+    series: CSWP
+  :file: data/nist-cswp-19-ipd.yaml
+- :id:
     _type: pubid:nist:grant-contractor-report
     number: 19-020
     publisher: NIST
@@ -24844,7 +24966,13 @@
       id: i
       type: pd
     series: FIPS
-  :file: data/nist-fips-197-ipd.yaml
+    update_component:
+      number: '1'
+      prefix: slash
+    update:
+      number: '1'
+      prefix: slash
+  :file: data/nist-fips-197-upd1-ipd.yaml
 - :id:
     _type: pubid:nist:technical-note
     number: '1970'
@@ -25598,6 +25726,15 @@
     publisher: NBS
     series: MONO
   :file: data/nbs-mono-20.yaml
+- :id:
+    _type: pubid:nist:identifier
+    number: '20'
+    publisher: NIST
+    stage:
+      id: i
+      type: pd
+    series: CSWP
+  :file: data/nist-cswp-20-ipd.yaml
 - :id:
     _type: pubid:nist:grant-contractor-report
     number: 20-023
@@ -28479,6 +28616,15 @@
     publisher: NBS
     series: MONO
   :file: data/nbs-mono-22.yaml
+- :id:
+    _type: pubid:nist:identifier
+    number: '22'
+    publisher: NIST
+    stage:
+      id: i
+      type: pd
+    series: CSWP
+  :file: data/nist-cswp-22-ipd.yaml
 - :id:
     _type: pubid:nist:grant-contractor-report
     number: 22-032
@@ -36088,6 +36234,15 @@
       number: '2'
   :file: data/nbs-mono-27sup2.yaml
 - :id:
+    _type: pubid:nist:identifier
+    number: '27'
+    publisher: NIST
+    stage:
+      id: i
+      type: pd
+    series: CSWP
+  :file: data/nist-cswp-27-ipd.yaml
+- :id:
     _type: pubid:nist:commercial-standard
     number: 27-30
     publisher: NBS
@@ -37093,6 +37248,15 @@
     publisher: NBS
     series: MONO
   :file: data/nbs-mono-29.yaml
+- :id:
+    _type: pubid:nist:identifier
+    number: '29'
+    publisher: NIST
+    stage:
+      id: i
+      type: pd
+    series: CSWP
+  :file: data/nist-cswp-29-ipd.yaml
 - :id:
     _type: pubid:nist:federal-information-processing-standards
     number: 29-2
@@ -39271,6 +39435,15 @@
     series: MONO
   :file: data/nbs-mono-32sup.yaml
 - :id:
+    _type: pubid:nist:identifier
+    number: '32'
+    publisher: NIST
+    stage:
+      id: i
+      type: pd
+    series: CSWP
+  :file: data/nist-cswp-32-ipd.yaml
+- :id:
     _type: pubid:nist:federal-information-processing-standards
     number: 32-1
     publisher: NBS
@@ -39812,6 +39985,15 @@
     publisher: NBS
     series: BRPD-CRPL-D
   :file: data/nbs-brpd-crpl-d-33.yaml
+- :id:
+    _type: pubid:nist:identifier
+    number: '33'
+    publisher: NIST
+    stage:
+      id: i
+      type: pd
+    series: CSWP
+  :file: data/nist-cswp-33-ipd.yaml
 - :id:
     _type: pubid:nist:federal-information-processing-standards
     number: 33-1
@@ -40406,6 +40588,15 @@
     volume: '2'
   :file: data/nbs-mono-34v2.yaml
 - :id:
+    _type: pubid:nist:identifier
+    number: '34'
+    publisher: NIST
+    stage:
+      id: i
+      type: pd
+    series: CSWP
+  :file: data/nist-cswp-34-ipd.yaml
+- :id:
     _type: pubid:nist:commercial-standard
     number: 34-31
     publisher: NBS
@@ -40945,6 +41136,15 @@
     series: MONO
   :file: data/nbs-mono-35.yaml
 - :id:
+    _type: pubid:nist:identifier
+    number: '35'
+    publisher: NIST
+    stage:
+      id: i
+      type: pd
+    series: CSWP
+  :file: data/nist-cswp-35-ipd.yaml
+- :id:
     _type: pubid:nist:commercial-standard
     number: 35-31
     publisher: NBS
@@ -41316,6 +41516,92 @@
     publisher: NBS
     series: MONO
   :file: data/nbs-mono-36.yaml
+- :id:
+    _type: pubid:nist:identifier
+    number: '36'
+    publisher: NIST
+    stage:
+      id: i
+      type: pd
+    series: CSWP
+  :file: data/nist-cswp-36-ipd.yaml
+- :id:
+    _type: pubid:nist:identifier
+    number: '36'
+    part:
+      value: A
+    publisher: NIST
+    stage:
+      id: i
+      type: pd
+    series: CSWP
+  :file: data/nist-cswp-36a-ipd.yaml
+- :id:
+    _type: pubid:nist:identifier
+    number: '36'
+    part:
+      value: B
+    publisher: NIST
+    stage:
+      id: i
+      type: pd
+    series: CSWP
+  :file: data/nist-cswp-36b-ipd.yaml
+- :id:
+    _type: pubid:nist:identifier
+    number: '36'
+    part:
+      value: C
+    publisher: NIST
+    stage:
+      id: i
+      type: pd
+    series: CSWP
+  :file: data/nist-cswp-36c-ipd.yaml
+- :id:
+    _type: pubid:nist:identifier
+    number: '36'
+    part:
+      value: D
+    publisher: NIST
+    stage:
+      id: i
+      type: pd
+    series: CSWP
+  :file: data/nist-cswp-36d-ipd.yaml
+- :id:
+    _type: pubid:nist:identifier
+    number: '36'
+    part:
+      value: E
+    publisher: NIST
+    stage:
+      id: i
+      type: pd
+    series: CSWP
+  :file: data/nist-cswp-36e-ipd.yaml
+- :id:
+    _type: pubid:nist:identifier
+    number: '36'
+    part:
+      value: F
+    publisher: NIST
+    stage:
+      id: i
+      type: pd
+    series: CSWP
+  :file: data/nist-cswp-36f-ipd.yaml
+- :id:
+    _type: pubid:nist:identifier
+    number: '36'
+    part:
+      value: G
+    publisher: NIST
+    stage:
+      id: i
+      type: pd
+    series: CSWP
+  :file: data/nist-cswp-36g-ipd.yaml
 - :id:
     _type: pubid:nist:commercial-standard
     number: 36-31
@@ -41840,6 +42126,26 @@
     series: MONO
   :file: data/nbs-mono-37.yaml
 - :id:
+    _type: pubid:nist:identifier
+    number: '37'
+    publisher: NIST
+    stage:
+      id: i
+      type: pd
+    series: CSWP
+  :file: data/nist-cswp-37-ipd.yaml
+- :id:
+    _type: pubid:nist:identifier
+    number: '37'
+    part:
+      value: B
+    publisher: NIST
+    stage:
+      id: i
+      type: pd
+    series: CSWP
+  :file: data/nist-cswp-37b-ipd.yaml
+- :id:
     _type: pubid:nist:commercial-standard
     number: 37-31
     publisher: NBS
@@ -42353,6 +42659,15 @@
     series: MONO
   :file: data/nbs-mono-38.yaml
 - :id:
+    _type: pubid:nist:identifier
+    number: '38'
+    publisher: NIST
+    stage:
+      id: i
+      type: pd
+    series: CSWP
+  :file: data/nist-cswp-38-ipd.yaml
+- :id:
     _type: pubid:nist:commercial-standard
     number: 38-32
     publisher: NBS
@@ -42759,6 +43074,24 @@
     publisher: NBS
     series: MONO
   :file: data/nbs-mono-39.yaml
+- :id:
+    _type: pubid:nist:identifier
+    number: '39'
+    publisher: NIST
+    stage:
+      id: i
+      type: pd
+    series: CSWP
+  :file: data/nist-cswp-39-ipd.yaml
+- :id:
+    _type: pubid:nist:identifier
+    number: '39'
+    publisher: NIST
+    stage:
+      id: '2'
+      type: pd
+    series: CSWP
+  :file: data/nist-cswp-39-2pd.yaml
 - :id:
     _type: pubid:nist:miscellaneous-publication
     number: 39-2
@@ -43894,6 +44227,15 @@
     publisher: NBS
     series: LCIRC
   :file: data/nbs-lc-40r1925.yaml
+- :id:
+    _type: pubid:nist:identifier
+    number: '40'
+    publisher: NIST
+    stage:
+      id: i
+      type: pd
+    series: CSWP
+  :file: data/nist-cswp-40-ipd.yaml
 - :id:
     _type: pubid:nist:technical-note
     number: 40-1
@@ -45495,6 +45837,15 @@
     publisher: NBS
     series: MONO
   :file: data/nbs-mono-42.yaml
+- :id:
+    _type: pubid:nist:identifier
+    number: '42'
+    publisher: NIST
+    stage:
+      id: i
+      type: pd
+    series: CSWP
+  :file: data/nist-cswp-42-ipd.yaml
 - :id:
     _type: pubid:nist:federal-information-processing-standards
     number: 42-1
@@ -51690,6 +52041,15 @@
     series: MONO
   :file: data/nbs-mono-48.yaml
 - :id:
+    _type: pubid:nist:identifier
+    number: '48'
+    publisher: NIST
+    stage:
+      id: i
+      type: pd
+    series: CSWP
+  :file: data/nist-cswp-48-ipd.yaml
+- :id:
     _type: pubid:nist:commercial-standard
     number: 48-34
     publisher: NBS
@@ -54288,6 +54648,15 @@
     publisher: NBS
     series: MONO
   :file: data/nbs-mono-50.yaml
+- :id:
+    _type: pubid:nist:identifier
+    number: '50'
+    publisher: NIST
+    stage:
+      id: i
+      type: pd
+    series: CSWP
+  :file: data/nist-cswp-50-ipd.yaml
 - :id:
     _type: pubid:nist:commercial-standard
     number: 50-34
@@ -57764,6 +58133,15 @@
     series: BRPD-CRPL-D
   :file: data/nbs-brpd-crpl-d-51.yaml
 - :id:
+    _type: pubid:nist:identifier
+    number: '51'
+    publisher: NIST
+    stage:
+      id: i
+      type: pd
+    series: CSWP
+  :file: data/nist-cswp-51-ipd.yaml
+- :id:
     _type: pubid:nist:commercial-standard
     number: 51-35
     publisher: NBS
@@ -59579,6 +59957,15 @@
     publisher: NBS
     series: MONO
   :file: data/nbs-mono-53.yaml
+- :id:
+    _type: pubid:nist:identifier
+    number: '53'
+    publisher: NIST
+    stage:
+      id: i
+      type: pd
+    series: CSWP
+  :file: data/nist-cswp-53-ipd.yaml
 - :id:
     _type: pubid:nist:commercial-standard
     number: 53-35
@@ -98433,14 +98820,13 @@
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-108-rev-1-ipd.yaml
+  :file: data/nist-sp-800-108r1-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-11
@@ -98495,14 +98881,13 @@
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-114-rev-1-ipd.yaml
+  :file: data/nist-sp-800-114r1-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-115
@@ -98533,14 +98918,13 @@
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-116-rev-1-ipd.yaml
+  :file: data/nist-sp-800-116r1-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-117
@@ -98554,14 +98938,13 @@
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-117-rev-1-ipd.yaml
+  :file: data/nist-sp-800-117r1-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-118
@@ -98602,14 +98985,13 @@
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-12-rev-1-ipd.yaml
+  :file: data/nist-sp-800-12r1-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-120
@@ -98650,14 +99032,13 @@
     edition:
       type: r
       id: '2'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-121-rev-2-ipd.yaml
+  :file: data/nist-sp-800-121r2-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-122
@@ -98705,14 +99086,13 @@
     edition:
       type: r
       id: '2'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-124-rev-2-ipd.yaml
+  :file: data/nist-sp-800-124r2-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-125
@@ -98767,17 +99147,28 @@
     number: 800-125
     part:
       value: A
+    publisher: NIST
+    stage:
+      id: '2'
+      type: pd
+    series: SP
+    subseries: '800'
+  :file: data/nist-sp-800-125a-2pd.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 800-125
+    part:
+      value: A
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-125a-rev-1-ipd.yaml
+  :file: data/nist-sp-800-125ar1-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-126
@@ -98842,28 +99233,26 @@
     edition:
       type: r
       id: '3'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-126-rev-3-ipd.yaml
+  :file: data/nist-sp-800-126r3-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-126
     edition:
       type: r
       id: '4'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-126-rev-4-ipd.yaml
+  :file: data/nist-sp-800-126r4-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-126
@@ -98884,14 +99273,13 @@
     edition:
       type: r
       id: '4'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-126a-rev-4-ipd.yaml
+  :file: data/nist-sp-800-126ar4-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-127
@@ -98981,14 +99369,13 @@
     edition:
       type: r
       id: '2'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-131a-rev-2-ipd.yaml
+  :file: data/nist-sp-800-131ar2-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-131
@@ -98997,14 +99384,13 @@
     edition:
       type: r
       id: '3'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-131a-rev-3-ipd.yaml
+  :file: data/nist-sp-800-131ar3-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-131
@@ -99069,42 +99455,39 @@
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-133-rev-1-ipd.yaml
+  :file: data/nist-sp-800-133r1-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-133
     edition:
       type: r
       id: '2'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-133-rev-2-ipd.yaml
+  :file: data/nist-sp-800-133r2-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-133
     edition:
       type: r
       id: '3'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-133-rev-3-ipd.yaml
+  :file: data/nist-sp-800-133r3-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-135
@@ -99128,14 +99511,13 @@
     edition:
       type: r
       id: '2'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-135-rev-2-ipd.yaml
+  :file: data/nist-sp-800-135r2-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-137
@@ -99334,14 +99716,28 @@
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-140b-rev-1-ipd.yaml
+  :file: data/nist-sp-800-140br1-ipd.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 800-140
+    part:
+      value: B
+    edition:
+      type: r
+      id: '1'
+    publisher: NIST
+    stage:
+      id: '2'
+      type: pd
+    series: SP
+    subseries: '800'
+  :file: data/nist-sp-800-140br1-2pd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-140
@@ -99362,14 +99758,28 @@
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-140c-rev-1-ipd.yaml
+  :file: data/nist-sp-800-140cr1-ipd.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 800-140
+    part:
+      value: C
+    edition:
+      type: r
+      id: '1'
+    publisher: NIST
+    stage:
+      id: '2'
+      type: pd
+    series: SP
+    subseries: '800'
+  :file: data/nist-sp-800-140cr1-2pd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-140
@@ -99390,14 +99800,28 @@
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-140d-rev-1-ipd.yaml
+  :file: data/nist-sp-800-140dr1-ipd.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 800-140
+    part:
+      value: D
+    edition:
+      type: r
+      id: '1'
+    publisher: NIST
+    stage:
+      id: '2'
+      type: pd
+    series: SP
+    subseries: '800'
+  :file: data/nist-sp-800-140dr1-2pd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-140
@@ -99430,14 +99854,13 @@
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-140f-rev-1-ipd.yaml
+  :file: data/nist-sp-800-140fr1-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-142
@@ -99560,28 +99983,26 @@
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-157-rev-1-ipd.yaml
+  :file: data/nist-sp-800-157r1-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-157
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: f
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-157-rev-1-fpd.yaml
+  :file: data/nist-sp-800-157r1-fpd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-16
@@ -99595,14 +100016,39 @@
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
+    publisher: NIST
+    stage:
+      id: '2'
+      type: pd
+    series: SP
+    subseries: '800'
+  :file: data/nist-sp-800-16r1-2pd.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 800-16
+    edition:
+      type: r
+      id: '1'
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-16-rev-1-ipd.yaml
+  :file: data/nist-sp-800-16r1-ipd.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 800-16
+    edition:
+      type: r
+      id: '1'
+    publisher: NIST
+    stage:
+      id: '3'
+      type: pd
+    series: SP
+    subseries: '800'
+  :file: data/nist-sp-800-16r1-3pd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-160
@@ -99663,6 +100109,16 @@
     number: 800-160
     publisher: NIST
     stage:
+      id: '2'
+      type: pd
+    series: SP
+    subseries: '800'
+  :file: data/nist-sp-800-160-2pd.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 800-160
+    publisher: NIST
+    stage:
       id: f
       type: pd
     series: SP
@@ -99674,7 +100130,6 @@
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: f
@@ -99682,14 +100137,13 @@
     series: SP
     subseries: '800'
     volume: '1'
-  :file: data/nist-sp-800-160-vol-1-rev-1-fpd.yaml
+  :file: data/nist-sp-800-160v1r1-fpd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-160
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
@@ -99697,7 +100151,7 @@
     series: SP
     subseries: '800'
     volume: '1'
-  :file: data/nist-sp-800-160-vol-1-rev-1-ipd.yaml
+  :file: data/nist-sp-800-160v1r1-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-160
@@ -99708,7 +100162,7 @@
     series: SP
     subseries: '800'
     volume: '2'
-  :file: data/nist-sp-800-160-vol-2-fpd.yaml
+  :file: data/nist-sp-800-160v2-fpd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-160
@@ -99719,14 +100173,13 @@
     series: SP
     subseries: '800'
     volume: '2'
-  :file: data/nist-sp-800-160-vol-2-ipd.yaml
+  :file: data/nist-sp-800-160v2-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-160
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
@@ -99734,7 +100187,7 @@
     series: SP
     subseries: '800'
     volume: '2'
-  :file: data/nist-sp-800-160-vol-2-rev-1-ipd.yaml
+  :file: data/nist-sp-800-160v2r1-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-160
@@ -99782,14 +100235,26 @@
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
+    publisher: NIST
+    stage:
+      id: '2'
+      type: pd
+    series: SP
+    subseries: '800'
+  :file: data/nist-sp-800-161r1-2pd.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 800-161
+    edition:
+      type: r
+      id: '1'
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-161-rev-1-ipd.yaml
+  :file: data/nist-sp-800-161r1-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-162
@@ -99820,14 +100285,13 @@
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-163-rev-1-ipd.yaml
+  :file: data/nist-sp-800-163r1-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-164
@@ -99934,56 +100398,52 @@
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-171-rev-1-ipd.yaml
+  :file: data/nist-sp-800-171r1-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-171
     edition:
       type: r
       id: '2'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-171-rev-2-ipd.yaml
+  :file: data/nist-sp-800-171r2-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-171
     edition:
       type: r
       id: '3'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-171-rev-3-ipd.yaml
+  :file: data/nist-sp-800-171r3-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-171
     edition:
       type: r
       id: '3'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: f
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-171-rev-3-fpd.yaml
+  :file: data/nist-sp-800-171r3-fpd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-171
@@ -100016,14 +100476,13 @@
     edition:
       type: r
       id: '3'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-171a-rev-3-ipd.yaml
+  :file: data/nist-sp-800-171ar3-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-171
@@ -100078,28 +100537,26 @@
     edition:
       type: r
       id: '3'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-172-rev-3-ipd.yaml
+  :file: data/nist-sp-800-172r3-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-172
     edition:
       type: r
       id: '3'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: f
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-172-rev-3-fpd.yaml
+  :file: data/nist-sp-800-172r3-fpd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-172
@@ -100120,14 +100577,13 @@
     edition:
       type: r
       id: '3'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-172a-rev-3-ipd.yaml
+  :file: data/nist-sp-800-172ar3-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-173
@@ -100210,14 +100666,13 @@
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-175b-rev-1-ipd.yaml
+  :file: data/nist-sp-800-175br1-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-176
@@ -100258,14 +100713,26 @@
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
+    publisher: NIST
+    stage:
+      id: '2'
+      type: pd
+    series: SP
+    subseries: '800'
+  :file: data/nist-sp-800-177r1-2pd.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 800-177
+    edition:
+      type: r
+      id: '1'
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-177-rev-1-ipd.yaml
+  :file: data/nist-sp-800-177r1-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-178
@@ -100306,14 +100773,13 @@
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-179-rev-1-ipd.yaml
+  :file: data/nist-sp-800-179r1-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-18
@@ -100347,14 +100813,13 @@
     edition:
       type: r
       id: '2'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-18-rev-2-ipd.yaml
+  :file: data/nist-sp-800-18r2-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-180
@@ -100434,28 +100899,26 @@
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-181-rev-1-ipd.yaml
+  :file: data/nist-sp-800-181r1-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-181
     edition:
       type: r
       id: '2'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-181-rev-2-ipd.yaml
+  :file: data/nist-sp-800-181r2-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-182
@@ -100510,14 +100973,13 @@
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-185-rev-1-ipd.yaml
+  :file: data/nist-sp-800-185r1-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-186
@@ -100557,11 +101019,31 @@
     number: 800-188
     publisher: NIST
     stage:
+      id: '2'
+      type: pd
+    series: SP
+    subseries: '800'
+  :file: data/nist-sp-800-188-2pd.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 800-188
+    publisher: NIST
+    stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
   :file: data/nist-sp-800-188-ipd.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 800-188
+    publisher: NIST
+    stage:
+      id: '3'
+      type: pd
+    series: SP
+    subseries: '800'
+  :file: data/nist-sp-800-188-3pd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-189
@@ -100582,17 +101064,26 @@
 - :id:
     _type: pubid:nist:special-publication
     number: 800-189
+    publisher: NIST
+    stage:
+      id: '2'
+      type: pd
+    series: SP
+    subseries: '800'
+  :file: data/nist-sp-800-189-2pd.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 800-189
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-189-rev-1-ipd.yaml
+  :file: data/nist-sp-800-189r1-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-19
@@ -100617,6 +101108,16 @@
     series: SP
     subseries: '800'
   :file: data/nist-sp-800-190-ipd.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 800-190
+    publisher: NIST
+    stage:
+      id: '2'
+      type: pd
+    series: SP
+    subseries: '800'
+  :file: data/nist-sp-800-190-2pd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-191
@@ -100881,6 +101382,16 @@
     number: 800-207
     publisher: NIST
     stage:
+      id: '2'
+      type: pd
+    series: SP
+    subseries: '800'
+  :file: data/nist-sp-800-207-2pd.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 800-207
+    publisher: NIST
+    stage:
       id: i
       type: pd
     series: SP
@@ -100938,14 +101449,13 @@
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-209-rev-1-ipd.yaml
+  :file: data/nist-sp-800-209r1-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-21
@@ -101029,14 +101539,13 @@
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-213-rev-1-ipd.yaml
+  :file: data/nist-sp-800-213r1-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-214
@@ -101130,14 +101639,13 @@
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-218-rev-1-ipd.yaml
+  :file: data/nist-sp-800-218r1-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-218
@@ -101183,28 +101691,26 @@
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-219-rev-1-ipd.yaml
+  :file: data/nist-sp-800-219r1-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-219
     edition:
       type: r
       id: '2'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-219-rev-2-ipd.yaml
+  :file: data/nist-sp-800-219r2-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-22
@@ -101252,14 +101758,13 @@
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-221-rev-1-ipd.yaml
+  :file: data/nist-sp-800-221r1-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-221
@@ -101545,14 +102050,13 @@
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-26-rev-1-ipd.yaml
+  :file: data/nist-sp-800-26r1-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-27
@@ -101684,28 +102188,26 @@
     edition:
       type: r
       id: '2'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: f
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-37-rev-2-fpd.yaml
+  :file: data/nist-sp-800-37r2-fpd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-37
     edition:
       type: r
       id: '2'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-37-rev-2-ipd.yaml
+  :file: data/nist-sp-800-37r2-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-38
@@ -101790,14 +102292,13 @@
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-38e-rev-1-ipd.yaml
+  :file: data/nist-sp-800-38er1-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-38
@@ -101806,14 +102307,28 @@
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
+    publisher: NIST
+    stage:
+      id: '2'
+      type: pd
+    series: SP
+    subseries: '800'
+  :file: data/nist-sp-800-38gr1-2pd.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 800-38
+    part:
+      value: G
+    edition:
+      type: r
+      id: '1'
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-38g-rev-1-ipd.yaml
+  :file: data/nist-sp-800-38gr1-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-39
@@ -101867,14 +102382,13 @@
     edition:
       type: r
       id: '4'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-40-rev-4-ipd.yaml
+  :file: data/nist-sp-800-40r4-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-41
@@ -101964,14 +102478,13 @@
     edition:
       type: r
       id: '2'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-46-rev-2-ipd.yaml
+  :file: data/nist-sp-800-46r2-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-47
@@ -101985,14 +102498,13 @@
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-47-rev-1-ipd.yaml
+  :file: data/nist-sp-800-47r1-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-48
@@ -102033,14 +102545,13 @@
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-50-rev-1-ipd.yaml
+  :file: data/nist-sp-800-50r1-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-51
@@ -102084,14 +102595,26 @@
     edition:
       type: r
       id: '2'
-      original_prefix: " Rev. "
+    publisher: NIST
+    stage:
+      id: '2'
+      type: pd
+    series: SP
+    subseries: '800'
+  :file: data/nist-sp-800-52r2-2pd.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 800-52
+    edition:
+      type: r
+      id: '2'
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-52-rev-2-ipd.yaml
+  :file: data/nist-sp-800-52r2-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-53
@@ -102202,28 +102725,26 @@
     edition:
       type: r
       id: '5'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-53-rev-5-ipd.yaml
+  :file: data/nist-sp-800-53r5-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-53
     edition:
       type: r
       id: '5'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: f
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-53-rev-5-fpd.yaml
+  :file: data/nist-sp-800-53r5-fpd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-53
@@ -102232,14 +102753,13 @@
     edition:
       type: r
       id: '5'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-53a-rev-5-ipd.yaml
+  :file: data/nist-sp-800-53ar5-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-53
@@ -102295,7 +102815,7 @@
     series: SP
     subseries: '800'
     volume: '1'
-  :file: data/nist-sp-800-55-vol-1-ipd.yaml
+  :file: data/nist-sp-800-55v1-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-55
@@ -102306,7 +102826,7 @@
     series: SP
     subseries: '800'
     volume: '2'
-  :file: data/nist-sp-800-55-vol-2-ipd.yaml
+  :file: data/nist-sp-800-55v2-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-56
@@ -102414,14 +102934,13 @@
     edition:
       type: r
       id: '3'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-56a-rev-3-ipd.yaml
+  :file: data/nist-sp-800-56ar3-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-56
@@ -102430,14 +102949,13 @@
     edition:
       type: r
       id: '2'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-56b-rev-2-ipd.yaml
+  :file: data/nist-sp-800-56br2-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-56
@@ -102446,14 +102964,13 @@
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-56c-rev-1-ipd.yaml
+  :file: data/nist-sp-800-56cr1-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-56
@@ -102462,14 +102979,13 @@
     edition:
       type: r
       id: '2'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-56c-rev-2-ipd.yaml
+  :file: data/nist-sp-800-56cr2-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-57
@@ -102590,14 +103106,13 @@
     edition:
       type: r
       id: '5'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-57-part-1-rev-5-ipd.yaml
+  :file: data/nist-sp-800-57pt1r5-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-57
@@ -102607,28 +103122,45 @@
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-57-part-2-rev-1-ipd.yaml
+  :file: data/nist-sp-800-57pt2r1-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-57
+    part:
+      type: pt
+      value: '2'
+    edition:
+      type: r
+      id: '1'
+    publisher: NIST
+    stage:
+      id: '2'
+      type: pd
+    series: SP
+    subseries: '800'
+  :file: data/nist-sp-800-57pt2r1-2pd.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 800-57
+    part:
+      type: pt
+      value: '1'
     edition:
       type: r
       id: '6'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-57-rev-6-ipd.yaml
+  :file: data/nist-sp-800-57pt1r6-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-6
@@ -102704,14 +103236,13 @@
     edition:
       type: r
       id: '3'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-61-rev-3-ipd.yaml
+  :file: data/nist-sp-800-61r3-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-63
@@ -102805,6 +103336,21 @@
       id: '4'
     publisher: NIST
     stage:
+      id: '2'
+      type: pd
+    series: SP
+    subseries: '800'
+  :file: data/nist-sp-800-63a-4-2pd.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 800-63
+    part:
+      value: A
+    edition:
+      type: "-"
+      id: '4'
+    publisher: NIST
+    stage:
       id: i
       type: pd
     series: SP
@@ -102825,6 +103371,36 @@
     series: SP
     subseries: '800'
   :file: data/nist-sp-800-63b-4-ipd.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 800-63
+    part:
+      value: B
+    edition:
+      type: "-"
+      id: '4'
+    publisher: NIST
+    stage:
+      id: '2'
+      type: pd
+    series: SP
+    subseries: '800'
+  :file: data/nist-sp-800-63b-4-2pd.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 800-63
+    part:
+      value: C
+    edition:
+      type: "-"
+      id: '4'
+    publisher: NIST
+    stage:
+      id: '2'
+      type: pd
+    series: SP
+    subseries: '800'
+  :file: data/nist-sp-800-63c-4-2pd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-63
@@ -102878,6 +103454,16 @@
     number: 800-63-3
     publisher: NIST
     stage:
+      id: '2'
+      type: pd
+    series: SP
+    subseries: '800'
+  :file: data/nist-sp-800-63-3-2pd.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 800-63-3
+    publisher: NIST
+    stage:
       id: i
       type: pd
     series: SP
@@ -102900,6 +103486,16 @@
     series: SP
     subseries: '800'
   :file: data/nist-sp-800-63-4-ipd.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 800-63-4
+    publisher: NIST
+    stage:
+      id: '2'
+      type: pd
+    series: SP
+    subseries: '800'
+  :file: data/nist-sp-800-63-4-2pd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-64
@@ -102933,14 +103529,13 @@
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-65-rev-1-ipd.yaml
+  :file: data/nist-sp-800-65r1-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-66
@@ -102957,14 +103552,13 @@
     edition:
       type: r
       id: '2'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-66-rev-2-ipd.yaml
+  :file: data/nist-sp-800-66r2-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-67
@@ -102991,14 +103585,13 @@
     edition:
       type: r
       id: '2'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-67-rev-2-ipd.yaml
+  :file: data/nist-sp-800-67r2-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-68
@@ -103086,28 +103679,26 @@
     edition:
       type: r
       id: '4'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-70-rev-4-ipd.yaml
+  :file: data/nist-sp-800-70r4-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-70
     edition:
       type: r
       id: '5'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-70-rev-5-ipd.yaml
+  :file: data/nist-sp-800-70r5-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-71
@@ -103125,6 +103716,45 @@
     series: SP
     subseries: '800'
   :file: data/nist-sp-800-73.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 800-73
+    part:
+      type: pt
+      value: 1-5
+    publisher: NIST
+    stage:
+      id: i
+      type: pd
+    series: SP
+    subseries: '800'
+  :file: data/nist-sp-800-73pt1-5-ipd.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 800-73
+    part:
+      type: pt
+      value: 2-5
+    publisher: NIST
+    stage:
+      id: i
+      type: pd
+    series: SP
+    subseries: '800'
+  :file: data/nist-sp-800-73pt2-5-ipd.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 800-73
+    part:
+      type: pt
+      value: 3-5
+    publisher: NIST
+    stage:
+      id: i
+      type: pd
+    series: SP
+    subseries: '800'
+  :file: data/nist-sp-800-73pt3-5-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-73-2
@@ -103146,16 +103776,6 @@
     series: SP
     subseries: '800'
   :file: data/nist-sp-800-73-4.yaml
-- :id:
-    _type: pubid:nist:special-publication
-    number: 800-73-5
-    publisher: NIST
-    stage:
-      id: i
-      type: pd
-    series: SP
-    subseries: '800'
-  :file: data/nist-sp-800-73-5-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-76
@@ -103186,14 +103806,13 @@
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-77-rev-1-ipd.yaml
+  :file: data/nist-sp-800-77r1-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-78-1
@@ -103238,14 +103857,13 @@
     edition:
       type: r
       id: '3'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-79-rev-3-ipd.yaml
+  :file: data/nist-sp-800-79r3-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-79-1
@@ -103333,14 +103951,13 @@
     edition:
       type: r
       id: '3'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-81-rev-3-ipd.yaml
+  :file: data/nist-sp-800-81r3-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-81-2
@@ -103391,28 +104008,26 @@
     edition:
       type: r
       id: '3'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-82-rev-3-ipd.yaml
+  :file: data/nist-sp-800-82r3-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-82
     edition:
       type: r
       id: '4'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-82-rev-4-ipd.yaml
+  :file: data/nist-sp-800-82r4-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-83
@@ -103569,14 +104184,13 @@
     edition:
       type: r
       id: '2'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-88-rev-2-ipd.yaml
+  :file: data/nist-sp-800-88r2-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-89
@@ -103653,6 +104267,18 @@
     _type: pubid:nist:special-publication
     number: 800-90
     part:
+      value: B
+    publisher: NIST
+    stage:
+      id: '2'
+      type: pd
+    series: SP
+    subseries: '800'
+  :file: data/nist-sp-800-90b-2pd.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 800-90
+    part:
       value: C
     publisher: NIST
     stage:
@@ -103663,18 +104289,53 @@
   :file: data/nist-sp-800-90c-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
+    number: 800-90
+    part:
+      value: C
+    publisher: NIST
+    stage:
+      id: '2'
+      type: pd
+    series: SP
+    subseries: '800'
+  :file: data/nist-sp-800-90c-2pd.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 800-90
+    part:
+      value: C
+    publisher: NIST
+    stage:
+      id: '3'
+      type: pd
+    series: SP
+    subseries: '800'
+  :file: data/nist-sp-800-90c-3pd.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 800-90
+    part:
+      value: C
+    publisher: NIST
+    stage:
+      id: '4'
+      type: pd
+    series: SP
+    subseries: '800'
+  :file: data/nist-sp-800-90c-4pd.yaml
+- :id:
+    _type: pubid:nist:special-publication
     number: 800-92
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-92-rev-1-ipd.yaml
+  :file: data/nist-sp-800-92r1-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-94
@@ -103688,14 +104349,13 @@
     edition:
       type: r
       id: '1'
-      original_prefix: " Rev. "
     publisher: NIST
     stage:
       id: i
       type: pd
     series: SP
     subseries: '800'
-  :file: data/nist-sp-800-94-rev-1-ipd.yaml
+  :file: data/nist-sp-800-94r1-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-95
@@ -124787,6 +125447,15 @@
     publisher: NBS
     series: MONO
   :file: data/nbs-mono-9.yaml
+- :id:
+    _type: pubid:nist:identifier
+    number: '9'
+    publisher: NIST
+    stage:
+      id: i
+      type: pd
+    series: CSWP
+  :file: data/nist-cswp-9-ipd.yaml
 - :id:
     _type: pubid:nist:crpl-report
     number: 9-1

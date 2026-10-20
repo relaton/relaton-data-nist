@@ -1,0 +1,206 @@
+---
+id: NISTSP800116r1ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: A Recommendation for the Use of PIV Credentials in Physical Access Control Systems (PACS)
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/116/r1/ipd
+docidentifier:
+- content: NIST SP 800-116r1 ipd
+  type: NIST
+  primary: true
+date:
+- type: published
+  at: '2015-12-28'
+- type: obsoleted
+  at: '2018-06-29'
+- type: issued
+  at: '2015-12-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Hildegard
+      surname:
+        language: en
+        script: Latn
+        content: Ferraiolo
+      completename:
+        language: en
+        script: Latn
+        content: Hildegard Ferraiolo
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      prefix:
+      - language: en
+        script: Latn
+        content: Dr.
+      forename:
+      - language: en
+        script: Latn
+        content: David
+      surname:
+        language: en
+        script: Latn
+        content: Cooper
+      completename:
+        language: en
+        script: Latn
+        content: David A. Cooper
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Nabil
+      surname:
+        language: en
+        script: Latn
+        content: Ghadiali
+      completename:
+        language: en
+        script: Latn
+        content: Nabil Ghadiali
+    affiliation:
+    - organization:
+        name:
+        - content: National Gallery of Art
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jason
+      surname:
+        language: en
+        script: Latn
+        content: Mohler
+      completename:
+        language: en
+        script: Latn
+        content: Jason Mohler
+    affiliation:
+    - organization:
+        name:
+        - content: Electrosoft Services
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Vincent
+      surname:
+        language: en
+        script: Latn
+        content: Johnson
+      completename:
+        language: en
+        script: Latn
+        content: Vincent Johnson
+    affiliation:
+    - organization:
+        name:
+        - content: Electrosoft Services
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Steven
+      surname:
+        language: en
+        script: Latn
+        content: Brady
+      completename:
+        language: en
+        script: Latn
+        content: Steven Brady
+    affiliation:
+    - organization:
+        name:
+        - content: Electrosoft Services
+edition:
+  content: Revision 1
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: e-authentication
+- vocab:
+    content: identity assurance level
+- vocab:
+    content: identity credential
+- vocab:
+    content: issuance
+- vocab:
+    content: PACS
+- vocab:
+    content: PIV authentication mechanisms
+- vocab:
+    content: PIV cards
+- vocab:
+    content: PKI
+- vocab:
+    content: credential
+- vocab:
+    content: validation
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2015-12-28'
+    to: '2016-03-01'

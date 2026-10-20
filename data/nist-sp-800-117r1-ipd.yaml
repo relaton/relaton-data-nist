@@ -1,0 +1,127 @@
+---
+id: NISTSP800117r1ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Guide to Adopting and Using the Security Content Automation Protocol (SCAP) Version 1.2
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/117/r1/ipd
+docidentifier:
+- content: NIST SP 800-117r1 ipd
+  type: NIST
+  primary: true
+date:
+- type: published
+  at: '2012-01-06'
+- type: obsoleted
+  at: '2019-04-26'
+- type: issued
+  at: '2012-01-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Stephen
+      surname:
+        language: en
+        script: Latn
+        content: Quinn
+      completename:
+        language: en
+        script: Latn
+        content: Stephen D. Quinn
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Karen
+      surname:
+        language: en
+        script: Latn
+        content: Scarfone
+      completename:
+        language: en
+        script: Latn
+        content: Karen A. Scarfone
+    affiliation:
+    - organization:
+        name:
+        - content: Scarfone Cybersecurity
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: David
+      surname:
+        language: en
+        script: Latn
+        content: Waltermire
+      completename:
+        language: en
+        script: Latn
+        content: David A. Waltermire
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+edition:
+  content: Revision 1
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: retired
+  iteration: '1'
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: Security Content Automation Protocol (SCAP)
+- vocab:
+    content: security configuration management
+- vocab:
+    content: security automation
+- vocab:
+    content: vulnerability management
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist

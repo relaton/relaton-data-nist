@@ -1,0 +1,94 @@
+---
+id: NISTSP800125Ar1ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Security Recommendations for Server-based Hypervisor Platforms
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/125/a/r1/ipd
+docidentifier:
+- content: NIST SP 800-125Ar1 ipd
+  type: NIST
+  primary: true
+date:
+- type: published
+  at: '2018-04-11'
+- type: obsoleted
+  at: '2018-06-07'
+- type: issued
+  at: '2018-04-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ramaswamy
+      surname:
+        language: en
+        script: Latn
+        content: Chandramouli
+      completename:
+        language: en
+        script: Latn
+        content: Ramaswamy Chandramouli
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+edition:
+  content: Revision 1
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2018'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: Virtualization
+- vocab:
+    content: Hypervisor
+- vocab:
+    content: Virtual Machine
+- vocab:
+    content: Virtual Network
+- vocab:
+    content: Secure Configuration
+- vocab:
+    content: Security Monitoring
+- vocab:
+    content: Guest OS
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2018-04-11'
+    to: '2018-05-02'

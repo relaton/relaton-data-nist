@@ -1,11 +1,11 @@
 ---
 id: NISTSP800131Bipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
-  content: Transitions
-  type: title-main
+  content: Transitions - Validation of Transitioning Cryptographic Algorithm and Key Lengths
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/131/b/ipd
@@ -14,10 +14,137 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2011-02-10'
+- type: obsoleted
+  at: '2012-04-23'
 - type: issued
-  at: 2011-02
+  at: '2011-02-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Elaine
+      surname:
+        language: en
+        script: Latn
+        content: Barker
+      completename:
+        language: en
+        script: Latn
+        content: Elaine B. Barker
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Allen
+      surname:
+        language: en
+        script: Latn
+        content: Roginsky
+      completename:
+        language: en
+        script: Latn
+        content: Allen Roginsky
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Randall
+      surname:
+        language: en
+        script: Latn
+        content: Easter
+      completename:
+        language: en
+        script: Latn
+        content: Randall J. Easter
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Sharon
+      surname:
+        language: en
+        script: Latn
+        content: Keller
+      completename:
+        language: en
+        script: Latn
+        content: Sharon S. Keller
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: retired
+  iteration: '1'
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: Cryptographic Module Validation Program (CMVP)
+- vocab:
+    content: Cryptographic Algorithm Validation Program (CAVP)
+- vocab:
+    content: validation testing.
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2011-02-10'
+    to: '2011-03-31'

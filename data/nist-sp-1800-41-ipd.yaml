@@ -1,11 +1,11 @@
 ---
 id: NISTSP180041ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
-  content: Responding to and Recovering from a Cyber Attack
-  type: title-main
+  content: Responding to and Recovering from a Cyber Attack - Cybersecurity for the Manufacturing Sector
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/1800/41/ipd
@@ -14,10 +14,675 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2026-05-21'
 - type: issued
   at: '2026-05-21'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Powell
+      completename:
+        language: en
+        script: Latn
+        content: Michael Powell
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Pease
+      completename:
+        language: en
+        script: Latn
+        content: Michael Pease
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Keith
+      surname:
+        language: en
+        script: Latn
+        content: Stouffer
+      completename:
+        language: en
+        script: Latn
+        content: Keith A. Stouffer
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Toby
+      surname:
+        language: en
+        script: Latn
+        content: Maysey
+      completename:
+        language: en
+        script: Latn
+        content: Toby Maysey
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Chris
+      surname:
+        language: en
+        script: Latn
+        content: Peloquin
+      completename:
+        language: en
+        script: Latn
+        content: Chris Peloquin
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Bob
+      surname:
+        language: en
+        script: Latn
+        content: Stea
+      completename:
+        language: en
+        script: Latn
+        content: Bob Stea
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kangmin
+      surname:
+        language: en
+        script: Latn
+        content: Zheng
+      completename:
+        language: en
+        script: Latn
+        content: Kangmin Zheng
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Geoff
+      surname:
+        language: en
+        script: Latn
+        content: Sweet
+      completename:
+        language: en
+        script: Latn
+        content: Geoff Sweet
+    affiliation:
+    - organization:
+        name:
+        - content: Amazon Web Services
+        abbreviation:
+          content: AWS
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Brian
+      surname:
+        language: en
+        script: Latn
+        content: Butler
+      completename:
+        language: en
+        script: Latn
+        content: Brian Butler
+    affiliation:
+    - organization:
+        name:
+        - content: Cisco
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Josh
+      surname:
+        language: en
+        script: Latn
+        content: Carlson
+      completename:
+        language: en
+        script: Latn
+        content: Josh Carlson
+    affiliation:
+    - organization:
+        name:
+        - content: Dragos
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Chris
+      surname:
+        language: en
+        script: Latn
+        content: Manrique
+      completename:
+        language: en
+        script: Latn
+        content: Chris Manrique
+    affiliation:
+    - organization:
+        name:
+        - content: Dragos
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Chris
+      surname:
+        language: en
+        script: Latn
+        content: Bihary
+      completename:
+        language: en
+        script: Latn
+        content: Chris Bihary
+    affiliation:
+    - organization:
+        name:
+        - content: Garland Technology
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jason
+      surname:
+        language: en
+        script: Latn
+        content: Drewniak
+      completename:
+        language: en
+        script: Latn
+        content: Jason Drewniak
+    affiliation:
+    - organization:
+        name:
+        - content: Garland Technology
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Nathan
+      surname:
+        language: en
+        script: Latn
+        content: Boeger
+      completename:
+        language: en
+        script: Latn
+        content: Nathan Boeger
+    affiliation:
+    - organization:
+        name:
+        - content: Inductive Automation
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Brad
+      surname:
+        language: en
+        script: Latn
+        content: Fischer
+      completename:
+        language: en
+        script: Latn
+        content: Brad Fischer
+    affiliation:
+    - organization:
+        name:
+        - content: Inductive Automation
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kim
+      surname:
+        language: en
+        script: Latn
+        content: Gajewski
+      completename:
+        language: en
+        script: Latn
+        content: Kim Gajewski
+    affiliation:
+    - organization:
+        name:
+        - content: Google Cloud
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Sri
+      surname:
+        language: en
+        script: Latn
+        content: Goutisetti
+      completename:
+        language: en
+        script: Latn
+        content: Sri Goutisetti
+    affiliation:
+    - organization:
+        name:
+        - content: Google Cloud
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Chris
+      surname:
+        language: en
+        script: Latn
+        content: Sistrunk
+      completename:
+        language: en
+        script: Latn
+        content: Chris Sistrunk
+    affiliation:
+    - organization:
+        name:
+        - content: Google Cloud
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Stephen
+      surname:
+        language: en
+        script: Latn
+        content: Petruzzo
+      completename:
+        language: en
+        script: Latn
+        content: Stephen Petruzzo
+    affiliation:
+    - organization:
+        name:
+        - content: GreenTec-USA
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Billy John
+      surname:
+        language: en
+        script: Latn
+        content: Stewart
+      completename:
+        language: en
+        script: Latn
+        content: Billy John Stewart
+    affiliation:
+    - organization:
+        name:
+        - content: GreenTec-USA
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ahmik
+      surname:
+        language: en
+        script: Latn
+        content: Hindman
+      completename:
+        language: en
+        script: Latn
+        content: Ahmik Hindman
+    affiliation:
+    - organization:
+        name:
+        - content: Rockwell Automation
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: John
+      surname:
+        language: en
+        script: Latn
+        content: Crawford
+      completename:
+        language: en
+        script: Latn
+        content: John Crawford
+    affiliation:
+    - organization:
+        name:
+        - content: Siemens AG
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Allen
+      surname:
+        language: en
+        script: Latn
+        content: Cantrell
+      completename:
+        language: en
+        script: Latn
+        content: Allen Cantrell
+    affiliation:
+    - organization:
+        name:
+        - content: Siemens AG
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Dallas
+      surname:
+        language: en
+        script: Latn
+        content: Levine
+      completename:
+        language: en
+        script: Latn
+        content: Dallas Levine
+    affiliation:
+    - organization:
+        name:
+        - content: Siemens AG
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ray
+      surname:
+        language: en
+        script: Latn
+        content: Erlinger
+      completename:
+        language: en
+        script: Latn
+        content: Ray Erlinger
+    affiliation:
+    - organization:
+        name:
+        - content: TDi Technologies
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Bill
+      surname:
+        language: en
+        script: Latn
+        content: Johnson
+      completename:
+        language: en
+        script: Latn
+        content: Bill Johnson
+    affiliation:
+    - organization:
+        name:
+        - content: TDi Technologies
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Pam
+      surname:
+        language: en
+        script: Latn
+        content: Johnson
+      completename:
+        language: en
+        script: Latn
+        content: Pam Johnson
+    affiliation:
+    - organization:
+        name:
+        - content: TDi Technologies
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Clyde
+      surname:
+        language: en
+        script: Latn
+        content: Poole
+      completename:
+        language: en
+        script: Latn
+        content: Clyde Poole
+    affiliation:
+    - organization:
+        name:
+        - content: TDi Technologies
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Chris
+      surname:
+        language: en
+        script: Latn
+        content: Jensen
+      completename:
+        language: en
+        script: Latn
+        content: Chris Jensen
+    affiliation:
+    - organization:
+        name:
+        - content: Tenable
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Joshua
+      surname:
+        language: en
+        script: Latn
+        content: Moll
+      completename:
+        language: en
+        script: Latn
+        content: Joshua Moll
+    affiliation:
+    - organization:
+        name:
+        - content: Tenable
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: active
+  iteration: '1'
+copyright:
+- from: '2026'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: cybersecurity
+- vocab:
+    content: incident investigation
+- vocab:
+    content: incident response
+- vocab:
+    content: industrial control systems
+- vocab:
+    content: manufacturing
+- vocab:
+    content: operational technology
+- vocab:
+    content: recovery
+- vocab:
+    content: response
+- vocab:
+    content: restoration
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2026-05-21'
+    to: '2026-07-08'

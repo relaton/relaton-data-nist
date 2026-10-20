@@ -1,23 +1,146 @@
 ---
 id: NISTSP800205ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Attribute Considerations for Access Control Systems
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/205/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-205-draft
 docidentifier:
 - content: NIST SP 800-205 ipd
   type: NIST
   primary: true
+- content: NIST.SP.800-205-draft
+  type: DOI
 date:
+- type: published
+  at: '2019-02-13'
+- type: obsoleted
+  at: '2019-06-18'
 - type: issued
-  at: 2019-02
+  at: '2019-02-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Vincent
+      surname:
+        language: en
+        script: Latn
+        content: Hu
+      completename:
+        language: en
+        script: Latn
+        content: Vincent C. Hu
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: David
+      surname:
+        language: en
+        script: Latn
+        content: Ferraiolo
+      completename:
+        language: en
+        script: Latn
+        content: David F. Ferraiolo
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Richard
+      surname:
+        language: en
+        script: Latn
+        content: Kuhn
+      completename:
+        language: en
+        script: Latn
+        content: Richard Kuhn
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: access control
+- vocab:
+    content: access control mechanism
+- vocab:
+    content: access control model
+- vocab:
+    content: access control policy
+- vocab:
+    content: attribute considerations
+- vocab:
+    content: attribute
+- vocab:
+    content: assurance
+- vocab:
+    content: attribute-based access control (ABAC)
+- vocab:
+    content: authorization
+- vocab:
+    content: privilege
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2019-02-13'
+    to: '2019-04-01'

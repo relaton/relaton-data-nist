@@ -1,23 +1,112 @@
 ---
 id: NISTSP800228Aipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Guidelines for the Secure Deployment of RESTful Web APIs
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/228/a/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-228A.ipd
 docidentifier:
 - content: NIST SP 800-228A ipd
   type: NIST
   primary: true
+- content: NIST.SP.800-228A.ipd
+  type: DOI
 date:
+- type: published
+  at: '2026-05-18'
 - type: issued
   at: '2026-05-18'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ramaswamy
+      surname:
+        language: en
+        script: Latn
+        content: Chandramouli
+      completename:
+        language: en
+        script: Latn
+        content: Ramaswamy Chandramouli
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Zack
+      surname:
+        language: en
+        script: Latn
+        content: Butcher
+      completename:
+        language: en
+        script: Latn
+        content: Zack Butcher
+    affiliation:
+    - organization:
+        name:
+        - content: Tetrate
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: active
+  iteration: '1'
+copyright:
+- from: '2026'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: API
+- vocab:
+    content: API endpoint
+- vocab:
+    content: API gateway
+- vocab:
+    content: API key
+- vocab:
+    content: API schema
+- vocab:
+    content: web application firewall
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2026-05-18'
+    to: '2026-07-02'

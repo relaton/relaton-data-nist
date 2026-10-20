@@ -1,0 +1,136 @@
+---
+id: NISTCSWP19ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Combinatorial Coverage Difference Measurement
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/cswp/19/combinatorial-coverage-difference-measurement/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.CSWP.19.ipd
+docidentifier:
+- content: NIST CSWP 19 ipd
+  type: NIST
+  primary: true
+- content: NIST.CSWP.19.ipd
+  type: DOI
+date:
+- type: published
+  at: '2021-06-22'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Richard
+      surname:
+        language: en
+        script: Latn
+        content: Kuhn
+      completename:
+        language: en
+        script: Latn
+        content: Richard Kuhn
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: M S
+      surname:
+        language: en
+        script: Latn
+        content: Raunak
+      completename:
+        language: en
+        script: Latn
+        content: M S Raunak
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Raghu
+      surname:
+        language: en
+        script: Latn
+        content: Kacker
+      completename:
+        language: en
+        script: Latn
+        content: Raghu N. Kacker
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: active
+  iteration: '1'
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: combinatorial coverage
+- vocab:
+    content: combinatorial coverage difference measures
+- vocab:
+    content: combinatorial methods
+- vocab:
+    content: combinatorial testing
+- vocab:
+    content: fault location
+- vocab:
+    content: software testing
+- vocab:
+    content: structural coverage
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2021-06-22'
+    to: '2021-08-20'

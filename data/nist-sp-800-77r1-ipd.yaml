@@ -1,0 +1,182 @@
+---
+id: NISTSP80077r1ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Guide to IPsec VPNs
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/77/r1/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-77r1-draft
+docidentifier:
+- content: NIST SP 800-77r1 ipd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-77r1-draft
+  type: DOI
+date:
+- type: published
+  at: '2019-07-02'
+- type: obsoleted
+  at: '2020-06-30'
+- type: issued
+  at: '2019-07-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Elaine
+      surname:
+        language: en
+        script: Latn
+        content: Barker
+      completename:
+        language: en
+        script: Latn
+        content: Elaine B. Barker
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Quynh
+      surname:
+        language: en
+        script: Latn
+        content: Dang
+      completename:
+        language: en
+        script: Latn
+        content: Quynh H. Dang
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Sheila
+      surname:
+        language: en
+        script: Latn
+        content: Frankel
+      completename:
+        language: en
+        script: Latn
+        content: Sheila E. Frankel
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Karen
+      surname:
+        language: en
+        script: Latn
+        content: Scarfone
+      completename:
+        language: en
+        script: Latn
+        content: Karen A. Scarfone
+    affiliation:
+    - organization:
+        name:
+        - content: Scarfone Cybersecurity
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Paul
+      surname:
+        language: en
+        script: Latn
+        content: Wouters
+      completename:
+        language: en
+        script: Latn
+        content: Paul Wouters
+    affiliation:
+    - organization:
+        name:
+        - content: No Hats Corporation
+edition:
+  content: Revision 1
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: communications security
+- vocab:
+    content: Internet Key Exchange (IKE)
+- vocab:
+    content: Internet Protocol (IP)
+- vocab:
+    content: Internet Protocol Security (IPsec)
+- vocab:
+    content: network layer security
+- vocab:
+    content: networking
+- vocab:
+    content: virtual private network (VPN)
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2019-07-02'
+    to: '2019-10-08'

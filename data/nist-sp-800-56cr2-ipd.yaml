@@ -1,0 +1,142 @@
+---
+id: NISTSP80056Cr2ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Recommendation for Key-Derivation Methods in Key-Establishment Schemes
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/56/c/r2/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-56Cr2-draft
+docidentifier:
+- content: NIST SP 800-56Cr2 ipd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-56Cr2-draft
+  type: DOI
+date:
+- type: published
+  at: '2020-03-24'
+- type: obsoleted
+  at: '2020-08-18'
+- type: issued
+  at: '2020-03-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Elaine
+      surname:
+        language: en
+        script: Latn
+        content: Barker
+      completename:
+        language: en
+        script: Latn
+        content: Elaine B. Barker
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Lily
+      surname:
+        language: en
+        script: Latn
+        content: Chen
+      completename:
+        language: en
+        script: Latn
+        content: Lily Chen
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Richard
+      surname:
+        language: en
+        script: Latn
+        content: Davis
+      completename:
+        language: en
+        script: Latn
+        content: Richard Davis
+    affiliation:
+    - organization:
+        name:
+        - content: National Security Agency
+        abbreviation:
+          content: NSA
+edition:
+  content: Revision 2
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: expansion
+- vocab:
+    content: extraction
+- vocab:
+    content: extraction-then-expansion
+- vocab:
+    content: hash function
+- vocab:
+    content: key derivation
+- vocab:
+    content: key establishment
+- vocab:
+    content: message authentication code
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2020-03-24'
+    to: '2020-05-15'

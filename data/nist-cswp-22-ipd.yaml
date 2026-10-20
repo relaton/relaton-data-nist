@@ -1,0 +1,132 @@
+---
+id: NISTCSWP22ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Combination Frequency Differencing
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/cswp/22/combination-frequency-differencing/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.CSWP.22.ipd
+docidentifier:
+- content: NIST CSWP 22 ipd
+  type: NIST
+  primary: true
+- content: NIST.CSWP.22.ipd
+  type: DOI
+date:
+- type: published
+  at: '2021-12-06'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Richard
+      surname:
+        language: en
+        script: Latn
+        content: Kuhn
+      completename:
+        language: en
+        script: Latn
+        content: Richard Kuhn
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: M S
+      surname:
+        language: en
+        script: Latn
+        content: Raunak
+      completename:
+        language: en
+        script: Latn
+        content: M S Raunak
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Raghu
+      surname:
+        language: en
+        script: Latn
+        content: Kacker
+      completename:
+        language: en
+        script: Latn
+        content: Raghu N. Kacker
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: active
+  iteration: '1'
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: combinatorial coverage
+- vocab:
+    content: combination frequency difference
+- vocab:
+    content: combinatorial testing
+- vocab:
+    content: physical unclonable function (PUF)
+- vocab:
+    content: unclonable
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2021-12-06'
+    to: '2022-02-07'

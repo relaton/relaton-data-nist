@@ -1,23 +1,126 @@
 ---
 id: NISTSP800207Aipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: A Zero Trust Architecture Model for Access Control in Cloud-Native Applications in Multi-Cloud Environments
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/207/a/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-207A.ipd
 docidentifier:
 - content: NIST SP 800-207A ipd
   type: NIST
   primary: true
+- content: NIST.SP.800-207A.ipd
+  type: DOI
 date:
+- type: published
+  at: '2023-04-18'
+- type: obsoleted
+  at: '2023-09-13'
 - type: issued
   at: '2023-04-18'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ramaswamy
+      surname:
+        language: en
+        script: Latn
+        content: Chandramouli
+      completename:
+        language: en
+        script: Latn
+        content: Ramaswamy Chandramouli
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Zack
+      surname:
+        language: en
+        script: Latn
+        content: Butcher
+      completename:
+        language: en
+        script: Latn
+        content: Zack Butcher
+    affiliation:
+    - organization:
+        name:
+        - content: Tetrate
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: egress gateway
+- vocab:
+    content: identity-tier policies
+- vocab:
+    content: ingress gateway
+- vocab:
+    content: microservices
+- vocab:
+    content: multi-cloud
+- vocab:
+    content: network-tier policies
+- vocab:
+    content: service mesh
+- vocab:
+    content: sidecar proxy
+- vocab:
+    content: SPIFFE
+- vocab:
+    content: transit gateway
+- vocab:
+    content: zero trust
+- vocab:
+    content: zero trust architecture
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2023-04-18'
+    to: '2023-06-07'

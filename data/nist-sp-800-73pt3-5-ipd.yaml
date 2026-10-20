@@ -1,0 +1,188 @@
+---
+id: NISTSP80073pt35ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Interfaces for Personal Identity Verification - Part 3 – PIV Client Application Programming Interface
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/73/pt3/5/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-73pt3-5.ipd
+docidentifier:
+- content: NIST SP 800-73pt3-5 ipd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-73pt3-5.ipd
+  type: DOI
+date:
+- type: published
+  at: '2023-09-27'
+- type: obsoleted
+  at: '2024-07-15'
+- type: issued
+  at: '2023-09-27'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Hildegard
+      surname:
+        language: en
+        script: Latn
+        content: Ferraiolo
+      completename:
+        language: en
+        script: Latn
+        content: Hildegard Ferraiolo
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ketan
+      surname:
+        language: en
+        script: Latn
+        content: Mehta
+      completename:
+        language: en
+        script: Latn
+        content: Ketan L. Mehta
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Salvatore
+      surname:
+        language: en
+        script: Latn
+        content: Francomacaro
+      completename:
+        language: en
+        script: Latn
+        content: Salvatore Francomacaro
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ramaswamy
+      surname:
+        language: en
+        script: Latn
+        content: Chandramouli
+      completename:
+        language: en
+        script: Latn
+        content: Ramaswamy Chandramouli
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Sarbari
+      surname:
+        language: en
+        script: Latn
+        content: Gupta
+      completename:
+        language: en
+        script: Latn
+        content: Sarbari Gupta
+    affiliation:
+    - organization:
+        name:
+        - content: Electrosoft Services
+edition:
+  content: Revision 5
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: authentication
+- vocab:
+    content: FIPS 201
+- vocab:
+    content: identity credential
+- vocab:
+    content: logical access control
+- vocab:
+    content: on-card biometric comparison
+- vocab:
+    content: Personal Identity Verification (PIV)
+- vocab:
+    content: physical access control
+- vocab:
+    content: smart cards
+- vocab:
+    content: secure messaging
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2023-09-27'
+    to: '2023-12-08'

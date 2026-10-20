@@ -1,0 +1,298 @@
+---
+id: NISTCSWP37ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Automation of the NIST Cryptographic Module Validation Program - September 2024 Status Report
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/cswp/37/automation-of-the-nist-cryptographic-module-valida/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.CSWP.37.ipd
+docidentifier:
+- content: NIST CSWP 37 ipd
+  type: NIST
+  primary: true
+- content: NIST.CSWP.37.ipd
+  type: DOI
+date:
+- type: published
+  at: '2024-10-31'
+- type: obsoleted
+  at: '2026-03-16'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Chris
+      surname:
+        language: en
+        script: Latn
+        content: Celi
+      completename:
+        language: en
+        script: Latn
+        content: Chris Celi
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Alexander
+      surname:
+        language: en
+        script: Latn
+        content: Calis
+      completename:
+        language: en
+        script: Latn
+        content: Alexander H. Calis
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Murugiah
+      surname:
+        language: en
+        script: Latn
+        content: Souppaya
+      completename:
+        language: en
+        script: Latn
+        content: Murugiah P. Souppaya
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: William
+      surname:
+        language: en
+        script: Latn
+        content: Barker
+      completename:
+        language: en
+        script: Latn
+        content: William C. Barker
+    affiliation:
+    - organization:
+        name:
+        - content: Dakota Consulting
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Karen
+      surname:
+        language: en
+        script: Latn
+        content: Scarfone
+      completename:
+        language: en
+        script: Latn
+        content: Karen A. Scarfone
+    affiliation:
+    - organization:
+        name:
+        - content: Scarfone Cybersecurity
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Raoul
+      surname:
+        language: en
+        script: Latn
+        content: Gabiam
+      completename:
+        language: en
+        script: Latn
+        content: Raoul Gabiam
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Stephan
+      surname:
+        language: en
+        script: Latn
+        content: Mueller
+      completename:
+        language: en
+        script: Latn
+        content: Stephan Mueller
+    affiliation:
+    - organization:
+        name:
+        - content: atsec
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Yi
+      surname:
+        language: en
+        script: Latn
+        content: Mao
+      completename:
+        language: en
+        script: Latn
+        content: Yi Mao
+    affiliation:
+    - organization:
+        name:
+        - content: atsec
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Barry
+      surname:
+        language: en
+        script: Latn
+        content: Fussell
+      completename:
+        language: en
+        script: Latn
+        content: Barry Fussell
+    affiliation:
+    - organization:
+        name:
+        - content: Cisco
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Andrew
+      surname:
+        language: en
+        script: Latn
+        content: Karcher
+      completename:
+        language: en
+        script: Latn
+        content: Andrew Karcher
+    affiliation:
+    - organization:
+        name:
+        - content: Cisco
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Doug
+      surname:
+        language: en
+        script: Latn
+        content: Boldt
+      completename:
+        language: en
+        script: Latn
+        content: Doug Boldt
+    affiliation:
+    - organization:
+        name:
+        - content: AWS
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: Automated Cryptographic Module Validation Project (ACMVP)
+- vocab:
+    content: Cryptographic Module Validation Program (CMVP)
+- vocab:
+    content: cryptography
+- vocab:
+    content: cryptographic module
+- vocab:
+    content: cryptographic module testing
+- vocab:
+    content: cryptographic module validation
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2024-10-31'
+    to: '2024-12-02'

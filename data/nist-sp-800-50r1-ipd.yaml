@@ -1,0 +1,206 @@
+---
+id: NISTSP80050r1ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Building a Cybersecurity and Privacy Learning Program
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/50/r1/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-50r1.ipd
+docidentifier:
+- content: NIST SP 800-50r1 ipd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-50r1.ipd
+  type: DOI
+date:
+- type: published
+  at: '2023-08-28'
+- type: obsoleted
+  at: '2024-09-12'
+- type: issued
+  at: '2023-08-28'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Marian
+      surname:
+        language: en
+        script: Latn
+        content: Merritt
+      completename:
+        language: en
+        script: Latn
+        content: Marian S. Merritt
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Susan
+      surname:
+        language: en
+        script: Latn
+        content: Hansche
+      completename:
+        language: en
+        script: Latn
+        content: Susan Hansche
+    affiliation:
+    - organization:
+        name:
+        - content: Cybersecurity and Infrastructure Security Agency
+        abbreviation:
+          content: CISA
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Brenda
+      surname:
+        language: en
+        script: Latn
+        content: Ellis
+      completename:
+        language: en
+        script: Latn
+        content: Brenda Ellis
+    affiliation:
+    - organization:
+        name:
+        - content: National Aeronautics and Space Administration
+        abbreviation:
+          content: NASA
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kevin
+      surname:
+        language: en
+        script: Latn
+        content: Sanchez-Cherry
+      completename:
+        language: en
+        script: Latn
+        content: Kevin Sanchez-Cherry
+    affiliation:
+    - organization:
+        name:
+        - content: U.S. Department of Transportation
+        abbreviation:
+          content: DOT
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Julie
+      surname:
+        language: en
+        script: Latn
+        content: Snyder
+      completename:
+        language: en
+        script: Latn
+        content: Julie Snyder
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Donald
+      surname:
+        language: en
+        script: Latn
+        content: Walden
+      completename:
+        language: en
+        script: Latn
+        content: Donald Walden
+    affiliation:
+    - organization:
+        name:
+        - content: Internal Revenue Service
+edition:
+  content: Revision 1
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: awareness
+- vocab:
+    content: cybersecurity
+- vocab:
+    content: education
+- vocab:
+    content: learning program
+- vocab:
+    content: privacy
+- vocab:
+    content: role-based
+- vocab:
+    content: training
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2023-08-28'
+    to: '2023-10-27'

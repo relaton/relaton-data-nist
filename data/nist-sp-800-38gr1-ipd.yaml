@@ -1,0 +1,102 @@
+---
+id: NISTSP80038Gr1ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Recommendation for Block Cipher Modes of Operation - Methods for Format-Preserving Encryption
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/38/g/r1/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-38Gr1-draft
+docidentifier:
+- content: NIST SP 800-38Gr1 ipd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-38Gr1-draft
+  type: DOI
+date:
+- type: published
+  at: '2019-02-28'
+- type: obsoleted
+  at: '2025-02-03'
+- type: issued
+  at: '2019-02-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Morris
+      surname:
+        language: en
+        script: Latn
+        content: Dworkin
+      completename:
+        language: en
+        script: Latn
+        content: Morris J. Dworkin
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+edition:
+  content: Revision 1
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: block cipher
+- vocab:
+    content: confidentiality
+- vocab:
+    content: encryption
+- vocab:
+    content: FF1
+- vocab:
+    content: FF3
+- vocab:
+    content: FF3-1
+- vocab:
+    content: format-preserving encryption
+- vocab:
+    content: information security
+- vocab:
+    content: mode of operation
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2019-02-28'
+    to: '2019-04-15'

@@ -1,20 +1,101 @@
 ---
 id: NISTFIPS2013ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Personal Identity Verification (PIV) of Federal Employees and Contractors
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/fips/201-3/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.FIPS.201-3-draft
 docidentifier:
 - content: NIST FIPS 201-3 ipd
   type: NIST
   primary: true
+- content: NIST.FIPS.201-3-draft
+  type: DOI
+date:
+- type: published
+  at: '2020-11-03'
+- type: obsoleted
+  at: '2022-01-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: National Institute of Standards and Technology
+edition:
+  content: Revision 3
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: authentication
+- vocab:
+    content: authenticator
+- vocab:
+    content: biometrics
+- vocab:
+    content: credential
+- vocab:
+    content: cryptography
+- vocab:
+    content: derived PIV credentials
+- vocab:
+    content: digital identity
+- vocab:
+    content: Federal Information Processing Standards (FIPS)
+- vocab:
+    content: HSPD-12
+- vocab:
+    content: federation
+- vocab:
+    content: identification
+- vocab:
+    content: identity proofing
+- vocab:
+    content: integrated circuit card
+- vocab:
+    content: Personal Identity Verification
+- vocab:
+    content: PIV
+- vocab:
+    content: PIV account
+- vocab:
+    content: public key infrastructure
+- vocab:
+    content: verification
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2020-11-02'
+    to: '2021-02-01'

@@ -1,23 +1,156 @@
 ---
 id: NISTSP800207ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Zero Trust Architecture
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/207/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-207-draft
 docidentifier:
 - content: NIST SP 800-207 ipd
   type: NIST
   primary: true
+- content: NIST.SP.800-207-draft
+  type: DOI
 date:
+- type: published
+  at: '2019-09-23'
+- type: obsoleted
+  at: '2020-02-13'
 - type: issued
-  at: 2019-09
+  at: '2019-09-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Scott
+      surname:
+        language: en
+        script: Latn
+        content: Rose
+      completename:
+        language: en
+        script: Latn
+        content: Scott W. Rose
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Oliver
+      surname:
+        language: en
+        script: Latn
+        content: Borchert
+      completename:
+        language: en
+        script: Latn
+        content: Oliver Borchert
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Stu
+      surname:
+        language: en
+        script: Latn
+        content: Mitchell
+      completename:
+        language: en
+        script: Latn
+        content: Stu Mitchell
+    affiliation:
+    - organization:
+        name:
+        - content: Stu2Labs
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Sean
+      surname:
+        language: en
+        script: Latn
+        content: Connelly
+      completename:
+        language: en
+        script: Latn
+        content: Sean Connelly
+    affiliation:
+    - organization:
+        name:
+        - content: U.S. Department of Homeland Security
+        abbreviation:
+          content: DHS
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: architecture
+- vocab:
+    content: cybersecurity
+- vocab:
+    content: enterprise
+- vocab:
+    content: network security
+- vocab:
+    content: zero trust
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2019-09-23'
+    to: '2019-11-22'

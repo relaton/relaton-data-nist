@@ -1,0 +1,116 @@
+---
+id: NISTSP80052r22pd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Guidelines for the Selection, Configuration, and Use of Transport Layer Security (TLS) Implementations
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/52/r2/2pd
+docidentifier:
+- content: NIST SP 800-52r2 2pd
+  type: NIST
+  primary: true
+date:
+- type: published
+  at: '2018-10-15'
+- type: obsoleted
+  at: '2019-08-29'
+- type: issued
+  at: '2018-10-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kerry
+      surname:
+        language: en
+        script: Latn
+        content: McKay
+      completename:
+        language: en
+        script: Latn
+        content: Kerry A. McKay
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      prefix:
+      - language: en
+        script: Latn
+        content: Dr.
+      forename:
+      - language: en
+        script: Latn
+        content: David
+      surname:
+        language: en
+        script: Latn
+        content: Cooper
+      completename:
+        language: en
+        script: Latn
+        content: David A. Cooper
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+edition:
+  content: Revision 2
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '2'
+copyright:
+- from: '2018'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: information security
+- vocab:
+    content: network security
+- vocab:
+    content: SSL
+- vocab:
+    content: TLS
+- vocab:
+    content: Transport Layer Security
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2018-10-15'
+    to: '2018-11-16'

@@ -1,0 +1,140 @@
+---
+id: NISTCSWP16ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Trusted Internet of Things (IoT) Device Network-Layer Onboarding and Lifecycle Management
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/cswp/16/trusted-iot-device-networklayer-onboarding-and-lcm/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.CSWP.16.ipd
+docidentifier:
+- content: NIST CSWP 16 ipd
+  type: NIST
+  primary: true
+- content: NIST.CSWP.16.ipd
+  type: DOI
+date:
+- type: published
+  at: '2020-09-08'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Susan
+      surname:
+        language: en
+        script: Latn
+        content: Symington
+      completename:
+        language: en
+        script: Latn
+        content: Susan Symington
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: W.
+      surname:
+        language: en
+        script: Latn
+        content: Polk
+      completename:
+        language: en
+        script: Latn
+        content: W. Timothy Polk
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Murugiah
+      surname:
+        language: en
+        script: Latn
+        content: Souppaya
+      completename:
+        language: en
+        script: Latn
+        content: Murugiah P. Souppaya
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: active
+  iteration: '1'
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: application-layer onboarding
+- vocab:
+    content: authentication
+- vocab:
+    content: bootstrapping
+- vocab:
+    content: credentials
+- vocab:
+    content: device lifecycle management
+- vocab:
+    content: identity
+- vocab:
+    content: internet of things (IoT)
+- vocab:
+    content: network-layer onboarding
+- vocab:
+    content: onboarding
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2020-09-08'
+    to: '2020-10-08'

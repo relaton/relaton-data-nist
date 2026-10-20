@@ -1,23 +1,150 @@
 ---
 id: NISTSP800204Bipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Attribute-based Access Control for Microservices-based Applications using a Service Mesh
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/204/b/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-204B-draft
 docidentifier:
 - content: NIST SP 800-204B ipd
   type: NIST
   primary: true
+- content: NIST.SP.800-204B-draft
+  type: DOI
 date:
+- type: published
+  at: '2021-01-26'
+- type: obsoleted
+  at: '2021-08-06'
 - type: issued
-  at: 2021-01
+  at: '2021-01-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ramaswamy
+      surname:
+        language: en
+        script: Latn
+        content: Chandramouli
+      completename:
+        language: en
+        script: Latn
+        content: Ramaswamy Chandramouli
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Zack
+      surname:
+        language: en
+        script: Latn
+        content: Butcher
+      completename:
+        language: en
+        script: Latn
+        content: Zack Butcher
+    affiliation:
+    - organization:
+        name:
+        - content: Tetrate
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Aradhna
+      surname:
+        language: en
+        script: Latn
+        content: Chetal
+      completename:
+        language: en
+        script: Latn
+        content: Aradhna Chetal
+    affiliation:
+    - organization:
+        name:
+        - content: TIAA
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: attribute-based access control
+- vocab:
+    content: authentication policy
+- vocab:
+    content: authorization policy
+- vocab:
+    content: CI/CD
+- vocab:
+    content: DevSecOps
+- vocab:
+    content: JSON web token
+- vocab:
+    content: microservices-based application
+- vocab:
+    content: mutual TLS
+- vocab:
+    content: next generation access control
+- vocab:
+    content: policy enforcement point
+- vocab:
+    content: role-based access control
+- vocab:
+    content: service mesh
+- vocab:
+    content: service proxy
+- vocab:
+    content: zero trust
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2021-01-27'
+    to: '2021-02-24'

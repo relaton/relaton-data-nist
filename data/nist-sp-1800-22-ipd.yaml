@@ -1,11 +1,11 @@
 ---
 id: NISTSP180022ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
-  content: Mobile Device Security
-  type: title-main
+  content: Mobile Device Security - Bring Your Own Device (BYOD)
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/1800/22/ipd
@@ -14,10 +14,271 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2021-03-18'
+- type: obsoleted
+  at: '2022-11-29'
 - type: issued
-  at: 2021-03
+  at: '2021-03-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kaitlin
+      surname:
+        language: en
+        script: Latn
+        content: Boeckl
+      completename:
+        language: en
+        script: Latn
+        content: Kaitlin Boeckl
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Nakia
+      surname:
+        language: en
+        script: Latn
+        content: Grayson
+      completename:
+        language: en
+        script: Latn
+        content: Nakia Grayson
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Gema
+      surname:
+        language: en
+        script: Latn
+        content: Howell
+      completename:
+        language: en
+        script: Latn
+        content: Gema Howell
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Naomi
+      surname:
+        language: en
+        script: Latn
+        content: Lefkovitz
+      completename:
+        language: en
+        script: Latn
+        content: Naomi B. Lefkovitz
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jason
+      surname:
+        language: en
+        script: Latn
+        content: Ajmo
+      completename:
+        language: en
+        script: Latn
+        content: Jason G. Ajmo
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Milissa
+      surname:
+        language: en
+        script: Latn
+        content: McGinnis
+      completename:
+        language: en
+        script: Latn
+        content: Milissa McGinnis
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kenneth
+      surname:
+        language: en
+        script: Latn
+        content: Sandlin
+      completename:
+        language: en
+        script: Latn
+        content: Kenneth F. Sandlin
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Oksana
+      surname:
+        language: en
+        script: Latn
+        content: Slivina
+      completename:
+        language: en
+        script: Latn
+        content: Oksana Slivina
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Julie
+      surname:
+        language: en
+        script: Latn
+        content: Snyder
+      completename:
+        language: en
+        script: Latn
+        content: Julie Snyder
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Paul
+      surname:
+        language: en
+        script: Latn
+        content: Ward
+      completename:
+        language: en
+        script: Latn
+        content: Paul Ward
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: bring your own device
+- vocab:
+    content: BYOD
+- vocab:
+    content: mobile device management
+- vocab:
+    content: mobile device security
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2021-03-18'
+    to: '2021-05-17'

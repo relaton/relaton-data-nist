@@ -1,0 +1,146 @@
+---
+id: NISTSP80057pt2r1ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: 'Recommendation for Key Management - Part 2: Best Practices for Key Management Organization'
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/57/pt2/r1/ipd
+docidentifier:
+- content: NIST SP 800-57pt2r1 ipd
+  type: NIST
+  primary: true
+date:
+- type: published
+  at: '2018-04-06'
+- type: obsoleted
+  at: '2018-11-20'
+- type: issued
+  at: '2018-04-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Elaine
+      surname:
+        language: en
+        script: Latn
+        content: Barker
+      completename:
+        language: en
+        script: Latn
+        content: Elaine B. Barker
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: William
+      surname:
+        language: en
+        script: Latn
+        content: Barker
+      completename:
+        language: en
+        script: Latn
+        content: William C. Barker
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+edition:
+  content: Revision 1
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2018'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: accreditation
+- vocab:
+    content: assurances
+- vocab:
+    content: authentication
+- vocab:
+    content: authorization
+- vocab:
+    content: availability
+- vocab:
+    content: backup
+- vocab:
+    content: certification
+- vocab:
+    content: compromise
+- vocab:
+    content: confidentiality
+- vocab:
+    content: cryptanalysis
+- vocab:
+    content: cryptographic key
+- vocab:
+    content: cryptographic module
+- vocab:
+    content: digital signature
+- vocab:
+    content: key management
+- vocab:
+    content: key management policy
+- vocab:
+    content: key recovery
+- vocab:
+    content: private key
+- vocab:
+    content: public key
+- vocab:
+    content: public key infrastructure
+- vocab:
+    content: security plan
+- vocab:
+    content: trust anchor
+- vocab:
+    content: validation
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2018-04-06'
+    to: '2018-05-31'

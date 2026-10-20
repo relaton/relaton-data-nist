@@ -1,0 +1,118 @@
+---
+id: NISTSP800175Br1ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Guideline for Using Cryptographic Standards in the Federal Government - Cryptographic Mechanisms
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/175/b/r1/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-175Br1-draft
+docidentifier:
+- content: NIST SP 800-175Br1 ipd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-175Br1-draft
+  type: DOI
+date:
+- type: published
+  at: '2019-07-03'
+- type: obsoleted
+  at: '2020-03-31'
+- type: issued
+  at: '2019-07-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Elaine
+      surname:
+        language: en
+        script: Latn
+        content: Barker
+      completename:
+        language: en
+        script: Latn
+        content: Elaine B. Barker
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+edition:
+  content: Revision 1
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: asymmetric-key algorithm
+- vocab:
+    content: authentication
+- vocab:
+    content: confidentiality
+- vocab:
+    content: cryptography
+- vocab:
+    content: digital signatures
+- vocab:
+    content: encryption
+- vocab:
+    content: integrity
+- vocab:
+    content: key agreement
+- vocab:
+    content: key derivation
+- vocab:
+    content: key management
+- vocab:
+    content: key transport
+- vocab:
+    content: key wrapping
+- vocab:
+    content: message authentication codes
+- vocab:
+    content: non-repudiation
+- vocab:
+    content: Public Key Infrastructure (PKI)
+- vocab:
+    content: random bit generation
+- vocab:
+    content: symmetric-key algorithm
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2019-07-03'
+    to: '2019-09-05'

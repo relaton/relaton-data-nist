@@ -1,0 +1,136 @@
+---
+id: NISTSP8001892pd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Resilient Interdomain Traffic Exchange - BGP Security and DDoS Mitigation
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/189/2pd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-189-draft2
+docidentifier:
+- content: NIST SP 800-189 2pd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-189-draft2
+  type: DOI
+date:
+- type: published
+  at: '2019-10-17'
+- type: obsoleted
+  at: '2019-12-17'
+- type: issued
+  at: '2019-10-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kotikalapudi
+      surname:
+        language: en
+        script: Latn
+        content: Sriram
+      completename:
+        language: en
+        script: Latn
+        content: Kotikalapudi Sriram
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Douglas
+      surname:
+        language: en
+        script: Latn
+        content: Montgomery
+      completename:
+        language: en
+        script: Latn
+        content: Douglas C. Montgomery
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '2'
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: routing security and robustness
+- vocab:
+    content: Internet infrastructure security
+- vocab:
+    content: Border Gateway Protocol (BGP) security
+- vocab:
+    content: prefix hijacks
+- vocab:
+    content: IP address spoofing
+- vocab:
+    content: distributed denial-of-service (DDoS)
+- vocab:
+    content: Resource Public Key Infrastructure (RPKI)
+- vocab:
+    content: BGP origin validation (BGP-OV)
+- vocab:
+    content: prefix filtering
+- vocab:
+    content: BGP path validation (BGP-PV)
+- vocab:
+    content: BGPsec
+- vocab:
+    content: route leaks
+- vocab:
+    content: source address validation (SAV)
+- vocab:
+    content: unicast Reverse Path Forwarding (uRPF)
+- vocab:
+    content: remotely triggered black hole (RTBH) filtering
+- vocab:
+    content: flow specification (Flowspec)
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2019-10-17'
+    to: '2019-11-15'

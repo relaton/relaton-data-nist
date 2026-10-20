@@ -1,0 +1,210 @@
+---
+id: NISTSP800161r1ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Cyber Supply Chain Risk Management Practices for Systems and Organizations
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/161/r1/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-161r1-draft
+docidentifier:
+- content: NIST SP 800-161r1 ipd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-161r1-draft
+  type: DOI
+date:
+- type: published
+  at: '2021-04-29'
+- type: obsoleted
+  at: '2021-10-28'
+- type: issued
+  at: '2021-04-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jon
+      surname:
+        language: en
+        script: Latn
+        content: Boyens
+      completename:
+        language: en
+        script: Latn
+        content: Jon M. Boyens
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Angela
+      surname:
+        language: en
+        script: Latn
+        content: Smith
+      completename:
+        language: en
+        script: Latn
+        content: Angela Smith
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Nadya
+      surname:
+        language: en
+        script: Latn
+        content: Bartol
+      completename:
+        language: en
+        script: Latn
+        content: Nadya Bartol
+    affiliation:
+    - organization:
+        name:
+        - content: Boston Consulting Group
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kris
+      surname:
+        language: en
+        script: Latn
+        content: Winkler
+      completename:
+        language: en
+        script: Latn
+        content: Kris Winkler
+    affiliation:
+    - organization:
+        name:
+        - content: Boston Consulting Group
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Alex
+      surname:
+        language: en
+        script: Latn
+        content: Holbrook
+      completename:
+        language: en
+        script: Latn
+        content: Alex Holbrook
+    affiliation:
+    - organization:
+        name:
+        - content: Boston Consulting Group
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Matthew
+      surname:
+        language: en
+        script: Latn
+        content: Fallon
+      completename:
+        language: en
+        script: Latn
+        content: Matthew Fallon
+    affiliation:
+    - organization:
+        name:
+        - content: Boston Consulting Group
+edition:
+  content: Revision 1
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: C-SCRM
+- vocab:
+    content: cyber supply chain risk management
+- vocab:
+    content: acquire
+- vocab:
+    content: information and communication technology
+- vocab:
+    content: supply chain
+- vocab:
+    content: cyber supply chain
+- vocab:
+    content: supply chain assurance
+- vocab:
+    content: supply chain risk
+- vocab:
+    content: supply chain risk assessment
+- vocab:
+    content: supply chain security
+- vocab:
+    content: risk management
+- vocab:
+    content: supplier
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2021-04-29'
+    to: '2021-06-25'

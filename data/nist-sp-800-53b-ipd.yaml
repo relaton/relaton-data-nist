@@ -1,23 +1,83 @@
 ---
 id: NISTSP80053Bipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Control Baselines for Information Systems and Organizations
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/53/b/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-53B-draft
 docidentifier:
 - content: NIST SP 800-53B ipd
   type: NIST
   primary: true
+- content: NIST.SP.800-53B-draft
+  type: DOI
 date:
+- type: published
+  at: '2020-07-31'
+- type: obsoleted
+  at: '2020-10-29'
 - type: issued
-  at: 2020-07
+  at: '2020-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Joint Task Force
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: assurance
+- vocab:
+    content: impact level
+- vocab:
+    content: privacy control
+- vocab:
+    content: privacy control baseline
+- vocab:
+    content: security control
+- vocab:
+    content: security control baseline
+- vocab:
+    content: tailoring
+- vocab:
+    content: control selection
+- vocab:
+    content: control overlays
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2020-07-31'
+    to: '2020-09-11'

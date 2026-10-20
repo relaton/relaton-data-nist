@@ -1,0 +1,160 @@
+---
+id: NISTSP800177r1ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Trustworthy Email
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/177/r1/ipd
+docidentifier:
+- content: NIST SP 800-177r1 ipd
+  type: NIST
+  primary: true
+date:
+- type: published
+  at: '2017-09-13'
+- type: obsoleted
+  at: '2017-12-15'
+- type: issued
+  at: '2017-09-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Scott
+      surname:
+        language: en
+        script: Latn
+        content: Rose
+      completename:
+        language: en
+        script: Latn
+        content: Scott W. Rose
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Stephen
+      surname:
+        language: en
+        script: Latn
+        content: Nightingale
+      completename:
+        language: en
+        script: Latn
+        content: Stephen Nightingale
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Simson
+      surname:
+        language: en
+        script: Latn
+        content: Garfinkel
+      completename:
+        language: en
+        script: Latn
+        content: Simson L. Garfinkel
+    affiliation:
+    - organization:
+        name:
+        - content: U.S. Census Bureau
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ramaswamy
+      surname:
+        language: en
+        script: Latn
+        content: Chandramouli
+      completename:
+        language: en
+        script: Latn
+        content: Ramaswamy Chandramouli
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+edition:
+  content: Revision 1
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: Email
+- vocab:
+    content: Simple Mail Transfer Protocol (SMTP)
+- vocab:
+    content: Transport Layer Security (TLS)
+- vocab:
+    content: Sender Policy Framework (SPF)
+- vocab:
+    content: Domain Keys Identified Mail (DKIM)
+- vocab:
+    content: Domain based Message Authentication, Reporting and Conformance (DMARC)
+- vocab:
+    content: Domain Name System (DNS) Authentication of Named Entities (DANE)
+- vocab:
+    content: S/MIME
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2017-09-13'
+    to: '2017-10-13'

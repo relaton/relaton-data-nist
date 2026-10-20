@@ -1,0 +1,122 @@
+---
+id: NISTSP800189r1ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Border Gateway Protocol Security and Resilience
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/189/r1/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-189r1.ipd
+docidentifier:
+- content: NIST SP 800-189r1 ipd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-189r1.ipd
+  type: DOI
+date:
+- type: published
+  at: '2025-01-03'
+- type: issued
+  at: '2025-01-03'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kotikalapudi
+      surname:
+        language: en
+        script: Latn
+        content: Sriram
+      completename:
+        language: en
+        script: Latn
+        content: Kotikalapudi Sriram
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Douglas
+      surname:
+        language: en
+        script: Latn
+        content: Montgomery
+      completename:
+        language: en
+        script: Latn
+        content: Douglas C. Montgomery
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+edition:
+  content: Revision 1
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: active
+  iteration: '1'
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: Autonomous System Provider Authorization (ASPA)
+- vocab:
+    content: Border Gateway Protocol (BGP) security
+- vocab:
+    content: distributed denial-of-service (DDoS)
+- vocab:
+    content: Flowspec
+- vocab:
+    content: Only to Customer (OTC)
+- vocab:
+    content: Resource Public Key Infrastructure (RPKI)
+- vocab:
+    content: ROA-based route origin validation (ROA-ROV)
+- vocab:
+    content: Route Origin Authorization (ROA)
+- vocab:
+    content: routing security and resilience
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2025-01-03'
+    to: '2025-02-25'

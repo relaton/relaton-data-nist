@@ -1,0 +1,102 @@
+---
+id: NISTSP80066r2ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Implementing the Health Insurance Portability and Accountability Act (HIPAA) Security Rule - A Cybersecurity Resource Guide
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/66/r2/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-66r2.ipd
+docidentifier:
+- content: NIST SP 800-66r2 ipd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-66r2.ipd
+  type: DOI
+date:
+- type: published
+  at: '2022-07-21'
+- type: obsoleted
+  at: '2024-02-14'
+- type: issued
+  at: '2022-07-21'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jeffrey
+      surname:
+        language: en
+        script: Latn
+        content: Marron
+      completename:
+        language: en
+        script: Latn
+        content: Jeffrey Marron
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+edition:
+  content: Revision 2
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: administrative safeguards
+- vocab:
+    content: Health Insurance Portability and Accountability Act
+- vocab:
+    content: implementation specification
+- vocab:
+    content: physical safeguards
+- vocab:
+    content: risk assessment
+- vocab:
+    content: risk management
+- vocab:
+    content: Security Rule
+- vocab:
+    content: standards
+- vocab:
+    content: technical safeguards
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2022-07-21'
+    to: '2022-10-05'

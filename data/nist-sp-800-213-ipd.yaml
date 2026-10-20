@@ -1,23 +1,206 @@
 ---
 id: NISTSP800213ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
-  content: IoT Device Cybersecurity Guidance for the Federal Government
-  type: title-main
+  content: IoT Device Cybersecurity Guidance for the Federal Government - Establishing IoT Device Cybersecurity Requirements
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/213/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-213-draft
 docidentifier:
 - content: NIST SP 800-213 ipd
   type: NIST
   primary: true
+- content: NIST.SP.800-213-draft
+  type: DOI
 date:
+- type: published
+  at: '2020-12-15'
+- type: obsoleted
+  at: '2021-11-29'
 - type: issued
-  at: 2020-12
+  at: '2020-12-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Fagan
+      completename:
+        language: en
+        script: Latn
+        content: Michael Fagan
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jeffrey
+      surname:
+        language: en
+        script: Latn
+        content: Marron
+      completename:
+        language: en
+        script: Latn
+        content: Jeffrey Marron
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kevin
+      surname:
+        language: en
+        script: Latn
+        content: Brady
+      addition:
+      - language: en
+        script: Latn
+        content: Jr.
+      completename:
+        language: en
+        script: Latn
+        content: Kevin G. Brady Jr.
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Barbara
+      surname:
+        language: en
+        script: Latn
+        content: Cuthill
+      completename:
+        language: en
+        script: Latn
+        content: Barbara B. Cuthill
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Katerina
+      surname:
+        language: en
+        script: Latn
+        content: Megas
+      completename:
+        language: en
+        script: Latn
+        content: Katerina N. Megas
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Rebecca
+      surname:
+        language: en
+        script: Latn
+        content: Herold
+      completename:
+        language: en
+        script: Latn
+        content: Rebecca Herold
+    affiliation:
+    - organization:
+        name:
+        - content: The Privacy Professor Consultancy
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: Risk Management Framework
+- vocab:
+    content: Cybersecurity Framework
+- vocab:
+    content: cybersecurity baseline
+- vocab:
+    content: Internet of Things (IoT)
+- vocab:
+    content: security requirements
+- vocab:
+    content: securable computing devices
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2020-12-15'
+    to: '2021-02-26'

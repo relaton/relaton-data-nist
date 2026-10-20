@@ -1,11 +1,11 @@
 ---
 id: NISTSP180017ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Multifactor Authentication for E-Commerce
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/1800/17/ipd
@@ -14,10 +14,159 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2018-08-22'
+- type: obsoleted
+  at: '2019-07-30'
 - type: issued
-  at: 2018-08
+  at: '2018-08-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: William
+      surname:
+        language: en
+        script: Latn
+        content: Newhouse
+      completename:
+        language: en
+        script: Latn
+        content: William D. Newhouse
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Brian
+      surname:
+        language: en
+        script: Latn
+        content: Johnson
+      completename:
+        language: en
+        script: Latn
+        content: Brian Johnson
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Sarah
+      surname:
+        language: en
+        script: Latn
+        content: Kinling
+      completename:
+        language: en
+        script: Latn
+        content: Sarah Kinling
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Blaine
+      surname:
+        language: en
+        script: Latn
+        content: Mulugeta
+      completename:
+        language: en
+        script: Latn
+        content: Blaine Mulugeta
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kenneth
+      surname:
+        language: en
+        script: Latn
+        content: Sandlin
+      completename:
+        language: en
+        script: Latn
+        content: Kenneth F. Sandlin
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2018'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: electronic commerce (e-commerce) security
+- vocab:
+    content: internet shopping security
+- vocab:
+    content: multifactor authentication (MFA)
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2018-08-22'
+    to: '2018-10-22'

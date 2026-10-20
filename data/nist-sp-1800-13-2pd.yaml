@@ -1,0 +1,290 @@
+---
+id: NISTSP1800132pd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Mobile Application Single Sign-On - Improving Authentication for Public Safety First Responders
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/1800/13/2pd
+docidentifier:
+- content: NIST SP 1800-13 2pd
+  type: NIST
+  primary: true
+date:
+- type: published
+  at: '2019-05-29'
+- type: obsoleted
+  at: '2021-08-25'
+- type: issued
+  at: '2019-05-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: William
+      surname:
+        language: en
+        script: Latn
+        content: Fisher
+      completename:
+        language: en
+        script: Latn
+        content: William J. Fisher
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Paul
+      surname:
+        language: en
+        script: Latn
+        content: Grassi
+      completename:
+        language: en
+        script: Latn
+        content: Paul A. Grassi
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Spike
+      surname:
+        language: en
+        script: Latn
+        content: Dog
+      completename:
+        language: en
+        script: Latn
+        content: Spike Dog
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Santos
+      surname:
+        language: en
+        script: Latn
+        content: Jha
+      completename:
+        language: en
+        script: Latn
+        content: Santos Jha
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: William
+      surname:
+        language: en
+        script: Latn
+        content: Kim
+      completename:
+        language: en
+        script: Latn
+        content: William Kim
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Taylor
+      surname:
+        language: en
+        script: Latn
+        content: McCorkill
+      completename:
+        language: en
+        script: Latn
+        content: Taylor McCorkill
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Joseph
+      surname:
+        language: en
+        script: Latn
+        content: Portner
+      completename:
+        language: en
+        script: Latn
+        content: Joseph Portner
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Mark
+      surname:
+        language: en
+        script: Latn
+        content: Russell
+      completename:
+        language: en
+        script: Latn
+        content: Mark Russell
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Sudhi
+      surname:
+        language: en
+        script: Latn
+        content: Umarji
+      completename:
+        language: en
+        script: Latn
+        content: Sudhi Umarji
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: William
+      surname:
+        language: en
+        script: Latn
+        content: Barker
+      completename:
+        language: en
+        script: Latn
+        content: William C. Barker
+    affiliation:
+    - organization:
+        name:
+        - content: Dakota Consulting
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '2'
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: access control
+- vocab:
+    content: authentication
+- vocab:
+    content: authorization
+- vocab:
+    content: identity
+- vocab:
+    content: identity management
+- vocab:
+    content: identity provider
+- vocab:
+    content: relying party
+- vocab:
+    content: single sign-on
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2019-05-29'
+    to: '2019-06-28'

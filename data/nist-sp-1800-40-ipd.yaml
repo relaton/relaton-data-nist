@@ -1,11 +1,11 @@
 ---
 id: NISTSP180040ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Automation of the NIST Cryptographic Module Validation Program
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/1800/40/ipd
@@ -14,10 +14,305 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2026-04-15'
 - type: issued
   at: '2026-04-15'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Chris
+      surname:
+        language: en
+        script: Latn
+        content: Celi
+      completename:
+        language: en
+        script: Latn
+        content: Chris Celi
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Alexander
+      surname:
+        language: en
+        script: Latn
+        content: Calis
+      completename:
+        language: en
+        script: Latn
+        content: Alexander H. Calis
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Murugiah
+      surname:
+        language: en
+        script: Latn
+        content: Souppaya
+      completename:
+        language: en
+        script: Latn
+        content: Murugiah P. Souppaya
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: William
+      surname:
+        language: en
+        script: Latn
+        content: Barker
+      completename:
+        language: en
+        script: Latn
+        content: William C. Barker
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Karen
+      surname:
+        language: en
+        script: Latn
+        content: Kent
+      completename:
+        language: en
+        script: Latn
+        content: Karen A. Kent
+    affiliation:
+    - organization:
+        name:
+        - content: Trusted Cyber Annex
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Shawn
+      surname:
+        language: en
+        script: Latn
+        content: Geddis
+      completename:
+        language: en
+        script: Latn
+        content: Shawn Geddis
+    affiliation:
+    - organization:
+        name:
+        - content: Katalyst
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Raoul
+      surname:
+        language: en
+        script: Latn
+        content: Gabiam
+      completename:
+        language: en
+        script: Latn
+        content: Raoul Gabiam
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Stephan
+      surname:
+        language: en
+        script: Latn
+        content: Mueller
+      completename:
+        language: en
+        script: Latn
+        content: Stephan Mueller
+    affiliation:
+    - organization:
+        name:
+        - content: atsec
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Yi
+      surname:
+        language: en
+        script: Latn
+        content: Mao
+      completename:
+        language: en
+        script: Latn
+        content: Yi Mao
+    affiliation:
+    - organization:
+        name:
+        - content: atsec
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Barry
+      surname:
+        language: en
+        script: Latn
+        content: Fussell
+      completename:
+        language: en
+        script: Latn
+        content: Barry Fussell
+    affiliation:
+    - organization:
+        name:
+        - content: Cisco
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Andrew
+      surname:
+        language: en
+        script: Latn
+        content: Karcher
+      completename:
+        language: en
+        script: Latn
+        content: Andrew Karcher
+    affiliation:
+    - organization:
+        name:
+        - content: Cisco
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Douglas
+      surname:
+        language: en
+        script: Latn
+        content: Boldt
+      completename:
+        language: en
+        script: Latn
+        content: Douglas Boldt
+    affiliation:
+    - organization:
+        name:
+        - content: Amazon Web Services
+        abbreviation:
+          content: AWS
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: active
+  iteration: '1'
+copyright:
+- from: '2026'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: Automated Cryptographic Module Validation Project (ACMVP)
+- vocab:
+    content: Cryptographic Module Validation Program (CMVP)
+- vocab:
+    content: cryptography
+- vocab:
+    content: cryptographic module
+- vocab:
+    content: cryptographic module testing
+- vocab:
+    content: cryptographic module validation
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2026-04-15'
+    to: '2026-06-01'

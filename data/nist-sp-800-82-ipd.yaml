@@ -1,11 +1,11 @@
 ---
 id: NISTSP80082ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Guide to Industrial Control Systems (ICS) Security
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/82/ipd
@@ -14,8 +14,122 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2008-09-02'
+- type: obsoleted
+  at: '2011-06-09'
 - type: issued
-  at: 2008-09
+  at: '2008-09-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Keith
+      surname:
+        language: en
+        script: Latn
+        content: Stouffer
+      completename:
+        language: en
+        script: Latn
+        content: Keith A. Stouffer
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Joseph
+      surname:
+        language: en
+        script: Latn
+        content: Falco
+      completename:
+        language: en
+        script: Latn
+        content: Joseph A. Falco
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Karen
+      surname:
+        language: en
+        script: Latn
+        content: Scarfone
+      completename:
+        language: en
+        script: Latn
+        content: Karen A. Scarfone
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: retired
+  iteration: '1'
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: computer security
+- vocab:
+    content: distributed control systems (DCS)
+- vocab:
+    content: industrial control systems (ICS)
+- vocab:
+    content: information security
+- vocab:
+    content: network security
+- vocab:
+    content: programmable logic controllers (PLC)
+- vocab:
+    content: risk management
+- vocab:
+    content: security controls
+- vocab:
+    content: supervisory control and data acquisition (SCADA) systems
 ext:
   schema_version: v1.1.2
   doctype:

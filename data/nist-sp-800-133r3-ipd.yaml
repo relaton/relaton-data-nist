@@ -1,0 +1,172 @@
+---
+id: NISTSP800133r3ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Recommendation for Cryptographic Key Generation
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/133/r3/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-133r3.ipd
+docidentifier:
+- content: NIST SP 800-133r3 ipd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-133r3.ipd
+  type: DOI
+date:
+- type: published
+  at: '2026-04-17'
+- type: issued
+  at: '2026-04-17'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Quynh
+      surname:
+        language: en
+        script: Latn
+        content: Dang
+      completename:
+        language: en
+        script: Latn
+        content: Quynh H. Dang
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      prefix:
+      - language: en
+        script: Latn
+        content: Dr.
+      forename:
+      - language: en
+        script: Latn
+        content: Dustin
+      surname:
+        language: en
+        script: Latn
+        content: Moody
+      completename:
+        language: en
+        script: Latn
+        content: Dustin Moody
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Andrew
+      surname:
+        language: en
+        script: Latn
+        content: Regenscheid
+      completename:
+        language: en
+        script: Latn
+        content: Andrew R. Regenscheid
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Hamilton
+      surname:
+        language: en
+        script: Latn
+        content: Silberg
+      completename:
+        language: en
+        script: Latn
+        content: Hamilton Silberg
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+edition:
+  content: Revision 3
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: active
+  iteration: '1'
+copyright:
+- from: '2026'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: asymmetric key
+- vocab:
+    content: key agreement
+- vocab:
+    content: key derivation
+- vocab:
+    content: key generation
+- vocab:
+    content: key replacement
+- vocab:
+    content: key transport
+- vocab:
+    content: key wrapping
+- vocab:
+    content: private key
+- vocab:
+    content: public key
+- vocab:
+    content: symmetric key
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2026-04-17'
+    to: '2026-06-16'

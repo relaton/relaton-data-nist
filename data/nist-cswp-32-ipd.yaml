@@ -1,0 +1,134 @@
+---
+id: NISTCSWP32ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: NIST Cybersecurity Framework 2.0 - A Guide to Creating Community Profiles
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/cswp/32/nist-csf-20-a-guide-to-creating-community-profiles/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.CSWP.32.ipd
+docidentifier:
+- content: NIST CSWP 32 ipd
+  type: NIST
+  primary: true
+- content: NIST.CSWP.32.ipd
+  type: DOI
+date:
+- type: published
+  at: '2024-02-26'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Cheri
+      surname:
+        language: en
+        script: Latn
+        content: Pascoe
+      completename:
+        language: en
+        script: Latn
+        content: Cheri Pascoe
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Julie
+      surname:
+        language: en
+        script: Latn
+        content: Nethery Snyder
+      completename:
+        language: en
+        script: Latn
+        content: Julie Nethery Snyder
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Karen
+      surname:
+        language: en
+        script: Latn
+        content: Scarfone
+      completename:
+        language: en
+        script: Latn
+        content: Karen A. Scarfone
+    affiliation:
+    - organization:
+        name:
+        - content: Scarfone Cybersecurity
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: active
+  iteration: '1'
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: Community Profiles
+- vocab:
+    content: cybersecurity
+- vocab:
+    content: Cybersecurity Framework (CSF)
+- vocab:
+    content: cybersecurity risk governance
+- vocab:
+    content: cybersecurity risk management
+- vocab:
+    content: enterprise risk management
+- vocab:
+    content: Profiles
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2024-02-26'
+    to: '2024-05-03'

@@ -1,0 +1,214 @@
+---
+id: NISTSP80082r3ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Guide to Operational Technology (OT) Security
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/82/r3/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-82r3.ipd
+docidentifier:
+- content: NIST SP 800-82r3 ipd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-82r3.ipd
+  type: DOI
+date:
+- type: published
+  at: '2022-04-26'
+- type: obsoleted
+  at: '2023-09-28'
+- type: issued
+  at: '2022-04-26'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Keith
+      surname:
+        language: en
+        script: Latn
+        content: Stouffer
+      completename:
+        language: en
+        script: Latn
+        content: Keith A. Stouffer
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Pease
+      completename:
+        language: en
+        script: Latn
+        content: Michael Pease
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: CheeYee
+      surname:
+        language: en
+        script: Latn
+        content: Tang
+      completename:
+        language: en
+        script: Latn
+        content: CheeYee Tang
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Timothy
+      surname:
+        language: en
+        script: Latn
+        content: Zimmerman
+      completename:
+        language: en
+        script: Latn
+        content: Timothy Zimmerman
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Victoria
+      surname:
+        language: en
+        script: Latn
+        content: Pillitteri
+      completename:
+        language: en
+        script: Latn
+        content: Victoria Y. Pillitteri
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Suzanne
+      surname:
+        language: en
+        script: Latn
+        content: Lightman
+      completename:
+        language: en
+        script: Latn
+        content: Suzanne Lightman
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+edition:
+  content: Revision 3
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: computer security
+- vocab:
+    content: distributed control systems (DCS)
+- vocab:
+    content: industrial control systems (ICS)
+- vocab:
+    content: information security
+- vocab:
+    content: network security
+- vocab:
+    content: operational technology (OT)
+- vocab:
+    content: programmable logic controllers (PLC)
+- vocab:
+    content: risk management
+- vocab:
+    content: security controls
+- vocab:
+    content: supervisory control and data acquisition (SCADA) systems
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2022-04-26'
+    to: '2022-07-01'

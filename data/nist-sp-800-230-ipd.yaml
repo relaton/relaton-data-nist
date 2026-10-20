@@ -1,20 +1,124 @@
 ---
 id: NISTSP800230ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Additional SLH-DSA Parameter Sets for Limited Signature Use Cases
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/230/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-230.ipd
 docidentifier:
 - content: NIST SP 800-230 ipd
   type: NIST
   primary: true
+- content: NIST.SP.800-230.ipd
+  type: DOI
+date:
+- type: published
+  at: '2026-04-13'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      prefix:
+      - language: en
+        script: Latn
+        content: Dr.
+      forename:
+      - language: en
+        script: Latn
+        content: Dustin
+      surname:
+        language: en
+        script: Latn
+        content: Moody
+      completename:
+        language: en
+        script: Latn
+        content: Dustin Moody
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Quynh
+      surname:
+        language: en
+        script: Latn
+        content: Dang
+      completename:
+        language: en
+        script: Latn
+        content: Quynh H. Dang
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: active
+  iteration: '1'
+copyright:
+- from: '2026'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: cryptography
+- vocab:
+    content: digital signatures
+- vocab:
+    content: FIPS 205
+- vocab:
+    content: hash-based signatures
+- vocab:
+    content: post-quantum
+- vocab:
+    content: post-quantum digital signatures
+- vocab:
+    content: public-key cryptography
+- vocab:
+    content: SLHsig
+- vocab:
+    content: "\\sphincsp"
+- vocab:
+    content: stateless hash-based signatures
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2026-04-13'
+    to: '2026-06-12'

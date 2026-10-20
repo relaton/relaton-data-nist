@@ -1,20 +1,75 @@
 ---
 id: NISTFIPS1865ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Digital Signature Standard (DSS)
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/fips/186-5/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.FIPS.186-5-draft
 docidentifier:
 - content: NIST FIPS 186-5 ipd
   type: NIST
   primary: true
+- content: NIST.FIPS.186-5-draft
+  type: DOI
+date:
+- type: published
+  at: '2019-10-31'
+- type: obsoleted
+  at: '2023-02-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: National Institute of Standards and Technology
+edition:
+  content: Revision 5
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: computer security
+- vocab:
+    content: cryptography
+- vocab:
+    content: digital signatures
+- vocab:
+    content: Federal Information Processing Standards
+- vocab:
+    content: public key cryptography
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2019-10-31'
+    to: '2020-01-29'

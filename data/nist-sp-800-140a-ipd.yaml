@@ -1,11 +1,11 @@
 ---
 id: NISTSP800140Aipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
-  content: CMVP Documentation Requirements
-  type: title-main
+  content: CMVP Documentation Requirements - CMVP Validation Authority Updates to ISO/IEC 24759
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/140/a/ipd
@@ -14,10 +14,89 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2019-10-09'
+- type: obsoleted
+  at: '2020-03-20'
 - type: issued
-  at: 2019-10
+  at: '2019-10-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      prefix:
+      - language: en
+        script: Latn
+        content: Dr.
+      forename:
+      - language: en
+        script: Latn
+        content: Kim
+      surname:
+        language: en
+        script: Latn
+        content: Schaffer
+      completename:
+        language: en
+        script: Latn
+        content: Kim Schaffer
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: Conformance testing
+- vocab:
+    content: Cryptographic Module Validation Program
+- vocab:
+    content: CMVP
+- vocab:
+    content: FIPS 140 testing
+- vocab:
+    content: FIPS 140
+- vocab:
+    content: ISO/IEC 19790
+- vocab:
+    content: ISO/IEC 24759
+- vocab:
+    content: testing requirement
+- vocab:
+    content: vendor evidence
+- vocab:
+    content: vendor documentation
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2019-10-09'
+    to: '2019-12-09'

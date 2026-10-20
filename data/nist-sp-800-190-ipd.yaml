@@ -1,11 +1,11 @@
 ---
 id: NISTSP800190ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Application Container Security Guide
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/190/ipd
@@ -14,10 +14,121 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2017-04-10'
+- type: obsoleted
+  at: '2017-07-13'
 - type: issued
-  at: 2017-04
+  at: '2017-04-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Murugiah
+      surname:
+        language: en
+        script: Latn
+        content: Souppaya
+      completename:
+        language: en
+        script: Latn
+        content: Murugiah P. Souppaya
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: John
+      surname:
+        language: en
+        script: Latn
+        content: Morello
+      completename:
+        language: en
+        script: Latn
+        content: John Morello
+    affiliation:
+    - organization:
+        name:
+        - content: Twistlock
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Karen
+      surname:
+        language: en
+        script: Latn
+        content: Scarfone
+      completename:
+        language: en
+        script: Latn
+        content: Karen A. Scarfone
+    affiliation:
+    - organization:
+        name:
+        - content: Scarfone Cybersecurity
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: application
+- vocab:
+    content: application container
+- vocab:
+    content: application software packaging
+- vocab:
+    content: container
+- vocab:
+    content: container security
+- vocab:
+    content: isolation
+- vocab:
+    content: operating system virtualization
+- vocab:
+    content: virtualization
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2017-04-10'
+    to: '2017-05-18'

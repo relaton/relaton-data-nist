@@ -1,23 +1,206 @@
 ---
 id: NISTSP80063B4ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
-  content: Digital Identity Guidelines
-  type: title-main
+  content: Digital Identity Guidelines - Authentication and Lifecycle Management
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/63/b/4/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-63B-4.ipd
 docidentifier:
 - content: NIST SP 800-63B-4 ipd
   type: NIST
   primary: true
+- content: NIST.SP.800-63B-4.ipd
+  type: DOI
 date:
+- type: published
+  at: '2022-12-16'
+- type: obsoleted
+  at: '2024-08-21'
 - type: issued
   at: '2022-12-16'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: David
+      surname:
+        language: en
+        script: Latn
+        content: Temoshok
+      completename:
+        language: en
+        script: Latn
+        content: David Temoshok
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: James
+      surname:
+        language: en
+        script: Latn
+        content: Fenton
+      completename:
+        language: en
+        script: Latn
+        content: James L. Fenton
+    affiliation:
+    - organization:
+        name:
+        - content: Altmode Networks
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Yee-Yin
+      surname:
+        language: en
+        script: Latn
+        content: Choong
+      completename:
+        language: en
+        script: Latn
+        content: Yee-Yin Choong
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Naomi
+      surname:
+        language: en
+        script: Latn
+        content: Lefkovitz
+      completename:
+        language: en
+        script: Latn
+        content: Naomi B. Lefkovitz
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Andrew
+      surname:
+        language: en
+        script: Latn
+        content: Regenscheid
+      completename:
+        language: en
+        script: Latn
+        content: Andrew R. Regenscheid
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Justin
+      surname:
+        language: en
+        script: Latn
+        content: Richer
+      completename:
+        language: en
+        script: Latn
+        content: Justin P. Richer
+    affiliation:
+    - organization:
+        name:
+        - content: Bespoke Engineering
+edition:
+  content: Revision 4
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: authentication
+- vocab:
+    content: authentication assurance
+- vocab:
+    content: credential service provider
+- vocab:
+    content: digital authentication
+- vocab:
+    content: digital credentials
+- vocab:
+    content: electronic authentication
+- vocab:
+    content: electronic credentials
+- vocab:
+    content: passwords
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2022-12-16'
+    to: '2023-04-14'

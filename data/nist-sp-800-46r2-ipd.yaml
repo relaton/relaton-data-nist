@@ -1,0 +1,112 @@
+---
+id: NISTSP80046r2ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Guide to Enterprise Telework, Remote Access, and Bring Your Own Device (BYOD) Security
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/46/r2/ipd
+docidentifier:
+- content: NIST SP 800-46r2 ipd
+  type: NIST
+  primary: true
+date:
+- type: published
+  at: '2016-03-14'
+- type: obsoleted
+  at: '2016-07-29'
+- type: issued
+  at: '2016-03-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Murugiah
+      surname:
+        language: en
+        script: Latn
+        content: Souppaya
+      completename:
+        language: en
+        script: Latn
+        content: Murugiah P. Souppaya
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Karen
+      surname:
+        language: en
+        script: Latn
+        content: Scarfone
+      completename:
+        language: en
+        script: Latn
+        content: Karen A. Scarfone
+    affiliation:
+    - organization:
+        name:
+        - content: Scarfone Cybersecurity
+edition:
+  content: Revision 2
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: information security
+- vocab:
+    content: network security
+- vocab:
+    content: remote access
+- vocab:
+    content: telework
+- vocab:
+    content: host security
+- vocab:
+    content: bring your own device (BYOD)
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2016-03-14'
+    to: '2016-04-15'

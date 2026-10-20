@@ -1,11 +1,11 @@
 ---
 id: NISTSP80085B4ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: PIV Data Model Test Guidelines
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/85/b/4/ipd
@@ -14,10 +14,189 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2014-08-06'
+- type: obsoleted
+  at: '2023-03-17'
 - type: issued
-  at: 2014-08
+  at: '2014-08-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ramaswamy
+      surname:
+        language: en
+        script: Latn
+        content: Chandramouli
+      completename:
+        language: en
+        script: Latn
+        content: Ramaswamy Chandramouli
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Hildegard
+      surname:
+        language: en
+        script: Latn
+        content: Ferraiolo
+      completename:
+        language: en
+        script: Latn
+        content: Hildegard Ferraiolo
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ketan
+      surname:
+        language: en
+        script: Latn
+        content: Mehta
+      completename:
+        language: en
+        script: Latn
+        content: Ketan L. Mehta
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jason
+      surname:
+        language: en
+        script: Latn
+        content: Mohler
+      completename:
+        language: en
+        script: Latn
+        content: Jason Mohler
+    affiliation:
+    - organization:
+        name:
+        - content: Electrosoft Services
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Lam
+      surname:
+        language: en
+        script: Latn
+        content: Ly
+      completename:
+        language: en
+        script: Latn
+        content: Lam Ly
+    affiliation:
+    - organization:
+        name:
+        - content: Electrosoft Services
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Gregory
+      surname:
+        language: en
+        script: Latn
+        content: Hollenbaugh
+      completename:
+        language: en
+        script: Latn
+        content: Gregory Hollenbaugh
+    affiliation:
+    - organization:
+        name:
+        - content: Electrosoft Services
+edition:
+  content: Revision 4
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: retired
+  iteration: '1'
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: certificate conformance test
+- vocab:
+    content: FIPS 201
+- vocab:
+    content: identity credential
+- vocab:
+    content: implementation under test (IUT)
+- vocab:
+    content: PIV data model
+- vocab:
+    content: Personal Identity Verification (PIV)
+- vocab:
+    content: smart cards
+- vocab:
+    content: biometrics
+- vocab:
+    content: BER-TLV testing
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2014-08-06'
+    to: '2014-09-05'

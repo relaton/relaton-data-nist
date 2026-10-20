@@ -1,11 +1,11 @@
 ---
 id: NISTSP500299ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: NIST Cloud Computing Security Reference Architecture
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/500/299/ipd
@@ -14,8 +14,49 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2013-05-05'
+- type: obsoleted
+  at: '2018-05-05'
 - type: issued
-  at: 2013-05
+  at: '2013-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: National Institute of Standards and Technology
+    abbreviation:
+      content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: retired
+  iteration: '1'
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: computer security
+- vocab:
+    content: cloud computing
 ext:
   schema_version: v1.1.2
   doctype:

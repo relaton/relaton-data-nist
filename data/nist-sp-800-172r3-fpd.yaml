@@ -1,0 +1,138 @@
+---
+id: NISTSP800172r3fpd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Enhanced Security Requirements for Protecting Controlled Unclassified Information
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/172/r3/fpd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-172r3.fpd
+docidentifier:
+- content: NIST SP 800-172r3 fpd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-172r3.fpd
+  type: DOI
+date:
+- type: published
+  at: '2025-09-29'
+- type: obsoleted
+  at: '2026-05-13'
+- type: issued
+  at: '2025-09-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      prefix:
+      - language: en
+        script: Latn
+        content: Dr.
+      forename:
+      - language: en
+        script: Latn
+        content: Ron
+      surname:
+        language: en
+        script: Latn
+        content: Ross
+      completename:
+        language: en
+        script: Latn
+        content: Ron S. Ross
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Victoria
+      surname:
+        language: en
+        script: Latn
+        content: Pillitteri
+      completename:
+        language: en
+        script: Latn
+        content: Victoria Y. Pillitteri
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+edition:
+  content: Revision 3
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: final
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: advanced persistent threat
+- vocab:
+    content: contractor systems
+- vocab:
+    content: controlled unclassified information
+- vocab:
+    content: CUI registry
+- vocab:
+    content: enhanced security requirement
+- vocab:
+    content: Executive Order 13556
+- vocab:
+    content: FISMA
+- vocab:
+    content: NIST Special Publication 800-172
+- vocab:
+    content: NIST Special Publication 800-53
+- vocab:
+    content: nonfederal organizations
+- vocab:
+    content: nonfederal systems
+- vocab:
+    content: security assessment
+- vocab:
+    content: security control
+- vocab:
+    content: security requirement
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2025-09-29'
+    to: '2026-01-16'

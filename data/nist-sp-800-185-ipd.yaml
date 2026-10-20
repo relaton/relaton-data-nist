@@ -1,11 +1,11 @@
 ---
 id: NISTSP800185ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
-  content: SHA-3 Derived Functions
-  type: title-main
+  content: SHA-3 Derived Functions - cSHAKE, KMAC, TupleHash, and ParallelHash
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/185/ipd
@@ -14,10 +14,145 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2016-08-04'
+- type: obsoleted
+  at: '2016-12-22'
 - type: issued
-  at: 2016-08
+  at: '2016-08-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: John
+      surname:
+        language: en
+        script: Latn
+        content: Kelsey
+      completename:
+        language: en
+        script: Latn
+        content: John M. Kelsey
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Shu-jen
+      surname:
+        language: en
+        script: Latn
+        content: Chang
+      completename:
+        language: en
+        script: Latn
+        content: Shu-jen H. Chang
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ray
+      surname:
+        language: en
+        script: Latn
+        content: Perlner
+      completename:
+        language: en
+        script: Latn
+        content: Ray A. Perlner
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: retired
+  iteration: '1'
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: cryptography
+- vocab:
+    content: cSHAKE
+- vocab:
+    content: customizable SHAKE function
+- vocab:
+    content: hash function
+- vocab:
+    content: information security
+- vocab:
+    content: integrity
+- vocab:
+    content: KECCAK
+- vocab:
+    content: KMAC
+- vocab:
+    content: message authentication code
+- vocab:
+    content: parallel hashing
+- vocab:
+    content: ParallelHash
+- vocab:
+    content: PRF
+- vocab:
+    content: pseudorandom function
+- vocab:
+    content: SHA-3
+- vocab:
+    content: SHAKE
+- vocab:
+    content: tuple hashing
+- vocab:
+    content: authentication
+- vocab:
+    content: TupleHash
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2016-08-04'
+    to: '2016-09-30'

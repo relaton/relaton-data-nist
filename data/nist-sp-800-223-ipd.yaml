@@ -1,23 +1,356 @@
 ---
 id: NISTSP800223ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
-  content: High-Performance Computing (HPC) Security
-  type: title-main
+  content: High-Performance Computing (HPC) Security - Architecture, Threat Analysis, and Security Posture
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/223/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-223.ipd
 docidentifier:
 - content: NIST SP 800-223 ipd
   type: NIST
   primary: true
+- content: NIST.SP.800-223.ipd
+  type: DOI
 date:
+- type: published
+  at: '2023-02-06'
+- type: obsoleted
+  at: '2024-02-09'
 - type: issued
   at: '2023-02-06'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Yang
+      surname:
+        language: en
+        script: Latn
+        content: Guo
+      completename:
+        language: en
+        script: Latn
+        content: Yang Guo
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ramaswamy
+      surname:
+        language: en
+        script: Latn
+        content: Chandramouli
+      completename:
+        language: en
+        script: Latn
+        content: Ramaswamy Chandramouli
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Lowell
+      surname:
+        language: en
+        script: Latn
+        content: Wofford
+      completename:
+        language: en
+        script: Latn
+        content: Lowell Wofford
+    affiliation:
+    - organization:
+        name:
+        - content: Amazon.com
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Rickey
+      surname:
+        language: en
+        script: Latn
+        content: Gregg
+      completename:
+        language: en
+        script: Latn
+        content: Rickey Gregg
+    affiliation:
+    - organization:
+        name:
+        - content: HPCMP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Gary
+      surname:
+        language: en
+        script: Latn
+        content: Key
+      completename:
+        language: en
+        script: Latn
+        content: Gary Key
+    affiliation:
+    - organization:
+        name:
+        - content: HPCMP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Antwan
+      surname:
+        language: en
+        script: Latn
+        content: Clark
+      completename:
+        language: en
+        script: Latn
+        content: Antwan Clark
+    affiliation:
+    - organization:
+        name:
+        - content: Laboratory for Physical Sciences
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Catherine
+      surname:
+        language: en
+        script: Latn
+        content: Hinton
+      completename:
+        language: en
+        script: Latn
+        content: Catherine Hinton
+    affiliation:
+    - organization:
+        name:
+        - content: Los Alamos National Laboratory
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Andrew
+      surname:
+        language: en
+        script: Latn
+        content: Prout
+      completename:
+        language: en
+        script: Latn
+        content: Andrew Prout
+    affiliation:
+    - organization:
+        name:
+        - content: MIT Lincoln Laboratory
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Albert
+      surname:
+        language: en
+        script: Latn
+        content: Reuther
+      completename:
+        language: en
+        script: Latn
+        content: Albert Reuther
+    affiliation:
+    - organization:
+        name:
+        - content: MIT Lincoln Laboratory
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ryan
+      surname:
+        language: en
+        script: Latn
+        content: Adamson
+      completename:
+        language: en
+        script: Latn
+        content: Ryan Adamson
+    affiliation:
+    - organization:
+        name:
+        - content: Oak Ridge National Laboratory
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Aron
+      surname:
+        language: en
+        script: Latn
+        content: Warren
+      completename:
+        language: en
+        script: Latn
+        content: Aron Warren
+    affiliation:
+    - organization:
+        name:
+        - content: Sandia National Laboratories
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Purushotham
+      surname:
+        language: en
+        script: Latn
+        content: Bangalore
+      completename:
+        language: en
+        script: Latn
+        content: Purushotham Bangalore
+    affiliation:
+    - organization:
+        name:
+        - content: University of Alabama
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Erik
+      surname:
+        language: en
+        script: Latn
+        content: Deumens
+      completename:
+        language: en
+        script: Latn
+        content: Erik Deumens
+    affiliation:
+    - organization:
+        name:
+        - content: University of Florida
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Csilla
+      surname:
+        language: en
+        script: Latn
+        content: Farkas
+      completename:
+        language: en
+        script: Latn
+        content: Csilla Farkas
+    affiliation:
+    - organization:
+        name:
+        - content: University of South Carolina
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: high-performance computing (HPC)
+- vocab:
+    content: HPC security
+- vocab:
+    content: HPC reference model
+- vocab:
+    content: security guidance
+- vocab:
+    content: HPC threat analysis
+- vocab:
+    content: HPC security posture
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2023-02-06'
+    to: '2023-04-07'

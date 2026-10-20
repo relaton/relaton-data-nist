@@ -1,0 +1,146 @@
+---
+id: NISTSP80055v1ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Measurement Guide for Information Security - Volume 1 — Identifying and Selecting Measures
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/55/v1/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-55v1.ipd
+docidentifier:
+- content: NIST SP 800-55v1 ipd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-55v1.ipd
+  type: DOI
+date:
+- type: published
+  at: '2024-01-17'
+- type: obsoleted
+  at: '2024-12-04'
+- type: issued
+  at: '2024-01-17'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Katherine
+      surname:
+        language: en
+        script: Latn
+        content: Schroeder
+      completename:
+        language: en
+        script: Latn
+        content: Katherine Schroeder
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Hung
+      surname:
+        language: en
+        script: Latn
+        content: Trinh
+      completename:
+        language: en
+        script: Latn
+        content: Hung Trinh
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Victoria
+      surname:
+        language: en
+        script: Latn
+        content: Pillitteri
+      completename:
+        language: en
+        script: Latn
+        content: Victoria Y. Pillitteri
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: assessment
+- vocab:
+    content: information security
+- vocab:
+    content: measurement
+- vocab:
+    content: measures
+- vocab:
+    content: metrics
+- vocab:
+    content: performance
+- vocab:
+    content: qualitative
+- vocab:
+    content: quantitative
+- vocab:
+    content: reports
+- vocab:
+    content: security controls
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2024-01-17'
+    to: '2024-03-18'

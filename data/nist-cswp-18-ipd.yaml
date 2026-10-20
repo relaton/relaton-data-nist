@@ -1,0 +1,128 @@
+---
+id: NISTCSWP18ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Establishing Confidence in IoT Device Security - How do we get there?
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/cswp/18/establishing-confidence-in-iot-device-security/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.CSWP.18.ipd
+docidentifier:
+- content: NIST CSWP 18 ipd
+  type: NIST
+  primary: true
+- content: NIST.CSWP.18.ipd
+  type: DOI
+date:
+- type: published
+  at: '2021-05-14'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Katerina
+      surname:
+        language: en
+        script: Latn
+        content: Megas
+      completename:
+        language: en
+        script: Latn
+        content: Katerina N. Megas
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Barbara
+      surname:
+        language: en
+        script: Latn
+        content: Cuthill
+      completename:
+        language: en
+        script: Latn
+        content: Barbara B. Cuthill
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Sarbari
+      surname:
+        language: en
+        script: Latn
+        content: Gupta
+      completename:
+        language: en
+        script: Latn
+        content: Sarbari Gupta
+    affiliation:
+    - organization:
+        name:
+        - content: Electrosoft Services
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: active
+  iteration: '1'
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: conformance testing
+- vocab:
+    content: cybersecurity
+- vocab:
+    content: Internet of Things
+- vocab:
+    content: labelling
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2021-05-14'
+    to: '2021-06-14'

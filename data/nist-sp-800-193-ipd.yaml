@@ -1,11 +1,11 @@
 ---
 id: NISTSP800193ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Platform Firmware Resiliency Guidelines
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/193/ipd
@@ -14,10 +14,75 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2017-05-30'
+- type: obsoleted
+  at: '2018-05-04'
 - type: issued
-  at: 2017-05
+  at: '2017-05-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Andrew
+      surname:
+        language: en
+        script: Latn
+        content: Regenscheid
+      completename:
+        language: en
+        script: Latn
+        content: Andrew R. Regenscheid
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: BIOS
+- vocab:
+    content: Code signing
+- vocab:
+    content: Firmware
+- vocab:
+    content: Option ROM
+- vocab:
+    content: Platform Firmware
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2017-05-30'
+    to: '2017-07-14'

@@ -1,11 +1,11 @@
 ---
 id: NISTSP180029ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
-  content: Data Confidentiality
-  type: title-main
+  content: Data Confidentiality - Detect, Respond to, and Recover from Data Breaches
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/1800/29/ipd
@@ -14,10 +14,175 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2023-12-13'
+- type: obsoleted
+  at: '2024-02-23'
 - type: issued
   at: '2023-12-13'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: William
+      surname:
+        language: en
+        script: Latn
+        content: Fisher
+      completename:
+        language: en
+        script: Latn
+        content: William J. Fisher
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: R.
+      surname:
+        language: en
+        script: Latn
+        content: Craft
+      completename:
+        language: en
+        script: Latn
+        content: R. Eugene Craft
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Ekstrom
+      completename:
+        language: en
+        script: Latn
+        content: Michael R. Ekstrom
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Julian
+      surname:
+        language: en
+        script: Latn
+        content: Sexton
+      completename:
+        language: en
+        script: Latn
+        content: Julian T. Sexton
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: John
+      surname:
+        language: en
+        script: Latn
+        content: Sweetnam
+      completename:
+        language: en
+        script: Latn
+        content: John E. Sweetnam
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: asset management
+- vocab:
+    content: cybersecurity framework
+- vocab:
+    content: data breach
+- vocab:
+    content: data confidentiality
+- vocab:
+    content: data protection
+- vocab:
+    content: detect
+- vocab:
+    content: malicious actor
+- vocab:
+    content: malware
+- vocab:
+    content: ransomware
+- vocab:
+    content: recover
+- vocab:
+    content: respond
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2023-12-13'
+    to: '2024-01-24'

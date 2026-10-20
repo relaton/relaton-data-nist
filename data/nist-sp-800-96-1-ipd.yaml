@@ -1,11 +1,11 @@
 ---
 id: NISTSP800961ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: PIV Card to Reader Interoperability Guidelines
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/96/1/ipd
@@ -13,6 +13,58 @@ docidentifier:
 - content: NIST SP 800-96-1 ipd
   type: NIST
   primary: true
+date:
+- type: published
+  at: '2023-12-31'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Hildegard
+      surname:
+        language: en
+        script: Latn
+        content: Ferraiolo
+      completename:
+        language: en
+        script: Latn
+        content: Hildegard Ferraiolo
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+edition:
+  content: Revision 1
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: active
+  iteration: '1'
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,0 +1,210 @@
+---
+id: NISTSP800121r2ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Guide to Bluetooth Security
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/121/r2/ipd
+docidentifier:
+- content: NIST SP 800-121r2 ipd
+  type: NIST
+  primary: true
+date:
+- type: published
+  at: '2016-10-17'
+- type: obsoleted
+  at: '2017-05-08'
+- type: issued
+  at: '2016-10-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: John
+      surname:
+        language: en
+        script: Latn
+        content: Padgette
+      completename:
+        language: en
+        script: Latn
+        content: John Padgette
+    affiliation:
+    - organization:
+        name:
+        - content: Accenture Federal Services
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: John
+      surname:
+        language: en
+        script: Latn
+        content: Bahr
+      completename:
+        language: en
+        script: Latn
+        content: John Bahr
+    affiliation:
+    - organization:
+        name:
+        - content: Bahr Engineering
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Mayank
+      surname:
+        language: en
+        script: Latn
+        content: Batra
+      completename:
+        language: en
+        script: Latn
+        content: Mayank Batra
+    affiliation:
+    - organization:
+        name:
+        - content: Qualcomm Technologies International
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Marcel
+      surname:
+        language: en
+        script: Latn
+        content: Holtmann
+      completename:
+        language: en
+        script: Latn
+        content: Marcel Holtmann
+    affiliation:
+    - organization:
+        name:
+        - content: Intel
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Rhonda
+      surname:
+        language: en
+        script: Latn
+        content: Smithbey
+      completename:
+        language: en
+        script: Latn
+        content: Rhonda Smithbey
+    affiliation:
+    - organization:
+        name:
+        - content: Spanalytics
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Lily
+      surname:
+        language: en
+        script: Latn
+        content: Chen
+      completename:
+        language: en
+        script: Latn
+        content: Lily Chen
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Karen
+      surname:
+        language: en
+        script: Latn
+        content: Scarfone
+      completename:
+        language: en
+        script: Latn
+        content: Karen A. Scarfone
+    affiliation:
+    - organization:
+        name:
+        - content: Scarfone Cybersecurity
+edition:
+  content: Revision 2
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: network security
+- vocab:
+    content: wireless networking
+- vocab:
+    content: wireless personal area networks
+- vocab:
+    content: information security
+- vocab:
+    content: Bluetooth
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2016-10-17'
+    to: '2016-12-05'

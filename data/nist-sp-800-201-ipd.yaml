@@ -1,23 +1,260 @@
 ---
 id: NISTSP800201ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: NIST Cloud Computing Forensic Reference Architecture
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/201/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-201.ipd
 docidentifier:
 - content: NIST SP 800-201 ipd
   type: NIST
   primary: true
+- content: NIST.SP.800-201.ipd
+  type: DOI
 date:
+- type: published
+  at: '2023-02-08'
+- type: obsoleted
+  at: '2024-07-30'
 - type: issued
   at: '2023-02-08'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Martin
+      surname:
+        language: en
+        script: Latn
+        content: Herman
+      completename:
+        language: en
+        script: Latn
+        content: Martin Herman
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michaela
+      surname:
+        language: en
+        script: Latn
+        content: Iorga
+      completename:
+        language: en
+        script: Latn
+        content: Michaela Iorga
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ahsen Michael
+      surname:
+        language: en
+        script: Latn
+        content: Salim
+      completename:
+        language: en
+        script: Latn
+        content: Ahsen Michael Salim
+    affiliation:
+    - organization:
+        name:
+        - content: American Data Technology
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Robert
+      surname:
+        language: en
+        script: Latn
+        content: Jackson
+      completename:
+        language: en
+        script: Latn
+        content: Robert H. Jackson
+    affiliation:
+    - organization:
+        name:
+        - content: SphereCom Enterprises
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Mark
+      surname:
+        language: en
+        script: Latn
+        content: Hurst
+      completename:
+        language: en
+        script: Latn
+        content: Mark R. Hurst
+    affiliation:
+    - organization:
+        name:
+        - content: SphereCom Enterprises
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ross
+      surname:
+        language: en
+        script: Latn
+        content: Leo
+      completename:
+        language: en
+        script: Latn
+        content: Ross Leo
+    affiliation:
+    - organization:
+        name:
+        - content: University of Houston-Clear Lake
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Anand Kumar
+      surname:
+        language: en
+        script: Latn
+        content: Mishra
+      completename:
+        language: en
+        script: Latn
+        content: Anand Kumar Mishra
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Technology Sikkim
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Nancy
+      surname:
+        language: en
+        script: Latn
+        content: Landreville
+      completename:
+        language: en
+        script: Latn
+        content: Nancy M. Landreville
+    affiliation:
+    - organization:
+        name:
+        - content: University of Maryland Global Campus
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Yien
+      surname:
+        language: en
+        script: Latn
+        content: Wang
+      completename:
+        language: en
+        script: Latn
+        content: Yien Wang
+    affiliation:
+    - organization:
+        name:
+        - content: Auburn University
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: civil litigation
+- vocab:
+    content: criminal investigation
+- vocab:
+    content: cybersecurity
+- vocab:
+    content: digital forensics
+- vocab:
+    content: enterprise architecture
+- vocab:
+    content: enterprise operations
+- vocab:
+    content: forensic readiness
+- vocab:
+    content: incident response
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2023-02-08'
+    to: '2023-03-31'

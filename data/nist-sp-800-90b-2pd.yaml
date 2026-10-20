@@ -1,0 +1,210 @@
+---
+id: NISTSP80090B2pd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Recommendation for the Entropy Sources Used for Random Bit Generation
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/90/b/2pd
+docidentifier:
+- content: NIST SP 800-90B 2pd
+  type: NIST
+  primary: true
+date:
+- type: published
+  at: '2016-01-27'
+- type: obsoleted
+  at: '2018-01-10'
+- type: issued
+  at: '2016-01-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      prefix:
+      - language: en
+        script: Latn
+        content: Dr.
+      forename:
+      - language: en
+        script: Latn
+        content: Meltem
+      surname:
+        language: en
+        script: Latn
+        content: Sönmez Turan
+      completename:
+        language: en
+        script: Latn
+        content: Meltem Sönmez Turan
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Elaine
+      surname:
+        language: en
+        script: Latn
+        content: Barker
+      completename:
+        language: en
+        script: Latn
+        content: Elaine B. Barker
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: John
+      surname:
+        language: en
+        script: Latn
+        content: Kelsey
+      completename:
+        language: en
+        script: Latn
+        content: John M. Kelsey
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kerry
+      surname:
+        language: en
+        script: Latn
+        content: McKay
+      completename:
+        language: en
+        script: Latn
+        content: Kerry A. McKay
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Mary
+      surname:
+        language: en
+        script: Latn
+        content: Baish
+      completename:
+        language: en
+        script: Latn
+        content: Mary L. Baish
+    affiliation:
+    - organization:
+        name:
+        - content: National Security Agency
+        abbreviation:
+          content: NSA
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Boyle
+      completename:
+        language: en
+        script: Latn
+        content: Michael Boyle
+    affiliation:
+    - organization:
+        name:
+        - content: National Security Agency
+        abbreviation:
+          content: NSA
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: retired
+  iteration: '2'
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: noise source
+- vocab:
+    content: predictors
+- vocab:
+    content: conditioning functions
+- vocab:
+    content: health testing
+- vocab:
+    content: Entropy source
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: random number generators
+- vocab:
+    content: min-entropy
+- vocab:
+    content: IID testing
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2016-01-27'
+    to: '2016-05-09'

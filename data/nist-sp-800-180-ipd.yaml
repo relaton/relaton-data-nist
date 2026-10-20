@@ -1,11 +1,11 @@
 ---
 id: NISTSP800180ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: NIST Definition of Microservices, Application Containers and System Virtual Machines
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/180/ipd
@@ -14,10 +14,115 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2016-02-18'
+- type: obsoleted
+  at: '2025-01-21'
 - type: issued
-  at: 2016-02
+  at: '2016-02-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Anil
+      surname:
+        language: en
+        script: Latn
+        content: Karmel
+      completename:
+        language: en
+        script: Latn
+        content: Anil Karmel
+    affiliation:
+    - organization:
+        name:
+        - content: C2 Labs
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ramaswamy
+      surname:
+        language: en
+        script: Latn
+        content: Chandramouli
+      completename:
+        language: en
+        script: Latn
+        content: Ramaswamy Chandramouli
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michaela
+      surname:
+        language: en
+        script: Latn
+        content: Iorga
+      completename:
+        language: en
+        script: Latn
+        content: Michaela Iorga
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: retired
+  iteration: '1'
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: System Virtual Machines
+- vocab:
+    content: Microservices
+- vocab:
+    content: Application Containers
+- vocab:
+    content: Services Oriented Architecture
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2016-02-18'
+    to: '2016-03-18'

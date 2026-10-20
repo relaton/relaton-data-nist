@@ -1,11 +1,11 @@
 ---
 id: NISTSP18005ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
-  content: IT Asset Management
-  type: title-main
+  content: IT Asset Management - Financial Services
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/1800/5/ipd
@@ -14,10 +14,169 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2015-10-26'
+- type: obsoleted
+  at: '2018-09-07'
 - type: issued
-  at: 2015-10
+  at: '2015-10-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Stone
+      completename:
+        language: en
+        script: Latn
+        content: Michael Stone
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Chinedum
+      surname:
+        language: en
+        script: Latn
+        content: Irrechukwu
+      completename:
+        language: en
+        script: Latn
+        content: Chinedum Irrechukwu
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Harry
+      surname:
+        language: en
+        script: Latn
+        content: Perper
+      completename:
+        language: en
+        script: Latn
+        content: Harry Perper
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Devin
+      surname:
+        language: en
+        script: Latn
+        content: Wynne
+      completename:
+        language: en
+        script: Latn
+        content: Devin Wynne
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Leah
+      surname:
+        language: en
+        script: Latn
+        content: Kauffman
+      completename:
+        language: en
+        script: Latn
+        content: Leah R. Kauffman
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: financial sector
+- vocab:
+    content: asset management
+- vocab:
+    content: information technology asset management (ITAM)
+- vocab:
+    content: information technology &nbsp
+- vocab:
+    content: physical security
+- vocab:
+    content: cybersecurity
+- vocab:
+    content: operational security
+- vocab:
+    content: personnel security
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2015-10-26'
+    to: '2016-01-08'

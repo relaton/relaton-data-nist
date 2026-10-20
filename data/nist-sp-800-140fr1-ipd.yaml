@@ -1,0 +1,108 @@
+---
+id: NISTSP800140Fr1ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: CMVP Approved Non-Invasive Attack Mitigation Test Metrics - CMVP Validation Authority Updates to ISO/IEC 24759
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/140/f/r1/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-140Fr1-draft
+docidentifier:
+- content: NIST SP 800-140Fr1 ipd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-140Fr1-draft
+  type: DOI
+date:
+- type: published
+  at: '2021-08-20'
+- type: issued
+  at: '2021-08-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      prefix:
+      - language: en
+        script: Latn
+        content: Dr.
+      forename:
+      - language: en
+        script: Latn
+        content: Kim
+      surname:
+        language: en
+        script: Latn
+        content: Schaffer
+      completename:
+        language: en
+        script: Latn
+        content: Kim Schaffer
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+edition:
+  content: Revision 1
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: active
+  iteration: '1'
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: attack mitigation
+- vocab:
+    content: Cryptographic Module Validation Program
+- vocab:
+    content: CMVP
+- vocab:
+    content: FIPS 140 testing
+- vocab:
+    content: FIPS 140
+- vocab:
+    content: ISO/IEC 19790
+- vocab:
+    content: ISO/IEC 24759
+- vocab:
+    content: non-invasive
+- vocab:
+    content: testing requirement
+- vocab:
+    content: vendor evidence
+- vocab:
+    content: vendor documentation
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2021-08-20'
+    to: '2021-09-20'

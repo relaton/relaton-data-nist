@@ -1,0 +1,268 @@
+---
+id: NISTSP80018r2ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Developing Security, Privacy, and Cybersecurity Supply Chain Risk Management Plans for Systems
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/18/r2/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-18r2.ipd
+docidentifier:
+- content: NIST SP 800-18r2 ipd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-18r2.ipd
+  type: DOI
+date:
+- type: published
+  at: '2025-06-04'
+- type: obsoleted
+  at: '2026-06-30'
+- type: issued
+  at: '2025-06-04'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jeremy
+      surname:
+        language: en
+        script: Latn
+        content: Licata
+      completename:
+        language: en
+        script: Latn
+        content: Jeremy Licata
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Rebecca
+      surname:
+        language: en
+        script: Latn
+        content: McWhite
+      completename:
+        language: en
+        script: Latn
+        content: Rebecca McWhite
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Laura
+      surname:
+        language: en
+        script: Latn
+        content: Calloway
+      completename:
+        language: en
+        script: Latn
+        content: Laura Calloway
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Dylan
+      surname:
+        language: en
+        script: Latn
+        content: Gilbert
+      completename:
+        language: en
+        script: Latn
+        content: Dylan Gilbert
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Meghan
+      surname:
+        language: en
+        script: Latn
+        content: Anderson
+      completename:
+        language: en
+        script: Latn
+        content: Meghan Anderson
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Julie
+      surname:
+        language: en
+        script: Latn
+        content: Snyder
+      completename:
+        language: en
+        script: Latn
+        content: Julie Snyder
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jeremy
+      surname:
+        language: en
+        script: Latn
+        content: Miller
+      completename:
+        language: en
+        script: Latn
+        content: Jeremy Miller
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+edition:
+  content: Revision 2
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: authorization boundary
+- vocab:
+    content: authorizing official
+- vocab:
+    content: common control authorization
+- vocab:
+    content: control implementation details
+- vocab:
+    content: cybersecurity supply chain risk management plan
+- vocab:
+    content: privacy plan
+- vocab:
+    content: privacy risk management
+- vocab:
+    content: risk management framework
+- vocab:
+    content: security plan
+- vocab:
+    content: security risk management
+- vocab:
+    content: authorization to operate
+- vocab:
+    content: authorization to use
+- vocab:
+    content: authorizing official designated representative
+- vocab:
+    content: CASES Act
+- vocab:
+    content: control implementation
+- vocab:
+    content: controls
+- vocab:
+    content: FASCSA
+- vocab:
+    content: FISMA
+- vocab:
+    content: ongoing authorization
+- vocab:
+    content: Privacy Act
+- vocab:
+    content: privacy plan
+- vocab:
+    content: supply chain
+- vocab:
+    content: supply chain risk management
+- vocab:
+    content: system privacy plan
+- vocab:
+    content: system security plan
+- vocab:
+    content: system owner
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2025-06-04'
+    to: '2025-07-30'

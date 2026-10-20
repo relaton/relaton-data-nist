@@ -1,0 +1,130 @@
+---
+id: NISTSP80038Er1ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Recommendation for Block Cipher Modes of Operation - XTS-AES Mode for Confidentiality on Storage Devices
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/38/e/r1/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-38Er1.ipd
+docidentifier:
+- content: NIST SP 800-38Er1 ipd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-38Er1.ipd
+  type: DOI
+date:
+- type: published
+  at: '2026-09-03'
+- type: issued
+  at: '2026-09-03'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      prefix:
+      - language: en
+        script: Latn
+        content: Dr.
+      forename:
+      - language: en
+        script: Latn
+        content: Meltem
+      surname:
+        language: en
+        script: Latn
+        content: Sönmez Turan
+      completename:
+        language: en
+        script: Latn
+        content: Meltem Sönmez Turan
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Eric
+      surname:
+        language: en
+        script: Latn
+        content: Hibbard
+      completename:
+        language: en
+        script: Latn
+        content: Eric A. Hibbard
+    affiliation:
+    - organization:
+        name:
+        - content: Samsung Semiconductor
+edition:
+  content: Revision 1
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: active
+  iteration: '1'
+copyright:
+- from: '2026'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: Advanced Encryption Standard (AES)
+- vocab:
+    content: block cipher
+- vocab:
+    content: ciphertext stealing
+- vocab:
+    content: confidentiality
+- vocab:
+    content: cryptography
+- vocab:
+    content: data at rest
+- vocab:
+    content: encryption
+- vocab:
+    content: information security
+- vocab:
+    content: key scope
+- vocab:
+    content: mode of operation
+- vocab:
+    content: storage device
+- vocab:
+    content: tweakable block cipher
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2026-09-03'
+    to: '2026-10-16'

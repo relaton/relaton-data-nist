@@ -1,11 +1,11 @@
 ---
 id: NISTSP18009ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Access Rights Management for the Financial Services Sector
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/1800/9/ipd
@@ -14,10 +14,231 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2017-08-31'
+- type: obsoleted
+  at: '2022-07-22'
 - type: issued
-  at: 2017-08
+  at: '2017-08-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jim
+      surname:
+        language: en
+        script: Latn
+        content: Banoczi
+      completename:
+        language: en
+        script: Latn
+        content: Jim Banoczi
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Sallie
+      surname:
+        language: en
+        script: Latn
+        content: Edwards
+      completename:
+        language: en
+        script: Latn
+        content: Sallie Edwards
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Chinedum
+      surname:
+        language: en
+        script: Latn
+        content: Irrechukwu
+      completename:
+        language: en
+        script: Latn
+        content: Chinedum Irrechukwu
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Joshua
+      surname:
+        language: en
+        script: Latn
+        content: Klosterman
+      completename:
+        language: en
+        script: Latn
+        content: Joshua Klosterman
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Harry
+      surname:
+        language: en
+        script: Latn
+        content: Perper
+      completename:
+        language: en
+        script: Latn
+        content: Harry Perper
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Susan
+      surname:
+        language: en
+        script: Latn
+        content: Prince
+      completename:
+        language: en
+        script: Latn
+        content: Susan Prince
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Susan
+      surname:
+        language: en
+        script: Latn
+        content: Symington
+      completename:
+        language: en
+        script: Latn
+        content: Susan Symington
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Devin
+      surname:
+        language: en
+        script: Latn
+        content: Wynne
+      completename:
+        language: en
+        script: Latn
+        content: Devin Wynne
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: retired
+  iteration: '1'
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: access
+- vocab:
+    content: authentication
+- vocab:
+    content: authorization
+- vocab:
+    content: cybersecurity
+- vocab:
+    content: directory
+- vocab:
+    content: provisioning
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2017-08-31'
+    to: '2017-10-31'

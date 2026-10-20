@@ -1,0 +1,110 @@
+---
+id: NISTSP800140Dr12pd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: CMVP Approved Sensitive Parameter Generation and Establishment Methods - CMVP Validation Authority Updates to ISO/IEC 24759
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/140/d/r1/2pd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-140Dr1-draft2
+docidentifier:
+- content: NIST SP 800-140Dr1 2pd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-140Dr1-draft2
+  type: DOI
+date:
+- type: published
+  at: '2022-02-10'
+- type: obsoleted
+  at: '2022-05-20'
+- type: issued
+  at: '2022-02-10'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      prefix:
+      - language: en
+        script: Latn
+        content: Dr.
+      forename:
+      - language: en
+        script: Latn
+        content: Kim
+      surname:
+        language: en
+        script: Latn
+        content: Schaffer
+      completename:
+        language: en
+        script: Latn
+        content: Kim Schaffer
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+edition:
+  content: Revision 1
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '2'
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: Cryptographic Module Validation Program
+- vocab:
+    content: CMVP
+- vocab:
+    content: FIPS 140 testing
+- vocab:
+    content: FIPS 140-3
+- vocab:
+    content: ISO/IEC 19790
+- vocab:
+    content: testing requirement
+- vocab:
+    content: vendor evidence
+- vocab:
+    content: vendor documentation
+- vocab:
+    content: ISO/IEC 24759
+- vocab:
+    content: sensitive security parameter establishment methods
+- vocab:
+    content: sensitive security parameter generation
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2022-02-10'
+    to: '2022-03-25'

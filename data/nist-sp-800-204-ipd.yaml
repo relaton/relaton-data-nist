@@ -1,23 +1,96 @@
 ---
 id: NISTSP800204ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Security Strategies for Microservices-based Application Systems
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/204/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-204-draft
 docidentifier:
 - content: NIST SP 800-204 ipd
   type: NIST
   primary: true
+- content: NIST.SP.800-204-draft
+  type: DOI
 date:
+- type: published
+  at: '2019-03-25'
+- type: obsoleted
+  at: '2019-08-07'
 - type: issued
-  at: 2019-03
+  at: '2019-03-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ramaswamy
+      surname:
+        language: en
+        script: Latn
+        content: Chandramouli
+      completename:
+        language: en
+        script: Latn
+        content: Ramaswamy Chandramouli
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: microservices
+- vocab:
+    content: load balancing
+- vocab:
+    content: circuit breaker
+- vocab:
+    content: Application Programming Interface (API)
+- vocab:
+    content: API gateway
+- vocab:
+    content: service mesh
+- vocab:
+    content: proxy
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2019-03-25'
+    to: '2019-04-26'

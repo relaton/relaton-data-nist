@@ -1,23 +1,208 @@
 ---
 id: NISTSP800137Aipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
-  content: Assessing Information Security Continuous Monitoring (ISCM) Programs
-  type: title-main
+  content: Assessing Information Security Continuous Monitoring (ISCM) Programs - Developing an ISCM Program Assessment
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/137/a/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-137A-draft
 docidentifier:
 - content: NIST SP 800-137A ipd
   type: NIST
   primary: true
+- content: NIST.SP.800-137A-draft
+  type: DOI
 date:
+- type: published
+  at: '2020-01-13'
+- type: obsoleted
+  at: '2020-05-21'
 - type: issued
-  at: 2020-01
+  at: '2020-01-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kelley
+      surname:
+        language: en
+        script: Latn
+        content: Dempsey
+      completename:
+        language: en
+        script: Latn
+        content: Kelley L. Dempsey
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Victoria
+      surname:
+        language: en
+        script: Latn
+        content: Pillitteri
+      completename:
+        language: en
+        script: Latn
+        content: Victoria Y. Pillitteri
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Chad
+      surname:
+        language: en
+        script: Latn
+        content: Baer
+      completename:
+        language: en
+        script: Latn
+        content: Chad Baer
+    affiliation:
+    - organization:
+        name:
+        - content: Cybersecurity and Infrastructure Security Agency
+        abbreviation:
+          content: CISA
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Robert
+      surname:
+        language: en
+        script: Latn
+        content: Niemeyer
+      completename:
+        language: en
+        script: Latn
+        content: Robert Niemeyer
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ron
+      surname:
+        language: en
+        script: Latn
+        content: Rudman
+      completename:
+        language: en
+        script: Latn
+        content: Ron Rudman
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Susan
+      surname:
+        language: en
+        script: Latn
+        content: Urban
+      completename:
+        language: en
+        script: Latn
+        content: Susan Urban
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: assessment
+- vocab:
+    content: assessment element
+- vocab:
+    content: assessment methodology
+- vocab:
+    content: assessment procedure
+- vocab:
+    content: continuous monitoring
+- vocab:
+    content: information security continuous monitoring
+- vocab:
+    content: ISCM program
+- vocab:
+    content: ISCM program assessment
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2020-01-13'
+    to: '2020-02-28'

@@ -1,23 +1,192 @@
 ---
 id: NISTSP800210ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: General Access Control Guidance for Cloud Systems
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/210/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-210-draft
 docidentifier:
 - content: NIST SP 800-210 ipd
   type: NIST
   primary: true
+- content: NIST.SP.800-210-draft
+  type: DOI
 date:
+- type: published
+  at: '2020-04-01'
+- type: obsoleted
+  at: '2020-07-31'
 - type: issued
-  at: 2020-04
+  at: '2020-04-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Vincent
+      surname:
+        language: en
+        script: Latn
+        content: Hu
+      completename:
+        language: en
+        script: Latn
+        content: Vincent C. Hu
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michaela
+      surname:
+        language: en
+        script: Latn
+        content: Iorga
+      completename:
+        language: en
+        script: Latn
+        content: Michaela Iorga
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Wei
+      surname:
+        language: en
+        script: Latn
+        content: Bao
+      completename:
+        language: en
+        script: Latn
+        content: Wei Bao
+    affiliation:
+    - organization:
+        name:
+        - content: University of Arkansas
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ang
+      surname:
+        language: en
+        script: Latn
+        content: Li
+      completename:
+        language: en
+        script: Latn
+        content: Ang Li
+    affiliation:
+    - organization:
+        name:
+        - content: University of Arkansas
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Qinghua
+      surname:
+        language: en
+        script: Latn
+        content: Li
+      completename:
+        language: en
+        script: Latn
+        content: Qinghua Li
+    affiliation:
+    - organization:
+        name:
+        - content: University of Arkansas
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Antonios
+      surname:
+        language: en
+        script: Latn
+        content: Gouglidis
+      completename:
+        language: en
+        script: Latn
+        content: Antonios Gouglidis
+    affiliation:
+    - organization:
+        name:
+        - content: Lancaster University
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: access control
+- vocab:
+    content: access control mechanism
+- vocab:
+    content: Cloud
+- vocab:
+    content: cloud systems
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2020-04-01'
+    to: '2020-05-15'

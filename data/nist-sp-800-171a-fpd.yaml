@@ -1,11 +1,11 @@
 ---
 id: NISTSP800171Afpd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Assessing Security Requirements for Controlled Unclassified Information
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/171/a/fpd
@@ -14,10 +14,149 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2018-02-20'
+- type: obsoleted
+  at: '2018-06-13'
 - type: issued
-  at: 2018-02
+  at: '2018-02-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      prefix:
+      - language: en
+        script: Latn
+        content: Dr.
+      forename:
+      - language: en
+        script: Latn
+        content: Ron
+      surname:
+        language: en
+        script: Latn
+        content: Ross
+      completename:
+        language: en
+        script: Latn
+        content: Ron S. Ross
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kelley
+      surname:
+        language: en
+        script: Latn
+        content: Dempsey
+      completename:
+        language: en
+        script: Latn
+        content: Kelley L. Dempsey
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Victoria
+      surname:
+        language: en
+        script: Latn
+        content: Pillitteri
+      completename:
+        language: en
+        script: Latn
+        content: Victoria Y. Pillitteri
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: final
+copyright:
+- from: '2018'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: assessment
+- vocab:
+    content: assessment method
+- vocab:
+    content: assessment object
+- vocab:
+    content: assessment procedure
+- vocab:
+    content: assurance
+- vocab:
+    content: basic security requirement
+- vocab:
+    content: Controlled Unclassified Information
+- vocab:
+    content: coverage
+- vocab:
+    content: CUI Registry
+- vocab:
+    content: depth
+- vocab:
+    content: derived security requirement
+- vocab:
+    content: Executive Order 13556
+- vocab:
+    content: FISMA
+- vocab:
+    content: NIST Special Publication 800-53
+- vocab:
+    content: nonfederal organization
+- vocab:
+    content: nonfederal system
+- vocab:
+    content: security assessment
+- vocab:
+    content: security control
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2018-02-20'
+    to: '2018-03-23'

@@ -1,11 +1,11 @@
 ---
 id: NISTSP18008ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Securing Wireless Infusion Pumps in Healthcare Delivery Organizations
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/1800/8/ipd
@@ -14,10 +14,205 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2017-05-08'
+- type: obsoleted
+  at: '2018-08-17'
 - type: issued
-  at: 2017-05
+  at: '2017-05-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Gavin
+      surname:
+        language: en
+        script: Latn
+        content: O'Brien
+      completename:
+        language: en
+        script: Latn
+        content: Gavin W. O'Brien
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Sallie
+      surname:
+        language: en
+        script: Latn
+        content: Edwards
+      completename:
+        language: en
+        script: Latn
+        content: Sallie Edwards
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kevin
+      surname:
+        language: en
+        script: Latn
+        content: Littlefield
+      completename:
+        language: en
+        script: Latn
+        content: Kevin Littlefield
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Neil
+      surname:
+        language: en
+        script: Latn
+        content: McNab
+      completename:
+        language: en
+        script: Latn
+        content: Neil McNab
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Sue
+      surname:
+        language: en
+        script: Latn
+        content: Wang
+      completename:
+        language: en
+        script: Latn
+        content: Sue Wang
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kangmin
+      surname:
+        language: en
+        script: Latn
+        content: Zheng
+      completename:
+        language: en
+        script: Latn
+        content: Kangmin Zheng
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: digital certificates
+- vocab:
+    content: encryption
+- vocab:
+    content: infusion pumps
+- vocab:
+    content: Internet of Things
+- vocab:
+    content: IoT
+- vocab:
+    content: medical devices
+- vocab:
+    content: network zoning
+- vocab:
+    content: pump servers
+- vocab:
+    content: questionnaire-based risk assessment
+- vocab:
+    content: segmentation
+- vocab:
+    content: VPN
+- vocab:
+    content: Wi-Fi
+- vocab:
+    content: wireless medical devices
+- vocab:
+    content: authorization
+- vocab:
+    content: authentication
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2017-05-08'
+    to: '2017-07-07'

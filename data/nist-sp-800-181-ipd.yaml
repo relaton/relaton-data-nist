@@ -1,11 +1,11 @@
 ---
 id: NISTSP800181ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
-  content: NICE Cybersecurity Workforce Framework (NCWF)
-  type: title-main
+  content: NICE Cybersecurity Workforce Framework (NCWF) - National Initiative for Cybersecurity Education
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/181/ipd
@@ -14,10 +14,149 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2016-11-02'
+- type: obsoleted
+  at: '2017-08-07'
 - type: issued
-  at: 2016-11
+  at: '2016-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: William
+      surname:
+        language: en
+        script: Latn
+        content: Newhouse
+      completename:
+        language: en
+        script: Latn
+        content: William D. Newhouse
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Stephanie
+      surname:
+        language: en
+        script: Latn
+        content: Keith
+      completename:
+        language: en
+        script: Latn
+        content: Stephanie Keith
+    affiliation:
+    - organization:
+        name:
+        - content: U.S. Department of Defense
+        abbreviation:
+          content: DoD
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Benjamin
+      surname:
+        language: en
+        script: Latn
+        content: Scribner
+      completename:
+        language: en
+        script: Latn
+        content: Benjamin Scribner
+    affiliation:
+    - organization:
+        name:
+        - content: U.S. Department of Homeland Security
+        abbreviation:
+          content: DHS
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Gregory
+      surname:
+        language: en
+        script: Latn
+        content: Witte
+      completename:
+        language: en
+        script: Latn
+        content: Gregory A. Witte
+    affiliation:
+    - organization:
+        name:
+        - content: G2
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: retired
+  iteration: '1'
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: cybersecurity
+- vocab:
+    content: cyberspace
+- vocab:
+    content: education
+- vocab:
+    content: knowledge
+- vocab:
+    content: role
+- vocab:
+    content: skill
+- vocab:
+    content: task
+- vocab:
+    content: training
+- vocab:
+    content: ability
+- vocab:
+    content: work role
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2016-11-02'
+    to: '2017-01-06'

@@ -1,11 +1,11 @@
 ---
 id: NISTSP180023ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
-  content: Energy Sector Asset Management
-  type: title-main
+  content: Energy Sector Asset Management - For Electric Utilities, Oil & Gas Industry
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/1800/23/ipd
@@ -14,10 +14,239 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2019-09-23'
+- type: obsoleted
+  at: '2020-05-20'
 - type: issued
-  at: 2019-09
+  at: '2019-09-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: James
+      surname:
+        language: en
+        script: Latn
+        content: McCarthy
+      completename:
+        language: en
+        script: Latn
+        content: James J. McCarthy
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Glen
+      surname:
+        language: en
+        script: Latn
+        content: Joy
+      completename:
+        language: en
+        script: Latn
+        content: Glen Joy
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Lauren
+      surname:
+        language: en
+        script: Latn
+        content: Acierto
+      completename:
+        language: en
+        script: Latn
+        content: Lauren Acierto
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jason
+      surname:
+        language: en
+        script: Latn
+        content: Kuruvilla
+      completename:
+        language: en
+        script: Latn
+        content: Jason Kuruvilla
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Titilayo
+      surname:
+        language: en
+        script: Latn
+        content: Ogunyale
+      completename:
+        language: en
+        script: Latn
+        content: Titilayo Ogunyale
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Nikolas
+      surname:
+        language: en
+        script: Latn
+        content: Urlaub
+      completename:
+        language: en
+        script: Latn
+        content: Nikolas Urlaub
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: John
+      surname:
+        language: en
+        script: Latn
+        content: Wiltberger
+      completename:
+        language: en
+        script: Latn
+        content: John Wiltberger
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Devin
+      surname:
+        language: en
+        script: Latn
+        content: Wynne
+      completename:
+        language: en
+        script: Latn
+        content: Devin Wynne
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: energy sector asset management
+- vocab:
+    content: ESAM
+- vocab:
+    content: ICS
+- vocab:
+    content: industrial control system
+- vocab:
+    content: malicious actor
+- vocab:
+    content: monitoring
+- vocab:
+    content: operational technology
+- vocab:
+    content: OT
+- vocab:
+    content: SCADA
+- vocab:
+    content: supervisory control and data acquisition
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2019-09-23'
+    to: '2019-11-25'

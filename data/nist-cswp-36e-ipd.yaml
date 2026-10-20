@@ -1,0 +1,198 @@
+---
+id: NISTCSWP36Eipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: 5G Network Security Design Principles - Applying 5G Cybersecurity and Privacy Capabilities
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/cswp/36/e/5g-network-security-design-principles/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.CSWP.36E.ipd
+docidentifier:
+- content: NIST CSWP 36E ipd
+  type: NIST
+  primary: true
+- content: NIST.CSWP.36E.ipd
+  type: DOI
+date:
+- type: published
+  at: '2025-06-17'
+- type: obsoleted
+  at: '2026-03-19'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Bartock
+      completename:
+        language: en
+        script: Latn
+        content: Michael Bartock
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jeffrey
+      surname:
+        language: en
+        script: Latn
+        content: Cichonski
+      completename:
+        language: en
+        script: Latn
+        content: Jeffrey A. Cichonski
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Murugiah
+      surname:
+        language: en
+        script: Latn
+        content: Souppaya
+      completename:
+        language: en
+        script: Latn
+        content: Murugiah P. Souppaya
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Karen
+      surname:
+        language: en
+        script: Latn
+        content: Scarfone
+      completename:
+        language: en
+        script: Latn
+        content: Karen A. Scarfone
+    affiliation:
+    - organization:
+        name:
+        - content: Scarfone Cybersecurity
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Parisa
+      surname:
+        language: en
+        script: Latn
+        content: Grayeli
+      completename:
+        language: en
+        script: Latn
+        content: Parisa Grayeli
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Sanjeev
+      surname:
+        language: en
+        script: Latn
+        content: Sharma
+      completename:
+        language: en
+        script: Latn
+        content: Sanjeev Sharma
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: 3GPP
+- vocab:
+    content: 5G
+- vocab:
+    content: cybersecurity
+- vocab:
+    content: privacy
+- vocab:
+    content: virtual routing and forwarding (VRF)
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2025-06-17'
+    to: '2025-07-17'

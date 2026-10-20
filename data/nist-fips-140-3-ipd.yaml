@@ -1,11 +1,11 @@
 ---
 id: NISTFIPS1403ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Security Requirements for Cryptographic Modules
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/fips/140-3/ipd
@@ -13,8 +13,75 @@ docidentifier:
 - content: NIST FIPS 140-3 ipd
   type: NIST
   primary: true
+date:
+- type: published
+  at: '2007-07-13'
+- type: obsoleted
+  at: '2009-12-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: National Institute of Standards and Technology
+edition:
+  content: Revision 3
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2007'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: computer security
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: telecommunication security
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: physical security
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: software security
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: cryptography
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: cryptographic modules
+- vocab:
+    content: "&nbsp"
+- vocab:
+    content: Federal Information Processing Standard (FIPS)
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2007-07-13'
+    to: '2007-10-11'

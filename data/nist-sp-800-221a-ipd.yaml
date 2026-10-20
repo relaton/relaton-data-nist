@@ -1,23 +1,266 @@
 ---
 id: NISTSP800221Aipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
-  content: Information and Communications Technology (ICT) Risk Outcomes
-  type: title-main
+  content: Information and Communications Technology (ICT) Risk Outcomes - Integrating ICT Risk Management Programs with the Enterprise Risk Portfolio
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/221/a/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-221A.ipd
 docidentifier:
 - content: NIST SP 800-221A ipd
   type: NIST
   primary: true
+- content: NIST.SP.800-221A.ipd
+  type: DOI
 date:
+- type: published
+  at: '2022-07-20'
+- type: obsoleted
+  at: '2023-11-17'
 - type: issued
   at: '2022-07-20'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Stephen
+      surname:
+        language: en
+        script: Latn
+        content: Quinn
+      completename:
+        language: en
+        script: Latn
+        content: Stephen D. Quinn
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Nahla
+      surname:
+        language: en
+        script: Latn
+        content: Ivy
+      completename:
+        language: en
+        script: Latn
+        content: Nahla Ivy
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Julie
+      surname:
+        language: en
+        script: Latn
+        content: Chua
+      completename:
+        language: en
+        script: Latn
+        content: Julie Chua
+    affiliation:
+    - organization:
+        name:
+        - content: U.S. Department of Health and Human Services
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Karen
+      surname:
+        language: en
+        script: Latn
+        content: Scarfone
+      completename:
+        language: en
+        script: Latn
+        content: Karen A. Scarfone
+    affiliation:
+    - organization:
+        name:
+        - content: Scarfone Cybersecurity
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Matthew
+      surname:
+        language: en
+        script: Latn
+        content: Barrett
+      completename:
+        language: en
+        script: Latn
+        content: Matthew P. Barrett
+    affiliation:
+    - organization:
+        name:
+        - content: CyberESI Consulting Group
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Larry
+      surname:
+        language: en
+        script: Latn
+        content: Feldman
+      completename:
+        language: en
+        script: Latn
+        content: Larry Feldman
+    affiliation:
+    - organization:
+        name:
+        - content: Huntington Ingalls Industries
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Daniel
+      surname:
+        language: en
+        script: Latn
+        content: Topper
+      completename:
+        language: en
+        script: Latn
+        content: Daniel Topper
+    affiliation:
+    - organization:
+        name:
+        - content: Huntington Ingalls Industries
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Gregory
+      surname:
+        language: en
+        script: Latn
+        content: Witte
+      completename:
+        language: en
+        script: Latn
+        content: Gregory A. Witte
+    affiliation:
+    - organization:
+        name:
+        - content: Huntington Ingalls Industries
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Robert
+      surname:
+        language: en
+        script: Latn
+        content: Gardner
+      completename:
+        language: en
+        script: Latn
+        content: Robert K. Gardner
+    affiliation:
+    - organization:
+        name:
+        - content: New World Technology Partners
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: enterprise risk management (ERM)
+- vocab:
+    content: enterprise risk profile (ERP)
+- vocab:
+    content: enterprise risk register (ERR)
+- vocab:
+    content: information and communication technology (ICT)
+- vocab:
+    content: ICT risk
+- vocab:
+    content: ICT risk management (ICTRM)
+- vocab:
+    content: ICT risk measurement
+- vocab:
+    content: ICT Risk Outcomes Framework (ICT ROF)
+- vocab:
+    content: risk appetite
+- vocab:
+    content: risk register
+- vocab:
+    content: risk tolerance
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2022-07-20'
+    to: '2022-09-06'

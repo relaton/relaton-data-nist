@@ -1,23 +1,420 @@
 ---
 id: NISTSP800234ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: High-Performance Computing (HPC) Security Overlay
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/234/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-234.ipd
 docidentifier:
 - content: NIST SP 800-234 ipd
   type: NIST
   primary: true
+- content: NIST.SP.800-234.ipd
+  type: DOI
 date:
+- type: published
+  at: '2025-05-01'
+- type: obsoleted
+  at: '2026-05-04'
 - type: issued
   at: '2025-05-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Yang
+      surname:
+        language: en
+        script: Latn
+        content: Guo
+      completename:
+        language: en
+        script: Latn
+        content: Yang Guo
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jeremy
+      surname:
+        language: en
+        script: Latn
+        content: Licata
+      completename:
+        language: en
+        script: Latn
+        content: Jeremy Licata
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jeff
+      surname:
+        language: en
+        script: Latn
+        content: Neel
+      completename:
+        language: en
+        script: Latn
+        content: Jeff Neel
+    affiliation:
+    - organization:
+        name:
+        - content: Argonne National Laboratory
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Gary
+      surname:
+        language: en
+        script: Latn
+        content: Key
+      completename:
+        language: en
+        script: Latn
+        content: Gary Key
+    affiliation:
+    - organization:
+        name:
+        - content: DoD HPCMP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: James
+      surname:
+        language: en
+        script: Latn
+        content: Waterman
+      completename:
+        language: en
+        script: Latn
+        content: James Waterman
+    affiliation:
+    - organization:
+        name:
+        - content: DoD HPCMP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ian
+      surname:
+        language: en
+        script: Latn
+        content: Lee
+      completename:
+        language: en
+        script: Latn
+        content: Ian Lee
+    affiliation:
+    - organization:
+        name:
+        - content: Lawrence Livermore National Laboratory
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Catherine
+      surname:
+        language: en
+        script: Latn
+        content: Hinton
+      completename:
+        language: en
+        script: Latn
+        content: Catherine Hinton
+    affiliation:
+    - organization:
+        name:
+        - content: Los Alamos National Laboratory
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: David
+      surname:
+        language: en
+        script: Latn
+        content: Shrader
+      completename:
+        language: en
+        script: Latn
+        content: David Shrader
+    affiliation:
+    - organization:
+        name:
+        - content: Los Alamos National Laboratory
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Andrew
+      surname:
+        language: en
+        script: Latn
+        content: Prout
+      completename:
+        language: en
+        script: Latn
+        content: Andrew Prout
+    affiliation:
+    - organization:
+        name:
+        - content: MIT Lincoln Laboratory
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Albert
+      surname:
+        language: en
+        script: Latn
+        content: Reuther
+      completename:
+        language: en
+        script: Latn
+        content: Albert Reuther
+    affiliation:
+    - organization:
+        name:
+        - content: MIT Lincoln Laboratory
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ted
+      surname:
+        language: en
+        script: Latn
+        content: Bohrer
+      completename:
+        language: en
+        script: Latn
+        content: Ted Bohrer
+    affiliation:
+    - organization:
+        name:
+        - content: National Aeronautics and Space Administration
+        abbreviation:
+          content: NASA
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Katsutoshi
+      surname:
+        language: en
+        script: Latn
+        content: Ishisoko
+      completename:
+        language: en
+        script: Latn
+        content: Katsutoshi Ishisoko
+    affiliation:
+    - organization:
+        name:
+        - content: National Aeronautics and Space Administration
+        abbreviation:
+          content: NASA
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kyle
+      surname:
+        language: en
+        script: Latn
+        content: Earley
+      completename:
+        language: en
+        script: Latn
+        content: Kyle Earley
+    affiliation:
+    - organization:
+        name:
+        - content: Ohio Supercomputer Center
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Aron
+      surname:
+        language: en
+        script: Latn
+        content: Warren
+      completename:
+        language: en
+        script: Latn
+        content: Aron Warren
+    affiliation:
+    - organization:
+        name:
+        - content: Sandia National Laboratories
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Tony
+      surname:
+        language: en
+        script: Latn
+        content: DeNardo
+      completename:
+        language: en
+        script: Latn
+        content: Tony DeNardo
+    affiliation:
+    - organization:
+        name:
+        - content: Sandia National Laboratories
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ian
+      surname:
+        language: en
+        script: Latn
+        content: Czarnezki
+      completename:
+        language: en
+        script: Latn
+        content: Ian Czarnezki
+    affiliation:
+    - organization:
+        name:
+        - content: University of Arkansas
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Erik
+      surname:
+        language: en
+        script: Latn
+        content: Deumens
+      completename:
+        language: en
+        script: Latn
+        content: Erik Deumens
+    affiliation:
+    - organization:
+        name:
+        - content: University of Florida
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: high-performance computing
+- vocab:
+    content: HPC reference architecture
+- vocab:
+    content: HPC security
+- vocab:
+    content: moderate control baselines
+- vocab:
+    content: security control
+- vocab:
+    content: security overlay
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2025-05-01'
+    to: '2025-08-04'

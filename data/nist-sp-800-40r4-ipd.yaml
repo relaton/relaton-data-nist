@@ -1,0 +1,116 @@
+---
+id: NISTSP80040r4ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Guide to Enterprise Patch Management Planning - Preventive Maintenance for Technology
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/40/r4/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-40r4-draft
+docidentifier:
+- content: NIST SP 800-40r4 ipd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-40r4-draft
+  type: DOI
+date:
+- type: published
+  at: '2021-11-17'
+- type: obsoleted
+  at: '2022-04-06'
+- type: issued
+  at: '2021-11-17'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Murugiah
+      surname:
+        language: en
+        script: Latn
+        content: Souppaya
+      completename:
+        language: en
+        script: Latn
+        content: Murugiah P. Souppaya
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Karen
+      surname:
+        language: en
+        script: Latn
+        content: Scarfone
+      completename:
+        language: en
+        script: Latn
+        content: Karen A. Scarfone
+    affiliation:
+    - organization:
+        name:
+        - content: Scarfone Cybersecurity
+edition:
+  content: Revision 4
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: enterprise patch management
+- vocab:
+    content: patch
+- vocab:
+    content: risk management
+- vocab:
+    content: update
+- vocab:
+    content: upgrade
+- vocab:
+    content: vulnerability management
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2021-11-17'
+    to: '2022-01-10'

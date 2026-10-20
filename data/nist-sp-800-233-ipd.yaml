@@ -1,23 +1,132 @@
 ---
 id: NISTSP800233ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: 'Service Mesh Proxy Models for Cloud-Native Applications '
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/233/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-233.ipd
 docidentifier:
 - content: NIST SP 800-233 ipd
   type: NIST
   primary: true
+- content: NIST.SP.800-233.ipd
+  type: DOI
 date:
+- type: published
+  at: '2024-07-19'
+- type: obsoleted
+  at: '2024-10-16'
 - type: issued
   at: '2024-07-19'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ramaswamy
+      surname:
+        language: en
+        script: Latn
+        content: Chandramouli
+      completename:
+        language: en
+        script: Latn
+        content: Ramaswamy Chandramouli
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Zack
+      surname:
+        language: en
+        script: Latn
+        content: Butcher
+      completename:
+        language: en
+        script: Latn
+        content: Zack Butcher
+    affiliation:
+    - organization:
+        name:
+        - content: Tetrate
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: James
+      surname:
+        language: en
+        script: Latn
+        content: Callaghan
+      completename:
+        language: en
+        script: Latn
+        content: James Callaghan
+    affiliation:
+    - organization:
+        name:
+        - content: control-plane.io
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: proxy model
+- vocab:
+    content: data plane architecture
+- vocab:
+    content: service mesh
+- vocab:
+    content: threat profile
+- vocab:
+    content: cloud-native application
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2024-07-19'
+    to: '2024-09-03'

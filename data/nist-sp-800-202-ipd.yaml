@@ -1,11 +1,11 @@
 ---
 id: NISTSP800202ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Quick Start Guide for Populating Mobile Test Devices
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/202/ipd
@@ -14,10 +14,117 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2018-03-26'
+- type: obsoleted
+  at: '2018-05-10'
 - type: issued
-  at: 2018-03
+  at: '2018-03-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Richard
+      surname:
+        language: en
+        script: Latn
+        content: Ayers
+      completename:
+        language: en
+        script: Latn
+        content: Richard P. Ayers
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Benjamin
+      surname:
+        language: en
+        script: Latn
+        content: Livelsberger
+      completename:
+        language: en
+        script: Latn
+        content: Benjamin Livelsberger
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Barbara
+      surname:
+        language: en
+        script: Latn
+        content: Guttman
+      completename:
+        language: en
+        script: Latn
+        content: Barbara Guttman
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2018'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: Computer Forensic Tool Testing
+- vocab:
+    content: digital forensics
+- vocab:
+    content: federated testing
+- vocab:
+    content: mobile forensics
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2018-03-26'
+    to: '2018-04-25'

@@ -1,11 +1,11 @@
 ---
 id: NISTSP180016ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
-  content: Securing Web Transactions
-  type: title-main
+  content: Securing Web Transactions - TLS Server Certificate Management
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/1800/16/ipd
@@ -14,10 +14,159 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2019-07-17'
+- type: obsoleted
+  at: '2020-06-16'
 - type: issued
-  at: 2019-07
+  at: '2019-07-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Murugiah
+      surname:
+        language: en
+        script: Latn
+        content: Souppaya
+      completename:
+        language: en
+        script: Latn
+        content: Murugiah P. Souppaya
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: William
+      surname:
+        language: en
+        script: Latn
+        content: Haag
+      addition:
+      - language: en
+        script: Latn
+        content: Jr.
+      completename:
+        language: en
+        script: Latn
+        content: William Haag Jr.
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Paul
+      surname:
+        language: en
+        script: Latn
+        content: Turner
+      completename:
+        language: en
+        script: Latn
+        content: Paul Turner
+    affiliation:
+    - organization:
+        name:
+        - content: Venafi
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: William
+      surname:
+        language: en
+        script: Latn
+        content: Barker
+      completename:
+        language: en
+        script: Latn
+        content: William C. Barker
+    affiliation:
+    - organization:
+        name:
+        - content: Dakota Consulting
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: authentication
+- vocab:
+    content: certificate
+- vocab:
+    content: cryptography
+- vocab:
+    content: identity
+- vocab:
+    content: key
+- vocab:
+    content: key management
+- vocab:
+    content: PKI
+- vocab:
+    content: private key
+- vocab:
+    content: public key
+- vocab:
+    content: public key infrastructure
+- vocab:
+    content: server
+- vocab:
+    content: signature
+- vocab:
+    content: TLS
+- vocab:
+    content: Transport Layer Security
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2019-07-17'
+    to: '2019-09-13'

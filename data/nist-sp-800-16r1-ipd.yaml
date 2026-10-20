@@ -1,0 +1,128 @@
+---
+id: NISTSP80016r1ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Information Security Training Requirements - A Role- and Performance-Based Model
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/16/r1/ipd
+docidentifier:
+- content: NIST SP 800-16r1 ipd
+  type: NIST
+  primary: true
+date:
+- type: published
+  at: '2009-03-20'
+- type: obsoleted
+  at: '2013-10-24'
+- type: issued
+  at: '2009-03-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Mark
+      surname:
+        language: en
+        script: Latn
+        content: Wilson
+      completename:
+        language: en
+        script: Latn
+        content: Mark Wilson
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kevin
+      surname:
+        language: en
+        script: Latn
+        content: Stine
+      completename:
+        language: en
+        script: Latn
+        content: Kevin M. Stine
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Pauline
+      surname:
+        language: en
+        script: Latn
+        content: Bowen
+      completename:
+        language: en
+        script: Latn
+        content: Pauline Bowen
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+edition:
+  content: Revision 1
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: information security
+- vocab:
+    content: role-based training
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2009-03-20'
+    to: '2009-06-26'

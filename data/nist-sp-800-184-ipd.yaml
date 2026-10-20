@@ -1,11 +1,11 @@
 ---
 id: NISTSP800184ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
   content: Guide for Cybersecurity Event Recovery
-  type: title-main
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/800/184/ipd
@@ -14,10 +14,187 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2016-06-06'
+- type: obsoleted
+  at: '2016-12-22'
 - type: issued
-  at: 2016-06
+  at: '2016-06-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Bartock
+      completename:
+        language: en
+        script: Latn
+        content: Michael Bartock
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jeffrey
+      surname:
+        language: en
+        script: Latn
+        content: Cichonski
+      completename:
+        language: en
+        script: Latn
+        content: Jeffrey A. Cichonski
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Murugiah
+      surname:
+        language: en
+        script: Latn
+        content: Souppaya
+      completename:
+        language: en
+        script: Latn
+        content: Murugiah P. Souppaya
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Matthew
+      surname:
+        language: en
+        script: Latn
+        content: Smith
+      completename:
+        language: en
+        script: Latn
+        content: Matthew C. Smith
+    affiliation:
+    - organization:
+        name:
+        - content: G2
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Gregory
+      surname:
+        language: en
+        script: Latn
+        content: Witte
+      completename:
+        language: en
+        script: Latn
+        content: Gregory A. Witte
+    affiliation:
+    - organization:
+        name:
+        - content: G2
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Karen
+      surname:
+        language: en
+        script: Latn
+        content: Scarfone
+      completename:
+        language: en
+        script: Latn
+        content: Karen A. Scarfone
+    affiliation:
+    - organization:
+        name:
+        - content: Scarfone Cybersecurity
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: cybersecurity
+- vocab:
+    content: Cybersecurity Framework (CSF)
+- vocab:
+    content: Cybersecurity National Action Plan (CNAP)
+- vocab:
+    content: Cybersecurity Strategy and Implementation Plan (CSIP)
+- vocab:
+    content: metrics
+- vocab:
+    content: planning
+- vocab:
+    content: recovery
+- vocab:
+    content: cyber event
+- vocab:
+    content: resilience
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2016-06-06'
+    to: '2016-07-11'

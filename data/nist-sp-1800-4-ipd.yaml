@@ -1,11 +1,11 @@
 ---
 id: NISTSP18004ipd
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
-  content: Mobile Device Security
-  type: title-main
+  content: Mobile Device Security - Cloud and Hybrid Builds
 source:
 - type: src
   content: https://csrc.nist.gov/pubs/sp/1800/4/ipd
@@ -14,10 +14,163 @@ docidentifier:
   type: NIST
   primary: true
 date:
+- type: published
+  at: '2015-11-02'
+- type: obsoleted
+  at: '2019-02-21'
 - type: issued
-  at: 2015-11
+  at: '2015-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Joshua
+      surname:
+        language: en
+        script: Latn
+        content: Franklin
+      completename:
+        language: en
+        script: Latn
+        content: Joshua M. Franklin
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kevin
+      surname:
+        language: en
+        script: Latn
+        content: Bowler
+      completename:
+        language: en
+        script: Latn
+        content: Kevin Bowler
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Christopher
+      surname:
+        language: en
+        script: Latn
+        content: Brown
+      completename:
+        language: en
+        script: Latn
+        content: Christopher Brown
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Neil
+      surname:
+        language: en
+        script: Latn
+        content: McNab
+      completename:
+        language: en
+        script: Latn
+        content: Neil McNab
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Matthew
+      surname:
+        language: en
+        script: Latn
+        content: Steele
+      completename:
+        language: en
+        script: Latn
+        content: Matthew Steele
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '1'
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: mobile
+- vocab:
+    content: mobility management
+- vocab:
+    content: mobile security
+- vocab:
+    content: mobile device
+- vocab:
+    content: mobile device management
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2015-11-02'
+    to: '2016-01-08'

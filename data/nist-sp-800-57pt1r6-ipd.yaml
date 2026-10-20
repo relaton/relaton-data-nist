@@ -1,0 +1,154 @@
+---
+id: NISTSP80057pt1r6ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Recommendation for Key Management - Part 1 – General
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/57/pt1/r6/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-57pt1r6.ipd
+docidentifier:
+- content: NIST SP 800-57pt1r6 ipd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-57pt1r6.ipd
+  type: DOI
+date:
+- type: published
+  at: '2025-12-05'
+- type: issued
+  at: '2025-12-05'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Elaine
+      surname:
+        language: en
+        script: Latn
+        content: Barker
+      completename:
+        language: en
+        script: Latn
+        content: Elaine B. Barker
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: William
+      surname:
+        language: en
+        script: Latn
+        content: Barker
+      completename:
+        language: en
+        script: Latn
+        content: William C. Barker
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+edition:
+  content: Revision 6
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: active
+  iteration: '1'
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: archive
+- vocab:
+    content: authentication
+- vocab:
+    content: authorization
+- vocab:
+    content: availability
+- vocab:
+    content: backup
+- vocab:
+    content: compromise
+- vocab:
+    content: confidentiality
+- vocab:
+    content: cryptographic key
+- vocab:
+    content: cryptographic module
+- vocab:
+    content: digital signature
+- vocab:
+    content: eXtendable-Output Function
+- vocab:
+    content: hash function
+- vocab:
+    content: hashing method
+- vocab:
+    content: key agreement
+- vocab:
+    content: key management
+- vocab:
+    content: key recovery
+- vocab:
+    content: keying material
+- vocab:
+    content: key transport
+- vocab:
+    content: private key
+- vocab:
+    content: public key
+- vocab:
+    content: quantum-resistant
+- vocab:
+    content: secret key
+- vocab:
+    content: security category
+- vocab:
+    content: security strength
+- vocab:
+    content: trust anchor
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2025-12-05'
+    to: '2026-02-05'

@@ -1,0 +1,192 @@
+---
+id: NISTSP80090C3pd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Recommendation for Random Bit Generator (RBG) Constructions
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/90/c/3pd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-90C.3pd
+docidentifier:
+- content: NIST SP 800-90C 3pd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-90C.3pd
+  type: DOI
+date:
+- type: published
+  at: '2022-09-07'
+- type: obsoleted
+  at: '2024-07-03'
+- type: issued
+  at: '2022-09-07'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Elaine
+      surname:
+        language: en
+        script: Latn
+        content: Barker
+      completename:
+        language: en
+        script: Latn
+        content: Elaine B. Barker
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: John
+      surname:
+        language: en
+        script: Latn
+        content: Kelsey
+      completename:
+        language: en
+        script: Latn
+        content: John M. Kelsey
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kerry
+      surname:
+        language: en
+        script: Latn
+        content: McKay
+      completename:
+        language: en
+        script: Latn
+        content: Kerry A. McKay
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Allen
+      surname:
+        language: en
+        script: Latn
+        content: Roginsky
+      completename:
+        language: en
+        script: Latn
+        content: Allen Roginsky
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      prefix:
+      - language: en
+        script: Latn
+        content: Dr.
+      forename:
+      - language: en
+        script: Latn
+        content: Meltem
+      surname:
+        language: en
+        script: Latn
+        content: Sönmez Turan
+      completename:
+        language: en
+        script: Latn
+        content: Meltem Sönmez Turan
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: withdrawn
+  iteration: '3'
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: deterministic random bit generator (DRBG)
+- vocab:
+    content: entropy
+- vocab:
+    content: entropy source
+- vocab:
+    content: random bit generator (RBG)
+- vocab:
+    content: randomness source
+- vocab:
+    content: RBG1 construction
+- vocab:
+    content: RBG2 construction
+- vocab:
+    content: RBG3 construction
+- vocab:
+    content: subordinate DRBG (sub-DRBG)
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2022-09-07'
+    to: '2022-12-07'

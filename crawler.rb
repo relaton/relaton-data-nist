@@ -2,10 +2,12 @@
 
 require 'relaton/nist/data_fetcher'
 
-FileUtils.rm_rf('data')
+# Incremental crawl: keep data/ and let the fetcher skip byte-identical
+# records, then prune the files this crawl no longer produces (the shared
+# workflow records those as tombstones). The index is rebuilt from scratch.
 FileUtils.rm Dir.glob('index*')
 
-Relaton::Nist::DataFetcher.fetch # output:'dir'
+Relaton::Nist::DataFetcher.fetch(prune: true) # output:'dir'
 
 index = Relaton::Index.find_or_create :nist, file: "#{Relaton::Nist::INDEXFILE}.yaml",
                                       pubid_class: ::Pubid::Nist::Identifier

@@ -9,24 +9,24 @@ title:
   type: title-main
 - language: en
   script: Latn
-  content: The National Bureau of Standards becomes the National Institute of Standards and Technology 1969-1993
+  content: supplement to appendices 1994-2009
   type: title-part
 - language: en
   script: Latn
-  content: Responding to national needs - The National Bureau of Standards becomes the National Institute of Standards and Technology 1969-1993
+  content: Responding to national needs - supplement to appendices 1994-2009
   type: main
 source:
 - type: doi
-  content: https://doi.org/10.6028/NIST.SP.955
+  content: https://doi.org/10.6028/NIST.SP.955.Suppl
 docidentifier:
 - content: NIST SP 955
   type: NIST
   primary: true
-- content: NIST.SP.955
+- content: NIST.SP.955.Suppl
   type: DOI
 date:
 - type: issued
-  at: '2000'
+  at: '2010'
 contributor:
 - role:
   - type: author
@@ -34,15 +34,19 @@ contributor:
     name:
       completename:
         language: en
-        content: Schooley, James F.
+        content: Martin, Keith.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Silcox, Barbara P.
 - role:
   - type: publisher
   organization:
     name:
     - content: National Institute of Standards and Technology (U.S.)
-    identifier:
-    - type: uri
-      content: https://id.loc.gov/authorities/names/n88112126
 series:
 - title:
   - content: NIST special publication; NIST special pub; NIST SP

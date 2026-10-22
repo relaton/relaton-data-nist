@@ -1,0 +1,158 @@
+---
+id: NISTSP800100r1ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Information Security Handbook - A Guide for Executive Leadership
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/100/r1/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-100r1.ipd
+docidentifier:
+- content: NIST SP 800-100r1 ipd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-100r1.ipd
+  type: DOI
+date:
+- type: published
+  at: '2026-10-21'
+- type: issued
+  at: '2026-10-21'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Isabel
+      surname:
+        language: en
+        script: Latn
+        content: Van Wyk
+      completename:
+        language: en
+        script: Latn
+        content: Isabel Van Wyk
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jeff
+      surname:
+        language: en
+        script: Latn
+        content: Brewer
+      completename:
+        language: en
+        script: Latn
+        content: Jeff Brewer
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jeremy
+      surname:
+        language: en
+        script: Latn
+        content: Licata
+      completename:
+        language: en
+        script: Latn
+        content: Jeremy Licata
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jeffrey
+      surname:
+        language: en
+        script: Latn
+        content: Marron
+      completename:
+        language: en
+        script: Latn
+        content: Jeffrey Marron
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+edition:
+  content: Revision 1
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: active
+  iteration: '1'
+copyright:
+- from: '2026'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: Cybersecurity
+- vocab:
+    content: cybersecurity supply chain risk management (C-SCRM)
+- vocab:
+    content: governance
+- vocab:
+    content: "NIST\r\nCybersecurity Framework (CSF)"
+- vocab:
+    content: risk management
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2026-10-21'
+    to: '2026-12-04'

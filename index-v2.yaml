@@ -60898,7 +60898,7 @@
     number: '54'
     publisher: NBS
     series: CIRC
-    index: indx
+    index: index
   :file: data/nbs-circ-54indx.yaml
 - :id:
     _type: pubid:nist:circular
@@ -70120,7 +70120,7 @@
     number: '63'
     publisher: NBS
     series: NSRDS
-    index: indx
+    index: index
   :file: data/nbs-nsrds-63indx.yaml
 - :id:
     _type: pubid:nist:letter-circular
@@ -98732,6 +98732,19 @@
     series: SP
     subseries: '800'
   :file: data/nist-sp-800-100.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 800-100
+    edition:
+      type: r
+      id: '1'
+    publisher: NIST
+    stage:
+      id: i
+      type: pd
+    series: SP
+    subseries: '800'
+  :file: data/nist-sp-800-100r1-ipd.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-101

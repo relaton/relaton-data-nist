@@ -19,9 +19,218 @@ docidentifier:
   type: DOI
 date:
 - type: published
-  at: '2026-07-24'
+  at: '2026-10-22'
 - type: issued
-  at: '2026-07-24'
+  at: '2026-10-22'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Stephen
+      surname:
+        language: en
+        script: Latn
+        content: Quinn
+      completename:
+        language: en
+        script: Latn
+        content: Stephen D. Quinn
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Julie
+      surname:
+        language: en
+        script: Latn
+        content: Chua
+      completename:
+        language: en
+        script: Latn
+        content: Julie Chua
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Daniel
+      surname:
+        language: en
+        script: Latn
+        content: Eliot
+      completename:
+        language: en
+        script: Latn
+        content: Daniel L. Eliot
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Nahla
+      surname:
+        language: en
+        script: Latn
+        content: Ivy
+      completename:
+        language: en
+        script: Latn
+        content: Nahla Ivy
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Matthew
+      surname:
+        language: en
+        script: Latn
+        content: Barrett
+      completename:
+        language: en
+        script: Latn
+        content: Matthew P. Barrett
+    affiliation:
+    - organization:
+        name:
+        - content: CyberESI Consulting Group
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Larry
+      surname:
+        language: en
+        script: Latn
+        content: Feldman
+      completename:
+        language: en
+        script: Latn
+        content: Larry Feldman
+    affiliation:
+    - organization:
+        name:
+        - content: Huntington Ingalls Industries
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Daniel
+      surname:
+        language: en
+        script: Latn
+        content: Topper
+      completename:
+        language: en
+        script: Latn
+        content: Daniel Topper
+    affiliation:
+    - organization:
+        name:
+        - content: Huntington Ingalls Industries
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: R.
+      surname:
+        language: en
+        script: Latn
+        content: Gardner
+      completename:
+        language: en
+        script: Latn
+        content: R. K. Gardner
+    affiliation:
+    - organization:
+        name:
+        - content: New World Technology Partners
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Karen
+      surname:
+        language: en
+        script: Latn
+        content: Kent
+      completename:
+        language: en
+        script: Latn
+        content: Karen A. Kent
+    affiliation:
+    - organization:
+        name:
+        - content: Trusted Cyber Annex
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Gregory
+      surname:
+        language: en
+        script: Latn
+        content: Witte
+      completename:
+        language: en
+        script: Latn
+        content: Gregory A. Witte
+    affiliation:
+    - organization:
+        name:
+        - content: Palydin LLC
 edition:
   content: Revision 1
 language:
@@ -48,8 +257,32 @@ place:
 - city: Gaithersburg
   region:
   - iso: MD
+keyword:
+- vocab:
+    content: enterprise risk management (ERM)
+- vocab:
+    content: enterprise risk profile (ERP)
+- vocab:
+    content: enterprise risk register (ERR)
+- vocab:
+    content: information and communications technology (ICT)
+- vocab:
+    content: ICT risk
+- vocab:
+    content: ICT risk management (ICTRM)
+- vocab:
+    content: ICT risk measurement
+- vocab:
+    content: risk appetite
+- vocab:
+    content: risk register
+- vocab:
+    content: risk tolerance
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
   flavor: nist
+  commentperiod:
+    from: '2026-10-22'
+    to: '2026-12-07'

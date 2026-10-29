@@ -1,0 +1,53 @@
+---
+id: NISTSP800240ipd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Recommendations for Digital Signature Algorithms
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/800/240/ipd
+- type: doi
+  content: https://doi.org/10.6028/NIST.SP.800-240.ipd
+docidentifier:
+- content: NIST SP 800-240 ipd
+  type: NIST
+  primary: true
+- content: NIST.SP.800-240.ipd
+  type: DOI
+date:
+- type: published
+  at: '2026-10-28'
+- type: issued
+  at: '2026-10-28'
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: active
+  iteration: '1'
+copyright:
+- from: '2026'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist

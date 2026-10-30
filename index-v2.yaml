@@ -1519,6 +1519,24 @@
     series: AMS
   :file: data/nist-ams-100-1.yaml
 - :id:
+    _type: pubid:nist:identifier
+    number: 100-1
+    publisher: NIST
+    series: AI
+    translation_component:
+      code: jpn
+    translation: "(jpn)"
+  :file: data/nist-ai-100-1-jpn.yaml
+- :id:
+    _type: pubid:nist:identifier
+    number: 100-1
+    publisher: NIST
+    series: AI
+    translation_component:
+      code: ara
+    translation: "(ara)"
+  :file: data/nist-ai-100-1-ara.yaml
+- :id:
     _type: pubid:nist:federal-information-processing-standards
     number: 100-1
     publisher: NBS
@@ -100846,6 +100864,32 @@
 - :id:
     _type: pubid:nist:special-publication
     number: 800-181
+    edition:
+      type: r
+      id: '1'
+    publisher: NIST
+    series: SP
+    subseries: '800'
+    translation_component:
+      code: ukr
+    translation: "(ukr)"
+  :file: data/nist-sp-800-181r1-ukr.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 800-181
+    edition:
+      type: r
+      id: '1'
+    publisher: NIST
+    series: SP
+    subseries: '800'
+    translation_component:
+      code: slo
+    translation: "(slo)"
+  :file: data/nist-sp-800-181r1-slo.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 800-181
     publisher: NIST
     series: SP
     subseries: '800'
@@ -100863,6 +100907,16 @@
       code: por
     translation: "(por)"
   :file: data/nist-sp-800-181r1-por.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 800-181
+    publisher: NIST
+    series: SP
+    subseries: '800'
+    translation_component:
+      code: ukr
+    translation: "(ukr)"
+  :file: data/nist-sp-800-181-ukr.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-181
@@ -101636,6 +101690,36 @@
     series: SP
     subseries: '800'
   :file: data/nist-sp-800-218.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 800-218
+    publisher: NIST
+    series: SP
+    subseries: '800'
+    translation_component:
+      code: por
+    translation: "(por)"
+  :file: data/nist-sp-800-218-por.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 800-218
+    publisher: NIST
+    series: SP
+    subseries: '800'
+    translation_component:
+      code: spa
+    translation: "(spa)"
+  :file: data/nist-sp-800-218-spa.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 800-218
+    publisher: NIST
+    series: SP
+    subseries: '800'
+    translation_component:
+      code: fre
+    translation: "(fre)"
+  :file: data/nist-sp-800-218-fre.yaml
 - :id:
     _type: pubid:nist:special-publication
     number: 800-218

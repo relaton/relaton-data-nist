@@ -5,15 +5,7 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Simulating the effect of beamed ceilings on smoke flow
-  type: title-main
-- language: en
-  script: Latn
-  content: Part I. Comparison of numerical and experimental results
-  type: title-part
-- language: en
-  script: Latn
-  content: Simulating the effect of beamed ceilings on smoke flow - Part I. Comparison
+  content: Simulating the effect of beamed ceilings on smoke flow, part I. comparison
     of numerical and experimental results
   type: main
 source:
@@ -49,12 +41,15 @@ contributor:
     name:
       completename:
         language: en
-        content: Klote, John H.
+        content: Klote, John J.
 - role:
   - type: publisher
   organization:
     name:
     - content: National Institute of Standards and Technology (U.S.)
+    identifier:
+    - type: uri
+      content: https://id.loc.gov/authorities/names/n88112126
 series:
 - title:
   - content: NISTIR; NIST IR; NIST interagency report; NIST internal report

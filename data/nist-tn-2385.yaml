@@ -1,0 +1,62 @@
+---
+id: NISTTN2385
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: On concrete spalling – Bleve or no Bleve
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2385
+docidentifier:
+- content: NIST TN 2385
+  type: NIST
+  primary: true
+- content: NIST.TN.2385
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Yang, Jiann C.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-2024-0899"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: The BLEVE (boiling liquid expanding vapor explosion) hypothesis on fire-induced
+    spalling of concrete was examined using superheated liquid theory. Water trapped
+    within a heated interior region of concrete was used as an idealized system to
+    determine the thermodynamic conditions of water that subsequently would lead to
+    potential occurrence of a BLEVE event. The thermodynamic states that favor BLEVE
+    was identified and delineated in the P–T phase diagram of water and was shown
+    to be highly constrained to narrow ranges of temperature and the amount of water
+    trapped (fill density) in the heated region.
+series:
+- title:
+  - content: NIST technical note
+  number: '2385'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist

@@ -1,0 +1,130 @@
+---
+id: NISTAI2003
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: ARIA evaluation planning manual
+  type: title-main
+- language: en
+  script: Latn
+  content: elements of ARIA-style AI evaluations
+  type: title-part
+- language: en
+  script: Latn
+  content: ARIA evaluation planning manual - elements of ARIA-style AI evaluations
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.AI.200-3
+docidentifier:
+- content: NIST AI 200-3
+  type: NIST
+  primary: true
+- content: NIST.AI.200-3
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Jensen, Theodore
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0003-4969-4456"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Przybocki, Mark.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0008-8736-9500"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Kodwani, Monica.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0006-5766-0968"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Greene, Kristen.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0001-7034-3672"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Hall, Johnston Patrick.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0009-0260-7571"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Amironesei, Razvan.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-3497-0641"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Greenberg, Craig.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-6005-8189"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Information Technology Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: 'This document outlines the components for evaluating an AI application
+    using the NIST Assessing Risks and Impacts of AI (ARIA) approach. The ARIA Evaluation
+    Planning Manual is designed to illustrate the various elements of conducting a
+    holistic AI evaluation and can bemused as a first step in developing new, customized
+    AI evaluations. The ARIA approach assesses an AI system’s trustworthiness by combining
+    data from three types of testing: Model Testing, Red Teaming, and User Testing.
+    This manual lists the necessary evaluation elements and provides links to available
+    resources for developing materials and infrastructure.'
+series:
+- title:
+  - content: NIST trustworthy and responsible AI
+  number: 200-3
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist

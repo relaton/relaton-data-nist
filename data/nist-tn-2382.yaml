@@ -1,0 +1,92 @@
+---
+id: NISTTN2382
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Evaluation and modification of commercial equipment to evaluate air permeability
+    of concrete
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.TN.2382
+docidentifier:
+- content: NIST TN 2382
+  type: NIST
+  primary: true
+- content: NIST.TN.2382
+  type: DOI
+date:
+- type: issued
+  at: '2026'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Watson, Stephanie S.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0003-2001-5592"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Carey, Ashley.
+    identifier:
+    - type: uri
+      content: "(orcid)0000-0002-8741-258X"
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        language: en
+        content: Johnsson, Benjamin.
+    identifier:
+    - type: uri
+      content: "(orcid)0009-0008-8513-0483"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+    - content: Engineering Laboratory.
+abstract:
+- language: en
+  script: Latn
+  content: Pyrrhotite in concrete aggregate can lead to severe cracking due to expansion
+    reactions. Most research has focused on screening methods and mix designs that
+    lower the permeability of new structures. However, there is a need to evaluate
+    the feasibility of mitigation techniques for existing structures containing pyrrhotite
+    aggregate but have not yet shown signs of deterioration. Efforts at NIST have
+    focused on evaluating the potential of concrete sealants, which can reduce or
+    entirely eliminate the ingress of water and air into the concrete. Since pyrrhotite
+    needs both oxygen and water to react, one or both components can be slowed to
+    delay pyrrhotite oxidation for some amount of time. One methodology being vetted
+    as a potential test to characterize the performance of mitigating sealants is
+    air permeability. This report details efforts to validate changes made to a commercially
+    available air permeameter to better facilitate NIST’s needs. This validation testing
+    was generally conducted in two parts. Part 1 was focused on validating as-received
+    equipment for use with 152.4 mm (6-inch) diameter concrete cores, which is the
+    size the commercially available set-up is made to test. Part 2 was focused on
+    validating retrofitting the equipment to test 101.6 mm (4-inch) diameter cores,
+    which is the common diameter used for laboratory and field-cast concrete specimens.
+series:
+- title:
+  - content: NIST technical note
+  number: '2382'
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist

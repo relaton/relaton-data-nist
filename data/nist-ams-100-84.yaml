@@ -5,8 +5,7 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: On the physical interpretation of adjoint methods for sensitivity analysis,
-    part III
+  content: On the physical interpretation of adjoint methods for sensitivity analysis, part III
   type: title-main
 - language: en
   script: Latn
@@ -14,8 +13,7 @@ title:
   type: title-part
 - language: en
   script: Latn
-  content: On the physical interpretation of adjoint methods for sensitivity analysis,
-    part III - nonlinear systems
+  content: On the physical interpretation of adjoint methods for sensitivity analysis, part III - nonlinear systems
   type: main
 source:
 - type: doi
@@ -49,26 +47,7 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: 'This report, the third in a series, extends the physical interpretation
-    of the adjoint method to the general class of nonlinear systems. Part I established
-    the adjoint as a physical dual governed by spatial reciprocity, while Part II
-    identified it as a reversed physical system governed by spatial and temporal causality.
-    Building on these findings, we demonstrate that state-dependent nonlinearity does
-    not fundamentally alter this interpretation. In-stead, through the mechanism of
-    linearization, the nonlinear primal problem spawns a strictly linear adjoint system
-    that describes the “frozen” physics of the converged state. Derived from the Tangent
-    Linear Model, this frozen adjoint system perfectly generalizes the behaviors seen
-    in earlier reports: it acts reciprocally if the local linearized physics is symmetric,
-    and as a reversed system if it involves directional transport. By analyzing model
-    problems in temperature-dependent heat conduction and biokinetic reaction-diffusion,
-    we illustrate how this frozen landscape dictates the transport of sensitivities
-    and can even create localized “sensitivity shields.” We present unified derivations
-    for both continuous and discrete frameworks, showing that the Jacobian matrix
-    is simply the discrete manifestation of the linearized physical operator, and
-    we outline the practical trade-offs between physical insight and gradient consistency.
-    Ultimately, the analysis confirms that the adjoint variable remains an influence
-    map or integral kernel, propagating receptivity backward through the specific
-    local causal pathways established by the nonlinear state.'
+  content: 'This report, the third in a series, extends the physical interpretation of the adjoint method to the general class of nonlinear systems. Part I established the adjoint as a physical dual governed by spatial reciprocity, while Part II identified it as a reversed physical system governed by spatial and temporal causality. Building on these findings, we demonstrate that state-dependent nonlinearity does not fundamentally alter this interpretation. In-stead, through the mechanism of linearization, the nonlinear primal problem spawns a strictly linear adjoint system that describes the “frozen” physics of the converged state. Derived from the Tangent Linear Model, this frozen adjoint system perfectly generalizes the behaviors seen in earlier reports: it acts reciprocally if the local linearized physics is symmetric, and as a reversed system if it involves directional transport. By analyzing model problems in temperature-dependent heat conduction and biokinetic reaction-diffusion, we illustrate how this frozen landscape dictates the transport of sensitivities and can even create localized “sensitivity shields.” We present unified derivations for both continuous and discrete frameworks, showing that the Jacobian matrix is simply the discrete manifestation of the linearized physical operator, and we outline the practical trade-offs between physical insight and gradient consistency. Ultimately, the analysis confirms that the adjoint variable remains an influence map or integral kernel, propagating receptivity backward through the specific local causal pathways established by the nonlinear state.'
 series:
 - title:
   - content: NIST advanced manufacturing series

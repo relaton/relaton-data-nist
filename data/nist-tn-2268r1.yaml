@@ -61,8 +61,8 @@ abstract:
   content: The Flexible Resource Controller (FRC) is a multiple-objective controller
     that manages residential heat pumps (HP), electric water heaters (DHW), electric
     vehicle (EV) charging, and batteries. The first objective is to manage energy
-    use to save customers money—charging storage and EVs when electricity prices are
-    low and avoiding energy use (or discharging the battery) when prices are high,
+    use to save customers money—charging storage and EVs when electricity prices
+    are low and avoiding energy use (or discharging the battery) when prices are high,
     while maintaining thermal comfort. A second objective is to implement reactive
     power control at the battery inverter based on local voltage levels (Volt-VAr)
     to minimize voltage excursions outside of acceptable limits. The FRC has been

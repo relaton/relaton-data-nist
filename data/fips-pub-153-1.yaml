@@ -1,0 +1,40 @@
+---
+id: FIPSPUB1531
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Programmer's hierarchial interactive graphics sytem (PHIGS)
+  type: main
+source:
+- type: doi
+  content: https://doi.org/10.6028/NIST.FIPS.153-1
+docidentifier:
+- content: FIPS PUB 153-1
+  type: NIST
+  primary: true
+- content: NIST.FIPS.153-1
+  type: DOI
+date:
+- type: issued
+  at: '1995'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: National Institute of Standards and Technology (U.S.)
+series:
+- title:
+  - content: Federal information processing standards publication; FIPS
+  number: 153-1
+place:
+- city: Washington
+  region:
+  - iso: D
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist

@@ -1,0 +1,236 @@
+---
+id: NISTSP1800422pd
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Digital Identities – Mobile Driver’s License (mDL)
+source:
+- type: src
+  content: https://csrc.nist.gov/pubs/sp/1800/42/2pd
+docidentifier:
+- content: NIST SP 1800-42 2pd
+  type: NIST
+  primary: true
+date:
+- type: published
+  at: '2026-11-19'
+- type: issued
+  at: '2026-11-19'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Yee-Yin
+      surname:
+        language: en
+        script: Latn
+        content: Choong
+      completename:
+        language: en
+        script: Latn
+        content: Yee-Yin Choong
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: William
+      surname:
+        language: en
+        script: Latn
+        content: Fisher
+      completename:
+        language: en
+        script: Latn
+        content: William J. Fisher
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ryan
+      surname:
+        language: en
+        script: Latn
+        content: Galluzzo
+      completename:
+        language: en
+        script: Latn
+        content: Ryan J. Galluzzo
+    affiliation:
+    - organization:
+        name:
+        - content: National Institute of Standards and Technology
+        abbreviation:
+          content: NIST
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jason
+      surname:
+        language: en
+        script: Latn
+        content: Ajmo
+      completename:
+        language: en
+        script: Latn
+        content: Jason G. Ajmo
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Christopher
+      surname:
+        language: en
+        script: Latn
+        content: Brown
+      completename:
+        language: en
+        script: Latn
+        content: Christopher Brown
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Sudhi
+      surname:
+        language: en
+        script: Latn
+        content: Umarji
+      completename:
+        language: en
+        script: Latn
+        content: Sudhi Umarji
+    affiliation:
+    - organization:
+        name:
+        - content: The MITRE Corporation
+        abbreviation:
+          content: MITRE
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ellen
+      surname:
+        language: en
+        script: Latn
+        content: Nadeau
+      completename:
+        language: en
+        script: Latn
+        content: Ellen M. Nadeau
+    affiliation:
+    - organization:
+        name:
+        - content: Coralline
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Heather
+      surname:
+        language: en
+        script: Latn
+        content: Flanagan
+      completename:
+        language: en
+        script: Latn
+        content: Heather Flanagan
+    affiliation:
+    - organization:
+        name:
+        - content: Spherical Cow Consulting
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: draft-public
+  substage:
+    content: active
+  iteration: '2'
+copyright:
+- from: '2026'
+  owner:
+  - organization:
+      uri:
+      - content: www.nist.gov
+      name:
+      - content: National Institute of Standards and Technology
+      abbreviation:
+        content: NIST
+place:
+- city: Gaithersburg
+  region:
+  - iso: MD
+keyword:
+- vocab:
+    content: authentication
+- vocab:
+    content: credentials
+- vocab:
+    content: identity
+- vocab:
+    content: mobile driver’s license (mDL)
+- vocab:
+    content: verifiable digital credentials
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: nist
+  commentperiod:
+    from: '2026-11-19'
+    to: '2026-12-20'

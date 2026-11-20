@@ -22460,6 +22460,16 @@
     number: 1800-42
     publisher: NIST
     stage:
+      id: '2'
+      type: pd
+    series: SP
+    subseries: '1800'
+  :file: data/nist-sp-1800-42-2pd.yaml
+- :id:
+    _type: pubid:nist:special-publication
+    number: 1800-42
+    publisher: NIST
+    stage:
       id: i
       type: pd
     series: SP

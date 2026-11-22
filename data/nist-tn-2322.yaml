@@ -43,9 +43,9 @@ abstract:
   content: This paper considers the ill-posed data assimilation problem associated
     with hyperbolic/parabolic systems describing 2D coupled sound and heat flow. Given
     hypothetical data at time 𝑇 > 0, that may not correspond to an actual solution
-    of the dissipative system at time 𝑇, initial data at time 𝑡 = 0 are sought
-    that can evolve, through the dissipative system, into a useful approximation to
-    the desired data at time 𝑇. That may not always be possible. A stabilized explicit
+    of the dissipative system at time 𝑇, initial data at time 𝑡 = 0 are sought that
+    can evolve, through the dissipative system, into a useful approximation to the
+    desired data at time 𝑇. That may not always be possible. A stabilized explicit
     finite difference scheme, marching backward in time, is developed and applied
     to nonlinear examples in non-rectangular regions. Stabilization is achieved by
     applying a compensating smoothing operator at each time step, to quench the instability.
